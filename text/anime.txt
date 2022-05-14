@@ -1,0 +1,7 @@
+//	アニメ定義
+//	ラベル:filename,time[,filename,time....],goto,index
+//	ラベル:filename,time[,filename,time....],end,0
+//	indexは必ず2の倍数になる
+anime1:cat1,100,cat2,100,cat3,100,cat4,100,cat5,100,cat6,100,goto,0
+anime2:cat6,100,cat5,100,cat4,100,cat3,100,cat2,100,cat1,100,goto,8
+anime3:cat6,100,cat5,100,cat4,100,cat3,100,cat2,100,cat1,100,end,0

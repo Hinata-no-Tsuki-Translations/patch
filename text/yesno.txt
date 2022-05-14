@@ -1,0 +1,117 @@
+//■Yes/No ダイアログ
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆背景（各ダイアログ別指定）※必須ではありません
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
+//【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
+//	クイックロードしますか		「クイックロード」確認ダイアログ
+//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
+//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
+//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	セーブしますか			「セーブ」確認ダイアログ
+//	ロードしますか			「ロード」確認ダイアログ
+//	終了しますか？			「ゲーム終了」確認ダイアログ
+//【image】背景画像
+//【width】ダイアログ全体の横幅(0を設定すると自動で背景画像に合わせます)
+//【height】ダイアログ全体の縦幅(0を設定すると自動で背景画像に合わせます)
+
+//image:【caption】	【image】	【width】	【height】
+image:クイックロードしますか？		dialogimage	0	0
+image:選択肢までスキップしますか？	dialogimage	0	0
+image:メニューに戻りますか？		dialogimage	0	0
+image:タイトルに戻りますか？		dialogimage	0	0
+image:セーブしますか？			dialogimage	0	0
+image:ロードしますか？			dialogimage	0	0
+image:終了しますか？			dialogimage	0	0
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆背景（デフォルト）※必須
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//上で設定していないダイアログ設定はここの設定が使用されます
+//image:	【image】	【width】	【height】
+image:	dialogimage	0	0
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆キャプション（各ダイアログ別指定）※必須ではありません
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
+//【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
+//	クイックロードしますか		「クイックロード」確認ダイアログ
+//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
+//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
+//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	セーブしますか			「セーブ」確認ダイアログ
+//	ロードしますか			「ロード」確認ダイアログ
+//	終了しますか？			「ゲーム終了」確認ダイアログ
+//【y】ダイアログ内におけるキャプション表示位置(y座標　センタリング表示されるので、x座標は必要ありません)
+//【color】キャプション文字色　透過情報つきカラー指定　16進数8ケタ
+//【fontsize】キャプション文字サイズ
+//【visible】キャプションを表示するかどうか(true=表示する、false=表示しない)
+
+//caption:【caption】	【y】	【color】	【fontsize】	【visible】
+caption:クイックロードしますか？	40	0x603813	20	true
+caption:選択肢までスキップしますか？	40	0x603813	20	true
+caption:メニューに戻りますか？		40	0x603813	20	true
+caption:タイトルに戻りますか？		40	0x603813	20	true
+caption:セーブしますか？		40	0x603813	20	true
+caption:ロードしますか？		40	0x603813	20	true
+caption:終了しますか？			40	0x603813	20	true
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆キャプション（デフォルト）※必須
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//上で設定していないダイアログ設定はここの設定が使用されます
+//caption:	【y】	【color】	【fontsize】	【visible】
+caption:		0x603813	20	true
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボタン（各ダイアログ別指定）※必須ではありません
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
+//【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
+//	クイックロードしますか		「クイックロード」確認ダイアログ
+//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
+//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
+//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	セーブしますか			「セーブ」確認ダイアログ
+//	ロードしますか			「ロード」確認ダイアログ
+//	終了しますか？			「ゲーム終了」確認ダイアログ
+//【tag】ボタンの種類
+//	yes	「はい」選択ボタンとして設定します
+//	no	「いいえ」選択ボタンとして設定します
+//【image】ボタン画像
+//【x】ダイアログ内におけるボタン表示位置(x座標)
+//【y】ダイアログ内におけるボタン表示位置(y座標)
+//【overSE】「サムネイルCG」にカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】「サムネイルCG」を押した際に鳴らすSEファイル名
+//【cursor】「サムネイルCG」にカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:【caption】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+button:クイックロードしますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:クイックロードしますか？		no		dialogbutton_no		230	94	void	void	void
+button:選択肢までスキップしますか？	yes		dialogbutton_yes	62	94	void	void	void
+button:選択肢までスキップしますか？	no		dialogbutton_no		230	94	void	void	void
+button:メニューに戻りますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:メニューに戻りますか？		no		dialogbutton_no		230	94	void	void	void
+button:タイトルに戻りますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:タイトルに戻りますか？		no		dialogbutton_no		230	94	void	void	void
+button:セーブしますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:セーブしますか？		no		dialogbutton_no		230	94	void	void	void
+button:ロードしますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:ロードしますか？		no		dialogbutton_no		230	94	void	void	void
+button:終了しますか？		yes		dialogbutton_yes	62	94	void	void	void
+button:終了しますか？		no		dialogbutton_no		230	94	void	void	void
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボタン（デフォルト）※必須
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//上で設定していないダイアログ設定はここの設定が使用されます
+//button:	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+button:	yes	dialogbutton_yes	65	96	void	void	void
+button:	no	dialogbutton_no		233	96	void	void	void

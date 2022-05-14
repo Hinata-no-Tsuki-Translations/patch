@@ -1,0 +1,73 @@
+//■タイトル画面設定
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆背景
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//image:	【画像ファイル名】
+image:	title
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボタン
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【page】
+//	normal	ゲームを起動して最初に表示される項目　通常、「はじめから」「つづきから」などが並びます
+//	extra	extraを選んだときに表示される項目　通常、「CG鑑賞」「BGM鑑賞」などが並びます
+//【id】
+//	ここで指定した数字は、ゲームスクリプトにおけるtフラグのインデックスに対応します(id:0はt0フラグ)
+//	例えば、【id】を3に設定したボタンを設置し、【visible】をfalseにしておきます(非表示になる)
+//	ゲームスクリプト中で「#set t3 1」のように対応するフラグをオンにすると、これが表示されるようになります
+//	ゲームをクリアしたときのみextraを表示させたい、などの状況で利用します
+//【tag】ボタンの種類です
+//	start		スクリプトを開始する(初めから、おまけシナリオなど)
+//	continue	ロード画面を開く
+//	cgmode		CGモード画面を開く
+//	scenemode	Sceneモード画面を開く
+//	bgmmode		BGMモード画面を開く
+//	config		設定画面を開く
+//	extra		extraメニューに切り替え
+//	return		通常メニューに切り替え
+//	exit		ゲーム終了
+//	url		urlをブラウザで開く
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+//【visible】ボタンを表示するか(true=表示する、false=表示しない)　対応するtフラグが1になると、自動でtrueになります
+//【object】設定した【tag】がstartかurlのときのみ設定できます
+//	【tag】start	スクリプト名
+//	【tag】url	URL
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【id】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】	【visible】	【object】
+button:	normal	 0	start		title_start		137	582	void	void	void	true	plo01
+button:	normal	 1	continue	title_continue	341	582	void	void	void	true	
+button:	normal	 2	config		title_config	545	582	void	void	void	true
+button:	normal	 3	extra		title_extra		748	582	void	void	void	true
+button:	normal	 4	exit		title_exit		952	582	void	void	void	true
+button:	extra	 5	cgmode		title_cgmode	239	582	void	void	void	true
+button:	extra	 6	scenemode	title_scenemode	443	582	void	void	void	true
+button:	extra	 7	bgmmode		title_bgmmode	647	582	void	void	void	true
+button:	extra	 8	return		title_return	851	582	void	void	void	true
+button:	normal	 9	start		title_start02	137	526	void	void	void	false	ext01
+
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆BGM
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//タイトルで鳴らすBGM（複数指定すると、いずれかをランダムに再生）
+//bgm:【file】
+bgm:bgm006
+//bgm:bgm02
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆タイトルコール
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//タイトルコール（複数指定すると、いずれかをランダムに再生）
+//voice:【file】
+//voice:***_title
+//voice:cv30711
