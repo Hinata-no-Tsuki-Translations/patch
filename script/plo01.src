@@ -1,7 +1,7 @@
 
-;#savetitle �ЂȂ��̂�
+;#savetitle ひなたのつき
 
-;�t���O���Z�b�g
+;フラグリセット
 #set f1 0
 #set f2 0
 #set f3 0
@@ -30,230 +30,230 @@
 
 #face on
 
-;�w�i�F�����i��j
+;背景：満月（夜）
 ;BG:BG01b_1
 #cg all clear
 #bg bg01b_1
 #wipe fade
 
-;�C���^�[�o��
-;BGMch2 amb009 �Đ�
+;インターバル
+;BGMch2 amb009 再生
 #bgvoice amb009
 
-�����������B
+風が吹いた。
 
 
-;���������G���t
-;�q�i�^
+;名も無きエルフ
+;ヒナタ
 #voice hina0001
-�y�H�H�H�z�u�������������A�������ɂ񂰂�̂������Ȃ񂾂����v
+【？？？】「すごいすごい、ここがにんげんのせかいなんだぁっ」
 
-���a�ȓe���т���Ǝ������΂��Ă��B
+臆病な兎がびくりと耳をそばだてた。
 
-�����ȓ��������͂������đ����ɔ�э��񂾁B
+小さな動物たちはこぞって巣穴に飛び込んだ。
 
-�ŏ��ɋC�Â����̂́A�g����邷�ׂ������Ȃ��Ǝ�Ȑ������������B
+最初に気づいたのは、身を守るすべを持たない脆弱な生き物だった。
 
-���̂܂ܒg���������̒��ňٕς��ʂ�߂���̂�k���Ȃ���҂����Ȃ����炾�낤�B
+そのまま暖かい巣穴の中で異変が通り過ぎるのを震えながら待つしかないからだろう。
 
 ;SE
 
-�y�g�����z�u��������那���������c�c�H�v
+【トロル】「ぐぅるるるるぅぉおおお……？」
 
-���̎��ɋC�Â����̂́A����Ȃ��m�\�������Ȃ��҂����������B
+その次に気づいたのは、限りなく知能を持たない者たちだった。
 
-����͂���Ӗ��Ŏコ�ł��邪�䂦�ɁB
+それはある意味で弱さであるがゆえに。
 
-�����Ȕ����Ȉ�a���́A�s�q�Ȏ҂��������ɕϐ߂�m�点�Ă����B
+微かな微かな違和感は、鋭敏な者たちだけに変節を知らせていた。
 
-���E���ς�낤�Ƃ������̎��A���������鉹�������̂�������Ȃ��B
+世界が変わろうとしたその時、何かが壊れる音がしたのかもしれない。
 
-�\�\���邢�́A�����Ȃ����z���ق�Ă����悤�ȐU�����B
+――あるいは、音もなく薄布がほつれていくような振動が。
 
-�ʑ��̈Ⴄ��̐��E���d�Ȃ荇���A�n���Č�����Ă����B
+位相の違う二つの世界が重なり合い、溶けて交わっていく。
 
-�����̂ɁA���E�Ŋu�Ă�ꂽ���E�Ɛ��E���A�܂���ɂȂ낤�Ƃ��Ă����\�\�B
+遠い昔に、境界で隔てられた世界と世界が、また一つになろうとしていた――。
 
-;BGMch1 bgm001 �Đ�
+;BGMch1 bgm001 再生
 #bgm 0 bgm001
 
-;�A�j���[�V�����F�������猎�H�A�Ăі�����
-;9/25�b��FBG�݂̂ł̏���
-;��mpeg���[�r�[�Đ��̉\������
+;アニメーション：満月から月食、再び満月へ
+;9/25暫定：BGのみでの処理
+;※mpegムービー再生の可能性あり
 ;
 
 ;EVCG EV001B2
 ;#face off
 
 ;MC
-;�X�L�b�v�֎~
+;スキップ禁止
 #wipecancel disabled
 
-#cg �C�x���g ev001b2 �w�i
+#cg イベント ev001b2 背景
 #wipe fade 3000
 
 ;EVCG EV001C2
-#cg �C�x���g ev001c2 �w�i
+#cg イベント ev001c2 背景
 #wipe fade 3000
-;�C���^�[�o��
+;インターバル
 ;MC
 #wait 3000
 
 ;EVCG EV001B2
-#cg �C�x���g ev001b2 �w�i
+#cg イベント ev001b2 背景
 #wipe fade 3000
-;�C���^�[�o��
+;インターバル
 ;MC
 #wait 2000
 
 ;MC
-;�X�L�b�v�֎~����
+;スキップ禁止解除
 #wipecancel enabled
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;�w�i�F�G���t�̐X
+;背景：エルフの森
 ;BG:BG02_1
 #cg all clear
 #bg bg02_1
 #wipe fade
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
-;��̃G���t
-;�C�o��
+;茨のエルフ
+;イバラ
 #voice ibaa0001
-�y�H�H�H�z�u�c�c�v
+【？？？】「……」
 
-;�C�Y�~
+;イズミ
 
 #voice izua0001
-�y��̃G���t�z�w�C�����܂������A��̃G���t��x
+【泉のエルフ】『気がつきましたか、茨のエルフよ』
 
-;��̃G���t
-;�C�o��
+;茨のエルフ
+;イバラ
 #voice ibaa0002
-�y�H�H�H�z�u�͂��A�Z��B�c�c���A���E���v
+【？？？】「はい、兄上。……今、結界が」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;�w�i�F��i��j
+;背景：泉（夜）
 ;BG:BG03_3
 #cg all clear
 #bg bg03_3
 #wipe fade
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
-;�؂̎��̃G���t
-;�����������̂��ߕύX
-;�R�m�~
+;木の実のエルフ
+;文字数制限のため変更
+;コノミ
 #voice kona0001
-�y�H�H�H�z�u���킟�`�A�{�N����ȑ傫���򏉂߂Č����悧�`�v
+【？？？】「うわぁ〜、ボクこんな大きい泉初めて見たよぉ〜」
 
-���m�̐��E�ɑ��𓥂݂��ꂽ�G���t�͊��Q�̐���R�炵���B
+未知の世界に足を踏みいれたエルフは感嘆の声を漏らした。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�w�i�F�X�i��j
+;背景：森（夜）
 ;BG:BG04_3
 #cg all clear
 #bg bg04_3
 #wipe fade
 
-�����Ȏ҂������C�Â����ٕς́A����̂܂܂ɐ�����G���t�ɂ��܂����m�̂��̂������B
+小さな者たちが気づいた異変は、ありのままに生きるエルフにもまた既知のものだった。
 
-�����������G���t�ɂ͏��߂Ă̎��ۂł����Ȃ��������A�������̂����Y�ꂩ���Ă������̂��B
+長く生きたエルフには初めての事象でこそなかったが、長い刻のうち忘れかけていたものだ。
 
-������͕̂s��������A�u�Ă�ꂽ�����V�������܂ꂽ������̂͏��߂Č��鐢�E�Ɋ��삵���B
+あるものは不安を抱き、隔てられた時より新しく生まれたあるものは初めて見る世界に歓喜した。
 
-�����m��Ȃ��V�������͌���ꂽ���E���яo���A�ʊ��Ɍ��m��ʒn�ɑ��𓥂ݓ��ꂽ�B
+恐れを知らない新しい命は限られた世界を飛び出し、果敢に見知らぬ地に足を踏み入れた。
 
 ;CHR T10F4 C
-#cg �c�L�� tuk_1_10f4 ��
+#cg ツキヨ tuk_1_10f4 中
 #wipe fade
 
-;�_�[�N�G���t
-;�c�L��
+;ダークエルフ
+;ツキヨ
 #voice tuka0001
-�y�H�H�H�z�u�c�c�v
+【？？？】「……」
 
-���߂Č��鐢�E�Ɋ��҂���̂́A�D��S�̏[���ƐV���Ȃ�h���B
+初めて見る世界に期待するのは、好奇心の充足と新たなる刺激。
 
-����̓G���t����������ނׂ����̂Ƃ��ꂽ���̉��a�ȃ_�[�N�G���t�ɂƂ��Ă���O�ł͂Ȃ������B
+それはエルフたちから忌むべきものとされたこの臆病なダークエルフにとっても例外ではなかった。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�d�u�G�\�\EV001�w������グ��q�i�^�x
-;��
+;ＥＶ絵――EV001『空を見上げるヒナタ』
+;夜
 
 ;EVCG EV001B1
-#cg �C�x���g ev001b1 640 -1200
+#cg イベント ev001b1 640 -1200
 #wipe fade
-;����->��X�N���[���i���ƃq�i�^�̌��������p�܂�:�j
+;※下->上スクロール（月とヒナタの肩が入る画角まで:）
 
-#move �C�x���g 640 -340 4000
-#move �C�x���g wait
+#move イベント 640 -340 4000
+#move イベント wait
 
-;���������G���t
-;�q�i�^
+;名も無きエルフ
+;ヒナタ
 #voice hina0001
-�y�H�H�H�z�u�������������A�������ɂ񂰂�̂������Ȃ񂾂����v
+【？？？】「すごいすごい、ここがにんげんのせかいなんだぁっ」
 
-���������G���t�͊��삵�A�l�Ԑ��E�̋��~��������΂���ɂ��̏����Șr���L�����B
+名も無きエルフは歓喜し、人間世界の空を掻き抱かんばかりにその小さな腕を広げた。
 
-;���������G���t
-;�q�i�^
+;名も無きエルフ
+;ヒナタ
 #voice hina0002
-�y�H�H�H�z�u�킟���I�@�ɂ񂰂񂳂�ɂ����邩�ȁH�@�͂₭�ɂ񂰂񂳂�ɂ��������Ȃ��v
+【？？？】「わぁっ！　にんげんさんにあえるかな？　はやくにんげんさんにあいたいなっ」
 
-���E�͍L���B
+世界は広い。
 
-����ǁA���͏������B
+されど、我らは小さい。
 
-���Ə������҂�����A�K���ł���B
+いと小さき者たちよ、幸福であれ。
 
-�����A�K���ł���B
+ただ、幸福であれ。
 
-;BGMch1 FO��~
+;BGMch1 FO停止
 #bgm 0 stop 1000
-;BGMch2 FO��~
+;BGMch2 FO停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;OP���[�r�[����
+;OPムービーあり
 
 #movie hinatanotuki_op
 
 #mes clear
 
-;jyo01��
+;jyo01へ
 #next jyo01
