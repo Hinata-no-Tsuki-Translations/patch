@@ -95,15 +95,15 @@ But of course even just with ivy, a situation with a girl tied up is sensual eno
 
 The girl's scream echoes in the sky.
 
-あぁ、こんなの冗談だろう？　あるいは夢か何かを見ているのか。
+Aa, this is a joke right? Or maybe I'm in a dream.
 
-今朝家を出た時に、こんな状況に出くわすなんて少しでも考えただろうか。
+When I left house this morning, I did not ever think that I'll get into this situation.
 
-いや、考えたはずもない。
+No, I couldn't think this is a possibility.
 
-こんなの俺の想像の範疇を超えている。
+This goes way beyond the scope of my imagination.
 
-……だって、こんなのありえない。
+……because, this is impossible.
 
 ;BGMch1 bgm003 FO停止
 #bgm 0 stop 1000
@@ -116,7 +116,7 @@ The girl's scream echoes in the sky.
 #bg black
 #wipe fade
 
-「……こんなものか」
+「……that's about all」
 
 ;背景：主人公の家（昼）
 ;BG BG05_1
@@ -124,81 +124,81 @@ The girl's scream echoes in the sky.
 #bg bg05_1
 #wipe fade
 
-俺は小さくまとめた荷物を見返して呟いた。とりあえずは当面必要なものだけを持っていけばいい。
+I looked at the small luggage I had put together and muttered. For now, it's good enough to bring what I need immediately.
 
-この家はこのままにしていくんだから、そのうち他に必要なものが出てきたら、それはその時取りに来ればいいさ。
+This house will be left as is, so if I need anything more, I can come again to take them.
 
-いや、今必要だと思っているこれらのものだって、生活の中でそぎ落とされていくうちに必要なくなっていくかもしれない。
+Even then, the things I think are important to my life now may eventually become unnecessary.
 
-「……あとは」
+「……next-」
 
 ;SE se012 コインのじゃらん 再生
 #se 1 se012
 
-手の中では村の顔役から受け取ったばかりの銀貨がじゃらりと音を立てる。
+The silver coins I received from the village head makes a defining tinny (jyagari) noise in my hands.
 
-「これっぽっちじゃ、当座すら凌ぐには危ういな」
+「With this much, I can get by for the time being.」
 
-布袋から取り出したのはほんの数えるばかりの銀貨。すべてを手のひらの上に乗せても、不安になるぐらいに軽い。
+I took out a few coins out of the pouch. Even with all these coins in my hand, it was light enough to make me uneasy.
 
-あれだけの家畜が、金に換えたらこれだけにしかならないなんて……。
+With only those livestock, I could only exchange for these much……。
 
-俺を心配するようなことを言っていた顔役だったが、いざうちの家畜たちを買い取るとなったら安く買い叩かれた。
+Even though the village head said he was concerned for me, but when it came to buying my livestock, he bought them off at a mercilessly low price.
 
-その結果がこの数枚の銀貨というわけだ。ずいぶん足元を見られたものだ。
+The result of that was these few silver coins. He really took advantage of my circumstances.
 
-一応母さんが亡くなってからもそれなりに世話はしていたし、この村のどの家畜たちよりもきちんと手入れされてよく太っていたはずなんだけどな。
+After my mum died, since I still took care of my lifestock, it should have been more well-maintained and fed than any other livestock in the village.
 
-曰く、自分の家も厳しいから。
+He said, his finances was also in dire straits.
 
-曰く、育てるのもただじゃないから。
+He said, it's not just about raising the livestock.
 
-顔役の言い分もわからなくはない。
+It's not that I don't understand what the village head said.
 
-辺境のこの村に住む人々は、誰も彼も日々の暮らしに精一杯なんだから。
+Because for the people who live in this remote village, every one of them are doing their best in their daily lives.
 
-……それはわからないでもないのだけど。
+……it's not that I don't know that.
 
-村を出ていくことを決めた俺じゃもう世話をしてやれないのだから、行き先が決まっただけでも、うちの家畜たちのために喜んでやるべきだろう。
+Since I decided to leave the village, I can't take care of them anymore. Even if I've decided to leave, at least sell my livestock for their sake.
 
-このまま野生化するか飢えるまで俺の家にあるよりは、新しい飼い主に貰われる方が家畜たちにはずいぶんましなはずだ。
+Rather than go wild or starve at my place, it should be much better for new owners to take care of them.
 
-畑は……放っておいても強いものは自生するだろうし、弱いものは雑草に駆逐されるだろう。
+Releasing them in the fields……the strong will survive on their own, but the weak will be driven out like weeds.
 
-母さんが亡くなってから生き物はともかく、畑の方はほとんど手入れをしていなかったから、もうかなり荒れ果てている。
+Aside from the animals who came after mother died, I did not invest any time in maintaining the fields. By now, they are quite desolate.
 
-狭い畑とはいえ、あれだけのものをよく母さんは一人で維持していたものだ。
+Though such a narrow field, mother was always taking care of it alone.
 
-人間だって畑の作物と同じだ。村の中で生きていく分には助け合いもするが、村の役に立つかどうか怪しい者にまで気を配っている余裕はない。
+Humans are the same as crops in the fields. We help one another as we live together in the village, but we cannot afford to care for those who may not be useful to the village.
 
-いらないものはぶちぶちと間引かれ、肥料として放り棄てられる。そうでなければ畑を維持することはできないからだ。
+Unneeded things are cut off and thinned, fats are reused as fertilizer. If not, the fields cannot be maintained.
 
-しがらみから解き放たれたからと言って、森で暮らすと決めた俺は作物だったのか雑草だったのか。
+The me who says I'm released from my shackles and decided to live in the forest, I wonder if I was a crop or a weed.
 
-母さんが生きていた時にはどうにか村の一員としての体裁を保っていることができたが、母さんが亡くなってその意欲はぷつりと途切れた。
+When mother was alive, we managed to maintain decency as a member of the village, but after mother died, my motivation was lost.
 
-母さんと同じように少ない家畜を育て、畑を維持して……それでどうなるっていうんだ。
+Like my mother, raise a few livestock, maintain the fields……then so what.
 
-俺はこの村で生きていくことはできない。
+I cannot bear to live in this village.
 
-だってそうだろう。たかが文字が読めるというぐらいで俺のことを異質だと見下す連中と仲良くなんて、どうやってやっていけばいいんだ。
+Isn't that so. How can I get along with those who shun me as an outsider just because I can read a few words?
 
-文字の価値も学問の価値も分からない連中にどうやって馴染めばいいんだ。
+How should I get along with those who do not know the value of writing or academia?
 
-これまでだって俺は異端だった。ずっとずっと村で息苦しく暮らすよりは、森でひとり暮らすほうがきっと性に合っているに違いない。
+Until now I was an outsider. Instead of living suffocatingly in the village, living alone in the forest should suit be better.
 
-それが村の他の連中ともお互いのためになる。
+And this benefits the other villagers as well.
 
-「それじゃ……そろそろ行くか」
+「Well then……it's about time to go」
 
-最後になるかもしれないと思いながら、もう一度ぐるりと慣れ親しんだ家を見渡した。
+While thinking that it could be the last, I turn around to take sight at the intimately familiar house once more.
 
-いつかこの家に戻ってくることはあるんだろうか。
+Will I ever come back to this house, I wonder.
 
 ;SE se013 戸を閉める 再生
 #se 1 se013
 
-……ひとまずの当座の荷物だけを持って出るから、しばらくはここに脚を運ぶことになるにもかかわらず、旅立ちの決意は俺を感傷的にさせた。
+……I'm going to take only belongings that I'll need for the time being. Although the fact that I was to depart from here soon does not change, my determination to leave made me feel sentimental.
 
 ;背景：山道（昼）
 ;BG BG06_1
@@ -210,77 +210,77 @@ The girl's scream echoes in the sky.
 ;#se 0 amb001
 #bgvoice amb001
 
-「もう少し荷物減らせばよかったかな」
+「Maybe I should have reduced my luggage a little more」
 
-山道を進んでしばらくして、俺はひとり泣き事を呟いた。
+After a while of traversing the mountains, I whined to myself.
 
-すぐに拠点が見つかるとも限らないし、どこに住むかぐらい決めてから荷物を運んでも良かったと後悔した。
+As it was not certain that I would find a base immediately, I regretted not deciding where I would stay before carrying my luggage.
 
-一応昔作られたという山小屋を拠点にしようというあてはあるものの、その小屋が現存しているかどうかは今となっては村に知るものはない。
+I did thought to use a mountain hut built a long time ago, but no one in the village knows if the hut still exists.
 
-それというのもその山小屋は魔物が出るという暗い森と呼ばれるところの近くにあり、村人たちは近づかないからだ。
+That's also because the mountain hut is said to be near a dark forest where monsters appear, so no villager gets close to it.
 
-爺さんのそのまた親父ぐらいの人たちの頃に住んでいた人がいたという話だから、何とか残ってはいるんじゃないかとは思うけど。
+My grandfather said when he was middle-aged there was a person living there, so I think the hut might still remain there.
 
-基本的に村にはほとんど文字を読み書きできる人間がいないから、ろくな記録が残されていやしないのだ。
+In the first place, there are few villagers who can read and write, so no proper records were left.
 
-役場もそんなことで何の管理をしているのかはなはだ怪しいものだ。
+It is also suspicious if the village council does any work at all.
 
-さては寄り集まって酒でも酌み交わすためだけに役職を作っているんじゃないのか、なんて勘ぐりたくなるぐらいだ。
+To the extent it makes me question if they made the job position just to drink and socialize together.
 
-……すっかり風化していたりしたらどうしよう。あてにしていた小屋がなかったら村に戻るしかないかな。
+……What should I do if it is completely weathered away. If I don't have the hut I was counting on, I might no choice but to return to the village.
 
-やっぱり山小屋じゃなく町を目指すべきだったか？
+As I thought, maybe I should have aimed for the town, not the mountain hut?
 
-しかし町にはたくさんの人がいるし、町でどうやって衣食住を得たらいいのかなんて見当もつかない。
+But there are many people in town, and I have no idea how to get clothes, food and shelter in town.
 
-「……あー、おもっ」
+「……Aaー、heavy」
 
-小さくまとめたつもりの荷物も、行く当てもなくふらふらするには重すぎた。
+The luggage I intended to be small, was too heavy to swing around freely.
 
-「しかし、ほとんど獣道だな」
+「But, it's mostly an animal trail」
 
-垂れてくる汗を手の甲で拭いながら、ほとんど道なき道を眺めてぽつりと呟く。
+Whlie wiping dripping sweat with the back of my hand, I gazed at the pathless road and muttered.
 
-街道の方は整備されているからまだしも、山に近い方の道は人通りがほとんどないせいか、歩くのに不便だ。
+The roadway is under renovation and few people walk the the path near the mountain, so even by walking it's inconvenient.
 
-しばらくこの森には誰も住んでいないというのがうなずける。
+I can see why no one has lived in this forest for a while.
 
-森にうっそうと茂る木々は、まるで侵入者を脅かすために見下ろしているようにすら見える。
+The overgrown thick trees in the forest seem to look down menacingly, almost as if to threaten any intruders.
 
-そう言えばこの森には昔から奇妙な噂ばかりがあるんだっけ……。
+Come to think of it, there have been strange rumors of this forest for a long time.
 
-この森には魔物が出るという話があるのだ。
+It is said that monsters appear in this forest.
 
-下手に森に入らないようにという脅かし文句なんだろうけど、怪物が出るとかなんとか、子どもの頃にはさんざん聞かされた。
+It may be a legend to frighten children from entering the forest, I was often told that monsters would appear when I was a kid.
 
-ここの森にはトロルやオークを始めとする異形の者たちが闊歩していて、そいつらの好物は人間の子どもなんだ、とか。
+That there are non-anthropomorphic beings like trolls and orcs roaming in the forest, that their favourite food was human children.
 
-実際国からも魔物が出るからとあまり奥には入らないようにという通達を受けたこともあるらしい。
+And it seems that the country itself has declared not to enter too deep because monsters will come out.
 
-そんなわけで大人でも訪れるときは徒党を組み、森のこちら側にはあまり奥まで足を踏み入れない。
+That's why even adults form groups and do not venture too deep into the forest.
 
-その分、資源なんかはあるのかもしれないが、あるかどうかも分からない不確かなもののために危険かもしれない場所に足なんて踏み入れない。
+On that note, there may be resources in the forest, but no one would risk themselves for a place where it is uncertain whether there may be resources or not.
 
-あまり裕福でこそないが、そんなことをしなくても暮らしていける程度にはあの辺境の村は豊かだからだ。
+The villagers are not that wealthy, but able to make a rich enough living in that remote village.
 
-……しかし、魔物が出るって本当なのかな。
+……but is it really true monsters will appear?
 
-もっとも森の向こうは隣国があるので、無用な諍いを避けようという話なのかもしれない。
+Plus there is a neighbouring country beyond the forest, so it may be a story to avoid pointless conflicts.
 
-昔はこの国も周辺の国々との争いが激しかったというから、魔物とは敵のことだというのは十分にあり得そうな話ではある。
+In the olden days, this country had fierce conflicts with neighboring countries, so it is quite possible that monsters meant the enemies.
 
-「……どうせなら、エルフでも出てきてくれれば面白いのに」
+「……though in that case, it would be interesting if elves appeared」
 
-俺は見たことはないが、エルフというのはそれは美しい種族なんだそうだ。しかも、富と栄光だか何かをもたらすとかなんとか。
+I having seen them, but elves seem to be a very beautiful race. What's more, they are said to bring wealth and glory or something.
 
-王都ではそういったエルフを愛玩動物として飼っている金持ちも少なくないとか。村にたまに訪れる旅人にそんな話を聞かされたことがある。
+In the royal capital, there are many rich people who keep such elves as pets. I have been told such a story by a traveler who occasionally visited the village.
 
-金持ちが飼っているから富と栄光がもたらされるなんて話ができたのか、それとも本当にそんなことがあるから飼ったやつが金持ちになるのか。
+Are they said to bring wealth and glory because rich people keep them as pets? Or is really keeping them as pets made them wealthy?
 
-せいぜい町までしか出たことがない俺たちにその話の真偽を確かめることは到底できないのが残念だ。
+It's a pity that we can never confirm the truth of the story as those who have only been to the town at best.
 
-どうせ酒の席の与太話だろうが、本当に高く売れるものなら、是非一匹捕まえてみたいものだ。そしたら、王都に行って一旗あげるのもいいだろう。
+Anyway, it's a drunken story at the sake table, but if it sells really high, I definitely want to catch one. Then, it would be good to go to the royal capital and start a business.
 
 それよりも、まずは一目会ってみたいという単純な好奇心もある。心奪われるほど美しいというエルフとはどんな生き物なんだろう。
 
