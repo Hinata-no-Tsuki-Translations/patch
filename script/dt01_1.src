@@ -1,9 +1,9 @@
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG40_1
 
 #mes off fade
@@ -26,34 +26,34 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�w�i�F�R�����@���i��j
+;背景：山小屋　内（夜）
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-���͗[�H�̎x�x�����Ă��Č��ĂȂ������B
+俺は夕食の支度をしていて見てなかった。
 
-������A�C�o�����~�߂�������Ȃ��������A���̏u�ԃc�L�����ǂ�Ȋ�������̂������������B
+だから、イバラを止めたりもしなかったし、その瞬間ツキヨがどんな顔をしたのかも見逃した。
 
 ;SE
-;�i�K�^���Ƃ������j
+;（ガタンという音）
 
-������ƈ֎q���|�ꂽ�������āA�U��Ԃ������ɂ͂������̏�Ԃ������̂��B
+がたんと椅子が倒れた音がして、振り返った時にはもうこの状態だったのだ。
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 #voice hine0001
-�y�q�i�^�z�u�ӂ��A�ӂ��������I�v
+【ヒナタ】「ふわわ、ふわわわわわわっ！」
 
 ;CHR OFF
 #cg all clear
@@ -64,272 +64,272 @@
 #setscene 57
 #bg BG07b_1
 
-;�d�u�G�\�\EV065�w�G��Ȃ��Łx
+;ＥＶ絵――EV065『触らないで』
 ;EVCG EV065A1
 ;#face off
 
 
-#cg �C�x���g ev065a1 �w�i
+#cg イベント ev065a1 背景
 #wipe fade
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0001
-�y�c�L���z�u�_���A�_���ł��I�v
+【ツキヨ】「ダメ、ダメです！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibae0001
-�y�C�o���z�u������Ƃ��Ă݂���������I�v
+【イバラ】「ちょっとつけてみただけだろ！」
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0002
-�y�c�L���z�u�_���Ȃ�ł��I�v
+【ツキヨ】「ダメなんです！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
-#cg �C�x���g ev065a2 �w�i
+#cg イベント ev065a2 背景
 #wipe fade
 
 #voice ibae0002
-�y�C�o���z�u�������I�@���������I�@���̖ш�����������ɂ����I�v
+【イバラ】「いたっ！　いたたた！　髪の毛引っ張ったら痛いっ！」
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0003
-�y�c�L���z�u�����Ăł��I�@�G��Ȃ��łł��I�v
+【ツキヨ】「離してです！　触らないでです！」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
-#cg �C�x���g ev065b2 �w�i
+#cg イベント ev065b2 背景
 #wipe fade
 
 #voice ibae0003
-�y�C�o���z�u�������j���Q������ɂ��Ⴀ��܂����A�Ȃ�Ń{�N�������܂Ō����Ȃ���Ȃ�Ȃ��񂾂��I�H�v
+【イバラ】「薄汚いニンゲン相手にじゃあるまいし、なんでボクがそこまで言われなきゃならないんだっ！？」
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0004
-�y�c�L���z�u�������痣���ł����I�v
+【ツキヨ】「いいから離すですっ！」
 
-�߂����Ȃ��Ƃł͑傫�Ȑ����o���Ȃ��c�L�������Ԃ����ē{���Ă���c�c�H
+めったなことでは大きな声を出さないツキヨが顔を赤くして怒っている……？
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-����܂łł͍l�����Ȃ����Ԃɕ��C�ɂƂ��Ă���ƁA���ƃR�m�~�����̕��������������B
+これまででは考えられない事態に呆気にとられていると、つんつんとコノミが俺の服を引っ張った。
 
 ;CHR K02F2 C
-#cg �R�m�~ kon_1_02f2 ��
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice kone0001
-�y�R�m�~�z�u�j���Q�����`��A�~�߂Ȃ��Ă����́`�H�v
+【コノミ】「ニンゲンく〜ん、止めなくていいの〜？」
 
-�u���Ɍ����O�ɁA�R�m�~�͉��Ŏ~�߂Ȃ��́H�v
+「俺に言う前に、コノミは何で止めないの？」
 
 #voice kone0002
-�y�R�m�~�z�u��`�H�@�{�N�́`�C�o���ƃc�L�������܂������Ȃ炵�Ă�������`�H�@�ł��A�j���Q������͎~�߂������ȁ`�Ǝv���ā`�v
+【コノミ】「ん〜？　ボクは〜イバラとツキヨが喧嘩したいならしてもいいよ〜？　でも、ニンゲンくんは止めたいかな〜と思って〜」
 
-�u���A���A����B�����A���܂Ȃ񂩂����Ă��������Ȃ���B���ǁA�Ȃ�ł���Ȃ��ƂɂȂ��Ă�́H�v
+「え、あ、うん。そりゃ、喧嘩なんかさせておきたくないよ。けど、なんでこんなことになってるの？」
 
-�Ƃ肠�������������ׂ���������Ȃ����ǁA���R���������ɂ��Ă����̂��ȁB
+とりあえず引き離すべきかもしれないけど、理由も聞かずにっていうのもな。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H02F1_A C
-#cg �q�i�^ hin_1_02f1_a ��
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hine0002
-�y�q�i�^�z�u�͂������A���������v
+【ヒナタ】「はわわわわわわ、あわわわわわわ」
 
-�R�m�~��������Ȃ��ăq�i�^���������𒮂����ق��������񂾂낤���ǁA�q�i�^�͌��邩��ɂ��낽���Ă��܂��Ă���B
+コノミだけじゃなくてヒナタからも事情を聴いたほうがいいんだろうけど、ヒナタは見るからにうろたえてしまっている。
 
-�����������A���܂����Ă��铖�̂ӂ���������������܂łɎ��Ԃ������肻�����B
+下手をしたら、喧嘩をしている当のふたりよりも落ち着くまでに時間がかかりそうだ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05f ��
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice kone0003
-�y�R�m�~�z�u��`�Ƃˁ`�A�O����C�o���A�c�L��������������|���Ă�z�A�܂������Ă��ł���`�H�v
+【コノミ】「ん〜とね〜、前からイバラ、ツキヨがいつも肩から掛けてる布羨ましがってたでしょ〜？」
 
-�u����v
+「うん」
 
 #voice kone0004
-�y�R�m�~�z�u�������A�j���Q�����񂪒u�������͂�A�q�i�^���ˁ`���ɂԂ����Ĉ삵���́`�v
+【コノミ】「さっき、ニンゲンくんが置いたごはん、ヒナタがね〜机にぶつかって溢したの〜」
 
-�u������A�{�����v
+「うわっ、本当だ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o���ƃq�i�^�̌��܂ɋC������ċC�����Ă��Ȃ��������A��܂�����Œu���Ă������킪�Ђ�����Ԃ��Ă���B
+イバラとヒナタの喧嘩に気を取られて気がついていなかったが、冷ますつもりで置いておいた器がひっくり返っている。
 
 ;CHR K06F C
-#cg �R�m�~ kon_1_06f ��
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice kone0005
-�y�R�m�~�z�u����ŁA�c�L���̕z�ɂ����肻���ɂȂ��Ăˁ`�A�Q�Ăăc�L���������́`�B��������A�z�����������āA�C�o�����E�����́`�v
+【コノミ】「そんで、ツキヨの布にかかりそうになってね〜、慌ててツキヨ避けたの〜。そしたら、布が落っこちて、イバラが拾ったの〜」
 
-�Ȃ񂾁A�c�L���ɔM���`�������������킯����Ȃ������̂��B
+なんだ、ツキヨに熱い汁物がかかったわけじゃなかったのか。
 
-�u���肪�Ƃ����Č����Ď󂯎��΂����񂶂�Ȃ����H�v
+「ありがとうって言って受け取ればいいんじゃないか？」
 
 #voice kone0006
-�y�R�m�~�z�u��`�ł��ˁ`�C�o���A�����̂ɂ���������́`�v
+【コノミ】「ん〜でもね〜イバラ、自分のにしちゃったの〜」
 
-�u���H�@�Ȃ�ŁH�@�����āA�c�L���̂���v
+「え？　なんで？　だって、ツキヨのだろ」
 
 ;CHR K02F1 C
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice kone0007
-�y�R�m�~�z�u���L��������͂��Ȃ����́A���̃G���t�̔F�؂𓾂Ă��Ȃ����̂́`�A��𗣂�ď��L���ڂ������_�ŁA����𓾂��G���t�̂��̂ɂȂ�́`�v
+【コノミ】「所有を示す紋章がないもの、他のエルフの認証を得ていないものは〜、手を離れて所有が移った時点で、それを得たエルフのものになるの〜」
 
-�u���H�@���Ă������Ƃ́A�Ƃ������̏����H�v
+「え？　っていうことは、とったもの勝ち？」
 
 #voice kone0008
-�y�R�m�~�z�u�G���t�͂���܂蕨�̏��L�ɌŎ����Ȃ�����A����ł����C�Ȃ񂾂��ǂˁ`�B�C�o���ƃc�L���͂�����Ɠ��ʂ����`�v
+【コノミ】「エルフはあんまり物の所有に固執しないから、それでも平気なんだけどね〜。イバラとツキヨはちょっと特別かも〜」
 
-�u�����Ȃ̂��c�c���A�ł��A�������͂��̕z�̓c�L���̂��̂��ƔF�����Ă����񂾂��A�����������ς�c�L���̂��̂Ȃ񂶂�Ȃ��́H�v
+「そうなのか……あ、でも、俺たちはあの布はツキヨのものだと認識していたんだし、そしたらやっぱりツキヨのものなんじゃないの？」
 
 ;CHR K06F C
-#cg �R�m�~ kon_1_06f ��
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice kone0009
-�y�R�m�~�z�u���`��A�{�N�͂ǂ����ł��������`�A�q�i�^�̓n�[�t�G���t�����`�A�j���Q������͐l�Ԃ����`�A�ǂ��Ȃ񂾂�`�H�v
+【コノミ】「う〜ん、ボクはどっちでもいいし〜、ヒナタはハーフエルフだし〜、ニンゲンくんは人間だし〜、どうなんだろ〜？」
 
-�u�������A�G���t�̝|������ˁv
+「そっか、エルフの掟だもんね」
 
-�����܂ŁA�G���t���F�߂Ȃ��Ⴂ���Ȃ��킯���B
+あくまで、エルフが認めなきゃいけないわけか。
 
 #voice kone0010
-�y�R�m�~�z�u�����������Ɓ`�v
+【コノミ】「そういうこと〜」
 
-�u�ނ��������ȁv
+「むずかしいな」
 
 ;CHR K01F2A C
-#cg �R�m�~ kon_1_01f2a ��
+#cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice kone0011
-�y�R�m�~�z�u��`�H�@�ł��ˁ`�A�{�N�v���񂾂��Ǐ��ԈႤ�񂶂�ȁ`���H�@���R�������A���܎~�߂�ق�������������`�H�v
+【コノミ】「ん〜？　でもね〜、ボク思うんだけど順番違うんじゃな〜い？　理由聞くより、喧嘩止めるほうがいいかもよ〜？」
 
-�u�����I�H�@���A�������I�v
+「あっ！？　そ、そうだ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�d�u�G�\�\EV???�w�G��Ȃ��Łx
+;ＥＶ絵――EV???『触らないで』
 ;EVCG EV065A1
-#cg �C�x���g ev065a1 �w�i
+#cg イベント ev065a1 背景
 #wipe fade
 
-�ʂɖڂ̑O�ŋN���Ă��錖�܂̂��Ƃ�Y�ꂽ�킯����Ȃ��B
+別に目の前で起きている喧嘩のことを忘れたわけじゃない。
 
-������Ƃ������������������B
+ちょっとした現実逃避だった。
 
-�����������܂Œ��ǂ�����Ă����̂ɁA�ӂ���ɂ͌��܂Ȃ�Ă��Ăق����Ȃ��B
+せっかく今まで仲良くやってきたのに、ふたりには喧嘩なんてしてほしくない。
 
-���Ƃ����āA�����������̂��������̂��ǂ����B
+かといって、俺が介入するのが正しいのかどうか。
 
-�������ɂӂ��肢���؂�ɂ͎~�߂��Ȃ�����A�ǂ�����Ɏ~�߂��炢���̂��A����Ƃ��R�m�~��q�i�^�Ɏ�`���Ă�������ق��������̂��B
+さすがにふたりいっぺんには止められないから、どちらを先に止めたらいいのか、それともコノミやヒナタに手伝ってもらったほうがいいのか。
 
-�u�ӁA�ӂ���Ƃ��H�@���܂͂悭�Ȃ���H�v
+「ふ、ふたりとも？　喧嘩はよくないよ？」
 
-��u�̓��ɍl�������낢��Ƃ悬�������A���Ǎs���Ɉڂ����͎̂㍘�Ȓ��ق̃Z���t�������B
+一瞬の内に考えがいろいろとよぎったが、結局行動に移せたのは弱腰な仲裁のセリフだった。
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0005
-�y�c�L���z�u�������I�@�����ł��I�v
+【ツキヨ】「うぅっ！　離せです！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibae0004
-�y�C�o���z�u�����A����͂����{�N�̂��I�v
+【イバラ】「嫌だ、これはもうボクのだ！」
 
-�u����A������Ɗ�Ȃ����玺���Ō��܂́c�c�v
+「ちょ、ちょっと危ないから室内で喧嘩は……」
 
-�c�c�ア�ȉ��B
+……弱いな俺。
 
-�������Ԃɓ����Ĉ����͂������H
+いっそ間に入って引きはがすか？
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
-#cg �C�x���g ev065a2 �w�i
+#cg イベント ev065a2 背景
 #wipe fade
 
 #voice tuke0006
-�y�c�L���z�u�����������I�@�ӂ��Ⴀ���������������I�v
+【ツキヨ】「うぅうぅっ！　ふしゃあああああああっ！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibae0005
-�y�C�o���z�u�����������������c�c�v
+【イバラ】「ぐぎぎぎぎぎぎぎ……」
 
-�C���t���΁A���ݍ��������Ă���Œ��ɐ����悭�|�������炩�֎q�����Ă���B
+気が付けば、揉み合いをしている最中に勢いよく倒したからか椅子が壊れている。
 
-�����A�����{�C�̌��܂��ȁB
+あぁ、こりゃ本気の喧嘩だな。
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0007
-�y�c�L���z�u�����ł����I�v
+【ツキヨ】「離せですっ！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibae0006
-�y�C�o���z�u���킟���I�v
+【イバラ】「うわぁっ！」
 
 ;SE
-;�K�^���Ă�����
-;��ʗh��
-;�Ó]
+;ガタっていう音
+;画面揺れ
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-��u��畏������f����点���B
+一瞬の逡巡が判断を誤らせた。
 
-�͂����Ŋ������Ă����z��D��ꂽ�C�o�����A���Ă����֎q�Ɉ����������ē]�|�����̂��B
+力ずくで巻きつけていた布を奪われたイバラが、壊れていた椅子に引っかかって転倒したのだ。
 
 ;SMODE 058 STOP
 #endscene
 
-;�w�i�F�R�����@���i��j
+;背景：山小屋　内（夜）
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -339,156 +339,156 @@
 #face f_iba_0_01f 94 466
 
 #voice ibae0007
-�y�C�o���z�u�����A�ɂ��c�c�v
+【イバラ】「うぅ、痛い……」
 
 ;CHR T07F_L C
-#cg �c�L�� tuk_1_07f_l ��
+#cg ツキヨ tuk_1_07f_l 中
 #wipe fade
 
 #voice tuke0008
-�y�c�L���z�u�ӂ������������I�@�����������������I�v
+【ツキヨ】「ふぅううううう！　うぅうううううう！」
 
-�c�L���͗ܖڂ̃C�o�����Њd����悤�ɚX�����B
+ツキヨは涙目のイバラを威嚇するように唸った。
 
-�܂�Ŏ蕉���̏b���ȁA���ꂶ��B
+まるで手負いの獣だな、これじゃ。
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibae0008
-�y�C�o���z�u���킟�A�����o�Ă���I�v
+【イバラ】「うわぁ、血が出てるっ！」
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tuke0009
-�y�c�L���z�u�c�c�����v
+【ツキヨ】「……あっ」
 
-�G��������ƎC�蔍���Ă��邾�������ǁA�C�o���̋��тł��A�����������炩�A�c�L�������C�����߂����B
+膝がちょっと擦り剥けているだけだけど、イバラの叫びでか、血を見たからか、ツキヨが正気を取り戻した。
 
 ;CHR T10F4 C
-#cg �c�L�� tuk_1_10f4 ��
+#cg ツキヨ tuk_1_10f4 中
 #wipe fade
 
-�o�c�������̂��A�c�L���̓T�b�Ǝ��Ԃ����΂���̕z�𓪂��炩�Ԃ��Ă��܂��B
+バツが悪いのか、ツキヨはサッと取り返したばかりの布を頭からかぶってしまう。
 
-�܂������ȁA����́c�c�܂��͂ǂ����ɐ���������ׂ��Ȃ񂾁H
+まいったな、これは……まずはどっちに声をかけるべきなんだ？
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I04F L
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibae0009
-�y�C�o���z�u�ځA�{�N���䂵�����I�v
+【イバラ】「ぼ、ボク怪我したっ！」
 
-�����A�������B�܂��͉�������ɁA����̎蓖�Ă��B
+あぁ、そうか。まずは何よりも先に、怪我の手当てだ。
 
-���������A�����������ĂĂǂ�����B
+落ち着け、俺が混乱しててどうする。
 
-�u�R�m�~�A�������ǃC�o���̉��䎡���Ă����āv
+「コノミ、悪いけどイバラの怪我治してあげて」
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kone0012
-�y�R�m�~�z�u����A�킩������`�B����悭�Ȃ���`�v
+【コノミ】「うん、わかったよ〜。怪我よくなぁれ〜」
 
-�R�m�~���C�o���̉���Ɍ����̂Ђ���������B
+コノミがイバラの怪我に光る手のひらをかざす。
 
 #voice ibae0010
-�y�C�o���z�u�������A�{�N���䂵���I�v
+【イバラ】「うぅっ、ボク怪我した！」
 
-������������ƂɏՌ����󂯂����炩�A�C�o���͎��������䂵�����Ƃ����X�Ɏ咣���Ă���B
+怪我をしたことに衝撃を受けたからか、イバラは自分が怪我したことを執拗に主張している。
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hine0003
-�y�q�i�^�z�u�͂���A���������I�v
+【ヒナタ】「はわわわ、あわわわわわわ！」
 
-�q�i�^�����������肻���������邤���ɁA�C�o���̂����菝�͂����ƌ����܂Ɍ��̂��ꂢ�Ȕ畆�ɖ߂����B
+ヒナタが走り回ったりそうこうするうちに、イバラのかすり傷はあっと言うまに元のきれいな皮膚に戻った。
 
 ;CHR K09F2 R
-#cg �R�m�~ kon_1_09f2 �E
+#cg コノミ kon_1_09f2 右
 #wipe fade
 
 #voice kone0013
-�y�R�m�~�z�u�ق�`�A��������C�o���`�H�@�������v�`�v
+【コノミ】「ほら〜、治ったよイバラ〜？　もう大丈夫〜」
 
-�c���������Ԃ����y���y���Ƃ͂����āA�R�m�~�����₷�悤�ɃC�o����`�����ށB
+残ったかさぶたをペンペンとはたいて、コノミがあやすようにイバラを覗きこむ。
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibae0011
-�y�C�o���z�u�������I�@�ł��{�N���䂵���I�@�ɂ������񂾂��I�v
-����ۂǉ��䂵�����Ƃɋ������񂾂ȁB���������΃q�i�^�ȊO�͂��܂����Ȃ�Ă��Ȃ�����ȁ[�c�c�B
+【イバラ】「うぅっ！　でもボク怪我した！　痛かったんだぞ！」
+よっぽど怪我したことに驚いたんだな。そういえばヒナタ以外はあまり怪我なんてしないもんなー……。
 
-�u�c�L���́H�@�c�L���͉��䂵�ĂȂ����H�v
+「ツキヨは？　ツキヨは怪我してないか？」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tuke0010
-�y�c�L���z�u���A����c�c���ĂȂ��ł��v
+【ツキヨ】「け、怪我……してないです」
 
-�u�������A�悩�����B���Ⴀ�A�C�o���̂��Ɖ��䂳����������񂾂��A�܂��͎ӂ낤�ȁv
+「そうか、よかった。じゃあ、イバラのこと怪我させちゃったんだし、まずは謝ろうな」
 
-�Ӎ߂𑣂��ƁA�c�L���͂����Ɖ����ɂݕԂ��Ă����B
+謝罪を促すと、ツキヨはきっと俺を睨み返してきた。
 
 ;CHR T07F_L R
-#cg �c�L�� tuk_1_07f_l �E
+#cg ツキヨ tuk_1_07f_l 右
 #wipe fade
 
 #voice tuke0011
-�y�c�L���z�u�ӂ�Ȃ��ł��I�@�c�L���̂��́A���낤�Ƃ����ł��B�����Ȃ��ł��I�v
+【ツキヨ】「謝らないです！　ツキヨのもの、盗ろうとしたです。許さないです！」
 
-�R�m�~������������܂ł͋C�ɂȂ�̂��A���炿��ƃC�o���ɖڂ�����Ă����c�L�������ǁA�������ƌ����Ր�Ԑ����B
+コノミが怪我を治すまでは気になるのか、ちらちらとイバラに目をやっていたツキヨだけど、治ったと見るや臨戦態勢だ。
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
-�C�o�����΍R���Ă��A���ɂ���ъ|���肻���Ȏp�������Ă���B
+イバラも対抗してか、今にも飛び掛かりそうな姿勢をしている。
 
-������̏b�Ƃ�����Ȃ��񂾂���A�������������̂͂�߂Ăق����B
+発情期の獣とかじゃないんだから、正直こういうのはやめてほしい。
 
-�u��������ĉ����������̂͂�肷������v
+「だからって怪我をさせるのはやりすぎだろ」
 
 #voice tuke0012
-�y�c�L���z�u����Ȃ́A�����������ł��B�D�_�͉��䂵�Ă����傤���Ȃ��ł��v
+【ツキヨ】「そんなの、自分が悪いです。泥棒は怪我してもしょうがないです」
 
-�c�L���͒f�łƂ��Ďӂ낤�Ƃ͂��Ȃ��B
+ツキヨは断固として謝ろうとはしない。
 
 ;CHR I04F L
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibae0012
-�y�C�o���z�u�D�_���Ƃ��I�H�@�c�L�������Ƃ��āA�{�N���E�����񂾂���A���L�͈ڂ����Ƃ݂Ȃ����ׂ����I�v
+【イバラ】「泥棒だとっ！？　ツキヨが落として、ボクが拾ったんだから、所有は移ったとみなされるべきだ！」
 
-�C�o�����J�`���Ƃ����̂����Ԃ����ē{���Ă���B
+イバラもカチンときたのか顔を赤くして怒っている。
 
-�����猩�Ă��D�_�����ǁA�R�m�~�̂������̐������炷��ƃC�o�����{��̂��G���t�I�ɂ͖������Ȃ��̂��ȁc�c�B
+俺から見ても泥棒だけど、コノミのさっきの説明からするとイバラが怒るのもエルフ的には無理がないのかな……。
 
-�Ƃ肠�����Ȃ��߂ɓ���Ȃ����Ƃɂ͂܂����ݍ����̌��܂��n�܂邼�B
+とりあえずなだめに入らないことにはまたつかみ合いの喧嘩が始まるぞ。
 
-;�I��������
+;選択肢発生
 #select a b
-�`�F����Ȃɓ{��Ȃ��Ă�
-�a�F���l�̂��̂ɐG�����Ⴂ���Ȃ���
+Ａ：そんなに怒らなくても
+Ｂ：他人のものに触っちゃいけないよ
 
 #label a
 #next dt01a
@@ -496,5 +496,5 @@
 #label b
 #next dt01b
 
-;�`��I���ˁwdt01a�x�փW�����v
-;�a��I���ˁwdt01b�x�փW�����v
+;Ａを選択⇒『dt01a』へジャンプ
+;Ｂを選択⇒『dt01b』へジャンプ

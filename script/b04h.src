@@ -1,553 +1,553 @@
 
 
-;BGMch2 amb004 ��~
+;BGMch2 amb004 停止
 #bgvoice stop
 
 ;FACE ON
 #face on
 
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR H01F1_A L
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinb0358
-�y�q�i�^�z�u�Ё[�Ȃ��́[�ʂ̂Ԃ��[��́A�����ӂ���[�B�ȁ[��ł��́[����[���A������那�[�v
+【ヒナタ】「ひーなたのーぬのぶくーろは、いいふくろー。なーんでもはーいるーぅ、るるるるるるぅー」
 
-�q�i�^�͊y�������ɉ̂��Ȃ���A���|���z�܂���o�����΂����̏�ɐςݏグ�Ă���B
+ヒナタは楽しそうに歌いながら、肩掛け布袋から出した石を机の上に積み上げている。
 
 ;CHR K01F1A R
-#cg �R�m�~ kon_1_01f1a �E
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0328
-�y�R�m�~�z�u����������͂����Ă�˂��`�v
+【コノミ】「たっくさんはいってるねぇ〜」
 
 ;CHR H01F2_A L
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0359
-�y�q�i�^�z�u����I�@��������͂���́I�@�ЂƂA�ӂ��c�c��������I�v
+【ヒナタ】「うん！　たくさんはいるの！　ひとつ、ふたつ……たくさん！」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice tikb0289
-�y�c�L���z�u�ЂƁ[�A�ӂ��[�c�c�΂��\�������Ă�ł��A�������ł��v
+【ツキヨ】「ひとーつ、ふたーつ……石が十個も入ってるです、すごいです」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0332
-�y�C�o���z�u�΂Ȃ񂩎����Ă��Ăǂ�����񂾁H�v
+【イバラ】「石なんか持ってきてどうするんだ？」
 
 ;CHR H08F1_A L
-#cg �q�i�^ hin_1_08f1_a ��
+#cg ヒナタ hin_1_08f1_a 左
 #wipe fade
 
 #voice hinb0360
-�y�q�i�^�z�u�ʂ̂Ԃ���̂Ȃ��ɂ����񂾂�I�v
+【ヒナタ】「ぬのぶくろのなかにいれるんだよ！」
 
-�u�c�c�ʂɁA�ǂ����Ă����������Ȃ��Ⴂ���Ȃ����Ă킯����c�c�v
+「……別に、どうしても何かを入れなきゃいけないってわけじゃ……」
 
-�����Ă�T����q�i�^�͈�U�o�����΂����|���z�܂ɖ߂��A�䖞�x���B
+言ってる傍からヒナタは一旦出した石を肩掛け布袋に戻し、御満悦だ。
 
 ;CHR H07F_A L
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0361
-�y�q�i�^�z�u�ف[��A�����ς��͂���I�v
+【ヒナタ】「ほーら、いっぱいはいる！」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0329
-�y�R�m�~�z�u�q�i�^�͂������������������񂾂ˁ`�v
+【コノミ】「ヒナタはすっごく嬉しかったんだね〜」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0333
-�y�C�o���z�u�΂Ȃ񂩎����ĕ��������ďd����������Ȃ����B�ʂ��Y��Ȑ΂��Ă킯�ł��Ȃ������̐΂����v
+【イバラ】「石なんか持って歩いたって重いだけじゃないか。別に綺麗な石ってわけでもないただの石だし」
 
 ;CHR H01F2_A L
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0362
-�y�q�i�^�z�u�����ς��͂���������A�����ς��łĂ����I�v
+【ヒナタ】「いっぱいはいったから、いっぱいでてくるよ！」
 
-�q�i�^�̓C�o���̌��t�Ȃ񂩎��ɓ����Ă��Ȃ��̂��A���x�͊y�������ɐ΂����o���Ă���B
+ヒナタはイバラの言葉なんか耳に入っていないのか、今度は楽しそうに石を取り出している。
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0330
-�y�R�m�~�z�u�ˁ[�ˁ[�A�q�i�^�`�B���̐΁A���Ɏg���́H�v
+【コノミ】「ねーねー、ヒナタ〜。その石、何に使うの？」
 
 #voice hinb0363
-�y�q�i�^�z�u�ʂ̂Ԃ���̂Ȃ��ɂ����́I�v
+【ヒナタ】「ぬのぶくろのなかにいれるの！」
 
-�u�c�c�O����܂ł́A���ꂽ��o�����肷�邾���Ŋy�����Ă��傤���Ȃ��񂾂ȁv
+「……飽きるまでは、入れたり出したりするだけで楽しくてしょうがないんだな」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0290
-�y�c�L���z�u�y�������A�ł��v
+【ツキヨ】「楽しそう、です」
 
-�u���̂��A�q�i�^�B�΂��������ǁA�V�o�O���~�Ƃ��A�J�`�m�~�Ƃ��A���������؂̎����W�߂Ă���̂Ɏg������ǂ����ȁH�v
+「あのさ、ヒナタ。石もいいけど、シバグルミとか、カチノミとか、そういう木の実を集めてくるのに使ったらどうかな？」
 
-�ʂɃq�i�^��֗��Ɏg�������Ă킯����Ȃ����ǁA�΂Ȃ񂩏W�߂Ăǂ�����񂾂Ƃ͎v���̂ŁA�����]�v�Ȍ��o�������Ă��܂��B
+別にヒナタを便利に使おうってわけじゃないけど、石なんか集めてどうするんだとは思うので、ついつい余計な口出しをしてしまう。
 
 #voice hinb0364
-�y�q�i�^�z�u�ق����I�@�����ˁI�@�����ς��͂��邵�A�������Ƃ��Ȃ�����ˁI�@�q�i�^�����Ă�����I�v
+【ヒナタ】「ほぉう！　そだね！　いっぱいはいるし、おっことさないもんね！　ヒナタいってくるっ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tikb0291
-�y�c�L���z�u���A������������ł��v
+【ツキヨ】「あ、いっちゃったです」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0331
-�y�R�m�~�z�u���`�A���������`�v
+【コノミ】「お〜、早い早い〜」
 
-���̏�ɐ΂��L�����܂܁A�e�ۂ̂悤�Ȃ������ŐX�ɑ����Ă������q�i�^���A����F�͕�R�ƌ��������̂������B
+机の上に石を広げたまま、弾丸のようない勢いで森に走っていったヒナタを、俺や皆は呆然と見送ったのだった。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0365
-�y�q�i�^�z�u�ق�ق�A�V�o�O���~�ƃJ�`�m�~�ƁA�ق��ɂ������ς��Ƃ��Ă����[�I�v
+【ヒナタ】「ほらほら、シバグルミとカチノミと、ほかにもいっぱいとってきたー！」
 
-�q�i�^�͖߂��Ă���Ȃ�A���̏�Ō��|���z�܂��t���܂ɂ����B
+ヒナタは戻ってくるなり、机の上で肩掛け布袋を逆さまにした。
 
-���|���z�܂̒�����͖����̎G���Ȗ؂̎����o�Ă��āA�d�������˂Ĕ�юU���Ă��܂��B
+肩掛け布袋の中からは無数の雑多な木の実が出てきて、硬い実跳ねて飛び散ってしまう。
 
-�u�������I�H�@����Ȃɂ�����U�炩�邾��H�v
+「あぁっ！？　そんなにしたら散らかるだろ？」
 
 ;CHR H06F2_A C
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0366
-�y�q�i�^�z�u�ق���I�H�@�^�C�w�����I�v
+【ヒナタ】「ほわっ！？　タイヘンだ！」
 
-�����ăq�i�^���W�߂Ă������̂Ƃ����΁c�c�B
+そしてヒナタが集めてきたものといえば……。
 
-�V�o�O���~�ƃJ�`�m�~�͐H�ׂ��邯�ǁA�X�Y�m�l��䥂ł悤���u�낤�����������Ȃ����A�j�K�V�C�̓A�N����������䥂łĂ�䥂łĂ��ꂢ�񂾂�ȁc�c�B
+シバグルミとカチノミは食べられるけど、スズノネは茹でようが炒ろうが歯が立たないし、ニガシイはアクがすごくて茹でても茹でても苦いんだよな……。
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0367
-�y�q�i�^�z�u�j���Q������ɂ��[��Ԃ�����ˁI�v
+【ヒナタ】「ニンゲンさんにぜーんぶあげるね！」
 
-�u���肪�Ƃ��v
+「ありがとう」
 
-�X�Y�m�l�ƃj�K�V�C�͂�����Ă�����񂾂��ǁc�c�D�ӂł������Č����Ă���̂��A�������͂��邯�ǂ������͂���Ȃ����Ă����̂��Ȃɂ��B
+スズノネとニガシイはもらっても困るんだけど……好意でくれるって言ってるものを、こっちはいるけどこっちはいらないっていうのもなにか。
 
 ;CHR H08F1_A C
-#cg �q�i�^ hin_1_08f1_a ��
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0368
-�y�q�i�^�z�u��[���I�@���肪�Ƃ����Ă���ꂽ�[�I�v
+【ヒナタ】「わーい！　ありがとうっていわれたー！」
 
-�q�i�^�͊�тȂ���A�܂����̏�̐΂����܂��n�߂��B
+ヒナタは喜びながら、また机の上の石をしまい始めた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1_A L
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 左
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0334
-�y�C�o���z�u�Ȃ񂾂��Ă܂��΂�����̂��v
+【イバラ】「なんだってまた石を入れるのさ」
 
 ;CHR H06F2_A L
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0369
-�y�q�i�^�z�u�����Ă��������̂ʂ̂Ԃ���Ȃ񂾂�I�@�����ς��Ȃ�ł��͂���񂾂�I�H�v
+【ヒナタ】「だってせっかくのぬのぶくろなんだよ！　いっぱいなんでもはいるんだよ！？」
 
 #voice ibab0335
-�y�C�o���z�u�����ƃC�C��������΂�������Ȃ����v
+【イバラ】「もっとイイ物を入れればいいじゃないか」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0370
-�y�q�i�^�z�u�����A���́H�v
+【ヒナタ】「いい、もの？」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K06F R
-#cg �R�m�~ kon_1_06f �E
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0332
-�y�R�m�~�z�u�������ˁ`�B�j���Q�����񂪐H�ׂ�����̂Ƃ��A�󕨂Ƃ��`�v
+【コノミ】「そうだね〜。ニンゲンくんが食べられるものとか、宝物とか〜」
 
 ;CHR H04F1_A L
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 左
 #wipe fade
 
 #voice hinb0371
-�y�q�i�^�z�u�ف`�ف`�v
+【ヒナタ】「ほ〜ほ〜」
 
-�������ȁB�q�i�^�����̒��q�Ŗ؂̎���牽���̐H�����W�߂Ď����Ă��Ă��ꂽ��A���Ƃ��Ă͂�����������B
+そうだな。ヒナタがこの調子で木の実やら何やらの食料を集めて持ってきてくれたら、俺としてはすごく助かる。
 
-�ʂɂ����g�������Ă��肶��Ȃ����A���̂��߂ɕz�܂��グ���킯����Ȃ����ǁB
+別にこき使おうってつもりじゃないし、そのために布袋を上げたわけじゃないけど。
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0372
-�y�q�i�^�z�u�����B�^�J�����m�����̂��B�^�J�����m���ĂȂɂ��ȁH�v
+【ヒナタ】「そか。タカラモノいれるのか。タカラモノってなにかな？」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0336
-�y�C�o���z�u�����A�Y��Ȃ��̂Ɍ��܂��Ă邶��Ȃ����v
+【イバラ】「そりゃ、綺麗なものに決まってるじゃないか」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K01F1A R
-#cg �R�m�~ kon_1_01f1a �E
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0333
-�y�R�m�~�z�u�q�i�^�̕󕨂́A�q�i�^���厖�Ɏv���Ă���̂��Ǝv����`�H�v
+【コノミ】「ヒナタの宝物は、ヒナタが大事に思ってるものだと思うよ〜？」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0292
-�y�c�L���z�u���������́A�󕨂ł��v
+【ツキヨ】「珍しいもの、宝物です」
 
 ;CHR H06F1_A L
-#cg �q�i�^ hin_1_06f1_a ��
+#cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0373
-�y�q�i�^�z�u����A�����ւ񂾁I�@�L���C�ŁA�������ŁA�߂��炵�����́c�c���ǁA�j���Q������͂��̂ӂ���ɂ͂͂���Ȃ���H�v
+【ヒナタ】「わわわ、たいへんだ！　キレイで、だいじで、めずらしいもの……けど、ニンゲンさんはこのふくろにははいらないよ？」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0337
-�y�C�o���z�u�Ȃ�ł���Ȃ̓���悤�Ǝv�����񂾂�I�@����ɂ���Ȃ��Y�킶��Ȃ��I�v
+【イバラ】「なんでそんなの入れようと思ったんだよ！　それにそんなの綺麗じゃない！」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0374
-�y�q�i�^�z�u�����B�j���Q������̓L���C����Ȃ��̂��v
+【ヒナタ】「そか。ニンゲンさんはキレイじゃないのか」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K02F2 R
-#cg �R�m�~ kon_1_02f2 �E
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0334
-�y�R�m�~�z�u�q�i�^�ɂ͑厖��������Ȃ����ǁA�������͂Ȃ���`�H�v
+【コノミ】「ヒナタには大事かもしれないけど、珍しくはないよ〜？」
 
 ;CHR H04F1_A L
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 左
 #wipe fade
 
 #voice hinb0375
-�y�q�i�^�z�u�Ȃ�ŁI�H�@�j���Q������͂ЂƂ肵�����Ȃ�����I�H�v
+【ヒナタ】「なんで！？　ニンゲンさんはひとりしかいないよっ！？」
 
 ;CHR K02F1 R
-#cg �R�m�~ kon_1_02f1 �E
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0335
-�y�R�m�~�z�u�j���Q������͂ЂƂ肾���ǁ`�A���܂ōs���ΐl�Ԃ͂����ς������`�v
+【コノミ】「ニンゲンくんはひとりだけど〜、村まで行けば人間はいっぱいいるよ〜」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0376
-�y�q�i�^�z�u�����c�c���������v
+【ヒナタ】「おぉ……そだった」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0293
-�y�c�L���z�u�������Ⴍ������A���邩������Ȃ��ł��v
+【ツキヨ】「ちっちゃくしたら、入るかもしれないです」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR I05F R
-#cg �C�o�� iba_1_05f �E
+#cg イバラ iba_1_05f 右
 #wipe fade
 
 #voice ibab0338
-�y�C�o���z�u�������Ⴍ���Đ؂�Ƃ��A�ׂ��Ƃ����H�v
+【イバラ】「ちっちゃくって切るとか、潰すとかか？」
 
-�u�|�����Ƃ����Ȃ�I�v
+「怖いこというなよ！」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0377
-�y�q�i�^�z�u�������Ⴍ���Ă�������Ƃ����͂���Ȃ���ˁc�c�v
+【ヒナタ】「ちっちゃくしてもちょっとしかはいらないよね……」
 
-�u�q�i�^���������Ȃ��ł�I�v
+「ヒナタも検討しないでよ！」
 
 ;CHR H07F_A L
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0378
-�y�q�i�^�z�u�q�i�^�킩�����I�@�^�J�����m�������ɂ�����I�v
+【ヒナタ】「ヒナタわかった！　タカラモノさがしにいくよ！」
 
-�q�i�^�͗����オ��ƁA�܂��ˊO�ɔ�яo���Ă������B
+ヒナタは立ち上がると、また戸外に飛び出していった。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�����O�i���j
+;背景：山小屋外（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
 ;CHR H07F_A C
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 
 #voice hinb0379
-�y�q�i�^�z�u�^�J�����m�����ς����߂���I�@�ق�[�I�v
+【ヒナタ】「タカラモノいっぱいあつめたよ！　ほらー！」
 
 ;CHR H07F C
-#cg �q�i�^ hin_1_07f ��
+#cg ヒナタ hin_1_07f 中
 #wipe fade
 
-�q�i�^�������o�������|���z�܂͉��������Ă���̂��A�`���ς��قǒ��g���l�ߍ��܂�Ă����B
+ヒナタが差し出した肩掛け布袋は何が入っているのか、形が変わるほど中身を詰め込まれていた。
 
-�u�܂��A���|���z�܂��p���p���ɂȂ��Ă�ˁB�����W�߂��́H�v
+「また、肩掛け布袋がパンパンになってるね。何を集めたの？」
 
 ;CHR H08F2 C
-#cg �q�i�^ hin_1_08f2 ��
+#cg ヒナタ hin_1_08f2 中
 #wipe fade
 
 #voice hinb0380
-�y�q�i�^�z�u���[��ƂˁI�@���낢��I�@�^�J�����m�I�v
+【ヒナタ】「うーんとね！　いろいろ！　タカラモノ！」
 
-�q�i�^�͖��킸�A���|���z�܂��܂��t���ɂ����B
+ヒナタは迷わず、肩掛け布袋をまた逆さにした。
 
-�u�΂ɃA�J�}���X�O���Ɂc�c�����k�H�v
+「石にアカマルスグリに……抜け殻？」
 
 ;CHR H06F2 C
-#cg �q�i�^ hin_1_06f2 ��
+#cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0381
-�y�q�i�^�z�u�������I�H�@�������̂ƁA������ۂ̃��V���񂱂�ꂿ��������I�H�v
+【ヒナタ】「あぁっ！？　あかいのと、からっぽのムシさんこわれちゃったっ！？」
 
-���|���z�܂���o�������̂̎S��ɁA�q�i�^�͔ߒɂȐ��ł��߂����B
+肩掛け布袋から出したものの惨状に、ヒナタは悲痛な声でうめいた。
 
-�d���΂≽���ƈꏏ�ɋl�ߍ��܂ꂽ�A�J�}���X�O���͂Ԃ�ď`���o�Ă��܂��Ă��邵�A�X���i�L���V�̗c���̂��̂Ǝv���������k���o���o���ɂȂ��Ă���B
+硬い石や何かと一緒に詰め込まれたアカマルスグリはつぶれて汁が出てしまっているし、スリナキムシの幼虫のものと思しき抜け殻もバラバラになっている。
 
-�u�_�炩�����̂ƍd�����̂��ꏏ�ɓ��ꂿ������炵�傤���Ȃ����낤�ȁv
+「柔らかいものと硬いものを一緒に入れちゃったらしょうがないだろうな」
 
 ;CHR H03F1 C
-#cg �q�i�^ hin_1_03f1 ��
+#cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0382
-�y�q�i�^�z�u�����������`���V����΂�΂炾�[�v
+【ヒナタ】「うぅううう〜ムシさんばらばらだー」
 
-�u�ق�A�݂��āB��������Ă�ƁA���ɂ��ꂽ���̂����ꂿ�Ⴄ���v
+「ほら、貸して。中が汚れてると、次にいれたものも汚れちゃうぞ」
 
-���͌��|���z�܂��q�i�^����󂯎��ƁA���Ԃ��ɂ����Y��ɂ����B
+俺は肩掛け布袋をヒナタから受け取ると、裏返しにして綺麗にした。
 
-�c�c����͓���Ă������̂ƈ������̂������Ȃ���_�����ȁB
+……これは入れていいものと悪いものを教えなきゃダメだな。
 
-�u���₷�����͓̂��ꂿ��_�������v
+「壊れやすいものは入れちゃダメだぞ」
 
 ;CHR H02F2 C
-#cg �q�i�^ hin_1_02f2 ��
+#cg ヒナタ hin_1_02f2 中
 #wipe fade
 
 #voice hinb0383
-�y�q�i�^�z�u�����₷�����́A���Ăǂ̂��炢�����₷���ƃ_���H�v
+【ヒナタ】「こわれやすいもの、ってどのぐらいこわれやすいとダメ？」
 
-�u�A�J�}���X�O���Ȃ񂩎w�ł�����Ă���ƂԂꂿ�Ⴄ����H�@�����k���y���܂񂾂����ł�������Ƃ����������Ȃ��ق��������ȁv
+「アカマルスグリなんか指でぎゅってするとつぶれちゃうだろ？　抜け殻も軽くつまんだだけでくしゃっといくから入れないほうがいいな」
 
 ;CHR H03F1 C
-#cg �q�i�^ hin_1_03f1 ��
+#cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0384
-�y�q�i�^�z�u�������[�v
+【ヒナタ】「そっかー」
 
-�u���ꂩ��A���O�ɂ����Ă������ǁA�����������ꂿ��_��������ȁv
+「それから、やる前にいっておくけど、生き物も入れちゃダメだからな」
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0385
-�y�q�i�^�z�u�Ȃ�ŁI�H�v
+【ヒナタ】「なんで！？」
 
-�u�q�i�^�����đ܂��Ԃ���ꂽ�肵����A�ꂵ����������H�@���V�Ƃ��ւƂ��A���̐����������Ĉꏏ�Ȃ́v
+「ヒナタだって袋かぶせられたりしたら、苦しいし嫌だろ？　ムシとか蛇とか、他の生き物だって一緒なの」
 
 ;CHR H04F2 C
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0386
-�y�q�i�^�z�u�ق��ق��Ȃ�قǁ[�v
+【ヒナタ】「ほうほうなるほどー」
 
-�u���������͕̂󕨂����Ďv���Ă��A���|���z�܂ɓ��ꂿ��_�������v
+「そういうのは宝物だって思っても、肩掛け布袋に入れちゃダメだぞ」
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0387
-�y�q�i�^�z�u���Ⴀ�A�ȂɂȂ炢��Ă������́H�v
+【ヒナタ】「じゃあ、なにならいれてもいいの？」
 
-�u�������Ȃ��B�؂̎��Ƃ��A�Y��Ȑ΂��炢�ɂ��Ă����Ȃ�v
+「そうだなぁ。木の実とか、綺麗な石ぐらいにしておきなよ」
 
 ;CHR H06F1 C
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0388
-�y�q�i�^�z�u�����A�킩�����I�v
+【ヒナタ】「おぉ、わかった！」
 
-�c�c�{���ɂ킩�����̂��ȁH
+……本当にわかったのかな？
 
 ;CHR H06F1_A C
-#cg �q�i�^ hin_1_06f1_a ��
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
-���܂����s�������ǁA���X�Ƃ��Đ΂����|���z�܂ɖ߂��n�߂��q�i�^���A���͔��΂܂����C�����Ō��߂��B
+いまいち不安だけど、嬉々として石を肩掛け布袋に戻し始めたヒナタを、俺は微笑ましい気持ちで見つめた。
 
-���ꂾ���C�ɓ����Ďg���Ă��炦��Ȃ�A���|���z�܂����Ė{�]���낤�B
+これだけ気に入って使ってもらえるなら、肩掛け布袋だって本望だろう。
 
-;�q�i�^�D���x+1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;b05��
+;b05へ
 #next b05

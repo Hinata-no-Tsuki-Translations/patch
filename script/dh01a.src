@@ -1,179 +1,179 @@
 
-�u����ȂɋC�ɂȂ��Ȃ�A�H�ׂĂ݂�H�v
+「そんなに気になるんなら、食べてみる？」
 
-�����킲�ƍ��������o���ƁA�C�o����������ς��ĂЂ����炤�悤�Ƀq�i�^��������������B
+俺が器ごと匙を差し出すと、イバラが血相を変えてひっさらうようにヒナタを抱きかかえた。
 
 ;CHR H02F1_A C
-#cg �q�i�^ hin_1_02f1_a ��
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinf0046
-�y�q�i�^�z�u�ӂЂ����I�H�v
+【ヒナタ】「ふひゃんっ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0029
-�y�C�o���z�u�Ȃ�ă��c���A�j���Q���I�@�����Ȃ��������I�H�v
+【イバラ】「なんてヤツだ、ニンゲン！　見損なったぞっ！？」
 
-�u�ʂɊ�Q�������悤�Ƃ����킯�ł��Ȃ��̂ɁA���ꂶ�ቴ�����҂݂�������Ȃ����v
+「別に危害を加えようとしたわけでもないのに、それじゃ俺が悪者みたいじゃないか」
 
-�ނ���M�d�ȐH���𕪂��悤���Č����񂾂���A�e�؂Ȃ��炢���Ǝv���񂾂��ǁB
+むしろ貴重な食料を分けようって言うんだから、親切なぐらいだと思うんだけど。
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibaf0030
-�y�C�o���z�u��A���҂��I�@���҂߂��I�@������n�[�t�G���t��������āA�q�i�^�ɂ���ȏL�����̂�H�ׂ����悤�Ȃ�ĂЂǂ����邶��Ȃ����I�v
+【イバラ】「わ、悪者だ！　悪者めっ！　いくらハーフエルフだからって、ヒナタにそんな臭いものを食べさせようなんてひどすぎるじゃないか！」
 
-�u���͔��������Ǝv���ĐH�ׂĂ���̂𕪂��悤�Ƃ��������Ȃ̂ɁA�����Ԃ�Ȍ����悤����Ȃ����A���I�H�v
+「俺は美味しいと思って食べてるものを分けようとしただけなのに、ずいぶんな言われようじゃないか、俺！？」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0031
-�y�C�o���z�u����Ȃ́c�c�j���Q�������������t�����ĉ䖝���ĐH�ׂĂ�񂾂낤�I�H�@����Ńq�i�^�������H�ׂ���n���ɂ������Ȃ񂾁I�v
+【イバラ】「そんなの……ニンゲンも美味しいフリして我慢して食べてるんだろう！？　そんでヒナタがそれを食べたら馬鹿にするつもりなんだ！」
 
 ;FACE K01F2B
 #face f_kon_0_01f2b 94 466
 
 #voice konf0017
-�y�R�m�~�z�u�͂��͂��́A�΁`���߁`�B�悭���x���ꂽ�ȁ`�B����ȏL�����̂�H�ׂ�Ȃ�ā`�A���āH�v
+【コノミ】「はっはっは、ば〜かめ〜。よくも騙されたな〜。そんな臭いものを食べるなんて〜、って？」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 #voice tukf0032
-�y�c�L���z�u�Ђ�킟�c�c��A�����z�ł��c�c�v
+【ツキヨ】「ひゃわぁ……わ、悪い奴です……」
 
-�u���A����Ȉ�����Ȃ́I�H�v
+「俺、そんな悪いやつなの！？」
 
-�������A���͂����������Ă�����̂ɑ΂��Ă���܂�Ȍ����悤����Ȃ����낤���B
+しかも、俺はもう口をつけているものに対してあんまりな言いようじゃないだろうか。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibaf0032
-�y�C�o���z�u�����������A�j���Q���߁I�@�Ȃ�Ĉ����z���I�v
+【イバラ】「くっそぉう、ニンゲンめ！　なんて悪い奴だ！」
 
-�u�Ƃ񂾁A���������肾�I�H�@�������G��߂���I�H�@���͕ʂɖ����ɐH�ׂ����悤�ƂȂ񂩂��ĂȂ�����ˁI�H�v
+「とんだ、言いがかりだ！？　すごい濡れ衣だよ！？　俺は別に無理に食べさせようとなんかしてないからね！？」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0033
-�y�C�o���z�u�{�N�̖ڂ̑O�ł���Ȉ������Ƃ����悤�Ȃ�āA���������ɋ����Ȃ�����ȁI�H�v
+【イバラ】「ボクの目の前でそんな悪いことをしようなんて、ぜったいに許さないからな！？」
 
 ;FACE T10F2
 #face f_tuk_0_10f2 94 466
 
 #voice tukf0033
-�y�c�L���z�u�q�i�^�A���킢�����ł��c�c�v
+【ツキヨ】「ヒナタ、かわいそうです……」
 
 ;FACE K08F
 #face f_kon_0_08f 94 466
 
 #voice konf0018
-�y�R�m�~�z�u�{�N���`�����Ȃ���������ȁ`�A�j���Q������v
+【コノミ】「ボクも〜見損なっちゃったな〜、ニンゲンくん」
 
-�u���ł���Ȃɗ₽���ڂŌ����Ă�́A���I�H�v
+「何でそんなに冷たい目で見られてるの、俺！？」
 
-�܂�Ŗ������ł�H�ׂ����悤�Ƃ��Ă��邩�̂悤�Șb�ɂȂ�������Ă�̂͂Ȃ�ł��B
+まるで無理やり毒を食べさせようとしているかのような話になっちゃってるのはなんでだ。
 
-�u�ʂɂ���A�łł��Ȃ�����ˁB�ق�A�l�Ԃ̉��͂�������Ĕ��������H�ׂĂ���킯�����v
+「別にこれ、毒でもないからね。ほら、人間の俺はこうやって美味しく食べているわけだし」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�ق�ق�A�ƌ��ɉ^��Ō����Ă��A�C�o���͂����Ɖ����ɂ݂��Ă���B
+ほらほら、と口に運んで見せても、イバラはきっと俺を睨みつけている。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibaf0034
-�y�C�o���z�u�x����Ȃ��c�c�{�N�͐�΂��x����Ȃ����v
+【イバラ】「騙されない……ボクは絶対に騙されないぞ」
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hinf0047
-�y�q�i�^�z�u�͂�c�c�ނ���͂����Ȃ��ˁc�c�v
+【ヒナタ】「はわ……むりやりはいくないね……」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibaf0035
-�y�C�o���z�u���낤�I�H�@���Ȃ��Ƃ͌������Ă����ƌ���Ȃ���_���Ȃ񂾂��A�q�i�^�I�v
+【イバラ】「だろう！？　嫌なことは嫌だってちゃんと言わなきゃダメなんだぞ、ヒナタ！」
 
 ;FACE H02F2_A
 #face f_hin_0_02f2_a 94 466
 
 #voice hinf0048
-�y�q�i�^�z�u�͂�����I�H�@����ȂɃM�����Ă����炭�邵������I�H�v
+【ヒナタ】「はわわわわわ！？　そんなにギュってしたらくるしいよっ！？」
 
-�C�o���͎��������񂾁A�Ƃ΂���ɃM���b�ƃq�i�^��������߂Ă���B
+イバラは自分が守るんだ、とばかりにギュッとヒナタを抱きしめている。
 
-����A���ɔ��΂܂������i�ł͂���񂾂��ǁB
+いや、実に微笑ましい光景ではあるんだけど。
 
-�u������A�ʂɐH�ׂė~�������ė���ł�킯����Ȃ�����v
+「いいよ、別に食べて欲しいって頼んでるわけじゃないから」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0036
-�y�C�o���z�u��������ė�������Ō����āA�C���Ђ������Ă����̂��I�H�v
+【イバラ】「そうやって落ち込んで見せて、気をひこうっていうのか！？」
 
-�ӂӁc�c�������������܂ł�肵����ς��C������ȁB
+ふふ……何だかさっきまでよりしょっぱい気がするな。
 
 ;FACE H01F1_A 
 #face f_hin_0_01f1_a  94 466
 
 #voice hinf0049
-�y�q�i�^�z�u�C�o���[�A�q�i�^�͂������傤�Ԃ���H�v
+【ヒナタ】「イバラー、ヒナタはだいじょうぶだよ？」
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibaf0037
-�y�C�o���z�u�q�i�^�A�j���Q���Ȃ�Ă��΂��Ă��K�v�Ȃ��񂾂��I�H�v
+【イバラ】「ヒナタ、ニンゲンなんてかばってやる必要ないんだぞ！？」
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
 
 #voice hinf0050
-�y�q�i�^�z�u���ׂĂ݂�H�@���ăj���Q������A���񂹂ł������Ƃ������ȁ[�v
+【ヒナタ】「たべてみる？　ってニンゲンさん、しんせつでいったとおもうなー」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tukf0034
-�y�c�L���z�u�q�i�^�A�D�����ł��c�c�v
+【ツキヨ】「ヒナタ、優しいです……」
 
 ;FACE K06F
 #face f_kon_0_06f 94 466
 
 #voice konf0019
-�y�R�m�~�z�u�����ˁ`�B����ȂɏL���̐H�ׂ�����ꂻ���ɂȂ����̂ɁA���������D�����ˁ`�v
+【コノミ】「そだね〜。こんなに臭いの食べさせられそうになったのに、すっごく優しいね〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�q�i�^�̓C�o���̘r���قǂ��ƁA�҂��ƒ��˂�悤�ɂ��ĉ��ɋ߂Â��Ă����B
+ヒナタはイバラの腕をほどくと、ぴょんと跳ねるようにして俺に近づいてきた。
 
 ;CHR H11F_A C
-#cg �q�i�^ hin_1_11f_a ��
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0051
-�y�q�i�^�z�u����ɁA�q�i�^����ς肿����ƃj���Q������̂��ׂ��̂��ɂȂ邩�Ȃ��v
+【ヒナタ】「それに、ヒナタやっぱりちょっとニンゲンさんのたべものきになるかなっ」
 
-;�q�i�^�D���x+1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;dh01_2��
+;dh01_2へ
 #next dh01_2

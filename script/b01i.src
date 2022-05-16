@@ -1,572 +1,572 @@
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 
-���������ΑO�ɍ���Ă��|�͕s�v�c�ȏo�����������ǁA�C�o���͕s��p�Ȃ񂾂낤���B
+そういえば前に作ってた弓は不思議な出来だったけど、イバラは不器用なんだろうか。
 
-�܂�������ł����₵�Ȃ����낤�ȁc�c�B
+まさか怪我でもしやしないだろうな……。
 
-�ӂƋC�ɂȂ��āA�C�o���̍�Ƃ��������ɔ`�����ށB
+ふと気になって、イバラの作業を肩ごしに覗き込む。
 
-�u�c�c����v
+「……あれ」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0028
-�y�C�o���z�u�����A�j���Q���v
+【イバラ】「何だ、ニンゲン」
 
-�u���A����B�C�o���͊�p���ȁA�Ǝv���Ăˁv
+「あ、いや。イバラは器用だな、と思ってね」
 
-�C�o���̎茳�ɂ���؂́A����͐��I�ȉԂ̌`�ɒ����悤�Ƃ��Ă����B
+イバラの手元にある木は、それは精巧な花の形に彫られようとしていた。
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0029
-�y�C�o���z�u�ӂӂ�A�{�N�ɂ�����΍׍H���ȂǏK���قǂł͂Ȃ������ȁv
+【イバラ】「ふふん、ボクにかかれば細工物など習うほどではなかったな」
 
-�Ȃ��Ȃ��ǂ����āA��{�I�Ȃ��Ƃ��������Ă��Ȃ��̂ɁA�C�o��������Ă���Ԃ͍׍H���ׂ����đ債�����̂��B
+なかなかどうして、基本的なことしか教えていないのに、イバラが作っている花は細工も細かくて大したものだ。
 
-�u����A��肾�ˁB�������������v
+「うん、上手だね。すごいすごい」
 
-�����Ƃ��A���S�҂ɂ��Ă͂Ƃ������x�����ǁB
+もっとも、初心者にしてはという程度だけど。
 
-����Ȍ����������āA�܂��ւ����Ȃ����Ă��܂�Ȃ��B
+そんな言い方をして、またへそを曲げられてもつまらない。
 
-�����ĂĂ����΁A�C���悭�M�����Ă���邾�낤���A��肭�����Ώ���Ƃ��Ă��܂��g���邩���c�c�B
+おだてておけば、気分よく熱中してくれるだろうし、上手くいけば助手としてうまく使えるかも……。
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0030
-�y�C�o���z�u�G���t�͈̑�ȑ��݂Ȃ񂾂���A�l�Ԃ��Ƃ����ł��邱�Ƃ��G���t�̃{�N���ł��Ȃ��Ȃ�Ă���킯�Ȃ����낤�H�v
+【イバラ】「エルフは偉大な存在なんだから、人間ごときができることをエルフのボクができないなんてあるわけないだろう？」
 
-�ӂӂ�A�ƃC�o���͂������肩�����Ă��̂܂ܓ|��Ă��܂��񂶂�Ȃ����Ƃ����قǂɁA���𒣂��Ă���B
+ふふん、とイバラはそっくりかえってそのまま倒れてしまうんじゃないかというほどに、胸を張っている。
 
-���q�ɏ��₷���ȁA�C�o���B
+調子に乗りやすいな、イバラ。
 
 #voice ibab0031
-�y�C�o���z�u�ӂӂ�A�j���Q���ɂ��悤�₭�{�N�̈̑傳���킩�����悤���ȁv
+【イバラ】「ふふん、ニンゲンにもようやくボクの偉大さがわかったようだな」
 
-�@���X�̂܂܁A��Ƃ�i�߂Ă����C�o���̎肪�ӂƎ~�܂����B
+鼻高々のまま、作業を進めていくイバラの手がふと止まった。
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0032
-�y�C�o���z�u�c�c�����i�X�ɂ������񂾂��ǁA���ɍ��Ȃ��c�c�v
+【イバラ】「……ここ段々にしたいんだけど、上手に作れない……」
 
-�u�����A�����ɏc�ɐ؂�ڂ����Ă��璤��Ƃ�����B����Ȃӂ��Ɂv
+「あぁ、ここに縦に切れ目を入れてから彫るといいよ。こんなふうに」
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0033
-�y�C�o���z�u�����A�Ȃ�قǁI�v
+【イバラ】「おぉ、なるほど！」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0034
-�y�C�o���z�u�c�c�͂��I�@����Ȃ́A�j���Q���ɋ������Ȃ��Ă��{�N�����Ďv�����Ă��I�v
+【イバラ】「……はっ！　そんなの、ニンゲンに教えられなくてもボクだって思いついてた！」
 
-�u�c�c�c�c�v
+「…………」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0035
-�y�C�o���z�u���[�I�@�������s���I�@�{�N�͂ЂƂ�ł��̉Ԃ�����������񂾂���I�v
+【イバラ】「もー！　あっち行け！　ボクはひとりでこの花を完成させるんだから！」
 
-�u�͂��͂��c�c�v
+「はいはい……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�܁A�C�o���͂ق��Ƃ��Ă��A�������Ď��؂�����͂��Ȃ����������A���̘A���̗l�q�����邩�c�c�B
+ま、イバラはほっといても、無茶して手を切ったりはしなさそうだし、他の連中の様子を見るか……。
 
-�u�ǂ��H�@��肭�o�������H�v
+「どう？　上手く出来そう？」
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0045
-�y�q�i�^�z�u����I�@�q�i�^�����[�����傤��������I�v
+【ヒナタ】「うん！　ヒナタすごーくじょうずだよっ！」
 
-�q�i�^�����������Ė��ʂ̏΂݂ō����o�������̂́c�c���ɂ͈�̂Ȃ�Ȃ̂��悭�킩��Ȃ������B
+ヒナタがそう言って満面の笑みで差し出した物体は……俺には一体なんなのかよくわからなかった。
 
-�u�c�c���ꉽ�������Ă����H�v
+「……これ何か聞いていい？」
 
 ;CHR H02F1 C
-#cg �q�i�^ hin_1_02f1 ��
+#cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0046
-�y�q�i�^�z�u���͂Ȃ���I�@���[�I�@�݂Ă킩��Ȃ����Ȃ��I�H�v
+【ヒナタ】「おはなだよ！　もー！　みてわかんないかなっ！？」
 
-���ꂪ�ǂ��������ԂɌ�������Č����񂾁c�c���Ɍ����邩���ĕ�����Ă����邯�ǁB
+これがどうやったら花に見えるって言うんだ……何に見えるかって聞かれても困るけど。
 
-�u�c�c�܂��A������B���䂾�����Ȃ��悤�ɋC�����Ȃ�H�v
+「……まぁ、いいや。怪我だけしないように気をつけなよ？」
 
-���R�ȑn��ӗ~���킮�̂͂悭�Ȃ���ȁA����B
+自由な創作意欲を削ぐのはよくないよな、うん。
 
 ;CHR H06F1 C
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0047
-�y�q�i�^�z�u��������[�ԁA�Ƃ������Ƃ��͂��������_���Ȃ񂾂�˂��H�@���[����Ă��������c�c�҂�����I�@���ĂăP�K�����[�I�v
+【ヒナタ】「だいじょーぶ、とがったとこはさわっちゃダメなんだよねっ？　こーやってさわったら……ぴぎゃっ！　おててケガしたー！」
 
-�u���[�A���[�A���[�I�@������Ă�́A�q�i�^�I�v
+「あー、あー、あー！　何やってるの、ヒナタ！」
 
-;����
-;�{�C�X�̑��݊m�F�B����ꍇON
+;メモ
+;ボイスの存在確認。ある場合ON
 
-;�c�L��:�u�q�i�^�A�P�K�����c�c�ɂ����ł��A�q�i�^���񂶂Ⴄ�ł��v
+;ツキヨ:「ヒナタ、ケガした……痛そうです、ヒナタ死んじゃうです」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice konb0014
-�y�R�m�~�z�u���[�A���[�A�����ց`��v
+【コノミ】「あー、あー、たいへ〜ん」
 
-�u���̂��c�c���ĂȂ��ŃR�m�~�������Ă����Ȃ�v
+「あのさ……見てないでコノミが治してあげなよ」
 
-���䂵��������đ������Ă�q�i�^�����Ă�ƁA�������ɂƂ���̂��킩�邯�ǁB
+怪我したからって走り回ってるヒナタを見てると、あっけにとられるのもわかるけど。
 
-�����̕������䂵���񂶂�Ȃ������Ă��炢�����ɂȂ��Ă�c�L���͂Ƃ������A���Ă邾���Ȃ�ĂЂǂ����B
+自分の方が怪我したんじゃないかってぐらい蒼白になってるツキヨはともかく、見てるだけなんてひどいぞ。
 
 ;FACE K06F
 #face f_kon_0_06f 94 466
 
 
 #voice konb0015
-�y�R�m�~�z�u���A�������`�B���񂢂���B�q�i�^�A���݂��ā`�v
+【コノミ】「あ、そかぁ〜。うんいいよ。ヒナタ、手を貸して〜」
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0048
-�y�q�i�^�z�u�ӂɂイ�H�v
+【ヒナタ】「ふにゅう？」
 
-�R�m�~�̓q�i�^�̎�����ƁA�����Ɏ�����������B
+コノミはヒナタの手を取ると、傷口に手をかざした。
 
-�ς����ƃR�m�~�̎肪�D������������A���̌����q�i�^�Ɉڂ��āA�݂�݂鏝���������Ă����B
+ぱぁっとコノミの手が優しい光を放ち、その光がヒナタに移って、みるみる傷口が癒えていく。
 
 ;CHR H04F2 C
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0049
-�y�q�i�^�z�u�����c�c�Ȃ������c�c�v
+【ヒナタ】「おぉ……なおった……」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0014
-�y�c�L���z�u�c�c�ق��B�������ł��A�ǂ������ł��v
+【ツキヨ】「……ほっ。治ったです、良かったです」
 
-�c�L�����ق��Ƃ����l�q�ŋ��𕏂ŉ��낵�Ă���B
+ツキヨがほっとした様子で胸を撫で下ろしている。
 
 ;CHR H08F2 C
-#cg �q�i�^ hin_1_08f2 ��
+#cg ヒナタ hin_1_08f2 中
 #wipe fade
 
 #voice hinb0050
-�y�q�i�^�z�u���肪�ƁI�@�R�m�~�I�v
+【ヒナタ】「ありがと！　コノミ！」
 
 ;FACE K01F2B
 #face f_kon_0_01f2b 94 466
 
 
 #voice konb0016
-�y�R�m�~�z�u�ǂ��������܂��āA���悧�`�v
+【コノミ】「どういたしまして、だよぉ〜」
 
-�q�i�^�͂Ƃт�����̊��������Ȋ�ŃR�m�~�ɔ�т����B
+ヒナタはとびっきりの嬉しそうな顔でコノミに飛びついた。
 
-�c�c���������΁A���߂ĉ�������ɁA�����̉���͎������r�߂Ď������Č����Ă������B
+……そういえば、初めて会った時に、自分の怪我は自分で舐めて治すって言ってたっけ。
 
-�u���������ł���F�B���o���Ă悩�����ȁA�q�i�^�v
+「治しっこできる友達が出来てよかったな、ヒナタ」
 
 #voice hinb0051
-�y�q�i�^�z�u������I�@�R�m�~�����P�K������q�i�^���Ȃ����Ă�����˂��I�v
+【ヒナタ】「うんっ！　コノミがおケガしたらヒナタがなおしてあげるねっ！」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0015
-�y�c�L���z�u�c�c���䂵����A�����܂��v
+【ツキヨ】「……怪我したら、治します」
 
-���������Ǝ^������悤�Ƀc�L��������グ���B
+おずおずと賛同するようにツキヨも手を上げた。
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0017
-�y�R�m�~�z�u����A���肪�Ɓ`�v
+【コノミ】「うん、ありがと〜」
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0052
-�y�q�i�^�z�u�c�L�����C�o�����j���Q��������Ȃ����Ă�����񂾂��I�@�͂₭���ꂩ�P�K���Ȃ����Ȃ��I�v
+【ヒナタ】「ツキヨもイバラもニンゲンさんもなおしてあげるんだっ！　はやくだれかケガしないかなっ！」
 
-�u���낵�����ƌ����Ȃ�A�q�i�^�v
+「恐ろしいこと言うなよ、ヒナタ」
 
-�q�i�^�̂��Ƃ�����N���̖��ɗ����������Ă����ŁA���ӂ͂Ȃ��񂾂낤���ǁc�c�B
+ヒナタのことだから誰かの役に立ちたいってだけで、他意はないんだろうけど……。
 
-���䂵�Ȃ����Ȃ��āA����͂Ȃ����낤�B
+怪我しないかなって、それはないだろう。
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0053
-�y�q�i�^�z�u���A�����B�P�K����������炢��������ˁv
+【ヒナタ】「あ、そか。ケガしちゃったらいたいもんね」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0018
-�y�R�m�~�z�u���͂́`�A��������`�v
+【コノミ】「あはは〜、そうだよ〜」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0016
-�y�c�L���z�u����A���Ȃ��ق��������ł��v
+【ツキヨ】「怪我、しないほうがいいです」
 
-�ǂ��Ƃ݂�Ȃŏ΂��o���B
+どっとみんなで笑い出す。
 
-����ȑ����̒��ł��A�C�o���͈�l�M�S�ɍ�Ƃ𑱂��Ă����B
+そんな騒ぎの中でも、イバラは一人熱心に作業を続けていた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�����i�[�j->��
+;背景：山小屋（夕）->昼
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�����q�i�^��R�m�~�A�c�L���͂�������O�����芮�������Ăǂ����ɍs���Ă��܂����Ƃ����̂ɁA�C�o���͂ЂƂ�撣���Ă����B
+もうヒナタやコノミ、ツキヨはすっかり飽きたり完成させてどこかに行ってしまったというのに、イバラはひとり頑張っていた。
 
-�悭�����Ȃ��A�Ǝv���Ȃ���A��������������Ă���ƓˑR�C�o��������グ���B
+よく続くなぁ、と思いながら、俺も小物を作っていると突然イバラが奇声を上げた。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0036
-�y�C�o���z�u�킟�������������I�v
+【イバラ】「わぁああああああ！」
 
-�u�ǁA�ǂ������́H�v
+「ど、どうしたの？」
 
-�т����肵�č�肩���̔��������藎�Ƃ������ɂȂ����B
+びっくりして作りかけの髪飾りを取り落としそうになった。
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0037
-�y�C�o���z�u��肭�o���Ȃ��I�@����Ȃ̂�����߂����I�v
+【イバラ】「上手く出来ない！　こんなのもうやめたっ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o���͂��������ĕs�@�������ɒ����Ă������̂����o���ƁA�������o�čs�����B
+イバラはそう言って不機嫌そうに彫っていたものを放り出すと、小屋を出て行った。
 
-�u�c�c��̂Ȃ񂾂��Č����񂾁H�v
+「……一体なんだって言うんだ？」
 
-�C�o��������o����������Ɏ��ƁA�Ԃт�̕������傫�������Ă��܂��Ă����B
+イバラが放り出した物を手に取ると、花びらの部分が大きく欠けてしまっていた。
 
-�u�Ȃ�قǁv
+「なるほど」
 
-��قǂ̊�́A�d�グ�̒i�K�Ŏv���悤�ɂ������グ�����̂炵���B
+先ほどの奇声は、仕上げの段階で思うようにいかず上げたものらしい。
 
-�u�������A�������������܂ł͏�肭�ł��Ă�̂Ɂc�c�v
+「しかし、せっかくここまでは上手くできてるのに……」
 
-���̂܂ܓ����o���Ă��܂��̂͂Ȃ񂾂����������Ȃ��悤�ȋC�������B
+このまま投げ出してしまうのはなんだかもったいないような気がした。
 
-;BGMch2 amb003 ��~
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;�w�i�F�R�����O�i��j
+;背景：山小屋前（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
 #wipe fade
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;���t�ύX
+;日付変更
 
-;�w�i�F�R�����O�i���j
+;背景：山小屋前（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-;����
+;驚き
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0038
-�y�C�o���z�u�c�c�v
+【イバラ】「……」
 
-�������Ċ��̏�ɒu����Ă��������̍�i�ɁA�����o�Ȃ����炢�����Ă���B
+完成して机の上に置かれていた自分の作品に、声も出ないくらい驚いている。
 
-�u���s�����Ƃ��������S�̂̌`���ǂ��Ȃ�������v
+「失敗したとこ削ったら全体の形も良くなったから」
 
-�C�o��������o���Ă������׍H���A�������傢���傢�Ǝd�グ�Ă������̂��B
+イバラが放り出していった細工を、俺がちょいちょいと仕上げておいたのだ。
 
-����܂���������ƃC�o����������̂ƕʕ��ɂȂ��Ă��܂�����A�Œ��������͉����Ă��Ȃ��B
+あんまり手を加えるとイバラが作ったのと別物になってしまうから、最低限しか手は加えていない。
 
-����ł��C�ɐH��Ȃ���������Ȃ����ǁc�c�B
+それでも気に食わないかもしれないけど……。
 
-�u�c�c�]�v�Ȃ��Ƃ��������ȁv
+「……余計なことだったかな」
 
 #voice ibab0039
-�y�C�o���z�u�ǂ����āc�c�H�v
+【イバラ】「どうして……？」
 
-�C�o���͋�������̂܂܁A�₢�����Ă����B
+イバラは驚いた顔のまま、問いかけてきた。
 
-����́A�ǂ����ď���Ȃ��Ƃ������̂��A�Ƃ����Ӗ��Ȃ̂��A����Ƃ��A�����ƈႤ�����Ȃ̂��c�c�B
+これは、どうして勝手なことをしたのか、という意味なのか、それとも、もっと違う何かなのか……。
 
-�u�����������ɏo���Ă�̂ɁA�����o���Ă������������������������Ȃ��ȂƎv���āv
+「せっかく上手に出来てるのに、投げ出していっっちゃったからもったいないなと思って」
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0040
-�y�C�o���z�u���c�c�I�v
+【イバラ】「っ……！」
 
-�f���ɓ�����ƁA�C�o���̊炪��u�����o�������ɂ�������Ƙc�񂾁B
+素直に答えると、イバラの顔が一瞬泣き出しそうにくしゃっと歪んだ。
 
-��΂��A�����̂��̂Ɏ����������̂͂���ς茙�������̂��I�H
+やばい、自分のものに手を加えられるのはやっぱり嫌だったのか！？
 
-�u���c�c���߁c�c�v
+「あ……ごめ……」
 
-���߂�A�Ǝӂ낤�Ƃ����Ƃ���ŁA�C�o���̕\��͎v���؂��т��B���Ȃ����̂ɂȂ����B
+ごめん、と謝ろうとしたところで、イバラの表情は思い切り喜びを隠せないものになった。
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0041
-�y�C�o���z�u�ӁA�ӂӂ���I�@�{�N�����܂�ɏ�肾����j���Q��������`���������Ȃ����񂾂Ȃ��I�v
+【イバラ】「ふ、ふふんっ！　ボクがあまりに上手だからニンゲンもお手伝いしたくなったんだなっ！」
 
-�Ȃ񂾁A����ɂ�����ꂽ�̂��C�ɐH��Ȃ����Ă킯����Ȃ������̂��B
+なんだ、勝手にいじられたのが気に食わないってわけじゃなかったのか。
 
-�u����A�������ȁv
+「うん、そうかな」
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0042
-�y�C�o���z�u�ӂӂ�I�v
+【イバラ】「ふふん！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�v�킸�C�o���̓��𕏂łĂ���Ɣ�э���ł����q�i�^���A�܂������Ȑ����グ���B
+思わずイバラの頭を撫でていると飛び込んできたヒナタが羨ましそうな声を上げた。
 
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 ;CHR H02F2 R
-#cg �q�i�^ hin_1_02f2 �E
+#cg ヒナタ hin_1_02f2 右
 #wipe fade
 
 #voice hinb0054
-�y�q�i�^�z�u���[���I�@�C�o���ȂłȂł��Ă���I�@�����Ȃ��I�@�q�i�^�����I�v
+【ヒナタ】「あーっ！　イバラなでなでしてるっ！　いいなっ！　ヒナタもっ！」
 
-�u�����A������v
+「あぁ、いいよ」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0019
-�y�R�m�~�z�u�{�N���`�v
+【コノミ】「ボクも〜」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0017
-�y�c�L���z�u�ȂłȂŁA���Ăق����ł��v
+【ツキヨ】「なでなで、してほしいです」
 
-�ꏏ�ɓ����Ă����R�m�~��c�L���܂ł�����ő҂��Ă���B
+一緒に入ってきたコノミやツキヨまでが並んで待っている。
 
-�����͂ȂłȂł���n�܂肩�B
+今日はなでなでから始まりか。
 
-��ʂ蕏�ł��Ė��������炵���q�i�^�͖ڂ��Ƃ����̏�ɖڂ������B
+一通り撫でられて満足したらしいヒナタは目ざとく机の上に目をつけた。
 
 ;CHR H06F2 R
-#cg �q�i�^ hin_1_06f2 �E
+#cg ヒナタ hin_1_06f2 右
 #wipe fade
 
 #voice hinb0055
-�y�q�i�^�z�u�ӂ킟�������������I�@�C�o���A������������I�@������I�v
+【ヒナタ】「ふわぁあああああっ！　イバラ、すっごいよっ！　これっ！」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0020
-�y�R�m�~�z�u����B�j���Q������݂����ɏ�肾�Ǝv���`�v
+【コノミ】「うん。ニンゲンくんみたいに上手だと思う〜」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0018
-�y�c�L���z�u�ق�Ƃ́A���Ԃ݂����ł��v
+【ツキヨ】「ほんとの、お花みたいです」
 
-���x�̓C�o�����������Ԃ��͂�ł̕i�]��B
+今度はイバラが彫った花を囲んでの品評会だ。
 
-�܂��������킵�Ȃ��Ƃ������Ȃ�Ƃ������c�c�B
+まったくせわしないというかなんというか……。
 
 #voice ibab0043
-�y�C�o���z�u�ӂӁ[��A�{�N�ɂ�����΂���Ȃ̊ȒP���ˁI�v
+【イバラ】「ふふーん、ボクにかかればこんなの簡単だね！」
 
-�C�o���͖J�߂��Ă�قǊ������̂��A�������ɂЂ�����Ԃ肻���Ȑ����ŋ������炵�Ă���B
+イバラは褒められてよほど嬉しいのか、もう後ろにひっくり返りそうな勢いで胸をそらしている。
 
 ;CHR H01F2 R
-#cg �q�i�^ hin_1_01f2 �E
+#cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hinb0056
-�y�q�i�^�z�u�q�i�^�A����ق����I�v
+【ヒナタ】「ヒナタ、これほしい！」
 
 ;CHR I06F L
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 左
 #wipe fade
 
 #voice ibab0044
-�y�C�o���z�u�ׁA�ʂɂ����Ă���Ă��������ǁv
+【イバラ】「べ、別にあげてやってもいいけど」
 
-�̂����Ɍ����Ȃ�����A�C�o���͂��������������������B
+偉そうに言いながらも、イバラはすごく嬉しそうだった。
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0021
-�y�R�m�~�z�u���Ⴀ���`�A�{�N��������̂��c�L����������̂��A�F�łƂ������������Ȃ��`�H�v
+【コノミ】「じゃあさ〜、ボクが作ったのもツキヨが作ったのも、皆でとっかえっこしない〜？」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0019
-�y�c�L���z�u�ӂ�A���ԁA����Ă����ł��H�v
+【ツキヨ】「ふわ、仲間、入れてくれるです？」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0022
-�y�R�m�~�z�u����A�����Ē��Ԃł���`�H�@�j���Q��������`�v
+【コノミ】「うん、だって仲間でしょ〜？　ニンゲンくんも〜」
 
-�u���H�@�����H�v
+「え？　俺も？」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0045
-�y�C�o���z�u������O���B�ꏏ����Ȃ��ƈӖ����Ȃ����낤�I�v
+【イバラ】「当たり前だ。一緒じゃないと意味がないだろう！」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0020
-�y�c�L���z�u�F�łƂ����������ł��v
+【ツキヨ】「皆でとっかえっこです」
 
-�u�c�c���͔̂��蕨�ɂ�����肾�����񂾂��ǂȁv
+「……俺のは売り物にするつもりだったんだけどな」
 
-�܂��A���񂮂炢�͂������B
+まぁ、今回ぐらいはいいか。
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0021
-�y�c�L���z�u��[�j���Q������̂���ς肷���������ł��v
+【ツキヨ】「わーニンゲンさんのやっぱりすっごく上手です」
 
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 #wipe fade
 
 #voice ibab0046
-�y�C�o���z�u�{�N�̎��ɂ��܂��񂶂�Ȃ����H�v
+【イバラ】「ボクの次にうまいんじゃないか？」
 
 ;CHR H01F1 R
-#cg �q�i�^ hin_1_01f1 �E
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0057
-�y�q�i�^�z�u�R�m�~���������̂Ȃɂ���I�v
+【ヒナタ】「コノミがつくったのなにこれ！」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0023
-�y�R�m�~�z�u�ӂӂӁA����͂ˁ`�v
+【コノミ】「ふふふ、これはね〜」
 
-�c�c���������̂��Ă����ȁB
+……こういうのっていいな。
 
-�C�o�������ƍ�����׍H�����������Ȃ���A���͂Ȃ�Ƃ��g�����C���𖡂���Ă����B
+イバラたちと作った細工物を交換しながら、俺はなんとも暖かい気分を味わっていた。
 
-;�C�o���D���x+1
+;イバラ好感度+1
 #set f2 f2+1
 
-;b02_1��
+;b02_1へ
 #next b02_1

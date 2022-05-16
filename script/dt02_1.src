@@ -1,10 +1,10 @@
 
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG41_1
 
 #mes off fade
@@ -27,495 +27,495 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
 #bgvoice stop
 
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u�͂��������������c�c�v
+「はぁああああああ……」
 
-�F���o�čs���Ă��܂��Ă���A���x�ڂ��̂��ߑ������B
+皆が出て行ってしまってから、何度目かのため息をつく。
 
-�}�ɏ������L���Ȃ����C�����ė��������Ȃ��B
+急に小屋が広くなった気がして落ち着かない。
 
-�ЂƂ�ɂ���Ă����Ȃ�͉Ԕ��Ȃ񂩂ɑ����^�ԋC�ɂ͓���Ȃ�Ȃ������B
+ひとりにされていきなりは花畑なんかに足を運ぶ気には到底なれなかった。
 
-�c�L���ƃC�o���ɒ����肵�Ă��炨���Ǝv��������������A�ʂɕK�v�Ȃ��Ƃ����ΕK�v�Ȃ��񂾂��ǁB
+ツキヨとイバラに仲直りしてもらおうと思っただけだから、別に必要ないといえば必要ないんだけど。
 
-�����ʂꂪ����Ȃ�Ă��Ƃ͏��m���Ă����B
+いつか別れが来るなんてことは承知していた。
 
-�����ǁA���̕ʂ���Ă����̂͂����ƌ��l�ɂ�������A���邢�̓G���t�����������̎����I�ɖK�����̂��Ǝv���Ă����B
+だけど、その別れっていうのはもっと厳粛にだったり、あるいはエルフたちか俺かの自発的に訪れるものだと思っていた。
 
-�܂�������Ȃɂ�������ƁA��O�҂̓o��ɂ���ċN������̂������Ȃ�āc�c�B
+まさかあんなにあっさりと、第三者の登場によって起きるものだったなんて……。
 
-�����������ǂ��Ȃ����G���t������N���̃G���t�ɘA�ꋎ��ꂽ���Ƃ��A���̎��]�ɂ������C����傫�����Ă���̂�������Ȃ������B
+せっかく仲良くなったエルフたちを年長のエルフに連れ去られたことが、俺の失望にも似た気分を大きくしているのかもしれなかった。
 
-����������ۂ����Ƃ������Ă��̂́A�C�o�������B�������C�o�����A�����̖�ڂ��ʂ����Ȃ�����Ƃ����Ƃ��A����ȗ��R�������݂��������ȁ[�c�c�B
+反発するっぽいことを言ってたのは、イバラだけ。しかもイバラも、自分の役目を果たせないからとか何とか、そんな理由だったみたいだしなー……。
 
-���ƌ������炢���̂��w�������肵���x�Ƃ������Ƃ��낾�B
+何と言ったらいいのか『がっかりした』といったところだ。
 
-����̓G���t�����Ɍ�����ꂽ���̂Ȃ̂��A�������ł���������ƐH��������Ȃ����������ɑ΂��Ă��͂킩��Ȃ����ǁB
+それはエルフたちに向けられたものなのか、あそこでもうちょっと食い下がれなかった自分に対してかはわからないけど。
 
-;SE�@�Ƃ�Ƃ�ƃh�A����������
+;SE　とんとんとドアをたたく音
 
-�Ƃ�A�Ƃ�B
+とん、とん。
 
-���ꂪ�N���҂̐������Ă�Ȃ񂾂낤���B
+あれが年長者の凄味ってやつなんだろうか。
 
-���̃G���t�͉��Ƃ��قǔN�͕ς��Ȃ��悤�Ɍ��������ǁA�����炭����ŉ���΂Ȃ񂾂낤�B
+あのエルフは俺とさほど年は変わらないように見えたけど、おそらくあれで何千歳なんだろう。
 
-�G���t�̎��Ԃ̗�����Ă�́c�c�B
+エルフの時間の流れってやつは……。
 
-;SE�@�Ƃ�Ƃ�ƃh�A����������
+;SE　とんとんとドアをたたく音
 
-�Ƃ�A�Ƃ�B
+とん、とん。
 
-�u�c�c��v
+「……ん」
 
-����������T���߂ɔ��ɉ������Ԃ��鉹������B
+さっきから控えめに扉に何かがぶつかる音がする。
 
-�Ђ���Ƃ��ĒN���߂��Ă����񂾂낤���B
+ひょっとして誰か戻ってきたんだろうか。
 
-���ŉ������Ԃ����Ă��邾����������Ȃ����ǁc�c�B
+風で何かがぶつかっているだけかもしれないけど……。
 
-;SE�@�Ƃ�Ƃ�ƃh�A����������
+;SE　とんとんとドアをたたく音
 
-�Ƃ�A�Ƃ�B
+とん、とん。
 
-����A�ԈႢ�Ȃ��B�K��҂��B
+いや、間違いない。訪問者だ。
 
-���͐��������ė����オ��ƁA�v������������J�����B
+俺は勢いをつけて立ち上がると、思いっきり扉を開いた。
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tuke0036
-�y�c�L���z�u������I�H�v
+【ツキヨ】「きゃっ！？」
 
-���̊O�ɗ����Ă����̂́A�c�L���������B
+扉の外に立っていたのは、ツキヨだった。
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0037
-�y�c�L���z�u���Ԕ��A�s���Ȃ������ł��H�v
+【ツキヨ】「お花畑、行かなかったです？」
 
-�u���A�����c�c�v
+「あ、あぁ……」
 
 #voice tuke0038
-�y�c�L���z�u���Ⴀ�A�����Ă��ł��H�v
+【ツキヨ】「じゃあ、何してたです？」
 
-�u�ʂɁc�c�����c�c�v
+「別に……何も……」
 
 #voice tuke0039
-�y�c�L���z�u���ꂩ�牽������ł��H�v
+【ツキヨ】「これから何かするです？」
 
-�u���ɗ\��͂Ȃ����ǁA�c�L�����߂��Ă����Ȃ�\��ʂ�F�Łc�c�v
+「特に予定はないけど、ツキヨが戻ってきたなら予定通り皆で……」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0040
-�y�c�L���z�u�F�c�c�v
+【ツキヨ】「皆……」
 
-�c�L���͍l�����ނ悤�Ɍ�������ł��܂��B
+ツキヨは考え込むように口をつぐんでしまう。
 
-�u���A����A���v
+「あ、いや、つい」
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0041
-�y�c�L���z�u�F�A���Ȃ��ł��B�c�L�������ł��v
+【ツキヨ】「皆、いないです。ツキヨだけです」
 
-�u���߂�A�c�L�����߂��Ă��Ă��ꂽ�̂����ꂵ���āA�������ʂ�ɊF���������œ������������v
+「ごめん、ツキヨが戻ってきてくれたのがうれしくて、ついいつも通りに皆がいるつもりで答えちゃったよ」
 
 #voice tuke0042
-�y�c�L���z�u�c�L����������c�c���߂ł��H�v
+【ツキヨ】「ツキヨだけじゃ……だめです？」
 
-�u����Ȃ��肶��Ȃ������񂾂��ǁc�c�v
+「そんなつもりじゃなかったんだけど……」
 
-��������ł��܂������낤�c�L���ɂ����錾�t���A����ȏ㉴�͎����Ă��Ȃ������B
+落ち込んでしまっただろうツキヨにかける言葉を、これ以上俺は持っていなかった。
 
-�u���߂�c�c�v
+「ごめん……」
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
 
 #voice hine0016
-�y�q�i�^�z�u�j���Q������A�Ȃ�ł���܂��Ă�́[�I�H�@�Ȃ񂩃����C�R�g�����̂��I�H�v
+【ヒナタ】「ニンゲンさん、なんであやまってるのー！？　なんかワルイコトしたのっ！？」
 
-�u������I�H�v
+「うわっ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���ƃc�L���̊ԂɂЂ傱���ƃq�i�^������o���āA�������͎v�킸�̂��������B
+俺とツキヨの間にひょこっとヒナタが顔を出して、俺たちは思わずのけぞった。
 
 ;CHR H11F_A R
-#cg �q�i�^ hin_1_11f_a �E
+#cg ヒナタ hin_1_11f_a 右
 #wipe fade
 
 #voice hine0017
-�y�q�i�^�z�u�˂ˁA�Ȃɂ����́I�H�@�����C�R�g�����烁���Ȃ񂾂���I�v
+【ヒナタ】「ねね、なにしたの！？　ワルイコトしたらメっなんだよっ！」
 
 ;CHR T06F_L L
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 左
 #wipe fade
 
 #voice tuke0043
-�y�c�L���z�u�߂��āc�c�����ł��H�v
+【ツキヨ】「戻って……きたです？」
 
 #voice hine0018
-�y�q�i�^�z�u��H�@���H�@�c�L���Ƃ������傾��[�I�@�q�i�^�͂��Ȃ��Ȃ��Ă��ց[�������A�Ƃ��イ�ł��Ă��̂�߂Ă��ǂ��Ă����́I�v
+【ヒナタ】「ん？　んん？　ツキヨといっしょだよー！　ヒナタはいなくなってもへーきだし、とちゅうでついてくのやめてもどってきたの！」
 
 #voice tuke0044
-�y�c�L���z�u���v�A�ł��c�c�H�v
+【ツキヨ】「大丈夫、です……？」
 
-�������߂��Ă��Ă���Ƃ����̂ɁA�s�����Ƀc�L���̓q�i�^�Ɏ����������B
+自分も戻ってきているというのに、不安げにツキヨはヒナタに首をかしげる。
 
 ;CHR H08F1_A R
-#cg �q�i�^ hin_1_08f1_a �E
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hine0019
-�y�q�i�^�z�u��������[�Ԃ��I�@�����āA�P�b�J�C�Ƃ����Ⴄ�܂ł܂��W�J��������Ă����Ă����v
+【ヒナタ】「だいじょーぶっ！　だって、ケッカイとじちゃうまでまだジカンあるっていってたし」
 
-�u�c�c���E����̑��܂����肵�Ȃ��́H�v
+「……結界閉じるの早まったりしないの？」
 
 ;CHR T01F_L L
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tuke0045
-�y�c�L���z�u�����A����͑��v�A�ł��B�����l�A�܂�ۂɂȂ�܂ŁA����̗͂��[�����Ȃ��A�ł��v
+【ツキヨ】「多分、それは大丈夫、です。お月様、まん丸になるまで、安定の力が充実しない、です」
 
-�u����̗́H�@���E����邽�߂ɕK�v�ȗ͂��Ď��H�v
+「安定の力？　結界を作るために必要な力って事？」
 
 #voice tuke0046
-�y�c�L���z�u�͂��A�ł��v
+【ツキヨ】「はい、です」
 
 ;CHR H01F2_A R
-#cg �q�i�^ hin_1_01f2_a �E
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 
 #voice hine0020
-�y�q�i�^�z�u�`�J��������Ȃ��񂾂���v
+【ヒナタ】「チカラがたんないんだよっ」
 
-�u�Ȃ�قǁv
+「なるほど」
 
-�͂�����Ȃ�����A�܂����E����邱�Ƃ��ł��Ȃ��c�c�ƁA���������킯���B
+力が足りないから、まだ結界を閉じることができない……と、そういうわけか。
 
-�u����H�@���Ⴀ�A���̃G���t�͂Ȃ�ł��O�������}���ɗ����񂾁H�v
+「あれ？　じゃあ、あのエルフはなんでお前たちを迎えに来たんだ？」
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 
 #voice tuke0047
-�y�c�L���z�u�}���ɗ����́A�R�m�~�ƃC�o���A�ł��v
+【ツキヨ】「迎えに来たの、コノミとイバラ、です」
 
 #voice hine0021
-�y�q�i�^�z�u�q�i�^�����͂��Ȃ��Ȃ��Ă��ց[���Ȃ񂾂���I�v
+【ヒナタ】「ヒナタたちはいなくなってもへーきなんだよっ！」
 
 #voice tuke0048
-�y�c�L���z�u�ł��v
+【ツキヨ】「です」
 
-�u�Ȃ�ŁH�v
+「なんで？」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0049
-�y�c�L���z�u�_�[�N�G���t�ƁA�n�[�t�G���t�A�i�i�V�͂���Ȃ��A�ł��v
+【ツキヨ】「ダークエルフと、ハーフエルフ、ナナシはいらない、です」
 
-�u���c�c�v
+「っ……」
 
-�܂��������B
+また失言だ。
 
-�q�i�^�̖��邳�ɂ��Ă��^��𔭂��Ă��܂������A�w����Ȃ��x�Ȃ�Ă���Ȃ��ƁA�����Ō��������킯���Ȃ��B
+ヒナタの明るさにつられてつい疑問を発してしまったが、『いらない』なんてそんなこと、自分で言いたいわけがない。
 
-�u���߂�c�c�v
+「ごめん……」
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hine0022
-�y�q�i�^�z�u���[�A�j���Q������͂܂�����܂�I�@����܂�Ȃ��Ⴂ���Ȃ����Ƃ�����A���b�ł���I�v
+【ヒナタ】「もー、ニンゲンさんはまたあやまる！　あやまらなきゃいけないことしちゃ、メッでしょ！」
 
-�u�c�c�������ȁB�q�i�^�̌����Ƃ��肾�v
+「……そうだな。ヒナタの言うとおりだ」
 
 ;CHR H04F1_A R
-#cg �q�i�^ hin_1_04f1_a �E
+#cg ヒナタ hin_1_04f1_a 右
 #wipe fade
 
 #voice hine0023
-�y�q�i�^�z�u�����H�v
+【ヒナタ】「おりょ？」
 
-�u�����A���ĂȂ񂾂�v
+「おりょ、ってなんだよ」
 
 ;CHR H01F2_A R
-#cg �q�i�^ hin_1_01f2_a �E
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 
 #voice hine0024
-�y�q�i�^�z�u�Ȃ񂩂������������Ȃ��Ă�����������I�v
+【ヒナタ】「なんかいいかえすかなっておもったから！」
 
-�u�c�c�{���͉��̂��Ƃ��炩���Ă�H�v
+「……本当は俺のことからかってる？」
 
 #voice hine0025
-�y�q�i�^�z�u���炩���Ăȁ[������v
+【ヒナタ】「からかってなーいよっ」
 
-�u�͂��c�c�ǂ�����ǂ��܂ł��^�ʖڂȂ̂��悭�킩��Ȃ��ȁv
+「はぁ……どこからどこまでが真面目なのかよくわからないな」
 
 ;CHR H08F2_A R
-#cg �q�i�^ hin_1_08f2_a �E
+#cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hine0026
-�y�q�i�^�z�u�q�i�^�͂ǂ�����ǂ��܂ł��}�W��������I�v
+【ヒナタ】「ヒナタはどこからどこまでもマジメだよっ！」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
 #voice tuke0050
-�y�c�L���z�u�c�c�v
+【ツキヨ】「……」
 
-�q�i�^�Ɖ��ł��ق炵����b���J��L���Ă������A�c�L���͎v���߂��\������Ă����B
+ヒナタと俺であほらしい会話を繰り広げていたが、ツキヨは思いつめた表情をしていた。
 
 #voice tuke0051
-�y�c�L���z�u�c�c�ł��H�v
+【ツキヨ】「……です？」
 
-�u��H�v
+「ん？」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0052
-�y�c�L���z�u�Ȃ�ŁA�߂��Ă����ł��H�v
+【ツキヨ】「なんで、戻ってきたです？」
 
 ;CHR H03F2_A R
-#cg �q�i�^ hin_1_03f2_a �E
+#cg ヒナタ hin_1_03f2_a 右
 #wipe fade
 
-�c�L���̎���Ƀq�i�^�͏�����������ɂȂ����B
+ツキヨの質問にヒナタは少し困った顔になった。
 
-�q�i�^������Ȋ������̂͒������ȁB
+ヒナタがこんな顔をするのは珍しいな。
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 
 #voice tuke0053
-�y�c�L���z�u�c�L�������A���Ȃ��Ȃ��Ă�����Ȃ��ł��B������c�c�c�L�������������Ȃ��Ȃ��Ă��A�T���ɗ����肵�Ȃ��ł��v
+【ツキヨ】「ツキヨたち、いなくなっても困らないです。だから……ツキヨたちだけいなくなっても、探しに来たりしないです」
 
 #voice hine0027
-�y�q�i�^�z�u�����ˁv
+【ヒナタ】「そだね」
 
 #voice tuke0054
-�y�c�L���z�u���Ȃ��Ȃ����������A�����A�߂�Ȃ���������Ȃ��ł��v
+【ツキヨ】「いなくなっちゃったら、もう、戻れないかもしれないです」
 
 ;CHR H04F2_A R
-#cg �q�i�^ hin_1_04f2_a �E
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 
 #voice hine0028
-�y�q�i�^�z�u�����ˁv
+【ヒナタ】「そだね」
 
-�q�i�^�͂����ƃc�L�������߂��B
+ヒナタはじっとツキヨを見つめた。
 
 ;CHR T01F_L L
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tuke0055
-�y�c�L���z�u���������������ƁA����ł��H�v
+【ツキヨ】「何か言いたいこと、あるです？」
 
 #voice hine0029
-�y�q�i�^�z�u���̂ˁc�c�q�i�^���A�c�L����邭�Ȃ��Ƃ�������B�ł��A�C�o���ɂ���܂����ق��������񂶂�Ȃ����ȁv
+【ヒナタ】「あのね……ヒナタも、ツキヨわるくないとおもうよ。でも、イバラにあやまったほうがいいんじゃないかな」
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 
 #voice tuke0056
-�y�c�L���z�u���I�H�v
+【ツキヨ】「っ！？」
 
 ;CHR H03F1_A R
-#cg �q�i�^ hin_1_03f1_a �E
+#cg ヒナタ hin_1_03f1_a 右
 #wipe fade
 
 #voice hine0030
-�y�q�i�^�z�u���g���_�`����Ȃ����Ă����āA�C�o�����Ȃ������������c�c�Ȃ��Ȃ��肵���ق���������v
+【ヒナタ】「おトモダチじゃないっていわれて、イバラかなしそうだった……なかなおりしたほうがいいよ」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
-�q�i�^���߂������������B
+ヒナタも悲しそうだった。
 
-�������A�q�i�^�͂���������邽�߂ɂ킴�킴�߂��Ă����̂��c�c�B
+そうか、ヒナタはそれを告げるためにわざわざ戻ってきたのか……。
 
-���Ƙb���Ƃ��͂����݂����ɂ͂��Ⴂ�łӂ����Ă������ǁA�{���ɖ߂��Ă��Č������������̂͂��ꂾ�����̂��B
+俺と話すときはいつもみたいにはしゃいでふざけていたけど、本当に戻ってきて言いたかったのはこれだったのか。
 
-����A���̂��Ƃ̓q�i�^�ɂƂ��Đ؂�o���ɂ��������̂�������Ȃ��ȁB
+いや、このことはヒナタにとって切り出しにくかったのかもしれないな。
 
-������A�����ȏ�ɂ͂��Ⴂ�Ō����Ă����̂�������Ȃ��B
+だから、いつも以上にはしゃいで見せていたのかもしれない。
 
 ;CHR H02F2 R
-#cg �q�i�^ hin_1_02f2 �E
+#cg ヒナタ hin_1_02f2 右
 #wipe fade
 
 #voice hine0031
-�y�q�i�^�z�u�c�L�����������ǂ�Ȃ���ł��A���ǂ��ł�������B�ł��c�c���ǂ��Ȃ�S�����l�����ق��������񂶂�Ȃ����ȁv
+【ヒナタ】「ツキヨがもうもどらないんでも、もどるんでもいいよ。でも……もどるんならゴメンネしたほうがいいんじゃないかな」
 
-�ۂ�A�ۂ�A�Ǝ������g�����ꂪ��Ԃ����킯����Ȃ��ƁA�킩���Ă���݂����ɂ������q�i�^�͌������B
+ぽつり、ぽつり、と自分自身もそれが一番いいわけじゃないと、わかっているみたいにゆっくりヒナタは言った。
 
-�������c�c�����A�q�i�^�B�͂���܂ł�������Đ����Ă����񂾂낤�B
+そうか……多分、ヒナタ達はこれまでそうやって生きてきたんだろう。
 
-�w����Ȃ����́x�̃i�i�V�ɂ́A���ꂪ����t�̏����p���������Ƃ͑z������ɓ�Ȃ��B
+『いらないもの』のナナシには、それが精一杯の処世術だったことは想像するに難くない。
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0057
-�y�c�L���z�u�c�c�ł��v
+【ツキヨ】「……です」
 
 ;CHR H02F1 R
-#cg �q�i�^ hin_1_02f1 �E
+#cg ヒナタ hin_1_02f1 右
 #wipe fade
 
 #voice hine0032
-�y�q�i�^�z�u�c�L�����C���Ȃ�A�q�i�^����������ɃS�����Ă��邩��c�c�v
+【ヒナタ】「ツキヨがイヤなら、ヒナタもいっしょにゴメンてするから……」
 
 ;CHR T07F_L L
-#cg �c�L�� tuk_1_07f_l ��
+#cg ツキヨ tuk_1_07f_l 左
 #wipe fade
 
 #voice tuke0058
-�y�c�L���z�u�Ȃ�ŁA�q�i�^�܂ł���Ȃ��ƌ����ł����I�H�v
+【ツキヨ】「なんで、ヒナタまでそんなこと言うですっ！？」
 
 ;CHR H06F2_A R
-#cg �q�i�^ hin_1_06f2_a �E
+#cg ヒナタ hin_1_06f2_a 右
 #wipe fade
 
 #voice hine0033
-�y�q�i�^�z�u�ЂႤ���I�H�v
+【ヒナタ】「ひゃうっ！？」
 
-�@������悤�ɓ{���āA�q�i�^�͔�яオ�����B
+叩きつけるように怒鳴られて、ヒナタは飛び上がった。
 
 #voice tuke0059
-�y�c�L���z�u����Ȃ̗]�v�Ȃ����b�ł��I�@�Ȃ�Ńc�L�����ӂ�Ȃ��Ⴂ���Ȃ��ł����I�H�v
+【ツキヨ】「そんなの余計なお世話です！　なんでツキヨが謝らなきゃいけないですっ！？」
 
 #voice tuke0060
-�y�c�L���z�u�C�o���͓D�_��������Ȃ��A�_�[�N�G���t�������Č������ł��I�v
+【ツキヨ】「イバラは泥棒だけじゃなく、ダークエルフ汚いって言ったです！」
 
 ;CHR H03F1_A R
-#cg �q�i�^ hin_1_03f1_a �E
+#cg ヒナタ hin_1_03f1_a 右
 #wipe fade
 
 #voice hine0034
-�y�q�i�^�z�u�c�c���ǁA�C�o���͂��������S�������Ȃ���H�v
+【ヒナタ】「……けど、イバラはぜったいゴメンしないよ？」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
 #voice tuke0061
-�y�c�L���z�u�����炱�������炠��܂�ł��I�H�@����ł��I�@�����āA���̕z�̓c�L�������܂ꂽ�����玝���Ă邽������́c�c���A�����c�c�v
+【ツキヨ】「だからこっちからあやまるです！？　いやです！　だって、この布はツキヨが生まれた時から持ってるたった一つの……う、うぅ……」
 
-�c�L���͂��イ���ƌ��ɉ񂵂��z��͂񂾂܂ܐg��k�킹���B
+ツキヨはぎゅうっと肩に回した布を掴んだまま身を震わせた。
 
 #voice tuke0062
-�y�c�L���z�u��������グ�悤�Ƃ���́A�݂�ȓG�ł��B�G�Ɏӂ�Ȃ�Ă����q�i�^�������A��b�����ł��I�v
+【ツキヨ】「これを取り上げようとするの、みんな敵です。敵に謝れなんていうヒナタも嫌い、大ッ嫌いです！」
 
-�u�c�L���c�c�v
+「ツキヨ……」
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hine0035
-�y�q�i�^�z�u�q�i�^�̂��Ƃ��L���C�Ȃ́c�c�H�v
+【ヒナタ】「ヒナタのこともキライなの……？」
 
-�c�L���͋��������Ȋ�Ńq�i�^�ɂ�����������Ă݂����B
+ツキヨは泣きそうな顔でヒナタにこくりと頷いてみせた。
 
 ;CHR H03F2_A R
-#cg �q�i�^ hin_1_03f2_a �E
+#cg ヒナタ hin_1_03f2_a 右
 #wipe fade
 
 #voice hine0036
-�y�q�i�^�z�u���������c�c���炢�����c�c�����ꂿ������c�c���ւցv
+【ヒナタ】「そっかぁ……きらいかぁ……きらわれちゃった……えへへ」
 
-�q�i�^�͗͂Ȃ��΂��B
+ヒナタは力なく笑う。
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0063
-�y�c�L���z�u�����ł��B������ǂ����s�����Ⴆ�ł��I�v
+【ツキヨ】「嫌いです。だからどっか行っちゃえです！」
 
-�u����A������ƁA�c�L���c�c�v
+「ちょ、ちょっと、ツキヨ……」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
 #voice tuke0064
-�y�c�L���z�u�����ł��I�@�����Ȃ�ł��I�v
+【ツキヨ】「嫌いです！　嫌いなんです！」
 
-�����ƂЂƂ��Ԃ��тɁA�܂�Ńc�L���̕�������������Ă��邩�̂悤�Ɋ��c�߂Ă����B
+嫌いとひとつ叫ぶたびに、まるでツキヨの方がそれを言われているかのように顔を歪めていく。
 
-�q�i�^�ɂ��c�L���������Ă��邱�Ƃ��`����Ă���̂��A�q�i�^�͋����o�����ɏΊ����낤�Ƃ��Ă���B
+ヒナタにもツキヨが傷ついていることが伝わっているのか、ヒナタは泣き出さずに笑顔を作ろうとしている。
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hine0037
-�y�q�i�^�z�u����A�킩�����c�c���Ⴀ�A�q�i�^�A���������ˁc�c�v
+【ヒナタ】「うん、わかった……じゃあ、ヒナタ、もういくね……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u�q�i�^�I�H�v
+「ヒナタ！？」
 
-�q�i�^�͏�������ŁA����ł������ɏ΂��ĂƂڂƂڂƕ\�ɏo�Ă����B
+ヒナタは傷ついた顔で、それでも懸命に笑ってとぼとぼと表に出ていく。
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
-�ǂ������Ă������Ǝv�������ǁA���������ȃc�L����u���Ă������Ƃ��ł��Ȃ��āA���͂����Ƌ�����̂܂܂̃c�L���������B
+追いかけていこうと思ったけど、泣きそうなツキヨを置いていくこともできなくて、俺はずっと泣き顔のままのツキヨを見た。
 
-;�I��������
+;選択肢発生
 #select a b
-�`�F������������Ȃ�����
-�a�F�c�L���̓��𕏂ł�
+Ａ：言いすぎじゃないかな
+Ｂ：ツキヨの頭を撫でる
 
 #label a
 #next dt02a
@@ -523,5 +523,5 @@
 #label b
 #next dt02b
 
-;�`��I���ˁwdt02a�x�փW�����v
-;�a��I���ˁwdt02b�x�փW�����v
+;Ａを選択⇒『dt02a』へジャンプ
+;Ｂを選択⇒『dt02b』へジャンプ

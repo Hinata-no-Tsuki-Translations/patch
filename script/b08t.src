@@ -1,541 +1,541 @@
 
 
 
-;�w�i�F�R�����i���j
-;�ύX�Ȃ�
+;背景：山小屋（昼）
+;変更なし
 
-�u�c�L�����m���Ă�ꏊ���āA��������߂��H�v
+「ツキヨが知ってる場所って、ここから近い？」
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0601
-�y�c�L���z�u�͂���c�c�v
+【ツキヨ】「はわっ……」
 
-�c�L���͈�u�����������ꂽ���Ƃ��킩��Ȃ��̂��A����낫���ƕӂ�����񂵂āA���ꂩ�牴�����グ�A�����邨���鎩�����w�����B
+ツキヨは一瞬自分が聞かれたことがわからないのか、きょろきょろと辺りを見回して、それから俺を見上げ、おそるおそる自分を指差す。
 
 #voice tikb0602
-�y�c�L���z�u�����Ă�c�c�ł��H�v
+【ツキヨ】「聞いてる……です？」
 
-�u�����A�c�L���ɕ����Ă�񂾂�v
+「そう、ツキヨに聞いてるんだよ」
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tikb0603
-�y�c�L���z�u�c�c���A����ȂɁc�c�����Ȃ��A�ł��v
+【ツキヨ】「……そ、そんなに……遠くない、です」
 
-�����Ċ�𕚂���ƁA�������肻���ɐg���������߂āA�c�L���͂悤�₭�����Ă��ꂽ�B
+そして顔を伏せると、消え入りそうに身をちぢこめて、ツキヨはようやく答えてくれた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice ibab0683
-�y�C�o���z�u��H�@�c�L���������������H�v
+【イバラ】「ん？　ツキヨ何か言ったか？」
 
 #voice hinb0564
-�y�q�i�^�z�u�c�L���������Ă郏�i�o�͂���ȂɂƂ����Ȃ��񂾂��āI�v
+【ヒナタ】「ツキヨがしってるワナバはそんなにとおくないんだって！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0560
-�y�R�m�~�z�u���i�o�`�H�@㩏�H�@�c�L���A㩎d�|���Ă�́`�H�v
+【コノミ】「ワナバ〜？　罠場？　ツキヨ、罠仕掛けてるの〜？」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0684
-�y�C�o���z�u���H�@㩂��ƁI�H�@�c�L���͂���Ȃɍ��x�Ȑ�p���g����̂��I�H�@�N�Ɛ키�񂾁I�H�@�j���Q�����I�H�v
+【イバラ】「何？　罠だと！？　ツキヨはそんなに高度な戦術を使えるのか！？　誰と戦うんだ！？　ニンゲンか！？」
 
-�u���ŉ���㩂��d�|�����Ȃ���Ȃ�Ȃ��񂾂�v
+「何で俺が罠を仕掛けられなきゃならないんだよ」
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0685
-�y�C�o���z�u�j���Q���������z�����炾�I�v
+【イバラ】「ニンゲンが悪い奴だからだ！」
 
-�������A����㩂��d�|���Ă��Ȃ�A�����������������Ăǂ�����񂾂�c�c�B
+しかも、俺に罠を仕掛けてるんなら、それを今教えちゃってどうするんだよ……。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0604
-�y�c�L���z�u�����z����A�Ȃ��ł��v
+【ツキヨ】「悪い奴じゃ、ないです」
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0686
-�y�C�o���z�u����A�N�Ɛ키�񂾁H�v
+【イバラ】「じゃ、誰と戦うんだ？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hinb0565
-�y�q�i�^�z�u�킩�����I�@�������̂Ƃ��������񂾂�I�v
+【ヒナタ】「わかった！　くだものとたたかうんだよ！」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0687
-�y�C�o���z�u�ʕ����P���Ă���̂��I�H�@����ʕ�����Ȃ��Ė�������Ȃ��̂��I�H�v
+【イバラ】「果物が襲ってくるのか！？　それ果物じゃなくて魔物じゃないのか！？」
 
 ;CHR H08F1_A R
-#cg �q�i�^ hin_1_08f1_a �E
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hinb0566
-�y�q�i�^�z�u�����ς����邩���Ă����I�v
+【ヒナタ】「すっぱいしるかけてくるよ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K04F R
-#cg �R�m�~ kon_1_04f �E
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0561
-�y�R�m�~�z�u����`�A�_���ς��`�Ȃ�Ă����Ƃ��߂߂ɐ��݂�ˁ`�v
+【コノミ】「きゃ〜、酸っぱい汁なんてきっとおめめに染みるね〜」
 
 ;CHR I08F L
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0688
-�y�C�o���z�u�����c�c���낵���ȁv
+【イバラ】「おぉ……恐ろしいな」
 
-�c�c�ǂ�ȉʕ����A����B
+……どんな果物だ、それ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tikb0605
-�y�c�L���z�u㩂Ȃ񂩁A�d�|���ĂȂ��A�ł��v
+【ツキヨ】「罠なんか、仕掛けてない、です」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H02F2_A L
-#cg �q�i�^ hin_1_02f2_a ��
+#cg ヒナタ hin_1_02f2_a 左
 ;CHR K06F R
-#cg �R�m�~ kon_1_06f �E
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice hinb0567
-�y�q�i�^�z�u�����`�H�@����A���ꂪ���i�������Ă�́H�v
+【ヒナタ】「あれれ〜？　じゃ、だれがワナしかけてるの？」
 
 ;CHR K05F R
-#cg �R�m�~ kon_1_05f �E
+#cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0562
-�y�R�m�~�z�u㩏�A����㩎d�|���ĂȂ��́H�v
+【コノミ】「罠場、って罠仕掛けてないの？」
 
-�u���́`�������H�v
+「あの〜いいか？」
 
 #voice konb0563
-�y�R�m�~�z�u�ȂɁ`�A�j���Q������v
+【コノミ】「なに〜、ニンゲンくん」
 
-�u㩏�A����Ȃ��āA����̕����ԈႢ����Ȃ����H�v
+「罠場、じゃなくて、穴場の聞き間違いじゃないか？」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0568
-�y�q�i�^�z�u����A�q�i�^�A���i�o���Ƃ���������H�v
+【ヒナタ】「あれ、ヒナタ、ワナバだとおもったよ？」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0689
-�y�C�o���z�u���i�o�A����v
+【イバラ】「ワナバ、だろ」
 
 ;CHR K01F2B R
-#cg �R�m�~ kon_1_01f2b �E
+#cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0564
-�y�R�m�~�z�u�킩�����`�B�����������̂ł��т��񂹂�񂾁`�v
+【コノミ】「わかった〜。美味しいものでおびき寄せるんだ〜」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0690
-�y�C�o���z�u�������ȁA����͂�����㩂��v
+【イバラ】「頭いいな、それはすごい罠だ」
 
 ;CHR H06F2_A L
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0569
-�y�q�i�^�z�u�����������̂��ĂȂɁA�c�L�����I�H�v
+【ヒナタ】「おいしいものってなに、ツキヨっ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0606
-�y�c�L���z�u�m��Ȃ��ł��B㩁A�d�|���ĂȂ��ł��v
+【ツキヨ】「知らないです。罠、仕掛けてないです」
 
-�c�L���͍��f���āA���ɂ�����悤�Ȗڂ������Ă���B
+ツキヨは困惑して、俺にすがるような目を向けてくる。
 
-�u����A���Ă����̂́A���������m��Ȃ��悤�ȏꏊ�A�Ƃ�����܂�l�����Ȃ��ꏊ���ĈӖ�����v
+「穴場、っていうのは、自分しか知らないような場所、とかあんまり人が来ない場所って意味だよ」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 #voice konb0565
-�y�R�m�~�z�u�ق��A�ق��`�v
+【コノミ】「ほう、ほぉ〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 ;CHR H04F2_A R
-#cg �q�i�^ hin_1_04f2_a �E
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 
 #voice ibab0691
-�y�C�o���z�u����܂�l�����Ȃ��ꏊ��㩂��d�|���Ă��т��񂹂���A㩂��d�|�����̂��΂�Ȃ��ğr�Ő�������ȁI�@�c�L���A��m�������񂾂ȁI�v
+【イバラ】「あんまり人が来ない場所に罠を仕掛けておびき寄せたら、罠を仕掛けたのがばれなくて殲滅戦向きだな！　ツキヨ、策士だったんだな！」
 
 #voice hinb0570
-�y�q�i�^�z�u�������H�@�Ȃ�Ă��݁H�v
+【ヒナタ】「さくし？　なんていみ？」
 
 ;CHR I07F L
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 左
 #wipe fade
 
 #voice ibab0692
-�y�C�o���z�u�����������Ă��Ƃ��A�قߌ��t�����v
+【イバラ】「頭がいいってことだ、ほめ言葉だぞ」
 
 ;CHR H08F2_A R
-#cg �q�i�^ hin_1_08f2_a �E
+#cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hinb0571
-�y�q�i�^�z�u�����܂����I�@�c�L���A�����܂����̂��I�@�������ˁA�c�L���I�v
+【ヒナタ】「あたまいい！　ツキヨ、あたまいいのか！　すごいね、ツキヨ！」
 
-������������w㩏�x���Ǝv������ł���C�o���ɂ͂Ȃ�Ɛ������Ă��A�c�L����㩂��d�|�������ƂɂȂ��Ă���݂������B
+すっかりもう『罠場』だと思い込んでいるイバラにはなんと説明しても、ツキヨが罠を仕掛けたことになっているみたいだ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K02F2 C
-#cg �R�m�~ kon_1_02f2 ��
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0566
-�y�R�m�~�z�u�����Ȃ�����������Ă����ʂ��Ǝv����`�H�v
+【コノミ】「こうなったら説明しても無駄だと思うよ〜？」
 
-�������ƁA�R�m�~���c�L���Ɖ��ɘb�������Ă���B
+こそっと、コノミがツキヨと俺に話しかけてくる。
 
-�u�����A���������ˁv
+「あぁ、そうかもね」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0607
-�y�c�L���z�u�͂����`㩂Ȃ񂩂Ȃ��ł��c�c�v
+【ツキヨ】「はうぅ〜罠なんかないです……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;BGMch2 amb003 ��~
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;�w�i�F�X�i���j
+;背景：森（昼）
 ;BG BG04_1
 #cg all clear
 #bg BG04_1
 #wipe fade
 
-����Ȃ킯�ŁA�w㩏�x���Ǝv������ł���A�C�o���ƃq�i�^�̌���������̂͂�����߂āA�c�L���Ɉē����Ă��炤���ƂɂȂ����B
+そんなわけで、『罠場』だと思い込んでいる、イバラとヒナタの誤解を解くのはあきらめて、ツキヨに案内してもらうことになった。
 
-�c�L������Ă��Ă��ꂽ�w����x�ɂ́A�^���ԂȃN���i�C�m�~��A���F�̃R�K�l�m�~�A���̃V���J�C�m�~�Ȃ񂩂������Ɏ����Ă���B
+ツキヨがつれてきてくれた『穴場』には、真っ赤なクレナイノミや、黄色のコガネノミ、青紫のシンカイノミなんかがたわわに実っている。
 
-����͂��Ȃ茩���Ȍ��i�������B
+それはかなり見事な光景だった。
 
 ;CHR H06F2_A L
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0572
-�y�q�i�^�z�u�ق��������������I�@�������I�@�������̂����ς��I�v
+【ヒナタ】「ほぉおおおおおお！　すごい！　くだものいっぱい！」
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0693
-�y�C�o���z�u���A�҂āA�q�i�^�I�@�ǂ���㩂��d�|���Ă��邩�킩��Ȃ��񂾂��I�H�v
+【イバラ】「あ、待て、ヒナタ！　どこに罠が仕掛けてあるかわからないんだぞ！？」
 
-��������ʕ��������Ă�̂������q�i�^����э��ނ悤�ɋ삯����Ă����̂��Q�ĂăC�o�����~�߂悤�Ƃ���B
+たくさん果物が生ってるのを見たヒナタが飛び込むように駆け寄っていくのを慌ててイバラが止めようとする。
 
-�������A���������q�i�^�ɂ͐��~�̐��ȂǓ͂��Ă��Ȃ��݂����������B
+しかし、興奮したヒナタには制止の声など届いていないみたいだった。
 
 ;CHR H06F1_A L
-#cg �q�i�^ hin_1_06f1_a ��
+#cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0573
-�y�q�i�^�z�u�����[���A�܂����Ȃ̂Ƃ��A�����낢�̂Ƃ��A�L���C�Ȃ݂������ς��Ȃ��Ă��I�v
+【ヒナタ】「すごーい、まっかなのとか、きいろいのとか、キレイなみがいっぱいなってるよ！」
 
 ;CHR I10F2 R
-#cg �C�o�� iba_1_10f2 �E
+#cg イバラ iba_1_10f2 右
 #wipe fade
 
 #voice ibab0694
-�y�C�o���z�u���A�����c�c�Y��Ȏ��c�c�v
+【イバラ】「う、うぅ……綺麗な実……」
 
 ;CHR H06F2_A L
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0574
-�y�q�i�^�z�u�����I�H�@�����ۂ�ɂ������������ς��Ȃ��Ă��݂����I�v
+【ヒナタ】「おぉ！？　いっぽんにすっごくいっぱいなってるやつみつけた！」
 
-�u�����A�������ȃq�i�^�v
+「おぉ、すごいなヒナタ」
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0695
-�y�C�o���z�u�ځA�{�N�����I�@�Y��Ȏ���{���I�v
+【イバラ】「ぼ、ボクもっ！　綺麗な実を捜す！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o�����䖝������Ȃ��Ȃ����̂��A�ʕ��������Ă���΂݂ɑ��𓥂ݏo���Ă����B
+イバラも我慢しきれなくなったのか、果物が生っている茂みに足を踏み出していく。
 
 ;CHR K09F1 C
-#cg �R�m�~ kon_1_09f1 ��
+#cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0567
-�y�R�m�~�z�u���͂͂͂́`�A�Y��Ȃ̂�������āA�m���ɃC�o���ɂƂ�����㩂����ˁ`�v
+【コノミ】「あはははは〜、綺麗なのたくさんて、確かにイバラにとったら罠かもね〜」
 
-�u�͂͂́A���������ȁv
+「ははは、そうかもな」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0568
-�y�R�m�~�z�u���Ⴀ�A�{�N���V��ł���`���Ɓv
+【コノミ】「じゃあ、ボクも遊んでこよ〜っと」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�R�m�~���삯�o���Ă������A�c�L���͕s�������ɉ������グ�Ă���B
+コノミも駆け出していくが、ツキヨは不安そうに俺を見上げている。
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0608
-�y�c�L���z�u�����ɂ��Ă悩�����ł��H�v
+【ツキヨ】「ここにきてよかったです？」
 
-���͂��Ⴊ��Ńc�L���ɖڂ����킹���B
+俺はしゃがんでツキヨに目を合わせた。
 
 #voice tikb0609
-�y�c�L���z�u�͂�c�c�v
+【ツキヨ】「はわ……」
 
-�u�c�L���A����Ȃ������ꏊ�����Ă���Ă��肪�Ƃ��v
+「ツキヨ、こんなすごい場所教えてくれてありがとう」
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tikb0610
-�y�c�L���z�u�������A�ł��H�v
+【ツキヨ】「嬉しい、です？」
 
-�u�����A��������������v
+「あぁ、すごく嬉しいよ」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tikb0611
-�y�c�L���z�u�悩�����ł��v
+【ツキヨ】「よかったです」
 
-�u�������A�ǂ̎����悭�n���ĂĔ������������ȁv
+「しかし、どの実もよく熟してて美味しそうだな」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�������L�΂���Ƃ���̐^���ԂȃN���i�C�m�~�������ŁA�����������ɉ^�񂾁B
+俺も手を伸ばせるところの真っ赤なクレナイノミをもいで、さっそく口に運んだ。
 
-�u�₩�Ȏ������Ƌ��ɊÎ_���ς��ʏ`���������ς��Ɉ��Ėڂ����߂�قǂɔ����������B
+爽やかな歯ざわりと共に甘酸っぱい果汁が口いっぱいに溢れて目も醒めるほどに美味かった。
 
-�a�ݏオ��̎�����g�̂ɁA�V�N�Ȑ����̑��������ݓn���Ă����̂������ł���B
+病み上がりの弱った身体に、新鮮な生命の息吹が染み渡っていくのが実感できる。
 
-����H�ׂ邲�Ƃɗ͂��N���Ă���݂����������B
+一口食べるごとに力が湧いてくるみたいだった。
 
-�u�����A�������������ȁv
+「おぉ、しかも美味いな」
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tikb0612
-�y�c�L���z�u���������A�ł��H�v
+【ツキヨ】「おいしい、です？」
 
-�u�����A����Ȃɔ��������N���i�C�m�~�͂Ȃ��Ȃ��Ȃ����B����ۂǈ���������悩�����񂾂ȁv
+「あぁ、こんなに美味しいクレナイノミはなかなかないぞ。よっぽど育った環境がよかったんだな」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tikb0613
-�y�c�L���z�u���ււցc�c�v
+【ツキヨ】「えへへへ……」
 
-�c�L���͂܂�Ŏ������g���J�߂��ł������悤�Ɋ��������ɏ΂����B
+ツキヨはまるで自分自身が褒められでもしたように嬉しそうに笑った。
 
-�u�ق�A�c�L�����H�ׂĂ݂���H�v
+「ほら、ツキヨも食べてみたら？」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0614
-�y�c�L���z�u�͂��A�ł��v
+【ツキヨ】「はい、です」
 
-��������Ă������傫�ڂ̃N���i�C�m�~���󂯎��ƁA�厖�����ɗ���Ŏ����Ă����Ə��������𗧂ĂĖڂ����J�����B
+俺が取ってあげた大き目のクレナイノミを受け取ると、大事そうに両手で持ってそっと小さく歯を立てて目を見開いた。
 
-�u�ǂ��H�v
+「どう？」
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tikb0615
-�y�c�L���z�u�ӂ�c�c���������A�ł��v
+【ツキヨ】「ふわ……おいしい、です」
 
-�u����H�v
+「だろ？」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0616
-�y�c�L���z�u�͂��ł��v
+【ツキヨ】「はいです」
 
-�N���i�C�m�~��H�ׂČ��C���o�Ă���Ɨ~���N�����B
+クレナイノミを食べて元気が出てくると欲も湧いた。
 
-�u�������������A�����E��ŋA�낤���ȁH�v
+「せっかくだし、少し摘んで帰ろうかな？」
 
-�Ƃ肠���������Ɩ����H�ׂ镪�����ɂ�����肾�������ǁA�������炢���߂Ɏ����ċA���Ă��o�`�͓�����Ȃ����낤�B
+とりあえず今日と明日食べる分だけにするつもりだったけど、少しぐらい多めに持って帰ってもバチは当たらないだろう。
 
-�N���i�C�m�~�Ȃ񂩁A�Â��ςĂ����΂��΂炭�y���߂邵�ȁB
+クレナイノミなんか、甘く煮ておけばしばらく楽しめるしな。
 
 #voice tikb0617
-�y�c�L���z�u����`���A����ł��v
+【ツキヨ】「お手伝い、するです」
 
-�u����܂肽������E��ł��A�����ċA��Ȃ�����ȁH�v
+「あんまりたくさん摘んでも、持って帰れないからな？」
 
-�O�̂��߂Ƀc�L���ɒ��ӂ���ƁA�c�L���͗͂��Ԃ����݂����ɂ��āA�͂��֎������B
+念のためにツキヨに注意すると、ツキヨは力こぶを作るみたいにして、力を誇示した。
 
 #voice tikb0618
-�y�c�L���z�u������A����`������ł��v
+【ツキヨ】「それも、お手伝いするです」
 
-�u����͐S�����ȁB���肪�Ƃ��ȃc�L���v
+「それは心強いな。ありがとうなツキヨ」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tikb0619
-�y�c�L���z�u���ւցc�c�v
+【ツキヨ】「えへへ……」
 
-�c�L���͗�������ďƂ�ď΂����B
+ツキヨは礼を言われて照れて笑った。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�w�i�F�R�����i�[�j
+;背景：山小屋（夕）
 ;BG:BG08b_2
 #cg all clear
 #bg BG08b_2
 #wipe fade
 
-�c�L���͉�����`���āA�Ԃ��̂����̂�炽������̉ʕ���E��ł��ꂽ�B
+ツキヨは俺を手伝って、赤いのやら青いのやらたくさんの果物を摘んでくれた。
 
-��ʂɐς񂾂����̉ʕ��͏����Ɏ����A�荻���Ђ����Ȃɂ��̕ۑ��H�ɂȂ����B
+大量に積んだそれらの果物は小屋に持ち帰り砂糖漬けやらなにやらの保存食になった。
 
-���΂炭�͉��̐H�������L���ɂȂ肻�����ȁB
+しばらくは俺の食生活も豊かになりそうだな。
 
-��������������A���̍����Ђ����g���Ă܂����َq�ł�����Ă����悤�B
+せっかくだから、この砂糖漬けを使ってまたお菓子でも作ってあげよう。
 
-���̂Ƃ��ɂ͈�ԂɃc�L���ɂ����Ȃ�����ȁB
+そのときには一番にツキヨにあげなくちゃな。
 
-;�c�L���D���x+1
+;ツキヨ好感度+1
 #set f4 f4+1
 
-;b09��
+;b09へ
 #next b09

@@ -1,567 +1,567 @@
 
-;�w�i�F�R�����i�[�j=>�i���j
-;b03����ύX�Ȃ�
+;背景：山小屋（夕）=>（昼）
+;b03から変更なし
 
-�����ŏ��Ɏv�������ׂ��̂̓R�m�~�̊炾�����B
+俺が最初に思い浮かべたのはコノミの顔だった。
 
-�ʕ��͍D�����ƌ����Ă������A�Â����̂͂����ƍD�����낤�B
+果物は好きだと言っていたし、甘いものはきっと好きだろう。
 
-�c�c�������A�A�ɋl�܂点��Ƃ����Ȃ�����A�������p�ӂ��Ȃ�����ȁB
+……そうだ、喉に詰まらせるといけないから、お茶も用意しなくちゃな。
 
-;BGMch2 amb003 ��~
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR K02F1 C
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0252
-�y�R�m�~�z�u�����`�A�o�����񂾂ˁ`�v
+【コノミ】「おぉ〜、出来たんだね〜」
 
-�c��̐��n���Ă��グ�āA�����̏��������S�A�S�Đ������Ƃ���Ń^�C�~���O�悭�R�m�~������o�����B
+残りの生地も焼き上げて、お茶の準備も万全、全て整ったところでタイミングよくコノミが顔を出した。
 
-�u�c�c�R�m�~���Ă��������Ƃ��날���ȁB�ǂ����ŉ��̂��Ƃ��Ď����Ă�񂶂�Ȃ����Ǝv����v
+「……コノミってそういうところあるよな。どっかで俺のことを監視してるんじゃないかと思うよ」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0253
-�y�R�m�~�z�u��`�H�@�Ď��`�H�@�ӂӂӁA����Ȃ��Ƃ��ĂȂ���H�@�ł��A������Ɩʔ������`�v
+【コノミ】「ん〜？　監視〜？　ふふふ、そんなことしてないよ？　でも、ちょっと面白そう〜」
 
-�ӂӂӁA�Ə΂��Ȃ���R�m�~�͂��傱��ƃe�[�u���̑O�ɍ��|�����B
+ふふふ、と笑いながらコノミはちょこんとテーブルの前に腰掛けた。
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0254
-�y�R�m�~�z�u�܂����낱�������̉������Ă��Ă�����A�Y��������犮���Ȃ̂��Ȃ��Ďv������A������񂾂ˁ`�v
+【コノミ】「まっくろこげこげの何かを焼いてたから、炭を作ったら完成なのかなって思ったら、違ったんだね〜」
 
-�u����܂��A�ꉞ����Ă��̂͐H�ו�������ˁB�c�c�H�ׂ�H�v
+「うんまぁ、一応作ってたのは食べ物だからね。……食べる？」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0255
-�y�R�m�~�z�u��`�H�@�{�N�ɕ����Ă�H�v
+【コノミ】「ん〜？　ボクに聞いてる？」
 
-�u���⋛�͐H�ׂȂ��݂��������ǁA�Â����̂Ȃ�ǂ����Ǝv���Ă��B���͓����Ă邯�ǁc�c�v
+「肉や魚は食べないみたいだけど、甘いものならどうかと思ってさ。卵は入ってるけど……」
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0256
-�y�R�m�~�z�u����͌��Ă��`�v
+【コノミ】「それは見てた〜」
 
-���肰�Ȃ��M�ɂ̂����Ă��َq�����̏�ɏo���ƁA����̈��Ƃ͂����ĕς���āA�f���Ɏ��L�΂����B
+さりげなく皿にのせた焼き菓子を机の上に出すと、昨日の飴とはうって変わって、素直に手を伸ばした。
 
-�u�H�ׂ�́I�H�v
+「食べるの！？」
 
 ;CHR K02F2 C
-#cg �R�m�~ kon_1_02f2 ��
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0257
-�y�R�m�~�z�u��`�H�@�H�ׂ���_���������`�H�v
+【コノミ】「ん〜？　食べちゃダメだった〜？」
 
-�u���A����B���������킯����c�c�v
+「あ、いや。そういうわけじゃ……」
 
-�R�m�~�͐^��̂悤�Ȏ��ŃT�N�T�N�Ƃ����Ă��َq��𚐂����B
+コノミは真珠のような歯でサクサクとした焼き菓子を咀嚼した。
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0258
-�y�R�m�~�z�u�Â��āA�J���J�����Ă�Ƃ��������āA���������Łc�c���������ˁ`�B�{�N�A����D�������`�v
+【コノミ】「甘くて、カリカリしてるとこもあって、いい匂いで……美味しいね〜。ボク、これ好きかも〜」
 
-�ŏ��̈�������ݍ���ŁA�R�m�~�͔��΂񂾁B
+最初の一口を飲み込んで、コノミは微笑んだ。
 
-�u����A�H�ׂ�Ƃ����~�����Ȃ邾��B�ق�v
+「それ、食べるとお茶欲しくなるだろ。ほら」
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0259
-�y�R�m�~�z�u����A���肪�Ɓ`�v
+【コノミ】「うん、ありがと〜」
 
-���͂Ȃ����z�b�Ƃ��āA�����������߂�B
+俺はなぜかホッとして、お茶をすすめる。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F2 C
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0272
-�y�q�i�^�z�u�����H�@���������̂ɂ����Ȃ��Ȃ������I�v
+【ヒナタ】「おぉ？　こげこげのにおいなくなったっ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0257
-�y�C�o���z�u�ӂ�A����ɊÂ�����������ȁv
+【イバラ】「ふん、代わりに甘い匂いがするな」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tikb0220
-�y�c�L���z�u���������A�ł��v
+【ツキヨ】「いい匂い、です」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u�����A�q�i�^�������߂��Ă����̂��v
+「あぁ、ヒナタたちも戻ってきたのか」
 
 ;CHR K04F L
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice konb0260
-�y�R�m�~�z�u����A�H�ׂĂ�������`�B�Â��Ă���������`�v
+【コノミ】「これ、食べてもいいよ〜。甘くておいしいよ〜」
 
-�R�m�~�͖��ʂ̏Ί�Ńq�i�^�����ɏĂ��َq�����߂��B
+コノミは満面の笑顔でヒナタたちに焼き菓子を勧めた。
 
 ;CHR I08F R
-#cg �C�o�� iba_1_08f �E
+#cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibab0258
-�y�C�o���z�u�����������āc�c�����R�m�~�͐H�ׂ��̂��v
+【イバラ】「美味しいって……もうコノミは食べたのか」
 
 ;CHR K01F2A L
-#cg �R�m�~ kon_1_01f2a ��
+#cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konb0261
-�y�R�m�~�z�u����B�������ˁA������`�B������ƌ��p�T�p�T���邩��A�������݂Ȃ���H�ׂ�Ƃ�����`�v
+【コノミ】「うん。お茶がね、あうよ〜。ちょっと口パサパサするから、お茶飲みながら食べるといいよ〜」
 
 #voice ibab0259
-�y�C�o���z�u�H�ׂ�ꂽ�̂��c�c�v
+【イバラ】「食べられたのか……」
 
 ;CHR K04F L
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice konb0262
-�y�R�m�~�z�u����B��������������`�v
+【コノミ】「うん。美味しかったよ〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F2 R
-#cg �q�i�^ hin_1_01f2 �E
+#cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hinb0273
-�y�q�i�^�z�u�ˁ[�ˁ[�A�R�m�~�B�q�i�^�����ׂĂ����H�v
+【ヒナタ】「ねーねー、コノミ。ヒナタもたべていい？」
 
 #voice konb0263
-�y�R�m�~�z�u������`�B�q�i�^���c�L���������ς��H�ׂȂ�`�B�������񂠂邩��ˁ`�v
+【コノミ】「いいよ〜。ヒナタもツキヨもいっぱい食べなよ〜。たくさんあるからね〜」
 
 ;CHR H07F R
-#cg �q�i�^ hin_1_07f �E
+#cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hinb0274
-�y�q�i�^�z�u��[���I�v
+【ヒナタ】「わーい！」
 
-�u����A������ƁB�Ȃ�ŃR�m�~�������Ă�̂��v
+「ちょ、ちょっと。なんでコノミが許可してるのさ」
 
 ;CHR K02F1 L
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0264
-�y�R�m�~�z�u��`�H�@�݂�Ȃ͐H�ׂ���_���Ȃ́`�H�@�{�N���������́`�H�v
+【コノミ】「ん〜？　みんなは食べちゃダメなの〜？　ボクだけいいの〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0221
-�y�c�L���z�u���A���߂�Ȃ����A���A����������ł��v
+【ツキヨ】「ご、ごめんなさい、口、つけちゃったです」
 
-�u���A����c�c�݂�ȂɐH�ׂĂ��炨���Ǝv���č��������A�ʂɍ\��Ȃ��񂾂��ǂ��v
+「い、いや……みんなに食べてもらおうと思って作ったから、別に構わないんだけどさ」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tikb0222
-�y�c�L���z�u�فc�c�悩�����ł��v
+【ツキヨ】「ほ……よかったです」
 
 #voice konb0265
-�y�R�m�~�z�u���������A����񂶂��H�ׂȂ�`�v
+【コノミ】「そうそう、じゃんじゃん食べなよ〜」
 
-�c�c�܂��A�������B
+……まぁ、いいか。
 
-���ꂾ�������Ă����َq���C�ɓ����Ă��ꂽ���Ď����B
+それだけ俺が焼いた菓子を気に入ってくれたって事だ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F2 L
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 左
 #wipe fade
 
 #voice hinb0275
-�y�q�i�^�z�u�ق������I�@���܂��˂��I�@���񂾂炭���̂Ȃ��ł�����Ă�����I�v
+【ヒナタ】「ほぉうっ！　あまいねっ！　かんだらくちのなかでくずれていくよ！」
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0223
-�y�c�L���z�u�T�N�T�N����́A�y�����ł��v
+【ツキヨ】「サクサクするの、楽しいです」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0260
-�y�C�o���z�u�ނ��c�c�R�m�~�����ނ���H�ׂĂ�邯�ǁA����Ȃ́c�c����Ȃ́c�c���A�����A�q�i�^�����؂�ɂ����ς���肷������I�v
+【イバラ】「むぅ……コノミが頼むから食べてやるけど、こんなの……こんなの……あ、おい、ヒナタいっぺんにいっぱい取りすぎだろ！」
 
 ;CHR H04F1 L
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 左
 #wipe fade
 
-;������������Ƃ܂�Ȃ���
+;おいしいからとまらないの
 #voice hinb0276
-�y�q�i�^�z�u�񂤁H�@���߁[��A�ق��Ђ��ӂ���ق܂܂炢�́v
+【ヒナタ】「んう？　ごめーん、ほいひいふぁらほままらいの」
 
 #voice ibab0261
-�y�C�o���z�u�ځA�{�N�����āA�����ƐH�ׂ�񂾂���Ȃ��A�q�i�^�����H�ׂ�̂͂�������Ȃ񂾂��I�v
+【イバラ】「ぼ、ボクだって、もっと食べるんだからなっ、ヒナタだけ食べるのはずるっこなんだぞ！」
 
-�u���[�ق�A����܂�ł��ĐH�ׂ�ƍA�ɋl�܂炷��v
+「あーほら、あんまり焦って食べると喉に詰まらすよ」
 
 ;CHR I09F R
-#cg �C�o�� iba_1_09f �E
+#cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0262
-�y�C�o���z�u�����āA�q�i�^�����c�c�񂮂��c�c�v
+【イバラ】「だって、ヒナタがっ……んぐっ……」
 
-�u���[�A�ق�B���ݕ�����Łv
+「あー、ほら。飲み物飲んで」
 
 #voice hinb0277
-�y�q�i�^�z�u�����������������c�c�v
+【ヒナタ】「もごもごもごもご……」
 
-�u�q�i�^�����ݍ��߂Ȃ��قǌ��ɓ���Ȃ��́v
+「ヒナタも飲み込めないほど口に入れないの」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0224
-�y�c�L���z�u���A�����������������v
+【ツキヨ】「あ、あうぅううううう」
 
-���ł���Ă�݂����Ȃ̂͊��������ǁA�C�o���ƃq�i�^�������݂����ɐH�ׂ邹���ŁA�c�L��������o���Ȃ��Ȃ��Ă��܂��Ă���B
+喜んでくれてるみたいなのは嬉しいけど、イバラとヒナタが競争みたいに食べるせいで、ツキヨが手を出せなくなってしまっている。
 
-�u���̂��炢�ł������ȁH�v
+「このぐらいでいいかな？」
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tikb0225
-�y�c�L���z�u���A���肪�Ƃł��v
+【ツキヨ】「あ、ありがとです」
 
-�c�L���̕�����蕪���Ă�����ƁA�c�L���͊��������ɖj����߂��B
+ツキヨの分を取り分けてあげると、ツキヨは嬉しそうに頬を染めた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u���āA�R�m�~�͐H�ׂĂ�H�v
+「って、コノミは食べてる？」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0266
-�y�R�m�~�z�u��`�H�@�{�N�́A��ɐH�ׂ����`�ˁ`�H�v
+【コノミ】「ん〜？　ボクは、先に食べたし〜ね〜？」
 
-���̎�ɂ͂����ď��Ȃ��͂Ȃ����َq���������B
+その手にはけして少なくはないお菓子があった。
 
-�Ȃ�قǁA��������莩���̕��͊m�ۂ��Ă��̂��B
+なるほど、ちゃっかり自分の分は確保してたのか。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0278
-�y�q�i�^�z�u���Ղ��c�c�v
+【ヒナタ】「けぷぅ……」
 
-�u���Ă����S���H�ׂ�������̂���I�@���[���[�A���΂炭���̐H���ɂ����悤�Ǝv���Ă��̂Ɂv
+「ってもう全部食べちゃったのかよ！　あーあー、しばらく俺の食事にもしようと思ってたのに」
 
-�Ƃقفc�c���܂ŃG���t�͕���H�ׂȂ�������f���Ă��̂ɁA�����H�ׂ�ƂȂ�ƌ��\�H�ׂ�񂶂�Ȃ����B
+とほほ……今までエルフは物を食べないから油断してたのに、いざ食べるとなると結構食べるんじゃないか。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0263
-�y�C�o���z�u���ӂ��c�c��A�����ɂ��C������I�H�@�܂����A�j���Q�����̂��َq�ɓł��I�v
+【イバラ】「げふっ……ん、お腹痛い気がする！？　まさか、ニンゲンこのお菓子に毒を！」
 
-�u�Ⴄ�I�@�����΂����̐H�׉߂�������I�@�����ɂ��Ȃ�܂ŐH�ׂ�Ȃ�I�@�����͎����ŉ��������I�v
+「違う！　それ絶対ただの食べ過ぎだから！　お腹痛くなるまで食べるなよ！　少しは自分で加減しろよ！」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0264
-�y�C�o���z�u���[�I�@�j���Q���̂����ł����ɂ��̂ɁA�Ȃ�Ń{�N���{���Ȃ��Ⴂ���Ȃ��񂾁I�v
+【イバラ】「うー！　ニンゲンのせいでお腹痛いのに、なんでボクが怒られなきゃいけないんだ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 
 #voice tikb0226
-�y�c�L���z�u�����A�ɂ��ł��H�v
+【ツキヨ】「お腹、痛いです？」
 
 ;CHR K06F R
-#cg �R�m�~ kon_1_06f �E
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0267
-�y�R�m�~�z�u���`��A�����������ς��Ȃ�A�������Ă��Ӗ��Ȃ��񂶂�Ȃ����Ȃ��`�H�v
+【コノミ】「う〜ん、お腹がいっぱいなら、治癒しても意味ないんじゃないかなぁ〜？」
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 
 #voice tikb0227
-�y�c�L���z�u�͂����c�c�v
+【ツキヨ】「はうっ……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H08F1 R
-#cg �q�i�^ hin_1_08f1 �E
+#cg ヒナタ hin_1_08f1 右
 #wipe fade
 
 #voice hinb0279
-�y�q�i�^�z�u�͂����I�H�@���Ȃ����|���|���ɂȂ��Ă���I�H�@���͂͂́A�Ȃ񂾂�����v
+【ヒナタ】「はりゃっ！？　おなかがポンポンになってるっ！？　あははは、なんだこれっ」
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 
 #voice tikb0228
-�y�c�L���z�u�����A�J�G������݂����ɂȂ��Ă�ł��v
+【ツキヨ】「お腹、カエルさんみたいになってるです」
 
-�q�i�^���H�׉߂��������ł�������������c���ł���B
+ヒナタも食べ過ぎたせいでお腹がすっかり膨らんでいる。
 
-�c�L�������鋰��q�i�^�̂������|���|���@���Ƃ₯�ɂ������������B
+ツキヨが恐る恐るヒナタのお腹をポンポン叩くとやけにいい音がした。
 
-�u�͂͂́A�q�i�^���H�׉߂����ȁv
+「ははは、ヒナタも食べ過ぎだな」
 
 ;CHR H08F2 R
-#cg �q�i�^ hin_1_08f2 �E
+#cg ヒナタ hin_1_08f2 右
 #wipe fade
 
 #voice hinb0280
-�y�q�i�^�z�u�j���Q������A����Ȃɂ����������̂����Ȃ�Ă������ˁI�v
+【ヒナタ】「ニンゲンさん、こんなにおいしいものつくれるなんてすごいね！」
 
-���߂Ă̂��َq���œ���ꂽ�܎^�͂Ȃ��Ȃ��Ɉ������̂���Ȃ������B
+初めてのお菓子作りで得られた賞賛はなかなかに悪いものじゃなかった。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;BGMch2 amb004 ��~
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�C���^�[�o��
+;インターバル
 
-;���t�ύX
+;日付変更
 
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;�w�i�F�R�����i���j=>�O
+;背景：山小屋（昼）=>前
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-;SE�@�d����
+;SE　薪割り
 
-�����A�v���̂ق����َq���ŏ���Ă��܂����̂ŕ�[���邽�߂ɐd�������Ă���ƁA�R�m�~�������������ċ߂Â��Ă����B
+翌日、思いのほかお菓子作りで消費してしまったので補充するために薪を割っていると、コノミが何かを持って近づいてきた。
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0268
-�y�R�m�~�z�u�j���Q������A���ꂠ����v
+【コノミ】「ニンゲンくん、これあげる」
 
-�R�m�~�������o���Ă����̂́A���̂����肾�Ƃ��܂茩�����Ȃ��ʕ��������B
+コノミが差し出してきたのは、このあたりだとあまり見かけない果物だった。
 
-�u���A���肪�Ƃ��B������A�������ˁA�ǂ��ɐ����Ă��́H�v
+「お、ありがとう。何これ、珍しいね、どこに生えてたの？」
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0269
-�y�R�m�~�z�u��`�H�@�閧�`�v
+【コノミ】「ん〜？　秘密〜」
 
-�u�������A�閧���B�Ђ���Ƃ��ăG���t�̗��́H�v
+「そうか、秘密か。ひょっとしてエルフの里の？」
 
-���傤�ǂ������A�����x�e�ɂ��邩�B
+ちょうどいいし、少し休憩にするか。
 
-���͂��̂�����ɍ��|����ƁA�R�m�~�������Ă��Ă��ꂽ�ʕ����y�����Ő@���āA���Ԃ�����B
+俺はそのあたりに腰掛けると、コノミが持ってきてくれた果物を軽く袖で拭って、かぶりついた。
 
-�u��A���܂��ȁB����v
+「ん、うまいな。これ」
 
-�R�m�~�����̉��ɍ��|���āA�����Ԃ��ʕ��Ɏ��𗧂Ă��B
+コノミも俺の横に腰掛けて、うす赤い果物に歯を立てた。
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0270
-�y�R�m�~�z�u�{�N�ˁ`�A���Ȃ��Ă�ʕ����ƁA���ꂪ�����Ƃ��D���`�v
+【コノミ】「ボクね〜、今なってる果物だと、これがいっとう好き〜」
 
-�s���ƒ������\�炩��̈�ۂɔ����āA�_�炩�ȉʓ��ɂ͏`�C�������Ղ肵�Ă��āA�K�x�Ȏ_������ꂽ�̂ɐS�n�����B
+ピンと張った表皮からの印象に反して、柔らかな果肉には汁気がたっぷりしていて、適度な酸味が疲れた体に心地いい。
 
-�����ƃR�m�~�ɖڂ����ƁA�`�C�̑����ʕ��ɂ�������Ȃ���A����ʏ`��������d���͂ǂ��ƂȂ�����炵�������B
+ちらりとコノミに目をやると、汁気の多い果物にかじりつきながら、溢れる果汁をすする仕草はどことなくいやらしかった。
 
-�c�c���āA�R�m�~�ɂ͂���Ȃ���Ȃ����낤�ɉ����l���Ă�񂾉��B
+……って、コノミにはそんなつもりないだろうに何を考えてるんだ俺。
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0271
-�y�R�m�~�z�u�ӂӂӁA����̂��َq����������������`�܂��A����Ăˁ`�v
+【コノミ】「ふふふ、昨日のお菓子美味しかったから〜また、作ってね〜」
 
-�u�����A������B�ʓ|������A����Ȃɂ�������イ�͍��Ȃ���������Ȃ����ǁv
+「あぁ、いいよ。面倒だから、そんなにしょっちゅうは作れないかもしれないけど」
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05f ��
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0272
-�y�R�m�~�z�u����A�j���Q������ɂ���������́`�B������A�ˁH�v
+【コノミ】「それ、ニンゲンくんにだけあげるの〜。だから、ね？」
 
-�u�c�c�킩�����A�R�m�~�̂��߂ɂ��َq���Ă���v
+「……わかった、コノミのためにお菓子を焼くよ」
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0273
-�y�R�m�~�z�u�ӂӂӁv
+【コノミ】「ふふふ」
 
-�R�m�~�͂͂ɂ��ނ悤�ɏ΂����B
+コノミははにかむように笑った。
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0274
-�y�R�m�~�z�u�{���͂ˁ`�A�H�ׂĂ����̃{�N���������`���Ďv�������A�����������񂾁`�B������A���̓{�N�����ɂ��傤�����H�v
+【コノミ】「本当はね〜、食べていいのボクだけかも〜って思った時、嬉しかったんだ〜。だから、次はボクだけにちょうだい？」
 
-�u��[�A����͓�������ȁc�c�v
+「んー、それは難しそうだな……」
 
-���َq�Ȃ�ďĂ��Ă���A��΂ɂ݂�Țk�����Ă��邾�낤���A�閧�ō��̂Ȃ�ē�������B
+お菓子なんて焼いてたら、絶対にみんな嗅ぎつけてくるだろうし、秘密で作るのなんて難しそうだ。
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0275
-�y�R�m�~�z�u�������ˁ`�B���Ⴀ�A�݂�Ȃɂ������Ă����邩��A�{�N�ɂ��َq�Ă��Ăˁ`�v
+【コノミ】「そうだね〜。じゃあ、みんなにも分けてあげるから、ボクにお菓子焼いてね〜」
 
-�R�m�~�͂�������Ƃ��َq�̓Ɛ�_�����߂��B
+コノミはあっさりとお菓子の独占契約を諦めた。
 
-�����Ԃ�ȒP�ɒ��߂�񂾂ȁB
+ずいぶん簡単に諦めるんだな。
 
-�c�c�ǂ����āA���̂��Ƃɉ��͂Ȃ�ƂȂ��߈������o���Ă���񂾂낤�B
+……どうして、そのことに俺はなんとなく罪悪感を覚えているんだろう。
 
-�u�����A����Ȃ�A��������p����B���x���ɖ߂�����A�܂��ޗ�����ɓ���Ă����v
+「あぁ、それなら、お安い御用だよ。今度村に戻ったら、また材料を手に入れてくるよ」
 
-���͂Ȃ�ƂȂ������`�N�`�N����̂����܂����悤�ɏ΂��Ă݂����B
+俺はなんとなく胸がチクチクするのをごまかすように笑ってみせた。
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0276
-�y�R�m�~�z�u�ӂӂӁA�y���݂��Ȃ��`�v
+【コノミ】「ふふふ、楽しみだなぁ〜」
 
-�R�m�~�͊��������ɋ�����グ���B
+コノミは嬉しそうに空を見上げた。
 
-;�R�m�~�D���x+1
+;コノミ好感度+1
 #set f3 f3+1
 
-;b04��
+;b04へ
 #next b04

@@ -1,9 +1,9 @@
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG40_1
 
 #mes off fade
@@ -26,145 +26,145 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
 #bgvoice stop
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
 
-;�w�i�F�R�����O�i���j
+;背景：山小屋前（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibac0001
-�y�C�o���z�u�I�[�N�����̂��܂��Ȃ��͂���ŏI��肩�I�H�v
+【イバラ】「オーク避けのおまじないはこれで終わりか！？」
 
-�u���A����B�{�ɏ����Ă���̂͂���ł����܂����ˁB�{���ɂ���Ȃ̂ő��v�Ȃ̂��Ȃ��c�c�v
+「あ、うん。本に書いてあるのはこれでおしまいだね。本当にこんなので大丈夫なのかなぁ……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 #voice tukc0
-�y�c�L���z�u�����A���v�Ǝv���ł��v
+【ツキヨ】「多分、大丈夫と思うです」
 
-�u�������H�v
+「そっか？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 #voice konc0001
-�y�R�m�~�z�u����B�c�L���������Ȃ�`���v����Ȃ����ȁ`�v
+【コノミ】「うん。ツキヨが言うなら〜大丈夫じゃないかな〜」
 
-�u���v���Ă킯����Ȃ��Ă��A����ȏ㉴�ɂȂ񂩂ł�����Ă킯�ł��Ȃ����ȁ[�c�c�v
+「大丈夫ってわけじゃなくても、これ以上俺になんかできるってわけでもないしなー……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H11F_A C
-#cg �q�i�^ hin_1_11f_a ��
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinc0001
-�y�q�i�^�z�u���Ȃ��Ⴂ���Ȃ����ƁA�����܂��ɂȂ����I�H�v
+【ヒナタ】「しなきゃいけないこと、おしまいになった！？」
 
-�u�����A����v
+「あぁ、うん」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 #voice hinc0002
-�y�q�i�^�z�u���ꂶ��A�Ȃ񂩂��悤��A�j���Q������I�v
+【ヒナタ】「それじゃ、なんかしようよ、ニンゲンさん！」
 
 ;CHR K09F1 L
-#cg �R�m�~ kon_1_09f1 ��
+#cg コノミ kon_1_09f1 左
 #wipe fade
 #voice konc0002
-�y�R�m�~�z�u�����ˁ`�B��邱�Ƃ��I������������ځ`��`�v
+【コノミ】「そだね〜。やることも終わったしあそぼ〜よ〜」
 
-�u�V�Ԃ��Ă��������ĉ�������񂾁H�v
+「遊ぶっていったって何をするんだ？」
 
 ;CHR H01F2_A R
-#cg �q�i�^ hin_1_01f2_a �E
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 #voice hinc0003
-�y�q�i�^�z�u�j���Q������Ƃ�������ł��̂���������Ȃ�ł�������I�v
+【ヒナタ】「ニンゲンさんといっしょでたのしかったらなんでもいいよ！」
 
-�u���Ⴀ�A�����ȍ~�͂܂��n�}�𒲂ׂĉ�����肵�������A�����͂��̏��������邩�v
+「じゃあ、明日以降はまた地図を調べて回ったりしたいし、今日はその準備をするか」
 
 ;CHR H05F_A R
-#cg �q�i�^ hin_1_05f_a �E
+#cg ヒナタ hin_1_05f_a 右
 #wipe fade
 #voice hinc0004
-�y�q�i�^�z�u�����сI�H�@���Ă������邱�Ƃ���I�H�v
+【ヒナタ】「じゅんび！？　おてつだいすることある！？」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 #wipe fade
 #voice ibac0002
-�y�C�o���z�u�{�N���I�@��`���Ă���Ă��������I�v
+【イバラ】「ボクも！　手伝ってやってもいいぞ！」
 
-�{���Ȃ�q�i�^�����̂���`���Ȃ�ĂȂ����������葁���񂾂��ǁA�ꏏ�ɉ���������̂͂Ȃ��Ȃ��y���������������B
+本当ならヒナタたちのお手伝いなんてない方が手っ取り早いんだけど、一緒に何かをするのはなかなか楽しかったりもする。
 
-�u�������Ȃ��A�߂����ς������g������o�債���v
+「そうだなぁ、めいっぱいこき使うから覚悟しろよ」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR K03F L
-#cg �R�m�~ kon_1_03f ��
+#cg コノミ kon_1_03f 左
 #wipe fade
 #voice konc0003
-�y�R�m�~�z�u�����`�A�F�撣���Ăˁ`�v
+【コノミ】「おぉ〜、皆頑張ってね〜」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR T05F_P R
-#cg �c�L�� tuk_1_05f_p �E
+#cg ツキヨ tuk_1_05f_p 右
 #wipe fade
 #voice tukc1
-�y�c�L���z�u�R�m�~�͂���`������C�Ȃ��ł��H�v
+【ツキヨ】「コノミはお手伝いする気ないです？」
 
 ;CHR K01F2A L
-#cg �R�m�~ kon_1_01f2a ��
+#cg コノミ kon_1_01f2a 左
 #wipe fade
 #voice konc0004
-�y�R�m�~�z�u��`�A�y�������������炨��`�����Ă�������`�v
+【コノミ】「ん〜、楽しそうだったらお手伝いしてもいいよ〜」
 
-���Ⴀ�A�Ƃ肠���������ȍ~�̐H������ɂȂ�悤�Ɏ����^�т��₷�����َq�ł��Ă��Ă������B
+じゃあ、とりあえず明日以降の食事代わりになるように持ち運びしやすいお菓子でも焼いておくか。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -172,1274 +172,1274 @@
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 #voice tukc2
-�y�c�L���z�u��[����c�c�傫���͂��̂��炢�ł��H�v
+【ツキヨ】「んーしょ……大きさはこのぐらいです？」
 
-�u����A�������ˁv
+「うん、そうだね」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H07F_A C
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinc0005
-�y�q�i�^�z�u�j���Q������I�@�₢�Ă��Ղ��[���Ă��������Ȃ�����I�@����Ȃ���I�v
+【ヒナタ】「ニンゲンさん！　やいてるやつぷくーっておおきくなったよ！　こんなだよ！」
 
-�q�i�^�͖j��c��܂��A�Ă��Ă�َq���傫���Ȃ������Ƃ�m�点�Ă����B
+ヒナタは頬を膨らませ、焼いてる菓子が大きくなったことを知らせてくれる。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u�R�m�~�ƃC�o���́c�c�O������������v
+「コノミとイバラは……飽きちゃったか」
 
-�R�m�~�͂ЂƂ�ł��₷��ƐQ�Ă��邵�A�C�o���͑��g��������Ƃ��������Ă���B
+コノミはひとりですやすやと寝ているし、イバラは装身具をずっといじくっている。
 
-���̂��Ƃ͂����O����̂ɁA���g��𖁂��̂����͖O���Ȃ��񂾂ȁB
+他のことはすぐ飽きるのに、装身具を磨くのだけは飽きないんだな。
 
-�C�o���͉������Ă��邱�ƂɋC�������̂��A����グ���B
+イバラは俺が見ていることに気がついたのか、顔を上げた。
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibac0003
-�y�C�o���z�u�����H�@�����o�����̂��H�v
+【イバラ】「おぉ？　もう出来たのか？」
 
-�u�܂�����B�Ă�������܂łɂ͂����������Ԃ��������v
+「まだだよ。焼きあがるまでにはもう少し時間がかかるよ」
 
 ;CHR I10F2 C
-#cg �C�o�� iba_1_10f2 ��
+#cg イバラ iba_1_10f2 中
 #wipe fade
 #voice ibac0004
-�y�C�o���z�u�Ӂ[��A�������B�c�L���ƃq�i�^�͂܂�����`�����Ă�񂾂ȁv
+【イバラ】「ふーん、そうか。ツキヨとヒナタはまだお手伝いしてるんだな」
 
-�u����B�y�������ɂ���`�����Ă���Ă��v
+「うん。楽しそうにお手伝いしてくれてるよ」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0005
-�y�C�o���z�u�c�c�c�c�v
+【イバラ】「…………」
 
-�C�o���͂ӂƃq�i�^�ƃc�L���ɖڂ�������ƁA�����ł��΂炭���߂Ă����B
+イバラはふとヒナタとツキヨに目を向けると、無言でしばらく眺めていた。
 
-�u�ǂ������́H�v
+「どうしたの？」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0006
-�y�C�o���z�u�Ȃ�ł��Ȃ��B�j���Q�����Ƃ��̎�`��������ȂɊy�����̂��ƕs�v�c�Ɏv���Ă��������I�v
+【イバラ】「なんでもない。ニンゲンごときの手伝いがそんなに楽しいのかと不思議に思ってただけだ！」
 
-�u���ł����Ȃ�@�������Ȃ��Ă�́H�@�Ȃ񂩋C�ɓ���Ȃ����Ƃ��������H�v
+「何でいきなり機嫌悪くなってるの？　なんか気に入らないことがあった？」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibac0007
-�y�C�o���z�u�ʂɋ@�������Ȃ�ĂȂ��ĂȂ��I�v
+【イバラ】「別に機嫌悪くなんてなってない！」
 
-�C�o���͂���ς�s�@�������Ɍ����āA���g���t���������B
+イバラはやっぱり不機嫌そうに言って、装身具を付け直した。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0008
-�y�C�o���z�u�{�N�����Ă���`�����Ă�邼�I�@�����A��������΂����񂾁H�v
+【イバラ】「ボクだってお手伝いしてやるぞ！　さぁ、何をすればいいんだ？」
 
-�u���H�@���Ă����Ă����Ȃ��Ⴂ���Ȃ����Ƃ͂����قƂ�ǏI����āc�c�v
+「え？　っていってもやらなきゃいけないことはもうほとんど終わって……」
 
-����������؂蕪���Ċۂ߂�̂��A���x�c�L�����I��点�Ă��ꂽ�Ƃ���݂��������Ȃ��B
+練った粉を切り分けて丸めるのも、丁度ツキヨが終わらせてくれたところみたいだしなぁ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H08F2_A L
-#cg �q�i�^ hin_1_08f2_a �E
+#cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 #voice hinc0006
-�y�q�i�^�z�u���Ⴀ�A�C�o���̓q�i�^�Ƃ�������ɂ��������₯��݂̂͂邩���肾��I�v
+【ヒナタ】「じゃあ、イバラはヒナタといっしょにおかしがやけるのみはるかかりだよ！」
 
 ;CHR I08F R
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 左
 #wipe fade
 #voice ibac0009
-�y�C�o���z�u�q�i�^�ƈꏏ�ɁH�v
+【イバラ】「ヒナタと一緒に？」
 
-�C�o���͏������S�n�������Ƀq�i�^�ƃc�L���ɖڂ��������B
+イバラは少し居心地悪そうにヒナタとツキヨに目を向けた。
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tukc3
-�y�c�L���z�u�ꏏ�Ɍ���ł��v
+【ツキヨ】「一緒に見るです」
 
 ;CHR H07F_A L
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 #voice hinc0007
-�y�q�i�^�z�u�c�L������������ɂ݂�́I�H�@�킟�I�@����΂��Ă݂悤�ˁI�v
+【ヒナタ】「ツキヨもいっしょにみるの！？　わぁ！　がんばってみようね！」
 
-�u�Ă��オ������邾���ŉ����撣��񂾂�c�c�v
+「焼き上がりを見るだけで何を頑張るんだよ……」
 
 ;CHR H06F1_A R
-#cg �q�i�^ hin_1_06f1_a �E
+#cg ヒナタ hin_1_06f1_a 右
 #wipe fade
 #voice hinc0008
-�y�q�i�^�z�u�Ȃ�ł��I�@�Ȃ�ł�����΂�͂������Ƃł���I�H�@�����傭���I�v
+【ヒナタ】「なんでも！　なんでもがんばるはいいことでしょ！？　ぜんりょくっ！」
 
-�u�c�c�͂��͂��A�������ˁv
+「……はいはい、そうだね」
 
 ;CHR H08F1_A R
-#cg �q�i�^ hin_1_08f1_a �E
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 #voice hinc0009
-�y�q�i�^�z�u��[���A����΂邼�I�v
+【ヒナタ】「よーし、がんばるぞ！」
 
-�q�i�^�͖ڂ��L���L���P�����Ă��܂ǂ��̂�������ł���B
+ヒナタは目をキラキラ輝かせてかまどをのぞき込んでいる。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o�����������f������Ńq�i�^�ƃc�L���̊������ׂĂ���B
+イバラだけが困惑した顔でヒナタとツキヨの顔を見比べている。
 
 ;CHR H11F_A R
-#cg �q�i�^ hin_1_11f_a �E
+#cg ヒナタ hin_1_11f_a 右
 #wipe fade
 #voice hinc0010
-�y�q�i�^�z�u���`�����ɂ��`���v
+【ヒナタ】「んん〜いいにお〜い」
 
 ;CHR T01F_P L
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 左
 #wipe fade
 #voice tukc4
-�y�c�L���z�u���َq�A�Ă��Ă����璃�F�̂Ƃ���₵�Ă�ł��B�Y��ł��v
+【ツキヨ】「お菓子、焼けてきたら茶色のとこつやつやしてるです。綺麗です」
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibac0010
-�y�C�o���z�u�Y��H�v
+【イバラ】「綺麗？」
 
 ;CHR T01F_P L
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 左
 #wipe fade
 #voice tukc5
-�y�c�L���z�u�͂��ł��B���s�J�s�J���Ă���Y��ł��B������Y��Ȃ̍�ꂽ�Ȃ�Ă������ł��B���ւցv
+【ツキヨ】「はいです。つやつやピカピカしてるの綺麗です。こんな綺麗なの作れたなんてすごいです。えへへ」
 
-�c�L���������̎�����Ȃ�����������ɏ΂��ƁA�C�o���͂��̎�ƁA�����Ċ�ԃc�L���̊�������ƌ��߂��B
+ツキヨが自分の手を見ながら嬉しそうに笑うと、イバラはその手と、そして喜ぶツキヨの顔をじっと見つめた。
 
-�u����A���̎���Ă����v
+「じゃ、次の種を焼くか」
 
 ;CHR T06F_P L
-#cg �c�L�� tuk_1_06f_p ��
+#cg ツキヨ tuk_1_06f_p 左
 #wipe fade
 #voice tukc6
-�y�c�L���z�u�ق�A����Ȕ����Ă��ɂႮ�ɂႵ���̂��A�Ă���ƒ��F�̂��̃T�N�T�N�ɂȂ�ł��B�������ł��v
+【ツキヨ】「ほら、こんな白くてぐにゃぐにゃしたのが、焼けると茶色のつるつるのサクサクになるです。すごいです」
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 #voice ibac0011
-�y�C�o���z�u����c�c�s�J�s�J�����Ă�ȁv
+【イバラ】「うん……ピカピカ光ってるな」
 
-�u����A�Ă����[����܂ݐH�������Ⴞ�߂����v
+「こら、焼いた端からつまみ食いしちゃだめだぞ」
 
 ;CHR H02F2_A R
-#cg �q�i�^ hin_1_02f2_a �E
+#cg ヒナタ hin_1_02f2_a 右
 #wipe fade
 #voice hinc0011
-�y�q�i�^�z�u�͂���I�H�@����Ȃɂ��������Ȃ̂ɂ��ׂ���_���Ȃ́I�H�v
+【ヒナタ】「はわっ！？　こんなにおいしそなのにたべちゃダメなの！？」
 
-�u���H�ׂ���Ώ����邩���߂�܂ő҂Ƃ��ȁv
+「今食べたら火傷するから冷めるまで待とうな」
 
 ;CHR H05F_A C
-#cg �q�i�^ hin_1_05f_a ��
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinc0012
-�y�q�i�^�z�u���߂�܂ł��Ăǂ̂��炢�H�v
+【ヒナタ】「さめるまでってどのくらい？」
 
-�u���`��A���ɏĂ��n�߂�����Ă������邭�炢���ȁv
+「う〜ん、次に焼き始めたやつが焼きあがるくらいかな」
 
 ;CHR H11F_A C
-#cg �q�i�^ hin_1_11f_a ��
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinc0013
-�y�q�i�^�z�u�͂�[�c�c�͂₭�₯�Ȃ����Ȃ��v
+【ヒナタ】「はわー……はやくやけないかなっ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0012
-�y�C�o���z�u���A�d���Ȃ��ȁB�q�i�^��c�L�����܂ݐH�����Ȃ��悤�Ƀ{�N���������ĂĂ��I�v
+【イバラ】「し、仕方ないな。ヒナタやツキヨがつまみ食いしないようにボクが見張っててやる！」
 
-�u���肪�Ƃ��A���͂��̊Ԃɐ􂢕����Ă����Ⴄ���痊�ނȁv
+「ありがとう、俺はその間に洗い物してきちゃうから頼むな」
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0013
-�y�C�o���z�u�ӁA�ӂӂ�B���܂�Ă��I�v
+【イバラ】「ふ、ふふん。頼まれてやる！」
 
 ;FACE H02F2_A
 #face f_hin_0_02f2_a 94 466
 
 #voice hinc0014
-�y�q�i�^�z�u�q�i�^�܂݂����Ȃ񂩂��Ȃ�����I�v
+【ヒナタ】「ヒナタつまみぐいなんかしないよっ！」
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 #voice tukc7
-�y�c�L���z�u�܂݂������Ȃ��ł��v
+【ツキヨ】「つまみぐいしないです」
 
 ;CHR I10F1 C
-#cg �C�o�� iba_1_10f1 ��
+#cg イバラ iba_1_10f1 中
 #wipe fade
 #voice ibac0014
-�y�C�o���z�u�ق�A���O�����͂��܂ǂ̒����������茩����I�@�{�N�͂��O������������I�v
+【イバラ】「ほら、お前たちはかまどの中をしっかり見張れ！　ボクはお前たちを見張る！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-��ڂ��ł����C�o���͂���ƈ��S�����̂��A�����̂悤�Ɉ̂����Ƀq�i�^�����Ɍ��������B
+役目ができたイバラはやっと安心したのか、いつものように偉そうにヒナタたちに言いつけた。
 
 #bgvoice stop
-;BGMch2 amb00 �Đ�
+;BGMch2 amb00 再生
 #bgvoice amb004
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
 #wipe fade
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0015
-�y�C�o���z�u���َq�͂P�T���B����Ȃ�݂�ȂR�ÂŁA�{�N�����U���ȁI�v
+【イバラ】「お菓子は１５個か。それならみんな３個づつで、ボクだけ６個だな！」
 
-�C�o�����f�������̏�̂��َq�������񂹂Ă��܂��B
+イバラが素早く机の上のお菓子をかき寄せてしまう。
 
 ;CRF OFF
 
-�u���A���傿����Ƒ҂��āc�c�v
+「え、ちょちょっと待って……」
 
 ;CHR K01F2B L
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 左
 #wipe fade
 #voice konc0005
-�y�R�m�~�z�u�F�S�ÂŁ`�ЂƂ肾���R����Ȃ��́`�H�v
+【コノミ】「皆４個づつで〜ひとりだけ３個じゃないの〜？」
 
 ;CHR I10F1 R
-#cg �C�o�� iba_1_10f1 �E
+#cg イバラ iba_1_10f1 右
 #wipe fade
 #voice ibac0016
-�y�C�o���z�u����Ȃ́A���̂ЂƂ肪���킢�������낤�I�H�@������{�N���]�v�ɂR������Ă��I�v
+【イバラ】「そんなの、そのひとりがかわいそうだろう！？　だからボクが余計に３個もらってやる！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�������葈�D��ɂȂ��Ă��܂����B
+すっかり争奪戦になってしまった。
 
-�ЂƂ܂��݂͂�ȕ����ɕ�����Ƃ����̂Řb�͂����Ǝv�����̂����ǁc�c�B
+ひとまずはみんな平等に分けるというので話はついたと思ったのだけど……。
 
-�u���A����c�c���̕��́H�v
+「あ、いや……俺の分は？」
 
-�Ȃ�łЂƂ肾���R�ɂȂ�̂͂��킢�������Ǝv���āA���̕����܂���ƖY�����񂾂�B
+なんでひとりだけ３個になるのはかわいそうだと思えて、俺の分をまるっと忘れられるんだよ。
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0017
-�y�C�o���z�u�Ȃ񂾂ƁI�H�@�j���Q�����H�ׂ�̂��I�H�v
+【イバラ】「なんだと！？　ニンゲンも食べるのか！？」
 
-�u�H�ׂ��I�@�Ȃ�ł���Ȃɂт����肵�Ă�񂾂�I�@���Ă������A�������Ă��������Č��������ǁA���͂��΂炭�������H�ɂ������Łc�c�v
+「食べるよ！　なんでそんなにびっくりしてるんだよ！　っていうか、味見してもいいって言ったけど、俺はしばらくこれを主食にするつもりで……」
 
-�����ȍ~�̂��߂̏������āA������Ȃ����������H
+明日以降のための準備って、俺言わなかったっけ？
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0018
-�y�C�o���z�u�Ƃ��߂���C�������̂��I�H�v
+【イバラ】「独り占めする気だったのか！？」
 
 ;FACE H02F1_A
 #face f_hin_0_02f1_a 94 466
 
 #voice hinc0015
-�y�q�i�^�z�u�͂���I�H�@����͂����Ȃ�����A�j���Q������I�@�ЂƂ肶�߂̃P�`���{�̓_���_������I�v
+【ヒナタ】「はわっ！？　それはいくないよっ、ニンゲンさん！　ひとりじめのケチンボはダメダメだよ！」
 
 ;FACE T05F_P
 #face f_tuk_0_05f_p 94 466
 
 #voice tukc8
-�y�c�L���z�u���َq�H�ׂ��������ł��c�c�v
+【ツキヨ】「お菓子食べたかったです……」
 
 ;FACE K06F
 #face f_kon_0_06f 94 466
 
 #voice konc0006
-�y�R�m�~�z�u�j���Q������͋��~���ˁ`�v
+【コノミ】「ニンゲンくんは強欲だね〜」
 
-�u����A������ƁI�@�Ȃ�ŉ�������ȍ��߂����ȖڂŌ����Ȃ���Ȃ�Ȃ��̂��I�v
+「ちょ、ちょっと！　なんで俺がそんな恨めしげな目で見られなきゃならないのさ！」
 
 ;FACE H02F2_A
 #face f_hin_0_02f2_a 94 466
 
 #voice hinc0016
-�y�q�i�^�z�u�����āA����������Ȃ����āI�@�Ђǂ���I�v
+【ヒナタ】「だって、おかしくれないって！　ひどいよ！」
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 #voice ibac0019
-�y�C�o���z�u���َq����Ȃ��̂��I�H�@�l�Ԃ͗~����ȏ�ɂЂǂ�����ȁI�v
+【イバラ】「お菓子くれないのか！？　人間は欲張りな上にひどいやつだな！」
 
 ;FACE K07F
 #face f_kon_0_07f 94 466
 
 #voice konc0007
-�y�R�m�~�z�u����Ȃ��̂Ɍ����т炩���̂��`�����Ƃ����������������񂾂낤�Ȃ��`�v
+【コノミ】「くれないのに見せびらかすのか〜きっとすっごく美味しいんだろうなぁ〜」
 
 ;FACE H04F1_A
 #face f_hin_0_04f1_a 94 466
 
 #voice hinc0017
-�y�q�i�^�z�u�����������炭��Ȃ��́I�H�v
+【ヒナタ】「おいしいからくれないの！？」
 
-;CHR I04F C�i�Ղ�Ղ�j
-#cg �C�o�� iba_1_04f ��
+;CHR I04F C（ぷんぷん）
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0020
-�y�C�o���z�u�Ȃ񂾂Ƃ��I�H�@�Ɉ��񓹂Ȃ�߂��I�v
+【イバラ】「なんだとっ！？　極悪非道なやつめっ！」
 
 ;FACE T05F_P
 #face f_tuk_0_05f_p 94 466
 
 #voice tukc9
-�y�c�L���z�u�͂����`�B�撣���Ă���`���A�����ł��c�c�v
+【ツキヨ】「はうぅ〜。頑張ってお手伝い、したです……」
 
-�c�L���ɂ܂ō��߂��C�ȖڂŌ���ꂽ�B
+ツキヨにまで恨めし気な目で見られた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�Ȃ�łǂ�ǂ񉴂��Ђǂ���݂����Șb�ɂȂ��Ă�񂾂�I�H
+なんでどんどん俺がひどいやつみたいな話になってるんだよ！？
 
-�u������A��������Ȃ��Ƃ͌����ĂȂ�����I�H�@����ɂ��O��H�׉߂���Ƃ��Ȃ��󂷂���Ȃ����v
+「だから、一個もあげないとは言ってないだろ！？　それにお前ら食べ過ぎるとおなか壊すじゃないか」
 
-����܂ł̐����ŁA�G���t�����⋛�������ΐl�Ԃ̐H�ו���H�ׂ�̂��\�Ȃ��Ƃ͂킩�����B
+これまでの生活で、エルフも肉や魚を除けば人間の食べ物を食べるのが可能なことはわかった。
 
-�������A���Ƃ��Ƃ��̂�H�ׂ�悤�ɂ͏o���Ă��Ȃ�����Ȃ̂��A�����H�׉߂���Ƃ�����ɂ����Ă��܂��̂��B
+しかし、もともとものを食べるようには出来ていないからなのか、少し食べ過ぎるとお腹を痛くしてしまうのだ。
 
-����ł��āA���َq�≽���͌��\�D���Ȃ̂��܂����������̂������B
+それでいて、お菓子や何かは結構好きなのがまた困ったものだった。
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 #voice tukc10
-�y�c�L���z�u�󂳂Ȃ��悤�ɋC��t����ł��B�����炨�َq���������ł��v
+【ツキヨ】「壊さないように気を付けるです。だからお菓子くださいです」
 
-�u������A�����Ȃ��Ƃ́c�c�v
+「だから、あげないとは……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0021
-�y�C�o���z�u���ށB�����������َq�������炢���ς��H�ׂĂ����v���I�v
+【イバラ】「うむ。おいしいお菓子だったらいっぱい食べても大丈夫だ！」
 
-�u���̑O�����������Ă����󂵂�����c�c�v
+「この前もそう言ってお腹壊しただろ……」
 
-���ɃC�o���͎����Ō����悤�ɍ��M�ȃG���t�����炩�Ȃ�Ȃ̂��A�l�Ԃ̐H�ו��͑̂ɍ���Ȃ��݂������B
+特にイバラは自分で言うように高貴なエルフだからかなんなのか、人間の食べ物は体に合わないみたいだ。
 
-����Ȃ̂ɁA�ނ��둼�̎q�����H������V�Ȃ̂��Ȃ��c�c�B�����̐H������V�Ȃ̂��A���̎q�ƒ��荇���Ƃ��Ӓn�ɂȂ��Ă��܂��̂��B
+それなのに、むしろ他の子よりも食いしん坊なのがなぁ……。ただの食いしん坊なのか、他の子と張り合うとつい意地になってしまうのか。
 
-���̕��ŋC�����Ă����Ȃ��ƁA�����ɂ�����ɂ����Ă��܂��B
+俺の方で気をつけてあげないと、すぐにお腹を痛くしてしまう。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 #voice konc0008
-�y�R�m�~�z�u�����ς��H�ׂ�ꂿ�Ⴄ��ˁ`�A�{�N�A���̂��َq��������S���炢�H�ׂ����`�H�@���������c�c�v
+【コノミ】「いっぱい食べられちゃうよね〜、ボク、このお菓子だったら百個ぐらい食べられるよ〜？　もぐもぐ……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0022
-�y�C�o���z�u�������I�H�@�Ȃ�ł����H�ׂ�����Ă�񂾂��I�H�v
+【イバラ】「あぁっ！？　なんでもう食べちゃってるんだっ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K09F2 C
-#cg �R�m�~ kon_1_09f2 ��
+#cg コノミ kon_1_09f2 中
 #wipe fade
 #voice konc0009
-�y�R�m�~�z�u�����Ăˁ`�A���������c�c���̂��َq���ˁ`�c�c�����c�c�{�N�ɐH�ׂĂق������������񂾂�`�v
+【コノミ】「だってね〜、もぐもぐ……このお菓子がね〜……もぐ……ボクに食べてほしそうだったんだよ〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibac0023
-�y�C�o���z�u���َq������Ȃ��Ƃ���ׂ邩�[�I�H�@��������A�������{�N�ɐH�ׂĂ��炤�ق����������Ɍ��܂��Ă�I�v
+【イバラ】「お菓子がそんなことしゃべるかー！？　だったら、美しいボクに食べてもらうほうが嬉しいに決まってる！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H07F_A C
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinc0018
-�y�q�i�^�z�u�q�i�^�͂��������ׂ�Ƃ��ꂵ������I�v
+【ヒナタ】「ヒナタはおかしたべるとうれしいよっ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 #voice tukc11
-�y�c�L���z�u���������͊������ł��v
+【ツキヨ】「美味しいは嬉しいです」
 
-�u�킩�����A�킩��������B�����܂߂āA�݂�ȂɂR�Â���B�킩�����H�@�c�c��H�v
+「わかった、わかったから。俺も含めて、みんなに３個づつだよ。わかった？　……ん？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�\�\�����B
+――きぃ。
 
-���َq���߂����Ăǂ��΂����Ă���ƁA�ˑR�C�z���O�G����Ȃ������J�����B
+お菓子をめぐってどたばたしていると、突然気配も前触れもなく扉が開いた。
 
 ;CHR E
-#cg ���̑� elf_1_01 ��
+#cg その他 elf_1_01 中
 #wipe fade
 
-�����ē����Ă����̂́A�q�i�^���������傫���G���t�������B
+そして入ってきたのは、ヒナタたちよりも大きいエルフだった。
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibac0024
-�y�C�o���z�u���c�c�Z��I�H�v
+【イバラ】「あ……兄上！？」
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 #voice hinc0019
-�y�q�i�^�z�u�͂���I�H�@���������G���t�����I�H�v
+【ヒナタ】「はわっ！？　おっきいエルフだっ！？」
 
-�q�i�^�����ɂ��\�����ʗ��K�������炵���A�R�m�~�ȊO�͈�l�ɋ�������ŐV��������Ă����G���t�����グ�Ă���B
+ヒナタたちにも予期せぬ来訪だったらしく、コノミ以外は一様に驚いた顔で新しくやってきたエルフを見上げている。
 
 #voice izec0001
-�y��̃G���t�z�w�c�c�S���A�����ɂ����̂ł����x
+【泉のエルフ】『……全員、ここにいたのですか』
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konc0010
-�y�R�m�~�z�u���`�A�Ђ����Ԃ�`�v
+【コノミ】「お〜、ひさしぶり〜」
 
 #voice izec0002
-�y��̃G���t�z�w����͂��Ȃ������o�z�����܂ܖ߂��Ă��Ȃ�����ł��傤�x
+【泉のエルフ】『それはあなた方が出奔したまま戻ってこないからでしょう』
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 #voice tukc12
-�y�c�L���z�u�͂������c�c�v
+【ツキヨ】「はわわわわわわ……」
 
-�u���c�c�����A���������A���c�c�H�v
+「あ……あぁ、いらっしゃ、い……？」
 
-���͓ˑR�̗��K�҂ɂǂ����΂������̂��A�����΂���Ԕ����Ȑ��̂����������Ă��܂����B
+俺は突然の来訪者にどう応対したものか、少しばかり間抜けな声のかけ方をしてしまった。
 
-���̃G���t�̐��́A���A�Ƃ����ɂ͕s�v�c�ȋ����������Ă���B���ړ��̒��ɋ����Ă���݂����ȁc�c�B
+そのエルフの声は、声、というには不思議な響き方をしている。直接頭の中に響いてくるみたいな……。
 
-������Ȃ��G���t�͂����Ƃ����������ƁA�����ɃC�o���ɖڂ��������B
+見慣れないエルフはちらりとこちらを見ると、すぐにイバラに目を向けた。
 
 #voice izec0003
-�y��̃G���t�z�w��̃G���t�A���Ȃ��͖؂̎��̃G���t�▼�������G���t������A��A��ɗ����̂ł͂Ȃ������̂ł����x
+【泉のエルフ】『茨のエルフ、あなたは木の実のエルフや名も無きエルフたちを連れ帰りに来たのではなかったのですか』
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibac0025
-�y�C�o���z�u�������c�c���A����́c�c�v
+【イバラ】「あうっ……そ、それは……」
 
 #voice izec0004
-�y��̃G���t�z�w�܂��������Ȃ����͌��E�̊O�֏o���݂̂Ȃ炸�A�l�ԂƊւ��ȂǂȂ�Ƃ��������ȁx
+【泉のエルフ】『まったくあなた方は結界の外へ出たのみならず、人間と関わるなどなんという愚かな』
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibac0026
-�y�C�o���z�u�Z��A�Ȃ������ɁH�v
+【イバラ】「兄上、なぜここに？」
 
 #voice izec0005
-�y��̃G���t�z�w���Ȃ�����T���ɗ��܂����B���E����������߂��̂ł���B���c���ꂽ��Ȃ�Ƃ��܂��x
+【泉のエルフ】『あなた方を探しに来ました。結界が閉じる日も近いのですよ。取り残されたらなんとします』
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibac0027
-�y�C�o���z�u���A������A�{�N�͂������A��߂����Ɓc�c�v
+【イバラ】「だ、だから、ボクはこいつらを連れ戻そうと……」
 
 #voice izec0006
-�y��̃G���t�z�w�ꏏ�ɂȂ��ėV��ł����̂͂킩���Ă��܂���B��̃G���t�A���Ȃ��ɂ��̔C����C�����̂͊ԈႢ�ł����x
+【泉のエルフ】『一緒になって遊んでいたのはわかっていますよ。茨のエルフ、あなたにこの任務を任せたのは間違いでした』
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibac0028
-�y�C�o���z�u�����c�c�v
+【イバラ】「うっ……」
 
-�Z��c�c�H�@���̃G���t�̓C�o���̌Z�Ȃ̂��H
+兄上……？　このエルフはイバラの兄なのか？
 
 #voice izec0007
-�y��̃G���t�z�w�������A�Ⴂ�܂��l�̎q��B���͂��Ȃ���̂悤�ɐ��B�ɂ�錌�����������܂���x
+【泉のエルフ】『いいえ、違います人の子よ。我らはそなたらのように生殖による血縁を持ちえません』
 
-�����l���Ă������Ƃ��`������H
-���������̕ԓ��͓��̒��ɒ��ځc�c�H
+俺が考えていたことが伝わった？
+しかもその返答は頭の中に直接……？
 
 #voice izec0008
-�y��̃G���t�z�w�����ł��A�G���t�͎����o��Ό�����g�킸�Ƃ��ӎv��a�ʂł���悤�ɂȂ�܂��B�����p���Ȃ���Ό��t�̈Ⴂ�ȂǍ����Ȃ��Ɓx
+【泉のエルフ】『そうです、エルフは時を経れば言語を使わずとも意思を疎通できるようになります。言語を用いなければ言葉の違いなど些末なこと』
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibac0029
-�y�C�o���z�u�������A��߂��̂̓{�N�̖�ڂ̂͂��Ȃ̂ɁA�Z��͉������ɂ�����ł����H�v
+【イバラ】「こいつらを連れ戻すのはボクの役目のはずなのに、兄上は何をしにきたんですか？」
 
 #voice izec0009
-�y��̃G���t�z�w���Ȃ�����A��߂��ɂł��x
+【泉のエルフ】『あなた方を連れ戻しにです』
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibac0030
-�y�C�o���z�u���c�c�I�H�v
+【イバラ】「っ……！？」
 
-�C�o���̊炪�����ɍʂ���B
+イバラの顔が驚愕に彩られる。
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibac0031
-�y�C�o���z�u���A����̓{�N�̖�ڂŁc�c�v
+【イバラ】「そ、それはボクの役目で……」
 
 #voice izec0010
-�y��̃G���t�z�w���͂₻��ɂ͋y�т܂���B��ڂ��ʂ����ɂ͂܂����Ȃ��͗c�������悤�ł��x
+【泉のエルフ】『もはやそれには及びません。役目を果たすにはまだあなたは幼かったようです』
 
-�Z��Ƃ��ɂ���Ȃ��Ƃ������A�C�o���͉��������ɐO�����񂾁B
+兄上とやらにそんなことを言われ、イバラは悔しそうに唇を噛んだ。
 
 #voice izec0011
-�y��̃G���t�z�w�����A�A��܂��傤�B��̃G���t�A�؂̎��̃G���t�A���������G���t�����x
+【泉のエルフ】『さぁ、帰りましょう。茨のエルフ、木の実のエルフ、名も無きエルフたち』
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibac0032
-�y�C�o���z�u�Z��I�@�����q�i�^��c�L���͖��������G���t����Ȃ��I�@�����ƃj���Q�����q�i�^�ƃc�L�����Ė��O�����ꂽ�񂾁I�v
+【イバラ】「兄上！　もうヒナタやツキヨは名も無きエルフじゃない！　ちゃんとニンゲンがヒナタとツキヨって名前をくれたんだ！」
 
-�C�o���͊��ݕt���悤�Ɍ����āA�����ƌZ����ɂݔ��������B
+イバラは噛み付くように言って、きっと兄上を睨み反発した。
 
-�Z��͂܂�ŃC�o�������ނ悤�ɔ��΂񂾁B
+兄上はまるでイバラを憐れむように微笑んだ。
 
 #voice izec0012
-�y��̃G���t�z�w�G���t�͕K�v�̂Ȃ����̂ɂ܂ŋ�ʂ��邽�߂̖���t���܂���B���̂��Ƃ��Y���قǁA�l�Ԃɐ��܂��Ă��܂����̂ł����H�x
+【泉のエルフ】『エルフは必要のないものにまで区別するための名を付けません。そのことも忘れるほど、人間に染まってしまったのですか？』
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibac0033
-�y�C�o���z�u�{�N�͌ւ荂���Ԃ̃G���t�����ǁA�ŁA�ł��c�c�F�B���i�i�V�ƌĂԂȂ�āA�K�v�Ȃ��Ȃ�āA����܂肾�B�q�i�^�ƃc�L���̓q�i�^�ƃc�L�����I�v
+【イバラ】「ボクは誇り高い花のエルフだけど、で、でも……友達をナナシと呼ぶなんて、必要ないなんて、あんまりだ。ヒナタとツキヨはヒナタとツキヨだ！」
 
 #voice izec0013
-�y��̃G���t�z�w�c�c�ӂށB�l�̎q��A���Ȃ������̎ҒB�ɖ���^�����Ƃ����͎̂����ł����H�x
+【泉のエルフ】『……ふむ。人の子よ、あなたがこの者達に名を与えたというのは事実ですか？』
 
-�u���c�c�H�@���H�v
+「え……？　俺？」
 
-����܂łقƂ�ǖ�������Ă����̂ɁA�ˑR�b���������ĖʐH�炤�B
+それまでほとんど無視されていたのに、突然話しかけられて面食らう。
 
-�u�m���Ƀq�i�^�ƃc�L���ɖ��O��t�����͉̂������ǁv
+「確かにヒナタとツキヨに名前を付けたのは俺だけど」
 
 #voice izec0014
-�y��̃G���t�z�w���Ȃ��͂��̎҂�����K�v�Ƃ��Ă���A�Ƃ������Ƃł����x
+【泉のエルフ】『あなたはこの者たちを必要としている、ということですか』
 
-�Ԏ������̂Ɏ���ł͂Ȃ��Ƃ茾�̂悤�əꂢ�āA���x�������Ă���N���̃G���t�B
+返事したのに質問ではなく独り言のように呟いて、何度か頷いている年長のエルフ。
 
-�܂�ł��̎p�͉ƒ{��i��߂��Ă������̑��̊���̂悤�ŁA���͂Ȃ�ƂȂ����Ȃ��̂��o����B
+まるでその姿は家畜を品定めしていた時の村の顔役のようで、俺はなんとなく嫌なものを覚える。
 
 #voice izec0015
-�y��̃G���t�z�w�ł́A���������G���t�𗢂ŗ{���K�v�͂Ȃ��̂�����ނ���߂��Ă��Ȃ��������G���t�̂��߂�������Ȃ��x
+【泉のエルフ】『では、名も無きエルフを里で養う必要はないのだからむしろ戻ってこない方が我らエルフのためかもしれない』
 
-�Ă̒�o���ꂽ���_�͂낭�ł��Ȃ����̂������B
+案の定出された結論はろくでもないものだった。
 
-���������牴�𖳎����Ă������Ƃ�����A�����������Ă���̂͐��@�ł���B
+さっきから俺を無視していたことからも、俺を見下しているのは推察できる。
 
-�o���������̃C�o���̌������v���΁A�G���t�ɂƂ��Đl�Ԃ�n�[�t�G���t�A�_�[�N�G���t�Ȃ�ĂƂ�ɑ���Ȃ����̂Ȃ񂾂낤�B
+出会ったころのイバラの言動を思えば、エルフにとって人間やハーフエルフ、ダークエルフなんてとるに足りないものなんだろう。
 
-����ɂ������Ė߂��Ă��Ȃ������A�Ȃ�Ė{�l�̑O�ł������Ƃ���Ȃ����낤�B
+それにしたって戻ってこない方が、なんて本人の前でいうことじゃないだろう。
 
-�u���A���񂽂˂��c�c�v
+「あ、あんたねぇ……」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibac0034
-�y�C�o���z�u��������A�{�N���߂�Ȃ��I�v
+【イバラ】「だったら、ボクも戻らない！」
 
-���������������葁���A���񂾂̂̓C�o���������B
+俺が文句を言うより早く、叫んだのはイバラだった。
 
 #voice izec0016
-�y��̃G���t�z�w��̃G���t�c�c�H�x
+【泉のエルフ】『茨のエルフ……？』
 
-�N���̃G���t�͂����C�o���̔������ӊO�������̂悤�ɋ�����������Ă���B
+年長のエルフはさもイバラの反発が意外だったのように驚いた顔をしている。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0035
-�y�C�o���z�u�{�N�͖߂�Ȃ����I�@�{�N�̗F�B�ɕK�v���Ȃ��Ƃ��A���Ȃ��������߂ɂȂ�Ȃ�Ă����A���̂Ƃ���ɖ߂���񂩂��I�v
+【イバラ】「ボクは戻らないぞ！　ボクの友達に必要がないとか、いない方がためになるなんていう連中のところに戻るもんかっ！」
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 #voice tukc13
-�y�c�L���z�u�͂�c�c�v
+【ツキヨ】「はわ……」
 
-;�d�u�G�\�\EV???�w�C�o���ɕ������q�i�^�x
+;ＥＶ絵――EV???『イバラに抱きつくヒナタ』
 ;EVCG EV043A1
 ;#face off
 
 ;CHR OFF
 #cg all clear
-#cg �C�x���g ev043a1 �w�i
+#cg イベント ev043a1 背景
 #wipe fade
 
 #voice hinc0020
-�y�q�i�^�z�u�C�o���[���I�v
+【ヒナタ】「イバラーっ！」
 
 #voice ibac0036
-�y�C�o���z�u��Ղ��I�H�@�ȂȂȁA�Ȃ񂾂��I�H�@�}�ɂ��I�H�v
+【イバラ】「わぷっ！？　ななな、なんだっ！？　急にっ！？」
 
-�ˑR�q�i�^�ɔ�т���ăC�o���͋������Ă���B
+突然ヒナタに飛びつかれてイバラは驚愕している。
 
-�q�i�^�͂���ȃC�o���ɖj�Ƃ��킸�z�Ƃ��킸�A�Â���L�̂悤�ɎC��t�����B
+ヒナタはそんなイバラに頬といわず額といわず、甘える猫のように擦り付けた。
 
 #voice hinc0021
-�y�q�i�^�z�u�C�o�����A�q�i�^�ƃc�L���̂��ƁA�Ƃ��������Ă���Ă��ꂽ�I�@���ꂵ������I�v
+【ヒナタ】「イバラが、ヒナタとツキヨのこと、ともだちってゆってくれた！　うれしいよっ！」
 
-�q�i�^�̐����ɉ�����ăC�o���͌Z��ɑ΂���{���Y�ꂽ���̂悤�ɂ��낽���Ă���B
+ヒナタの勢いに押されてイバラは兄上に対する怒りを忘れたかのようにうろたえている。
 
 #voice ibac0037
-�y�C�o���z�u���A����́c�c�{�N�́A����Ȃ��肶��c�c�v
+【イバラ】「そ、それは……ボクは、そんなつもりじゃ……」
 
 ;FACE K04F
 #face f_kon_0_04f 94 466
 
 #voice konc0011
-�y�R�m�~�z�u�ӂӂӁA�F�B���i�i�V�Ȃ�ā`�K�v�Ȃ��Ȃ�ā`����܂肾�`�B�q�i�^�ƃc�L���́`�q�i�^�ƃc�L�����`�c�c���āA�F�B���Č����Ă���`�v
+【コノミ】「ふふふ、友達がナナシなんて〜必要ないなんて〜あんまりだ〜。ヒナタとツキヨは〜ヒナタとツキヨだ〜……って、友達って言ってたよ〜」
 
 #voice ibac0038
-�y�C�o���z�u���������Ă�񂾁A�R�m�~�c�c�����I�H�v
+【イバラ】「何を言ってるんだ、コノミ……あっ！？」
 
-�R�m�~�����������t�͍����������������������̂��ƌ�����̂��A�C�o���̓��^���^�ƍQ�Ăӂ��߂����B
+コノミが言った言葉は今さっき自分が言ったものだと悟ったのか、イバラはワタワタと慌てふためいた。
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 #voice tukc14
-�y�c�L���z�u�q�i�^�ƃc�L���̓q�i�^�ƃc�L���c�c�������ł��v
+【ツキヨ】「ヒナタとツキヨはヒナタとツキヨ……嬉しいです」
 
 #voice ibac0039
-�y�C�o���z�u���A�����Ă���͂��I�@�q�i�^�ƃc�L���̓q�i�^�ƃc�L��������I�H�@�{�N�͉��ɂ��Ԉ�������ƌ����ĂȂ����I�H�v
+【イバラ】「だ、だってそれはっ！　ヒナタとツキヨはヒナタとツキヨだろっ！？　ボクは何にも間違ったこと言ってないっ！？」
 
-�u����A�������ȁB�����Ԉ���ĂȂ���B�C�o�������������Ƃ͂��̏�Ȃ��������v
+「うん、そうだな。何も間違ってないよ。イバラが言ったことはこの上なく正しい」
 
 #voice ibac0040
-�y�C�o���z�u�ɁA�j���Q���c�c���A�������B�{�N���������Ƃ͂������ĊԈ���ĂȂ��I�@�{�N�͂������Đ������񂾁I�v
+【イバラ】「に、ニンゲン……そ、そうだ。ボクが言うことはいつだって間違ってない！　ボクはいつだって正しいんだ！」
 
 #voice hinc0022
-�y�q�i�^�z�u���肪�ƁA�C�o���B�C�o�����Ƃ��������Ă���Ă��ꂽ�̂����������ꂵ���̂��I�v
+【ヒナタ】「ありがと、イバラ。イバラがともだちってゆってくれたのすっごくうれしいのっ！」
 
 #voice ibac0041
-�y�C�o���z�u������A����͌��t�̃A�����Ă������c�c���́c�c�v
+【イバラ】「だから、それは言葉のアヤっていうか……その……」
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice konc0012
-�y�R�m�~�z�u���ӂӁ`�A�{�N��͂��F�B����ˁ`�v
+【コノミ】「うふふ〜、ボクらはお友達だよね〜」
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
 #wipe fade
 
-;CHR�@E
+;CHR　E
 #voice izec0017
-�y��̃G���t�z�w�͂��c�c�x
+【泉のエルフ】『はぁ……』
 
-�ɂ킩�ɂق̂ڂ̂Ƃ�����C�������Ԃ��悤�ɔN���̃G���t�����������A�q�i�^���������n�����B
+にわかにほのぼのとした空気を押しつぶすように年長のエルフが溜息をつき、ヒナタたちを見渡した。
 
-�r�[�ɂ���Ɠ�������悤�Ƀq�i�^�����͐g���ł�����B
+途端にしんと凍りついたようにヒナタたちは身を固くする。
 
 #voice izec0018
-�y��̃G���t�z�w�����ł����c�c���̋@��𓦂��΁A���Ȃ��������̗̈�ɖ߂邱�Ƃ͓���Ȃ�܂���B����ł����܂��܂��񂩁H�x
+【泉のエルフ】『そうですか……この機会を逃せば、あなた方が我らの領域に戻ることは難しくなりますよ。それでもかまいませんか？』
 
 ;FACE H02F2_A
 #face f_hin_0_02f2_a 94 466
 
 #voice hinc0023
-�y�q�i�^�z�u�͂�c�c�v
+【ヒナタ】「はわ……」
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 #voice tukc15
-�y�c�L���z�u�����c�c�v
+【ツキヨ】「あう……」
 
-�N���̃G���t�̌��t�Ƀq�i�^�ƃc�L���͑���ۂށB
+年長のエルフの言葉にヒナタとツキヨは息を呑む。
 
-�u�c�c�Ȃ񂾁A����H�@�������Ă�̂��H�v
+「……なんだ、それ？　脅迫してるのか？」
 
 #voice izec0019
-�y��̃G���t�z�w�����Ȃǂł͂���܂���B���͂����������q�ׂĂ��邾���ł��x
+【泉のエルフ】『脅迫などではありません。私はただ事実を述べているだけです』
 
-�u�����c�c�H�v
+「事実……？」
 
 #voice izec0020
-�y��̃G���t�z�w�������肨�l���Ȃ����B�ǂ�ǂ񓹂͋����Ȃ�B�ٕ��͓��荞�߂Ȃ��悤�ɍׂ��ˁx
+【泉のエルフ】『じっくりお考えなさい。どんどん道は狭くなる。異物は入り込めないように細くね』
 
 ;FACE T05F_P
 #face f_tuk_0_05f_p 94 466
 
 #voice tukc16
-�y�c�L���z�u���A����ȁc�c�v
+【ツキヨ】「そ、そんな……」
 
 ;FACE H02F2_A
 #face f_hin_0_02f2_a 94 466
 
 #voice hinc0024
-�y�q�i�^�z�u���܂��ق����Ȃ����Ⴄ�c�c�v
+【ヒナタ】「せまくほそくなっちゃう……」
 
 #voice izec0021
-�y��̃G���t�z�w�߂�Ȃ�Ȃ�ׂ��������Ȃ����B�߂肽���Ȃ�ˁx
+【泉のエルフ】『戻るならなるべく早くしなさい。戻りたいならね』
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���������ČZ��Ƃ��͗����������B
+そう言って兄上とやらは立ち去った。
 
-�u���������Ȃ�H�@�Ȃ񂾂����v
+「道が狭くなる？　なんだそりゃ」
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05f ��
+#cg コノミ kon_1_05f 中
 #wipe fade
 #voice konc0013
-�y�R�m�~�z�u��`�A�����ˁ`�V�����߂��ď����Â����Ȃ錎�̗͂��؂�Č��E���������Ă�񂾂Ǝv���`�v
+【コノミ】「ん〜、多分ね〜新月が過ぎて少しづつ強くなる月の力を借りて結界を強化してるんだと思う〜」
 
-�u�Ȃ�قǁB��������āA�����߂�Ȃ��Ⴂ���Ȃ����R������̂��H�@���E������͖̂����Ȃ񂾂낤�H�v
+「なるほど。だからって、早く戻らなきゃいけない理由があるのか？　結界が閉じるのは満月なんだろう？」
 
 ;CHR K03F C
-#cg �R�m�~ kon_1_03f ��
+#cg コノミ kon_1_03f 中
 #wipe fade
 #voice konc0014
-�y�R�m�~�z�u�����`�H�@�������肾��`�H�@�����āA�c�L���̓_�[�N�G���t�ňł��ő������A�q�i�^�̓n�[�t�G���t�ł���`�H�@�]�v�Ȃ��̂��������Ă邩��`�v
+【コノミ】「あるよ〜？　おおありだよ〜？　だって、ツキヨはダークエルフで闇の眷属だし、ヒナタはハーフエルフでしょ〜？　余計なものが混ざってるから〜」
 
-�u�]�v�Ȃ��̂��Č������͂Ȃ�����A�R�m�~�v
+「余計なものって言い方はないだろ、コノミ」
 
-�v�킸�����Ȃ߂�ƁA�R�m�~�͍������ӂ��ɉ��x��������������B
+思わずたしなめると、コノミは困ったふうに何度か首をかしげた。
 
 ;CHR K06F C
-#cg �R�m�~ kon_1_06f ��
+#cg コノミ kon_1_06f 中
 #wipe fade
 #voice konc0015
-�y�R�m�~�z�u���̌����������߂Ȃ�A�G���t����Ȃ����̂��Č����΂������ȁ`�H�@�{�N���l�Ԃ̈��ݕ���H�ו��H�ׂĂ邩���ς����`�v
+【コノミ】「その言い方がだめなら、エルフじゃないものって言えばいいかな〜？　ボクも人間の飲み物や食べ物食べてるから大変かも〜」
 
-�u�G���t����Ȃ����̂��A�������Ă�c�c�H�v
+「エルフじゃないものが、混ざってる……？」
 
 ;CHR K01F2A C
-#cg �R�m�~ kon_1_01f2a ��
+#cg コノミ kon_1_01f2a 中
 #wipe fade
 #voice konc0016
-�y�R�m�~�z�u���A�]�v�Ȃ��̂��Ă����̂́`�����������Ɓ`�B���������玝���Ă����������̂���������A�������Ȃ��Ƌ����Ȃ񂾂�`�v
+【コノミ】「そ、余計なものっていうのは〜そういうこと〜。こっちから持っていきたいものがあったら、早くしないと窮屈なんだよ〜」
 
-�u�ǂ����������Ȃ̂��悭�킩�Ȃ����痝���ł����Ƃ͌�������ǁA�����ɋ߂Â��ɂ�ăG���t�̌��E�ɓ���ɂ����Ȃ���ĉ��߂ł����̂��ȁH�v
+「どういう理屈なのかよくわかないから理解できたとは言い難いけど、満月に近づくにつれてエルフの結界に入りにくくなるって解釈でいいのかな？」
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 #voice konc0017
-�y�R�m�~�z�u����B�����������Ɓ`�v
+【コノミ】「うん。そういうこと〜」
 
-�u���v�Ȃ́H�v
+「大丈夫なの？」
 
 ;CHR K03F C
-#cg �R�m�~ kon_1_03f ��
+#cg コノミ kon_1_03f 中
 #wipe fade
 #voice konc0018
-�y�R�m�~�z�u��`�A�ǂ����낤�ˁ`�H�@�{�N�͑������C�����ǁ`�v
+【コノミ】「ん〜、どうだろうね〜？　ボクは多分平気だけど〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�R�m�~�������̂�т�Ƃ��Ă��邪�A�q�i�^���A�c�L�����A�����ăC�o�����ǂ����ł�������Ă����B
+コノミだけがのんびりとしているが、ヒナタも、ツキヨも、そしてイバラもどこか固い顔をしていた。
 
-���ǂ��̌�͊F���َq��H�ׂ�ǂ��낶��Ȃ��Ȃ����炵���A����l�����������Ƃ��َq��H�ח[�H���ς܂����B
+結局その後は皆お菓子を食べるどころじゃなくなったらしく、俺一人がもそもそとお菓子を食べ夕食を済ませた。
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-�d�ꂵ����C�̂܂ܒ����}�����B�G���t�����͗[�ׂ͎v���v���̏ꏊ�ŋx�񂾂悤���B
+重苦しい空気のまま朝を迎えた。エルフたちは夕べは思い思いの場所で休んだようだ。
 
-������킹�ɂ��������̂�������Ȃ����A�ЂƂ�ōl�����������Ƃ��Ȃ̂�������Ȃ��B
+顔を合わせにくかったのかもしれないし、ひとりで考えたかったとかなのかもしれない。
 
-�F�ǂ��������Ȃ񂾂낤�c�c�B
+皆どうするつもりなんだろう……。
 
 ;CHR H03F1_A R
-#cg �q�i�^ hin_1_03f1_a �E
+#cg ヒナタ hin_1_03f1_a 右
 #wipe fade
 #voice hinc0025
-�y�q�i�^�z�u�����`�c�c�v
+【ヒナタ】「うぅ〜……」
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 #voice tukc17
-�y�c�L���z�u�͂���������c�c�v
+【ツキヨ】「はぅあわわわわわ……」
 
-�u�ŁA�ǂ�����񂾁v
+「で、どうするんだ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 #voice konc0019
-�y�R�m�~�z�u�{�N�́`���E������O�ɖ߂��`�H�@�l�Ԃ̐��E�����Ɗy���������ȁ`�A���肪�Ƃ��`�j���Q������v
+【コノミ】「ボクは〜結界が閉じる前に戻るよ〜？　人間の世界も割と楽しかったな〜、ありがとう〜ニンゲンくん」
 
-������������ƁA�R�m�~�͌��f�����悤���B
+割合あっさりと、コノミは決断したようだ。
 
-��������Ă����̂͊��������ǁA�����Ԃ�ȒP�ɕʂꂪ���܂�񂾂ȁB
+礼を言ってくれるのは嬉しいけど、ずいぶん簡単に別れが決まるんだな。
 
-�c�c�G���t�Ȃ�āA����Ȃ��̂Ȃ̂�������Ȃ����ǁB
+……エルフなんて、そんなものなのかもしれないけど。
 
-�u�q�i�^��c�L���͂ǂ�����́H�v
+「ヒナタやツキヨはどうするの？」
 
 ;CHR H01F2_A R
-#cg �q�i�^ hin_1_01f2_a �E
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 #voice hinc0026
-�y�q�i�^�z�u�q�i�^���˂��I�@���ǂ�񂾂��I�v
+【ヒナタ】「ヒナタもねっ！　もどるんだっ！」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 #voice tukc18
-�y�c�L���z�u�߂�c�c�ł��v
+【ツキヨ】「戻る……です」
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibac0042
-�y�C�o���z�u�Ȃ��I�H�v
+【イバラ】「なっ！？」
 
-�q�i�^�ƃc�L���̌��t�ɃC�o���͐�債���B
+ヒナタとツキヨの言葉にイバラは絶句した。
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 #voice hinc0027
-�y�q�i�^�z�u�����ƂЂƂ�ڂ������������ǁA���Ƃ��������ł������A�����Ƃ��̂����Ȃ����I�v
+【ヒナタ】「ずっとひとりぼっちだったけど、おともだちもできたし、きっとたのしくなるよっ！」
 
-�q�i�^�͂��������āA�c�L���̎�����݁A�R�m�~�̎�����݁A�����ăC�o���̎���������Ƃ����ɂ܂ꂽ�B
+ヒナタはそう言って、ツキヨの手をつかみ、コノミの手をつかみ、そしてイバラの手をつかもうとして睨まれた。
 
 ;CHR H02F2_A R
-#cg �q�i�^ hin_1_02f2_a �E
+#cg ヒナタ hin_1_02f2_a 右
 #wipe fade
 #voice hinc0028
-�y�q�i�^�z�u���c�c�v
+【ヒナタ】「あ……」
 
 ;FACE I10F2
 #face f_iba_0_10f2 94 466
 
 #voice ibac0043
-�y�C�o���z�u�ӂ���I�v
+【イバラ】「ふんっ！」
 
 ;CHR T04F L
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 左
 #wipe fade
 #voice tukc19
-�y�c�L���z�u�q�i�^���c�L�����i�i�V����Ȃ��Ȃ����c�c�厖�Ȃ��́A��������ł��B���肪�Ƃ��ł��A�j���Q������v
+【ツキヨ】「ヒナタもツキヨもナナシじゃなくなった……大事なもの、もらったです。ありがとうです、ニンゲンさん」
 
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 #voice hinc0029
-�y�q�i�^�z�u���[�I�@�q�i�^���I�@�q�i�^�����I�@�j���Q������ɂ�����Ă������I�v
+【ヒナタ】「あー！　ヒナタも！　ヒナタもっ！　ニンゲンさんにぎゅってするよっ！」
 
-�C�o���Ƃ̋C�܂����𕥂��悤�Ƀc�L���ƃq�i�^����т��Ă���B
+イバラとの気まずさを払うようにツキヨとヒナタが飛びついてくる。
 
-�u���A�����c�c�v
+「あ、あぁ……」
 
-���͂ǂ������Ă����̂������炸�A��т��Ă����c�L���ƃq�i�^�̓��𕏂ł邮�炢�����ł��Ȃ������B
+俺はどう答えていいのか分からず、飛びついてきたツキヨとヒナタの頭を撫でるぐらいしかできなかった。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�����ۂ������Ă����C�o���͕��𗧂Ă��̂��A�{��悤�Ɍ������B
+そっぽを向いていたイバラは腹を立てたのか、怒鳴るように言った。
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibac0044
-�y�C�o���z�u�ȁc�c�Ȃ�Ȃ񂾁I�@�Ȃ�Ȃ񂾁I�@�Ȃ�ł���ȂƂ���ɖ߂�Ȃ�Č��߂��񂾁I�H�v
+【イバラ】「な……なんなんだ！　なんなんだ！　なんであんなところに戻るなんて決めたんだ！？」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 #voice tukc20
-�y�c�L���z�u���c�c����́c�c�v
+【ツキヨ】「そ……それは……」
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hinc0030
-�y�q�i�^�z�u�͂�c�c�v
+【ヒナタ】「はわ……」
 
-���͂ɉ�����ăq�i�^���c�L�����C�o������ڂ����炵�Ă��܂��B���̑ԓx�̂����ŃC�o���͂܂��܂����V�����B
+迫力に押されてヒナタもツキヨもイバラから目をそらしてしまう。その態度のせいでイバラはますます激昂した。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0045
-�y�C�o���z�u�R�m�~�͂������ǁA�q�i�^���c�L�����܂��i�i�V�ɂȂ����Ⴄ�񂾂��I�v
+【イバラ】「コノミはいいけど、ヒナタもツキヨもまたナナシになっちゃうんだぞ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 #voice hinc0031
-�y�q�i�^�z�u���A���ǁc�c�v
+【ヒナタ】「け、けど……」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 #voice tukc21
-�y�c�L���z�u�͂��c�c�v
+【ツキヨ】「はう……」
 
-�q�i�^�ƃc�L���͊�������킹��B�����ǁA���_�ɕς��͂Ȃ��݂����������B
+ヒナタとツキヨは顔を見合わせる。だけど、結論に変わりはないみたいだった。
 
 
-�c�L���͑����z������ł���A�������ƃC�o���Ɍ����Č������B
+ツキヨは息を吸い込んでから、ゆっくりとイバラに向って言った。
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 #voice tukc22
-�y�c�L���z�u�c�L���́A�c�L�����c�L�������Ēm���Ă邵�A�����ƃC�o�����R�m�~���q�i�^���A�c�L���̂��ƁA�c�L�����ČĂ�ł����ł��v
+【ツキヨ】「ツキヨは、ツキヨがツキヨだって知ってるし、きっとイバラもコノミもヒナタも、ツキヨのこと、ツキヨって呼んでくれるです」
 
 ;CHR H07F_B R
-#cg �q�i�^ hin_1_07f_b �E
+#cg ヒナタ hin_1_07f_b 右
 #wipe fade
 #voice hinc0032
-�y�q�i�^�z�u���ꂩ�炻�ꂩ��A�j���Q��������˂��I�v
+【ヒナタ】「それからそれから、ニンゲンさんもねっ！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibac0046
-�y�C�o���z�u��������v�����Ă����̂��I�H�v
+【イバラ】「だから大丈夫だっていうのか！？」
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 #voice tukc23
-�y�c�L���z�u�͂��c�c�ł��v
+【ツキヨ】「はい……です」
 
 ;CHR H08F1_A R
-#cg �q�i�^ hin_1_08f1_a �E
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 #voice hinc0033
-�y�q�i�^�z�u�q�i�^�̓q�i�^�����ăq�i�^�������Ă邩��A�i�i�V�ɂ��ǂ����肵�Ȃ���I�v
+【ヒナタ】「ヒナタはヒナタだってヒナタもしってるから、ナナシにもどったりしないよ！」
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibac0047
-�y�C�o���z�u�킩��Ȃ����I�@�{�N����Ȃ̂킩��Ȃ�����I�v
+【イバラ】「わかんないっ！　ボクそんなのわかんないよっ！」
 
-;SE�@����߂鉹
+;SE　扉を閉める音
 
-�C�o���͑ʁX�����˂�悤�ɋ������ԂƁA�������яo���Ă������B
+イバラは駄々をこねるように強く叫ぶと、扉から飛び出していった。
 
 ;FACE K08F
 #face f_kon_0_08f 94 466
 
 #voice konc0020
-�y�R�m�~�z�u���`���A�{����������`�v
+【コノミ】「あ〜あ、怒っちゃった〜」
 
 ;CHR H03F1_B L
-#cg �q�i�^ hin_1_03f1_b �E
+#cg ヒナタ hin_1_03f1_b 右
 #wipe fade
 #voice hinc0034
-�y�q�i�^�z�u�����`�A�C�o���Ղ�Ղ񂾁v
+【ヒナタ】「あう〜、イバラぷんぷんだ」
 
 ;CHR T02F R
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 #voice tukc24
-�y�c�L���z�u�{�点�A��������ł��c�c�v
+【ツキヨ】「怒らせ、ちゃったです……」
 
-�u�����c�c�Ȃ��B�C�o���ɂ��Ă݂���q�i�^��c�L�������΂�����������������낤�ɁA��������̖{�l�������痠�؂�ꂽ�悤�Ȃ��񂾂��ȁv
+「そりゃ……なぁ。イバラにしてみたらヒナタやツキヨをかばったつもりもあっただろうに、それをその本人たちから裏切られたようなもんだしな」
 
-�G���t�����̏��ɖ߂�邩�ǂ����Ƃ����b��������A���ɂ͌��o���ł��Ȃ��B
+エルフたちの所に戻れるかどうかという話だったら、俺には口出しできない。
 
-�����ǁA�C�o���̋C�������킩��悤�ȋC������B
+だけど、イバラの気持ちもわかるような気がする。
 
-�q�i�^��c�L�����C�o���̋C�������킩��Ȃ��킯����Ȃ������񂾂낤�B�Ђǂ����f������řꂢ���B
+ヒナタやツキヨもイバラの気持ちがわからないわけじゃなかったんだろう。ひどく困惑した顔で呟いた。
 
 ;CHR T10F1 R
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 #voice tukc25
-�y�c�L���z�u���؂��ĂȂ��ł��c�c�v
+【ツキヨ】「裏切ってないです……」
 
 ;CHR H02F2_A L
-#cg �q�i�^ hin_1_02F2_A �E
+#cg ヒナタ hin_1_02F2_A 右
 #wipe fade
 #voice hinc0035
-�y�q�i�^�z�u�q�i�^�������ǂ�Ȃ�������A�����ƃC�o�������܂����Ⴄ�񂾂�c�c�v
+【ヒナタ】「ヒナタたちもどらなかったら、きっとイバラもこまっちゃうんだよ……」
 
-;�C�� MCS
+;修正 MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-�u�C�o��������H�@�ǂ��������ƁH�v
+「イバラも困る？　どういうこと？」
 
 ;CHR K01F2A C
-#cg �R�m�~ kon_1_01F2A ��
+#cg コノミ kon_1_01F2A 中
 #wipe fade
 #voice konc0021
-�y�R�m�~�z�u�C�o���́`�����`�A�w�����o�����G���t��A��A��x���Ė񑩂��Ă邩��ˁ`�v
+【コノミ】「イバラは〜多分〜、『抜け出したエルフを連れ帰る』って約束してるからね〜」
 
-�u���߂ɖ񑩂��ĂĂ��A�C���ς�邱�Ƃ����Ă��邾��v
+「初めに約束してても、気が変わることだってあるだろ」
 
 ;CHR K07F C
-#cg �R�m�~ kon_1_07F ��
+#cg コノミ kon_1_07F 中
 #wipe fade
 #voice konc0022
-�y�R�m�~�z�u����́`�A���Ƃ�肪�ς�����Ⴄ�񂾂�`�A��x�����񑩂͐�΂�����`�v
+【コノミ】「それは〜、ことわりが変わっちゃうんだよ〜、一度した約束は絶対だから〜」
 
-�u���Ƃ��H�v
+「ことわり？」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 #voice tukc26
-�y�c�L���z�u�G���t�͖񑩁A���ł��B��Ύ��Ȃ��Ⴂ���Ȃ��񑩁A����ł��v
+【ツキヨ】「エルフは約束、守るです。絶対守らなきゃいけない約束、あるです」
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05F ��
+#cg コノミ kon_1_05F 中
 #wipe fade
 #voice konc0023
-�y�R�m�~�z�u�ق�`�A���������ƂȂ��`�H�@�G���t�̗��݂𕷂�����`��������O�ɃG���t��߂܂���Ɓ`�肢��������Ԃ��Ă��炦��`�݂����Ȃ́`�v
+【コノミ】「ほら〜、聞いたことない〜？　エルフの頼みを聞いたら〜立ち去る前にエルフを捕まえると〜願いを一つ叶え返してもらえる〜みたいなの〜」
 
-�u���A�����c�c�Ȃ񂩁A����Ȃ悤�Șb�͕��������Ƃ�����悤�ȁc�c�v
+「あ、あぁ……なんか、そんなような話は聞いたことがあるような……」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01F1A ��
+#cg コノミ kon_1_01F1A 中
 #wipe fade
 #voice konc0024
-�y�R�m�~�z�u������Ċ肢�̎d��������񂾁`�B���݂𕷂�����ɂ��肢�𕷂��悤�ɂ��āw�񑩁x����́`�B��������ƃG���t�͖񑩂����Ȃ��Ⴂ���Ȃ�����`�v
+【コノミ】「それって願いの仕方があるんだ〜。頼みを聞く代わりにお願いを聞くようにって『約束』するの〜。そうするとエルフは約束を守らなきゃいけないから〜」
 
-�u�w�񑩁x����邽�߂ɂ́A�肢�����Ȃ��邵���Ȃ��Ȃ���Ă��ƁH�v
+「『約束』を守るためには、願いをかなえるしかなくなるってこと？」
 
 ;CHR K09F2 C
-#cg �R�m�~ kon_1_09F2 ��
+#cg コノミ kon_1_09F2 中
 #wipe fade
 #voice konc0025
-�y�R�m�~�z�u�����A�����������Ɓ`�v
+【コノミ】「そそ、そういうこと〜」
 
-�u������Ċ������Ȃ����肢��������ǂ�����́H�v
+「それって叶えられないお願いだったらどうするの？」
 ;CHR K05F C
-#cg �R�m�~ kon_1_05F ��
+#cg コノミ kon_1_05F 中
 #wipe fade
 #voice konc0026
-�y�R�m�~�z�u�ǂ��ɂ����Ċ������`�H�@���ꂪ�l�Ԃ��v�������@�Ŋ����Ƃ͌���Ȃ����ǁ`�v
+【コノミ】「どうにかして叶えるよ〜？　それが人間が思った方法で叶うとは限らないけど〜」
 
-�����|���Ȃ��Ďv�킸���͑����̂񂾁B�c�c�����Ȗ񑩂�肢�������Ă��Ȃ��ĉ��͉^���悩�����̂�������Ȃ��B
+少し怖くなって思わず俺は息をのんだ。……うかつな約束や願い事をしていなくて俺は運がよかったのかもしれない。
 
 ;FACE T10F1
 #face f_tuk_0_10f1 94 466
 
 #voice tukc27
-�y�c�L���z�u�G���t�͖񑩂��Ύ�邵�A��点�悤�Ƃ���ł��v
+【ツキヨ】「エルフは約束を絶対守るし、守らせようとするです」
 
-�u�C�o���͐�΂ɃR�m�~������A��A��Ȃ��Ⴂ���Ȃ����Ă��ƁH�v
+「イバラは絶対にコノミたちを連れ帰らなきゃいけないってこと？」
 
 ;CHR K03F C
-#cg �R�m�~ kon_1_03F ��
+#cg コノミ kon_1_03F 中
 #wipe fade
 #voice konc0027
-�y�R�m�~�z�u�킩��Ȃ����ǁA�����ˁ`�v
+【コノミ】「わかんないけど、多分ね〜」
 
-�܂�A�q�i�^�ƃR�m�~�A�����ăc�L�����߂낤�ƌ��߂��̂̓C�o���̖񑩂𐬏A�����悤���Ă����C�����Ȃ̂��B
+つまり、ヒナタとコノミ、そしてツキヨが戻ろうと決めたのはイバラの約束を成就させようっていう気遣いなのか。
 
-�u�q�i�^���c�L�����R�m�~���A�C�o���̂��߂ɖ߂�񂾂ˁv
+「ヒナタもツキヨもコノミも、イバラのために戻るんだね」
 
 ;CHR K09F1 C
-#cg �R�m�~ kon_1_09F1 ��
+#cg コノミ kon_1_09F1 中
 #wipe fade
 #voice konc0028
-�y�R�m�~�z�u�����ā`�A�F�B������ˁ`�v
+【コノミ】「だって〜、友達だからね〜」
 
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01F1_A ��
+#cg ヒナタ hin_1_01F1_A 中
 #wipe fade
 #voice hinc0036
-�y�q�i�^�z�u���Ƃ������̂₭����������A�܂����I�v
+【ヒナタ】「おともだちのやくそくだもん、まもるよ！」
 
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04F ��
+#cg ツキヨ tuk_1_04F 中
 #wipe fade
 #voice tukc28
-�y�c�L���z�u���F�B�ƈꏏ�ɂ������ł��v
+【ツキヨ】「お友達と一緒にいたいです」
 
-�u�������A���ꂶ������~�߂�킯�ɂ͂����Ȃ��ȁv
+「そうか、それじゃ引き止めるわけにはいかないな」
 
-���ꂪ�G���t�̌��܂莖�Ȃ�A�l�Ԃ̉��ɂ͂ǂ��������Ď�o���͂ł��Ȃ��B
+それがエルフの決まり事なら、人間の俺にはどうしたって手出しはできない。
 
-�����₵���͂��邯�ǁA�ǂ����悤���Ȃ����ƂȂ񂾂낤�B
+少し寂しくはあるけど、どうしようもないことなんだろう。
 
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01F1B ��
+#cg コノミ kon_1_01F1B 中
 #wipe fade
 #voice konc0029
-�y�R�m�~�z�u�{�N��͐�ɖ߂��Ă邩��`�C�o���ɁA�����`���Ă����ā`�v
+【コノミ】「ボクらは先に戻ってるから〜イバラに、そう伝えておいて〜」
 
-�u�����A�킩�����v
+「あぁ、わかった」
 
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07F_A �E
+#cg ヒナタ hin_1_07F_A 右
 #wipe fade
 #voice hinc0037
-�y�q�i�^�z�u���ꂶ��A�܂��ˁI�@�j���Q������I�v
+【ヒナタ】「それじゃ、またね！　ニンゲンさん！」
 
 ;CHR T01F_L L
-#cg �c�L�� tuk_1_01F_L ��
+#cg ツキヨ tuk_1_01F_L 左
 #wipe fade
 #voice tukc29
-�y�c�L���z�u�܂������l���T�ɐH�ׂ���Ƃ��ɁA�����Ɖ��ł��v
+【ツキヨ】「またお月様が狼に食べられるときに、きっと会えるです」
 
-�u�������v
+「そっか」
 
 ;CHR OFF 
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR K09F1 R
-#cg �R�m�~ kon_1_09F1 �E
+#cg コノミ kon_1_09F1 右
 #wipe fade
 #voice konc0030
-�y�R�m�~�z�u����A�܂��ˁ`�v
+【コノミ】「じゃ、またね〜」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10F1 ��
+#cg ツキヨ tuk_1_10F1 左
 #wipe fade
 #voice tukc30
-�y�c�L���z�u�܂��A��ł��v
+【ツキヨ】「また、会うです」
 
-;�C�� MCS
+;修正 MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-�����Ă����R�m�~������������Ȃ���A���͋�΂������B
+去っていくコノミたちを見送りながら、俺は苦笑いした。
 
-�u�c�c����A���N�ゾ��v
+「……それ、何年後だよ」
 
-���ꂪ���N��ł��A�G���t�ɂƂ��Ă͑債�����Ԃ���Ȃ��񂾂낤�B
+それが何年後でも、エルフにとっては大した時間じゃないんだろう。
 
-�܂���邱�Ƃ��^��Ȃ����t���ȁB�c�c���̂��炢�͒��������Ă݂悤���B
+また会えることを疑わない言葉だな。……そのぐらいは長生きしてみようか。
 
-�c���ꂽ���͂���Ȃ��Ƃ��l���Ȃ���C�o����҂��Ƃɂ����B
+残された俺はそんなことを考えながらイバラを待つことにした。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -1447,137 +1447,137 @@
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i�[�j
+;背景：山小屋（夕）
 ;BG:BG08b_2
 #cg all clear
 #bg BG08b_2
 #wipe fade
 
-�o�c���������ɃC�o�����߂��Ă����̂́A�[��ꎞ�ɂȂ��Ă��炾�����B
+バツが悪そうにイバラが戻ってきたのは、夕暮れ時になってからだった。
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11F2 ��
+#cg イバラ iba_1_11F2 中
 #wipe fade
 #voice ibac0048
-�y�C�o���z�u�c�c�v
+【イバラ】「……」
 
-�u��������v
+「おかえり」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01F ��
+#cg イバラ iba_1_01F 中
 #wipe fade
 #voice ibac0049
-�y�C�o���z�u�c�c������́H�v
+【イバラ】「……あいつらは？」
 
-�u��ɖ߂��Ă���Ă��v
+「先に戻ってるってさ」
 
 ;CHR I10F2 C
-#cg �C�o�� iba_1_10F2 ��
+#cg イバラ iba_1_10F2 中
 #wipe fade
 #voice ibac0050
-�y�C�o���z�u�������v
+【イバラ】「そうか」
 
-�C�o���͏����̒��ɓ����Ă���ƁA���ɂ����݂����B
+イバラは小屋の中に入ってくると、俺にしがみついた。
 ;CHR I01F C
-#cg �C�o�� iba_1_01F ��
+#cg イバラ iba_1_01F 中
 #wipe fade
 #voice ibac0051
-�y�C�o���z�u����A���Ⴀ�c�c���ꂩ��́A�{�N�ƃj���Q���̓�l���肾�ȁv
+【イバラ】「じゃ、じゃあ……これからは、ボクとニンゲンの二人きりだな」
 
-�u�c�c�������ȁv
+「……そうだな」
 
-���ɂ����݂����肪�k���Ă���B�����Ȃ�Ă��Ȃ��Ă����̂ɁB
+俺にしがみついた手が震えている。無理なんてしなくていいのに。
 
-�u�C�o���A�G���t�Ɩ񑩂����̂��H�v
+「イバラ、エルフと約束したのか？」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08F ��
+#cg イバラ iba_1_08F 中
 #wipe fade
 #voice ibac0052
-�y�C�o���z�u���H�@�����H�v
+【イバラ】「え？　何を？」
 
-�u�O�ɏo���G���t��A��߂����āw�񑩁x�������񂶂�Ȃ������āA�R�m�~�����������Ă����v
+「外に出たエルフを連れ戻すって『約束』をしたんじゃないかって、コノミたちが言ってたぞ」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11F1 ��
+#cg イバラ iba_1_11F1 中
 #wipe fade
 #voice ibac0053
-�y�C�o���z�u����́c�c�����A���ǁv
+【イバラ】「それは……した、けど」
 
-�����A����ς�w�񑩁x�����Ă����̂��B
+あぁ、やっぱり『約束』をしていたのか。
 
-�u������A�Ȃ񂾂��Ă��v
+「だから、なんだってさ」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02F ��
+#cg イバラ iba_1_02F 中
 #wipe fade
 #voice ibac0054
-�y�C�o���z�u���H�v
+【イバラ】「え？」
 
-�u�F�A������G���t�̗��ɖ߂����񂾂��āB�C�o�����񑩂�j�炸�ɍςނ悤�Ɂv
+「皆、だからエルフの里に戻ったんだって。イバラが約束を破らずに済むように」
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09F ��
+#cg イバラ iba_1_09F 中
 #wipe fade
 #voice ibac0055
-�y�C�o���z�u�Ȃ��c�c�v
+【イバラ】「なっ……」
 
-�u�F�B�A������ȁB�����F�B����Ȃ����v
+「友達、だもんな。いい友達じゃないか」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02F ��
+#cg イバラ iba_1_02F 中
 #wipe fade
 #voice ibac0056
-�y�C�o���z�u���A����Ȃ��Ɨ���łȂ����I�@����łȂ��̂ɂ��I�H�v
+【イバラ】「そ、そんなこと頼んでないっ！　頼んでないのにっ！？」
 
-�C�o���͋����Ă���������Ƃ��������Ƃ����Ȃ��\��ŐO�����݂��߂�B
+イバラは驚いてから悔しいとも嬉しいともつかない表情で唇を噛みしめる。
 
-�u�F�B���āA���܂�ĂȂ������ėF�B�̂��߂ɉ���������񂾂낤�v
+「友達って、頼まれてなくたって友達のために何かするもんだろう」
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06F ��
+#cg イバラ iba_1_06F 中
 #wipe fade
 #voice ibac0057
-�y�C�o���z�u�����c�c�������c�c�{�N�́c�c�{�N�́c�c�ł��A�����A�߂�C�Ȃ�āc�c�v
+【イバラ】「うっ……うぅっ……ボクは……ボクは……でも、もう、戻る気なんて……」
 
-�C�o���̐��i�ł͈�x�Ȃ��Ă��܂����`��߂��̂ɂ͎��Ԃ��K�v�Ȃ񂾂낤�B
+イバラの性格では一度曲げてしまった臍を戻すのには時間が必要なんだろう。
 
-�����ׂ��Ȃ�ƌ����Ă������ǁA�����ȃG���t�̃C�o���Ȃ���������P�\�����邩������Ȃ��B
+道が細くなると言っていたけど、純粋なエルフのイバラならもう少し猶予があるかもしれない。
 
-�u�C�o�����߂�͖̂񑩂̂����ɂ͓����ĂȂ��́H�v
+「イバラが戻るのは約束のうちには入ってないの？」
 
 ;CHR I10F1 C
-#cg �C�o�� iba_1_10F1 ��
+#cg イバラ iba_1_10F1 中
 #wipe fade
 #voice ibac0058
-�y�C�o���z�u�{�N�������񑩂́w�O�ɏo���G���t��A��߂��x���B������A�{�N���߂�K�v�́c�c�v
+【イバラ】「ボクがした約束は『外に出たエルフを連れ戻す』だ。だから、ボクが戻る必要は……」
 
-�u���Ⴀ�A�D���Ȃ��������ɂ���΂�����v
+「じゃあ、好きなだけここにいればいいよ」
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09F ��
+#cg イバラ iba_1_09F 中
 #wipe fade
 #voice ibac0059
-�y�C�o���z�u�ӂ����I�H�@���Ă������̂��H�v
+【イバラ】「ふぇっ！？　いてもいいのか？」
 
-�u������B�������āA�����Ȃ��l�ɂȂ�͎̂₵������ˁv
+「いいよ。俺だって、いきなり一人になるのは寂しいからね」
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05F ��
+#cg イバラ iba_1_05F 中
 #wipe fade
 #voice ibac0060
-�y�C�o���z�u�ɁA�j���Q�����₵���Ȃ�A�T�ɂ��Ă���Ă��������I�v
+【イバラ】「に、ニンゲンが寂しいなら、傍にいてやってもいいぞ！」
 
-�c�c�C�o���̂��Ƃ������ƃG���t�����̌��ɕԂ��Ă�����ق����{���͂����̂��낤�B
+……イバラのこともちゃんとエルフたちの元に返してやったほうが本当はいいのだろう。
 
-�����ǁA�����ɋA��ƌ����Η]�v���`���Ȃ��Ȃ��Ƃ�����Ȃ��B
+だけど、無理に帰れと言えば余計に臍を曲げないとも限らない。
 
-���΂炭�ꏏ�ɂ��ėl�q�����Ă��������ȁc�c�B
+しばらく一緒にいて様子を見てもいいかな……。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -1585,20 +1585,20 @@
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
 #wipe fade
 
-�u�c�c����H�@�C�o���H�v
+「……あれ？　イバラ？」
 
-�ꏏ�ɐQ���͂��Ȃ̂ɁA�[��ɖڊo�߂�ƃC�o���̎p���Ȃ������B
+一緒に寝たはずなのに、深夜に目覚めるとイバラの姿がなかった。
 
-����Ȗ钆�ɂǂ��ɍs�����񂾁H
+こんな夜中にどこに行ったんだ？
 
 ;SMODE 040 PLAY
 #label replay040
@@ -1606,178 +1606,178 @@
 #bg BG08b_3
 
 #bgvoice stop
-;BGMch2 amb002 �Đ�
+;BGMch2 amb002 再生
 #bgvoice amb002
 
-;�d�u�G�\�\EV???�w��l�������グ��C�o���x
+;ＥＶ絵――EV???『一人星を見上げるイバラ』
 ;EVCG EV044A1
-#cg �C�x���g EV044A1 �w�i
+#cg イベント EV044A1 背景
 #wipe fade
 
-�O�ɏo�Ă݂�ƁA�C�o���͈�l������グ�Ă����B
+外に出てみると、イバラは一人空を見上げていた。
 
-�Ȃ񂾂����̎p���₵�����Ő���������̂��S�O���Ă��܂��B
+なんだかその姿が寂しそうで声をかけるのを躊躇ってしまう。
 
 #voice ibac0061
-�y�C�o���z�u�q�i�^�A�R�m�~�A�c�L���B�ǂ����āA�{�N�̂��Ƃ����āc�c�v
+【イバラ】「ヒナタ、コノミ、ツキヨ。どうして、ボクのことおいて……」
 
-�c�c����ς�A�C�o���̂�₵���񂶂�Ȃ����B
+……やっぱり、イバラのやつ寂しいんじゃないか。
 
 #voice ibac0062
-�y�C�o���z�u�c�c���������v
+【イバラ】「……っくしゅん」
 
-�u���c�c�v
+「あ……」
 
-�C�o���̂�����݂Ɏv�킸�����グ��ƁA�C�o�������������������B
+イバラのくしゃみに思わず声を上げると、イバラがこっちを向いた。
 
 #voice ibac0063
-�y�C�o���z�u�c�c�v
+【イバラ】「……」
 
-�����ǁA�C�o���͏�����������ɂȂ��Ă܂�������グ���B
+だけど、イバラは少し困った顔になってまた空を見上げた。
 
-�u�C�o���A�����񂶂�Ȃ����H�v
+「イバラ、寒いんじゃないか？」
 
 #voice ibac0064
-�y�C�o���z�u�ׁA�ʂɕ��C���v
+【イバラ】「べ、別に平気だ」
 
-�u�����H�@�Ȃ炢�����ǁv
+「そう？　ならいいけど」
 
-���̓C�o���ׂ̗ɍ������낵���B
+俺はイバラの隣に腰を下ろした。
 
-�u�����Ă��񂾁H�v
+「何してたんだ？」
 
 #voice ibac0065
-�y�C�o���z�u���c�c���c�c�����Ɓc�c�v
+【イバラ】「う……あ……えっと……」
 
-�u���ł����Ă��́H�v
+「星でも見てたの？」
 
 #voice ibac0066
-�y�C�o���z�u�������I�@���ꂾ�I�@�ʂɃq�i�^�����̂��ƂȂ񂩎v���o���ĂȂ����I�v
+【イバラ】「そうだ！　それだ！　別にヒナタたちのことなんか思い出してないぞ！」
 
-�c�c�R���t���Ȃ��Ȃ��B�d���Ȃ�����B
+……嘘が付けないなぁ。仕方ないやつだ。
 
-�u�����Y�킾�ȁv
+「星が綺麗だな」
 
-������グ��΍������̂���z�ɍׂ��ł��������􂫂̂悤�Ȍ��ƕ�΂��U��΂߂��悤�Ȑ��������Ă���B
+空を見上げれば黒く艶のある布に細くできたかぎ裂きのような月と宝石を散りばめたような星が光っている。
 
 #voice ibac0067
-�y�C�o���z�u���A�������낤�I�H�@�����璭�߂Ă����񂾁B�Y�킾���Ă����̂͂������ƁA���������Ƃ�����ȁv
+【イバラ】「そ、そうだろう！？　だから眺めていたんだ。綺麗だっていうのはいいこと、正しいことだからな」
 
-�u�������ƁA���������ƁA�˂��c�c�v
+「いいこと、正しいこと、ねぇ……」
 
 #voice ibac0068
-�y�C�o���z�u�L���L�����鐯�������ɂł�����A�{�N�͂������Y��ɂȂ�邩�ȁv
+【イバラ】「キラキラ光る星を首飾りにできたら、ボクはもっと綺麗になれるかな」
 
-�u����Ȃɒ������Ăǂ�����񂾁H�v
+「そんなに着飾ってどうするんだ？」
 
 #voice ibac0069
-�y�C�o���z�u�Y����Ă����͉̂��l�����邱�ƂȂ񂾂��v
+【イバラ】「綺麗っていうのは価値があることなんだぞ」
 
-�u��������āA�����鑊�肪����������Ӗ����Ȃ��񂶂�Ȃ����H�v
+「だからって、見せる相手が俺だけじゃ意味がないんじゃないか？」
 
 #voice ibac0070
-�y�C�o���z�u�n�����Ȃ��B�Y����Ă����͎̂����̂��߂ɒǋ�������̂��B������A�N�����邩�Ȃ�Ċ֌W�Ȃ��v
+【イバラ】「馬鹿だなぁ。綺麗っていうのは自分のために追究するものだ。だから、誰が見るかなんて関係ない」
 
-�C�o���͝X�˂��݂����ɖj��c��܂����B
+イバラは拗ねたみたいに頬を膨らませた。
 
 #voice ibac0071
-�y�C�o���z�u�ł��A�������ȁB�q�i�^�Ȃ񂩂����������S���Ă���邩��A�����Ă���Ă������ȁB�����炪�����Y��Ȃ��̂������Ă��̂͋C���ǂ������v
+【イバラ】「でも、そうだな。ヒナタなんかすっごく感心してくれるから、見せてやってもいいな。あいつらがいて綺麗なものを見せてやるのは気分良かった」
 
-�u���܂ł����S�l�ŉ߂����Ă��̂��A�ЂƂ�ɂȂ����炻���₵����ȁv
+「今までいつも４人で過ごしてたのが、ひとりになったらそりゃ寂しいよな」
 
 #voice ibac0072
-�y�C�o���z�u�S�l����Ȃ����B�ЂƂ�ł��Ȃ��v
+【イバラ】「４人じゃないぞ。ひとりでもない」
 
-�u���H�v
+「え？」
 
 #voice ibac0073
-�y�C�o���z�u�����T�l�ňꏏ�ɂ������A���͂ӂ��肾�v
+【イバラ】「いつも５人で一緒にいたし、今はふたりだ」
 
-�u���A�����c�c�������B�������ȁA���������ꏏ�������ȁv
+「あ、あぁ……俺もか。そうだな、いつも俺も一緒だったな」
 
 #voice ibac0074
-�y�C�o���z�u�������B�����̂��Ƃ𐔂��Y���Ȃ�Ė{���Ƀj���Q���͔n�����ȁv
+【イバラ】「そうだ。自分のことを数え忘れるなんて本当にニンゲンは馬鹿だな」
 
-�ӂ���A�ƃC�o���͈̂����ɕ@��炵���B
+ふんっ、とイバラは偉そうに鼻を鳴らした。
 
 #voice ibac0075
-�y�C�o���z�u�c�c�T�l�ꏏ�������񂾁B����Ȃ̂ɁA�z��{�N�ɂȂ�̒f����Ȃ��߂�Ȃ�āA���߂�����āc�c�v
+【イバラ】「……５人一緒だったんだ。それなのに、奴らボクになんの断りもなく戻るなんて、決めちゃって……」
 
-�C�o���͂�����ƌ��������ĉ�����ɖڂ�������B
+イバラはきゅっと拳を握って遠い空に目を向ける。
 
 #voice ibac0076
-�y�C�o���z�u�{�N�̖񑩂Ȃ�āA�q�i�^�����ɂ͊֌W�Ȃ�����Ȃ����B�{�N������ɂ����񑩂��v
+【イバラ】「ボクの約束なんて、ヒナタたちには関係ないじゃないか。ボクが勝手にした約束だ」
 
-�u���ꂾ���C�o���̂��Ƃ�厖�ȗF�B���Ǝv���Ă��񂾂�v
+「それだけイバラのことを大事な友達だと思ってたんだよ」
 
 #voice ibac0077
-�y�C�o���z�u�c�c������́A�n�����v
+【イバラ】「……あいつらは、馬鹿だ」
 
-�u�₵���H�v
+「寂しい？」
 
 #voice ibac0077-01
-�y�C�o���z�u�₵���Ȃ񂩂Ȃ����B�ꏏ�ɗV��ł��y�����Ȃ񂩂Ȃ������B����Ȏז��Ȃ�炢�Ȃ��Ȃ��Ă��������������I�v
+【イバラ】「寂しくなんかないぞ。一緒に遊んでも楽しくなんかなかった。あんな邪魔なやつらいなくなってせいせいしたっ！」
 
-�u�c�c�������₷���Ȃ��v
+「……わっかりやすいなぁ」
 
-�����������A�Ə΂��Ă���ƁA�C�o���͂ނ��Ƃ����l�q�ŉ����`���b�ƌ����B
+くっくっく、と笑っていると、イバラはむっとした様子で俺をチラッと見た。
 
 #voice ibac0078
-�y�C�o���z�u�����A�����΂��Ă�I�H�@��������I�v
+【イバラ】「何だ、何を笑ってる！？　っくしゅ！」
 
-�u�c�c�����B��������Ȃ��v
+「……あぁ。寒いもんなぁ」
 
 #voice ibac0079
-�y�C�o���z�u���A�����Ȃ񂩁c�c�v
+【イバラ】「さ、寒くなんか……」
 
-�����͋C�ɂȂ�Ȃ����A��ɂȂ�Ɨ��΂ɗ₦��B
+日中は気にならないが、夜になると流石に冷える。
 
-�܂��ĕ��̗₽�����O�ŁA�y�̏�ɗ����Ă���̂ł͂Ȃ�����̂��Ƃ��B
+まして風の冷たい屋外で、土の上に立っているのではなおさらのことだ。
 
-�u���ɖ߂�Ȃ��H�v
+「中に戻らない？」
 
-�C�o���͏�������������U��Ԃ��āA���ꂩ��܂�������グ���B
+イバラは少しだけ小屋を振り返って、それからまた空を見上げた。
 
 #voice ibac0080
-�y�C�o���z�u�c�c���������A�����ɂ���v
+【イバラ】「……もう少し、ここにいる」
 
-�c�c�������C�o�������Ȃ��ƒm�������A���������S���ƂȂ����o�����B
+……さっきイバラがいないと知った時、俺も少し心もとなさを覚えた。
 
-�ڂ��o�߂��Ƃ��A�����̒��̕���������؂��Ă��镪�A�q�i�^���������Ȃ����Ƃ��v���m�炳�ꂽ�񂾂낤�B
+目が覚めたとき、小屋の中の方が狭く区切られている分、ヒナタたちがいないことを思い知らされたんだろう。
 
-�u�킩�����B����A�������������ꏏ�ɂ����v
+「わかった。じゃ、俺ももう少し一緒にいるよ」
 
 #voice ibac0081
-�y�C�o���z�u�ׁA�ʂɂ������B�j���Q���͐Q�Ă�΂����v
+【イバラ】「べ、別にいいぞ。ニンゲンは寝てればいい」
 
-�u������Ƒ҂��ĂāA���Ȃ񂩎����Ă��邩��v
+「ちょっと待ってて、今なんか持ってくるから」
 
 #voice ibac0082
-�y�C�o���z�u�c�c���A�j���Q���v
+【イバラ】「……あ、ニンゲン」
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG:BG07b_3
 #cg all clear
 #bg BG07b_3
 #wipe fade
 
-����Ȃ��Ă����Ӓn�𒣂炸�ɂ����Ȃ��̂́A�C�o���炵���Ƃ����������B
+張らなくていい意地を張らずにいられないのは、イバラらしいというか何か。
 
-����ȃC�o���ɂ�����A�������Ă�肽���Ǝv���Ă��܂��̂�������Ȃ��B
+そんなイバラにだから、何かしてやりたいと思ってしまうのかもしれない。
 
-�����A�q�i�^�������c�c�B
+俺も、ヒナタたちも……。
 
 ;SMODE 040 STOP
 #endscene
 
-�u���ĂƁA���������Ă��������c�c�v
+「さてと、何を持っていこうか……」
 
-���͏����̒������n�����B
+俺は小屋の中を見渡した。
 
-;�I��������
+;選択肢発生
 #select a b
-�`�F���������ݕ��🹂�Ă�����
-�a�F�ѕz�������Ă����Ă�����
+Ａ：温かい飲み物を淹れてあげる
+Ｂ：毛布を持っていってあげる
 
 
 #label a
@@ -1786,5 +1786,5 @@
 #label b
 #next di01b
 
-;�`��I���ˁwdi01a�x�փW�����v
-;�a��I���ˁwdi01b�x�փW�����v
+;Ａを選択⇒『di01a』へジャンプ
+;Ｂを選択⇒『di01b』へジャンプ

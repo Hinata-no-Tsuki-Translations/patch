@@ -1,11 +1,11 @@
 
 
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG36_1
 
 #mes off fade
@@ -28,754 +28,754 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
 
-;BGMch2 amb001 �X�P �Đ�
+;BGMch2 amb001 森１ 再生
 #bgvoice amb001
 
-;�w�i�F�R���i�[�j
+;背景：山道（夕）
 ;BG:BG06_2
 #cg all clear
 #bg BG06_2
 #wipe fade
 
-������̋A�蓹�A�����Ȃ��牴�͔�����m�F�����B
+村からの帰り道、歩きながら俺は売上を確認した。
 
-�u�v�������A�����l�Ŕ��ꂽ�ȁv
+「思ったより、いい値で売れたな」
 
-�G���t�̗��߂��̉Ԕ�����Ƃ��Ă����Ԃ̒��ɂ́A�l�q�������Ƃ��������炢�Ō͂��킯�ł��Ȃ������Ȃ��̂��������������B
+エルフの里近くの花畑からとってきた花の中には、様子を見たところ一日ぐらいで枯れるわけでもなさそうなものもいくつかあった。
 
-�G�߂��Ⴄ�̂ɁA���̉Ԕ��ň�����Ƃ��������ŉ������ʂȗ͂�����炵���B
+季節も違うのに、あの花畑で育ったというだけで何か特別な力があるらしい。
 
-������A���߂č̂��Ă����Ԃƍ׍H���𑺂ɔ���ɍs�����̂����ǁA��y�ɋQ�������̘A���͉��ɂƔ����Ă��ꂽ�B
+だから、改めて採ってきた花と細工物を村に売りに行ったのだけど、娯楽に飢えた村の連中は我先にと買ってくれた。
 
-�����������o����悤�ȗT���Ȃ��̂΂��肶��Ȃ�����A�����͕��X������������ƐF�X���B
+もちろん金を出せるような裕福なものばかりじゃないから、そこは物々交換だったりと色々だ。
 
-���A���A���ɉَq�Ȃ񂩂���ɓ���������A����ł��΂炭�͐H�������L���ɂȂ肻�����B
+粉、卵、蜜に菓子なんかも手に入ったから、これでしばらくは食生活が豊かになりそうだ。
 
-;BGMch2 amb004  �Đ�
+;BGMch2 amb004  再生
 #bgvoice amb004 
 
-;�w�i�F�R�����i��j�����肪����ꍇ�͒�
+;背景：山小屋（夜）明かりがある場合は昼
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u�͂��A����o���āv
+「はい、手を出して」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 ;CHR H01F1 R
-#cg �q�i�^ hin_1_01f1 �E
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice ibab0184
-�y�C�o���z�u�Ȃ񂾁A�����Y��Ȃ́I�H�v
+【イバラ】「なんだ、この綺麗なの！？」
 
 #voice hinb0203
-�y�q�i�^�z�u�ӂ���A�L���L�����Ă��I�H�v
+【ヒナタ】「ふわっ、キラキラしてるよ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B L
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 左
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice konb0224
-�y�R�m�~�z�u�V�Ԃ��́`�H�v
+【コノミ】「遊ぶもの〜？」
 
 #voice tikb0195
-�y�c�L���z�u�c�c������ƁA�؂Ƃ؂Ƃ��Ă�ł��v
+【ツキヨ】「……ちょっと、ぺとぺとしてるです」
 
-�H�����ς܂�����A�G���t�������V�тɗ����̂ŁA������ɓ��ꂽ����U�������Ƃɂ����B
+食事を済ませた後、エルフたちが遊びに来たので、今日手に入れた飴を振舞うことにした。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�G���t�����͊�{�I�Ɉ��H�͂��Ȃ��炵�����ǁA�����݂����Țn�D�i�Ȃ班���͌��ɂ��邩��ȁB
+エルフたちは基本的に飲食はしないらしいけど、お茶みたいな嗜好品なら少しは口にするからな。
 
-���⋛�͂Ƃ������A���َq�̗ނȂ�H�ׂ邩������Ȃ��B
+肉や魚はともかく、お菓子の類なら食べるかもしれない。
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 ;CHR K01F1A R
-#cg �R�m�~ kon_1_01f1a �E
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
-�G���t�����͈����������Ƃ��Ȃ��̂��A�s�v�c�����Ȋ�Œ��߂Ă���B
+エルフたちは飴を見たことがないのか、不思議そうな顔で眺めている。
 
-�u���ɓ���Ă����v
+「口に入れてごらん」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0185
-�y�C�o���z�u���[�H�@�j���Q���������Ă������̂Ȃ񂾂���A�ł����I�H�v
+【イバラ】「えー？　ニンゲンがもってきたものなんだから、毒かも！？」
 
-�u�łȂ񂩂���Ȃ����Ă΁vx
+「毒なんかじゃないってば」x
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0225
-�y�R�m�~�z�u���ɓ����Ɓ`�C���������`�H�v
+【コノミ】「口に入れると〜気持ちいい〜？」
 
-���܂��낵���Ȃ����҂Ɉ�ꂽ��ŃR�m�~�����グ�Ă���B
+あまりよろしくない期待に溢れた顔でコノミが見上げてくる。
 
-�u�ߋ�ł��Ȃ���B��������H�ׂĂ݂Ȃ��āv
+「玩具でもないよ。いいから食べてみなって」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0196
-�y�c�L���z�u�H�ׂ�A�ł��H�v
+【ツキヨ】「食べる、です？」
 
-�H�ׂ�A�Ƃ������t�ɔ��������̂��C�o�����j��c��܂����B
+食べる、という言葉に反応したのかイバラが頬を膨らませた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0186
-�y�C�o���z�u�G���t�͊��S�Ȑ�����������A���̖���D���悤�Ȃ��Ƃ����Ȃ��Ă������Ă�����񂾂��B������A������H�ׂ�K�v�Ȃ񂩂Ȃ��v
+【イバラ】「エルフは完全な生き物だから、他の命を奪うようなことをしなくても生きていけるんだぞ。だから、何かを食べる必要なんかない」
 
-�u��������āA�����H�ׂ��Ȃ����Ă킯�ł��Ȃ��񂾂�H�v
+「だからって、何も食べられないってわけでもないんだろ？」
 
 ;CHR K01F1A R
-#cg �R�m�~ kon_1_01f1a �E
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0226
-�y�R�m�~�z�u�܂��A�˂��`�B�{�N���`�ʕ��Ȃ񂩂́`�D������`�H�@�ł����`���ꂥ�`���������ǎ�݂����ɍd���悧�`�H�v
+【コノミ】「まぁ、ねぇ〜。ボクも〜果物なんかは〜好きだよ〜？　でもぉ〜これぇ〜透明だけど種みたいに硬いよぉ〜？」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0197
-�y�c�L���z�u�Â��́A���������ł��c�c�ł��A�d���́A�a���ł��v
+【ツキヨ】「甘いの、美味しいです……でも、硬いの、渋いです」
 
-�u�ʕ��Ȃ炻�������ǁB�Â��̂��D���Ȃ�A���ł��炦��Ǝv���񂾂��ǂȂ��v
+「果物ならそうだけど。甘いのが好きなら、喜んでもらえると思うんだけどなぁ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0204
-�y�q�i�^�z�u��[�A�ł����c�c�v
+【ヒナタ】「んー、でもぉ……」
 
-������Ȃ����̂����ɂ���̂ɒ�R������̂��A�˘f���Ȃ����ɂ������𒭂߂Ă���F�̒��Ńq�i�^���ŏ��ɍs���ɏo���B
+見慣れないものを口にするのに抵抗があるのか、戸惑いながら手にした飴を眺めている皆の中でヒナタが最初に行動に出た。
 
 ;CHR H06F1 C
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0205
-�y�q�i�^�z�u�j���Q�����񂪂��ꂽ��Ȃ�A�q�i�^���ׂĂ݂�I�@�������I�v
+【ヒナタ】「ニンゲンさんがくれたんなら、ヒナタたべてみる！　えいっ！」
 
-�����悭���ɕ��荞�ނ��̂�����A���̕����Q�ĂĂ��܂��B
+勢いよく口に放り込むものだから、俺の方が慌ててしまう。
 
-�u�ЁA�q�i�^�H�@���ނ񂶂�Ȃ����B���̒��œ]�����񂾁v
+「ひ、ヒナタ？　飲むんじゃないぞ。口の中で転がすんだ」
 
 ;CHR H04F2 C
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 中
 #wipe fade
 
-;�u���̒��œ]�����H�v
+;「口の中で転がす？」
 #voice hinb0206
-�y�q�i�^�z�u���Ђ̂Ȃӂ��ł�낪�ӂ��c�c�H�v
+【ヒナタ】「くひのなふぁでろろがふぅ……？」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0187
-�y�C�o���z�u���A���v���A�q�i�^�c�c�v
+【イバラ】「だ、大丈夫か、ヒナタ……」
 
 #voice hinb0207
-�y�q�i�^�z�u���������c�c�v
+【ヒナタ】「もごもご……」
 
-�q�i�^�����ɕ��荞�񂾂̂��C�o���������S�z�����Ɍ��߂Ă���B
+ヒナタが口に放り込んだのをイバラたちが心配そうに見つめている。
 
-�������A����ȃC�o�������̐S�z�Ƃ͗����ɁA�q�i�^�͂ς��Ɩ��邢�΂݂𕂂��ׂ��B
+しかし、そんなイバラたちの心配とは裏腹に、ヒナタはぱっと明るい笑みを浮かべた。
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0208
-�y�q�i�^�z�u�ق������������I�H�@�Ȃɂ���I�H�@���܂��[�����I�v
+【ヒナタ】「ほぉおおおおお！？　なにこれ！？　あまぁーいっ！」
 
-��͂船�̓G���t�̌��ɍ����悤���B�C�ɓ����Ă��ꂽ�̂��A�q�i�^�͂҂��҂���ђ��˂Ă���B
+やはり飴はエルフの口に合うようだ。気に入ってくれたのか、ヒナタはぴょんぴょん飛び跳ねている。
 
-���͂ق��Ƌ����Ȃł��낵�Ȃ�����������B
+俺はほっと胸をなでおろしながら説明した。
 
-�u�ԂƂ��A�؂Ƃ��ŁA�Â��`���o��̂����邾��H�@�������[���ϋl�߂����̂���v
+「花とか、木とかで、甘い汁が出るのがあるだろ？　それをよーく煮詰めたものだよ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1 L
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 左
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0188
-�y�C�o���z�u�ϋl�߂������ł���Ȃɍd����݂����ɂȂ�̂��I�H�v
+【イバラ】「煮詰めただけでこんなに硬く種みたいになるのか！？」
 
-�u�ϋl�߂���Č����Ă��A�ł����Ȃ��悤�ɋC�����Ȃ���A�������莞�Ԃ������ė���グ�Ă����炵�����ǁc�c�v
+「煮詰めるって言っても、焦がさないように気をつけながら、じっくり時間をかけて練り上げていくらしいけど……」
 
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0189
-�y�C�o���z�u�ނނށA�l�Ԃ͂���ȋZ�p�������Ă���̂��v
+【イバラ】「むむむ、人間はそんな技術を持っているのか」
 
-�C�o���͂ނ��됻�@�ɋ������������݂����œ����ɂȂ��Ĉ����ɂ�ł���B
+イバラはむしろ製法に興味がいったみたいで難しい顔になって飴を睨んでいる。
 
 ;CHR H06F1 L
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 左
 #wipe fade
 
 #voice hinb0209
-�y�q�i�^�z�u�ނ����������͂Ȃ��͂��Ƃɂ��Ă��ׂȂ�A�����������������񂾂�I�v
+【ヒナタ】「むずかしいおはなしはあとにしてたべなよ、すっごくおいしいんだよ！」
 
 ;CHR I08F R
-#cg �C�o�� iba_1_08f �E
+#cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibab0190
-�y�C�o���z�u�ŁA�ł��c�c�v
+【イバラ】「で、でも……」
 
 ;CHR H01F1 L
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0210
-�y�q�i�^�z�u���ׂȂ���Ȃ�A�q�i�^�̂���I�v
+【ヒナタ】「たべないんなら、ヒナタのだよ！」
 
 ;CHR I04F R
-#cg �C�o�� iba_1_04f �E
+#cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0191
-�y�C�o���z�u�_���I�@����ȂɃL���C�Ȃ��́A�{�N�̂ق����������Ɍ��܂��Ă邾��I�@�R�����ď���ɂ���I�v
+【イバラ】「ダメ！　こんなにキレイなもの、ボクのほうが似合うに決まってるだろ！　紐をつけて飾りにする！」
 
-�u���[��A����ɂ���ƁA�����Ƃׂ��ׂ��ɂȂ����Ⴄ�Ǝv����B��������Ă������v
+「うーん、飾りにすると、もっとべたべたになっちゃうと思うよ。虫も寄ってきそう」
 
 ;CHR I09F R
-#cg �C�o�� iba_1_09f �E
+#cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0192
-�y�C�o���z�u�����I�H�@�ށA�����I�H�v
+【イバラ】「えぇ！？　む、虫が！？」
 
-�u�����ĊÂ��̂��D���Ȃ񂾂�B����������������Ԃ͒��ɑ�l�C����v
+「虫って甘いのが好きなんだよ。美味しい蜜がある花は虫に大人気だろ」
 
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0193
-�y�C�o���z�u���A�����c�c����Ȃ��Y��Ȃ̂Ɂv
+【イバラ】「う、うぅ……こんなに綺麗なのに」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o�����������Ɉ������������g�̂��牓���ɗ������肵�Ă�ԂɁA�c�L���͊o������߂��悤���B
+イバラが嫌そうに飴を持った手を身体から遠くに離したりしてる間に、ツキヨは覚悟を決めたようだ。
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 ;CHR K06F R
-#cg �R�m�~ kon_1_06f �E
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice tikb0198
-�y�c�L���z�u�c�c�������v
+【ツキヨ】「……えいっ」
 
 #voice konb0227
-�y�R�m�~�z�u�ς��v
+【コノミ】「ぱく」
 
-�c�L���ɑ����ăR�m�~���������ɕ��荞�񂾁B
+ツキヨに続いてコノミも飴を口に放り込んだ。
 
-����������H�ׂ�̂ɁA����ȂɌ����̊o������Ȃ��Ă��c�c�B
+たかが飴を食べるのに、そんなに決死の覚悟をしなくても……。
 
-�����Ăӂ���ْ̋������\��͋����ւƓh��ւ�����B
+そしてふたりの緊張した表情は驚愕へと塗り替えられる。
 
 ;CHR T06F_L L
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 左
 #wipe fade
 
 #voice tikb0199
-�y�c�L���z�u�ӁA�ӂ������I�v
+【ツキヨ】「ふ、ふわわわわわわ！」
 
 ;CHR K02F1 R
-#cg �R�m�~ kon_1_02f1 �E
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0228
-�y�R�m�~�z�u�����`���c�c�v
+【コノミ】「おぉ〜う……」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0211
-�y�q�i�^�z�u�ˁH�@�ˁH�@���܁[���ł���I�H�v
+【ヒナタ】「ね？　ね？　あまーいでしょ！？」
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0229
-�y�R�m�~�z�u����A���܁[���ˁ`�v
+【コノミ】「うん、あまーいね〜」
 
-�c�L�����R�m�~���A�������悤�Ȋ�ŁA�K�������ɖj�Ɏ�𓖂ĂĂ���B
+ツキヨもコノミも、蕩けたような顔で、幸せそうに頬に手を当てている。
 
-�����āA�����͂₪�Ĉ����������C�o���̎�ւƌ����B
+そして、視線はやがて飴を持ったイバラの手へと向く。
 
 #voice konb0230
-�y�R�m�~�z�u�˂��A�C�o���`�B�H�ׂȂ��Ȃ�A�{�N�ɂ��傤�����`�v
+【コノミ】「ねぇ、イバラ〜。食べないなら、ボクにちょうだい〜」
 
 ;CHR T09F L
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 左
 #wipe fade
 
 #voice tikb0200
-�y�c�L���z�u�c�c�v
+【ツキヨ】「……」
 
-�c�L������������Ȃ����A���炿��ƑA�܂������ɃC�o���Ƃ��̎�����Ă���B
+ツキヨも何も言わないが、ちらちらと羨ましそうにイバラとその手を見ている。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0194
-�y�C�o���z�u�_���I�@����̓{�N����������񂾂���ȁI�@���A�����c�c�͂ނ��c�c�����I�H�v
+【イバラ】「ダメ！　これはボクがもらったんだからな！　う、うぅ……はむっ……んんっ！？」
 
-�u���������H�v
+「美味しい？」
 
-��������������ƁA�ڂ����ƊÖ��ɐ�������Ă����C�o�����Q�Ă��悤�ɐO���点���B
+俺が声をかけると、ぼうっと甘味に酔いしれていたイバラが慌てたように唇を尖らせた。
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0195
-�y�C�o���z�u�����A�j���Q���B����Ȃɔ����������́A���܂łȂ�ŉB���Ă����I�H�v
+【イバラ】「おい、ニンゲン。こんなに美味しいもの、今までなんで隠していた！？」
 
-�u�B���Ă��킯����Ȃ����Ă΁v
+「隠してたわけじゃないってば」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tikb0201
-�y�c�L���z�u����Ȕ����������́A��������ł��H�v
+【ツキヨ】「こんな美味しいもの、あったんです？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0231
-�y�R�m�~�z�u�c��̈��́A�N�ɂ�����́`�H�v
+【コノミ】「残りの飴は、誰にあげるの〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0212
-�y�q�i�^�z�u�q�i�^�������ׂ��������I�v
+【ヒナタ】「ヒナタもうたべちゃったよ！」
 
-�c��̈������āA�����Ɨ~�������ɃG���t�������܂Ƃ����Ă���B
+残りの飴を見て、もっと欲しそうにエルフたちがまとわりついてくる。
 
-�u�����A�ق�B���ɂ��ӂ��A���O�����ɂ����ƂЂƂÂA����ł����܂��v
+「あぁ、ほら。俺にもふたつ、お前たちにもあとひとつづつ、これでおしまい」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���͈���z��ƁA�c�肪�D�������ɂȂ�Ȃ��悤�ɂӂ��܂Ƃ߂Č��ɕ��荞�񂾁B
+俺は飴を配ると、残りが奪い合いにならないようにふたつまとめて口に放り込んだ。
 
-��Ȃ���Ȃ��B���͉B���Ă����Đ����������B
+危ない危ない。蜜は隠しておいて正解だった。
 
-�����Ƃ�������Ȃ��Ȃ�܂��r�߂��Ⴄ���A���̎q�B�B
+きっとあったらなくなるまで舐めちゃうぞ、この子達。
 
-�������A��������Ċ��ł�������Ƃ������܂ōK���ɂȂ�ȁc�c�B
+しかし、こうやって喜んでる顔を見るとこっちまで幸せになるな……。
 
-���Ŏ�ɓ���Ă������ʂƃC���N�����o���ƁA����ɃG���t�����͈����D�ނƏ����t���Ă������B
+村で手に入れてきた帳面とインクを取り出すと、それにエルフたちは飴を好むと書き付けておいた。
 
 ;CHR T05F_L L
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 左
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice tikb0202
-�y�c�L���z�u�����Ă�ł��H�v
+【ツキヨ】「何してるです？」
 
-�u�����A�厖�Ȕ��������������珑�����߂��񂾂�v
+「あぁ、大事な発見があったから書き留めたんだよ」
 
 #voice tikb0203
-�y�c�L���z�u�厖�Ȕ����A�ł��H�v
+【ツキヨ】「大事な発見、です？」
 
-�u�G���t�͈����D���Ȃ��Ƃ��킩��������A������L���Ă������񂾁v
+「エルフは飴が好きなことがわかったから、それを記しておいたんだ」
 
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0196
-�y�C�o���z�u���ꂪ�厖�Ȃ��Ƃ��H�v
+【イバラ】「それが大事なことか？」
 
-�u�厖�Ȃ��Ƃ���B�����Ă����ΖY��邱�Ƃ��Ȃ����A���̖{���ق��̐l�Ԃ��ǂ񂾂�A�G���t�͈����D�������Ēm�邱�Ƃ��ł��邾�낤�H�v
+「大事なことだよ。書いておけば忘れることもないし、この本をほかの人間が読んだら、エルフは飴が好きだって知ることができるだろう？」
 
 ;CHR I11F1 R
-#cg �C�o�� iba_1_11f1 �E
+#cg イバラ iba_1_11f1 右
 #wipe fade
 
 #voice ibab0197
-�y�C�o���z�u�c�c�͂��I�H�@��������āA�j���Q���̓G���t��㩂��d�|����C�Ȃ񂾂ȁI�H�v
+【イバラ】「……はっ！？　そうやって、ニンゲンはエルフに罠を仕掛ける気なんだな！？」
 
-�u����Ȃ��Ƃ��Ȃ���B�����A���̑��ɂ��G���t�ƒ��ǂ��Ȃ肽���l�Ԃ��o�Ă������ɖ��ɗ���������Ȃ�����H�v
+「そんなことしないよ。ただ、俺の他にもエルフと仲良くなりたい人間が出てきた時に役に立つかもしれないだろ？」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0213
-�y�q�i�^�z�u����Ȃ��������̂����̂́A�����Ƃ����ɂ񂰂񂳂񂾂��Ƃ������Ȃ��I�v
+【ヒナタ】「こんなおいしいのくれるのは、きっといいにんげんさんだけとおもうなっ！」
 
 ;CHR I11F2 R
-#cg �C�o�� iba_1_11f2 �E
+#cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0198
-�y�C�o���z�u����͂�����������Ȃ����ǁc�c�v
+【イバラ】「それはそうかもしれないけど……」
 
-�c�c����A���̌��_���ǂ����Ƃ͎v�����ǁA�����œ˂����񂾂肷��Ɛ������߂�ǂ��������Ȃ��c�c�B
+……いや、その結論もどうかとは思うけど、ここで突っ込んだりすると説明がめんどくさいしなぁ……。
 
-�u�����ɑ�R�̖{�����邯�ǁA�{�Ă����̂͐����Ă�l�����̐l�ɑ厖�Ȃ��Ƃ�`���邽�߂ɐF��Ȃ��Ƃ������L���Ă������̂Ȃ񂾂�v
+「ここに沢山の本があるけど、本ていうのは生きてる人が他の人に大事なことを伝えるために色んなことを書き記しておくものなんだよ」
 
 ;CHR T01F_L L
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tikb0204
-�y�c�L���z�u�������A�ł��v
+【ツキヨ】「すごい、です」
 
-�u�����ˁA�厖�Ȃ��Ƃ��R�����L���Ă����Ȃ�����Ǝv���Ă��v
+「俺もね、大事なことを沢山書き記しておかなくちゃと思ってさ」
 
-���̏����Ɏc���ꂽ��������L���������A�O�ɏZ��ł������̂̓G���t�Ȃǂ̌��������Ă����悤���B
+この小屋に残された書物や日記を見る限り、前に住んでいたものはエルフなどの研究をしていたようだ。
 
-��������ɐG������āA�G���t�����Ƃ̐����������L���Ă������Ǝv���B
+俺もそれに触発されて、エルフたちとの生活を書き記しておこうと思う。
 
-�ꏏ�ɉ߂����鎞�Ԃ������Ă���Ƃ����Ȃ�A�Ȃ����炱�̕s�v�c�Ȏ��Ԃ��㐢�ɓ`���Ă��������B
+一緒に過ごせる時間が限られているというなら、なおさらこの不思議な時間を後世に伝えておきたい。
 
-�����Ƃ��A���̂悤�Ȃ��̂��L�����L�^���ǂꂾ���c�邩�͂킩��Ȃ����ǁB
+もっとも、俺のようなものが記した記録がどれだけ残るかはわからないけど。
 
-����ł��A������Ȃɂ��̖��ɗ���������Ȃ��Ǝv���Ɩ������B
+それでも、いずれなにかの役に立つかもしれないと思うと愉快だ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0232
-�y�R�m�~�z�u���ɂ͂ǂ�Ȃ��Ə����Ă�́`�H�v
+【コノミ】「他にはどんなこと書いてるの〜？」
 
-�u�c����Ă��{����ς���Ă����ƂƂ��A�V�������������؂�A�����Ȃ񂩂��������߂Ă��v
+「残されてた本から変わってたこととか、新しく見つけた草木や、動物なんかも書き留めてるよ」
 
 ;CHR K02F1 C
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0233
-�y�R�m�~�z�u�ց`�H�@�ł��A�����؂��������A���Ԃ��o�Ƃ���Ƃ���ς����������肷���`�H�v
+【コノミ】「へ〜？　でも、草も木も動物も、時間が経つといるところ変わっちゃったりするよ〜？」
 
-�u���������ŁA�ǂ����Ă���ȕω����N�����̂��m�邽�߂̎肪����ɂȂ邩�炳�B�����ɂ���������c���Ă����̂��厖�Ȃ��ƂȂ񂾂�v
+「それもそれで、どうしてそんな変化が起きたのか知るための手がかりになるからさ。ここにあった印を残しておくのも大事なことなんだよ」
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05f ��
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0234
-�y�R�m�~�z�u�ӂ��`��H�@�j���Q������ĕs�v�c�Ȃ��Ƃ���񂾂ˁ`�H�@�V���������Ă��̂ɂ����Ă��A���Ȃ���΂Ȃ����̂͂Ȃ��̂Ɂc�c�v
+【コノミ】「ふぅ〜ん？　ニンゲンくんて不思議なことするんだね〜？　新しく見つけても昔にあっても、今なければないものはないのに……」
 
-�R�m�~�͐S��s�v�c�����Ɏ�����������B
+コノミは心底不思議そうに首をかしげた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F2 L
-#cg �q�i�^ hin_1_01f2 ��
+#cg ヒナタ hin_1_01f2 左
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice hinb0214
-�y�q�i�^�z�u���߂������������̂͂����Ȃ��Ƃ������Ȃ��I�@�܂��A���߂����Ă��ĂˁA�j���Q������I�v
+【ヒナタ】「あめおいしかったのはかわんないとおもうなっ！　また、あめかってきてね、ニンゲンさん！」
 
-�u�����v
+「あぁ」
 
 #voice ibab0199
-�y�C�o���z�u�񑩂����I�v
+【イバラ】「約束だぞ！」
 
-�y�������ɑ����G���t�����𒭂߂Ȃ���A���͒��ʂ�����B
+楽しそうに騒ぐエルフたちを眺めながら、俺は帳面を閉じた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;BGMch2 amb004 ��~
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�C���^�[�o��
+;インターバル
 
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u�ӂ킟�������������`�v
+「ふわぁああああああ〜」
 
-�����ڊo�߂�ƁA�G���t�����̎p�͂Ȃ������B
+翌朝目覚めると、エルフたちの姿はなかった。
 
-��͂����ŐQ�Ȃ������̂��A�����N���o���ėV�тɂ������̂��B
+夜はここで寝なかったのか、もう起き出して遊びにいったのか。
 
-�����ǂ��납�قƂ�Ǔ������Ă���悤�Ȃ��̂Ȃ̂ɁA���܂��G���t�����̐��Ԃ͂悤�Ƃ��Ēm��Ȃ��B
+半分どころかほとんど同居しているようなものなのに、いまだエルフたちの生態はようとして知れない。
 
-���̐����Ŋm���ɂ킩�������ƂƂ����΁A�G���t�Ƃ͋C�܂���œˑR�������̂ł���Ƃ������Ƃ��炢���B
+この数日で確実にわかったことといえば、エルフとは気まぐれで突然現れるものであるということぐらいだ。
 
-�u�������A�����͓z�炪���Ȃ��čD�s���A���ȁH�v
+「しかし、今日は奴らが居なくて好都合、かな？」
 
-���͐g�x�x���ς܂���ƁA�����甃���ė������ނ����o���Ȃ���ꂢ���B
+俺は身支度を済ませると、村から買って来た粉類を取り出しながら呟いた。
 
-�\�\����̈�������킩��悤�ɁA�G���t���n�D�i�Ȃ瑽���͌��ɂ���B
+――昨日の飴からもわかるように、エルフも嗜好品なら多少は口にする。
 
-�������A���͖����ϋl�߂����̂ŁA�悤����ɔZ�����ɉ߂��Ȃ��B
+しかし、飴は蜜を煮詰めたもので、ようするに濃い蜜に過ぎない。
 
-��{�I�ɓ��⋛�͐H�ׂȂ��悤�����A����͒P�ɍD�������̖��Ȃ̂��A�����͐H�ׂ�̂��A���Ȃ�ǂ����H
+基本的に肉や魚は食べないようだが、それは単に好き嫌いの問題なのか、穀物は食べるのか、卵ならどうか？
 
-���̂�����̋^��͐s���Ȃ��B
+そのあたりの疑問は尽きない。
 
-�����ō����͏Ă��َq�������炦�邱�Ƃɂ����̂��B
+そこで今日は焼き菓子をこしらえることにしたのだ。
 
-�c�c�P�ɂ��َq�Ȃ�H�ׂ��������Ă��������̎v�����Ȃ񂾂��ǁB
+……単にお菓子なら食べそうだっていうだけの思いつきなんだけど。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�C���^�[�o��
-;�w�i�F�R�����i���j
+;インターバル
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u�������{���ɘA�������Ȃ��Ă悩������B����������Ƃ͎ז�������Ƃ��Â炢����ȁc�c�v
+「しかし本当に連中がいなくてよかったよ。こういう作業は邪魔が入るとやりづらいからな……」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0215
-�y�q�i�^�z�u����܁[�H�v
+【ヒナタ】「じゃまー？」
 
-�u�����v
+「うっ」
 
-�؂̎����ӂ��I���A�����o���ĎR�ɂ����Ƃ���ŁA�q�i�^����э���ł����B
+木の実を砕き終わり、粉を出して山にしたところで、ヒナタが飛び込んできた。
 
 ;CHR H01F1 L
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 左
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice hinb0216
-�y�q�i�^�z�u�������I�H�@�܂��j���Q������A�������낢���Ƃ���I�H�v
+【ヒナタ】「おぉっ！？　またニンゲンさん、おもしろいことする！？」
 
 #voice konb0235
-�y�R�m�~�z�u�ʔ������Ɓ`�H�@�ȂɂȂɁ`�H�v
+【コノミ】「面白いこと〜？　なになに〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice ibab0200
-�y�C�o���z�u������炩���C���I�v
+【イバラ】「何をやらかす気だ！」
 
 #voice tikb0205
-�y�c�L���z�u�܂��A��������ł��H�v
+【ツキヨ】「また、何かするです？」
 
-���܂����A�R�m�~�ɃC�o���A�c�L���܂ŗ����������B
+しまった、コノミにイバラ、ツキヨまで来ちゃったよ。
 
-�W�܂�O�ɍ�Ƃ��ς܂��Ă��܂����������̂ɂȁB
+集まる前に作業を済ませてしまいたかったのにな。
 
-�u���ł��Ȃ�����v
+「何でもないから」
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0201
-�y�C�o���z�u�ށ[�I�@�j���Q���̍s�����������ƃ{�N�̊��������Ă���I�v
+【イバラ】「むー！　ニンゲンの行動が怪しいとボクの勘が告げている！」
 
-�u�{���ɉ��ł��Ȃ����āB�l�Ԃ͂��ѐH�ׂȂ��Ⴂ���Ȃ�����H�@���̎x�x�����Ă邾���v
+「本当に何でもないって。人間はご飯食べなきゃいけないだろ？　その支度をしてるだけ」
 
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice tikb0206
-�y�c�L���z�u���͂�A�ł��H�v
+【ツキヨ】「ごはん、です？」
 
-�u���������A���э��Ƃ��̓����͋�肾��H�@�O�ŗV��ł����Łv
+「そうそう、ご飯作るときの匂いは苦手だろ？　外で遊んでおいで」
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0207
-�y�c�L���z�u�c�c�����ƈႤ���Ƃ��ĂāA�C�ɂȂ�ł��v
+【ツキヨ】「……いつもと違うことしてて、気になるです」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0236
-�y�R�m�~�z�u�����ˁ`�B������������A����o���ā`�������̎ς�񂾂�ˁ`�H�@�ł��A�����͂������̂Ȃ���`�H�v
+【コノミ】「そだね〜。いつもだったら、お鍋出して〜くさいの煮るんだよね〜？　でも、今日はくさいのないよ〜？」
 
-�����c�c�ǂ���狻���������Ă��܂��Ă���炵���B
+くっ……どうやら興味を引いてしまっているらしい。
 
-�u���A�����H�@�l�ԂȂ�ʂɒ��������Ȃ����Ƃ����Ă邾���Ȃ񂾂��ǂȂ��v
+「そ、そう？　人間なら別に珍しくもないことをしてるだけなんだけどなぁ」
 
-���͂Ȃ�ׂ��߂�ǂ��������ɁA���ɗ��Ɩ��A���A����ɍӂ����؂̎��Ȃǂ������ĝs�ˏグ�Ă����B
+俺はなるべくめんどくさそうに、粉に卵と油、蜜、それに砕いた木の実などを加えて捏ね上げていく。
 
-�y�������ɍ�Ƃ�����ƁA�r�[�Ɏ�o�����Ă��邩��Ȃ��c�c�B
+楽しそうに作業をすると、途端に手出ししてくるからなぁ……。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�����͕����̉�����ɕ����Ă������A�����g���َq�Ȃ�č��̂͏��߂Ă��B
+作り方は粉屋の奥さんに聞いてきたが、俺自身お菓子なんて作るのは初めてだ。
 
-�Ȃ�ł����َq�̕������q���͍��̂͊ȒP�炵���B
+なんでもお菓子の方が麺麭よりは作るのは簡単らしい。
 
-���▨����̐������z�������͂����Ƃ����Ԃɂ܂Ƃ܂��Ăۂ�ۂ낵����ɂȂ��Ă����B
+卵や蜜や油の水分を吸った粉はあっという間にまとまってぽろぽろした塊になっていく。
 
-���������̕������Ƃ��̃l�b�g���������G�́A�Ȃ�Ƃ������A���́c�c�C���������悤�ȁc�c�B
+しかしこの粉を練るときのネットリした感触は、なんというか、その……気持ちいいような……。
 
 ;CHR H06F1 C
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0217
-�y�q�i�^�z�u�ق����������I�H�@���Ȃ��ǂ�񂱂݂����Ȃ����I�H�v
+【ヒナタ】「ほぉおおおお！？　こながどろんこみたくなった！？」
 
-�u����I�@�H�ׂ���̂Ȃ񂾂���A������ŐG��Ȃ��āB�G�肽����Ύ�����Ă��Ă�v
+「こら！　食べるものなんだから、汚い手で触るなって。触りたければ手を洗ってきてよ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0208
-�y�c�L���z�u����Ă�����A�G���Ă����ł��H�v
+【ツキヨ】「洗ってきたら、触っていいです？」
 
-�u���A���܂��c�c�v
+「あ、しまっ……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0237
-�y�R�m�~�z�u��[���A���Ⴀ����Ă���`�H�v
+【コノミ】「わーい、じゃあ洗ってこよ〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H07F C
-#cg �q�i�^ hin_1_07f ��
+#cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0218
-�y�q�i�^�z�u���[�I�v
+【ヒナタ】「おー！」
 
-���܂����c�c�����������o���C�}���}���ɂ����Ă��܂����c�c�B
+しまった……すっかり手を出す気マンマンにさせてしまった……。
 
-���͂�������ƌ��𗎂Ƃ��Ȃ���A���߂Ĕ�Q���ŏ����ɂȂ�悤�ɋ}���ō�Ƃ�i�߂��̂������B
+俺はがっくりと肩を落としながら、せめて被害が最小限になるように急いで作業を進めたのだった。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -787,68 +787,68 @@
 #bg BG08b_2
 #wipe fade
 
-;�w�i�F�R�����i�[�j
+;背景：山小屋（夕）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u�Ă����c�c���ȁH�v
+「焼けた……かな？」
 
-���n�߂Ƀq�i�^�����́w����`���x������Ƃ������Ԃ͔����������̂́A�Ȃ�Ƃ��`�ɂȂ肻�����B
+作り始めにヒナタたちの『お手伝い』が入るという事態は発生したものの、なんとか形になりそうだ。
 
-�r���܂ł͏�肭�����Ă��񂾂�A�r���܂ł́c�c�B
+途中までは上手くいってたんだよ、途中までは……。
 
-���Ȃ݂ɏ������ۂ߂Ă���������܂ł̓q�i�^��������`���Ă���Ă����񂾂��ǁA���͂�������O���Ă��܂��Ăǂ����ɗV�тɏo�Ă��܂��Ă���B
+ちなみに小さく丸めていくあたりまではヒナタたちも手伝ってくれていたんだけど、今はすっかり飽きてしまってどこかに遊びに出てしまっている。
 
-�u�܂����A�Ή����ł����܂ŋ�킷��Ƃ͂ȁ[�v
+「まさか、火加減でここまで苦戦するとはなー」
 
-���َq���Ă�͖��������Ă��邹�����A�Ђǂ��ł��₷���B
+お菓子ってやつは蜜が入っているせいか、ひどく焦げやすい。
 
-�������炢�̑傫���ɑ�����̂��K�v�ɂȂ�킯���B
+同じぐらいの大きさに揃えるのが必要になるわけだ。
 
-���Ƃ����āA���܂�΂��牓������Ƃł���ƍL�����Ă����������Ă��܂��A�悭�킩��Ȃ����̂ɂȂ�B
+かといって、あまり火から遠ざけるとでろっと広がってくっつきあってしまい、よくわからないものになる。
 
-���߂Ɉ����グ��΁A���͐��Ă��̂���������Ⴕ�������ۂ���ɂȂ��Ă��܂��B
+早めに引き上げれば、中は生焼けのもちゃもちゃした粉っぽい塊になってしまう。
 
-����Ȃ��́A�����̉�����Ƃ��悭��p�ɂ�����̂��B
+こんなもの、粉屋の奥さんとかよく器用につくるものだ。
 
-�����������Ė��q�����̂��Ăǂꂾ������ȋZ�p���K�v�Ȃ񂾂�B
+これより難しいって麺麭を作るのってどれだけ特殊な技術が必要なんだよ。
 
-�u�͂͂́A���������Ă��̂ɂ��������X��������Ă��v
+「ははは、朝からやってたのにもう日が傾いちゃってるよ」
 
-���߂č����̂�����A�����̋��͊o�債�Ă����ǁA�����܂ŋ�J��������Ƃ͎v��Ȃ������B
+初めて作るものだから、多少の苦戦は覚悟してたけど、ここまで苦労させられるとは思わなかった。
 
-���͏Ă����������΂���́A�F�����͂������ːF�̂�����A���鋰����ɉ^�񂾁B
+俺は焼きあがったばかりの、色だけはいいきつね色のそれを、恐る恐る口に運んだ。
 
-�Ƃ���ɂق��ƕ���Ă����B
+とたんにほろりと崩れていく。
 
-�u��c�c����́v
+「ん……これは」
 
-�����Ɖ΂��ʂ��Ă��č��΂������ǁA�Ȃ����^�����ɂ͏ł��Ă��Ȃ��B
+ちゃんと火が通っていて香ばしいけど、なおかつ真っ黒には焦げていない。
 
-�u�����A�Ȃ��Ȃ��c�c�v
+「おぉ、なかなか……」
 
-�����A�́A�q���̍��ɕ�e���Ă��Ă��ꂽ�َq��A���̏������������Ă��ꂽ�َq�Ȃ񂩂Ɣ�ׂ���͂邩�ɕs�i�D����������邩������Ȃ����ǁB
+そりゃ、昔、子供の頃に母親が焼いてくれた菓子や、村の女たちが分けてくれた菓子なんかと比べたらはるかに不格好だし味も劣るかもしれないけど。
 
-�\���A���������Ă��Ă���B
+十分、美味しく焼けている。
 
-�R�c�͒͂񂾂��A�c��̐��n�͂���قǋ�J�Ȃ��Ă��グ���邾�낤�B
+コツは掴んだし、残りの生地はそれほど苦労なく焼き上げられるだろう。
 
-���Ȃ薳�ʂɂ��Ă��܂������A�ƂĂ��Ȃ��B�������B
+かなり無駄にしてしまったが、とてつもない達成感だ。
 
-�u����Ȏ��Ɍ����āA�ǂ����ĒN�����Ȃ����ȁc�c�v
+「こんな時に限って、どうして誰もいないかな……」
 
-�Ȃ�قǁA������������Ƒ��l�ɂ��H�ׂ��������Ȃ���̂��B���ɂ��ꂾ����J�������ʂƂ��Ȃ�΁B
+なるほど、美味しく作れると他人にも食べさせたくなるものだ。特にこれだけ苦労した結果ともなれば。
 
-�Y��ɏĂ������̂��M�ɏ悹�Ȃ��牴����ԂɎv�������ׂ��̂́c�c�B
+綺麗に焼けたものを皿に乗せながら俺が一番に思い浮かべたのは……。
 
-;�E�I��������
+;・選択肢発生
 #select a b c d
-�`�F�q�i�^
-�a�F�C�o��
-�b�F�R�m�~
-�c�F�c�L��
+Ａ：ヒナタ
+Ｂ：イバラ
+Ｃ：コノミ
+Ｄ：ツキヨ
 
 #label a
 #next b03h top
@@ -862,7 +862,7 @@
 #label d
 #next b03t top
 
-;�`��I���ˁwb03h�x�փW�����v
-;�a��I���ˁwb03i�x�փW�����v
-;�b��I���ˁwb03k�x�փW�����v
-;�c��I���ˁwb03t�x�փW�����v
+;Ａを選択⇒『b03h』へジャンプ
+;Ｂを選択⇒『b03i』へジャンプ
+;Ｃを選択⇒『b03k』へジャンプ
+;Ｄを選択⇒『b03t』へジャンプ

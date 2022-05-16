@@ -1,194 +1,194 @@
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 ;CHR T09F R
-#cg �c�L�� tuk_1_09f �E
+#cg ツキヨ tuk_1_09f 右
 #wipe fade
 
 #voice ibae0013
-�y�C�o���z�u�����c�c�����c�c���[�c�c�v
+【イバラ】「うぅ……うぅ……うー……」
 
-�C�o���������D�ɗ����Ă��Ȃ��̂��A�C�o���͂��΂炭�X��悤�Ȑ����グ���B
+イバラだけが腑に落ちていないのか、イバラはしばらく唸るような声を上げた。
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kone0014
-�y�R�m�~�z�u�C�[�o���A���܂�����������Ƃ����A���傪�Ȃ���`�H�v
+【コノミ】「イーバラ、決まっちゃったことだし、しょがないよ〜？」
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
 
 #voice hine0004
-�y�q�i�^�z�u�c�L���̂��̂́A�c�L���̂�����ˁ[�H�v
+【ヒナタ】「ツキヨのものは、ツキヨのだもんねー？」
 
 #voice tuke0013
-�y�c�L���z�u�c�c�ł��v
+【ツキヨ】「……です」
 
-�c�L���͌x�����Ă���̂��A�C�o�����狗��������Ă���B
+ツキヨは警戒しているのか、イバラから距離を取っている。
 
 ;CHR I04F L
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibae0014
-�y�C�o���z�u�����������������������I�v
+【イバラ】「うがあぁああああああっ！」
 
 ;CHR T06F_L R
-#cg �c�L�� tuk_1_06f_l �E
+#cg ツキヨ tuk_1_06f_l 右
 #wipe fade
 
 #voice tuke0014
-�y�c�L���z�u���Ⴀ���I�v
+【ツキヨ】「きゃあっ！」
 
-�c�L���̂��̑ԓx�ɗ]�v�Ɏh�����ꂽ�̂��A�C�o�����i�����B
+ツキヨのその態度に余計に刺激されたのか、イバラが吠えた。
 
 #voice ibae0015
-�y�C�o���z�u���A���̃{�N���c�c�����������ǂ����Ă���Ă����̂ɁI�@���̉��m�炸�I�v
+【イバラ】「こ、このボクが……せっかく仲良くしてやっていたのに！　この恩知らず！」
 
-�C�o���̂���܂�Ȍ��t�ɕ��C�ɂƂ��Ă���ƁA�Ȃ�ƃc�L�������킵���B
+イバラのあんまりな言葉に呆気にとられていると、なんとツキヨが応戦した。
 
 ;CHR T09F R
-#cg �c�L�� tuk_1_09f �E
+#cg ツキヨ tuk_1_09f 右
 #wipe fade
 
 #voice tuke0015
-�y�c�L���z�u���ǂ����Ă���Ă�A�Ȃ�Ă���Ȃ̗���łȂ��ł��v
+【ツキヨ】「仲良くしてやってる、なんてそんなの頼んでないです」
 
 #voice ibae0016
-�y�C�o���z�u�ȁA�����I�H�@����킵���_�[�N�G���t�̕��ۂŁA�悭���G���t�̒��ł����M�ȉԂ̃G���t�̃{�N�ɂ���Ȍ����c�c�v
+【イバラ】「な、何を！？　汚らわしいダークエルフの分際で、よくもエルフの中でも高貴な花のエルフのボクにそんな口を……」
 
 ;CHR T07F_L R
-#cg �c�L�� tuk_1_07f_l �E
+#cg ツキヨ tuk_1_07f_l 右
 #wipe fade
 
 #voice tuke0016
-�y�c�L���z�u�C�o���͈Ӓn�������A�������肾���A����Ȃ��F�B�A����Ȃ��ł��I�v
+【ツキヨ】「イバラは意地悪だし、自分勝手だし、そんなお友達、いらないです！」
 
 #voice ibae0017
-�y�C�o���z�u�Ȃ��c�c�Ȃ��c�c�Ȃ��c�c�v
+【イバラ】「なっ……なっ……なっ……」
 
-�������ɃC�o���������܂ł̔��_������Ƃ͎v���Ă��Ȃ������̂��낤�B�ނ�グ��ꂽ���݂����Ɍ����p�N�p�N�������B
+さすがにイバラもそこまでの反論が来るとは思っていなかったのだろう。釣り上げられた魚みたいに口をパクパクさせた。
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
 
 #voice hine0005
-�y�q�i�^�z�u�͂�[�c�c�c�L��������������������H�v
+【ヒナタ】「はわー……ツキヨがいいかえしたよっ？」
 
 ;FACE K04F
 #face f_kon_0_04f 94 466
 
 #voice kone0015
-�y�R�m�~�z�u�₟�A���������`�B�c�L�������ĂȂ���`�B�C�o���͂ǂ�����̂��Ȃ��`�H�v
+【コノミ】「やぁ、強い強い〜。ツキヨ負けてないよ〜。イバラはどうするのかなぁ〜？」
 
 ;FACE H01F2_A
 #face f_hin_0_01f2_a 94 466
 
 #voice hine0006
-�y�q�i�^�z�u�܂��ĂȂ��H�@���ꂽ�������������̂��I�H�v
+【ヒナタ】「まけてない？　これたたかいだったのっ！？」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 #voice kone0016
-�y�R�m�~�z�u�킢���Ă������`�A���܂��Ă������`�A�܂��A�킢�A���Ȃ��`�H�v
+【コノミ】「戦いっていうか〜、喧嘩っていうか〜、まぁ、戦い、かなぁ〜？」
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hine0007
-�y�q�i�^�z�u�������I�H�@�q�i�^�A�ǂ����������񂵂��炢���̂��I�H�v
+【ヒナタ】「おぉっ！？　ヒナタ、どっちおうえんしたらいいのっ！？」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kone0017
-�y�R�m�~�z�u�D���Ȃق������������炢���Ǝv����`�H�v
+【コノミ】「好きなほうを応援したらいいと思うよ〜？」
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hine0008
-�y�q�i�^�z�u�͂�`�c�c�ł��A�q�i�^���܂����Ⴄ��`�v
+【ヒナタ】「はわ〜……でも、ヒナタこまっちゃうよ〜」
 
-�ؔ�����C�o���ƃc�L�������݂Ɍ��Ȃ���A�̂񂫂Ȃӂ���̉�b�������B
+切迫するイバラとツキヨを交互に見ながら、のんきなふたりの会話が続く。
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibae0018
-�y�C�o���z�u��́A���O�݂����Ȕ������_�[�N�G���t���A�{�N�̕������������̂������i������񂾂��I�v
+【イバラ】「大体、お前みたいな薄汚いダークエルフより、ボクの方が美しいものを持つ資格があるんだぞ！」
 
 ;CHR T10F2 R
-#cg �c�L�� tuk_1_10f2 �E
+#cg ツキヨ tuk_1_10f2 右
 #wipe fade
 
 #voice tuke0017
-�y�c�L���z�u����́A�c�L���̂ł��I�v
+【ツキヨ】「これは、ツキヨのです！」
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibae0019
-�y�C�o���z�u�c�c�ӁA�ӂ���I�v
+【イバラ】「……ふ、ふんっ！」
 
 ;CHR T07F_L R
-#cg �c�L�� tuk_1_07f_l �E
+#cg ツキヨ tuk_1_07f_l 右
 #wipe fade
 
 #voice tuke0018
-�y�c�L���z�u�ӂ��������������c�c�v
+【ツキヨ】「ふぅうううううう……」
 
-�@�����r���C�o�����ɂ�݂���c�L���ɁA�����ۂ������C�o���B
+鼻息も荒くイバラをにらみつけるツキヨに、そっぽを向くイバラ。
 
-���`���A����͂��΂炭������ł��������Ȃ��ȁB
+あ〜ぁ、これはしばらく仲直りできそうもないな。
 
-�����Ƃ��A�����̂��̎q�����̂��Ƃ��l����΁A�����ɂ͂�����ƈꏏ�ɗV�񂾂肵�Ă邩������Ȃ����ǁB
+もっとも、いつものこの子たちのことを考えれば、明日にはけろっと一緒に遊んだりしてるかもしれないけど。
 
-�����܂ł����ꂿ�Ⴆ�΁A�N�������̖����ɓ���邩���Ęb�ɂȂ��Ă��邾�낤���A�����Ȃ�Ƃ���ɂ����ꂻ�����B
+こうまでこじれちゃえば、誰を自分の味方に入れるかって話になってくるだろうし、そうなるとさらにこじれそうだ。
 
-�ЂƂ܂��l�q�����āA����ɂ���ȏ���o�����Ȃ��ق����悳�������ȁc�c�B
+ひとまず様子を見て、下手にこれ以上口出ししないほうがよさそうだな……。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u��A��[���A���͔ӌ�тɂ��悤���ȁv
+「よ、よーし、俺は晩御飯にしようかな」
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hine0009
-�y�q�i�^�z�u�����I�H�@���͂�H�@�j���Q������̂��͂�킷��Ă����I�v
+【ヒナタ】「おぉ！？　ごはん？　ニンゲンさんのごはんわすれてたっ！」
 
-�u�Y���Ȃ�A���[�����B�l�Ԃ͂��͂�H�ׂȂ��Ɛ����Ă����Ȃ��񂾂��v
+「忘れるなよ、こーいつぅ。人間はごはん食べないと生きていけないんだぞ」
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hine0010
-�y�q�i�^�z�u�ق����������I�H�@����͂����ւ񂾂��I�H�v
+【ヒナタ】「ほぉおおおお！？　それはたいへんだっ！？」
 
-�߂����قǋ�X�����J�����C���o�������ɁA�q�i�^���Ԏ����Ă����B
+悲しいほど空々しくカラ元気を出した俺に、ヒナタが返事してくれる。
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 ;CHR T07F_L R
-#cg �c�L�� tuk_1_07f_l �E
+#cg ツキヨ tuk_1_07f_l 右
 #wipe fade
 
 #voice tuke0019
-�y�c�L���z�u�ނ��������������c�c�v
+【ツキヨ】「むぅうううううう……」
 
 #voice ibae0020
-�y�C�o���z�u��A��A�[�񂾂��I�v
+【イバラ】「つん、つん、つーんだっ！」
 
-���̓��̔ӌ�т́A�c�L���ƃC�o���̌��܂̂����ł��������߂Ă��܂����̂����܂��āA���̂�������т����Ė��C�Ȃ����̂ɂȂ����B
+この日の晩御飯は、ツキヨとイバラの喧嘩のせいですっかり冷めてしまったのも相まって、ものすごくわびしくて味気ないものになった。
 
 ;CHR OFF
 #cg all clear
@@ -196,268 +196,268 @@
 
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�����O�i���j
+;背景：山小屋前（昼）
 ;BG BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
 ;FACE T10F2
 #face f_tuk_0_10f2 94 466
 
 #voice tuke0020
-�y�c�L���z�u�[��A�ł��v
+【ツキヨ】「つーん、です」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibae0021
-�y�C�o���z�u���ӂ�I�v
+【イバラ】「っふん！」
 
-���`��A��ӐQ���炷�����艽�������Y��Ē��ǂ��c�c�Ƃ͂����Ȃ��������B
+う〜ん、一晩寝たらすっかり何もかも忘れて仲良く……とはいかなかったか。
 
-�����͒��N���Ă��炸���ƁA�͂ݍ����ɂ����Ȃ�Ȃ����̂́A����Ԃ������Ă���B
+今日は朝起きてからずっと、掴み合いにこそならないものの、冷戦状態が続いている。
 
-����ɓn���܂��Ƃł��v���Ă���̂��A�ӂ���Ƃ������̘r�ɂ����݂��ė���Ȃ����̂�����A�ǂ��ɂ����Â炢�B
+相手に渡すまじとでも思っているのか、ふたりともが俺の腕にしがみついて離れないものだから、どうにもやりづらい。
 
-�[�ׂ��A����ȂɊ�����킹�����Ȃ��Ȃ炢���݂����ɁA�ӂ���ƍD���ȂƂ���ɍs���΂������̂��A�΍R�S���炩���̗��e�ŐQ�Ă����c�c�B
+夕べも、そんなに顔を合わせたくないならいつもみたいに、ふらっと好きなところに行けばいいものを、対抗心からか俺の両脇で寝てたし……。
 
-������������������������ɉԏ�Ԃ͊������ǂ��납�A���ɋC�܂����ȊO�̉����ł��Ȃ��B
+こういうぎすぎすした両手に花状態は嬉しいどころか、非常に気まずい以外の何物でもない。
 
-�������łӂ���ɂ����݂���Ă���̂ɁA�ӂ���ɘb��������̂͂ӂ���Ƃ��ɗ���Ăق����Ƃ��������B
+おかげでふたりにしがみつかれているのに、ふたりに話しかけるのはふたりともに離れてほしいときだけだ。
 
-���Ƃ͂���Ȃɋ߂��ɂ���̂ɖ������Ă�݂����ȏ�ԂɂȂ��Ă���B
+あとはこんなに近くにいるのに無視してるみたいな状態になっている。
 
-�����āA�Е��ɘb��������Ɖ��܂ňꏏ���ɂ܂��񂾂���c�c�B
+だって、片方に話しかけると俺まで一緒に睨まれるんだもん……。
 
-�u����A�����͂��Ԕ��ɍs�������A�ˁH�v
+「きょ、今日はお花畑に行こうか、ね？」
 
-;�P��ʂɕ\���B���o���������H
+;１画面に表示。音出し同時★？
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 ;CHR T04F R
-#cg �c�L�� tuk_1_04f �E
+#cg ツキヨ tuk_1_04f 右
 #wipe fade
 
 #voice tuke0021
-�y�c�L���z�u�y���݂ł��v
+【ツキヨ】「楽しみです」
 
 #voice ibae0022
-�y�C�o���z�u�s���Ă���Ă��������v
+【イバラ】「行ってやってもいいぞ」
 
-�u���H�@�ȂɁH�v
+「え？　なに？」
 
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice tuke0022
-�y�c�L���z�u�ށv
+【ツキヨ】「む」
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibae0023
-�y�C�o���z�u�ӂ�I�v
+【イバラ】「ふん！」
 
-����A�ӂ��蓯���ɕԎ�����Ă��A�����������킩��Ȃ��B
+うん、ふたり同時に返事されても、何が何だかわからない。
 
-���߂āA�Ԕ��Řa��ł��ꂽ�璇����ւ̋ߓ��ɂȂ����肵�Ȃ����ȁ[�c�c�B
+せめて、花畑で和んでくれたら仲直りへの近道になったりしないかなー……。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1_A L
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hine0011
-�y�q�i�^�z�u�j���Q������A���傤�͂ǂ��ɂ����́H�v
+【ヒナタ】「ニンゲンさん、きょうはどこにいくの？」
 
-�u���A����B���Ԕ��ɍs�������ȁA�Ȃ�ĂˁB�͂͂͂͂́c�c�v
+「う、うん。お花畑に行こうかな、なんてね。ははははは……」
 
 ;CHR K01F1A R
-#cg �R�m�~ kon_1_01f1a �E
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice kone0018
-�y�R�m�~�z�u�j���Q������A�Ȃ񂩂����`�H�v
+【コノミ】「ニンゲンくん、なんかお疲れ〜？」
 
-�u����A���A���v����v
+「いや、だ、大丈夫だよ」
 
 ;CHR K04F R
-#cg �R�m�~ kon_1_04f �E
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice kone0019
-�y�R�m�~�z�u�Ӂ`��A���������`�B��[���I�@�{�N���������`�v
+【コノミ】「ふ〜ん、そっかぁ〜。わーい！　ボクもくっつく〜」
 
-�R�m�~�͂��̏󋵂��y����ł�̂����Ȃ̂��A���̕��ɂ������Ă����B
+コノミはこの状況を楽しんでるのか何なのか、俺の腹にくっついてきた。
 
 ;CHR H07F_A L
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hine0012
-�y�q�i�^�z�u�j���Q������̂��ĂĂ��ӂ������Ă邩��A�����Ƃ����ƁA�q�i�^�͂������I�v
+【ヒナタ】「ニンゲンさんのおててがふさがってるから、えっとえっと、ヒナタはここっ！」
 
-�u�������I�v
+「ぐぇっ！」
 
-�q�i�^����яオ���Č�납�����v��t���Ă������̂�����A����i�߂�ꂽ�悤�Ȋi�D�ɂȂ��āA���͎v�킸���߂�����������B
+ヒナタが飛び上がって後ろから首に縋り付いてきたものだから、首を絞められたような格好になって、俺は思わずうめき声をあげる。
 
-�u���������������c�c���܂��Ă���܂��Ă�A��߂ė����Ă��˂��c�c�v
+「ぐぅえええええ……締まってる締まってる、やめて離しておねが……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 #voice izue0001
-�y��̃G���t�z�w����߂Ȃ����I�@�F�A�l�Ԃ��痣���̂ł��I�x
+【泉のエルフ】『おやめなさい！　皆、人間から離れるのです！』
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 #voice tuke0023
-�y�c�L���z�u���I�H�v
+【ツキヨ】「っ！？」
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibae0024
-�y�C�o���z�u�́A�͂��I�v
+【イバラ】「は、はい！」
 
 ;FACE H05F_A
 #face f_hin_0_05f_a 94 466
 
 #voice hine0013
-�y�q�i�^�z�u�ЂႢ���I�H�v
+【ヒナタ】「ひゃいっ！？」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kone0020
-�y�R�m�~�z�u�́`���v
+【コノミ】「は〜い」
 
-�X�̕�����z�Ƃ�������������ꂽ���Ǝv���ƁA�F����ĂɎ�𗣂����B
+森の方から凛とした声がかけられたかと思うと、皆が一斉に手を離した。
 
-�u�������c�c���ق��فB�Ђǂ��ڂɂ������v
+「うぇっ……げほげほ。ひどい目にあった」
 
-�c�c���A�Ƃ����ɂ͕s�v�c�ȋ������������C���������ǁB
+……声、というには不思議な響き方をした気もしたけど。
 
-�c�c�����������ǁA���̎q����������Ȃɍs�V�悭�������Ƃ𕷂��Ȃ�Ă��������N�����ꂽ�񂾁H
+……助かったけど、この子たちがこんなに行儀よく言うことを聞くなんていったい誰が現れたんだ？
 
 ;CHR E C
-#cg ���̑� elf_1_01 ��
+#cg その他 elf_1_01 中
 #wipe fade
 
 #voice izue0002
-�y��̃G���t�z�w�܂��������Ȃ����͌��E�̊O�֏o���݂̂Ȃ炸�A�l�ԂƊւ��ȂǂȂ�Ƃ��������ȁx
+【泉のエルフ】『まったくあなた方は結界の外へ出たのみならず、人間と関わるなどなんという愚かな』
 
-�c�c����A���ꐺ����Ȃ��ȁB�Ȃ�Ƃ������A���ړ��̒��ɋ����Ă���Ƃ������B
+……うん、これ声じゃないな。なんというか、直接頭の中に響いてくるというか。
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibae0025
-�y�C�o���z�u�Z��A�Ȃ������ɁH�v
+【イバラ】「兄上、なぜここに？」
 
 #voice izue0003
-�y��̃G���t�z�w���Ȃ�����T���ɗ��܂����B���E����������߂��̂ł���B���c���ꂽ��Ȃ�Ƃ��܂��x
+【泉のエルフ】『あなた方を探しに来ました。結界が閉じる日も近いのですよ。取り残されたらなんとします』
 
 ;FACE I11F
 #face f_iba_0_11f2 94 466
 
 #voice ibae0026
-�y�C�o���z�u���A������A�{�N�͂������A��߂����Ɓc�c�v
+【イバラ】「だ、だから、ボクはこいつらを連れ戻そうと……」
 
 #voice izue0004
-�y��̃G���t�z�w�ꏏ�ɂȂ��ėV��ł����̂͂킩���Ă��܂���B��̃G���t�A���Ȃ��ɂ��̔C����C�����̂͊ԈႢ�ł����x
+【泉のエルフ】『一緒になって遊んでいたのはわかっていますよ。茨のエルフ、あなたにこの任務を任せたのは間違いでした』
 
 ;FACE I11F
 #face f_iba_0_11f1 94 466
 
 #voice ibae0027
-�y�C�o���z�u�����c�c�v
+【イバラ】「うっ……」
 
-�Z��c�c�H�@���̃G���t�̓C�o���̌Z�Ȃ̂��H
+兄上……？　このエルフはイバラの兄なのか？
 
 #voice izue0005
-�y��̃G���t�z�w�������A�Ⴂ�܂��l�̎q��B���͂��Ȃ���̂悤�ɐ��B�ɂ�錌�����������܂���x
+【泉のエルフ】『いいえ、違います人の子よ。我らはそなたらのように生殖による血縁を持ちえません』
 
-�����l���Ă������Ƃ��`������H
-���������̕ԓ��͓��̒��ɒ��ځc�c�H
+俺が考えていたことが伝わった？
+しかもその返答は頭の中に直接……？
 
 #voice izue0006
-�y��̃G���t�z�w�����ł��A�G���t�͎����o��Ό�����g�킸�Ƃ��ӎv��a�ʂł���悤�ɂȂ�܂��B�����p���Ȃ���Ό��t�̈Ⴂ�ȂǍ����Ȃ��Ɓx
+【泉のエルフ】『そうです、エルフは時を経れば言語を使わずとも意思を疎通できるようになります。言語を用いなければ言葉の違いなど些末なこと』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibae0028
-�y�C�o���z�u�������A��߂��̂̓{�N�̖�ڂ̂͂��Ȃ̂ɁA�Z��͉������ɂ�����ł����H�v
+【イバラ】「こいつらを連れ戻すのはボクの役目のはずなのに、兄上は何をしにきたんですか？」
 
 #voice izue0007
-�y��̃G���t�z�w���Ȃ�����A��߂��ɂł��x
+【泉のエルフ】『あなた方を連れ戻しにです』
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibae0029
-�y�C�o���z�u���c�c�I�H�v
+【イバラ】「っ……！？」
 
-�C�o���̊炪�����ɍʂ���B
+イバラの顔が驚愕に彩られる。
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibae0030
-�y�C�o���z�u���A����̓{�N�̖�ڂŁc�c�v
+【イバラ】「そ、それはボクの役目で……」
 
 #voice izue0008
-�y��̃G���t�z�w���͂₻��ɂ͋y�т܂���B��ڂ��ʂ����ɂ͂܂����Ȃ��͗c�������悤�ł��x
+【泉のエルフ】『もはやそれには及びません。役目を果たすにはまだあなたは幼かったようです』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibae0031
-�y�C�o���z�u�c�c�v
+【イバラ】「……」
 
 #voice izue0009
-�y��̃G���t�z�w�����A�߂�܂���x
+【泉のエルフ】『さぁ、戻りますよ』
 
-�G���t�����͌��t���Ȃ��傫�ȃG���t�̐擱�ɏ]���ĐX�ւƓ��ݏo�����B
+エルフたちは言葉もなく大きなエルフの先導に従って森へと踏み出した。
 
-�F���炿��Ƃ������������̂́A�ʂ�̌��t����Ȃ��B
+皆ちらちらとこちらを見るものの、別れの言葉すらない。
 
-�u����c�c�܁c�c�v
+「ちょ……ま……」
 
 #voice izue0010
-�y��̃G���t�z�w���b�������܂����ˁA�l�̎q��B�����A���͂��Ƃ��Ƒ��e��ʂ��́B�Y��Ȃ����B���b����������͕K�����܂��傤�x
+【泉のエルフ】『世話をかけましたね、人の子よ。だが、我らはもともと相容れぬもの。忘れなさい。世話をかけた礼は必ずしましょう』
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u��Ȃ�āc�c�v
+「礼なんて……」
 
-����Ȃ��̂��~�����ČĂю~�߂悤�Ƃ����킯����Ȃ��B
+そんなものが欲しくて呼び止めようとしたわけじゃない。
 
-�{����o���鉴�ɁA�傫�ȃG���t�͉�߂ЂƂ��Ĕw�������Ă��܂����B
+怒りを覚える俺に、大きなエルフは会釈ひとつして背を向けてしまった。
 
-�ʂ�͂��܂�ɂ����˂ɗ��s�s�ɖK�ꂽ�B
+別れはあまりにも唐突に理不尽に訪れた。
 
-���͉���������[�����ł��Ȃ��܂܁A�����̑O�ŗ����s�����Ă����B
+俺は何一つ理解も納得もできないまま、小屋の前で立ち尽くしていた。
 
-;dt02_1��
+;dt02_1へ
 #next dt02_1

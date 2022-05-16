@@ -1,486 +1,486 @@
 
 
-;�w�i�F�R�����O�i��j
-;�ύX�Ȃ�
+;背景：山小屋前（夜）
+;変更なし
 
-����Ȋԋ߂ŃI�[�N�����邱�ƂɂȂ��āA���͎v�킸���ѐ����グ�����ɂȂ����̂����낤���Ă��炦���B
+こんな間近でオークを見ることになって、俺は思わず叫び声を上げそうになったのをかろうじてこらえた。
 
-���߂Č���I�[�N�͐��܂����X���Ɍ������B
+初めて見るオークは凄まじく醜悪に見えた。
 
 ;CHR H04F1_A C
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0580
-�y�q�i�^�z�u�j���Q��������I�v
+【ヒナタ】「ニンゲンさんっ！」
 
-�u���c�c�I�H�v
+「っ……！？」
 
-�ْ����Ă����Ƃ���Ɍ�납�琺���|�����Ĕ�яオ�肻���ɂȂ�B
+緊張していたところに後ろから声を掛けられて飛び上がりそうになる。
 
 #voice hinb0581
-�y�q�i�^�z�u�j���Q������A�I�[�N�����H�v
+【ヒナタ】「ニンゲンさん、オークいた？」
 
-�u�΂��c�c���邳�����Ă��猩�������Ⴄ����I�H�v
+「ばっ……うるさくしてたら見つかっちゃうだろ！？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 #voice hinb0582
-�y�q�i�^�z�u�ӂɂ���I�H�@�������������c�c�v
+【ヒナタ】「ふにゃっ！？　もごもごもご……」
 
-�Q�Ăăq�i�^�̌����ǂ��A���A�ɉB�ꂽ�B
+慌ててヒナタの口を塞ぎ、物陰に隠れた。
 
-�����āA�����ƃI�[�N�̗l�q���f�����Ƃ���Ɓc�c�B
+そして、そっとオークの様子を伺おうとすると……。
 
 #voice hinb0583
-�y�q�i�^�z�u�����c�c���I�H�@�����[���I�v
+【ヒナタ】「おっ……っ！？　もごーっ！」
 
-�u������Â��ɂ��Ă���āv
-
-
-�y�I�[�N�P�z�u��[�H�@�������������H�v
+「だから静かにしてろって」
 
 
-�y�I�[�N�Q�z�u���≽���v
+【オーク１】「んー？　何か言ったか？」
 
 
-�y�I�[�N�R�z�u����������ˁ[���H�v
+【オーク２】「いや何も」
 
-���L�΂��ΐG�ꂻ���Ȃ��炢�ɂ����߂����I�[�N���ʂ�߂��Ă����B
 
-���͕K���Ƀq�i�^�̌������������A�������g�������E���A�ނ炪�����Ȃ��Ȃ�̂�҂����B
+【オーク３】「虫か鳥じゃねーか？」
 
-�K���I�[�N�͉������ɂ͋C�����Ȃ������l�q�ŁA�Â��X�̉��ւƏ����Ă������B
+手を伸ばせば触れそうなくらいにすぐ近くをオークが通り過ぎていく。
 
-�u�Ӂ[���c�c�s�������v
+俺は必死にヒナタの口を押さえつけ、自分自身も息を殺し、彼らが見えなくなるのを待った。
 
-�ق��Ƃ��Đ[�X�Ɨ��������Ă���ƁA�˔@�Ƃ��ăq�i�^���\��n�߂��B
+幸いオークは俺たちには気がつかなかった様子で、暗い森の奥へと消えていった。
+
+「ふーっ……行ったか」
+
+ほっとして深々と溜息をついていると、突如としてヒナタが暴れ始めた。
 
 #voice hinb0584
-�y�q�i�^�z�u�������I�@���������������I�v
+【ヒナタ】「もごっ！　もごもごもごっ！」
 
-�u���A���������B�������v����v
+「あ、あぁ悪い。もう大丈夫だよ」
 
 ;CHR H02F1_A C
-#cg �q�i�^ hin_1_02f1_a ��
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinb0585
-�y�q�i�^�z�u�Ղ͂��[���I�@���邵�����������I�v
+【ヒナタ】「ぷはぁーっ！　くるしかったぁっ！」
 
-�q�i�^�͐���ɑ���f���Đ[�ċz�����B
+ヒナタは盛大に息を吐いて深呼吸した。
 
 ;CHR H02F2_A C
-#cg �q�i�^ hin_1_02f2_a ��
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 
 #voice hinb0586
-�y�q�i�^�z�u�������I�@�j���Q������A���������������炭�邵���ł�����I�H�v
+【ヒナタ】「もうっ！　ニンゲンさん、おくちおさえたらくるしいでしょっ！？」
 
-�u����̓q�i�^���������炾��I�v
+「それはヒナタが騒ぐからだろ！」
 
 ;CHR H04F1_A C
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0587
-�y�q�i�^�z�u�q�i�^�͂��킢�łȂ񂩁c�c��[�H�@���킢�ł����Ȃ��H�v
+【ヒナタ】「ヒナタはさわいでなんか……んー？　さわいでたかなぁ？」
 
-�u�c�c�܁[�A�I�[�N�Ɍ�����Ȃ��Ă悩������v
+「……まー、オークに見つからなくてよかったよ」
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0588
-�y�q�i�^�z�u���[�����I�H�@�����A�I�[�N�����˂��I�@�����������킩�����ˁI�v
+【ヒナタ】「おーくっ！？　そだ、オークいたねっ！　すっごくこわかったね！」
 
-�u�������ȁc�c�܂��߂��Ă��Ȃ��Ƃ�����Ȃ����A�����̒��ɓ����č����͐Â��ɂ��Ă��悤�v
+「そうだな……また戻ってこないとも限らないし、小屋の中に入って今日は静かにしていよう」
 
 ;CHR H01F2_A C
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0589
-�y�q�i�^�z�u�����ˁA���[�A���킩�����[�I�v
+【ヒナタ】「そだね、あー、こわかったー！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�c�c�ǂ����q�i�^�ْ͋����Ɍ�����ȁB
+……どうもヒナタは緊張感に欠けるな。
 
-;BGMch2 amb002 ��~
+;BGMch2 amb002 停止
 #bgvoice stop
 
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�w�i�F�R�������i��j
+;背景：山小屋内（夜）
 ;BG:BG07b_3
 #cg all clear
 #bg BG07b_3
 #wipe fade
 
-�������������̒��ɓ���ƁA�����ƃG���t�������삯����Ă����B
+俺たちが小屋の中に入ると、わらわらとエルフたちが駆け寄ってきた。
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice ibab0711
-�y�C�o���z�u�ԁA�������������I�H�v
+【イバラ】「ぶ、無事だったか！？」
 
 ;CHR T06F_L R
-#cg �c�L�� tuk_1_06f_l �E
+#cg ツキヨ tuk_1_06f_l 右
 #wipe fade
 
 #voice tikb0626
-�y�c�L���z�u���v�ł��H�v
+【ツキヨ】「大丈夫です？」
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0590
-�y�q�i�^�z�u��������Ԃ�����I�@�I�[�N�A�ǂ����������������v
+【ヒナタ】「だいじょぶだよっ！　オーク、どっかいっちゃったよ」
 
-�u�X�̉��ɓ����Ă�����������v���Ƃ͎v�����ǁA�����͔O�̂��߂���ȏ㖾���������̂͂�߂Ă������v
+「森の奥に入っていったから大丈夫だとは思うけど、今日は念のためこれ以上明かりをつけるのはやめておこう」
 
 ;CHR I08F L
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0712
-�y�C�o���z�u���A�������ȁc�c�v
+【イバラ】「そ、そうだな……」
 
 #voice tikb0627
-�y�c�L���z�u�I�[�N�A�����ł��H�@�|�������ł��H�v
+【ツキヨ】「オーク、見たです？　怖かったです？」
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 
 #voice hinb0591
-�y�q�i�^�z�u����I�@���킩������[�I�@���[�������Ăˁ[�A���[��ȁA���������Ă��v
+【ヒナタ】「うん！　こわかったよー！　おーきくってねー、こーんな、おかおしてた」
 
-�q�i�^�͂��������āA�@��ׂ�����j�����������ĕςȊ�����Ă݂���B
+ヒナタはそういって、鼻を潰したり頬を引っ張って変な顔をしてみせる。
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0713
-�y�C�o���z�u�ځA�l�͕ʂɕ|���Ȃ񂩂Ȃ����v
+【イバラ】「ぼ、僕は別に怖くなんかないぞ」
 
 ;CHR T02F R
-#cg �c�L�� tuk_1_02f �E
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 
 #voice tikb0628
-�y�c�L���z�u�ӂ������������c�c�|���A�ł��v
+【ツキヨ】「ふぉおおおおお……怖い、です」
 
-�u�c�c�Ԃ��v
+「……ぶっ」
 
-�q�i�^�̕ϊ�Ȃ�Ă����Ƃ��|���Ȃ��̂ɁA�c�L���ƃC�o���͋��ꂨ�̂̂��Ă���B
+ヒナタの変顔なんてちっとも怖くないのに、ツキヨとイバラは恐れおののいている。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F2_A C
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0592
-�y�q�i�^�z�u����H�@�����������ȁH�@����ȁA����Ȃ�������������������Ȃ��I�v
+【ヒナタ】「あれ？　ちがったかな？　こんな、こんなおかおだったかもしれない！」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0714
-�y�C�o���z�u�ЂႠ�������������I�v
+【イバラ】「ひゃああああああっ！」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0629
-�y�c�L���z�u�͂����������������c�c�v
+【ツキヨ】「はぅううううううう……」
 
 ;CHR H01F2_A C
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0593
-�y�q�i�^�z�u����łˁA����łˁA����Ȃ������������Ƃ����Ă����ĂˁI�v
+【ヒナタ】「そんでね、そんでね、こんなすぐちかくをとおっていってね！」
 
-�q�i�^�͑S�g���g���ėՏꊴ�����Ղ�ɐ��������Ă݂���B
+ヒナタは全身を使って臨場感たっぷりに説明をしてみせる。
 
-���`��A�������\���͂��Ɗ��S���ׂ��Ȃ񂾂낤���B
+う〜ん、すごい表現力だと感心すべきなんだろうか。
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0594
-�y�q�i�^�z�u�j���Q�����񂪁A�q�i�^�̂������������邩�炭�邵�������́I�@�����������c�c�v
+【ヒナタ】「ニンゲンさんが、ヒナタのおくちおさえるからくるしかったの！　もがががっ……」
 
-�����Ŏ����̌����������Ă����΂�����Ƃ���܂ŁA�Č����Č����Ă��ꂽ�B
+自分で自分の口を押さえてじたばたするところまで、再現して見せてくれた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice tikb0630
-�y�c�L���z�u�ӂ킟�����������c�c��ς������ł��v
+【ツキヨ】「ふわぁあああああ……大変だったです」
 
 #voice ibab0715
-�y�C�o���z�u�{�N���s���΂悩�����I�@�{�N���s���΁A�I�[�N���炢������Ă�����̂ɁI�v
+【イバラ】「ボクも行けばよかった！　ボクが行けば、オークぐらいやっつけてやったのに！」
 
-�u���₢�₢��A���������Ƃ��͊�Ȃ�����A�B��邩�����邩���ĂĂ�v
+「いやいやいや、そういうときは危ないから、隠れるか逃げるかしててよ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o�����o�Ă��Ȃ��Ă悩�����A�Ƌ��𕏂ŉ��낵�������Ƃ���łӂƋ^�₪�N�����B
+イバラが出てこなくてよかった、と胸を撫で下ろしかけたところでふと疑問が湧いた。
 
-�u���������΁A�q�i�^�͂ǂ����ďo�Ă���������́H�v
+「そういえば、ヒナタはどうして出てきちゃったの？」
 
 ;CHR H04F2_A C
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0595
-�y�q�i�^�z�u����`�B�ǂ����Ă���H�v
+【ヒナタ】「あれ〜。どうしてだろ？」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0577
-�y�R�m�~�z�u�q�i�^���Ă΁A�~�߂��̂Ƀj���Q������̂Ƃ��ɍs�����ĕ����Ȃ������񂾂�`�v
+【コノミ】「ヒナタってば、止めたのにニンゲンくんのとこに行くって聞かなかったんだよ〜」
 
 ;CHR H01F2_A C
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0596
-�y�q�i�^�z�u�����A���������I�v
+【ヒナタ】「そか、そだった！」
 
-�u�ꉞ�͎~�߂Ă���Ă��̂��c�c�v
+「一応は止めてくれてたのか……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0716
-�y�C�o���z�u�܂��ȁB�����āA�j���Q���̓g�������疜���ꉽ�������Ă������������o���̂Ő���t���낤�H�v
+【イバラ】「まぁな。だって、ニンゲンはトロいから万が一何かあっても自分が逃げ出すので精一杯だろう？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K02F2 C
-#cg �R�m�~ kon_1_02f2 ��
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0577-01
-�y�R�m�~�z�u�q�i�^��������ז��ɂȂ����Ⴄ����ˁ`�B�Ȃ̂ɁA�j���Q������ƈꏏ�ɂ��������đ����ŁA��ς������񂾁`�v
+【コノミ】「ヒナタがいたら邪魔になっちゃうもんね〜。なのに、ニンゲンくんと一緒にいたいって騒いで、大変だったんだ〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0631
-�y�c�L���z�u���邳��������I�[�N�Ɍ��������Ⴄ�ł��v
+【ツキヨ】「うるさくしたらオークに見つかっちゃうです」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H06F1_A C
-#cg �q�i�^ hin_1_06f1_a ��
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0597
-�y�q�i�^�z�u�q�i�^����܂ɂȂ��ĂȂ���I�H�@�I�[�N�ɂ��݂���Ȃ�������I�H�v
+【ヒナタ】「ヒナタじゃまになってないよ！？　オークにもみつからなかったよ！？」
 
-�u�c�c�����A�����Ȃ��悤�ɉ����撣���Č��������������v
+「……そりゃ、騒がないように俺が頑張って口を押さえたし」
 
 ;CHR H02F1_A C
-#cg �q�i�^ hin_1_02f1_a ��
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinb0598
-�y�q�i�^�z�u�����I�@�j���Q�����񂪂������������邩��A�q�i�^�����������邵�������񂾂�I�v
+【ヒナタ】「そだ！　ニンゲンさんがおくちおさえるから、ヒナタすっごくくるしかったんだよ！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0717
-�y�C�o���z�u����́A�q�i�^�����������ɂȂ������炶��Ȃ��̂��H�v
+【イバラ】「それは、ヒナタが騒ぎそうになったからじゃないのか？」
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0599
-�y�q�i�^�z�u����A�����I�v
+【ヒナタ】「うん、そう！」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0718
-�y�C�o���z�u����Ȃ�A�j���Q���̔��f���������ȁv
+【イバラ】「それなら、ニンゲンの判断が正しいな」
 
 ;CHR H04F1_A C
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0600
-�y�q�i�^�z�u���Ȃ́I�H�v
+【ヒナタ】「そなの！？」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0632
-�y�c�L���z�u�����q�ɂ��Ă���A������������ꂽ�肵�Ȃ������Ǝv���ł��v
+【ツキヨ】「いい子にしてたら、お口押さえられたりしなかったと思うです」
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0601
-�y�q�i�^�z�u���Ȃ̂��`�A����A����ǃI�[�N�������炫������I�v
+【ヒナタ】「そなのか〜、じゃ、こんどオークがきたらきをつける！」
 
-�u����A�I�[�N�Ȃ�Ă��Ȃ������������A�C������񂶂�Ȃ��ďo�Ă��Ȃ��ق������肪�������ǂȁc�c�v
+「いや、オークなんてこない方がいいし、気をつけるんじゃなくて出てこないほうがありがたいけどな……」
 
-�c�c���ǁA�q�i�^�̓q�i�^�Ȃ�ɉ��̂��Ƃ�S�z���Ă���Ă������Ă������ƂȂ̂��ȁB
+……けど、ヒナタはヒナタなりに俺のことを心配してくれていたっていうことなのかな。
 
-�Ȃ�ƂȂ��A����������Ɖ������Ȃ����B
+なんとなく、胸がじんわりと温かくなった。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;BGMch2 amb004 ��~
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;���t�ύX
+;日付変更
 
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;�w�i�F�R�����O�i���j
+;背景：山小屋前（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-����͂��܂��ܒʂ�߂��Ă��ꂽ���A���������������Ƃ����ʂ�߂��Ă����Ƃ͌���Ȃ��B
+昨日はたまたま通り過ぎてくれたが、もし次があったときも通り過ぎてくれるとは限らない。
 
-�����ŉ��́A���X�Ƃ��킸�����ɃI�[�N�����̂܂��Ȃ����{�����Ƃɂ����B
+そこで俺は、今更といわず小屋にオーク避けのまじないを施すことにした。
 
-�c�c����A�܂��A�ǂꂾ�����ʂ�����̂��͂킩��Ȃ����ǁA�C�x�߂ł����Ȃ����͂����Ƃ܂����B
+……うん、まぁ、どれだけ効果があるのかはわからないけど、気休めでもしないよりはずっとましだ。
 
 ;CHR H06F2_A C
-#cg �q�i�^ hin_1_06f2_a ��
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0602
-�y�q�i�^�z�u�ӂ����I�H�@�j���Q������A����ɂ����������Ă�̂��I�H�@�q�i�^�������I�v
+【ヒナタ】「ふぉっ！？　ニンゲンさん、こやにおえかきしてるのっ！？　ヒナタもやるっ！」
 
-�u����A����͂��G��������Ȃ��Ă��܂��Ȃ��v
+「いや、これはお絵かきじゃなくておまじない」
 
 ;CHR H04F2_A C
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0603
-�y�q�i�^�z�u���܂��Ȃ��H�v
+【ヒナタ】「おまじない？」
 
-�u�I�[�N�����܂���悤�ɁA���Ă����v
+「オークが来ませんように、っていう」
 
 ;CHR H04F1_A C
-#cg �q�i�^ hin_1_04f1_a ��
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0604
-�y�q�i�^�z�u�ق����c�c�����ˁA�I�[�N���Ȃ��ق��������ˁB�����炵�񂶂Ⴄ����˂��I�H�v
+【ヒナタ】「ほぉう……そだね、オークこないほうがいいね。きたらしんじゃうもんねっ！？」
 
-�u����B����ɁA�q�i�^�������������݂����Ȃ����ˁv
+「うん。それに、ヒナタたちを巻き込みたくないしね」
 
 ;CHR H04F2_A C
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0605
-�y�q�i�^�z�u�q�i�^�������c�c�I�H�v
+【ヒナタ】「ヒナタたちを……！？」
 
-�q�i�^�͉��̌��t�ɖڂ��ς�����Ƃ������B
+ヒナタは俺の言葉に目をぱちくりとさせた。
 
-�u�[�ׁA�q�i�^�����ƈꏏ�ɂ��������ďo�Ă����̂́A���̂��Ƃ�S�z���Ă��ꂽ���炾��H�v
+「夕べ、ヒナタが俺と一緒にいたいって出てきたのは、俺のことを心配してくれたからだろ？」
 
-�������l���Ă����Ƃ𕷂��ƁA�q�i�^�͂ӂɂ��A�Ə΂����B
+昨日から考えてたことを聞くと、ヒナタはふにゃん、と笑った。
 
 ;CHR H08F1_A C
-#cg �q�i�^ hin_1_08f1_a ��
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0606
-�y�q�i�^�z�u��ƂˁA����ς��������̂����邯�ǂˁB�ЂƂ�ڂ����A�₾����v
+【ヒナタ】「んとね、しんぱいだったのもあるけどね。ひとりぼっち、やだから」
 
-�u�ЂƂ�ڂ����c�c�H�@�C�o�������������̂ɁH�v
+「ひとりぼっち……？　イバラたちもいたのに？」
 
 #voice hinb0607
-�y�q�i�^�z�u��ƂˁA�q�i�^�͂͂�Ԃ񂾂��j���Q������Ƃ�������ł���H�@������A�j���Q�����񂪂��Ȃ��Ȃ�����͂�Ԃ񂾂��ЂƂ�ڂ����ɂȂ����Ⴄ����v
+【ヒナタ】「んとね、ヒナタははんぶんだけニンゲンさんといっしょでしょ？　だから、ニンゲンさんがいなくなったらはんぶんだけひとりぼっちになっちゃうから」
 
-�Y�L�A�Ƌ��̂ǂ����ɂƂ����h�������悤�Ȓɂ݂��������B
+ズキ、と胸のどこかにとげが刺さったような痛みが走った。
 
-�q�i�^�͂Ђ���Ƃ��ăG���t�̗��ɂ���������A�ЂƂ�ڂ������Ɗ����Ă����񂾂낤���c�c�B
+ヒナタはひょっとしてエルフの里にいた頃から、ひとりぼっちだと感じていたんだろうか……。
 
 ;CHR H11F_A C
-#cg �q�i�^ hin_1_11f_a ��
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinb0608
-�y�q�i�^�z�u���ꂩ��ˁA�j���Q�����񂪂ЂƂ�ڂ����ł��񂶂Ⴄ�́A�₩�Ȃ��Ă��������́B������A�q�i�^�A��������ɂ��悤���āv
+【ヒナタ】「それからね、ニンゲンさんがひとりぼっちでしんじゃうの、やかなっておもったの。だから、ヒナタ、いっしょにいようって」
 
-���������ď΂��q�i�^�̖ڂ͂ǂ����₵���������B
+そう言って笑うヒナタの目はどこか寂しげだった。
 
 #voice hinb0609
-�y�q�i�^�z�u�ЂƂ�ڂ����͂₾��ˁA���݂�����ˁv
+【ヒナタ】「ひとりぼっちはやだよね、さみしいよね」
 
-�u���c�c�����A�������ȁv
+「あ……あぁ、そうだな」
 
-���͂��̂Ƃ��A�q�i�^�̑f��ɐG�ꂽ�C�����ĕs�v�c�Ȋ������o�����ɂ͂����Ȃ������B
+俺はこのとき、ヒナタの素顔に触れた気がして不思議な感傷を覚えずにはいられなかった。
 
-;�q�i�^���[�gdh01��
+;ヒナタルートdh01へ
 #next dh01_1
