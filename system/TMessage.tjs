@@ -680,16 +680,18 @@ class TMStrings{
 					}
 				}  // return index to break line at
 
+				if(index<=startIndex){
 				// Do original wrap if Japanese untranslated
-				index=endIndex;
-				while(startIndex<=index){
-				//	ŽŸ‚Ì•¶Žš‚ÆƒOƒ‹[ƒv‚Ü‚½‚Ís––‹ÖŽ~•¶Žš‚Ìê‡‚Í‚P•¶Žší‚é
-				//	s––‚É \a ‚ª—ˆ‚é‚Æs––‹ÖŽ~•¶Žš‚ªs––‚É–³‚¢‚Æ‚¢‚¤‚±‚Æ‚É‚È‚é‚ªŽd—l‚Á‚Ä‚±‚Æ‚Å
-				//	ex. •¶Žš•¶Žš•¶Žši\a
-					if((mstrings[index-1].group&0x7fff)==(mstrings[index].group&0x7fff)||/[(\[{egqsuwykimo¢]/.test(mstrings[index-1].string)){
-						--index;
-					}else{
-						break;
+					index=endIndex;
+					while(startIndex<index){
+					//	ŽŸ‚Ì•¶Žš‚ÆƒOƒ‹[ƒv‚Ü‚½‚Ís––‹ÖŽ~•¶Žš‚Ìê‡‚Í‚P•¶Žší‚é
+					//	s––‚É \a ‚ª—ˆ‚é‚Æs––‹ÖŽ~•¶Žš‚ªs––‚É–³‚¢‚Æ‚¢‚¤‚±‚Æ‚É‚È‚é‚ªŽd—l‚Á‚Ä‚±‚Æ‚Å
+					//	ex. •¶Žš•¶Žš•¶Žši\a
+						if((mstrings[index-1].group&0x7fff)==(mstrings[index].group&0x7fff)||/[(\[{egqsuwykimo¢]/.test(mstrings[index-1].string)){
+							--index;
+						}else{
+							break;
+						}
 					}
 				}
 
