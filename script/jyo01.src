@@ -33,9 +33,9 @@
 #wipe fade
 
 #voice hina0003
-【？？？】「おにいさ〜ん！　たぁすけてぇ〜！」
+【？？？】「Onii-san!　Heelp〜！」
 
-想像を超えた情景に俺は絶句した。
+A scene beyond imagination made me speechless。
 
 ;SMODE 001 PLAY
 #label replay001
@@ -50,50 +50,50 @@
 #cg イベント ev002a1 背景
 #wipe fade
 
-中空からぶら下げられていたのは、可愛らしい女の子で、若枝のような手足は簡単に手折れてしまいそうなほどに華奢だ。
+Hanging down in midair was a cute girl, with limbs as delicate as young branches that they can easily break.
 
-このあたりではあまり見ない、雪花石膏のように白い肌、日の光を集めた蜂蜜のような金色の髪、そして晴れた空のように青い瞳。
+White skin like alabaster, golden hair like honey that gathered/collected the sunlight, and blue eyes like a clear sky, which I rarely see around here.
 
-そんな美しい女の子が絡まる蔦に身悶えしながら、こちらへと手を伸ばそうとしている。
+While such a beautiful girl writhes in the ivy she is entwined with, she reaches her hand towards me.
 
-まるで、それは一枚の絵のようで……。
+Almost as if, it was a work of art……。
 
 #voice hina0004
-【？？？】「みぃてぇなぁいぃでぇ〜！　おぉーろぉーしーぃーてぇ〜！！」
+【？？？】「Dooon't juuust looook〜！　Leeeet meeee dooown〜！！」
 
-…しかし、惜しむらくは構成要素として主たる被写体の表情と主題が乖離している。
+…but, regrettably the subject's facial expression and the motif are dissociated as a component of art.
 
-こんな情景であれば、被写体の表情は苦痛に歪んでいるか、恍惚としているか、どちらかであるべきじゃないだろうか。
+In these scenes, the subject's expression should be twisted in agony, or otherwise in esctacy, either one it should be.
 
-別に俺には芸術的な素養なんてないけど、ぼんやりとそんなことを思った。
+It's not like I have any artistic background, but I idly thought about it.
 
-助けを求めているとも、はしゃいでいるともとれる表情では緊迫感に欠け……。
+While she is asking for help, there is a lack of urgency in her cheerful expression……。
 
 ;SE se011 にょるん 再生
 #se 1 se011
 
-『にょるん』
+『Nyoron』
 
-現実逃避している視界の隅で、少女を捕まえている蔦の一部が、ぬるぬると軟体生物のような動きを見せているのを捉えた。
+While escaping reality, in the corner of my vision,  I caught sight of part of the vine that caught the girl slithering like a mollusk.
 
-やがてそれは獲物を探す蛇にも似て、ぐるぅりと品定めするようにこちらを伺っている。
+Before long, it resembled a prey-searching snake evaluating its captured prisoner. 
 
-目なんか無いようにしか見えないけど、何かそれに準ずる感覚器官でもあるのか？
+It had no eyes it could possibly see through, but it seems to have a sensory organ similar to that？
 
-俺も狙われているのは理性としては理解できるのだが、それが感情に結びつかず、危機感が湧いてこない。
+I can understand logically I'm being targeted to, but it doesn't connect to my emotions and I don't feel a sense of crisis.
 
-蔦……植物だよな。花でも咲いてればよかったのに。
+Ivy……is a plant, right. If only flowers could bloom from it.
 
-――そうだ、花が咲いていればこのとらわれた少女の絵面も一層艶やかに彩られていたことだろう。
+――That's right, if flowers bloomed, the depiction of this trapped girl would also have been much more deeply coloured.
 
-きっとその情景は官能的にすら見えたに違いない。
+I'm sure that scene would definitely have looked sensual.
 
-むろん蔦だけでも、少女が緊縛されているという状況だけは十分に官能的なんだが。
+But of course even just with ivy, a situation with a girl tied up is sensual enough already.
 
 #voice hina0005
-【？？？】「おにいいさぁああああああああんっ！」
+【？？？】「Oniisaaaaaaaaaaaaaaaaaaaaaan！」
 
-少女の絶叫が虚しく空に響く。
+The girl's scream echoes in the sky.
 
 あぁ、こんなの冗談だろう？　あるいは夢か何かを見ているのか。
 

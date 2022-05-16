@@ -40,39 +40,39 @@
 ;BGMch2 amb009 再生
 #bgvoice amb009
 
-風が吹いた。
+The wind blew.
 
 
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【？？？】「すごいすごい、ここがにんげんのせかいなんだぁっ」
+【？？？】「Wow wow, here is the world of humans」
 
-臆病な兎がびくりと耳をそばだてた。
+A timid rabbit was shocked and its ears perked up to listen.
 
-小さな動物たちはこぞって巣穴に飛び込んだ。
+Small animals jumped into the burrow in flock.
 
-最初に気づいたのは、身を守るすべを持たない脆弱な生き物だった。
+The first to notice, was weak animals with no way to protect themselves.
 
-そのまま暖かい巣穴の中で異変が通り過ぎるのを震えながら待つしかないからだろう。
+The animals went into their burrow in this manner with no choice but to wait trembling until the irregular occurence passes through.
 
 ;SE
 
-【トロル】「ぐぅるるるるぅぉおおお……？」
+【Troll】「GuururururuuoOOO……？」
 
-その次に気づいたのは、限りなく知能を持たない者たちだった。
+The next to realise, were those with no intellect.
 
-それはある意味で弱さであるがゆえに。
+Since that is in a sense, weakness.
 
-微かな微かな違和感は、鋭敏な者たちだけに変節を知らせていた。
+A slight feeling of amiss informed only those with sharp senses.
 
-世界が変わろうとしたその時、何かが壊れる音がしたのかもしれない。
+In the instant the world tried to change, there might have been a sound of something breaking.
 
-――あるいは、音もなく薄布がほつれていくような振動が。
+――In other words, vibration as soundless as a veil coming undone.
 
-位相の違う二つの世界が重なり合い、溶けて交わっていく。
+Two worlds in different dimensions overlap, melt, and intersect.
 
-遠い昔に、境界で隔てられた世界と世界が、また一つになろうとしていた――。
+The worlds separated by boundaries since a long time ago, was trying to become one again――。
 
 ;BGMch1 bgm001 再生
 #bgm 0 bgm001
@@ -135,12 +135,12 @@
 ;イズミ
 
 #voice izua0001
-【泉のエルフ】『気がつきましたか、茨のエルフよ』
+【Fountain Elf】『Have you awaken, Thorn Elf』
 
 ;茨のエルフ
 ;イバラ
 #voice ibaa0002
-【？？？】「はい、兄上。……今、結界が」
+【？？？】「Yes, ani-ue.……just now, the barrier--」
 
 ;CHR OFF
 #cg all clear
@@ -167,9 +167,9 @@
 ;文字数制限のため変更
 ;コノミ
 #voice kona0001
-【？？？】「うわぁ〜、ボクこんな大きい泉初めて見たよぉ〜」
+【？？？】「Uwaa〜、this is the first time I've seen such a huge spring〜」
 
-未知の世界に足を踏みいれたエルフは感嘆の声を漏らした。
+The elf who stepped into the unknown world let out an exclaimation of admiration.
 
 ;CHR OFF
 #cg all clear
@@ -181,13 +181,14 @@
 #bg bg04_3
 #wipe fade
 
-小さな者たちが気づいた異変は、ありのままに生きるエルフにもまた既知のものだった。
+The presence of the irregularity that the small beings noticed, was also known as is by the elves who lived there.
 
-長く生きたエルフには初めての事象でこそなかったが、長い刻のうち忘れかけていたものだ。
+For an elf having lived many years, this happening was not the first, but had forgotten after a long while.
 
-あるものは不安を抱き、隔てられた時より新しく生まれたあるものは初めて見る世界に歓喜した。
+Some felt anxious as something new was born
+Some felt delight in seeing this world for the first time.
 
-恐れを知らない新しい命は限られた世界を飛び出し、果敢に見知らぬ地に足を踏み入れた。
+A life that knew no fear jumped out of the world of limits, and boldly set foot in the unfamiliar land.
 
 ;CHR T10F4 C
 #cg ツキヨ tuk_1_10f4 中
@@ -198,9 +199,9 @@
 #voice tuka0001
 【？？？】「……」
 
-初めて見る世界に期待するのは、好奇心の充足と新たなる刺激。
+The expectations from the world seen for the first time was to satisfaction of curiosity and new stimuli.
 
-それはエルフたちから忌むべきものとされたこの臆病なダークエルフにとっても例外ではなかった。
+That was no exception to this cowardly dark elf, whom the elves regarded as should be detested.
 
 ;CHR OFF
 #cg all clear
@@ -220,22 +221,22 @@
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【？？？】「すごいすごい、ここがにんげんのせかいなんだぁっ」
+【？？？】「Wow wow, this is the world of humans」
 
-名も無きエルフは歓喜し、人間世界の空を掻き抱かんばかりにその小さな腕を広げた。
+The nameless elf celebrated in joy, spread his little arms as if clasping the sky of the human world.
 
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0002
-【？？？】「わぁっ！　にんげんさんにあえるかな？　はやくにんげんさんにあいたいなっ」
+【？？？】「Waa‾！　Will I meet humans？　I really want to meet humans quickly--」
 
-世界は広い。
+The world is wide.
 
-されど、我らは小さい。
+But, I am little.
 
-いと小さき者たちよ、幸福であれ。
+Small little one, be happy.
 
-ただ、幸福であれ。
+Just, be happy.
 
 ;BGMch1 FO停止
 #bgm 0 stop 1000
