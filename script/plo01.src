@@ -1,7 +1,7 @@
 
-;#savetitle ã²ãªãŸã®ã¤ã
+;#savetitle ‚Ğ‚È‚½‚Ì‚Â‚«
 
-;ãƒ•ãƒ©ã‚°ãƒªã‚»ãƒƒãƒˆ
+;ƒtƒ‰ƒOƒŠƒZƒbƒg
 #set f1 0
 #set f2 0
 #set f3 0
@@ -30,231 +30,230 @@
 
 #face on
 
-;èƒŒæ™¯ï¼šæº€æœˆï¼ˆå¤œï¼‰
+;”wŒiF–Œi–éj
 ;BG:BG01b_1
 #cg all clear
 #bg bg01b_1
 #wipe fade
 
-;ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒ«
-;BGMch2 amb009 å†ç”Ÿ
+;ƒCƒ“ƒ^[ƒoƒ‹
+;BGMch2 amb009 Ä¶
 #bgvoice amb009
 
-The wind blew.
+•—‚ª‚¢‚½B
 
 
-;åã‚‚ç„¡ãã‚¨ãƒ«ãƒ•
-;ãƒ’ãƒŠã‚¿
+;–¼‚à–³‚«ƒGƒ‹ƒt
+;ƒqƒiƒ^
 #voice hina0001
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€ŒWow wow, here is the world of humansã€
+yHHHzu‚·‚²‚¢‚·‚²‚¢A‚±‚±‚ª‚É‚ñ‚°‚ñ‚Ì‚¹‚©‚¢‚È‚ñ‚¾‚Ÿ‚Áv
 
-A timid rabbit was shocked and its ears perked up to listen.
+‰°•a‚È“e‚ª‚Ñ‚­‚è‚Æ¨‚ğ‚»‚Î‚¾‚Ä‚½B
 
-Small animals jumped into the burrow in flock.
+¬‚³‚È“®•¨‚½‚¿‚Í‚±‚¼‚Á‚Ä‘ƒŒŠ‚É”ò‚Ñ‚ñ‚¾B
 
-The first to notice, was weak animals with no way to protect themselves.
+Å‰‚É‹C‚Ã‚¢‚½‚Ì‚ÍAg‚ğç‚é‚·‚×‚ğ‚½‚È‚¢Æã‚È¶‚«•¨‚¾‚Á‚½B
 
-The animals went into their burrow in this manner with no choice but to wait trembling until the irregular occurence passes through.
+‚»‚Ì‚Ü‚Ü’g‚©‚¢‘ƒŒŠ‚Ì’†‚ÅˆÙ•Ï‚ª’Ê‚è‰ß‚¬‚é‚Ì‚ğk‚¦‚È‚ª‚ç‘Ò‚Â‚µ‚©‚È‚¢‚©‚ç‚¾‚ë‚¤B
 
 ;SE
 
-ã€Trollã€‘ã€ŒGuururururuuoOOOâ€¦â€¦ï¼Ÿã€
+yƒgƒƒ‹zu‚®‚£‚é‚é‚é‚é‚£‚§‚¨‚¨‚¨ccHv
 
-The next to realise, were those with no intellect.
+‚»‚ÌŸ‚É‹C‚Ã‚¢‚½‚Ì‚ÍAŒÀ‚è‚È‚­’m”\‚ğ‚½‚È‚¢Ò‚½‚¿‚¾‚Á‚½B
 
-Since that is in a sense, weakness.
+‚»‚ê‚Í‚ ‚éˆÓ–¡‚Åã‚³‚Å‚ ‚é‚ª‚ä‚¦‚ÉB
 
-A slight feeling of amiss informed only those with sharp senses.
+”÷‚©‚È”÷‚©‚Èˆá˜aŠ´‚ÍA‰s•q‚ÈÒ‚½‚¿‚¾‚¯‚É•Ïß‚ğ’m‚ç‚¹‚Ä‚¢‚½B
 
-In the instant the world tried to change, there might have been a sound of something breaking.
+¢ŠE‚ª•Ï‚í‚ë‚¤‚Æ‚µ‚½‚»‚ÌA‰½‚©‚ª‰ó‚ê‚é‰¹‚ª‚µ‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B
 
-â€•â€•In other words, vibration as soundless as a veil coming undone.
+\\‚ ‚é‚¢‚ÍA‰¹‚à‚È‚­”–•z‚ª‚Ù‚Â‚ê‚Ä‚¢‚­‚æ‚¤‚ÈU“®‚ªB
 
-Two worlds in different dimensions overlap, melt, and intersect.
+ˆÊ‘Š‚Ìˆá‚¤“ñ‚Â‚Ì¢ŠE‚ªd‚È‚è‡‚¢A—n‚¯‚ÄŒğ‚í‚Á‚Ä‚¢‚­B
 
-The worlds separated by boundaries since a long time ago, was trying to become one againâ€•â€•ã€‚
+‰“‚¢Ì‚ÉA‹«ŠE‚ÅŠu‚Ä‚ç‚ê‚½¢ŠE‚Æ¢ŠE‚ªA‚Ü‚½ˆê‚Â‚É‚È‚ë‚¤‚Æ‚µ‚Ä‚¢‚½\\B
 
-;BGMch1 bgm001 å†ç”Ÿ
+;BGMch1 bgm001 Ä¶
 #bgm 0 bgm001
 
-;ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ï¼šæº€æœˆã‹ã‚‰æœˆé£Ÿã€å†ã³æº€æœˆã¸
-;9/25æš«å®šï¼šBGã®ã¿ã§ã®å‡¦ç†
-;â€»mpegãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿã®å¯èƒ½æ€§ã‚ã‚Š
+;ƒAƒjƒ[ƒVƒ‡ƒ“F–Œ‚©‚çŒHAÄ‚Ñ–Œ‚Ö
+;9/25b’èFBG‚Ì‚İ‚Å‚Ìˆ—
+;¦mpegƒ€[ƒr[Ä¶‚Ì‰Â”\«‚ ‚è
 ;
 
 ;EVCG EV001B2
 ;#face off
 
 ;MC
-;ã‚¹ã‚­ãƒƒãƒ—ç¦æ­¢
+;ƒXƒLƒbƒv‹Ö~
 #wipecancel disabled
 
-#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev001b2 èƒŒæ™¯
+#cg ƒCƒxƒ“ƒg ev001b2 ”wŒi
 #wipe fade 3000
 
 ;EVCG EV001C2
-#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev001c2 èƒŒæ™¯
+#cg ƒCƒxƒ“ƒg ev001c2 ”wŒi
 #wipe fade 3000
-;ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒ«
+;ƒCƒ“ƒ^[ƒoƒ‹
 ;MC
 #wait 3000
 
 ;EVCG EV001B2
-#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev001b2 èƒŒæ™¯
+#cg ƒCƒxƒ“ƒg ev001b2 ”wŒi
 #wipe fade 3000
-;ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒ«
+;ƒCƒ“ƒ^[ƒoƒ‹
 ;MC
 #wait 2000
 
 ;MC
-;ã‚¹ã‚­ãƒƒãƒ—ç¦æ­¢è§£é™¤
+;ƒXƒLƒbƒv‹Ö~‰ğœ
 #wipecancel enabled
 
-;æš—è»¢
+;ˆÃ“]
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;èƒŒæ™¯ï¼šã‚¨ãƒ«ãƒ•ã®æ£®
+;”wŒiFƒGƒ‹ƒt‚ÌX
 ;BG:BG02_1
 #cg all clear
 #bg bg02_1
 #wipe fade
 
 ;CHR I01F C
-#cg ã‚¤ãƒãƒ© iba_1_01f ä¸­
+#cg ƒCƒoƒ‰ iba_1_01f ’†
 #wipe fade
 
-;èŒ¨ã®ã‚¨ãƒ«ãƒ•
-;ã‚¤ãƒãƒ©
+;ˆï‚ÌƒGƒ‹ƒt
+;ƒCƒoƒ‰
 #voice ibaa0001
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€Œâ€¦â€¦ã€
+yHHHzuccv
 
-;ã‚¤ã‚ºãƒŸ
+;ƒCƒYƒ~
 
 #voice izua0001
-ã€Fountain Elfã€‘ã€Have you awaken, Thorn Elfã€
+yò‚ÌƒGƒ‹ƒtzw‹C‚ª‚Â‚«‚Ü‚µ‚½‚©Aˆï‚ÌƒGƒ‹ƒt‚æx
 
-;èŒ¨ã®ã‚¨ãƒ«ãƒ•
-;ã‚¤ãƒãƒ©
+;ˆï‚ÌƒGƒ‹ƒt
+;ƒCƒoƒ‰
 #voice ibaa0002
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€ŒYes, ani-ue.â€¦â€¦just now, the barrier--ã€
+yHHHzu‚Í‚¢AŒZãBcc¡AŒ‹ŠE‚ªv
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;æš—è»¢
+;ˆÃ“]
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;èƒŒæ™¯ï¼šæ³‰ï¼ˆå¤œï¼‰
+;”wŒiFòi–éj
 ;BG:BG03_3
 #cg all clear
 #bg bg03_3
 #wipe fade
 
 ;CHR K01F1B C
-#cg ã‚³ãƒãƒŸ kon_1_01f1b ä¸­
+#cg ƒRƒmƒ~ kon_1_01f1b ’†
 #wipe fade
 
-;æœ¨ã®å®Ÿã®ã‚¨ãƒ«ãƒ•
-;æ–‡å­—æ•°åˆ¶é™ã®ãŸã‚å¤‰æ›´
-;ã‚³ãƒãƒŸ
+;–Ø‚ÌÀ‚ÌƒGƒ‹ƒt
+;•¶š”§ŒÀ‚Ì‚½‚ß•ÏX
+;ƒRƒmƒ~
 #voice kona0001
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€ŒUwaaã€œã€this is the first time I've seen such a huge springã€œã€
+yHHHzu‚¤‚í‚Ÿ`Aƒ{ƒN‚±‚ñ‚È‘å‚«‚¢ò‰‚ß‚ÄŒ©‚½‚æ‚§`v
 
-The elf who stepped into the unknown world let out an exclaimation of admiration.
+–¢’m‚Ì¢ŠE‚É‘«‚ğ“¥‚İ‚¢‚ê‚½ƒGƒ‹ƒt‚ÍŠ´’Q‚Ìº‚ğ˜R‚ç‚µ‚½B
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;èƒŒæ™¯ï¼šæ£®ï¼ˆå¤œï¼‰
+;”wŒiFXi–éj
 ;BG:BG04_3
 #cg all clear
 #bg bg04_3
 #wipe fade
 
-The presence of the irregularity that the small beings noticed, was also known as is by the elves who lived there.
+¬‚³‚ÈÒ‚½‚¿‚ª‹C‚Ã‚¢‚½ˆÙ•Ï‚ÍA‚ ‚è‚Ì‚Ü‚Ü‚É¶‚«‚éƒGƒ‹ƒt‚É‚à‚Ü‚½Šù’m‚Ì‚à‚Ì‚¾‚Á‚½B
 
-For an elf having lived many years, this happening was not the first, but had forgotten after a long while.
+’·‚­¶‚«‚½ƒGƒ‹ƒt‚É‚Í‰‚ß‚Ä‚Ì–Û‚Å‚±‚»‚È‚©‚Á‚½‚ªA’·‚¢‚Ì‚¤‚¿–Y‚ê‚©‚¯‚Ä‚¢‚½‚à‚Ì‚¾B
 
-Some felt anxious as something new was born
-Some felt delight in seeing this world for the first time.
+‚ ‚é‚à‚Ì‚Í•sˆÀ‚ğ•ø‚«AŠu‚Ä‚ç‚ê‚½‚æ‚èV‚µ‚­¶‚Ü‚ê‚½‚ ‚é‚à‚Ì‚Í‰‚ß‚ÄŒ©‚é¢ŠE‚ÉŠ½Šì‚µ‚½B
 
-A life that knew no fear jumped out of the world of limits, and boldly set foot in the unfamiliar land.
+‹°‚ê‚ğ’m‚ç‚È‚¢V‚µ‚¢–½‚ÍŒÀ‚ç‚ê‚½¢ŠE‚ğ”ò‚Ño‚µA‰ÊŠ¸‚ÉŒ©’m‚ç‚Ê’n‚É‘«‚ğ“¥‚İ“ü‚ê‚½B
 
 ;CHR T10F4 C
-#cg ãƒ„ã‚­ãƒ¨ tuk_1_10f4 ä¸­
+#cg ƒcƒLƒˆ tuk_1_10f4 ’†
 #wipe fade
 
-;ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•
-;ãƒ„ã‚­ãƒ¨
+;ƒ_[ƒNƒGƒ‹ƒt
+;ƒcƒLƒˆ
 #voice tuka0001
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€Œâ€¦â€¦ã€
+yHHHzuccv
 
-The expectations from the world seen for the first time was to satisfaction of curiosity and new stimuli.
+‰‚ß‚ÄŒ©‚é¢ŠE‚ÉŠú‘Ò‚·‚é‚Ì‚ÍADŠïS‚Ì[‘«‚ÆV‚½‚È‚éhŒƒB
 
-That was no exception to this cowardly dark elf, whom the elves regarded as should be detested.
+‚»‚ê‚ÍƒGƒ‹ƒt‚½‚¿‚©‚çŠõ‚Ş‚×‚«‚à‚Ì‚Æ‚³‚ê‚½‚±‚Ì‰°•a‚Èƒ_[ƒNƒGƒ‹ƒt‚É‚Æ‚Á‚Ä‚à—áŠO‚Å‚Í‚È‚©‚Á‚½B
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;ï¼¥ï¼¶çµµâ€•â€•EV001ã€ç©ºã‚’è¦‹ä¸Šã’ã‚‹ãƒ’ãƒŠã‚¿ã€
-;å¤œ
+;‚d‚uŠG\\EV001w‹ó‚ğŒ©ã‚°‚éƒqƒiƒ^x
+;–é
 
 ;EVCG EV001B1
-#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev001b1 640 -1200
+#cg ƒCƒxƒ“ƒg ev001b1 640 -1200
 #wipe fade
-;â€»ä¸‹->ä¸Šã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ï¼ˆæœˆã¨ãƒ’ãƒŠã‚¿ã®è‚©ãŒå…¥ã‚‹ç”»è§’ã¾ã§:ï¼‰
+;¦‰º->ãƒXƒNƒ[ƒ‹iŒ‚Æƒqƒiƒ^‚ÌŒ¨‚ª“ü‚é‰æŠp‚Ü‚Å:j
 
-#move ã‚¤ãƒ™ãƒ³ãƒˆ 640 -340 4000
-#move ã‚¤ãƒ™ãƒ³ãƒˆ wait
+#move ƒCƒxƒ“ƒg 640 -340 4000
+#move ƒCƒxƒ“ƒg wait
 
-;åã‚‚ç„¡ãã‚¨ãƒ«ãƒ•
-;ãƒ’ãƒŠã‚¿
+;–¼‚à–³‚«ƒGƒ‹ƒt
+;ƒqƒiƒ^
 #voice hina0001
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€ŒWow wow, this is the world of humansã€
+yHHHzu‚·‚²‚¢‚·‚²‚¢A‚±‚±‚ª‚É‚ñ‚°‚ñ‚Ì‚¹‚©‚¢‚È‚ñ‚¾‚Ÿ‚Áv
 
-The nameless elf celebrated in joy, spread his little arms as if clasping the sky of the human world.
+–¼‚à–³‚«ƒGƒ‹ƒt‚ÍŠ½Šì‚µAlŠÔ¢ŠE‚Ì‹ó‚ğ‘~‚«•ø‚©‚ñ‚Î‚©‚è‚É‚»‚Ì¬‚³‚È˜r‚ğL‚°‚½B
 
-;åã‚‚ç„¡ãã‚¨ãƒ«ãƒ•
-;ãƒ’ãƒŠã‚¿
+;–¼‚à–³‚«ƒGƒ‹ƒt
+;ƒqƒiƒ^
 #voice hina0002
-ã€ï¼Ÿï¼Ÿï¼Ÿã€‘ã€ŒWaaâ€¾ï¼ã€€Will I meet humansï¼Ÿã€€I really want to meet humans quickly--ã€
+yHHHzu‚í‚Ÿ‚ÁI@‚É‚ñ‚°‚ñ‚³‚ñ‚É‚ ‚¦‚é‚©‚ÈH@‚Í‚â‚­‚É‚ñ‚°‚ñ‚³‚ñ‚É‚ ‚¢‚½‚¢‚È‚Áv
 
-The world is wide.
+¢ŠE‚ÍL‚¢B
 
-But, I am little.
+‚³‚ê‚ÇA‰ä‚ç‚Í¬‚³‚¢B
 
-Small little one, be happy.
+‚¢‚Æ¬‚³‚«Ò‚½‚¿‚æAK•Ÿ‚Å‚ ‚êB
 
-Just, be happy.
+‚½‚¾AK•Ÿ‚Å‚ ‚êB
 
-;BGMch1 FOåœæ­¢
+;BGMch1 FO’â~
 #bgm 0 stop 1000
-;BGMch2 FOåœæ­¢
+;BGMch2 FO’â~
 #bgvoice stop
 
-;æš—è»¢
+;ˆÃ“]
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;OPãƒ ãƒ¼ãƒ“ãƒ¼ã‚ã‚Š
+;OPƒ€[ƒr[‚ ‚è
 
 #movie hinatanotuki_op
 
 #mes clear
 
-;jyo01ã¸
+;jyo01‚Ö
 #next jyo01

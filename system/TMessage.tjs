@@ -665,36 +665,16 @@ class TMStrings{
 			}else{
 				//	windowサイズを超えたら禁則処理
 				var endIndex=index;
-
-				// English word wrap by space
-				while(startIndex<index){
+				while(startIndex<=index){
 					//	次の文字とグループまたは行末禁止文字の場合は１文字削る
 					//	行末に \a が来ると行末禁止文字が行末に無いということになるが仕様ってことで
 					//	ex. 文字文字文字（\a
 					if((mstrings[index-1].group&0x7fff)==(mstrings[index].group&0x7fff)||/[(\[{‘“〈《「『【〔（［｛｢]/.test(mstrings[index-1].string)){
 						--index;
-					}else if(mstrings[index-1].string==" "){
-						break;
 					}else{
-						--index;
-					}
-				}  // return index to break line at
-
-				if(index<=startIndex){
-				// Do original wrap if Japanese untranslated
-					index=endIndex;
-					while(startIndex<index){
-					//	次の文字とグループまたは行末禁止文字の場合は１文字削る
-					//	行末に \a が来ると行末禁止文字が行末に無いということになるが仕様ってことで
-					//	ex. 文字文字文字（\a
-						if((mstrings[index-1].group&0x7fff)==(mstrings[index].group&0x7fff)||/[(\[{‘“〈《「『【〔（［｛｢]/.test(mstrings[index-1].string)){
-							--index;
-						}else{
-							break;
-						}
+						break;
 					}
 				}
-
 				if(startIndex==index){
 					//	削りすぎて文字が無くなったら禁則は無視する
 					index=endIndex;
