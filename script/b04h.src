@@ -1,0 +1,553 @@
+
+
+;BGMch2 amb004 停止
+#bgvoice stop
+
+;FACE ON
+#face on
+
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR H01F1_A L
+#cg ヒナタ hin_1_01f1_a 左
+#wipe fade
+
+#voice hinb0358
+【ヒナタ】「ひーなたのーぬのぶくーろは、いいふくろー。なーんでもはーいるーぅ、るるるるるるぅー」
+
+ヒナタは楽しそうに歌いながら、肩掛け布袋から出した石を机の上に積み上げている。
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice konb0328
+【コノミ】「たっくさんはいってるねぇ〜」
+
+;CHR H01F2_A L
+#cg ヒナタ hin_1_01f2_a 左
+#wipe fade
+
+#voice hinb0359
+【ヒナタ】「うん！　たくさんはいるの！　ひとつ、ふたつ……たくさん！」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+
+#voice tikb0289
+【ツキヨ】「ひとーつ、ふたーつ……石が十個も入ってるです、すごいです」
+
+;CHR OFF
+#cg ツキヨ clear
+#wipe fade
+
+;CHR I02F R
+#cg イバラ iba_1_02f 右
+#wipe fade
+
+#voice ibab0332
+【イバラ】「石なんか持ってきてどうするんだ？」
+
+;CHR H08F1_A L
+#cg ヒナタ hin_1_08f1_a 左
+#wipe fade
+
+#voice hinb0360
+【ヒナタ】「ぬのぶくろのなかにいれるんだよ！」
+
+「……別に、どうしても何かを入れなきゃいけないってわけじゃ……」
+
+言ってる傍からヒナタは一旦出した石を肩掛け布袋に戻し、御満悦だ。
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 左
+#wipe fade
+
+#voice hinb0361
+【ヒナタ】「ほーら、いっぱいはいる！」
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0329
+【コノミ】「ヒナタはすっごく嬉しかったんだね〜」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR I01F R
+#cg イバラ iba_1_01f 右
+#wipe fade
+
+#voice ibab0333
+【イバラ】「石なんか持って歩いたって重いだけじゃないか。別に綺麗な石ってわけでもないただの石だし」
+
+;CHR H01F2_A L
+#cg ヒナタ hin_1_01f2_a 左
+#wipe fade
+
+#voice hinb0362
+【ヒナタ】「いっぱいはいったから、いっぱいでてくるよ！」
+
+ヒナタはイバラの言葉なんか耳に入っていないのか、今度は楽しそうに石を取り出している。
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0330
+【コノミ】「ねーねー、ヒナタ〜。その石、何に使うの？」
+
+#voice hinb0363
+【ヒナタ】「ぬのぶくろのなかにいれるの！」
+
+「……飽きるまでは、入れたり出したりするだけで楽しくてしょうがないんだな」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+
+#voice tikb0290
+【ツキヨ】「楽しそう、です」
+
+「あのさ、ヒナタ。石もいいけど、シバグルミとか、カチノミとか、そういう木の実を集めてくるのに使ったらどうかな？」
+
+別にヒナタを便利に使おうってわけじゃないけど、石なんか集めてどうするんだとは思うので、ついつい余計な口出しをしてしまう。
+
+#voice hinb0364
+【ヒナタ】「ほぉう！　そだね！　いっぱいはいるし、おっことさないもんね！　ヒナタいってくるっ！」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+
+#voice tikb0291
+【ツキヨ】「あ、いっちゃったです」
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0331
+【コノミ】「お〜、早い早い〜」
+
+机の上に石を広げたまま、弾丸のようない勢いで森に走っていったヒナタを、俺や皆は呆然と見送ったのだった。
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+
+#voice hinb0365
+【ヒナタ】「ほらほら、シバグルミとカチノミと、ほかにもいっぱいとってきたー！」
+
+ヒナタは戻ってくるなり、机の上で肩掛け布袋を逆さまにした。
+
+肩掛け布袋の中からは無数の雑多な木の実が出てきて、硬い実跳ねて飛び散ってしまう。
+
+「あぁっ！？　そんなにしたら散らかるだろ？」
+
+;CHR H06F2_A C
+#cg ヒナタ hin_1_06f2_a 中
+#wipe fade
+
+#voice hinb0366
+【ヒナタ】「ほわっ！？　タイヘンだ！」
+
+そしてヒナタが集めてきたものといえば……。
+
+シバグルミとカチノミは食べられるけど、スズノネは茹でようが炒ろうが歯が立たないし、ニガシイはアクがすごくて茹でても茹でても苦いんだよな……。
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+
+#voice hinb0367
+【ヒナタ】「ニンゲンさんにぜーんぶあげるね！」
+
+「ありがとう」
+
+スズノネとニガシイはもらっても困るんだけど……好意でくれるって言ってるものを、こっちはいるけどこっちはいらないっていうのもなにか。
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+
+#voice hinb0368
+【ヒナタ】「わーい！　ありがとうっていわれたー！」
+
+ヒナタは喜びながら、また机の上の石をしまい始めた。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A L
+#cg ヒナタ hin_1_01f1_a 左
+;CHR I01F R
+#cg イバラ iba_1_01f 右
+#wipe fade
+
+#voice ibab0334
+【イバラ】「なんだってまた石を入れるのさ」
+
+;CHR H06F2_A L
+#cg ヒナタ hin_1_06f2_a 左
+#wipe fade
+
+#voice hinb0369
+【ヒナタ】「だってせっかくのぬのぶくろなんだよ！　いっぱいなんでもはいるんだよ！？」
+
+#voice ibab0335
+【イバラ】「もっとイイ物を入れればいいじゃないか」
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0370
+【ヒナタ】「いい、もの？」
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K06F R
+#cg コノミ kon_1_06f 右
+#wipe fade
+
+#voice konb0332
+【コノミ】「そうだね〜。ニンゲンくんが食べられるものとか、宝物とか〜」
+
+;CHR H04F1_A L
+#cg ヒナタ hin_1_04f1_a 左
+#wipe fade
+
+#voice hinb0371
+【ヒナタ】「ほ〜ほ〜」
+
+そうだな。ヒナタがこの調子で木の実やら何やらの食料を集めて持ってきてくれたら、俺としてはすごく助かる。
+
+別にこき使おうってつもりじゃないし、そのために布袋を上げたわけじゃないけど。
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0372
+【ヒナタ】「そか。タカラモノいれるのか。タカラモノってなにかな？」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR I01F R
+#cg イバラ iba_1_01f 右
+#wipe fade
+
+#voice ibab0336
+【イバラ】「そりゃ、綺麗なものに決まってるじゃないか」
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice konb0333
+【コノミ】「ヒナタの宝物は、ヒナタが大事に思ってるものだと思うよ〜？」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+
+#voice tikb0292
+【ツキヨ】「珍しいもの、宝物です」
+
+;CHR H06F1_A L
+#cg ヒナタ hin_1_06f1_a 左
+#wipe fade
+
+#voice hinb0373
+【ヒナタ】「わわわ、たいへんだ！　キレイで、だいじで、めずらしいもの……けど、ニンゲンさんはこのふくろにははいらないよ？」
+
+;CHR OFF
+#cg ツキヨ clear
+#wipe fade
+
+;CHR I02F R
+#cg イバラ iba_1_02f 右
+#wipe fade
+
+#voice ibab0337
+【イバラ】「なんでそんなの入れようと思ったんだよ！　それにそんなの綺麗じゃない！」
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0374
+【ヒナタ】「そか。ニンゲンさんはキレイじゃないのか」
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K02F2 R
+#cg コノミ kon_1_02f2 右
+#wipe fade
+
+#voice konb0334
+【コノミ】「ヒナタには大事かもしれないけど、珍しくはないよ〜？」
+
+;CHR H04F1_A L
+#cg ヒナタ hin_1_04f1_a 左
+#wipe fade
+
+#voice hinb0375
+【ヒナタ】「なんで！？　ニンゲンさんはひとりしかいないよっ！？」
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice konb0335
+【コノミ】「ニンゲンくんはひとりだけど〜、村まで行けば人間はいっぱいいるよ〜」
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0376
+【ヒナタ】「おぉ……そだった」
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+
+#voice tikb0293
+【ツキヨ】「ちっちゃくしたら、入るかもしれないです」
+
+;CHR OFF
+#cg ツキヨ clear
+#wipe fade
+
+;CHR I05F R
+#cg イバラ iba_1_05f 右
+#wipe fade
+
+#voice ibab0338
+【イバラ】「ちっちゃくって切るとか、潰すとかか？」
+
+「怖いこというなよ！」
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0377
+【ヒナタ】「ちっちゃくしてもちょっとしかはいらないよね……」
+
+「ヒナタも検討しないでよ！」
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 左
+#wipe fade
+
+#voice hinb0378
+【ヒナタ】「ヒナタわかった！　タカラモノさがしにいくよ！」
+
+ヒナタは立ち上がると、また戸外に飛び出していった。
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋外（昼）
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+
+#voice hinb0379
+【ヒナタ】「タカラモノいっぱいあつめたよ！　ほらー！」
+
+;CHR H07F C
+#cg ヒナタ hin_1_07f 中
+#wipe fade
+
+ヒナタが差し出した肩掛け布袋は何が入っているのか、形が変わるほど中身を詰め込まれていた。
+
+「また、肩掛け布袋がパンパンになってるね。何を集めたの？」
+
+;CHR H08F2 C
+#cg ヒナタ hin_1_08f2 中
+#wipe fade
+
+#voice hinb0380
+【ヒナタ】「うーんとね！　いろいろ！　タカラモノ！」
+
+ヒナタは迷わず、肩掛け布袋をまた逆さにした。
+
+「石にアカマルスグリに……抜け殻？」
+
+;CHR H06F2 C
+#cg ヒナタ hin_1_06f2 中
+#wipe fade
+
+#voice hinb0381
+【ヒナタ】「あぁっ！？　あかいのと、からっぽのムシさんこわれちゃったっ！？」
+
+肩掛け布袋から出したものの惨状に、ヒナタは悲痛な声でうめいた。
+
+硬い石や何かと一緒に詰め込まれたアカマルスグリはつぶれて汁が出てしまっているし、スリナキムシの幼虫のものと思しき抜け殻もバラバラになっている。
+
+「柔らかいものと硬いものを一緒に入れちゃったらしょうがないだろうな」
+
+;CHR H03F1 C
+#cg ヒナタ hin_1_03f1 中
+#wipe fade
+
+#voice hinb0382
+【ヒナタ】「うぅううう〜ムシさんばらばらだー」
+
+「ほら、貸して。中が汚れてると、次にいれたものも汚れちゃうぞ」
+
+俺は肩掛け布袋をヒナタから受け取ると、裏返しにして綺麗にした。
+
+……これは入れていいものと悪いものを教えなきゃダメだな。
+
+「壊れやすいものは入れちゃダメだぞ」
+
+;CHR H02F2 C
+#cg ヒナタ hin_1_02f2 中
+#wipe fade
+
+#voice hinb0383
+【ヒナタ】「こわれやすいもの、ってどのぐらいこわれやすいとダメ？」
+
+「アカマルスグリなんか指でぎゅってするとつぶれちゃうだろ？　抜け殻も軽くつまんだだけでくしゃっといくから入れないほうがいいな」
+
+;CHR H03F1 C
+#cg ヒナタ hin_1_03f1 中
+#wipe fade
+
+#voice hinb0384
+【ヒナタ】「そっかー」
+
+「それから、やる前にいっておくけど、生き物も入れちゃダメだからな」
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0385
+【ヒナタ】「なんで！？」
+
+「ヒナタだって袋かぶせられたりしたら、苦しいし嫌だろ？　ムシとか蛇とか、他の生き物だって一緒なの」
+
+;CHR H04F2 C
+#cg ヒナタ hin_1_04f2 中
+#wipe fade
+
+#voice hinb0386
+【ヒナタ】「ほうほうなるほどー」
+
+「そういうのは宝物だって思っても、肩掛け布袋に入れちゃダメだぞ」
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0387
+【ヒナタ】「じゃあ、なにならいれてもいいの？」
+
+「そうだなぁ。木の実とか、綺麗な石ぐらいにしておきなよ」
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0388
+【ヒナタ】「おぉ、わかった！」
+
+……本当にわかったのかな？
+
+;CHR H06F1_A C
+#cg ヒナタ hin_1_06f1_a 中
+#wipe fade
+
+いまいち不安だけど、嬉々として石を肩掛け布袋に戻し始めたヒナタを、俺は微笑ましい気持ちで見つめた。
+
+これだけ気に入って使ってもらえるなら、肩掛け布袋だって本望だろう。
+
+;ヒナタ好感度+1
+#set f1 f1+1
+
+;b05へ
+#next b05

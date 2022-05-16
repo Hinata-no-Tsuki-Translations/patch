@@ -1,0 +1,86 @@
+//■バックログ
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆バックログ画面の背景設定
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はback固定
+//【color】透過情報つきカラー指定　16進数8ケタ
+//	0x/alpha/red/green/blue
+//【bgimage】背景画像
+//
+//※重なり順は、↓【color】　↑【bgimage】となります
+//※【color】設定は必須　【bgimage】は任意です
+//※【bgimage】を設定し、【color】が邪魔な場合は、【color】0x00000000で設定してください
+
+//layout:	【tag】	【color】
+layout:	back	0xaa000000
+
+//layout:	【tag】	【bgimage】
+//layout: bgimage log_bg
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆メッセージ部分の表示設定
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はmessage固定
+//【x】メッセージの表示位置(x座標)
+//【y】メッセージの表示位置(y座標)
+//【width】メッセージ表示領域の最大横幅
+//【height】メッセージ表示領域の最大縦幅
+//【pitchY】メッセージとメッセージの間隔（行間ではないので注意）
+
+//layout	【tag】	【x】	【y】	【width】	【height】	【pitchY】
+layout:	message	100	60	1080		550		24
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボイス再生マーク
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はvoice固定
+//【image】音声再生マークの画像
+//【x】ボイス再生マークのx座標
+//layout:	【tab】	【image】	【x】
+layout:	voice	log_voice	16
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボイス再生可能メッセージにマウスを乗せたときのメッセージ背景色
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はcursor固定
+//【color】透過情報つきカラー指定　16進数8ケタ
+//	0x/alpha/red/green/blue
+//layout:	【tag】	【color】
+layout:	cursor	0x80808080
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ゲームに戻るボタン
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はreturn固定
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+//button:	return	config_return	0	600	void	void	void
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆スクロールバー
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はscrollbar固定
+//【baseimage】スクロールバーのベース画像
+//【pinimage】スクロールバーのつまみ画像
+//【x】スクロールバーのx座標（ベース画像のx座標）
+//【y】スクロールバーのy座標（ベース画像のy座標）
+//【overSE】スクロールバーにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】スクロールバーを押した際に鳴らすSEファイル名
+//【cursor】スクロールバーにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//slider:	【tag】	【baseimage】	【pinimage】	【x】	【y】	【overSE】	【downSE】	【cursor】
+slider:	scrollbar	log_slider_base	log_slider_pin2	800	24	void	void	void
+

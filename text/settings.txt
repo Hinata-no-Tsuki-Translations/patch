@@ -1,0 +1,61 @@
+//■全体的なゲーム設定
+
+//◆タイトル(タイトルバーに表示されます)
+Title	ひなたのつき
+
+//◆画面サイズ
+CanvasWidth		1280
+CanvasHeight	720
+
+//◆ステータス
+VoiceUse			true	//音声を使用するか
+SaveTitleEnabled	true	//セーブタイトルを使用するか
+StartupScript		start	//最初に実行するスクリプト
+
+//◆メッセージウィンドウ関連
+MessageWindowLeft	4	//メッセージウィンドウ表示位置(x座標)
+MessageWindowTop	512	//メッセージウィンドウ表示位置(y座標)
+MessageOffsetLeft	230	//メッセージウィンドウ内の文字表示位置(x座標)
+MessageOffsetTop	79	//メッセージウィンドウ内の文字表示位置(y座標)
+MessageWidth		780	//文字表示領域の最大横幅
+
+NameWindowLeft		209	//名前ウィンドウの表示位置(x座標)
+NameWindowTop		511	//名前ウィンドウの表示位置(y座標)
+NameOffsetLeft		30	//名前ウィンドウ内の文字表示位置(x座標)
+NameOffsetTop		16	//名前ウィンドウ内の文字表示位置(y座標)
+
+NovelOffsetLeft		50	//ノベルモード時の文字表示位置(x座標)
+NovelOffsetTop		50	//ノベルモード時の文字表示位置(y座標)
+NovelWidth			550	//ノベルモード時の文字表示領域の横幅
+
+PageWaitLeft		820	//キー待ちアイコンの表示位置(x座標 ウィンドウモード時)
+PageWaitTop			170	//キー待ちアイコンの表示位置(y座標 ウィンドウモード時)
+PageWaitDivision	2	//キー待ちアイコンの分割数
+PageWaitSpeed		120	//キー待ちアイコンのアニメスピード（大きいほどゆっくり）
+
+//◆フォントの設定
+FontFace			メイリオ,ＭＳ ゴシック		//フォントファミリーの設定　前に記述したものが優先される　ＭＳ　ゴシックは必ず候補に指定すること！
+FontColor			0x4b1a14					//フォントの色指定（透過情報なし16進数6ケタ）
+FontOutline			false						//袋文字にするか（true=する、false=しない）
+FontOutlineColor	0x000000					//袋文字の色指定（透過情報なし16進数6ケタ）
+FontShadow			true						//フォントに影をつけるか（true=つける、false=つけない）
+FontShadowColor		0xbbbbbb					//影の色指定（透過情報なし16進数6ケタ）
+FontBold			false						//太文字にするか（true=する、false=しない）
+
+//◆セーブ
+QuickSaveOffset		120	//クイックセーブのセーブ番号オフセット
+QuickSaveCount		1	//クイックセーブのセーブ数
+AutoSaveOffset		121	//オートセーブのセーブ番号オフセット
+AutoSaveCount		1	//オートセーブのセーブ数
+
+//◆カーソル(使用しない場合はコメントアウトしてください)
+//CursorDefault		hachu.ani	//標準カーソル
+//CursorDefaultSelect	udonge.cur	//選択肢のカーソル
+//CursorDefaultMap	udonge.cur	//マップのカーソル
+
+//◆ボタン音(デフォルト設定 個別にボタン設定しない場合はこれが自動的に設定されます)
+ButtonOverSE	sysse003		//マウスオーバー時の効果音(voidと書くと無音)
+ButtonDownSE	sysse001		//マウスダウン時の効果音(voidと書くと無音)
+
+//◆初期状態のシステムボイス設定(システムボイスを使用しない場合はdef)
+defaultsysv	def

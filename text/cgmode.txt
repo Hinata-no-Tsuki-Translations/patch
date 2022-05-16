@@ -1,0 +1,176 @@
+//■CGモード画面
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆背景
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//image:	【ファイル名】
+image:	cgmode_bg
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆システムボタン
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】ボタンの種類
+//	page	ページ切り替えボタン
+//	tab	タブの切り替え
+//	return	Sceneモード終了ボタン
+//	bgm	BGMモード画面へ移動するボタン
+//	scene	Sceneモード画面へ移動するボタン
+//【image】ボタン画像
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+//【tag2】ページ切り替えボタンの種類（【tag】でpageかtabを指定した場合のみ）
+//	0～	【tag】tab：タブ番号
+//		【tag】page：ページを直接選択するボタン
+//	back	1つ前の（BGMモード内の）ページ｜タブへ戻るボタンになります
+//	next	1つ後の（BGMモード内の）ページ｜タブへ進むボタンになります
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】	【tag2】
+button:	tab	saveloadpage1		138	105	void	void	void		0
+button:	tab	saveloadpage2		138	155	void	void	void		1
+button:	tab	saveloadpage3		138	205	void	void	void		2
+button:	tab	saveloadpage4		138	255	void	void	void		3
+button:	tab	saveloadpage5		138	305	void	void	void		4
+button:	tab	saveloadpage6		138	355	void	void	void		5
+button:	tab	saveloadpage7		138	405	void	void	void		6
+button:	tab	saveloadpage8		138	455	void	void	void		7
+button:	tab	saveloadpage9		138	505	void	void	void		8
+
+button:	return	config_return		791		607	void	void	void
+button:	title	config_title		913		607	void	void	void
+button:	exit	config_end			1035	607	void	void	void
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆キャプション（現在のページ数を表示する）
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tag】この項目はcaption固定
+//【画像名前の数字を除いた部分】
+//	例）1～5ページのキャプションを次の5画像で表現する場合
+//	　caption1.png caption2.png caption3.png caption4.png caption5.png
+//	　⇒この項目には共通する「caption」を記述してください
+//【x】キャプションの表示位置(x座標)
+//【y】キャプションの表示位置(y座標)
+//layout:	【tag】	【画像名前の数字を除いた部分】	【x】	【y】
+//layout:	all	caption		saveloadpagecaption	700	80
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆レイアウト
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//「サムネイルCG」のレイアウトやSE、カーソル設定を、ここで一括して行います
+//【tag】この項目はpage固定
+//【横】横方向に「サムネイルCG」をいくつ並べるか
+//【縦】縦方向に「サムネイルCG」をいくつ並べるか
+//【x】一番左上の「サムネイルCG」を設置する際のx座標
+//【y】一番左上の「サムネイルCG」を設置する際のy座標
+//【pitchX】横に並んだ「サムネイルCG」と「サムネイルCG」の間隔
+//【pitchY】縦に並んだ「サムネイルCG」と「サムネイルCG」の間隔
+//【overSE】「サムネイルCG」にカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】「サムネイルCG」を押した際に鳴らすSEファイル名
+//【cursor】「サムネイルCG」にカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//layout:	【tag】	【横】	【縦】	【x】	【y】	【pitchX】	【pitchY】	【overSE】	【downSE】	【cursor】
+layout:	page	3	3	cgmode_focus	373	137	255		148		void	void	void
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆サムネイルCG（ボタン）
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【tab】
+//	0～	どのタブに属するかを設定します　タブを使用しない場合は全て0
+//【thumbnail】表示するサムネイル画像
+//【items】サムネイル画像をクリックした際に表示される画像一覧　「,(半角カンマ)」区切りで複数指定できます
+
+//item:	【tab】	【thumbnail】	【items】
+item:	0	ev001		ev001a1,ev001b1,ev001b2,ev001c2
+item:	0	ev002		ev002a1,ev002a2,ev002a3
+item:	0	ev003		ev003a1,ev003a2,ev003a3,ev003a4,ev003b1,ev003b2,ev003b3,ev003b4,ev003c1,ev003c2,ev003c3,ev003c4
+item:	0	ev004		ev004a1
+item:	0	ev005		ev005a1,ev005a2,ev005a3,ev005b1,ev005b2,ev005b3
+item:	0	ev006		ev006a1,ev006a2
+item:	0	ev007		ev007a1
+item:	0	ev008		ev008a1,ev008a2,ev008a3,ev008b1,ev008b2,ev008b3
+item:	0	ev009		ev009a1
+
+item:	1	ev010		ev010a1,ev010b1,ev010c1
+item:	1	ev011		ev011a1,ev011a2,ev011a3,ev011b1,ev011b2,ev011b3
+item:	1	ev012		ev012a1,ev012a2
+item:	1	ev013		ev013a1,ev013a2
+item:	1	ev014		ev014a1,ev014a2,ev014a3,ev014b1,ev014b2
+item:	1	ev015		ev015a1,ev015a2,ev015a3,ev015b1,ev015b2,ev015b3,ev015b4,ev015b5,ev015c1,ev015c2
+item:	1	ev016		ev016a1,ev016a2
+item:	1	ev017		ev017a1,ev017a2,ev017a3
+item:	1	ev018		ev018a1,ev018a2,ev018a3
+
+item:	2	ev019		ev019a1
+item:	2	ev020		ev020a1,ev020a2,ev020a3,ev020b1,ev020b2,ev020b3,ev020c1,ev020c2,ev020c3
+item:	2	ev021		ev021a1,ev021a2,ev021a3,ev021a4,ev021a5,ev021a6,ev021b1,ev021b2,ev021b3
+item:	2	ev022		ev022a1,ev022a2,ev022a3,ev022b1,ev022b2,ev022b3
+item:	2	ev023		ev023a1,ev023a2
+item:	2	ev024		ev024a1,ev024a2,ev024a3,ev024b1,ev024b2,ev024b3
+item:	2	ev025		ev025a1,ev025a2,ev025a3,ev025a4,ev025b1,ev025b2
+item:	2	ev026		ev026a1,ev026a2,ev026a3
+item:	2	ev027		ev027a1,ev027a2,ev027a3,ev027b1,ev027b2,ev027c1,ev027c2
+
+item:	3	ev028		ev028a1,ev028b1,ev028c1
+item:	3	ev029		ev029a1
+item:	3	ev030		ev030a1,ev030a2,ev030a3,ev030b1,ev030b2,ev030c1
+item:	3	ev031		ev031a1,ev031b1,ev031b2,ev031c1
+item:	3	ev032		ev032a1,ev032a2
+item:	3	ev033		ev033a1,ev033a2,ev033a3
+item:	3	ev034		ev034a1,ev034a2,ev034b1,ev034b2,ev034c1
+item:	3	ev035		ev035a1,ev035a2,ev035a3,ev035b1,ev035b2
+item:	3	ev036		ev036a1
+
+item:	4	ev037		ev037a1,ev037a2,ev037a3,ev037b1,ev037b2,ev037b3,ev037b4,ev037b5,ev037b6
+item:	4	ev038		ev038a1,ev038a2,ev038a3,ev038b1,ev038b2,ev038b3,ev038c1,ev038c2,ev038d1,ev038d2,ev038d3
+item:	4	ev039		ev039a1,ev039a2,ev039a3,ev039a4,ev039a5,ev039a6,ev039a7,ev039b1,ev039b2,ev039b3,ev039b4
+item:	4	ev040		ev040a1
+item:	4	ev041		ev041a1,ev041a2,ev041a3,ev041b1,ev041b2,ev041b3,ev041c1,ev041c2,ev041c3,ev041d1,ev041d2,ev041d3
+item:	4	ev042		ev042a1,ev042a2
+item:	4	ev043		ev043a1,ev043a2,ev043a3,ev043a4
+item:	4	ev044		ev044a1
+item:	4	ev045		ev045a1,ev045b1,ev045b2,ev045b3,ev045c1,ev045c2,ev045c3
+
+item:	5	ev046		ev046a1,ev046b1,ev046c1,ev046c2,ev046c3,ev046d1,ev046d2,ev046d3,ev046d4
+item:	5	ev047		ev047a1,ev047a2,ev047a3,ev047a4
+item:	5	ev048		ev048a1,ev048a2,ev048b1,ev048c1
+item:	5	ev049		ev049a1,ev049a2,ev049a3,ev049a4,ev049b1,ev049b2,ev049b3
+item:	5	ev050		ev050a1,ev050a2
+item:	5	ev051		ev051a1,ev051a2,ev051b1
+item:	5	ev052		ev052a1
+item:	5	ev053		ev053a1,ev053a2,ev053a3
+item:	5	ev054		ev054a1,ev054a2,ev054b1,ev054b2,ev054c1,ev054c2,ev054d1
+
+item:	6	ev055		ev055a1,ev055a2,ev055a3,ev055b1,ev055b2,ev055b3,ev055c1,ev055c2
+item:	6	ev056		ev056a1,ev056a2,ev056b1,ev056b2
+item:	6	ev057		ev057a1,ev057a2,ev057b1,ev057b2,ev057b3,ev057b4,ev057b5
+item:	6	ev058		ev058a1,ev058a2
+item:	6	ev059		ev059a1,ev059a2,ev059a3,ev059b1,ev059b2,ev059b3
+item:	6	ev060		ev060a1
+item:	6	ev061		ev061a1
+item:	6	ev062		ev062a1,ev062a2,ev062a3,ev062b1,ev062c1,ev062c2,ev062c3,ev062c4
+item:	6	ev063		ev063a1,ev063a2,ev063a3,ev063a4,ev063b1,ev063b2,ev063b3,ev063c1,ev063c2,ev063c3
+
+item:	7	ev064		ev064a1,ev064a2
+item:	7	ev065		ev065a1,ev065a2,ev065b1,ev065b2
+item:	7	ev066		ev066a1,ev066a2,ev066b1,ev066b2,ev066c1,ev066c2,ev066c3
+item:	7	ev067		ev067a1,ev067a2,ev067a3,ev067b1,ev067b2,ev067b3,ev067c1,ev067c2
+item:	7	ev068		ev068a1,ev068a2,ev068a3,ev068a4,ev068b1,ev068b2,ev068b3,ev068c1,ev068c2,ev068c3
+item:	7	ev069		ev069a1
+item:	7	ev070		ev070a1,ev070a2,ev070b1,ev070b2,ev070c1,ev070c2
+item:	7	ev071		ev071a1,ev071a2,ev071a3,ev071a4,ev071b1,ev071b2,ev071b3,ev071c1,ev071c2,ev071c3
+item:	7	ev072		ev072a1,ev072a2
+
+item:	8	ev073		ev073a1
+item:	8	ev074		ev074a1,ev074a2
+item:	8	ev075		ev075a1,ev075a2,ev075a3,ev075a4,ev075b1,ev075b2,ev075b3,ev075b4
+item:	8	ev076		ev076a1,ev076a2,ev076a3,ev076a4,ev076b1,ev076b2,ev076b3,ev076c1,ev076c2,ev076c3,ev076d1,ev076d2,ev076d3,ev076d4,ev076e1,ev076e2,ev076e3
+item:	8	ev077		ev077a1,ev077a2,ev077a3,ev077b1,ev077b2,ev077b3
+item:	8	ev078		ev078a1,ev078b1,ev078b2,ev078b3,ev078c1,ev078c2,ev078c3,ev078d1,ev078d2,ev078e1
+item:	8	ev079		ev079a1,ev079b1,ev079c1
+item:	8	ev080		ev080a1,ev080a2,ev080a3,ev080b1,ev080b2,ev080b3,ev080b4

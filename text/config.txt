@@ -1,0 +1,300 @@
+//■コンフィグ画面設定
+//コンフィグ画面は、「system」と「sound」の2ページに分かれています
+//それぞれのアイテムがどちらに属するかは【page】のパラメータを参照してください
+//【page】allは「system」「sound」両方に属します
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆背景
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【page】
+//	system	システム関連の設定ページ
+//	sound	音関連の設定ページ
+//【image】背景画像
+//【x】背景画像の表示位置(x座標)
+//【y】背景画像の表示位置(y座標)
+
+//image:	【page】	【image】	【x】	【y】
+image:	system	config_base_system	0	0
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆ボタン1(設定があまり複雑ではないボタン群)
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【page】と【tag】は、それぞれ以下の組み合わせで設定してください
+//
+//	【page】	【tag】
+//	all	system			システム設定画面に切り替え
+//	all	sound			サウンド設定画面に切り替え
+//	all	systemtitle		タイトルへ戻る
+//	all	save			セーブ画面へ移動
+//	all	load			ロード画面へ移動
+//	all	config			コンフィグ画面へ移動
+//
+//	system	fullscreen:false	ウィンドウモード
+//	system	fullscreen:true		フルスクリーンモード
+//	system	movieoff:false		ムービーを再生する
+//	system	movieoff:true		ムービーを再生しない
+//	system	effectoff:fasle		画面効果を実行する
+//	system	effectoff:true		画面効果を実行しない
+//	system	skipoff:false		選択後のスキップを継続する
+//	system	skipoff:true		選択後のスキップを停止する
+//	system	autooff:false		選択後のオートを継続する
+//	system	autooff:true		選択後のオートを停止する
+//	system	kidokuoff:false		既読メッセージのみスキップ
+//	system	kidokuoff:true		全てのメッセージをスキップ
+//	system	fontface		フォント変更（ボタンを押したら、変更ダイアログが表示されます）
+//system	fontbold		太字設定（ボタン1つでON/OFFを切り替えるタイプで、画像が2つ必要になります　【cursor】の後ろにパラメータを1つし、OFF時のボタン画像を別途指定してください）
+//
+//	system	righthide		右クリックに「ウィンドウ消去」を割り当てる
+//	system	rightlog		右クリックに「ログ表示」を割り当てる
+//	system	rightconfig		右クリックに「コンフィグ表示」を割り当てる
+//
+//	system	systemreset		system項目を初期設定に戻す(system)
+//	system	systemreturn		Config終了
+//	system	systemtitle		タイトルへ戻る
+//
+//	sound	setest_ファイル名	SEのテスト再生ボタン（SEトラック10を使用します　この機能を使用する場合、ゲーム中でSEトラック10は使用しないでください）
+//	sound	cvtest_ファイル名	キャラクターボイスのテスト再生ボタン（キャラ個別の設定が反映されないように、ファイル名はこの項目専用の一意のファイル名を使用してください）
+//	sound	bgvtest_ファイル名	バックグラウンドボイステスト再生ボタン（キャラ個別の設定が反映されないように、ファイル名はこの項目専用の一意のファイル名を使用してください）
+//	sound	voicecut:false		文章送り時に音声を継続
+//	sound	voicecut:true		文章送り時に音声を停止
+//	sound	soundreset		初期設定に戻す(sound)
+//	sound	soundreturn		Config終了
+//
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+//button:	all	system			config_system		660	40	void	void	void
+//button:	all	sound			config_sound		840	40	void	void	void
+//button:	all	save			button_save			840	10	void	void	void
+//button:	all	load			button_load			900	10	void	void	void
+//button:	all	config			button_system		960	10	void	void	void
+
+button:	system	kidokuoff:false		config_kidoku		192	293	void	void	void
+button:	system	kidokuoff:true		config_midoku		290	293	void	void	void
+
+button:	system	skipoff:true		config_on			192	353	void	void	void
+button:	system	skipoff:false		config_off			290	353	void	void	void
+
+button:	system	fullscreen:false	config_window		192	499	void	void	void
+button:	system	fullscreen:true		config_fullscreen	298	499	void	void	void
+
+button:	all	systemreturn	config_return		791		607	void	void	void
+button:	all	systemtitle		config_title		913		607	void	void	void
+button:	all	exit			config_end			1035	607	void	void	void
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆スライダー
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//【page】と【tag】は、それぞれ以下の組み合わせで設定してください
+//
+//	【page】	【tag】
+//	system	messagespeed		メッセージ速度の変更
+//	system	autospeed		オートモードの速度変更
+//
+//	sound	mastervolume		マスター音量変更
+//	sound	bgmvolume		BGM音量変更
+//	sound	sevolume		SE音量変更
+//	sound	voicevolume		Voice音量変更
+//	sound	bgvoicevolume		BGV(バックグラウンドボイス)音量変更
+//
+//【baseimage】スライダーのベース画像
+//【pinimage】スライダーのつまみ画像
+//【x】スライダーのx座標（ベース画像のx座標）
+//【y】スライダーのy座標（ベース画像のy座標）
+//【overSE】スライダーにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】スライダーを押した際に鳴らすSEファイル名
+//【cursor】スライダーにカーソルを乗せた際のマウスカーソルの形状
+//【vertical】スライダーの向き
+//	vertical	縦方向
+//	省略		横方向
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsettings.txtで指定したデフォルト設定になります
+
+//slider:	【page】	【tag】	【baseimage】	【pinimage】	【x】	【y】	【overSE】	【downSE】	【cursor】	【vertical】
+slider:	system	autospeed		config_slider_base	config_slider_pin	192 194	void	void	void
+slider:	system	messagespeed	config_slider_base	config_slider_pin	192 243	void	void	void
+
+slider:	system	bgmvolume		config_slider_base	config_slider_pin	538 194	void	void	void
+slider:	system	sevolume		config_slider_base	config_slider_pin	538 243	void	void	void
+slider:	system	bgvoicevolume	config_slider_base	config_slider_pin	538	293	void	void	void
+slider:	system	voicevolume		config_slider_base	config_slider_pin	538 343	void	void	void
+
+//メッセージウィンドウ透過度
+slider:	system	winopacity	config_slider_base	config_slider_pin	192	559	void	void	void
+
+//slider:	sound	mastervolume	config_slider_base	config_slider_pin	80	120	void	void	void
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆サンプルウィンドウ設定
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//メッセージ速度やオート待ち時間、メッセージウィンドウの透過情報のサンプルを表示するための設定です
+
+//▼サンプル背景
+//【page】system固定
+//【tag】samplebg固定
+//【image】背景画像(3つの背景画像(同サイズ)を横方向に連結した画像を用意してください)
+//【x】背景画像の表示位置(x座標)
+//【y】背景画像の表示位置(y座標)
+//sample:	【page】	【tag】	【image】	【x】	【y】
+//sample:	system	bg	samplebg	550	300
+
+//▼サンプルのメッセージウィンドウ
+//【page】system固定
+//【tag】window固定
+//【image】サンプルメッセージウィンドウ画像
+//【x】サンプルメッセージウィンドウの表示位置(x座標)
+//【y】サンプルメッセージウィンドウの表示位置(y座標)
+//sample:	【page】	【tag】	【image】	【x】	【y】
+//sample:	system	window	samplewindow	550	300
+
+//▼サンプル背景の切り替えボタン
+//【page】system固定
+//【tag】
+//	samplebg1	3連結しているサンプル背景の一番左の背景に対応します
+//	samplebg2	3連結しているサンプル背景の真ん中の背景に対応します
+//	samplebg3	3連結しているサンプル背景の一番右の背景に対応します
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+//button:	system	samplebg1	button_sample1		814	420	void	void	void
+//button:	system	samplebg2	button_sample2		875	420	void	void	void
+//button:	system	samplebg3	button_sample3		936	420	void	void	void
+
+//▼サンプルウィンドウに表示する文字の設定
+//【message】表示したい文字(任意改行・ルビ・半角スペースは使用できません)
+//【max】1行の最大表示文字数
+//【x】最初の1文字の表示位置(x座標 サンプルウィンドウ内における座標になります)
+//【y】最初の1文字の表示位置(y座標 サンプルウィンドウ内における座標になります)
+//message:	【message】	【max】	【x】	【y】
+//message:	メッセージ表示スピードのサンプルです。末端はオート待ち時間設定分だけ待ちます。	15	40	34
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆システムボイス設定ボタン設定
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//各ボタンの【overSE】【downSE】といった音声ファイル指定箇所で「***_test」のように設定すると、ここで指定した【tag】「sysvoice_***」の後ろの3文字が「***」の部分当てはまる形で再生されます
+//例えば、【tag】「sysvoice_aki」のボタンが押された場合、「***_test」の箇所は「aki_test」として音声ファイルが再生されます
+//【tag】「sysvoice_def」だけは特殊で、「def_test」というSEを再生するのではなく、「settings.txt」で設定したデフォルトのボタン音が使用されます
+//「settings.txt」の「defaultsysv」で、ゲーム初回起動時のシステムボイスをデフォルト設定できます
+
+//【page】sound固定
+//【tag】
+//	sysvoice_***	***の部分に任意の文字を設定してください
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+//button:	sound	sysvoice_def	sysv_def	560	295	void	void	void
+//button:	sound	sysvoice_aki	sysv_aki	670	295	void	void	void
+//button:	sound	sysvoice_bki	sysv_bki	780	295	void	void	void
+//button:	sound	sysvoice_cki	sysv_cki	890	295	void	void	void
+
+
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//◆キャラ個別ボイス設定
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//キャラ個別ボイス設定を行うには、キャラクターボイス(以下CV)のファイル名について、
+//「頭3文字でどのキャラのCVか判別できる」必要があります
+//例）
+//○【花子】CV：han0000、han0001、han0002、han0003、...
+//○【次郎】CV：jir_0000、jir_0001、jir_0002、jir_0003、...
+//×【ジル】CV：jir_0000、jir_0001、jir_0002、jir_0003、...	頭3文字「jir」で【次郎】と判別がつかない！
+//
+//以下、説明で「***」とある部分は、設定したいCVのファイル名の頭3文字を設定してください
+
+//▼キャラ個別ボイスのON/OFF切り替えボタン(ONだとゲーム中でそのキャラのボイスが再生される OFFだとその逆)
+//【page】sound固定
+//【tag】
+//	voiceoff_***		■　1つのボタンでON/OFFの切り替えを行う(1回押す毎にON/OFFが切り替わる 画像そのものは2つ用意する必要があります)
+//	voiceoff_***:false	■□ONボタン(OFFボタンと対になるボタン)
+//	voiceoff_***:true	□■OFFボタン(ONボタンと対になるボタン)
+//【image】ボタン画像（【tag】が「voiceoff_***」だった場合は、ON状態のボタン画像）
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+//【image2】【tag】が「voiceoff_***」だった場合は、OFF状態のボタン画像(それ以外の時は省略)
+
+//※キャラ個別ボイスの設定を行わなかったCVは、自動的にON設定になります
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】	【image2】
+//button:	sound	voiceoff_aki	config_smallon		740	130	void	void	void	config_smalloff
+//button:	sound	voiceoff_bki	config_smallon		740	170	void	void	void	config_smalloff
+//button:	sound	voiceoff_cki	config_smallon		740	210	void	void	void	config_smalloff
+//button:	sound	voiceoff_cki:false		config_smallon		740	210	void	void	void
+//button:	sound	voiceoff_cki:true		config_smalloff		860	210	void	void	void
+
+
+//▼キャラ個別CVテスト再生ボタン
+//【page】sound固定
+//【file】
+//	cvtest_再生したいCVファイル名	キャラ個別ボイスの設定の適応テストになるので、CVファイル名は命名規則に則ったものを使用してください
+//【image】ボタン画像
+//【x】ボタンの表示位置(x座標)
+//【y】ボタンの表示位置(y座標)
+//【overSE】ボタンにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】ボタンを押した際に鳴らすSEファイル名(ほとんどの場合はoff固定になると思われます)
+//【cursor】ボタンにカーソルを乗せた際のマウスカーソルの形状
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//button:	【page】	【file】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
+//button:	sound	cvtest_aki_0003	config_vtest	700	137	void	off	void
+//button:	sound	cvtest_bki_0003	config_vtest	700	177	void	off	void
+//button:	sound	cvtest_cki_0003	config_vtest	700	217	void	off	void
+
+
+//▼キャラ個別CVボリューム設定スライダー
+//【page】sound固定
+//【tag】charvolume_***
+//【baseimage】スライダーのベース画像
+//【pinimage】スライダーのつまみ画像
+//【x】スライダーのx座標（ベース画像のx座標）
+//【y】スライダーのy座標（ベース画像のy座標）
+//【overSE】スライダーにカーソルを乗せた際に鳴らすSEファイル名
+//【downSE】スライダーを押した際に鳴らすSEファイル名
+//【cursor】スライダーにカーソルを乗せた際のマウスカーソルの形状
+//【vertical】スライダーの向き
+//	vertical	縦方向
+//	省略		横方向
+
+//※【overSE】【downSE】は、offを指定するとSEを鳴らさないように設定できます
+//※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
+
+//slider:	【page】	【tag】	【baseimage】	【pinimage】	【x】	【y】	【overSE】	【downSE】	【cursor】	【vertical】
+slider:	system	charvolume_hin	config_slider_base	config_slider_pin	867	194	void	void	void
+slider:	system	charvolume_iba	config_slider_base	config_slider_pin	867	243	void	void	void
+slider:	system	charvolume_kon	config_slider_base	config_slider_pin	867	293	void	void	void
+slider:	system	charvolume_tuk	config_slider_base	config_slider_pin	867	343	void	void	void
+
