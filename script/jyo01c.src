@@ -6,36 +6,36 @@
 #cg イベント ev002a1 背景
 #wipe fade
 
-「やっ……たっ……とぅ……ぐぬぬ、結構硬いな」
+「Yaa……Taa……Too……Gununu、it's quite tough」
 
 #voice hina0020
-【？？？】「がんばれ、がんばれ、おにいさーん」
+【？？？】「Go, go, Onii-san」
 
-「あぁ、もう気が抜けるなぁ！」
+「Aa, I give up!」
 
-小刀一本で吊るされている子を助けようとする俺にも蔦の魔物は絡みついてくる。
+I too became entwined with the ivy monster as I tried to help the child with a single knife.
 
-けど、思ったよりは危なくなさそうだ。
+But, it looks less dangerous than I expected.
 
-それほど力が強いわけでもないので、どうにか対処できるだろう。硬いって言っても刃物が通らないほど切れない硬さってわけでもないし。
+It's not that strong, so I'll be able to deal with it somehow. Even if it is hard, it is not as hard that a blade cannot cut it.
 
-切った後の蔦は、植物と変わりないようで動かなくなったからどんどん切っていけば、いつかは終わるだろう。
+After cutting, the ivy seems to be the same as normal plants and stops moving, so if I continuing cutting it, it should end someday.
 
 
-刃物さえ持っていれば、縊り殺される前に逃げられそうだ。
+With a knife, it's more likely to escape before being strangled.
 
-これなら、この子を助けることは可能だろう。
+With this, it would be possible to help this child.
 
-後はどこを切るのが効率的かさえ考えながら動けば……。
+After that, if I move while thinking about where it is efficient to cut……
 
 #voice hina0021
-【？？？】「……お？　おぉ〜……」
+【？？？】「……Oo？　Ooo〜……」
 
-ぶらーんと、ぶら下がっている子がぐっと地面に近付く。
+The hanging child gets much closer to the ground.
 
-「もう少しか」
+「Just a little more」
 
-ぶつん、といい手ごたえがして、ぶら下がっている子を切り落とせた。
+Butsun! The hanging child dropped to the ground with one good cut.
 
 
 ;SE se016 ドスン 再生
@@ -49,7 +49,7 @@
 
 #face on
 
-どたっと音を立てて落ちた子は、座り込んだまま泣き声をあげた。
+The child who fell with a slamming noise sat up and cried.
 
 ;※立ち表示　ファイル　位置（L:C:R）フェイス指定がない場合は立ち表示と同じフェイス
 ;CHR H03F1 C
@@ -59,9 +59,9 @@
 #face f_hin_0_03f1 94 466
 
 #voice hina0022
-【？？？】「あ、あいたたたた……ふぇーん、おっこちたよぉ。じめんにぶつけたー」
+【？？？】「Aa、ah oww oww……fueeen, I fell. Hit against the groundー」
 
-「ばかっ！　泣くのは後にして早く逃げなきゃ！　また捕まる気か！？」
+「Bakaa! Save your crying for later, run! Do you want to be caught again!?」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
@@ -70,9 +70,9 @@
 #face f_hin_0_06f1 94 466
 
 #voice hina0023
-【？？？】「……お？　おぉ〜……」
+【？？？】「……Oo？　Oooo〜……」
 
-俺は荷物を抱え、ぶら下がっていた子の首根っこを掴むと、蔦の魔物から急いで距離をとった。
+I held my luggage, grabbed the hanging child's nape, and fled from the ivy monster.
 
 ;背景：森A（昼）
 ;BG BG04_1
@@ -86,11 +86,11 @@
 #face f_hin_0_01f1 94 466
 
 #voice hina0024
-【？？？】「きゃはははははー、はやいはやい、もっともっとぉ！」
+【？？？】「Gyahahahahahaー, faster, faster!」
 
-なんでぶら下げられて喜んでるんだ、この子は。
+Why are you happy to be hanging, this kid.
 
-魔物が見えなくなったこともあり、思わず脱力して手を離した。
+As the monster faded into the distance, I involuntarily weakened and let go.
 
 ;SE se016 ドスン 再生
 #se 1 se016
@@ -102,11 +102,11 @@
 #face f_hin_0_06f1 94 466
 
 #voice hina0025
-【？？？】「うにゃっ！　なんでペイってしたの？　ひどいよぉ、おにいさん！！」
+【？？？】「Unyaaa! なんでペイってしたの! That's mean, onii-san!!」
 
-俺の手から離れるままに、コロンコロンと転がっていった子は抗議の声を上げた。
+Keeping away from my hands, the child who was rolling around screamed in protest.
 
-「俺だって疲れてるんだし、そんなに元気があるなら自分で走ってよ」
+「I'm also tired too, if you're so energetic, run on your own」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
@@ -115,9 +115,9 @@
 #face f_hin_0_04f1 94 466
 
 #voice hina0026
-【？？？】「うにゅう？」
+【？？？】「Unyuuu？」
 
-その子は何を言われているのかわからないと言った顔で、小首をかしげた。
+The child tilted her head with a face that said she didn't know what he was saying.
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -126,13 +126,13 @@
 #face f_hin_0_08f1 94 466
 
 #voice hina0027
-【？？？】「だってはやいはやいなの、すっごくたのしかったんだよっ！？　おにいさんあしはやいし、ちからもちさんなんだねっ」
+【？？？】「But it was fast fast, and it was very fun!? Onii-san's legs are fast, Onii-san is a strong person, aren't you」
 
-「……そりゃどうも」
+「……Well, thanks」
 
-多分褒められてるんだろうけど、何が『だって』なのかはよくわからない。
+I'm probably being complimented, but I'm not sure why "but".
 
-どうも力の抜ける子だなぁ。
+Thanks weak child.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -141,20 +141,20 @@
 #face f_hin_0_01f1 94 466
 
 #voice hina0028
-【？？？】「そだ、ねぇねぇ。おにいさんは、ニンゲンさん？」
+【？？？】「Oh right, is Onii-san human?」
 
-「俺が、魔物や怪物か何かに見える？」
+「Do I look like a monster to you?」
 
-突飛すぎる質問に聞き返すと、捕まっていた子はぶんぶんと首を横に振る。
+At my response to the extraordinary question, the captured child shook her head.
 
 #face f_hin_0_01f1 94 466
 
 #voice hina0029
-【？？？】「けど、きいてみないとわかんないでしょお！」
+【？？？】「But, if I don't ask I won't know right!」
 
-そりゃそうだ……そんなこと聞かなくてもわかりそうなものだと思うけど。
+That's right…… but I think it's easy to understand without asking that.
 
-「けど、もし悪い魔物が人間を騙そうとしてたら、やっぱり自分は人間だっていうんじゃないかな？」
+「But, if an evil monster tries to deceive humans, it'll say that it's human」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
@@ -163,13 +163,13 @@
 #face f_hin_0_06f1 94 466
 
 #voice hina0030
-【？？？】「まもの、ニンゲンだますの！？　いいまものとわるいにんげんならどうなの！？」
+【？？？】「Monsters will deceive humans!? What about good monsters and bad humans!?」
 
-また変なところに引っかかるもんだな。
+I'm stuck having been asked something strange again.
 
-「それじゃ、君の方が人間じゃないとでもいうのかな……」
+「Then, is it that you're not human……」
 
-話をしているのも疲れて、ため息交じりに聞くと――。
+I was tired of talking, and when I listened with a sigh――。
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -178,11 +178,11 @@
 #face f_hin_0_08f1 94 466
 
 #voice hina0031
-【？？？】「うん！　ぼくニンゲンじゃないよっ！」
+【？？？】「Yep! I'm not human!」
 
-……思いっきり元気よく返事したよ。
+……she replied with full of energy.
 
-「うそぉ……」
+「It can't be……」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -191,16 +191,16 @@
 #face f_hin_0_01f1 94 466
 
 #voice hina0032
-【？？？】「ぼくうそなんかつかないよっ！？　うわぁ、ぼくニンゲンさんてはじめてみたよ！」
+【？？？】「I'm not lying!? Uwaaa, it's the first time I've met a human!」
 
 #face f_hin_0_01f1 94 466
 
 #voice hina0033
-【？？？】「ニンゲンさんは、ヤバンでこわいんだよねっ！？」
+【？？？】「Humans are primitive and scary, right!?」
 
-「えぇっ！？　魔物から助けた恩人だぞ俺」
+「Ehh!? Said from a monster to a human who saved you」
 
-恩を着せたいわけじゃないけど、曲がりなりにも恩人に向かって野蛮で怖いっていうのはあんまりじゃないだろうか。
+I don't want to make her feel grateful, but I don't think a savior should be made out to be savage and scary.
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
@@ -209,45 +209,45 @@
 #face f_hin_0_06f1 94 466
 
 #voice hina0034
-【？？？】「おぉ、そっか！　じゃ、ニンゲンさんはやさしいねっ！？　やさしいニンゲンさんもいるんだねえ」
+【？？？】「Ooo, that's right! Then, humans are kind people!?　There are kind humans too」
 
-自称人間じゃない子は、好奇心一杯の顔でニコニコしながら、俺の周りをくるくると回りだした。
+The self-proclaimed-non-human child started running circles around me, smiling with a face brimming with curiosity.
 
-「野蛮で怖いって……そりゃ、人によっては間違ってないだろうけど……」
+「Savage and scary……That is not wrong for some humans……」
 
-自分がエルフか何かのつもりなのかな。そりゃ、同じ人間だって言うのが信じられないくらいに美しい容姿をしているけど……。
+I wonder if she'll say she's an elf or something. Well, she looks so beautiful it's difficult to believe she's human……
 
-それに耳も変わった形をしていると言えば、少し尖っている気もするけど、個人差で片づけられると言えばそんな気もする。
+Also her ears are an odd shape, a little pointed, but might be explainable by individual differences, I feel.
 
-……まさか、噂にしか聞かないような、エルフになんてそうそう会えるわけもないか。
+……It can't be, that I've met an elf, when I have only heard of elves in rumours?
 
-まして、子どものエルフに会ったなんて話は聞いたこともない。
+Moreover, I have never heard of anyone meeting a child elf.
 
-エルフっていうのは、向こうが望んで人間と交易しようとか思わない限り、簡単に会えるもんじゃないって話だ。
+Elves aren't easy to meet unless they wish to interact with humans, which is unthought of.
 
-そんな生き物をどうやって捕まえるものなんだか……。どこからどこまでも遠い世界の話にしか思えない。
+How do you catch such a creature……. It can't be anything but the story of a faraway world.
 
-美しさもさることながら、そう出くわすものじゃないからこそ、都会じゃえらく高値がつくって話なんだよな？
+Putting it's beauty aside, it's not something that you'll come across easily, so it's a story to make prices high in the city, right?
 
-だったら、こんな偶然ひょっこり会えるってもんじゃないだろう。
+If so, I wouldn't be able to meet any by chance like this.
 
-……夢見がちな子がエルフごっこをしている、という路線が一番ありそうだ。
+……The most likely possibility is that a daydreamy child is play-pretending to be an elf.
 
-ごっこ遊びをするには少し大きいような気もするけど、子どもの考えることなんてよくわからないしな。
+I think she's a little big to play pretend, but I don't really understand what children think.
 
-……身なりは質素だけど、お金持ちの子か何かなのかな。
+……Her appearance is simple, but I wonder if she's a rich child.
 
-それならこのどこか素っ頓狂な態度も納得できなくもない……か？
+If so, I can understand this crazy attitude somewhat……eh？
 
-金持ちの子だから、おかしな人についていかないように『他人は怖い』って言い聞かせられてたとか……。
+A rich child would be told 『strangers are scary』 so as not to follow strange people……
 
-だからって「お前は人間じゃない」なんて教えるもんだろうか。
+Will they go to the extent of teaching them「You're not human」?
 
-いや、こんなに可愛い子なら金持ちじゃなくても、人攫いに遭うのを危惧するのも不思議はない……か？
+Wait, such a cute child even if she's not rich, wouldn't she be afraid of being kidnapped?
 
-お菓子でもあげたら簡単についてきちゃいそうだしなぁ。
+It seems that if you give her sweets, she will follow you easily.
 
-「君、どこから来たの？」
+「You, where did you come from?」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
@@ -256,53 +256,53 @@
 #face f_hin_0_07f 94 466
 
 #voice hina0035
-【？？？】「あっち！」
+【？？？】「Over there!」
 
-元気よく指差したのは、ここよりもさらに深い、腕っこきの狩人でも入らない暗い森の方角だ。
+He pointed vigorously in the direction of the dark forest, which is deeper than here and cannot be entered by even a skilled hunter.
 
-「あっち？」
+「Over there?」
 
-暗い森と村人たちが呼ぶ森の奥は、昼でも薄暗いくらいに木々が生い茂っている。
+In the depths of the forest, which the villagers call a dark forest, trees have grown so thick such that it's dark even in the daytime.
 
-魔物や怪物の噂はもちろん、一日中同じところをぐるぐる歩かされ、森を抜けたらまっすぐ行っても十日もかかるような遠くの集落だった、なんて噂も絶えない。
+There are rumors of monsters, as well as rumors that it causes people to walk around the same place all day long, and it would take ten days to go straight through the forest.
 
-まさか本当にそんなことが起きるとは思わないけど、そのぐらい不思議な噂が絶えない森なのだ。
+I don't think that's actually going to happen, but it's a forest with such mysterious rumors.
 
-村人たちも入りたがらないから、俺もそのあたりを拠点にしようとは思っていたけど、そんなところに屋敷があったのか。
+The villagers didn't want to enter, so I was thinking of using that area as a base, but was there a mansion in that place?
 
-それとも、この子が方角を間違えているのか、どっちだろう。
+Or did this child have a wrong sense of direction?
 
-そっちの方がありそうだから困る。
+How troublesome, because it seems to be the latter.
 
-「……そんなところから、きたの？　本当に？」
+「……from over there, you came here? Really?」
 
 #face f_hin_0_07f 94 466
 
 #voice hina0036
-【？？？】「うん！」
+【？？？】「Yes!」
 
-こっちの目が回りそうなくらいくるくると回りながら、またも元気よく答える。
+While spinning around so much that my eyes seemed to turn, she answered cheerfully again.
 
 #face f_hin_0_07f 94 466
 
 #voice hina0037
-【？？？】「なんかねー、モン？　があいててね。それでモリにでられたの！」
+【？？？】「There was something, a gate? So I left the forest!」
 
-なるほど、森の奥にある屋敷から出てきちゃって蔦の魔物に捕まっていたのか。
+I see, she was coming out of the mansion in the depths of the forest and caught by the ivy monster.
 
-しかも「人間？」なんておかしな質問をするところを見ると、屋敷から出たことがなかったんだろう。
+But when faced with a weird question like「Are you human?」, she probably never left the mansion before.
 
-門があるほど大きな屋敷がこのあたりにあるなんて知らなかったな。
+I didn't know there was a mansion around here that was big enough to have a gate.
 
-見た目も違うし、地元の人間との交流がなかったんだな、きっと。
+They look different and I'm sure they didn't interact with the locals.
 
-やれやれ、人里を離れて隠遁生活を送ろうと思っていたのに、人里を離れるのもそう簡単にはいかないのか。
+Well, I was thinking of leaving the village and living a secluded life, but maybe it isn't so easy to be isolated from humans.
 
-屋敷の人たちも心配してるだろうし早く帰してあげないとな。
+The people in the mansion will be worried so she should go home early.
 
-……知らない人間と話をしなきゃならないなんてめんどくさいな。せっかく村を出て他人と関わらずに暮らせると思っていたのに。
+……It's troublesome to have to talk to someone I don't know. I thought after I left the village I could live without interacting with others.
 
-なかなか思い通りになんていかないものだ。
+Life doesn't really go as I want.
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
@@ -311,40 +311,40 @@
 #face f_hin_0_06f2 94 466
 
 #voice hina0038
-【？？？】「……あ、ニンゲンさん。ちがでてるよ」
+【？？？】「……Aa、Human-san. You're bleeding」
 
-延々とくるくる俺の周りを回っていた子は、俺の背中あたりを指してびっくりしたように言った。
+The child, who was spinning around me endlessly, pointed to my back and said astonished.
 
-「さっきの魔物のせいで怪我をしたのかな？」
+「Did I get injured because of the monster just now?」
 
-言われてみれば、少しピリッと皮膚が引き攣れている。
+Now that I think of it, my skin is tingling a little.
 
-たいした傷じゃないだろうけど、怪我をしているのは確かなようだ。
+It's not a big wound, but it seems certain that I'm injured.
 
-確認しようと首を回すと、擦り傷が長く肩口に線を引いていた。
+When I turned my neck to check it, the scratches were long lines on my shoulder.
 
-わ、思ったよりもひどい怪我だ。
+Wow, it's a worse injury than I expected.
 
-まいったな、薬を塗ろうにもこんなところじゃ手が届かない。
+I'm troubled, even if I try to apply medicine, I can't reach it in such a place.
 
 #face f_hin_0_06f2 94 466
 
 #voice hina0039
-【？？？】「たいへんたいへん！　なおさなきゃ！」
+【？？？】「Oh no! Oh no! Need to get it healed!」
 
-蔦に捕まっていた子は慌てたように、傷口に手を当てた。
+The child previously caught in the ivy put his hand on the wound in a hurry.
 
-「……いっ！？」
+「……Ow-!?」
 
-いくら軽い傷でも傷口をじかに触られれば痛い。
+No matter how light the wound, it hurts if the wound is touched directly.
 
-痛みを予測した俺は飛び上がって糖蜜色の髪の子を振り払おうとして……。
+Predicting the pain, I jumped up and tried to shake off the honey-haired child……
 
-手が触れているところから痛みではなく不思議なぬくもりが広がっていくのを感じた。
+I felt a mysterious warmth spread from where she was touching, not pain.
 
-「なっ！？　えっ！？」
+「Wha-!? Ehh!?」
 
-いったい今何が起きてるんだ！？
+What in the world just happened?!
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -353,27 +353,27 @@
 #face f_hin_0_01f1 94 466
 
 #voice hina0040
-【？？？】「ニンゲンさんのおケガよくなぁれ〜よくなぁれ〜」
+【？？？】「Human's injury, get better!〜」
 
-ぽわっと当てられている手が微かに光っているのが視界の隅に入る。
+The slightly shining hand touching my shoulder enters the corner of my field of vision.
 
-な、なんだ、これ……。
+Wha- What is this……。
 
-本当に手が光るなんて不思議な人間は見たことがない。
+I've never seen a strange human whose hand shines.
 
-だけど、それは確かに確実に俺の目の前で、見間違えもないくらいはっきりと起こっていた。
+But that definitely happened in front of my eyes, so clearly that I couldn't have seen wrongly.
 
-こんなの、種や仕掛けがなきゃ人間技じゃない。
+This kind of thing, it cannot be done by human skill alone without tricks or gimmicks.
 
-だけど、この子が何も持っていないのはこんなに間近ではっきりと見えているわけで……。
+However, this child does not have anything else with them, and to see it so clearly so closely……。
 
-ま……まさか、本当にこの子はエルフ……？
+C-could this child, truly be an elf……?
 
-傷口はありえない速度で治って……いや、不思議な力で治されていく。
+The wound heals at an unbelievable speed…… No, it is healed by a mysterious force.
 
-痛みは全くない。
+No pain has completely disappeared。
 
-やがて、赤い線はどんどん色を薄くしていき、最後にエルフの子がさっと撫でると、残ったかさぶたが剥がれ落ちて、跡形もなく傷は消えた。
+Eventually, the red line faded in color, and finally when the elf child stroked it, the remaining scabs peeled off and the scratches disappeared without a trace.
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
@@ -381,11 +381,11 @@
 
 ;ヒナタ
 #voice hina0041
-【エルフ】「ちりょーしゅーりょー！」
+【エルフ】「Treatmentー finishedー！」
 
-ニコっと笑ってエルフが両手を上げる。
+The elf raises both hands with a smile.
 
-「あ、あぁ……ありがとう」
+「T-Thank you」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
@@ -393,9 +393,9 @@
 
 ;ヒナタ
 #voice hina0042
-【エルフ】「ありがとう！？　いま、ニンゲンさん『ありがとう』っていった？　わーい！　おれいいわれちゃった！」
+【エルフ】「Thank you!? A human said 『Thank you』? Yay! I've been thanked!」
 
-「……しかし、すごい力だな」
+「……But that's an amazing power」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -403,11 +403,11 @@
 
 ;ヒナタ
 #voice hina0043
-【エルフ】「すごい！？　すごい！？　わー！　ほめられた！　ぼくすごいっ！」
+【エルフ】「Amazing!? Amazing!? Waー！　I've been praised!　I'm amazing!」
 
-エルフは嬉しそうにぴょんぴょん飛び跳ねて、全身で喜びを表現している。
+The elf jumps happily and expresses joy with his whole body.
 
-「あぁ、すごいよ。こんなに早く怪我が治せるだなんて……」
+「Aa、it's amazing. To heal my injuries so quickly……」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -415,15 +415,15 @@
 
 ;ヒナタ
 #voice hina0044
-【エルフ】「じゃあ、ニンゲンさんはこーゆーのできないんだ？」
+【エルフ】「So, humans cannot this kind of thing?」
 
-「できるって人もいるのかもしれないが、少なくとも俺は出来ないなぁ」
+「There might be humans able to this, but at least I can't」
 
-奇跡のなんとかのって不思議な力を売りにしているまじない師や何かは村に来たこともあるけど、だいたいが怪しげな薬を売りつけていくぐらいだった。
+A miracle guru who sells mysterious powers has come to the village before, but most of the time he sells suspicious medicines.
 
-あるいは種や仕掛けのあるペテン師の類か。
+Or is it a kind of scammer with tricks and gimmicks?
 
-こんな力、生まれてこの方見たことがない。
+I've never seen this kind of power in my life.
 
 ;CHR H11F C
 #cg ヒナタ hin_1_11f 中
@@ -431,13 +431,13 @@
 
 ;ヒナタ
 #voice hina0045
-【エルフ】「そっかぁ、できないのかー」
+【エルフ】「I seeee, humans can't do itー」
 
-くるっとエルフが回って気がついたけど、この子にも細かい擦り傷がたくさんある。
+I noticed when the elf turned around, this child also has a lot of small scratches.
 
-……さっきまで蔦の化け物に掴まっていたんだものなぁ。
+……until just now she was caught in the ivy.
 
-「……君もずいぶんケガしてるけど」
+「……You're injured a lot too」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
@@ -445,21 +445,21 @@
 
 ;ヒナタ
 #voice hina0046
-【エルフ】「んー？　おぉ、ほんとだぁ」
+【エルフ】「Nnー？　Oooh, that's truee」
 
-エルフは自分の身体を見回してびっくりしたみたいな声を上げた。
+The elf looked around his body and exclaimed in a surprised voice.
 
-「治さなくていいの？」
+「You don't have to cure it？」
 
-俺の質問にエルフはきょとんとして首をかしげる。
+The elf tilted his head to my question.
 
 ;ヒナタ
 #voice hina0047
-【エルフ】「でもニンゲンさん、なおせないんでしょお？」
+【エルフ】「But human, cannot heal it right?」
 
-「あぁ、うん……まぁ、そうだけど……あ、あぁ……そういえば、薬なら持ってるけど、エルフに効くかな……」
+「Aaa, yeah……Well, that's true but……aa、aa……that's right, I have medicine though, will it work on elves……」
 
-人間の薬なんてエルフにはきっと効かないよなぁ。
+I'm sure human medicine doesn't work for elves.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -467,9 +467,9 @@
 
 ;ヒナタ
 #voice hina0048
-【エルフ】「ニンゲンさんなおせたら、ぼくのことなおしてくれた？」
+【エルフ】「If you can heal me, will you heal me?」
 
-「あぁ、もちろん」
+「Aaa, of course」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -477,17 +477,17 @@
 
 ;ヒナタ
 #voice hina0049
-【エルフ】「ふふふっ、そっか！　ありがと！」
+【エルフ】「Fufufuu、I see！　Thank you！」
 
-エルフはやたらに嬉しそうに飛び跳ねた。
+The elf jumped happily as if I had done it already.
 
-森で一人で暮らそうと思うなら薬の類は必需品だ。っていったって、そんなに大層な怪我をすると思ってなかったから、ちょっとしか持っていない。
+To live in the forest alone, medicines are a must. Although since I didn't expect to be injured, I only have a little.
 
-けど……こんなことならもっとたくさん持ってくればよかったな……。
+But……if this was the case, I should have brought more……。
 
-このエルフに治療してあげたら、たとえ効かなくても、きっと喜んでくれるだろうな。
+If I treat this elf, even if there's no effect, she'll still be happy.
 
-「あの……本当に大丈夫なの？」
+「Hey……Is it really okay？」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -495,15 +495,15 @@
 
 ;ヒナタ
 #voice hina0050
-【エルフ】「このぐらいなめたらなおるからへいきだよっ」
+【エルフ】「For this severity, just licking is enough to heal it」
 
-エルフは腕や手を自分で舐める。
+The elf licked their arms and hands.
 
 ;ヒナタ
 #voice hina0051
-【エルフ】「おせなかとか、おしりはじぶんでなめれないからなおるまでまたなきゃなの」
+【エルフ】「I can't lick my tummy and my butt, so I have to wait until they heal」
 
-「……自分では治せないの？」
+「……You can't cure yourself？」
 
 ;CHR H11F C
 #cg ヒナタ hin_1_11f 中
@@ -511,17 +511,17 @@
 
 ;ヒナタ
 #voice hina0052
-【エルフ】「そぉ。じぶんのことはなおせないのっ！　エルフだったらなおしっこするんだけど、ぼくはなめてなおすのー」
+【エルフ】「Yep. I can't cure myself！　If amongst elves, we'll heal each other, but I'll lick it to healー」
 
-またくるり、とエルフが回り、ひらり、と服の裾が危うげに舞った。
+The elf turned around again, and the hem of the clothes fluttered haphazardly.
 
-裾から覗いた白い肌は先ほどついたのだろう傷を除けば、どこまでも滑らかで、かえって赤い傷がアクセントにすら見える。
+The white skin peeking from the hem is as smooth as possible, except for the red scratches made earlier that look like an accent.
 
-ごくり……我知らず喉が鳴った。
+Swallow……I swallowed unknowingly。
 
-「……や、やっぱり薬塗ってあげようか？　舐めてから薬塗ったら、薬効かなくても早く怪我治るかも……」
+「……L-let's apply the medicine？　If applied after licking, the injury may heal faster even if the medicine does not work……」
 
-そんな馬鹿な、とは思ったけど、俺はこのエルフになにかしてあげたかった。
+That's stupid, I thought, but I wanted to do something for this elf.
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
@@ -529,45 +529,45 @@
 
 ;ヒナタ
 #voice hina0053
-【エルフ】「ふぇえ？」
+【エルフ】「Fuee？」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
-エルフはきょとんとした後、ぱっと花がほころぶように笑った。
+The elf was stunned for a moment before laughing like a flower blooming.
 
 ;ヒナタ
 #voice hina0054
-【エルフ】「ぼくのおケガ、ニンゲンさんなめてくれるの？」
+【エルフ】「My injury, (human-san) you'll lick it for me?」
 
-「あ……あぁ」
+「Aaa……Aaa」
 
-舐めておけば治る。人間だってよく言うことだ。
+A licked wound heals. Even humans often say that too.
 
-動物だって怪我は舐めて治す。自分で舐められないところを舐めてあげるののどこがおかしいだろう。
+Even animals can lick and heal injuries. What's wrong with licking where you can't lick yourself?
 
-それに効かなくったって、薬を塗って効く気がしたら怪我も早く治るんじゃないだろうか。
+Even if it doesn't work, if you apply the medicine, the injury will heal quickly.
 
-このエルフがそれを望むなら、というのとよこしまな気持ちとが半々ぐらいで混ざり合う。
+Half of it because the elf wishes for it, and half of it from devious feelings.
 
-この滑らかな肌に手や舌を這わせたらどんなに心地いいだろうか。
+How pleasant would it be to crawl your hands and tongue on this smooth skin?
 
 ;ヒナタ
 #voice hina0055
-【エルフ】「わーい！　ニンゲンさん、やさしいねぇ！　おねがいしまーす」
+【エルフ】「Yay！　Human-san is kind！　I'll leave it to you」
 
-エルフは何一つ疑うことなく、俺に背中を向けた。
+The elf turned his back on me without any doubt.
 
-「あぁ……じゃあ、まずはここから……」
+「Aaa……well then, first, from here……」
 
-髪をかきあげて、首筋に顔を寄せて……くらりとした。
+I brushed her hair up and put my face to her nape.……dizzily。
 
-……何だ、このいい匂い。よく日に当てた干し草に砂糖菓子の匂いを混ぜたみたいな……。
+……What is this good smell。It's like mixing the scent of sugar confectionery with the hay that was often exposed to the sun.……。
 
-甘くて香ばしい匂いが鼻から入って、頭を痺れさせる。
+A sweet and fragrant scent enters through the nose and numbs my head.
 
-ほんのりと塩気のある味が、俺の思考を奪い、俺は夢中になって舌を這わせた。
+The slightly salty taste robbed me of my thoughts, and I was absorbed in dragging my tongue on her skin.
 
 ;CHR H08F2 C
 #cg ヒナタ hin_1_08f2 中
@@ -575,18 +575,18 @@
 
 ;ヒナタ
 #voice hina0056
-【エルフ】「うひゃあっ！　くすぐったぁい！　うひゃひゃひゃひゃひゃ」
+【エルフ】「Uhyaan！　It tickles！　Uhyahyahyahyahya」
 
-舌を這わせるとすぐにエルフは飛び上がって逃げ出してしまう。
+As soon as the tongue crawled over her skin, the elf jumps up and runs away.
 
 ;FACE H08N2
 
-「あ……こら、逃げちゃダメだろ」
+「Aa……hey, you shouldn't run away」
 
 ;SE se017 草むらへ倒れる　再生
 #se 1 se017
 
-俺は思わずエルフを捕まえて、草むらに押し倒した。
+I inadvertently caught the elf and pushed it down into the grass.
 
 ;BGMch1 bgm003 FO停止
 #bgm 0 stop 1000
@@ -603,13 +603,13 @@
 
 ;ヒナタ
 #voice hina0057
-【エルフ】「あはは、ごめんなさぁい。でも、ぼくほかのひとになめられるのはじめてでくすぐったかったの。あはははははは」
+【エルフ】「Ahaha、Sorryy。But、it's my first time being licked by another person, it tickles。Ahahahahahaha」
 
-舐められたのがよほどくすぐったかったのか、それともこの状況が楽しいのか、エルフはまだ笑っている。
+Whether it was because it was that ticklish to be licked, or that it was fun to be licked, the elf could not stop laughing. 
 
-俺はもっともらしく、薬を纏わせた指や舌を這わせながらエルフの肢体をまじまじと眺めた。
+While my medicine-coated fingers and tongue crawled his skin, I stared seriously at the elf's body.
 
-どこまでも白い肌、細く華奢な手足……。
+White skin, thin and delicate limbs……。
 
 「ほら、おしりも怪我してるんだろ？」
 
