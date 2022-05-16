@@ -1,231 +1,231 @@
 
-;�w�i�F�Ԕ��i���j
+;背景：花畑（昼）
 ;BG BG11_1
 #cg all clear
 #bg BG11_1
 #wipe fade
 
-�u�q�i�^�A����`�����Ă���邩�ȁH�v
+「ヒナタ、お手伝いしてくれるかな？」
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0090
-�y�q�i�^�z�u���[�I�@��������I�v
+【ヒナタ】「おー！　いいよっ！」
 
-�q�i�^�͊��X�Ƃ��ĉ��̗��݂������Ă����B
+ヒナタは嬉々として俺の頼みに頷いてくれる。
 
-�u���̉Ԃ��Ƃ邩��A�ׂ̉Ԃ��������Ă����āv
+「この花をとるから、隣の花を押さえておいて」
 
 #voice hinb0091
-�y�q�i�^�z�u���̂��͂ȂƂ�񂾂ˁI�@�킩�����[�I�v
+【ヒナタ】「このおはなとるんだね！　わかったー！」
 
-�u�����c�c�v
+「あっ……」
 
-�q�i�^�͎~�߂�Ԃ��Ȃ��A�Ԃ��Ԃ��ƌ@���낤�Ƃ��Ă����Ԃ������������Ă��܂����B
+ヒナタは止める間もなく、ぶちぶちと掘り取ろうとしていた花を引っこ抜いてしまった。
 
 ;CHR H01F2 C
-#cg �q�i�^ hin_1_01f2 ��
+#cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0092
-�y�q�i�^�z�u�Ƃꂽ��A�j���Q������I�v
+【ヒナタ】「とれたよ、ニンゲンさん！」
 
-�u�c�c��������������_������A�q�i�^�v
+「……引っこ抜いちゃダメだよ、ヒナタ」
 
 ;CHR H04F2 C
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0093
-�y�q�i�^�z�u���H�@�_���������́H�v
+【ヒナタ】「え？　ダメだったの？」
 
-�u����B�������������ꂿ�������A���ւ��ł��Ȃ�����A���J�ɍ���������@��Ԃ��Ȃ��Ɓv
+「うん。根っこがちぎれちゃったら植え替えできないから、丁寧に根っこから掘り返さないと」
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0094
-�y�q�i�^�z�u�����A�������I�@�q�i�^�܂�������������I�v
+【ヒナタ】「おぉ、そっか！　ヒナタまちがえちゃった！」
 
-�q�i�^�͌��C�����ς��ɉ������B���ǁc�c�B
+ヒナタは元気いっぱいに応えた。けど……。
 
 #voice hinb0095
-�y�q�i�^�z�u�j���Q������A�݂Ă݂āI�@���̂��͂ȃL���C����I�v
+【ヒナタ】「ニンゲンさん、みてみて！　このおはなキレイだよ！」
 
-�u�c�c�����A����B�Y�킾�ˁB�ł�������O�Ɍ����ė~�����������ȁv
+「……あぁ、うん。綺麗だね。でもちぎる前に見せて欲しかったかな」
 
 ;CHR H02F1 C
-#cg �q�i�^ hin_1_02f1 ��
+#cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0096
-�y�q�i�^�z�u����[�H�@�q�i�^�܂��܂��������H�v
+【ヒナタ】「あれー？　ヒナタまたまちがえた？」
 
-�u����A�����ԈႦ���͉̂����v
+「いや、多分間違えたのは俺だ」
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0097
-�y�q�i�^�z�u�����[�A�����܂���������_������I�@�j���Q������I�v
+【ヒナタ】「そかー、もうまちがえちゃダメだよ！　ニンゲンさん！」
 
-�u�����A����v
+「あぁ、うん」
 
-�c�c�l�I�ԈႦ���B
+……人選間違えた。
 
-���������A���ւ��Ȃ�čׂ₩�Ȑ_�o�̕K�v�ȍ�ƁA��΂Ƀq�i�^�ɂ͌����ĂȂ��̂ɁA�Ȃ��q�i�^�Ɏ�`�킹�悤�Ǝv�����񂾁A���B
+だいたい植え替えなんて細やかな神経の必要な作業、絶対にヒナタには向いてないのに、なぜヒナタに手伝わせようと思ったんだ、俺。
 
 #voice hinb0098
-�y�q�i�^�z�u���̂��͂Ȃ��A���̂��͂Ȃ��L���C�I�@���Ă悩�����ˁA�j���Q������I�v
+【ヒナタ】「このおはなも、このおはなもキレイ！　きてよかったね、ニンゲンさん！」
 
-�u�c�c�������ȁv
+「……そうだな」
 
-���Ă悩�����Ƃ����q�i�^�̌��t�ɂ͈٘_���Ȃ��B
+きてよかったというヒナタの言葉には異論がない。
 
-�u�܂��A�������v
+「まぁ、いいか」
 
-�q�i�^�͉��̔��ȂȂǉ�ւ����A���̃G���t�����Ɠ����悤�ɁA�y�������ɉԔ��ŗV��ł���B
+ヒナタは俺の反省など我関せず、他のエルフたちと同じように、楽しそうに花畑で遊んでいる。
 
 #voice hinb0099
-�y�q�i�^�z�u�ق�A���̂��͂Ȃ�������ɂق���Ȃ���ƁA���邭����Ă܂��Ȃ��炨���Ă���񂾂�I�@��������A�j���Q������I�v
+【ヒナタ】「ほら、このおはなをおそらにほうりなげると、くるくるってまわりながらおちてくるんだよ！　すごいよ、ニンゲンさん！」
 
 ;CHR H11F C
-#cg �q�i�^ hin_1_11f ��
+#cg ヒナタ hin_1_11f 中
 #wipe fade
 
 #voice hinb0100
-�y�q�i�^�z�u�킟�I�@�͂Ȃт炪�Ђ�Ђ炨���Ă���̂��L���C����I�v
+【ヒナタ】「わぁ！　はなびらがひらひらおちてくるのもキレイだよ！」
 
-���ɕ����Ԃт��ǂ��āA�q�i�^��������B
+風に舞う花びらを追って、ヒナタが走り回る。
 
-���̎p�𒭂߂Ă���ƁA��ꂪ�ǂ����ɔ��ł����悤�ȋC�����āA���͂���ȏ�͎�`���Ȃǂƌ��킸�ɖفX�ƉԂ��@��Ԃ����B
+その姿を眺めていると、疲れがどこかに飛んでいくような気がして、俺はそれ以上は手伝えなどと言わずに黙々と花を掘り返した。
 
-����L�΂����肷��̂Ɋ���グ��ƁA�q�i�^�͂���͊y�������ɏ΂��Ă����B
+腰を伸ばしたりするのに顔を上げると、ヒナタはそれは楽しそうに笑っていた。
 
-���ǂ́A�q�i�^�Ƃ���Ɖ����y�����񂾂�ȁB
+結局は、ヒナタといると俺も楽しいんだよな。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���܂�����ɖڂ������Ȃ���A�߂ڂ����Ԃ��@��Ԃ��A�A���ւ��̂��߂̎n���������Ƃ���ŁA�q�i�^�����Ȃ��Ȃ��Ă���̂ɋC�������B
+時折そちらに目を向けながら、めぼしい花を掘り返し、植え替えのための始末をしたところで、ヒナタがいなくなっているのに気がついた。
 
-�u�c�c���Ă���A�q�i�^�ǂ��ɍs�����H�v
+「……ってあれ、ヒナタどこに行った？」
 
 #voice hinb0101
-�y�q�i�^�z�u��������[�v
+【ヒナタ】「ここだよー」
 
 ;CHR H07F C
-#cg �q�i�^ hin_1_07f ��
+#cg ヒナタ hin_1_07f 中
 #wipe fade
 
-�Ԕ��̒�����A������܂�ŐV��̉Ԃ������݂����Ƀq�i�^�̎肪�オ��B
+花畑の中から、それもまるで新種の花か何かみたいにヒナタの手が上がる。
 
-�U�X�Ԃ��T���U�炵����A�˂����낪���ċ�����グ�Ă����炵���B
+散々花を撒き散らした後、ねっころがって空を見上げていたらしい。
 
-�u���[���A������`���Ă����񂶂�Ȃ������̂��v
+「おーい、俺を手伝ってくれるんじゃなかったのか」
 
 ;CHR H06F2 C
-#cg �q�i�^ hin_1_06f2 ��
+#cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0102
-�y�q�i�^�z�u���A���������I�v
+【ヒナタ】「あ、そだった！」
 
-�т����蔠�݂����Ȑ����Ńq�i�^���N���オ��B
+びっくり箱みたいな勢いでヒナタが起き上がる。
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0103
-�y�q�i�^�z�u�q�i�^�A���Ă��������I�v
+【ヒナタ】「ヒナタ、おてつだいするよ！」
 
-�����ĖґR�ƉԂ�E�ݎn�߂��B
+そして猛然と花を摘み始めた。
 
-�u���[���[�A�ԁA�܂�����_�������Ă΁B������Ƃ͏I����Ă邩��v
+「あーあー、花、折っちゃダメだってば。もう作業は終わってるから」
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0104
-�y�q�i�^�z�u���H�@���Ȃ́I�H�@�q�i�^�A���Ă����������̂Ɂv
+【ヒナタ】「え？　そなの！？　ヒナタ、おてつだいしたいのに」
 
-�q�i�^�͘r�����ς��ɉԂ�������܂܁A�ڂɌ����Ă����ڂ�Ɨ�������ł��܂����B
+ヒナタは腕いっぱいに花を抱えたまま、目に見えてしょんぼりと落ち込んでしまった。
 
-�������A�C���������͒N������`���C���X�Ȃ̂ɂȁB
+ったく、気持ちだけは誰よりも手伝う気満々なのにな。
 
-�u����ȂɉԐ܂��Ăǂ�����́B���������Ȃ�������A���ւ��ł��Ȃ����ċ���������v
+「そんなに花折ってどうするの。根っこがなかったら植え替えできないって教えただろ」
 
 ;CHR H03F1 C
-#cg �q�i�^ hin_1_03f1 ��
+#cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0105
-�y�q�i�^�z�u���������[�v
+【ヒナタ】「そだったー」
 
-�q�i�^�͓r���ɂ��ꂽ��ŉ������グ�Ă����B
+ヒナタは途方にくれた顔で俺を見上げてきた。
 
 #voice hinb0106
-�y�q�i�^�z�u���̂��͂ȁA�����Ă�����H�v
+【ヒナタ】「このおはな、もってかえる？」
 
-�u����A�r������܂���������玝���ċA���Ă������ǂ��ɂ��Ȃ�Ȃ����낤�ȁv
+「いや、途中から折っちゃったら持って帰ってももうどうにもならないだろうな」
 
-���܂��������Ă��΁A�����ɏ��邮�炢�ł��邩������Ȃ����ǁA���ɂ��ǂ�����΂����̂��킩��Ȃ��B
+うまく処理してやれば、部屋に飾るぐらいできるかもしれないけど、俺にもどうすればいいのかわからない。
 
 #voice hinb0107
-�y�q�i�^�z�u�ǂ��ɂ��Ȃ�Ȃ��I�H�v
+【ヒナタ】「どうにもならない！？」
 
-���[��A�ƁA�q�i�^�͑傰���ɂ����ジ�������B
+がーん、と、ヒナタは大げさによろよろ後ずさった。
 
 ;CHR H02F1 C
-#cg �q�i�^ hin_1_02f1 ��
+#cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0108
-�y�q�i�^�z�u��������������͂Ȃ͂Ȃɂ��ɂ������肵�Ȃ��́H�v
+【ヒナタ】「おっちゃったおはなはなにかにつかえたりしないの？」
 
-�u�g���������Ăȁ[�v
+「使うったってなー」
 
-�q�i�^���܂�Ƃ����Ԃ́A���������Ă͂Ȃ񂾂����G�ł₽��s�������̂�����΁A�񂾂��݂����Ȃ̂�����B
+ヒナタが折りとった花は、こういってはなんだが乱雑でやたら茎が長いのもあれば、首だけみたいなのもある。
 
-�q�i�^�ɂ���Ȃ���͂Ȃ��̂��낤���ǁA���c�Ɉ����ނ������悤�Ȋ������B
+ヒナタにそんなつもりはないのだろうけど、無残に引きむしったような感じだ。
 
-�u���A�������B�Ԑ肢���Ēm���Ă�H�v
+「あ、そうだ。花占いって知ってる？」
 
 ;CHR H04F1 C
-#cg �q�i�^ hin_1_04f1 ��
+#cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0109
-�y�q�i�^�z�u�͂Ȃ���Ȃ��H�v
+【ヒナタ】「はなうらない？」
 
-�u��������Đ肤�񂾁v
+「こうやって占うんだ」
 
-���̓q�i�^�������Ă�Ԃ̒�����A�T���ԕق̂��̂𔲂��o�����B
+俺はヒナタが持ってる花の中から、５枚花弁のものを抜き出した。
 
-�u�q�i�^�͉��̂��Ƃ��A�D���A�����A�D���A�����A�D���B�D���A�ŏI���������q�i�^�͉��̂��Ƃ��D���v
+「ヒナタは俺のことが、好き、嫌い、好き、嫌い、好き。好き、で終わったからヒナタは俺のことが好き」
 
 ;CHR H06F1 C
-#cg �q�i�^ hin_1_06f1 ��
+#cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0110
-�y�q�i�^�z�u���[�I�@��������[�I�@�������A����Ȃ����I�v
+【ヒナタ】「おー！　あったりー！　すごい、うらないだ！」
 
-�c�c���āA�T���ԕقłQ���Ȃ�A�������������Ȃ����Ȃ���΂ɍD���ŏI���񂾂��ǁB
+……って、５枚花弁で２択なら、当たるも当たらないもなく絶対に好きで終わるんだけど。
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0111
-�y�q�i�^�z�u�q�i�^���A�q�i�^���A����Ȃ��[�I�v
+【ヒナタ】「ヒナタも、ヒナタも、うらなうー！」
 
 ;CHR ON
 ;#cg on
@@ -235,47 +235,47 @@
 
 
 #voice ibab0079
-�y�C�o���z�u�肢�H�v
+【イバラ】「占い？」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0121
-�y�R�m�~�z�u����肤�́`�H�v
+【コノミ】「何を占うの〜？」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0073
-�y�c�L���z�u�肢�A�ł��H�v
+【ツキヨ】「占い、です？」
 
-�q�i�^���呛���������̂�����A���̃G���t��������������Ă����B
+ヒナタが大騒ぎしたものだから、他のエルフたちもわらわらやってきた。
 
 ;CHR H01F2 C
-#cg �q�i�^ hin_1_01f2 ��
+#cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0112
-�y�q�i�^�z�u�j���Q������A������������Ă����āI�v
+【ヒナタ】「ニンゲンさん、もっかいやってあげて！」
 
-�u���A�����c�c���������́H�v
+「あ、あぁ……もう一回やるの？」
 
-�q�i�^�̐����ɉ���������������ǁA����Ȃ���ڂ��^�l�����Ȃ��肢�Ȃ�āA��x���̂͒p���������B
+ヒナタの勢いに押されて頷いたけど、あんなしょぼいタネしかない占いなんて、二度やるのは恥ずかしい。
 
-�ꉞ�A�ĂтT���ԕق̂��̂�I��ŁA�݂�ȂɌ�����B
+一応、再び５枚花弁のものを選んで、みんなに見せる。
 
-�u�ł́A���ꂩ�炱�̉ԂɃq�i�^�������ǂ��v���Ă�̂��������Ă��炢�܂��B�D���A�����A�D���A�����A�D���B�͂��A�D���ŏI������̂Ńq�i�^�͉��̂��Ƃ��D���v
+「では、これからこの花にヒナタが俺をどう思ってるのかを教えてもらいます。好き、嫌い、好き、嫌い、好き。はい、好きで終わったのでヒナタは俺のことが好き」
 
-����[�A�p�����������A����I
+うわー、恥ずかしいぞ、これ！
 
 ;CHR H01F1 C
-#cg �q�i�^ hin_1_01f1 ��
+#cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0113
-�y�q�i�^�z�u�����[���I�@�܂��܂���������[�I�v
+【ヒナタ】「すごーい！　またまたあったりー！」
 
 ;CHR ON
 ;#cg on
@@ -286,45 +286,45 @@
 
 
 #voice ibab0080
-�y�C�o���z�u�ȁc�c�v
+【イバラ】「な……」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice konb0122
-�y�R�m�~�z�u�����`�c�c�v
+【コノミ】「おぉ〜……」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0074
-�y�c�L���z�u���A�������ł��v
+【ツキヨ】「す、すごいです」
 
-�C�o�������肩��c�b�R�~�����邩�Ǝv�����̂ɁA�ӊO��݂�Ȋ��S���Ă�H
+イバラあたりからツッコミが入るかと思ったのに、意外やみんな感心してる？
 
-����A������Ȃ�ł�����Ă邾�����낤�B
+いや、いくらなんでも呆れてるだけだろう。
 
-�u�c�c�Ƃ܂��A����ȕ��ɉԂт�ɑ����ċC�����Ƃ��𒲂ׂ�肢�Ȃ񂾂��ǁc�c�v
+「……とまぁ、そんな風に花びらに託して気持ちとかを調べる占いなんだけど……」
 
 ;CHR I01F C
 #cg all clear
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0081
-�y�C�o���z�u�j���Q���͐肢�܂ł���̂��c�c�v
+【イバラ】「ニンゲンは占いまでするのか……」
 
-�u���A����B����͎q���̍��������Ă�ق�̗V�т݂����ȕ����Ă������c�c�v
+「あ、いや。これは子供の頃からやってるほんの遊びみたいな物っていうか……」
 
 ;CHR I02F C
 #cg all clear
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0082
-�y�C�o���z�u�ځA�{�N������Ă݂�I�v
+【イバラ】「ぼ、ボクも占ってみる！」
 
 ;CHR ON
 ;#cg on
@@ -334,26 +334,26 @@
 
 
 #voice konb0123
-�y�R�m�~�z�u�{�N���[�v
+【コノミ】「ボクもー」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 
 #voice tikb0075
-�y�c�L���z�u���A���ԁc�c�v
+【ツキヨ】「お、お花……」
 
-�u���A�����B�ǂ����v
+「あ、あぁ。どうぞ」
 
-�q�i�^�������������Ă��܂����Ԃ𕪂��^����ƁA�F�y�������Ɂw�肢�x���n�߂��B
+ヒナタが引っこ抜いてしまった花を分け与えると、皆楽しそうに『占い』を始めた。
 
 ;CHR I06F C
 #cg all clear
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0083
-�y�C�o���z�u�{�N�̓L���C�A��ԃL���C�A�������c�c�v
+【イバラ】「ボクはキレイ、一番キレイ、すごい……」
 
 ;CHR ON
 ;#cg on
@@ -363,57 +363,57 @@
 
 
 #voice konb0124
-�y�R�m�~�z�u��`�Ɓ`�A�j���Q������́`�v
+【コノミ】「ん〜と〜、ニンゲンくんは〜」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 
 #voice tikb0076
-�y�c�L���z�u���ƁA���Ɓc�c���肨�����Ȃł��v
+【ツキヨ】「えと、えと……何占おうかなです」
 
 ;CHR I06F L
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 左
 ;CHR H01F1 R
-#cg �q�i�^ hin_1_01f1 �E
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0114
-�y�q�i�^�z�u�q�i�^���I�@�q�i�^���A����Ă݂��I�v
+【ヒナタ】「ヒナタも！　ヒナタも、やってみるよ！」
 
-���������ăq�i�^���I�񂾉Ԃ́A�ꌩ�T���ԕق̂悤�Ɍ����āA���ꂪ�S���q�����Ă���ԁB
+そう言ってヒナタが選んだ花は、一見５枚花弁のように見えて、それが全部繋がっている花。
 
 #voice hinb0115
-�y�q�i�^�z�u�q�i�^�̓j���Q�����񂪁c�c�X�L�I�v
+【ヒナタ】「ヒナタはニンゲンさんが……スキ！」
 
-���ۂ�A�ƌy����R�̂��ƁA�ԕق������۔�����B
+すぽん、と軽い抵抗のあと、花弁がすっぽ抜ける。
 
 ;CHR H06F1 R
-#cg �q�i�^ hin_1_06f1 �E
+#cg ヒナタ hin_1_06f1 右
 #wipe fade
 
 #voice hinb0116
-�y�q�i�^�z�u���c�c���c�c���c�c�v
+【ヒナタ】「あ……あ……あ……」
 
-�q�i�^�͊��������悤�Ɏ茳�̉ԂɌ��������B
+ヒナタは感激したように手元の花に見入った。
 
 ;CHR H01F1 R
-#cg �q�i�^ hin_1_01f1 �E
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0117
-�y�q�i�^�z�u�܂�����������A�j���Q������I�v
+【ヒナタ】「また当たったよ、ニンゲンさん！」
 
-�u�������A�悩�����ˁv
+「そうか、よかったね」
 
-�����̋C������肤�������Ȃ��悤�Ɏv�����ǁc�c�B
+自分の気持ちを占うも何もないように思うけど……。
 
-�܂��A����Ńq�i�^�����ł�Ȃ炢�����B
+まぁ、それでヒナタが喜んでるならいいか。
 
-;�q�i�^�D���x+1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;b02_2��
+;b02_2へ
 
 
 #cg all clear

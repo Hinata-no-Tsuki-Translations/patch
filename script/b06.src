@@ -1,5 +1,5 @@
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG38_1
 
 #mes off fade
@@ -23,44 +23,44 @@
 #system on flash
 ;MC
 
-;BGMch2 amb004 �������i��j �Đ�
+;BGMch2 amb004 小屋内（夜） 再生
 ;#se 0 amb004
 #bgvoice amb004
 
-;�w�i�F�R�������i��j
+;背景：山小屋内（夜）
 ;BG BG07b_3
 #cg all clear
 #bg bg07b_3
 #wipe fade
 
-����͓��˂ɂ���Ă����B
+それは唐突にやってきた。
 
-�u�c�c�O�����v
+「……飽きた」
 
-��؂⍒�ނ����ł͐g�������Ȃ����߁A�^���p�N���͊�{�I�ɋ߂��Ŋl�ꂽ�������A���邢�͊������ɗ����Ă����̂����c�c�B
+野菜や穀類だけでは身が持たないため、タンパク質は基本的に近くで獲れた小動物、あるいは干し肉に頼っていたのだが……。
 
-���˂ɖO���Ă��܂����B
+唐突に飽きてしまった。
 
-�u�����H�ׂ����c�c�v
+「魚が食べたい……」
 
-�߂��̏���ł������Ȃ�Ύ���̂����A���������ĐH�ׂł��Ȃ��B
+近くの小川でも小魚ならば取れるのだが、小さすぎて食べでがない。
 
-�ƂȂ�ƁA��܂ōs���ċ���ނ邩�A���܂ōs���Ċ����������Ђ��ł������Ă����葼�ɂȂ��B
+となると、泉まで行って魚を釣るか、村まで行って干し魚か油漬けでも買ってくるより他にない。
 
-�u�ނ肩�c�c�v���Ԃ肾�ȁv
+「釣りか……久しぶりだな」
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg 0 clear
 #bg black
 #wipe fade
 
-;BGMch2 amb003 �������i���j �Đ�
+;BGMch2 amb003 小屋内（昼） 再生
 ;#se 0 amb003
 #bgvoice amb003
 
-;�w�i�F�R�������i���j
+;背景：山小屋内（昼）
 ;BG BG07b_1
 #cg all clear
 #bg bg07b_1
@@ -68,64 +68,64 @@
 
 #face on
 
-�ނ�̎x�x�����Ă���ƁA�G���t����������Ă����B
+釣りの支度をしていると、エルフたちがやってきた。
 
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0389
-�y�q�i�^�z�u���[�I�@���̂Ȃ��������ȂɁI�H�@�r�����r�������Ă����Ԃ̂��I�H�v
+【ヒナタ】「あー！　そのながいえだなに！？　ビヨンビヨンしてあそぶのっ！？」
 
 ;CHR H01F1_A L
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 左
 ;CHR I02F R
-#cg �C�o�� iba_1_02f �E
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0448
-�y�C�o���z�u�q�i�^�͔n�����ȁA����͒ފƂ���v
+【イバラ】「ヒナタは馬鹿だな、あれは釣竿だろ」
 
 #cg all clear
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0424
-�y�R�m�~�z�u�j���Q������A�ނ�ɍs���̂��`�v
+【コノミ】「ニンゲンくん、釣りに行くのか〜」
 
-�u�����B�V�N�ȋ����H�ׂ����Ȃ��Ă��v
+「そう。新鮮な魚が食べたくなってさ」
 
-#cg �R�m�~ clear
+#cg コノミ clear
 
 ;CHR T02F R
-#cg �c�L�� tuk_1_02f �E
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 
 #voice tikb0433
-�y�c�L���z�u�����A�������A�������ł��c�c�v
+【ツキヨ】「お魚、お料理、くさいです……」
 
 #voice ibab0449
-�y�C�o���z�u�Ȃ܂����[�����ȓ���������̂ɁA����Ȃ��̂悭���ɓ������ȁv
+【イバラ】「なまぐさーい嫌な匂いがするのに、あんなものよく口に入れられるな」
 
-�u�V�N�ȋ��͐��L���Ȃ���v
+「新鮮な魚は生臭くないよ」
 
-#cg �c�L�� clear
+#cg ツキヨ clear
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0425
-�y�R�m�~�z�u��`�A�j���Q������ɂ͂�����������Ȃ����ǁ`�A�{�N��͂�����ƋC�ɂȂ����Ⴄ�񂾂�ˁ`�v
+【コノミ】「ん〜、ニンゲンくんにはそうかもしれないけど〜、ボクらはちょっと気になっちゃうんだよね〜」
 
-�u�H�ׂ�����������̂Ɂv
+「食べたら美味しいのに」
 
 #voice ibab0450
-�y�C�o���z�u�������v
+【イバラ】「うえぇ」
 
 ;CHR ON
 ;#cg on
@@ -135,30 +135,30 @@
 
 
 #voice tikb0434
-�y�c�L���z�u�͂�A�͂����v
+【ツキヨ】「はわ、はわわっ」
 
 #voice konb0426
-�y�R�m�~�z�u�{�N�͂�����Ɩ������ȁ`�v
+【コノミ】「ボクはちょっと無理かな〜」
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0390
-�y�q�i�^�z�u�q�i�^�����ׂ��Ȃ��ȁI�v
+【ヒナタ】「ヒナタもたべられないな！」
 
-�G���t�����͎v���v���Ɍ����ǂ�����A�����߂��ʂ����ċ��͐H�ׂ��Ȃ��Ƌɒ[�ɕ\������B
+エルフたちは思い思いに口を塞いだり、しかめっ面をして魚は食べられないと極端に表現する。
 
-�����܂Ō��Ȋ炵�Ȃ������Ă������낤�Ɂc�c�B
+そこまで嫌な顔しなくたっていいだろうに……。
 
-�u�ʂɖ����ɐH���Ƃ͌����ĂȂ���B���ꂶ��A�����͉��A�ނ�ɍs�����ǁA�F�͕t���Ă��Ȃ��H�@���������Ă��邳������Ƌ��������邩�炻�̕��������邯�ǁv
+「別に無理に食えとは言ってないよ。それじゃ、今日は俺、釣りに行くけど、皆は付いてこない？　正直言ってうるさくすると魚が逃げるからその方が助かるけど」
 
 ;CHR I04F L
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0451
-�y�C�o���z�u���邳���I�H�@�{�N�͂������ĐÂ������I�v
+【イバラ】「うるさい！？　ボクはいつだって静かだぞ！」
 
 ;CHR ON
 ;#cg on
@@ -168,30 +168,30 @@
 
 
 #voice hinb0391
-�y�q�i�^�z�u�������̂͂₾���ǁA�j���Q������Ƃ�������ɂ����т����ȁI�v
+【ヒナタ】「くさいのはやだけど、ニンゲンさんといっしょにあそびたいな！」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 
 #voice tikb0435
-�y�c�L���z�u�ł��c�c�v
+【ツキヨ】「です……」
 
 #voice konb0427
-�y�R�m�~�z�u�j���Q�����񂪈Ⴄ�\��ɂ��ȁ`���`�H�v
+【コノミ】「ニンゲンくんが違う予定にしな〜い〜？」
 
-�u����Ȃ��ƌ��������āA�l�Ԃ͐H�ׂȂ��ᎀ�񂶂Ⴄ�񂾂���A���͗\��ʂ�ނ�ɍs���܂��B���łɐ����т����������ˁv
+「そんなこと言ったって、人間は食べなきゃ死んじゃうんだから、俺は予定通り釣りに行きます。ついでに水浴びもしたいしね」
 
-�߂��ɏ��삪���邩��s���ɂ͂��Ă��Ȃ����肾���ǁA����ł��S�g�Ő��𗁂т�ő��ɂȂ��@����Ȃ��B
+近くに小川があるから不潔にはしていないつもりだけど、それでも全身で水を浴びる滅多にない機会だしなぁ。
 
-���������v�����������Ă̂ɁA����𓦂���͂Ȃ��B
+せっかく思い立ったってのに、それを逃す手はない。
 
 ;CHR I09F L
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0452
-�y�C�o���z�u�����сI�H�v
+【イバラ】「水浴び！？」
 
 ;CHR ON
 ;#cg on
@@ -201,14 +201,14 @@
 
 
 #voice hinb0392
-�y�q�i�^�z�u��[�A�݂������т��������I�v
+【ヒナタ】「わー、みずあそびだいすき！」
 
 ;CHR K01F2B R
-#cg �R�m�~ kon_1_01f2b �E
+#cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0428
-�y�R�m�~�z�u����͂����ˁ`�v
+【コノミ】「それはいいね〜」
 
 ;CHR ON
 ;#cg on
@@ -218,37 +218,37 @@
 
 
 #voice tikb0436
-�y�c�L���z�u�y�������A�ł��v
+【ツキヨ】「楽しそう、です」
 
-�c�c���܂����B�t���Ă���C�ɉ΂����Ă��܂����B
+……しまった。付いてくる気に火をつけてしまった。
 
-�������߂��Ńo�V���o�V�����ꂽ��A�ނ�ɂȂ񂩂Ȃ�Ȃ����B
+しかも近くでバシャバシャされたら、釣りになんかならないぞ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 ;CHR H01F1_A C
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0393
-�y�q�i�^�z�u��[�j���Q������A�͂₭�����[�I�v
+【ヒナタ】「わーニンゲンさん、はやくいこー！」
 
-����Ȃ킯�ł����̒ʂ�A�G���t������A��Ă������ƂɂȂ����̂������B�ƂقفB
+そんなわけでいつもの通り、エルフたちを連れていくことになったのだった。とほほ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�E�F�C�g
+;ウェイト
 
-;�w�i�F��i���j
+;背景：泉（昼）
 ;BG BG03_1
 #cg all clear
 #bg bg03_1
 #wipe fade
 
-;BGMch2 amb005 ��i���j �Đ�
+;BGMch2 amb005 泉（昼） 再生
 ;#se 0 amb005
 #bgvoice amb005
 
@@ -257,45 +257,45 @@
 
 
 #voice hinb0394
-�y�q�i�^�z�u�����[�I�v
+【ヒナタ】「ついたー！」
 
-;BGMch1 bgm008 �y���� �Đ�
+;BGMch1 bgm008 楽しい 再生
 #bgm 0 bgm008
 
-�u����܂葛���Ȃ�A��͑��ɋ߂��񂾂���v
+「あんまり騒ぐなよ、泉は村に近いんだから」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0437
-�y�c�L���z�u�͂�A�C������ł��v
+【ツキヨ】「はわ、気をつけるです」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0453
-�y�C�o���z�u�����Ȃ̂��H�@�ł����̂�����Ől�Ԃ������������Ƃ͂Ȃ����v
+【イバラ】「そうなのか？　でもこのあたりで人間を見かけたことはないぞ」
 
 ;FACE OFF
 ;#face off
 
-�u���[�H�@�Ί݂Ƃ��ł��p����ꂽ��܂�������v
+「えー？　対岸とかでも姿見られたらまずいだろ」
 
-�����낻��قǑ傫�Ȑ�ł͂Ȃ��B
+何しろそれほど大きな泉ではない。
 
-������Ɩڂ̂�����Ȃ�Ί݂��炾���Ă��̎q�B���l�Ԃ���Ȃ��̂́c�c�B
+ちょっと目のいいやつなら対岸からだってこの子達が人間じゃないのは……。
 
-�u�����A�������v
+「あぁ、そうか」
 
-���n�I�ɑΊ݂ɓ�����ӏ��͐[���X�̉��ɂȂ��Ă���B
+立地的に対岸に当たる箇所は深い森の奥になっている。
 
-���Ƃ�����̋��E�ɂ����镔���ɓ|�؂Ȃǂœ��ݍ��߂Ȃ����n�̂悤�Ȃ��̂��o���I�ɂ��邽�߁A���傤�ǖډB���ɂȂ��Ă���̂��B
+村とこちらの境界にあたる部分に倒木などで踏み込めない陸地のようなものが出島的にあるため、ちょうど目隠しになっているのだ。
 
-��{�I�ɑ��̘A���͂�����ɂ��Ȃ�����A�p�x�I�ɂ�قǑΊݕt�߂܂ŉj�����肵�Ȃ���Ό�����S�z�͂Ȃ����Z���B
+基本的に村の連中はこちらにこないから、角度的によほど対岸付近まで泳いだりしなければ見つかる心配はない公算だ。
 
-����Ȃ���S���ėV�΂��Ă�����B
+これなら安心して遊ばせておける。
 
 ;SMODE 020 PLAY
 #label replay020
@@ -303,7 +303,7 @@
 #bg bg03_1
 
 ;EVCG EV023A1
-#cg �C�x���g ev023a1 �w�i
+#cg イベント ev023a1 背景
 #wipe fade
 
 ;MC
@@ -314,40 +314,40 @@
 
 
 #voice hinb0395
-�y�q�i�^�z�u����́[�I�v
+【ヒナタ】「きゃはー！」
 
-;SE se027 �����Ԃ��P �Đ�
+;SE se027 水しぶき１ 再生
 #se 1 se027
 
-�u����I�@�o�J�I�v
+「わっ！　バカ！」
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0454
-�y�C�o���z�u���[�A���̐�͐���ł��ĂȂ��Ȃ��C���������ȁv
+【イバラ】「おー、この泉は澄んでいてなかなか気持ちいいな」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0429
-�y�R�m�~�z�u�j���Q��������V�΂Ȃ��́H�@�C����������v
+【コノミ】「ニンゲンくんも遊ばないの？　気持ちいいよ」
 
-�u������A��������H�@���͋��ނ�v
+「だから、言ったろ？　俺は魚釣り」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0438
-�y�c�L���z�u�͂�[�A�C���������ł��c�c�v
+【ツキヨ】「はわー、気持ちいいです……」
 
-�u���[���A�������̕��͐[���Ȃ��Ă邩��A�������̐󂢕��ł����V��ł��[�H�v
+「おーい、こっちの方は深くなってるから、そっちの浅い方でだけ遊んでろよー？」
 
 ;EVCG EV023A2
-#cg �C�x���g ev023a2 �w�i
+#cg イベント ev023a2 背景
 #wipe fade
 
 ;FACE H08F1
@@ -355,43 +355,43 @@
 
 
 #voice hinb0396
-�y�q�i�^�z�u����͂͂͂́A�������Ȃ݂����I�v
+【ヒナタ】「きゃはははは、おさかなみつけた！」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0455
-�y�C�o���z�u�����A�����I�@�������ɗ�������ȁA�C������������I�v
+【イバラ】「あっ、おい！　こっちに来させるな、気持ち悪いだろ！」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0430
-�y�R�m�~�z�u�ӂӂӁ`�B���Ă݂ā`�A�C�V�K���������`�v
+【コノミ】「ふふふ〜。見てみて〜、イシガメもいるよ〜」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0439
-�y�c�L���z�u�͂����c�c�J��������A�����������A�ł��v
+【ツキヨ】「はぅう……カメさんも、かっこいい、です」
 
-�u���đS�R�����ĂȂ��ȁA����́v
+「って全然聞いてないな、これは」
 
-�܂��A�������B���ꂾ���߂��ɂ����炷���ɏ����ɍs���邾�낤�B
+まぁ、いいか。これだけ近くにいたらすぐに助けに行けるだろう。
 
-�����肱��Ȃɑ����ł��ċ����ނ�邩�ȁc�c�B
+それよりこんなに騒いでいて魚が釣れるかな……。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg 0 clear
 #bg black
 #wipe fade
 
-;�w�i�F��i���j
+;背景：泉（昼）
 ;BG BG03_1
 #cg all clear
 #bg bg03_1
@@ -405,7 +405,7 @@
 #bg black
 #wipe fade
 
-;�w�i�F��i���j
+;背景：泉（昼）
 ;BG BG03_1
 #cg all clear
 #bg bg03_1
@@ -413,79 +413,79 @@
 
 ;MC
 
-�u�ӊO�ɒނ����񂾂ȁc�c�v
+「意外に釣れるもんだな……」
 
-�G���t�����������ł���̂��ǂ����݋��̌��ʂ𔭊������̂��A�務�������Ƃ��낾�����B
+エルフたちが騒いでいるのが追い込み漁の効果を発揮したのか、大漁もいいところだった。
 
-�K���ȂƂ���Ő؂�グ�Ȃ��ƍ��邮�炢�̒މʂ��B
+適当なところで切り上げないと困るぐらいの釣果だ。
 
-�u�c�c�������A����Ȃɂ����Ă��ǂ����悤���ȁv
+「……しかし、こんなにあってもどうしようかな」
 
 ;EVCG EV023A1
-#cg �C�x���g ev023a1 �w�i
+#cg イベント ev023a1 背景
 #wipe fade
 
-�ӂƃG���t�����̕��������΁A�܂��܂��V�є���l�q���Ȃ��B
+ふとエルフたちの方を見やれば、まだまだ遊び疲れる様子もない。
 
-���΂炭�͕����Ă����Ă����v���낤�B
+しばらくは放っておいても大丈夫だろう。
 
 ;SMODE 020 STOP
 #endscene
 
-;�w�i�F��i���j
+;背景：泉（昼）
 ;BG BG03_1
 #cg all clear
 #bg bg03_1
 #wipe fade
 
-���̋��������ċA��̂͏d������A�Ƃ肠�����H�ׂ镪�͏Ă��āA�c��͂��΂��ē����𔲂��A�����Ċ����܂ŉ��H���Ă������B
+生の魚を持って帰るのは重いから、とりあえず食べる分は焼いて、残りはさばいて内蔵を抜き、燻して干すまで加工しておこう。
 
-��������΂��΂炭�͎����낤���珕���邵�B
+そうすればしばらくは持つだろうから助かるし。
 
-���͏��������o���ƃU�N�U�N�Ƃ��΂��n�߂��B
+俺は小刀を取り出すとザクザクとさばき始めた。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg 0 clear
 #bg black
 #wipe fade
 
-;�w�i�F��i���j
+;背景：泉（昼）
 ;BG BG03_1
 #cg all clear
 #bg bg03_1
 #wipe fade
 
-�u�����A���Ȃ��������ς��B���Ƃ͂���������Ă�����������������Ă����Ă����v�A�Ɓv
+「やれやれ、おなかもいっぱい。あとはこれを干しておくだけだから放っておいても大丈夫、と」
 
-�H��ɐ����т��ς܂��A�H���O�Ɋ����Ă������J���������Ђ�����Ԃ������͂���ƐL�т������B
+食後に水浴びも済ませ、食事前に干してあった開いた魚をひっくり返した俺はうんと伸びをした。
 
-�u����[�����͎d�������Ȃ��v
+「いやー今日は仕事したなぁ」
 
-�G���t�����͂������̂��̎v���v���̗V�тɒ^���Ă���悤���B
+エルフたちはもうおのおの思い思いの遊びに耽っているようだ。
 
-���̂����肪�l�ԂƂ͈Ⴄ�Ƃ����̂��A�l�Ԃ������炱�ꂾ��������ꏏ�ɗV�т����Ȃ��̂����ǁA�ނ�͂���Ȏ��ɋ����͂Ȃ��悤���B
+このあたりが人間とは違うというのか、人間だったらこれだけいたら一緒に遊びそうなものだけど、彼らはそんな事に興味はないようだ。
 
-�v���v���ɍD������Ȃ��Ƃ����Ă��āA���܂��܂��ꂪ���v����Έꏏ�ɉ߂������A�����łȂ�΂������Ĉꏏ�ɂ��Ă��D������Ȃ��Ƃ����Ă���B
+思い思いに好き勝手なことをしていて、たまたまそれが合致すれば一緒に過ごすし、そうでなればこうして一緒にいても好き勝手なことをしている。
 
-���`������ł���C�o���Ɛ����т��y����ł���R�m�~�͂����Ƃ��āc�c�B
+泉を覗き込んでいるイバラと水浴びを楽しんでいるコノミはいいとして……。
 
-�������X�ƍs�����藈����̉������s�����J��Ԃ��Ă���c�L���ɁA�΂��W�߂Ă���q�i�^�͈�̉������Ă���񂾁H
+先程から森と行ったり来たりの怪しい行動を繰り返しているツキヨに、石を集めているヒナタは一体何をしているんだ？
 
-���̒��ł���ԋC�ɂȂ�̂́c�c�B
+その中でも一番気になるのは……。
 
-;�E�I��������
-;�`��I���ˁwb06h�x�փW�����v
-;�a��I���ˁwb06i�x�փW�����v
-;�b��I���ˁwb06k�x�փW�����v
-;�c��I���ˁwb06t�x�փW�����v
+;・選択肢発生
+;Ａを選択⇒『b06h』へジャンプ
+;Ｂを選択⇒『b06i』へジャンプ
+;Ｃを選択⇒『b06k』へジャンプ
+;Ｄを選択⇒『b06t』へジャンプ
 
 #select b06a b06b b06c b06d
-�`�F�q�i�^
-�a�F�C�o��
-�b�F�R�m�~
-�c�F�c�L��
+Ａ：ヒナタ
+Ｂ：イバラ
+Ｃ：コノミ
+Ｄ：ツキヨ
 
 
 #label b06a

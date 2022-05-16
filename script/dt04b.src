@@ -1,249 +1,249 @@
 
-�u�w�҂����A���������ˁB�Ȃ肽���Ȃ��v
+「学者かぁ、いいかもね。なりたいなぁ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibae0091
-�y�C�o���z�u���낤�H�v
+【イバラ】「だろう？」
 
-�C�o���͂܂�Ŏ����̎蕿�݂����ɂӂ񂼂�Ԃ����B
+イバラはまるで自分の手柄みたいにふんぞり返った。
 
-�u�Ȃ����Č��܂����킯����Ȃ����ǁA�Ȃ낤�Ƃ��Ă݂�̂͑厖��������Ȃ��ȁv
+「なれるって決まったわけじゃないけど、なろうとしてみるのは大事かもしれないな」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H08F1_A L
-#cg �q�i�^ hin_1_08f1_a ��
+#cg ヒナタ hin_1_08f1_a 左
 #wipe fade
 #voice hine0059
-�y�q�i�^�z�u���[�I�@����Ă݂�̂͂������Ƃ����I�v
+【ヒナタ】「おー！　やってみるのはいいことだっ！」
 
-�u����ɂ͊撣���ĉ҂��Ȃ��Ƃ����Ȃ��ȁv
+「それには頑張って稼がないといけないな」
 
 ;CHR T04F R
-#cg �c�L�� tuk_1_04f �E
+#cg ツキヨ tuk_1_04f 右
 #wipe fade
 #voice tuke0337
-�y�c�L���z�u�������������񂢂�Ȃ�A�撣���č׍H�����ł����I�v
+【ツキヨ】「お金がたくさんいるなら、頑張って細工物作るですっ！」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR I07F L
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 左
 #wipe fade
 #voice ibae0092
-�y�C�o���z�u�{�N����`���Ă���Ă��������I�v
+【イバラ】「ボクも手伝ってやってもいいぞ！」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 #voice hine0060
-�y�q�i�^�z�u�q�i�^�����I�@�q�i�^�����I�v
+【ヒナタ】「ヒナタもっ！　ヒナタもっ！」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kone0044
-�y�R�m�~�z�u���`�A�F�撣���Ăˁ`�v
+【コノミ】「お〜、皆頑張ってね〜」
 
-�c�c�ǂ������Ƃ����Ɗ�p�ȃR�m�~�Ɏ�`���Ă��炤���������͉҂����������ǁA�C�o���ƃq�i�^�̋C���������肪�����B
+……どっちかというと器用なコノミに手伝ってもらう方がお金は稼げそうだけど、イバラとヒナタの気持ちもありがたい。
 
-�u�撣���Ċw�҂ɂȂ邩�v
+「頑張って学者になるか」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�����ȒP�ɂȂ����̂���Ȃ��̂͂킩���Ă��邯�ǁA������炯�Ă݂���B
+そう簡単になれるものじゃないのはわかっているけど、おちゃらけてみせる。
 
-�w�҂ɂȂ��z�Ȃ�āA��X�w�҂̉ƌn�Ƃ��A�������ꂪ���܂��Ă��邯�ǁA�Ȃ낤�Ɩڎw�������Ȃ�N�ł��o����B
+学者になれる奴なんて、代々学者の家系とか、そう相場が決まっているけど、なろうと目指すだけなら誰でも出来る。
 
-�����ǂ������炢���̂��v���Y��ŁA���̓c�ɂ̐X�̋��ŕ����Ă������A�Ȃ�Ȃ������Ċw�҂��u�������ʔ�������Ȃ����B
+何をどうしたらいいのか思い悩んで、この田舎の森の隅で腐っていくより、なれなくたって学者を志す方が面白いじゃないか。
 
-�ǂ������̂܂܂����ɂ������āA�����ς��Ȃ��B����Ȃ炾�߂��ƂŒ��ɏo�����Ċw�҂�ڎw���̂������B
+どうせこのままここにいたって、何も変わらない。それならだめもとで町に出向いて学者を目指すのもいい。
 
-�u�܁A���s�Ɖ�������������ዳ�琅�����Ⴄ���A���������󂯂����炪�Ⴄ�񂾂��ǂ��v
+「ま、王都と俺が育った村じゃ教育水準が違うし、そもそも受けた教育が違うんだけどさ」
 
 ;CHR H04F2_A C
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hine0061
-�y�q�i�^�z�u����[�������������H�v
+【ヒナタ】「きょーいくすいじゅん？」
 
-�u�w�Z���Ȃ������̑��ƈ���āA���܂ōs���Ύ����ǂ߂邮�炢�̓z�͂��낲�낵�Ă���Ă��Ɓv
+「学校もないし俺の村と違って、町まで行けば字が読めるぐらいの奴はごろごろしてるってこと」
 
 ;CHR H01F2_A C
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hine0062
-�y�q�i�^�z�u�ق��I�@�A�^�}�����̂̓j���Q�����񂾂�����Ȃ������̂��v
+【ヒナタ】「ほぉ！　アタマいいのはニンゲンさんだけじゃなかったのか」
 
-�u���Ȃ񂩁A�����������ɓ���Ȃ���B�w�Z�ɍs���Ă�Ύ��Ȃ񂩓ǂ߂ē�����O���낤���A��������΂����Ɩ{�����ēǂ߂Ă�v
+「俺なんか、頭いいうちに入らないよ。学校に行ってれば字なんか読めて当たり前だろうし、金があればもっと本だって読めてる」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�������قȖڂŌ����Ă��邯�ǁA���ꂱ�����s�܂ōs���Ύ����ǂ߂�̂Ȃ�ď펯�̔��e���낤�B
+村じゃ奇異な目で見られているけど、それこそ王都まで行けば字が読めるのなんて常識の範疇だろう。
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0338
-�y�c�L���z�u���̐l�������F���׋��D���ł��H�v
+【ツキヨ】「その人たちも皆お勉強好きです？」
 
-�u�����A�ǂ����낤�ȁH�@���͂��܂��܂��܂�׋����o���Ȃ����ɋ�������׋��������Ďd�����Ȃ��������ǁA���Ȃ��Ⴂ���Ȃ�������ǂ����������v
+「さぁ、どうだろうな？　俺はたまたまあまり勉強が出来ない環境に居たから勉強したくて仕方がなかったけど、やらなきゃいけなかったらどうだったか」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tuke0339
-�y�c�L���z�u��������A�j���Q������̂ق�����������������Ȃ��ł��B�j���Q�����񂨕׋���D���ł��B�D���Ȃ��Ƃ͏��ɂł���ł��v
+【ツキヨ】「だったら、ニンゲンさんのほうが頭いいかもしれないです。ニンゲンさんお勉強大好きです。好きなことは上手にできるです」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kone0045
-�y�R�m�~�z�u�������ˁ`�B�y�������Ƃ͏��ɂȂ�邯�ǁA���Ȃ��Ƃ͏��ɂȂ�Ȃ�����ˁ`�v
+【コノミ】「そかもね〜。楽しいことは上手になれるけど、嫌なことは上手になれないもんね〜」
 
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 #wipe fade
 
 #voice ibae0093
-�y�C�o���z�u�{�N�͉��ł���肾���A���������v
+【イバラ】「ボクは何でも上手だし、すごいぞ」
 
 ;CHR K01F2B R
-#cg �R�m�~ kon_1_01f2b �E
+#cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice kone0046
-�y�R�m�~�z�u�C�o���́`�|��͏�肾���ǁ`�A�׍H���Ȃ�c�L���̂ق������ł���`�H�@�l�Ԃ������Ȃ񂶂�ȁ`���H�v
+【コノミ】「イバラは〜弓矢は上手だけど〜、細工物ならツキヨのほうが上手でしょ〜？　人間もそうなんじゃな〜い？」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibae0094
-�y�C�o���z�u�Ȃ񂾂�I�@�{�N�����ď��ɂł��邼�I�v
+【イバラ】「なんだよ！　ボクだって上手にできるぞ！」
 
-�u�c�c�܂��A�����������Ƃ͂��邩���v
+「……まぁ、そういうことはあるかも」
 
 ;CHR K09F1 R
-#cg �R�m�~ kon_1_09f1 �E
+#cg コノミ kon_1_09f1 右
 #wipe fade
 
 #voice kone0047
-�y�R�m�~�z�u���Ⴀ�A�����Ƒ��v�`�B��������ƂȂ����Ƃ����āA�c�L�����{�N����肾�����ł���`�H�@�����o������j���Q����������׋����ɏo�����`�v
+【コノミ】「じゃあ、きっと大丈夫〜。やったことないことだって、ツキヨもボクも上手だったでしょ〜？　やり方覚えたらニンゲンくんもお勉強上手に出来るよ〜」
 
-�u���ƁA�����ȁv
+「だと、いいな」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�׋��̂����A���B
+勉強のやり方、か。
 
-�����ȕ\�������ǁA�����v���ƒ��荇��������ȁB
+珍妙な表現だけど、そう思うと張り合いがあるな。
 
-�ǂ����A���ɍs�����Ƃ���ō��܂΂���̓��X�������Ƃ��Ă��A�o���n�_�����������������Ƃ��l����΁A����������l�߂Ă����̂͒ɉ��������B
+どうせ、町に行ったところで挫折ばかりの日々だったとしても、出発地点がそもそも遠いことを考えれば、そこから上り詰めていくのは痛快そうだ。
 
-�u����A�����������߂����璬�Ɋw�҂ɂȂ�ɍs�������ȁv
+「じゃ、俺も満月が過ぎたら町に学者になりに行こうかな」
 
 ;CHR H07F_A L
-#cg �q�i�^ hin_1_07f_a ��
+#cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hine0063
-�y�q�i�^�z�u����A���ꂪ�����Ƃ������I�v
+【ヒナタ】「うん、それがいいとおもう！」
 
-�����y����@���Ɩ{�C�ɂ����݂����Ńq�i�^����яオ�����B
+俺が軽口を叩くと本気にしたみたいでヒナタが飛び上がった。
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tuke0340
-�y�c�L���z�u�j���Q������Ȃ�A�����ƂȂ��ł��v
+【ツキヨ】「ニンゲンさんなら、きっとなれるです」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR K04F L
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice kone0048
-�y�R�m�~�z�u�撣���Ăˁ`�v
+【コノミ】「頑張ってね〜」
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibae0095
-�y�C�o���z�u�{�N�������Ă�����񂾂���A���ӂ���v
+【イバラ】「ボクが教えてやったんだから、感謝しろ」
 
-�u�͂��͂��v
+「はいはい」
 
-�F�A�����w�҂ɂȂ���̂��Ƃ�����ۂ������^���ĂȂ��āA�v�킸�΂��Ă��܂��B
+皆、俺が学者になるものだとこれっぽっちも疑ってなくて、思わず笑ってしまう。
 
-����ȂɊȒP�Ȃ��̂���Ȃ��̂͂킩���Ă��邯�ǁA�G���t�l������ȂɐM���Ă���Ă���Ȃ�A�{���Ɋw�҂ɂ����ĂȂ�Ă��܂��������B
+そんなに簡単なものじゃないのはわかっているけど、エルフ様がこんなに信じてくれているなら、本当に学者にだってなれてしまいそうだ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibae0096
-�y�C�o���z�u�撣���ĕ׋����Ĉ̂��w�҂ɂȂ�񂾂��v
+【イバラ】「頑張って勉強して偉い学者になるんだぞ」
 
-�u�킩������v
+「わかったよ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tuke0341
-�y�c�L���z�u�j���Q������Ȃ炫���ƈ̂��w�҂ɂȂ��ł��v
+【ツキヨ】「ニンゲンさんならきっと偉い学者になれるです」
 
-�������グ�鏃�^�ȓ����Ȃ�ƂȂ�������������������ꂽ�B
+俺を見上げる純真な瞳がなんとなくくすぐったく感じられた。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;�c�L���D���x+1
+;ツキヨ好感度+1
 #set f4 f4+1
 
-;dt05��
+;dt05へ
 #next dt05

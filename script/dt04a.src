@@ -1,256 +1,256 @@
 
-�u�����ꂾ��v
+「夢物語だよ」
 
-�������Ƃ��āA���͗͂Ȃ������΂������Ȃ������B
+現実問題として、俺は力なくそう笑うしかなかった。
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tuke0330
-�y�c�L���z�u�c�c���A�ł��H�v
+【ツキヨ】「……夢、です？」
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hine0053
-�y�q�i�^�z�u��߁H�@�j���Q������˂Ă�̂��I�H�v
+【ヒナタ】「ゆめ？　ニンゲンさんねてるのっ！？」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibae0086
-�y�C�o���z�u�Q���܂ܘb���ł���Ȃ�Ċ�p�Ȃ���ȁB�厖�Șb�����Ă�񂾂��炿���ƋN�����I�v
+【イバラ】「寝たまま話ができるなんて器用なやつだな。大事な話をしてるんだからちゃんと起きろよ！」
 
-�u����A�ʂɐQ�Ă͂��Ȃ����ǁc�c�v
+「いや、別に寝てはいないけど……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice kone0039
-�y�R�m�~�z�u�j���Q������͋N���ĂĖ���������́`�H�@����͂������ˁ`�v
+【コノミ】「ニンゲンくんは起きてて夢が見られるの〜？　それはすごいね〜」
 
-�u������A���Ȃ񂩌��ĂȂ����Ă΁v
+「だから、夢なんか見てないってば」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibae0087
-�y�C�o���z�u�͂����肵�Ȃ�����ȁB�Q�Ă�̂��Q�ĂȂ��̂��A�ǂ����Ȃ񂾁I�H�v
+【イバラ】「はっきりしないやつだな。寝てるのか寝てないのか、どっちなんだ！？」
 
-�u���Ȃ񂩂��w�҂ɂȂ낤�Ȃ�āA���݂����ɒ݂͂ǂ��낪�Ȃ����Ă������A�r�����Ȃ����Ęb�v
+「俺なんかが学者になろうなんて、夢みたいに掴みどころがないっていうか、途方もないって話」
 
-�w�҂ɂȂ��z�Ȃ�āA��X�w�҂̉ƌn�Ƃ��A�������ꂪ���܂��Ă���񂾁B
+学者になれる奴なんて、代々学者の家系とか、そう相場が決まっているんだ。
 
-����ȓc�ɂł�����Ɗw�₪�D����������Ă��������Ȃ����񂶂�Ȃ��B
+こんな田舎でちょっと学問が好きだからってそうそうなれるもんじゃない。
 
-�����̂����Ă������܂����B
+憧れるのだっておこがましい。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibae0088
-�y�C�o���z�u�Ȃ񂾂���ς���C���Ȃ��񂶂�Ȃ����v
+【イバラ】「なんだやっぱりやる気がないんじゃないか」
 
-�����ς�ƃC�o���͐؂��Ď̂Ă�B
+きっぱりとイバラは切って捨てる。
 
-�C�o���������Ă邱�Ƃ͐��_�Ȃ̂ɁA���͎v�킸�ނ��Ƃ����B
+イバラが言ってることは正論なのに、俺は思わずむっとした。
 
-�u�ȒP�Ɍ������ǂ��A����ȂɊy�Ȃ��񂶂�Ȃ��񂾂�B���������A���s�Ɖ�������������ዳ�琅�����Ⴄ�B���������󂯂����炪�Ⴄ�񂾂���v
+「簡単に言うけどさ、そんなに楽なもんじゃないんだよ。そもそも、王都と俺が育った村じゃ教育水準が違う。そもそも受けた教育が違うんだから」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�c�c���C���Ȃ��킯����Ȃ��B�����A���ʂقǊ撣��΂Ȃ��̂�������Ȃ��B�ł��B
+……やる気がないわけじゃない。そりゃ、死ぬほど頑張ればなれるのかもしれない。でも。
 
-�w�Z����Ȃ��A�����ǂ߂�Ƃ��������Ŋ�قɌ����邱�̑��ŁA�����w������Ǝ������Ă邩��Ƃ����ĉ������Č����񂾁B
+学校すらない、字が読めるというだけで奇異に見られるこの村で、多少学があると自負してるからといって何だって言うんだ。
 
-�����x�̓z�Ȃ�đ������܂ōs���΂��낲�낵�Ă���B
+俺程度の奴なんて多分町まで行けばごろごろしている。
 
 ;CHR H04F2_A R
-#cg �q�i�^ hin_1_04f2_a �E
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 
 #voice hine0054
-�y�q�i�^�z�u�ӂ��`��A�j���Q������A�^�}�����̂ɂˁB�ق��̃j���Q���͂����ƃA�^�}�����̂��v
+【ヒナタ】「ふぅ〜ん、ニンゲンさんアタマいいのにね。ほかのニンゲンはもっとアタマいいのか」
 
-�u��������B�w�Z�ɍs���Ă�Ύ��Ȃ񂩓ǂ߂ē�����O���낤���A��������΂����Ɩ{�����ēǂ߂�B���Ŋw�Z�ɍs���Ă�z��Ȃ牴�Ȃ񂩂������Ɠ����������v
+「そうだよ。学校に行ってれば字なんか読めて当たり前だろうし、金があればもっと本だって読める。町で学校に行ってる奴らなら俺なんかよりもっと頭がいいさ」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
-�����f���o���悤�Ɍ����ƁA�c�L���͊�𕚂��Ă��܂����B���̌����������k���Ă���B
+俺が吐き出すように言うと、ツキヨは顔を伏せてしまった。その肩が小さく震えている。
 
 #voice tuke0331
-�y�c�L���z�u�c�c�ł��v
+【ツキヨ】「……です」
 
 ;CHR H01F2_A R
-#cg �q�i�^ hin_1_01f2_a �E
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 
 #voice hine0055
-�y�q�i�^�z�u��H�@�c�L���ǂ����́H�v
+【ヒナタ】「ん？　ツキヨどしたの？」
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0332
-�y�c�L���z�u���c�c���A�悭�c�c�ł��v
+【ツキヨ】「俺……か、よく……です」
 
-�u���H�@���H�v
+「え？　何？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T07F_L C
-#cg �c�L�� tuk_1_07f_l ��
+#cg ツキヨ tuk_1_07f_l 中
 #wipe fade
 
 #voice tuke0333
-�y�c�L���z�u���Ȃ񂩁A���Ă����̂悭�Ȃ��ł��v
+【ツキヨ】「俺なんか、っていうのよくないです」
 
-�c�L���͊���グ�āA���Ԃ悤�Ɍ������B
+ツキヨは顔を上げて、叫ぶように言った。
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 #voice hine0056
-�y�q�i�^�z�u����v
+【ヒナタ】「わっ」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0334
-�y�c�L���z�u�c�L���͉����Ȃ��A���Ă����Ă��ꂽ�ł��B�j���Q������͉��Ȃ񂩁A����Ȃ��ł��v
+【ツキヨ】「ツキヨは汚くない、っていってくれたです。ニンゲンさんは俺なんか、じゃないです」
 
-�c�L���͐^���Ȋ�ŉ��Ɍ������Č������B
+ツキヨは真剣な顔で俺に向かって言った。
 
-�u�����͌������ǂ��c�c�v
+「そうは言うけどさ……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-��𕚂������ɃR�m�~���ǂ������������ĕ����Ă����B
+顔を伏せた俺にコノミが追い討ちをかけて聞いてきた。
 
 ;CHR K02F1 C
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice kone0040
-�y�R�m�~�z�u�j���Q������͊w�҂ɂȂ肽���Ȃ��́`�H�v
+【コノミ】「ニンゲンくんは学者になりたくないの〜？」
 
-�u����́c�c�v
+「それは……」
 
 #voice kone0041
-�y�R�m�~�z�u�l�Ԃėǂ������Y��ȕ��������Ɂ`���݂����`���Č�����ˁ`�H�@��������A�{���̓j���Q��������w�҂ɂȂ肽���񂶂�Ȃ��́`�H�v
+【コノミ】「人間て良い物や綺麗な物見た時に〜夢みたい〜って言うよね〜？　だったら、本当はニンゲンくんも学者になりたいんじゃないの〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H06F2_A R
-#cg �q�i�^ hin_1_06f2_a �E
+#cg ヒナタ hin_1_06f2_a 右
 #wipe fade
 
 #voice hine0057
-�y�q�i�^�z�u�L���C�Ȃ��̂����烆�������I�@���Ⴀ�A����������ăj���Q������ɂ̓^�J�����m�Ȃ̂��I�H�v
+【ヒナタ】「キレイなものだからユメかっ！　じゃあ、がくしゃってニンゲンさんにはタカラモノなのっ！？」
 
-�u���c�c�v
+「っ……」
 
-���̒ʂ肾�B
+その通りだ。
 
-��̓͂��Ȃ��󕨂݂����ȑ厖�Ȗ��B�w�����킦�Č��Ă��邾���́A���Ă��邾���Ȃ牽������Ȃ��ł��ޖ��B
+手の届かない宝物みたいな大事な夢。指をくわえて見ているだけの、見ているだけなら何一つ傷つかないですむ夢。
 
 ;CHR I05F L
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 左
 #wipe fade
 
 #voice ibae0089
-�y�C�o���z�u�Ȃ肽����Ȃ�Ȃ�΂����񂶂�Ȃ����v
+【イバラ】「なりたいんならなればいいんじゃないか」
 
-�u�y�������Ă�����ȁv
+「軽く言ってくれるよな」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kone0042
-�y�R�m�~�z�u�����ă{�N��ɂ͊֌W�Ȃ����́`�v
+【コノミ】「だってボクらには関係ないもの〜」
 
-�̂قق�ƌ����ċC��������B
+のほほんと言われて気が抜ける。
 
 ;CHR K04F R
-#cg �R�m�~ kon_1_04f �E
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice kone0043
-�y�R�m�~�z�u�j���Q�����񂪐����鎞�ԂȂ�ā`�A���ꂱ���{�N��ɂ��Ă݂���`�������Ă邮�炢�Z�����ԂȂ񂾂��`��������y��������������������`�H�v
+【コノミ】「ニンゲンくんが生きる時間なんて〜、それこそボクらにしてみたら〜夢を見てるぐらい短い時間なんだし〜だったら楽しい夢見た方がいいよ〜？」
 
-�u�c�c��������������ȁv
+「……それもそうかもな」
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 #voice hine0058
-�y�q�i�^�z�u������B��߂͂��̂����̂���������v
+【ヒナタ】「そだよ。ゆめはたのしいのがいいよっ」
 
 ;CHR I07F L
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 左
 #wipe fade
 
 #voice ibae0090
-�y�C�o���z�u�o���Ȃ����Ďv������A�o������̂��o���Ȃ����ǁA�o������Ďv������o���Ȃ����Ƃ��o����񂾂��I�H�v
+【イバラ】「出来ないって思ったら、出来るものも出来ないけど、出来るって思ったら出来ないことも出来るんだぞ！？」
 
-�u����Ȗ����ꒃ�ȁc�c�v
+「そんな無茶苦茶な……」
 
-�v�킸��΂��Ă��܂������ǁA����͂�����������Ȃ��ȂƂ��v�����B
+思わず苦笑してしまったけど、それはそうかもしれないなとも思った。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T02F C
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tuke0335
-�y�c�L���z�u���������������c�c�v
+【ツキヨ】「あぅううううう……」
 
-�u���Ȃ񂩁A�Ȃ�Č����Ă��߂�B���Ȃ񂩂���Ȃ����Ă����Ă���Ă��肪�Ƃ��v
+「俺なんか、なんて言ってごめん。俺なんかじゃないっていってくれてありがとう」
 
 #voice tuke0336
-�y�c�L���z�u�͂���c�c�I�H�v
+【ツキヨ】「はわっ……！？」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
-��������ƁA�c�L���͊��������ɏ΂����B
+礼を言うと、ツキヨは嬉しそうに笑った。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;dt05��
+;dt05へ
 #next dt05

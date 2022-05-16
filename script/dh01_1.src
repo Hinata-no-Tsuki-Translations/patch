@@ -1,10 +1,10 @@
 
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG40_1
 
 #mes off fade
@@ -27,432 +27,432 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
 #bgvoice stop
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 #bg BG07b_3
 #wipe fade
 
-�I�[�N�悯�̎􂢂��{���Ă�����A�������Ă��܂����B���낢��߂�ǂ������菇�Ƃ�����������ȁB
+オークよけの呪いを施していたら、日が暮れてしまった。いろいろめんどくさい手順とかあったもんな。
 
-�������ō����͐H���̎x�x������̂��������邭�Ă��傤���Ȃ��B
+おかげで今日は食事の支度をするのがかったるくてしょうがない。
 
-�u���������A���N�Ȃ��̂��Ȃ��ȁc�c�v
+「しっかし、ロクなものがないな……」
 
-;SE �I��������
+;SE 棚をいじる
 
-���͐H�ƒI�����ē���������B
+俺は食糧棚を見て頭を抱えた。
 
-���傤�ǂ����H�ׂ�ꂻ���Ȃ��̂͐؂炵�Ă�Ƃ��������̂����O���Ă����B
+ちょうどすぐ食べられそうなものは切らしてるとこだったのを失念していた。
 
-�ۑ��H���o���Ă��������ǁA�������Ƃ��߂��̂Ƃ��߂�ǂ������B
+保存食を出してもいいけど、塩抜きとか戻すのとかめんどくさい。
 
-���Ɓc�c���Ƃ͓K���ɂ�����̂��ς邭�炢�ł������B
+芋と……あとは適当にあるものを煮るくらいでいいか。
 
 ;CHR H01F2_A C
-#cg �q�i�^ hin_1_01f2_a ��
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinf0001
-�y�q�i�^�z�u�j���Q������A�j���Q������A�Ȃɂ��񂪂��Ă�̂��I�H�v
+【ヒナタ】「ニンゲンさん、ニンゲンさん、なにかんがえてるのっ！？」
 
-�u��[�A���ӂ͉���H�ׂ悤���Y��ł�񂾁v
+「んー、今晩は何を食べようか悩んでるんだ」
 
 ;CHR H06F1_A
-#cg �q�i�^ hin_1_06f1_a ��
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinf0002
-�y�q�i�^�z�u�ق����������I�H�@�܂��Ȃ񂩂��ׂ�̂��I�H�@�j���Q������͂�������ڂ��˂��I�H�v
+【ヒナタ】「ほぉおおおっ！？　またなんかたべるのっ！？　ニンゲンさんはくいしんぼだねっ！？」
 
-�u�܂��Ȃ񂩁A���č����͒�������Ɖʕ�ꖂ������肾���ǁv
+「またなんか、って今日は朝ちょっと果物齧ったきりだけど」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F2B C
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konf0001
-�y�R�m�~�z�u�����H�ׂĂ����`�A����������ς��H�ׂĂ��̂ɂˁ`�v
+【コノミ】「朝も食べてたし〜、昨日もいっぱい食べてたのにね〜」
 
-�u�l�Ԃ͖����H��������̂Ȃ́B�ł���΂Q�H���炢�͐H�ׂ������v
+「人間は毎日食事するものなの。できれば２食ぐらいは食べたいし」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tukf0001
-�y�c�L���z�u�l�Ԃ͂����l���o�Ē��ނ܂łɂQ�񂲔ѐH�ׂ����ł��H�v
+【ツキヨ】「人間はお日様が出て沈むまでに２回ご飯食べたいです？」
 
-�u���������v
+「そうそう」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H11F_A C
-#cg �q�i�^ hin_1_11f_a ��
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinf0003
-�y�q�i�^�z�u�����ς����ׂ�񂾂˂��v
+【ヒナタ】「いっぱいたべるんだねっ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibaf0001
-�y�C�o���z�u����قǂ�������̖���D��Ȃ��ᐶ���Ă����Ȃ��񂾂���A�l�Ԃ͍ߐ[�����������ȁv
+【イバラ】「それほどたくさんの命を奪わなきゃ生きていけないんだから、人間は罪深い生き物だな」
 
-�u�Ȃ񂾂�B���������Ĕт��炢�H�����A�A���̒��ɂ����Ƃ��H�ׂ�z�����邶��Ȃ����v
+「なんだよ。動物だって飯ぐらい食うし、植物の中にも虫とか食べる奴がいるじゃないか」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K06F C
-#cg �R�m�~ kon_1_06f ��
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konf0002
-�y�R�m�~�z�u�����H�ׂ�����̒��ׂā`�A���͉ʕ��Ƃ��H�ׂā`�A��ɂȂ�����܂����т̎x�x���ā`�c�c�j���Q������͂������H�ׂ邱�Ƃ΂����肾�ˁ`�v
+【コノミ】「毎日食べられるもの調べて〜、朝は果物とか食べて〜、夜になったらまたご飯の支度して〜……ニンゲンくんはいっつも食べることばっかりだね〜」
 
-�u�d���Ȃ�����B�����ۑ��H�ŉ߂������Ă킯�ɂ������Ȃ����A�������̂΂�����H�ׂ�̂��̂ɗǂ��Ȃ��񂾂��v
+「仕方ないだろ。毎日保存食で過ごすってわけにもいかないし、同じものばっかり食べるのも体に良くないんだぞ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�g�p�l�Ƃ�������悤�Ȑg���Ȃ�A���ꂱ���H���̎x�x��g�̉��̐��b�͎g�p�l�ɔC���āA�w��ɖv��������ł���񂾂낤���ǂ��B
+使用人とかがいるような身分なら、それこそ食事の支度や身の回りの世話は使用人に任せて、学問に没頭したりできるんだろうけどさ。
 
-�����A�������Ă���Ȑ������Ă݂�����B
+そりゃ、俺だってそんな生活してみたいよ。
 
-;SE se013 ���̃o�^�����i�I�������鉹�j
+;SE se013 扉のバタン音（棚をいじる音）
 
-�u���āA��؂ƈ��Ɓc�c���ς邩�ȁH�@���A�������؂炵�Ă�v
+「さて、野菜と芋と……何煮るかな？　あ、干し肉切らしてる」
 
-�����������悤���Ǝv�������ǁA���傤�ǐ؂炵�ĂĂ����炪������҂肵���Ȃ��B
+干し肉を入れようかと思ったけど、ちょうど切らしててかけらがちょっぴりしかない。
 
-�������Ȃ炱�̊ԕ��ׂ��Ђ��O�ɂƂ��Ă����z���c���Ă邯�ǁA���𗿗�����̂ɂ͎�Ԃ������邵�A�����̂Ƃ���͓��⋛�͉䖝���邩�B
+干し魚ならこの間風邪をひく前にとってきた奴が残ってるけど、魚を料理するのには手間がかかるし、今日のところは肉や魚は我慢するか。
 
-;SE�@��̉�
+;SE　包丁の音
 
-�u�ӂ�ӂ�Ӂ`���v
+「ふんふんふ〜ん♪」
 
-�����@�̂��̂��Ȃ��璲�����͂��߂�ƁA�F���ʔ������ɉ��̖T�Ɋ���Ă����B
+俺が鼻歌を歌いながら調理をはじめると、皆が面白そうに俺の傍に寄ってきた。
 
 ;CHR K01F1B R
-#cg �R�m�~ kon_1_01f1b �E
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konf0003
-�y�R�m�~�z�u�ˁ`�ˁ`�A�����͂����Ƃ������ł͉�������Ȃ��́`�H�v
+【コノミ】「ね〜ね〜、今日はお肉とかお魚では何かつくらないの〜？」
 
-�u�����͖�؂��ςď`���ƐH�ׂ邾���ɂ��悤���Ǝv���Ă��B�����͓����H�ׂ�����������㩂ɉ����|�����ĂȂ���������ɍs���Ȃ���ȁv
+「今日は野菜を煮て汁ごと食べるだけにしようかと思ってるよ。明日は肉が食べたいから作った罠に何か掛かってなかったら狩りに行かなきゃな」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L L
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tukf0002
-�y�c�L���z�u�c�L����㩍��́A����`�������ł��v
+【ツキヨ】「ツキヨも罠作るの、お手伝いしたです」
 
-�u�����A���ꂾ�B����Ƀi�L�E�T�M�ł��|�����Ă���ō��Ȃ񂾂��ǁv
+「そう、あれだ。あれにナキウサギでも掛かってたら最高なんだけど」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hinf0004
-�y�q�i�^�z�u�����[��I�@�i�L�E�T�M���ׂ��Ⴄ�̂��I�H�@�i�L�E�T�M�����������킢���Ăӂ�ӂ�Ȃ̂ɁI�H�v
+【ヒナタ】「ががーん！　ナキウサギたべちゃうのっ！？　ナキウサギすっごくかわいくてふわふわなのに！？」
 
-�u�i�L�E�T�M�͎J���₷�����A�������܂��񂾂�ȁv
+「ナキウサギは捌きやすいし、肉もうまいんだよな」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibaf0002
-�y�C�o���z�u���H�ׂ�񂶂�A�܂����̂����肪���������Ȃ�ȁB���Ȃ񂩐H�ׂ�̂�߂�΂����̂ɁI�v
+【イバラ】「肉食べるんじゃ、またこのあたりがくっさくなるな。肉なんか食べるのやめればいいのに！」
 
-�u�������Ă��܂ɂ͂����Ƃ�������H��Ȃ���͂��o�Ȃ���v
+「俺だってたまにはちゃんとがっつり肉食わなきゃ力が出ないよ」
 
 ;CHR I09F L
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibaf0003
-�y�C�o���z�u�͂��I�H�@�i�L�E�T�M�Ƃ������̂���Ȃ��āA�g�����Ƃ��I�[�N�Ƃ����\�҂�H�ׂ�������炢���񂶂�Ȃ����I�H�v
+【イバラ】「はっ！？　ナキウサギとか可愛いのじゃなくて、トロルとかオークとか乱暴者を食べちゃったらいいんじゃないか！？」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tukf0003
-�y�c�L���z�u�C�o���������ł��B�i�L�E�T�M�������Ⴂ���ǁA�I�[�N��g�����͂����������炫���Ƃ����ς��H�ׂ���ł��v
+【ツキヨ】「イバラ頭いいです。ナキウサギちっちゃいけど、オークやトロルはおっきいからきっといっぱい食べられるです」
 
-�u������A����Ȃ́B���������Ȃ���������Ȃ����B��́A���������ł�������o�Ă�����킦�Ȃ����A�l�Ԍ^�̂��̂�H�ׂ�̂͒�R���邵�v
+「嫌だよ、そんなの。美味しくなさそうじゃないか。大体、俺自分よりでかいやつが出てきたら戦えないし、人間型のものを食べるのは抵抗あるし」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���̊Ԍ�������v���o�����肶��A�I�[�N�Ȃ�Ăǂ������Ƃ����Ɠ����ɂ��������Ȃ��������ǁA����ł��Q�����s�ŉ�b����m�\�̂�����̂�H�ׂ����Ǝv��Ȃ��B
+この間見たやつを思い出す限りじゃ、オークなんてどっちかというと動物にしか見えなかったけど、それでも２足歩行で会話する知能のあるものを食べたいと思わない。
 
-���΂ɂ���͂ǂ���������݊O������������������邵�B
+流石にそれはどっか一線踏み外しちゃった感じがするし。
 
 ;CHR K01F2A R
-#cg �R�m�~ kon_1_01f2a �E
+#cg コノミ kon_1_01f2a 右
 #wipe fade
 
 #voice konf0004
-�y�R�m�~�z�u�I�[�N�́`�l�Ԃ��H�ׂ��Ⴄ����`�A���Ԃ��Ƀj���Q�����񂪃I�[�N�H�ׂ��Ⴄ�̂͂����l���Ǝv�����ǂȁ`�v
+【コノミ】「オークは〜人間も食べちゃうから〜、お返しにニンゲンくんがオーク食べちゃうのはいい考えと思うけどな〜」
 
-�u�l�Ԃ�H�ׂ��Ⴄ���̂�H�ׂ�Ȃ�āA�܂��܂��₾��I�H�@���H���݂�������Ȃ����v
+「人間を食べちゃうものを食べるなんて、ますますやだよ！？　共食いみたいじゃないか」
 
 ;CHR K08F R
-#cg �R�m�~ kon_1_08f �E
+#cg コノミ kon_1_08f 右
 #wipe fade
 
 #voice konf0005
-�y�R�m�~�z�u�������`�A�j���Q������͂킪�܂܂��Ȃ��`�v
+【コノミ】「そかぁ〜、ニンゲンくんはわがままだなぁ〜」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR I06F R
-#cg �C�o�� iba_1_06f �E
+#cg イバラ iba_1_06f 右
 #wipe fade
 
 #voice ibaf0004
-�y�C�o���z�u�Ă������A�����Ƃ������͏L������A���߂ĉʕ��Ƃ����َq�΂�����H�ׂ�΂����񂾂�v
+【イバラ】「ていうか、お魚とかお肉は臭いから、せめて果物とかお菓子ばっかり食べればいいんだよ」
 
 ;CHR H01F1_A L
-#cg �q�i�^ hin_1_01f1_a ��
+#cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinf0005
-�y�q�i�^�z�u�������I�H�@�j���Q������A�������̓q�i�^�����ɂ�������ˁI�H�v
+【ヒナタ】「おかし！？　ニンゲンさん、おかしはヒナタたちにもくれるよね！？」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 #voice tukf0004
-�y�c�L���z�u�Â��̔��������ł��v
+【ツキヨ】「甘いの美味しいです」
 
-�u���َq�������͂Ȃ����ǁA����ς�����؂��H�ׂ��ق����̂ɂ͂�������Ȃ��v
+「お菓子も悪くはないけど、やっぱり肉や野菜も食べたほうが体にはいいからなぁ」
 
 ;CHR H04F2_A L
-#cg �q�i�^ hin_1_04f2_a ��
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinf0006
-�y�q�i�^�z�u�j���Q������A�������炢�͂��߂���I�H�v
+【ヒナタ】「ニンゲンさん、すききらいはだめだよ！？」
 
-�u������A�����Ȃ킯����Ȃ����āB�l�Ԃ͂����Ȃ��̂�H�ׂ�悤�ɂ��Ȃ��ƁA�̂ɕs�s�����o���肷��񂾂�v
+「だから、嫌いなわけじゃないって。人間はいろんなものを食べるようにしないと、体に不都合が出たりするんだよ」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR K05F R
-#cg �R�m�~ kon_1_05f �E
+#cg コノミ kon_1_05f 右
 #wipe fade
 #voice konf0006
-�y�R�m�~�z�u�ց`�A�j���Q������͕s�ւȑ̂��Ă�񂾂ˁ`�v
+【コノミ】「へ〜、ニンゲンくんは不便な体してるんだね〜」
 
-�u�͂��͂��B�l�Ԃ͕s�ւł���v
+「はいはい。人間は不便ですよ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;SE�@se028	�΂𐅂ɗ��Ƃ��i����΂ɂ����鉹�j
+;SE　se028	石を水に落とす（鍋を火にかける音）
 
-���������c���Ă����������Ɛ؂�����؂��ɓ���A���𒍂��ŉ΂ɂ�����B
+少しだけ残っていた干し肉と切った野菜を鍋に入れ、水を注いで火にかける。
 
-;SE�@�ς��鉹
+;SE　煮える音
 
-�����N���n�߂�ƁA�F����������߂Čジ�������B
+湯が湧き始めると、皆が顔をしかめて後ずさった。
 
 ;CHR I01F R
-#cg �C�o�� iba_1_01f �E
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaf0005
-�y�C�o���z�u����A����ς萶�L�����ȏL�����邼�I�H�v
+【イバラ】「これ、やっぱり生臭い嫌な臭いするぞ！？」
 
 ;CHR H03F1_A L
-#cg �q�i�^ hin_1_03f1_a ��
+#cg ヒナタ hin_1_03f1_a 左
 #wipe fade
 
 #voice hinf0007
-�y�q�i�^�z�u���ɂ��ł��͂�����Ă�g�L�̃j�I�C������I�v
+【ヒナタ】「おにくでごはんつくってるトキのニオイがする！」
 
-�u�����H�@�ق�̂�����҂肾���c���Ă��������g�����񂾂��ǁv
+「そう？　ほんのちょっぴりだけ残ってた干し肉使ったんだけど」
 
 ;CHR OFF
-#cg �C�o�� clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice tukf0005
-�y�c�L���z�u���������H�ׂȂ��񂶂�Ȃ������ł��H�v
+【ツキヨ】「今日お肉食べないんじゃなかったです？」
 
-�u�Ϗ`�ɏ��������Ă邮�炢����A���H�ׂ����ċC�͂��Ȃ����ȁv
+「煮汁に少し入ってるぐらいじゃ、肉食べたって気はしないかな」
 
 ;CHR OFF
-#cg �q�i�^ clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR K08F L
-#cg �R�m�~ kon_1_08f ��
+#cg コノミ kon_1_08f 左
 #wipe fade
 
 #voice konf0007
-�y�R�m�~�z�u���킟�`�c�c�{�N���̓����D�����Ȃ��`�v
+【コノミ】「うわぁ〜……ボクこの匂い好きくない〜」
 
-�u���ɂ͑S�R�킩��Ȃ����ǁA�F�@�������ȁv
+「俺には全然わからないけど、皆鼻がいいな」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR I04F R
-#cg �C�o�� iba_1_04f �E
+#cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibaf0006
-�y�C�o���z�u���Ȃ񂩐H�ׂ邩��o�`���������āA�@���l�܂��Ă�񂶂�Ȃ��̂��I�H�v
+【イバラ】「肉なんか食べるからバチが当たって、鼻が詰まってるんじゃないのか！？」
 
 ;CHR K01F2A L
-#cg �R�m�~ kon_1_01f2a ��
+#cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konf0008
-�y�R�m�~�z�u�{�N��݂����ɂ�������Ł`�����l�ɓ������Ă݂���ǂ����ȁ`�H�@�ĊO�H�ׂȂ��Ă����C��������Ȃ���`�H�v
+【コノミ】「ボクらみたいにお水飲んで〜お日様に当たってみたらどうかな〜？　案外食べなくても平気かもしれないよ〜？」
 
-���̓��������Ȃ̂͂킩���Ă邯�ǁA�����������悤���ȁB
+肉の匂いが苦手なのはわかってるけど、すごい言われようだな。
 
-�܁A�ȑO�͓��⋛�𒲗����n�߂邾���ŁA����������������œ����Ă����Ă��񂾂���A����ɔ�ׂ�Έ͂�Ŕl��邮�炢�ɂ͊��ꂽ���Ă��Ƃ��B
+ま、以前は肉や魚を調理し始めるだけで、小屋からもすっ飛んで逃げていってたんだから、それに比べれば囲んで罵れるぐらいには慣れたってことか。
 
-�u���΂炭�Ȃ���v���낤���ǁA����Ȃ��Ɛl�Ԃ��������������ɂȂ����Ⴄ��B���A�o�����v
+「しばらくなら大丈夫だろうけど、そんなこと人間がやったら日干しになっちゃうよ。さ、出来た」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�q�i�^�����Ƙb�����Ă���ԂɁA��؂͏_�炩���ς����B
+ヒナタたちと話をしている間に、野菜は柔らかく煮えた。
 
-���Ə����̍��h���Ŗ��𐮂���B
+塩と少しの香辛料で味を整える。
 
-�u���āA���͐H���ɂ����v
+「さて、俺は食事にするよ」
 
-��؂��Ə`����ɐ����Ċ��܂ŉ^�ԂƁA�F���鋰��Ƃ�������Ŋ��`�����݊�������߂��B
+野菜ごと汁を器に盛って机まで運ぶと、皆恐る恐るといった顔で器を覗き込み顔をしかめた。
 
-�u�ʂɖ����ɐH�ׂ����悤�Ƃ͌����ĂȂ��񂾂���A����ȂɌ������Ȋ�Ŋώ@���Ȃ��Ă��v
+「別に無理に食べさせようとは言ってないんだから、そんなに嫌そうな顔で観察しなくても」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaf0007
-�y�C�o���z�u������O���I�@����Ȃ��̖����ɐH�ׂ����悤�Ƃ�����c�c�Ђ₟�I�v
+【イバラ】「当たり前だ！　そんなもの無理に食べさせようとしたら……ひやぁ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�z�����Ă݂Ă�قǈ������������̂��A�C�o���͔ߖ݂����Ȑ����グ�āA�����̋��ւƔ�ёނ����B
+想像してみてよほど悪寒が走ったのか、イバラは悲鳴みたいな声を上げて、部屋の隅へと飛び退った。
 
 ;CHR K07F L
-#cg �R�m�~ kon_1_07f ��
+#cg コノミ kon_1_07f 左
 #wipe fade
 
 #voice konf0009
-�y�R�m�~�z�u���`��A�{�N���������������ȁ`�v
+【コノミ】「う〜ん、ボクも遠慮したいかな〜」
 
 ;CHR T02F R
-#cg �c�L�� tuk_1_02f �E
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 
 #voice tukf0006
-�y�c�L���z�u�ł��v
+【ツキヨ】「です」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���̊F���W���W���ƌジ�����Ă����B
+他の皆もジリジリと後ずさっていく。
 
-�u���������܂��v
+「いただきます」
 
-�������ꂽ���ǁA�������Ȋ�����Ȃ���H�������Ă��鉴���������Ɍ��Ă�̂́A�|�����̌��������Ă�Ȃ̂�������Ȃ��ȁB
+もう慣れたけど、嫌そうな顔をしながら食事をしている俺を遠巻きに見てるのは、怖いもの見たさってやつなのかもしれないな。
 
-�u�c�c����A�܂��܂����܂��ł������v
+「……うん、まぁまぁうまくできたか」
 
-����ς菭���ł������������ق����������ȁB��������ƂȂ��Ƃ����Ⴂ���B
+やっぱり少しでも肉が入ったほうが美味いな。肉があるとないとじゃ大違いだ。
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibaf0008
-�y�C�o���z�u�������c�c���񂾁v
+【イバラ】「うぇっ……飲んだ」
 
-�C�����������ɃC�o�����������߂�B
+気持ち悪そうにイバラが眉を顰める。
 
-�q�i�^���s�v�c�����Ȋ�Ŗ₢�����Ă����B
+ヒナタも不思議そうな顔で問いかけてきた。
 
 ;CHR H04F1_A R
-#cg �q�i�^ hin_1_04f1_a �E
+#cg ヒナタ hin_1_04f1_a 右
 #wipe fade
 
 #voice hinf0008
-�y�q�i�^�z�u�j���Q������A����͂��������́H�v
+【ヒナタ】「ニンゲンさん、それはおいしいの？」
 
-;�I��������
+;選択肢発生
 #select a b
-�`�F�H�ׂĂ݂�H
-�a�F����������
+Ａ：食べてみる？
+Ｂ：美味しいよ
 
 #label a
 #next dh01a top
@@ -460,5 +460,5 @@
 #label b
 #next dh01b top
 
-;�`��I���ˁwdh01a�x�փW�����v
-;�a��I���ˁwdh01b�x�փW�����v
+;Ａを選択⇒『dh01a』へジャンプ
+;Ｂを選択⇒『dh01b』へジャンプ

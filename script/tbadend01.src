@@ -1,221 +1,221 @@
 
 #bgvoice stop
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�������i���j
+;背景：山小屋中（昼）
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-�u���ɁA�߂��v
+「村に、戻るよ」
 
-�K�v�Ƃ��Ă��ꂽ�Ƃ������Ƃ́A���̑��ɉ��̋��ꏊ������Ƃ������ƂȂ񂾂낤�B
+必要としてくれたということは、あの村に俺の居場所があるということなんだろう。
 
-���s�ɍs�����Ƃ���Ŋw�҂ɂ͂Ȃ�Ȃ���������Ȃ��B����A�����ƂȂ�Ȃ��B
+王都に行ったところで学者にはなれないかもしれない。いや、きっとなれない。
 
-���炿�Ŋw���Ȃ����Ȃ񂩂��w�҂ɂȂ��킯���Ȃ��B�����A���s�ɏo���Ƃ���ŉ��҂ɂ��Ȃꂸ�H���l�߂�̂��I�`���낤�B
+村育ちで学がない俺なんかが学者になれるわけがない。多分、王都に出たところで何者にもなれず食い詰めるのがオチだろう。
 
-�����ǁA���ɖ߂�Ή��̕��ɂ͑����ȑ��h���󂯁A�����g���w�񂾂��Ƃ𑼂̘A���ɖ𗧂ĂĂ��炤���Ƃ��ł���B
+だけど、村に戻れば俺の分には相応な尊敬を受け、俺自身が学んだことを他の連中に役立ててもらうことができる。
 
-�q���B�Ɏ��������Ă�邱�Ƃ��ł���B
+子供達に字を教えてやることもできる。
 
-��������΂����͑��̘A�������Ċw�₪�d�v�Ȃ��Ƃ𗝉�����������邩������Ȃ��B
+そうすればいつかは村の連中だって学問が重要なことを理解する日が来るかもしれない。
 
-�������̊w��̗L��l�ŁA�l�Ԃ̐������Ȃ񂶂�Ȃ����낤���B
+それも一つの学問の有り様で、人間の生き方なんじゃないだろうか。
 
-��������ƒ{�≽���̓G���t�ɂ�������󕨂Ŕ����߂����Ƃ��ł��邾�낤�B
+手放した家畜や何かはエルフにもらった宝物で買い戻すこともできるだろう。
 
-���܂肢���؂�Ɏg���Ă͉����܂�邾�낤���A���܂ɒ��ɑ����^��Ŋ������A�����Âg���悤�ɂ���΂����B
+あまりいっぺんに使っては怪しまれるだろうが、たまに町に足を運んで換金し、少しづつ使うようにすればいい。
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tuke0423
-�y�c�L���z�u���ɖ߂�ł��H�v
+【ツキヨ】「村に戻るです？」
 
-�u�����B�F���K�v�Ƃ��Ă��ꂽ�񂾁B����͂������Ƃ��낤�H�v
+「あぁ。皆が必要としてくれたんだ。それはいいことだろう？」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0424
-�y�c�L���z�u�c�c�B�͂��A�ł��B�����Ɛl�Ԃ͐l�ԁA�G���t�̓G���t�A�_�[�N�G���t�̓_�[�N�G���t�ƈꏏ�ɐ�����̂������ł��v
+【ツキヨ】「……。はい、です。きっと人間は人間、エルフはエルフ、ダークエルフはダークエルフと一緒に生きるのがいいです」
 
-�u�c�c����v
+「……うん」
 
-����͑ދ��Ȍ��_��������Ȃ����A�A�������ē����푰�����Y���Đ�����B
+それは退屈な結論かもしれないが、植物だって同じ種族が寄り添って生える。
 
-�l�Ԃ��G���t�������푰�Ƌ��ɐ�����̂����R�Ƃ������̂��낤�B
+人間もエルフも同じ種族と共に生きるのが自然というものだろう。
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0425
-�y�c�L���z�u���Ⴀ�A�����ł��ʂ�ł��v
+【ツキヨ】「じゃあ、ここでお別れです」
 
-���̃c�L���̂Ԃ₫���₵���ɕ������Ă��܂��̂́A���̊�]���낤���B
+そのツキヨのつぶやきが寂しげに聞こえてしまうのは、俺の願望だろうか。
 
-�u�c�c���ɂ��Ă��邩�H�v
+「……村についてくるか？」
 
 ;CHR T06F_L C
-#cg �c�L�� tuk_1_06f_l ��
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tuke0426
-�y�c�L���z�u�ꏏ�ɍs���ł��H�v
+【ツキヨ】「一緒に行くです？」
 
-�c�L���͎v�������Ȃ����Ƃ�����ꂽ�̂��A�L���g���Ƃ����B
+ツキヨは思いがけないことを言われたのか、キョトンとした。
 
-�u����B�G���t�͒��������낤�H�@��������A���̈ꐶ�Ȃ�ăc�L���ɂƂ��Ă͏u�������邭�炢���̊Ԃ̂��̂Ȃ񂶂�Ȃ����H�v
+「うん。エルフは長生きだろう？　だったら、俺の一生なんてツキヨにとっては瞬きをするくらい束の間のものなんじゃないか？」
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tuke0427
-�y�c�L���z�u�ꐶ�A�ł��H�v
+【ツキヨ】「一生、です？」
 
-�G���t�������͒����B�l�Ԃ��猩����i���ɂ��v���邭�炢�B
+エルフが持つ時は長い。人間から見たら永遠にも思えるくらい。
 
-���̂��炢�̎��Ԃ����Ƌ��ɉ߂����Ă���������āc�c�B
+そのぐらいの時間を俺と共に過ごしてもらったって……。
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0428
-�y�c�L���z�u�����āc�c���̂��΂炷��ɂ́c�c���Č������ł��H�v
+【ツキヨ】「だって……正体をばらす訳には……って言ったです？」
 
-�u����A��������ˁB���߂�A�����Ȃ��ƌ������v
+「うん、そうだよね。ごめん、無茶なこと言った」
 
-���͎��U�����B
+俺は首を振った。
 
-�n�����Ă���B
+馬鹿げている。
 
-�����ł������I�ȑ��Ƀc�L����A��čs�������̂ǂ�Ȃ��ƂɂȂ���B
+ただでさえ閉鎖的な村にツキヨを連れて行ったら一体どんなことになるやら。
 
-���͗����l�̎q���ƌ떂�����Ă��邪�A���ɘA��Ă����΂����ɂł��������̂��Ƃ̓o���Ă��܂��B
+今は旅商人の子だと誤魔化しているが、村に連れていけばすぐにでも長い耳のことはバレてしまう。
 
-�����Ƃ��̐X�ŕ�炵�Ă����Ƃ��Ă��A�c�L�����N����炸�ɂ���΂������ق̖ڂŌ����邱�Ƃ��낤�B
+ずっとこの森で暮らしていたとしても、ツキヨが年を取らずにいればいずれ奇異の目で見られることだろう。
 
-���̎��Ƀc�L�����ǂ�Ȗڂɂ������͍l���������Ȃ��B
+その時にツキヨがどんな目にあうかは考えたくもない。
 
-�ܒe���ɂ��ꂽ�肷�邾���Ȃ�΂������A���݌���ꂽ���ɉ�������Ƃ�����Ȃ��B
+爪弾きにされたりするだけならばいいが、忌み嫌われた時に俺が守れるとも限らない。
 
-�u�������A���������B�����ɉ����������w���m�x���Ă��Ƃɂ���΁c�c�v
+「そうだ、そもそも隠さずに俺が見つけた『モノ』ってことにすれば……」
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tuke0429
-�y�c�L���z�u�j���Q������́w���m�x�ł��H�v
+【ツキヨ】「ニンゲンさんの『モノ』です？」
 
-�c�L���ɕ����Ԃ���āA���̓n�b�Ƃ����B
+ツキヨに聞き返されて、俺はハッとした。
 
-�c�L�����ŏ��Ɂw�������x�͉̂�����Ȃ��B�G�݉��̑��q�������B
+ツキヨを最初に『見つけた』のは俺じゃない。雑貨屋の息子たちだ。
 
-�c�L�����G���t���ƒm�ꂽ��w���L���x���咣���邱�Ƃ��낤�B
+ツキヨがエルフだと知れたら『所有権』を主張することだろう。
 
-�G���t�͔���Έ���Y�ɂȂ�B��΂ɔނ炪��������Ɍ������ƌ�������̂͊ԈႢ�Ȃ��B
+エルフは売れば一財産になる。絶対に彼らが自分が先に見つけたと言い張るのは間違いない。
 
-�ǂ��ċ��L���Y�A�ň��A�����s���ɉ���肵���ƌ�����̂��I�`���B
+良くて共有財産、最悪、俺が不当に横取りしたと言われるのがオチだ。
 
-�c�L���̈ӎv�ȂǊ֌W�Ȃ��B����Ɂc�c�B
+ツキヨの意思など関係なく。それに……。
 
-�u�c�L���́A���m����Ȃ���ȁB���߂�v
+「ツキヨは、モノじゃないよな。ごめん」
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0430
-�y�c�L���z�u�c�c�Ȃ񂩕ςł��B�ǂ��������ł��H�v
+【ツキヨ】「……なんか変です。どうしたいです？」
 
-�c�L���͍������悤�Ɏ�����������B
+ツキヨは困ったように首をかしげた。
 
-�u�c�c�����ƃc�L���ƈꏏ�ɋ������������v
+「……もっとツキヨと一緒に居たいだけだ」
 
 ;CHR T05F_L C
-#cg �c�L�� tuk_1_05f_l ��
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tuke0431
-�y�c�L���z�u�����Ƃ��Ăǂ̂��炢�ł��H�@�����̂����l�����ނ܂ŁH�@�����̂����l���o��܂ŁH�@����Ƃ��A�܂������l�����Ȃ��Ȃ�܂ŁH�v
+【ツキヨ】「もっとってどのぐらいです？　今日のお日様が沈むまで？　明日のお日様が登るまで？　それとも、またお月様がいなくなるまで？」
 
-�u����́c�c�v
+「それは……」
 
-�����Ƃ����ƂƋ��߂Ă������ăL�����Ȃ��B��؂������K�v�͂ǂ����ŏo�Ă���B
+もっともっとと求めていたってキリがない。区切りをつける必要はどこかで出てくる。
 
-�����A����͍��Ȃ񂾁B
+多分、それは今なんだ。
 
 #voice tuke0432
-�y�c�L���z�u�₵���ł��H�v
+【ツキヨ】「寂しいです？」
 
-�u�c�c��������v
+「……そうだよ」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tuke0433
-�y�c�L���z�u���v�ł��v
+【ツキヨ】「大丈夫です」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�c�L���͉��̎�Ɏ���񂷂ƃM���b�ƕ��������B
+ツキヨは俺の首に手を回すとギュッと抱きついた。
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0434
-�y�c�L���z�u�c�c�ЂƂ�́A�₵���ł��B�m���Ă�ł��A�����ƂЂƂ肾�����ł��B���ǁA�ЂƂ肶��Ȃ��ł��B�q�i�^���C�o�����R�m�~���j���Q�����������ł��v
+【ツキヨ】「……ひとりは、寂しいです。知ってるです、ずっとひとりだったです。けど、ひとりじゃないです。ヒナタもイバラもコノミもニンゲンさんもいるです」
 
-�u�ł��A�܂��ЂƂ�ɂȂ�񂾂�H�v
+「でも、またひとりになるんだよ？」
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0435
-�y�c�L���z�u�ꏏ�ɂ��Ȃ��Ă��ꏏ�ɂ������Ƃ͏����Ȃ��ł��B������A�₵���Ȃ��ł��v
+【ツキヨ】「一緒にいなくても一緒にいたことは消えないです。だから、寂しくないです」
 
-�u�c�c�₵����v
+「……寂しいよ」
 
-�c�L���ؚ̉��ȃJ���_������񂹂�B
+ツキヨの華奢なカラダを抱き寄せる。
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0436
-�y�c�L���z�u�Y��Ȃ��ł��B�c�c�Y�ꂿ�Ⴄ�ł��H�v
+【ツキヨ】「忘れないです。……忘れちゃうです？」
 
-�u�Y��Ȃ���A�Y��Ȃ����ǂ��c�c�l�Ԃ͂���Ȃɋ����Ȃ��񂾁v
+「忘れないよ、忘れないけどさ……人間はそんなに強くないんだ」
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0437
-�y�c�L���z�u�c�c���v�ł��v
+【ツキヨ】「……大丈夫です」
 
-�c�L���͂����Ɖ��ɐO���������Č������B
+ツキヨはそっと俺に唇を押しつけて言った。
 
-�u�c�c�����ƐG���Ă������H�v
+「……もっと触ってもいい？」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0438
-�y�c�L���z�u�����A�ł��v
+【ツキヨ】「いい、です」
 
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -227,249 +227,249 @@
 #setscene 62
 #bg black
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx�����������|�j�e
+;ＥＶ絵――EV071『ツキヨ後背位』＊ここだけポニテ
 ;EVCG EV071A1
 ;#face off
 
 #bg BG07b_1
-#cg �C�x���g ev071a1 �w�i
+#cg イベント ev071a1 背景
 #wipe fade
 
-���Ɏ��t������ƁA�c�L���͂�������������܂܁A���̕����`���`���ƌ��Ă����B
+床に手を付かせると、ツキヨはおしりを向けたまま、俺の方をチラチラと見ていた。
 
-���̂܂ܖ{���ɉ��̂��̂ɂ���΂����񂾂낤���B
+このまま本当に俺のものにすればいいんだろうか。
 
-�N�ɂ��n�����A�N�̖ڂɂ��G��Ȃ��悤�ɕ����߂Ă��܂��΁A�����ƈꏏ�ɂ����邾�낤���B
+誰にも渡さず、誰の目にも触れないように閉じ込めてしまえば、ずっと一緒にいられるだろうか。
 
-�Փ��I�ȓƐ�~�����}�Ƀc�L�����т������B
+衝動的な独占欲が性急にツキヨを貫かせた。
 
 #voice tuke0439
-�y�c�L���z�u�������c�c�ɂ��A�ł��c�c�|������A���Ă�ł��v
+【ツキヨ】「あぅっ……痛い、です……怖いお顔、してるです」
 
-�������݂����Ƀc�L�����g��␂܂��A���̂����Ńc�L���̌�E���������܂�B
+怯えたみたいにツキヨが身を竦ませ、そのせいでツキヨの後孔がきつく締まる。
 
-�u�c�L���̒��A���݂��Ă��ċC����������B�{���͗��ꂽ���Ȃ��񂶂�Ȃ��́H�v
+「ツキヨの中、絡みついてきて気持ちいいよ。本当は離れたくないんじゃないの？」
 
 #voice tuke0440
-�y�c�L���z�u�����c�c�܂��c�c�͂��c�c���c�c�v
+【ツキヨ】「あっ……まっ……はげ……し……」
 
-���Ղ��Ɛ[���т��ƁA�c�L���͐h�����ɓ���悤�Ƃ���オ��B
+ずぷっと深く貫くと、ツキヨは辛そうに逃れようとずり上がる。
 
-����𓦂����Ȃ��悤�ɔ���͂�ň�������B
+それを逃げられないように髪を掴んで引っ張る。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx�����̖ђ͂�
+;ＥＶ絵――EV071『ツキヨ後背位』＊髪の毛掴む
 ;EVCG EV071A2
-#cg �C�x���g ev071a2 �w�i
+#cg イベント ev071a2 背景
 #wipe fade
 
 #voice tuke0441
-�y�c�L���z�u����c�c�������c�c���̖т͒ɂ��ł��c�c�����c�c�v
+【ツキヨ】「やっ……いたっ……髪の毛は痛いです……あっ……」
 
-�u�����A���߂�B���݂₷����������v�킸�v
+「あぁ、ごめん。つかみやすかったから思わず」
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A4
-#cg �C�x���g ev071a4 �w�i
+#cg イベント ev071a4 背景
 #wipe fade
 
 #voice tuke0442
-�y�c�L���z�u���c�c�͂��c�c�Ђǂ��A�ł��c�c�����c�c�v
-����ӂ߂�悤�ȗܖڂɉ�������Ȃ�Ƃ������Ȃ����������N���オ���Ă���B
+【ツキヨ】「っ……はっ……ひどい、です……うぅ……」
+俺を責めるような涙目に下腹からなんとも言えない征服感が湧き上がってくる。
 
-�c�c����ς肱�̂܂܁A���̂��̂ɂ��Ă��܂������B
+……やっぱりこのまま、俺のものにしてしまおうか。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A3
-#cg �C�x���g ev071a3 �w�i
+#cg イベント ev071a3 背景
 #wipe fade
 
 #voice tuke0443
-�y�c�L���z�u�����c�c�͂����c�c�������������c�c�������c�c����ȁA���\�ɂ��Ȃ��łł��c�c�v
+【ツキヨ】「あっ……はぁっ……あうっあうっ……あぁっ……そんな、乱暴にしないでです……」
 
-�u�{���Ɍ��Ȃ�A�����Ă�������v
+「本当に嫌なら、逃げてもいいよ」
 
 #voice tuke0444
-�y�c�L���z�u���A����Ȃ́c�c�����ł��c�c�������c�c�������c�c�͂����c�c�����c�c�����c�c�v
+【ツキヨ】「そ、そんなの……無理です……あぁっ……あぁっ……はぁっ……うぅ……くぅ……」
 
-���\�ɂ��Ă��邩�炩�A����؂̒��ߕt���͂�����范�����A�܂�ŉ���ǂ��o�����Ƃ��邩�̂悤���B
+乱暴にしているからか、括約筋の締め付けはいつもより激しく、まるで俺を追い出そうとするかのようだ。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A2
-#cg �C�x���g ev071a2 �w�i
+#cg イベント ev071a2 背景
 #wipe fade
 
 #voice tuke0445
-�y�c�L���z�u�񂤂��c�c�񂭂��������������c�c���͂��c�c�����c�c�v
+【ツキヨ】「んうぅ……んくぅうううううう……あはぁ……あぁ……」
 
-�u�c�L���A�c�L���c�c���̂܂܁A�߂܂��ĕ����߂����c�c�v
+「ツキヨ、ツキヨ……このまま、捕まえて閉じ込めたい……」
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A3
-#cg �C�x���g ev071a3 �w�i
+#cg イベント ev071a3 背景
 #wipe fade
 
 #voice tuke0446
-�y�c�L���z�u�������c�c�������c�c�Ђ�����c�c�񂭂����������������c�c����ȂɌ��������ꂽ��A������߂��ꂿ�Ⴄ�ł��c�c�I�v
+【ツキヨ】「あぁっ……あぁっ……ひぅんっ……んくぅううううううう……そんなに激しくされたら、おしりめくれちゃうです……！」
 
-�����ǁA�߂܂��āA�����߂āA���ꂩ��c�c�H
+だけど、捕まえて、閉じ込めて、それから……？
 
-�����ꉴ�͔N���Ƃ��āA��������ɂȂ��āA���ʁB
+いずれ俺は年をとって、じいさんになって、死ぬ。
 
-�G���t�Ƃ̎��̗��ꂪ�ǂ�قǈႤ�̂��͂킩��Ȃ����A���Ԃ񂻂̒��x�̎��ԂȂ�A�c�L���͍��ƕς��Ȃ��܂܂��낤�B
+エルフとの時の流れがどれほど違うのかはわからないが、たぶんその程度の時間なら、ツキヨは今と変わらないままだろう。
 
-���������A�N�V���āA���ʁB
+俺だけが、年老いて、死ぬ。
 
-�u�c�c�c�L���A�D������B�����Ƃ��΂ɂ��Ăق����v
+「……ツキヨ、好きだよ。ずっとそばにいてほしい」
 
-�������܂��Ă����c�L���̒����A�ӂ��Ɗɂ݁A���̓��_�ɊÂ���悤�ɗ��݂��Ă����B
+きつくしまっていたツキヨの中が、ふっと緩み、俺の肉棒に甘えるように絡みついてきた。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A4
-#cg �C�x���g ev071a4 �w�i
+#cg イベント ev071a4 背景
 #wipe fade
 
 #voice tuke0447
-�y�c�L���z�u�D���A�ł��B�ł��A�j���Q������͐l�ԂŁA�c�L���̓_�[�N�G���t�A������c�c�v
+【ツキヨ】「好き、です。でも、ニンゲンさんは人間で、ツキヨはダークエルフ、だから……」
 
-�u����B������A�������A�������A�c�L���̂��Ƃ����Ɗ��������v
+「うん。だから、今だけ、今だけ、ツキヨのこともっと感じたい」
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A3
-#cg �C�x���g ev071a3 �w�i
+#cg イベント ev071a3 背景
 #wipe fade
 
 #voice tuke0448
-�y�c�L���z�u�����ς��A�����Ă�ł��c�c�������c�c�j���Q������̂��ƁA�c�L���͐�΁c�c�Y��A�Ȃ��ł��c�c�񂭂��c�c�v
+【ツキヨ】「いっぱい、感じてるです……あぁっ……ニンゲンさんのこと、ツキヨは絶対……忘れ、ないです……んくぅ……」
 
-�c�L���̒������M�𑝂��A���̂��銌�F�̔�����C���Ăق̐Ԃ����܂��Ă����B
+ツキヨの腸内が熱を増し、艶のある褐色の肌が上気してほの赤く染まっていく。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A2
-#cg �C�x���g ev071a2 �w�i
+#cg イベント ev071a2 背景
 #wipe fade
 
 #voice tuke0449
-�y�c�L���z�u�Ђ��c�c���c�c�񂭂������������c�c�������c�c�ЂႠ���c�c�񂟂����������c�c���������̕��܂œ����Ă���ł��c�c�͂���v
+【ツキヨ】「ひゃん……ぐ……んくううぅううう……あぁっ……ひゃあっ……んぁあああああ……すごい奥の方まで入ってくるです……はぁん」
 
-�����f�����������k�킹�Ȃ���A�c�L�����b���B
+高く掲げたおしりを震わせながら、ツキヨが喘ぐ。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A3
-#cg �C�x���g ev071a3 �w�i
+#cg イベント ev071a3 背景
 #wipe fade
 
 #voice tuke0450
-�y�c�L���z�u�������c�c����Ղ�����Ղ��Ă���炵�������Ă�ł��c�c��A�����c�c���̕����炨����ق����āc�c��������Ă�ł����c�c�v
+【ツキヨ】「あぁっ……じゅぷっじゅぷっていやらしい音してるです……ん、んんっ……奥の方からおしりほじられて……こそがれてるですぅ……」
 
-�����Â������͉��̈ӎv�Ȃǖ������Ď~�܂�Ȃ��B
+勢いづいた腰は俺の意思など無視して止まらない。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A4
-#cg �C�x���g ev071a4 �w�i
+#cg イベント ev071a4 背景
 #wipe fade
 
 #voice tuke0451
-�y�c�L���z�u������A�C���������ł��c�c�M���čd�������񂿂�c�c���ۂ��ۂ����́c�c�C���������ł��c�c�����c�c�͂�������������������c�c�v
+【ツキヨ】「おしり、気持ちいいです……熱くて硬いおちんちん……ずぽずぽされるの……気持ちいいです……あぁ……はぁあああああああんっ……」
 
-��납�猃�����h���Ԃ��Ă��邹���ŁA���̃^�}�Ƀc�L���̃^�}���y�`�y�`�Ɠ�����B
+後ろから激しく揺さぶっているせいで、俺のタマにツキヨのタマがペチペチと当たる。
 
-�u��납�炾�ƁA���������������₷���ȁv
+「後ろからだと、こっちがしごきやすいな」
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A2
-#cg �C�x���g ev071a2 �w�i
+#cg イベント ev071a2 背景
 #wipe fade
 
 #voice tuke0452
-�y�c�L���z�u���c�c��������c�c�����񂿂�V�R�V�R�_���ł����c�c���ケ���ケ�A���ケ���ケ���ꂽ��c�c�����A�����A�C�����Ⴄ����c�c�v
+【ツキヨ】「っ……あぁんっ……おちんちんシコシコダメですぅ……ちゅこちゅこ、しゅこしゅこされたら……すぐ、すぐ、イっちゃうから……」
 
-�c�s���V�S���Ă��ƁA�����ƊO���̎h���������؂�Ɏ󂯂āA�c�L�����Ίۂ��ː����������ɏ㉺�ɓ����o�����B
+幼茎をシゴいてやると、内側と外側の刺激をいっぺんに受けて、ツキヨの睾丸が射精したそうに上下に動き出した。
 
-���̓����ɘA�����āA���E�̈��͂����܂�A���̐��t��~�������ɂ��イ���イ�z���グ�Ă���B
+その動きに連動して、肉孔の圧力も高まり、俺の精液を欲しそうにきゅうきゅう吸い上げてくる。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A3
-#cg �C�x���g ev071a3 �w�i
+#cg イベント ev071a3 背景
 #wipe fade
 
 #voice tuke0453
-�y�c�L���z�u�����񂿂�A�����񂿂�V���R�V���R�A��߂��c�c�������c�c�������c�c�͂����c�c�v
+【ツキヨ】「おちんちん、おちんちんシュコシュコ、らめぇ……あぁっ……あくぅ……はぁう……」
 
-�c�L���̓������×~�ɉ���Ⓒ�܂ŉ����グ�Ă����B
+ツキヨの内側は貪欲に俺を絶頂まで押し上げていく。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071A4
-#cg �C�x���g ev071a4 �w�i
+#cg イベント ev071a4 背景
 #wipe fade
 
 #voice tuke0454
-�y�c�L���z�u�񂠂��c�c�񂮂��c�c�͂��������������c�c�v
+【ツキヨ】「んあっ……んぐぅ……はぁあああああっ……」
 
-;�I��������
+;選択肢発生
 #select tbadend01a tbadend01b
-�`�F���ɏo��
-�a�F�Ԃ�������
+Ａ：中に出す
+Ｂ：ぶっかける
 
-�`��I���ˁwtbadend01a�x�փW�����v
-�a��I���ˁwtbadend01b�x�փW�����v
+Ａを選択⇒『tbadend01a』へジャンプ
+Ｂを選択⇒『tbadend01b』へジャンプ
 
 ;tbadend01a
 
 #label tbadend01a
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx�����o��W�ː����[�g
+;ＥＶ絵――EV071『ツキヨ後背位』＊中出しW射精ルート
 ;EVCG EV071B2
 ;SE
-;�z���C�g�A�E�g
+;ホワイトアウト
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg �C�x���g ev071b2 �w�i
+#cg イベント ev071b2 背景
 #bg BG07b_1
 #wipe fade 300
 
-�c�L�����ː������u�ԁA�����܂��c�L���̉��[���ւƐ������������Ă����B
+ツキヨが射精した瞬間、俺もまたツキヨの奥深くへと精を解き放っていた。
 
 ;SE
-;�z���C�g�A�E�g
+;ホワイトアウト
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg �C�x���g ev071b3 �w�i
+#cg イベント ev071b3 背景
 #bg BG07b_1
 #wipe fade 300
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071B3
 
 #voice tuke0455
-�y�c�L���z�u�������c�c���Łc�c�\��Ă�c�c�ł��v
+【ツキヨ】「あぁっ……中で……暴れてる……です」
 
-�C�����΂���ŕq���ȃc�L���̓������A�������ː��̔����ŉ��̓��_�����W����B
+イったばかりで敏感なツキヨの内側を、激しい射精の反動で俺の肉棒が蹂躙する。
 
-�c�L���̓����͖\����邱�Ƃ����ł���݂����ɁA�D��������ɋz���グ�Ă���B
+ツキヨの内側は暴れられることを喜んでいるみたいに、優しくさらに吸い上げてくる。
 
-�݂��݂��ɂ��킦���݁A�킸���Ȍ��Ԃ��Ȃ��̂ɓ��_�ƔS���̊Ԃ���A�t�����������t�������o�����B
+みちみちにくわえ込み、わずかな隙間もないのに肉棒と粘膜の間から、逆流した白濁液が吹き出した。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071B1
-#cg �C�x���g ev071b1 �w�i
+#cg イベント ev071b1 背景
 #wipe fade
 
 #voice tuke0456
-�y�c�L���z�u���ł��c�c�ǂ��ǂ��A�ǂ��ǂ��A�����ς��o�Ă�́c�c�킩��ł��B�����A�����ς��ł��v
+【ツキヨ】「中でぇ……どくどく、どくどく、いっぱい出てるの……わかるです。お腹、いっぱいです」
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071B3
-#cg �C�x���g ev071b3 �w�i
+#cg イベント ev071b3 背景
 #wipe fade
 
 
-;������
+;合流へ
 #goto tbadend01c
 
 
@@ -477,193 +477,193 @@
 
 #label tbadend01b
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx���Ԃ������ː����[�g
+;ＥＶ絵――EV071『ツキヨ後背位』＊ぶっかけ射精ルート
 ;EVCG EV071C3
 ;SE
-;�z���C�g�A�E�g
+;ホワイトアウト
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg �C�x���g ev071c3 �w�i
+#cg イベント ev071c3 背景
 #bg BG07b_1
 #wipe fade 300
 
-�c�L���̒����������܂�ː������u�ԁA���͐�[���������������B
+ツキヨの中が引き締まり射精した瞬間、俺は先端を引っこ抜いた。
 
 ;SE
-;�z���C�g�A�E�g
+;ホワイトアウト
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg �C�x���g ev071c3 �w�i
+#cg イベント ev071c3 背景
 #bg BG07b_1
 #wipe fade 300
 
-�ǂՂ��B
+どぷぅ。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071C1
-#cg �C�x���g ev071c1 �w�i
+#cg イベント ev071c1 背景
 #wipe fade
 
-�c�L���Ƃقړ����ɐⒸ���}�����B���������~�]�̏؂́A�����ŋ|�Ȃ�ɔ����������w�ւƎT���U�炳��܂���ɐ��ߏグ�Ă����B
+ツキヨとほぼ同時に絶頂を迎えた。白濁した欲望の証は、快感で弓なりに反った白い背へと撒き散らされまだらに染め上げていく。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071C2
-#cg �C�x���g ev071c2 �w�i
+#cg イベント ev071c2 背景
 #wipe fade
 
 #voice tuke0457
-�y�c�L���z�u�����c�c���w���A�M���ł����c�c�������c�c�Ђ���c�c�͂����c�c�ӂ��c�c�v
+【ツキヨ】「あぁ……お背中、熱いですぅ……あぁっ……ひゃっ……はぁっ……ふぁ……」
 
-��������������̓��_�́A�c�L���̊ۂ��K�̏�Ŗ\��A���񂴂�ɐ��t��f���U�炵�A�悤�₭�����������B
+制御を失った俺の肉棒は、ツキヨの丸い尻の上で暴れ、さんざんに精液を吐き散らし、ようやく落ち着いた。
 
-;�d�u�G�\�\EV071�w�c�L����w�ʁx
+;ＥＶ絵――EV071『ツキヨ後背位』
 ;EVCG EV071C3
-#cg �C�x���g ev071c3 �w�i
+#cg イベント ev071c3 背景
 #wipe fade
 
-�����J���Ă������̂��������c�L�����Q�͌ċz����悤�ɂЂ��Ђ��ƊJ���J��Ԃ��Ă���B
+こじ開けていたものを失ったツキヨの蕾は呼吸するようにひくひくと開閉を繰り返している。
 
 
-;����
+;合流
 
 #label tbadend01c
 
 ;SMODE 063 STOP
 #endscene
 
-�u�c�L���c�c�v
+「ツキヨ……」
 
-���̓c�L���̔������ɐO�������t���A���ꂩ�炫�����������߂��B
+俺はツキヨの白い肩に唇を押し付け、それからきつく抱きすくめた。
 
-�c�c�{���ɂ���ōŌゾ�B
+……本当にこれで最後だ。
 
-���͂����[���������Ă����B
+俺はそれを深く理解していた。
 
 
-;�Ó]
+;暗転
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�������i�[�j���^���Â̂ق��ɂ��܂���
+;背景：山小屋中（夕）＊真っ暗のほうにしました
 ;BG BG07b_3
 #cg all clear
 #bg BG07b_3
 #wipe fade
 
 ;CHR T01F_L C
-#cg �c�L�� tuk_1_01f_l ��
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tuke0458
-�y�c�L���z�u�j���Q������́A�K���ɂȂ�ł��B���ɖ߂��āc�c���̎q�ƌ��΂�āA�q��������āA����������ɂȂ��āc�c���ꂩ��c�c�v
+【ツキヨ】「ニンゲンさんは、幸せになるです。村に戻って……女の子と結ばれて、子供を作って、おじいさんになって……それから……」
 
 ;CHR T04F C
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 
 #voice tuke0459
-�y�c�L���z�u����Ȃ���Č�������A�����Ƃ܂��ʂ�ɂ����Ȃ�ł��B������A�N�����Ȃ��ōs���ł��B������̕z�A������Ă����ł��B��؂ɂ���ł��v
+【ツキヨ】「さよならって言ったら、きっとまた別れにくくなるです。だから、起こさないで行くです。髪飾りの布、もらっていくです。大切にするです」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T10F1 L
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
 
 #voice tuke0460
-�y�c�L���z�u����Ȃ�A�j���Q������B���O�Ə���z�A���ꂩ��E�C�����肪�Ƃ��ł��v
+【ツキヨ】「さよなら、ニンゲンさん。名前と飾り布、それから勇気をありがとうです」
 
 ;CHR T10F2 L
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
 
 #voice tuke0461
-�y�c�L���z�u��D���A�ł��c�c�v
+【ツキヨ】「大好き、です……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�w�i�F�R�������i�[�j���^���Â̂ق��ɂ��܂���
+;背景：山小屋中（夕）＊真っ暗のほうにしました
 ;BG BG07b_3
 #cg all clear
 #bg BG07b_3
 #wipe fade
 
-�u�c�L���c�c�v
+「ツキヨ……」
 
-�ڂ��o�܂��ƁA�c�L���͂��Ȃ������B
+目を覚ますと、ツキヨはいなかった。
 
-�u�c�c�����s����������̂��v
+「……もう行っちゃったのか」
 
-�����̒��ɂ͂Ȃ�̍��Ղ��c���Ă��Ȃ��B
+小屋の中にはなんの痕跡も残っていない。
 
-�܂�Ŕނ�Ƌ��ɉ߂��������Ԃ��̂��̂������������̂悤�ȁc�c�B
+まるで彼らと共に過ごした時間そのものが夢だったかのような……。
 
-�u����A���ꂪ�c���Ă����v
+「いや、これが残ってたか」
 
-�ŏ��ɍ�����׍H�����A�܂��c���Ă����B
+最初に作った細工物が、まだ残っていた。
 
-���̑��݂��ނ�Ɖ߂��������X�����ł͂Ȃ������Ƌ����Ă����B
+その存在が彼らと過ごした日々が夢ではなかったと教えてくれる。
 
-�u�c�m�J�u�g�c�c�v
+「ツノカブト……」
 
-�c�L������������̂��B
+ツキヨが作ったものだ。
 
-�c�c�������Ă������Ă��Ƃ��o�����B
+……俺がついていくってことも出来た。
 
-���ɖ߂�Ȃ�Č��킸�Ɋw�҂�ڎw���������āA�{���͑I�ׂ��B
+村に戻るなんて言わずに学者を目指す道だって、本当は選べた。
 
-����Ȃ̂ɁA���ɖ߂�ƌ��߂��͉̂��̎コ���B
+それなのに、村に戻ると決めたのは俺の弱さだ。
 
-�m��Ȃ����E�ɓ��ݏo���|�����A�m���Ă��鋇���Ȑ��E�ŕ����Ă������Ƃ�I�񂾁B
+知らない世界に踏み出す怖さより、知っている窮屈な世界で腐っていくことを選んだ。
 
-�c�c�d�����Ȃ��B
+……仕方がない。
 
-�����A�����I�񂾓��͊Ԉ���Ă��Ȃ��B
+多分、俺が選んだ道は間違っていない。
 
-���������E�ɖ߂��Ă��������̂��ƁB����͂����炭�ǂ��ɂł��]�����Ă���悭����b���B
+逃げた世界に戻っていくだけのこと。それはおそらくどこにでも転がっているよくある話だ。
 
-�u�c�c���ɖ߂�Ȃ�A�ב��肵�Ȃ���ȁv
+「……村に戻るなら、荷造りしなきゃな」
 
-�w�҂�ڎw�����߂̎����ɂ��悤�ƍ���Ă�����������̍׍H���A�G���t�ɂ�������󕨁A���̏����ɂ����������̖{�B
+学者を目指すための資金にしようと作っていたたくさんの細工物、エルフにもらった宝物、この小屋にあった無数の本。
 
-�����͑S���u���Ă������B
+これらは全部置いていこう。
 
-�X�ɉ΂��������A�D�ɂȂ�̂Ȃ炻�̂܂܈ꏏ�ɔR���Ă��܂��΂����B
+森に火がかけられ、灰になるのならそのまま一緒に燃えてしまえばいい。
 
-�ނ�Ɖ߂��������X���S�ĊD�ɂȂ邪�����B
+彼らと過ごした日々も全て灰になるがいい。
 
-�Y��Ȃ��c�c�ł��A�Y���B
+忘れない……でも、忘れる。
 
-�����ŉ߂��������X�͑��ɖ߂�΁A�₪�ď����Â������Ԃ��Ė�����Ă������W�̂悤�ɉ������̂ɂȂ邾�낤�B
+ここで過ごした日々は村に戻れば、やがて少しづつ砂をかぶって埋もれていく道標のように遠いものになるだろう。
 
-�ނ�Ɖ߂��������X���������đ厖�Ȃ�A�����������������B
+彼らと過ごした日々が愛しくて大事なら、そうした方がいい。
 
-�N�ɂ��킩��Ȃ��悤�ɖ��߂Ă��܂����󕨂́A�����ĒN�ɂ��D���邱�Ƃ͂Ȃ�����B
+誰にもわからないように埋めてしまった宝物は、けして誰にも奪われることはないから。
 
-;�Ó]�i�X���[�j
+;暗転（スロー）
 ;#face off
 
 #bgvoice stop
@@ -671,12 +671,12 @@
 #cg all clear
 #bg black
 #wipe fade 2000
-;�C���^�[�o��
+;インターバル
 #wait 2000
 
-;�wBADEND�x�\����A�^�C�g����
+;『BADEND』表示後、タイトルへ
 
-;���G���h�\��
+;※エンド表示
 ;BG:BG72_1
 
 ;MC

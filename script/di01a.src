@@ -4,195 +4,195 @@
 #bg BG07b_3
 #wipe fade
 
-�������܂肻���Ȃ��́c�c���B
+あったまりそうなもの……か。
 
-������݂��o��قǗ₦�Ă�񂾂���A�̂̒����牷�܂���̂��������ȁB
+くしゃみが出るほど冷えてるんだから、体の中から温まるものがいいかな。
 
-�u��c�c�����H�@�����H�ׂ�悤�ȕ��͉��ߒ����Ă����߂Ȃ����낤����c�c�v
+「ん……お茶？　俺が食べるような物は温め直しても飲めないだろうから……」
 
-���������R�N�̂�����̂̕����A�̂����߂Ă��ꂻ�����B���Ƃ���Ɓc�c�B
+お茶よりもコクのあるものの方が、体を温めてくれそうだ。だとすると……。
 
-�u���������߂悤���v
+「酪乳を温めようか」
 
-���َ͉q���̂��߂ɗp�ӂ��Ă��������������߂ĊÂ݂�����Ɗ�ɓ��ꂽ�B
+俺は菓子作りのために用意しておいた酪乳を温めて甘みをつけると器に入れた。
 
-;�w�i�F�R�����O�i��j
+;背景：山小屋前（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
 #wipe fade
 
-�u���҂����v
+「お待たせ」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0083
-�y�C�o���z�u�����̒��ŉ����Ă��񂾁I�H�v
+【イバラ】「小屋の中で何してたんだ！？」
 
-�����߂�Ƃ����ɃC�o���͊���グ���B
+俺が戻るとすぐにイバラは顔を上げた。
 
-�u�����̂����߂���́A�Ǝv���āv
+「何か体を温めるもの、と思って」
 
-������n���ƃC�o���͕s�v�c�����ɉ������Ԃ��Ă����B
+酪乳を渡すとイバラは不思議そうに俺を見返してきた。
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0084
-�y�C�o���z�u����A�ǂ�����񂾁H�v
+【イバラ】「これ、どうするんだ？」
 
-�u�Â����Ă��邩�炻�̂܂܂ň��߂�Ǝv�����ǁv
+「甘くしてあるからそのままで飲めると思うけど」
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0085
-�y�C�o���z�u���ށI�H�@���̔����ςȂ̂��I�H�v
+【イバラ】「飲む！？　この白い変なのを！？」
 
-�u�ςȂ́c�c���āA�����̉��߂���������v
+「変なの……って、ただの温めた酪乳だよ」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0086
-�y�C�o���z�u�����I�H�@�Ȃ񂾁A����H�@���߂�̂��H�@�ςȂ��̂���Ȃ��́H�v
+【イバラ】「酪乳！？　なんだ、それ？　飲めるのか？　変なものじゃないの？」
 
-�u�����Ă����̂́A�i����������َq���Ă�������q�ɓh�鎉���Ƃ����c��Ȃ񂾂��ǁc�c�v
+「酪乳ていうのは、絞った乳から菓子を焼いたり麺麭に塗る脂をとった残りなんだけど……」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0087
-�y�C�o���z�u�����āA��e���Ԃ�V�Ɉ��܂�����Ă������ꂩ�H�@�Ԃ�V���ĉ����ł��Ȃ��񂾂낤�H�@����Ȑ���������H�ו������グ��Ȃ�ĂЂǂ����I�v
+【イバラ】「乳って、母親が赤ん坊に飲ませるっていうあれか？　赤ん坊って何もできないんだろう？　そんな生き物から食べ物を取り上げるなんてひどいぞ！」
 
-�u���v����B�l�Ԃ͗]��������������Ă邾��������B�l�Ԃ��i�����Ƃ���ŐԂ����ɑ���Ȃ��Ȃ�����͂��Ȃ��񂾁v
+「大丈夫だよ。人間は余った分をもらってるだけだから。人間が絞ったところで赤ちゃんに足りなくなったりはしないんだ」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0088
-�y�C�o���z�u�������c�c����Ȃ炢���񂾂��ǁv
+【イバラ】「そうか……それならいいんだけど」
 
-�u�������������邾��H�@����ł����v
+「いい匂いがするだろ？　飲んでごらん」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0089
-�y�C�o���z�u�{�N�ɕςȂ��̂����܂��Ă��炩�����肶��Ȃ����낤�ȁc�c�v
+【イバラ】「ボクに変なものを飲ませてからかうつもりじゃないだろうな……」
 
-�C�o���͋^��[���ɉ������Ȃ���A������ɂ����B
+イバラは疑り深げに俺を見ながら、器を口にした。
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0090
-�y�C�o���z�u��I�H�@�͂ӂ��c�c�Ӂ[�c�c�������c�c��[���I�@��[���I�@��[���I�v
+【イバラ】「ん！？　はふっ……ふー……ずずっ……んーっ！　んーっ！　んーっ！」
 
-�u���������H�@�C�ɓ�������Ȃ�ǂ������B�Ώ����Ȃ��悤�ɋC�����āv
+「美味しい？　気に入ったんなら良かった。火傷しないように気をつけて」
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0091
-�y�C�o���z�u�Ӂ[���c�c�������c�c�������c�c����A�Â��āc�c�܁A�܂����͂Ȃ��ȁI�@�������c�c���������c�c�v
+【イバラ】「ふーっ……ごくっ……こくっ……これ、甘くて……ま、まずくはないな！　ごくっ……ごくごく……」
 
-�u������肢��H�v
+「おかわりいる？」
 
-�����ɂȂ��ė��������݊������C�o���ւƎ��L�΂��ƁA�C�o���͊��Ԃ������Ď���~�߂��B
+夢中になって酪乳を飲み干したイバラへと手を伸ばすと、イバラは器を返しかけて手を止めた。
 
 ;CHR I10F1 C
-#cg �C�o�� iba_1_10f1 ��
+#cg イバラ iba_1_10f1 中
 #wipe fade
 #voice ibac0092
-�y�C�o���z�u�c�c����A�����v
+【イバラ】「……いや、いい」
 
-�u�ǂ������́H�@�����ɂ��Ȃ肻���������H�v
+「どうしたの？　お腹痛くなりそうだった？」
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibac0093
-�y�C�o���z�u�ʂɁc�c���̂��炢�ł����ɂ��Ȃ�����͂��Ȃ����ǁc�c�v
+【イバラ】「別に……このぐらいでお腹痛くなったりはしないけど……」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibac0094
-�y�C�o���z�u������������낤�H�@�����ɋ߂Â��ɂ�ăG���t����Ȃ����̂̓G���t�̌��E�ɓ���ɂ����Ȃ邾�낤���āv
+【イバラ】「昨日聞いただろう？　満月に近づくにつれてエルフじゃないものはエルフの結界に入りにくくなるだろうって」
 
-�u�����A����v
+「あぁ、うん」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0095
-�y�C�o���z�u�j���Q���̓{�N���߂�Ȃ��悤�ɂ������̂��H�@�l�Ԃ̐H�ו���H�ׂĂ�����ǂ�ǂ�G���t����Ȃ����̂��{�N�ɍ������Ă����v
+【イバラ】「ニンゲンはボクが戻れないようにしたいのか？　人間の食べ物を食べていたらどんどんエルフじゃないものがボクに混ざっていく」
 
-�u���A����c�c����Ȃ���͂Ȃ������񂾂��ǁv
+「え、いや……そんなつもりはなかったんだけど」
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 #voice ibac0096
-�y�C�o���z�u���A����ȂƂ���A�߂���肶��Ȃ����ǁc�c�ŁA�ł��A�{�N�͌ւ荂���G���t�Ȃ񂾂��I�H�v
+【イバラ】「あ、あんなところ、戻るつもりじゃないけど……で、でも、ボクは誇り高いエルフなんだぞ！？」
 
-�u���������Ȃ������H�v
+「美味しくなかった？」
 
-�S�z�ɂȂ��ĕ����ƁA�C�o���͌������������ɐU�����B
+心配になって聞くと、イバラは口を閉ざし首を横に振った。
 
-���ł͖߂�Ȃ��Ȃ�Č����Ă邯�ǁA�܂������Ă���񂾂낤�B
+口では戻らないなんて言ってるけど、まだ迷っているんだろう。
 
-�������Ȃ��B
+無理もない。
 
-�C�o���ɂƂ��Ă��������ɂ́A������������̂����Ȃ��񂾂���B
+イバラにとってこっち側には、俺しか頼るものがいないんだから。
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0097
-�y�C�o���z�u���A���ǖ߂�Ȃ�����ʂɂ����񂾂����I�@�c�c�����������͂Ȃ����v
+【イバラ】「け、けど戻らないから別にいいんだった！　……あったかくはなった」
 
-�u�c�c����v
+「……うん」
 
-��ɂȂ�������󂯎���āA���̓C�o���Ɠ�����������グ���B
+空になった器を受け取って、俺はイバラと同じく空を見上げた。
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibac0098
-�y�C�o���z�u�Ȃ񂩁c�c�Â����ȁv
+【イバラ】「なんか……静かだな」
 
-�u�������ˁB�����Ȃ炱��Ȏ��́c�c�v
+「そうだね。いつもならこんな時は……」
 
-�����ƃq�i�^�����������ł����Ƃ��邳���Ȃ��āc�c�B
+きっとヒナタたちが騒いでもっとうるさくなって……。
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0099
-�y�C�o���z�u���c�c���c�c�₵���Ȃ񂩁A�Ȃ��񂾂���ȁv
+【イバラ】「っ……く……寂しくなんか、ないんだからな」
 
-�u����c�c���͏����₵����v
+「うん……俺は少し寂しいよ」
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0100
-�y�C�o���z�u�ځA�{�N������̂ɂ��I�H�v
+【イバラ】「ぼ、ボクがいるのにか！？」
 
-�u�C�o�������Ă����̂ɁA�₵�����Ă��Ⴂ���Ȃ��ˁv
+「イバラがいてくれるのに、寂しがってちゃいけないね」
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0101
-�y�C�o���z�u�������낤�I�H�@�S���j���Q���͖���Ȃ���ȁI�v
+【イバラ】「そうだろう！？　全くニンゲンは無礼なやつだな！」
 
-�u�c�c���߂�v
+「……ごめん」
 
-�������킸�Ɍ��グ����͖����̐����u���āA���邳�����炢�ɓ��₩�������B
+何も言わずに見上げた空は無数の星が瞬いて、うるさいくらいに賑やかだった。
 
-;di02��
+;di02へ
 #next di02

@@ -1,9 +1,9 @@
-;ƒTƒEƒ“ƒh‚·‚×‚Ä’âŽ~
+;ã‚µã‚¦ãƒ³ãƒ‰ã™ã¹ã¦åœæ­¢
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;¦ƒAƒCƒLƒƒƒbƒ`•\Ž¦
+;â€»ã‚¢ã‚¤ã‚­ãƒ£ãƒƒãƒè¡¨ç¤º
 ;BG:BG45_1
 
 #mes off fade
@@ -26,437 +26,437 @@
 #mes on flash
 #system on flash
 
-;ƒCƒ“ƒ^[ƒoƒ‹
+;ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒ«
 
 ;FACE ON
 #face on
 
-;”wŒiFŽR¬‰®’†i–éj
+;èƒŒæ™¯ï¼šå±±å°å±‹ä¸­ï¼ˆå¤œï¼‰
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-u‚Æ‚±‚ë‚ÅA‚¨‘O‚½‚¿o•à‚¢‚Ä‚é‚Æ‚Ü‚½‚ ‚ÌƒGƒ‹ƒt‚É“{‚ç‚ê‚é‚ñ‚¶‚á‚È‚¢‚Ì‚©Hv
+ã€Œã¨ã“ã‚ã§ã€ãŠå‰ãŸã¡å‡ºæ­©ã„ã¦ã‚‹ã¨ã¾ãŸã‚ã®ã‚¨ãƒ«ãƒ•ã«æ€’ã‚‰ã‚Œã‚‹ã‚“ã˜ã‚ƒãªã„ã®ã‹ï¼Ÿã€
 
 ;CHR I05F C
-#cg ƒCƒoƒ‰ iba_1_05f ’†
+#cg ã‚¤ãƒãƒ© iba_1_05f ä¸­
 #wipe fade
 
 #voice ibae0097
-yƒCƒoƒ‰zu‚¾‚©‚ç‚±‚¤‚µ‚Äƒ{ƒN‚ªŒ©’£‚Á‚Ä‚¢‚é‚ñ‚¾v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã ã‹ã‚‰ã“ã†ã—ã¦ãƒœã‚¯ãŒè¦‹å¼µã£ã¦ã„ã‚‹ã‚“ã ã€
 
-‚¦‚Á‚Ö‚ñA‚ÆƒCƒoƒ‰‚Í‹¹‚ð’£‚é‚¯‚Çcc‚»‚Ì–{l‚ª”²‚¯o‚µ‚Ä‚«‚½‚Æ‚©Œ¾‚Á‚Ä‚È‚©‚Á‚½‚©H
+ãˆã£ã¸ã‚“ã€ã¨ã‚¤ãƒãƒ©ã¯èƒ¸ã‚’å¼µã‚‹ã‘ã©â€¦â€¦ãã®æœ¬äººãŒæŠœã‘å‡ºã—ã¦ããŸã¨ã‹è¨€ã£ã¦ãªã‹ã£ãŸã‹ï¼Ÿ
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-cc‚¦[‚Á‚ÆB
+â€¦â€¦ãˆãƒ¼ã£ã¨ã€‚
 
-u‚Ð‚å‚Á‚Æ‚µ‚ÄAƒCƒoƒ‰‚ªo‚Ä‚«‚¿‚á‚Á‚½‚Ì‚ð‚Â‚¯‚Ä‚«‚½Hv
+ã€Œã²ã‚‡ã£ã¨ã—ã¦ã€ã‚¤ãƒãƒ©ãŒå‡ºã¦ãã¡ã‚ƒã£ãŸã®ã‚’ã¤ã‘ã¦ããŸï¼Ÿã€
 
 ;CHR K01F1B L
-#cg ƒRƒmƒ~ kon_1_01f1b ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01f1b å·¦
 #wipe fade
 
 #voice kone0049
-yƒRƒmƒ~zu‚»‚¾‚æ`H@‚æ‚­‚í‚©‚Á‚½‚Ë`Aƒjƒ“ƒQƒ“‚­‚ñv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãã ã‚ˆã€œï¼Ÿã€€ã‚ˆãã‚ã‹ã£ãŸã­ã€œã€ãƒ‹ãƒ³ã‚²ãƒ³ãã‚“ã€
 
-ƒRƒmƒ~‚É¬º‚Å•·‚¢‚Ä‚Ý‚é‚ÆA‚ ‚Á‚³‚èm’è‚³‚ê‚½B
+ã‚³ãƒŽãƒŸã«å°å£°ã§èžã„ã¦ã¿ã‚‹ã¨ã€ã‚ã£ã•ã‚Šè‚¯å®šã•ã‚ŒãŸã€‚
 
-u‚æ‚­ƒqƒiƒ^‚ÆƒRƒmƒ~‚ª‚Â‚¯‚Ä‚«‚Ä‚é‚Ì‚É‹C‚ª‚Â‚©‚È‚©‚Á‚½‚Èv
+ã€Œã‚ˆããƒ’ãƒŠã‚¿ã¨ã‚³ãƒŽãƒŸãŒã¤ã‘ã¦ãã¦ã‚‹ã®ã«æ°—ãŒã¤ã‹ãªã‹ã£ãŸãªã€
 
 ;CHR H08F1_A R
-#cg ƒqƒiƒ^ hin_1_08f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_08f1_a å³
 #wipe fade
 
 #voice hine0064
-yƒqƒiƒ^zu‚¾‚Á‚Ä‚ËAƒqƒiƒ^‚ËI@‚¢‚Á‚µ‚å‚¤‚¯‚ñ‚ß‚¢‚µ‚¸‚©‚É‚µ‚Ä‚½‚æI@‚ñ‚ñ‚Á‚Á‚ÄB‚Õ‚Í‚Ÿ‚ÁIv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã ã£ã¦ã­ã€ãƒ’ãƒŠã‚¿ã­ï¼ã€€ã„ã£ã—ã‚‡ã†ã‘ã‚“ã‚ã„ã—ãšã‹ã«ã—ã¦ãŸã‚ˆï¼ã€€ã‚“ã‚“ã£ã£ã¦ã€‚ã·ã¯ãã£ï¼ã€
 
-ƒqƒiƒ^‚ÍŽ©•ª‚ÌŒû‚ð‚Ó‚³‚¢‚ÅŽÀ‰‰‚µ‚ÄŒ©‚¹‚Ä‚­‚ê‚é‚¯‚ÇA‚¨‚©‚°‚Å“¹’†‚Ç‚ê‚¾‚¯‘›‚ª‚µ‚©‚Á‚½‚Ì‚©‚ª—eˆÕ‚É‘z‘œ‚ª‚Â‚¢‚½B
+ãƒ’ãƒŠã‚¿ã¯è‡ªåˆ†ã®å£ã‚’ãµã•ã„ã§å®Ÿæ¼”ã—ã¦è¦‹ã›ã¦ãã‚Œã‚‹ã‘ã©ã€ãŠã‹ã’ã§é“ä¸­ã©ã‚Œã ã‘é¨’ãŒã—ã‹ã£ãŸã®ã‹ãŒå®¹æ˜“ã«æƒ³åƒãŒã¤ã„ãŸã€‚
 
 ;CHR K04F L
-#cg ƒRƒmƒ~ kon_1_04f ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_04f å·¦
 #wipe fade
 
 #voice kone0050
-yƒRƒmƒ~zuƒCƒoƒ‰‚Í`A‚±‚¤‚Á‚ÄŒˆ‚ß‚½‚çA‘¼‚Ì‚à‚Ì‘S‘R–Ú‚É“ü‚ç‚È‚­‚È‚é‚©‚ç‚Ë`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã‚¤ãƒãƒ©ã¯ã€œã€ã“ã†ã£ã¦æ±ºã‚ãŸã‚‰ã€ä»–ã®ã‚‚ã®å…¨ç„¶ç›®ã«å…¥ã‚‰ãªããªã‚‹ã‹ã‚‰ã­ã€œã€
 
-ucc‚È‚é‚Ù‚Çv
+ã€Œâ€¦â€¦ãªã‚‹ã»ã©ã€
 
-ƒCƒoƒ‰‚½‚¿‚Ì’¿“¹’†‚Í‚Ü‚´‚Ü‚´‚ÆŽv‚¢•`‚­‚±‚Æ‚ªo—ˆ‚½B
+ã‚¤ãƒãƒ©ãŸã¡ã®çé“ä¸­ã¯ã¾ã–ã¾ã–ã¨æ€ã„æãã“ã¨ãŒå‡ºæ¥ãŸã€‚
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0342
-yƒcƒLƒˆzuŠy‚µ‚»‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ¥½ã—ãã†ã§ã™ã€
 
-ucc‚¾‚Ëv
+ã€Œâ€¦â€¦ã ã­ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Šy‚µ‚»‚¤‚Å•Ð•t‚¯‚Ä‚¢‚¢‚à‚Ì‚©‚Ç‚¤‚©‚í‚©‚ç‚È‚¢‚¯‚ÇB
+æ¥½ã—ãã†ã§ç‰‡ä»˜ã‘ã¦ã„ã„ã‚‚ã®ã‹ã©ã†ã‹ã‚ã‹ã‚‰ãªã„ã‘ã©ã€‚
 
-‚±‚¤Œ¾‚Á‚¿‚á‚È‚ñ‚¾‚¯‚ÇA‚ ‚ÌƒGƒ‹ƒtA‚æ‚­ƒCƒoƒ‰‚Éƒqƒiƒ^‚½‚¿‚Ì˜A‚ê–ß‚µ‚ð–½‚¶‚½‚ÈB
+ã“ã†è¨€ã£ã¡ã‚ƒãªã‚“ã ã‘ã©ã€ã‚ã®ã‚¨ãƒ«ãƒ•ã€ã‚ˆãã‚¤ãƒãƒ©ã«ãƒ’ãƒŠã‚¿ãŸã¡ã®é€£ã‚Œæˆ»ã—ã‚’å‘½ã˜ãŸãªã€‚
 
-ccƒCƒoƒ‰‚ªs‚­‚Æ‚¢‚Á‚Ä•·‚©‚È‚©‚Á‚½‚¾‚¯‚©‚àB‚»‚ê‚ªˆê”Ô‚ ‚è‚»‚¤‚¾B
+â€¦â€¦ã‚¤ãƒãƒ©ãŒè¡Œãã¨ã„ã£ã¦èžã‹ãªã‹ã£ãŸã ã‘ã‹ã‚‚ã€‚ãã‚ŒãŒä¸€ç•ªã‚ã‚Šãã†ã ã€‚
 
 ;CHR K01F1B L
-#cg ƒRƒmƒ~ kon_1_01f1b ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01f1b å·¦
 #wipe fade
 
 #voice kone0051
-yƒRƒmƒ~zu‹A‚ç‚È‚¢‚Æ‚Ü‚½“{‚ç‚ê‚¿‚á‚¤‚©‚È`Hv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œå¸°ã‚‰ãªã„ã¨ã¾ãŸæ€’ã‚‰ã‚Œã¡ã‚ƒã†ã‹ãªã€œï¼Ÿã€
 
-ucc‚¾‚ÆŽv‚¤‚æv
+ã€Œâ€¦â€¦ã ã¨æ€ã†ã‚ˆã€
 
-ƒGƒ‹ƒt‚ÌŒˆ‚Ü‚è‚Í—Ç‚­‚í‚©‚ç‚È‚¢‚¯‚ÇA˜A‚ê–ß‚µ‚½‚Ì‚É‚Ü‚½o•à‚¢‚Ä‚¢‚Ä•ú‚Á‚Ä‚¨‚©‚ê‚é‚Á‚Ä‚±‚Æ‚Í‚È‚¢‚ñ‚¶‚á‚È‚¢‚¾‚ë‚¤‚©B
+ã‚¨ãƒ«ãƒ•ã®æ±ºã¾ã‚Šã¯è‰¯ãã‚ã‹ã‚‰ãªã„ã‘ã©ã€é€£ã‚Œæˆ»ã—ãŸã®ã«ã¾ãŸå‡ºæ­©ã„ã¦ã„ã¦æ”¾ã£ã¦ãŠã‹ã‚Œã‚‹ã£ã¦ã“ã¨ã¯ãªã„ã‚“ã˜ã‚ƒãªã„ã ã‚ã†ã‹ã€‚
 
 ;CHR K06F L
-#cg ƒRƒmƒ~ kon_1_06f ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_06f å·¦
 #wipe fade
 
 #voice kone0052
-yƒRƒmƒ~zu‚»‚©‚Ÿ`cc‚´‚ñ‚Ë‚¥‚ñ`ccv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãã‹ãã€œâ€¦â€¦ã–ã‚“ã­ã‡ã‚“ã€œâ€¦â€¦ã€
 
-u‘å‘ÌA‚»‚à‚»‚ào‚Ä‚«‚Ä‚æ‚©‚Á‚½‚ÌHv
+ã€Œå¤§ä½“ã€ãã‚‚ãã‚‚å‡ºã¦ãã¦ã‚ˆã‹ã£ãŸã®ï¼Ÿã€
 
 ;CHR H01F1_A R
-#cg ƒqƒiƒ^ hin_1_01f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_01f1_a å³
 #wipe fade
 
 #voice hine0065
-yƒqƒiƒ^zu‚ ‚Ü‚è‚Å‚ ‚é‚©‚È‚¢‚æ‚¤‚ÉA‚Á‚Ä‚¢‚í‚ê‚½‚æB‚ ‚Ü‚è‚¾‚©‚çA‚¿‚å‚Á‚Æ‚È‚ç‚Å‚ ‚é‚­‚Ì‚Í‚¢‚¢‚Á‚Ä‚±‚Æ‚¾‚æ‚ËIHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚ã¾ã‚Šã§ã‚ã‚‹ã‹ãªã„ã‚ˆã†ã«ã€ã£ã¦ã„ã‚ã‚ŒãŸã‚ˆã€‚ã‚ã¾ã‚Šã ã‹ã‚‰ã€ã¡ã‚‡ã£ã¨ãªã‚‰ã§ã‚ã‚‹ãã®ã¯ã„ã„ã£ã¦ã“ã¨ã ã‚ˆã­ï¼ï¼Ÿã€
 
-u‚¦‚¥‚ÁIH@‚¢‚âA‚»‚Ì‰ðŽß‚Í‚Ç‚¤‚¾‚ë‚¤v
+ã€Œãˆã‡ã£ï¼ï¼Ÿã€€ã„ã‚„ã€ãã®è§£é‡ˆã¯ã©ã†ã ã‚ã†ã€
 
 ;CHR OFF
-#cg ƒRƒmƒ~ clear
+#cg ã‚³ãƒŽãƒŸ clear
 #wipe fade
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0098
-yƒCƒoƒ‰zu‚»‚¤‚ÉŒˆ‚Ü‚Á‚Ä‚é‚¶‚á‚È‚¢‚©Bâ‘Îƒ_ƒ‚¾‚Á‚½‚çâ‘Îƒ_ƒ‚Á‚ÄŒ¾‚í‚ê‚é‚ÉŒˆ‚Ü‚Á‚Ä‚év
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãã†ã«æ±ºã¾ã£ã¦ã‚‹ã˜ã‚ƒãªã„ã‹ã€‚çµ¶å¯¾ãƒ€ãƒ¡ã ã£ãŸã‚‰çµ¶å¯¾ãƒ€ãƒ¡ã£ã¦è¨€ã‚ã‚Œã‚‹ã«æ±ºã¾ã£ã¦ã‚‹ã€
 
-ucc‚È‚ñ‚Æ‚¢‚¤‚©AŒN‚½‚¿‚Á‚Ä‚±‚´‚©‚µ‚¢‚æ‚Ëv
+ã€Œâ€¦â€¦ãªã‚“ã¨ã„ã†ã‹ã€å›ãŸã¡ã£ã¦ã“ã–ã‹ã—ã„ã‚ˆã­ã€
 
 ;CHR H11F_A R
-#cg ƒqƒiƒ^ hin_1_11f_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_11f_a å³
 #wipe fade
 
 #voice hine0066
-yƒqƒiƒ^zu‚»[‚§H@‚¦‚Ö‚Öv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œããƒ¼ã‰ï¼Ÿã€€ãˆã¸ã¸ã€
 
 ;CHR I07F L
-#cg ƒCƒoƒ‰ iba_1_07f ¶
+#cg ã‚¤ãƒãƒ© iba_1_07f å·¦
 #wipe fade
 
 #voice ibae0099
-yƒCƒoƒ‰zu‚Ó‚Ó‚ñv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãµãµã‚“ã€
 
-Žv‚í‚¸•ð‚ê‚Ä‚µ‚Ü‚¤‚ªAƒqƒiƒ^‚Í–J‚ß‚ç‚ê‚½‚ÆŽv‚Á‚ÄŠð‚µ‚»‚¤‚¾‚µAƒCƒoƒ‰‚Í‚È‚º‚©ŒÖ‚ç‚µ‚°‚¾B
+æ€ã‚ãšå‘†ã‚Œã¦ã—ã¾ã†ãŒã€ãƒ’ãƒŠã‚¿ã¯è¤’ã‚ã‚‰ã‚ŒãŸã¨æ€ã£ã¦å¬‰ã—ãã†ã ã—ã€ã‚¤ãƒãƒ©ã¯ãªãœã‹èª‡ã‚‰ã—ã’ã ã€‚
 
-ƒcƒLƒˆ‚ª‰´‚Ì‘ã‚í‚è‚É‚Û‚Â‚è‚Æ¬‚³‚Èº‚Å™ê‚¢‚½B
+ãƒ„ã‚­ãƒ¨ãŒä¿ºã®ä»£ã‚ã‚Šã«ã½ã¤ã‚Šã¨å°ã•ãªå£°ã§å‘Ÿã„ãŸã€‚
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 #voice tuke0343
-yƒcƒLƒˆzu–J‚ß‚Ä‚È‚¢‚ÆŽv‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œè¤’ã‚ã¦ãªã„ã¨æ€ã†ã§ã™ã€
 
-‚¤‚ñA–J‚ß‚Ä‚È‚¢B
+ã†ã‚“ã€è¤’ã‚ã¦ãªã„ã€‚
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;ˆÃ“]
+;æš—è»¢
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb003 Ä¶
+;BGMch2 amb003 å†ç”Ÿ
 #bgvoice amb003
 
 #cg all clear
 #bg black
 #wipe fade
-;”wŒiFŽR¬‰®’†i’‹j
+;èƒŒæ™¯ï¼šå±±å°å±‹ä¸­ï¼ˆæ˜¼ï¼‰
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-—‚’©Aƒqƒiƒ^‚½‚¿‚ÍƒGƒ‹ƒt‚Ì—¢‚Ö‚Æ–ß‚Á‚Ä‚¢‚Á‚½B
+ç¿Œæœã€ãƒ’ãƒŠã‚¿ãŸã¡ã¯ã‚¨ãƒ«ãƒ•ã®é‡Œã¸ã¨æˆ»ã£ã¦ã„ã£ãŸã€‚
 
-‘f’¼‚É–ß‚Á‚½‚Á‚Ä‚±‚Æ‚ÍAˆê‰ž‚»‚ê‚È‚è‚É‚µ‚¨‚ç‚µ‚­‚Í‚È‚Á‚½‚ÆŽv‚Á‚Ä‚¢‚¢‚Ì‚©‚ÈB
+ç´ ç›´ã«æˆ»ã£ãŸã£ã¦ã“ã¨ã¯ã€ä¸€å¿œãã‚Œãªã‚Šã«ã—ãŠã‚‰ã—ãã¯ãªã£ãŸã¨æ€ã£ã¦ã„ã„ã®ã‹ãªã€‚
 
-‚ ‚ñ‚Ü‚èS”z‚©‚¯‚é‚È‚æ‚Æ‚ÍŒ¾‚Á‚Ä‚¨‚¢‚½‚¯‚ÇA‚ ‚Ü‚è‚Á‚Ä‚Ç‚Ì‚®‚ç‚¢‚¾‚ë‚¤‚ËA‚È‚ñ‚ÄŒ¾‚Á‚Ä‚½‚©‚ç‚Ü‚½‚µ‚å‚Á‚¿‚ã‚¤“ü‚èZ‚é‚Â‚à‚è‚È‚Ì‚©‚à‚µ‚ê‚È‚¢B
+ã‚ã‚“ã¾ã‚Šå¿ƒé…ã‹ã‘ã‚‹ãªã‚ˆã¨ã¯è¨€ã£ã¦ãŠã„ãŸã‘ã©ã€ã‚ã¾ã‚Šã£ã¦ã©ã®ãã‚‰ã„ã ã‚ã†ã­ã€ãªã‚“ã¦è¨€ã£ã¦ãŸã‹ã‚‰ã¾ãŸã—ã‚‡ã£ã¡ã‚…ã†å…¥ã‚Šæµ¸ã‚‹ã¤ã‚‚ã‚Šãªã®ã‹ã‚‚ã—ã‚Œãªã„ã€‚
 
-cc‚Þ‚µ‚ë‚»‚Ì•û‚ª”N’·ŽÒ‚ÌƒGƒ‹ƒt‚àA‚Ç‚±‚És‚Á‚½‚©‚í‚©‚ç‚È‚¢‚È‚ñ‚Ä–Ê“|‚ª‚È‚­‚ÄŠy‚©‚à‚µ‚ê‚È‚¢‚ÈB
+â€¦â€¦ã‚€ã—ã‚ãã®æ–¹ãŒå¹´é•·è€…ã®ã‚¨ãƒ«ãƒ•ã‚‚ã€ã©ã“ã«è¡Œã£ãŸã‹ã‚ã‹ã‚‰ãªã„ãªã‚“ã¦é¢å€’ãŒãªãã¦æ¥½ã‹ã‚‚ã—ã‚Œãªã„ãªã€‚
 
-ŠwŽÒcc‚©‚ŸB
+å­¦è€…â€¦â€¦ã‹ãã€‚
 
-Žv‚¢‚à‚©‚¯‚È‚©‚Á‚½–Ú•W‚ªo—ˆ‚ÄA‚È‚ñ‚Æ‚È‚­Šy‚µ‚­‚È‚èŽn‚ß‚½B
+æ€ã„ã‚‚ã‹ã‘ãªã‹ã£ãŸç›®æ¨™ãŒå‡ºæ¥ã¦ã€ãªã‚“ã¨ãªãæ¥½ã—ããªã‚Šå§‹ã‚ãŸã€‚
 
-–³–d‚È–²‚©‚à‚µ‚ê‚È‚¢‚ªA–ÚŽw‚·‚à‚Ì‚ª‚ ‚é‚Æ’£‚è‡‚¢‚ªo‚Ä‚­‚é‚à‚ñ‚¾‚ÈB
+ç„¡è¬€ãªå¤¢ã‹ã‚‚ã—ã‚Œãªã„ãŒã€ç›®æŒ‡ã™ã‚‚ã®ãŒã‚ã‚‹ã¨å¼µã‚Šåˆã„ãŒå‡ºã¦ãã‚‹ã‚‚ã‚“ã ãªã€‚
 
-‚Æ‚è‚ ‚¦‚¸Ž‘‹à‚Ì‚½‚ß‚É×H•¨‚ðì‚è’™‚ß‚Ä‚¨‚­‚±‚Æ‚É‚µ‚æ‚¤B
+ã¨ã‚Šã‚ãˆãšè³‡é‡‘ã®ãŸã‚ã«ç´°å·¥ç‰©ã‚’ä½œã‚Šè²¯ã‚ã¦ãŠãã“ã¨ã«ã—ã‚ˆã†ã€‚
 
 ;CHR T09F C
-#cg ƒcƒLƒˆ tuk_1_09f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_09f ä¸­
 #wipe fade
 
 #voice tuke0344
-yƒcƒLƒˆzuƒjƒ“ƒQƒ“‚³‚ñA¡“ú‚Í‰½‚ðì‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã€ä»Šæ—¥ã¯ä½•ã‚’ä½œã‚‹ã§ã™ï¼Ÿã€
 
-u‘•g‹ï‚ðì‚ë‚¤‚©‚ÆŽv‚Á‚Ä‚éBŽèŠÔ‚Í‚©‚©‚é‚¯‚ÇA‚»‚Ì•ª‚‚­”„‚ê‚é‚µAŽ‚¿•à‚­‚Ì‚É‚©‚³‚Î‚ç‚È‚¢‚©‚ç‚Ëv
+ã€Œè£…èº«å…·ã‚’ä½œã‚ã†ã‹ã¨æ€ã£ã¦ã‚‹ã€‚æ‰‹é–“ã¯ã‹ã‹ã‚‹ã‘ã©ã€ãã®åˆ†é«˜ãå£²ã‚Œã‚‹ã—ã€æŒã¡æ­©ãã®ã«ã‹ã•ã°ã‚‰ãªã„ã‹ã‚‰ã­ã€
 
 #voice tuke0345
-yƒcƒLƒˆzu‚Ü‚½‘º‚ÉŽ‚Á‚Äs‚Á‚Ä”„‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¾ãŸæ‘ã«æŒã£ã¦è¡Œã£ã¦å£²ã‚‹ã§ã™ï¼Ÿã€
 
-u¡“x‚©‚ç‚Í‚ ‚é’ö“xì‚è’™‚ß‚Ä‚¨‚¢‚ÄA’¬‚És‚Á‚Ä‚©‚ç­‚µ‚Ã‚Â”„‚ë‚¤‚©‚ÆŽv‚¤‚ñ‚¾B’¬‚Ì•û‚ª‚‚­”„‚ê‚»‚¤‚¾‚©‚ç‚Ëv
+ã€Œä»Šåº¦ã‹ã‚‰ã¯ã‚ã‚‹ç¨‹åº¦ä½œã‚Šè²¯ã‚ã¦ãŠã„ã¦ã€ç”ºã«è¡Œã£ã¦ã‹ã‚‰å°‘ã—ã¥ã¤å£²ã‚ã†ã‹ã¨æ€ã†ã‚“ã ã€‚ç”ºã®æ–¹ãŒé«˜ãå£²ã‚Œãã†ã ã‹ã‚‰ã­ã€
 
 #voice tuke0346
-yƒcƒLƒˆzu‚È‚é‚Ù‚ÇA‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãªã‚‹ã»ã©ã€ã§ã™ã€
 
-uƒcƒLƒˆ‚àŽè“`‚Á‚Ä‚­‚ê‚é‚ÆŠð‚µ‚¢‚ÈB‘O‚ÉƒcƒLƒˆ‚ªì‚Á‚½’Ž‚Ì×H‚àl‹C‚ª‚ ‚Á‚½‚©‚çcc‚±‚ñ‚È•—‚É‚µ‚Ä‘Ñ‚ð’Ê‚¹‚é‚æ‚¤‚É‚µ‚½‚ç‚Ç‚¤‚©‚ÆŽv‚¤‚ñ‚¾v
+ã€Œãƒ„ã‚­ãƒ¨ã‚‚æ‰‹ä¼ã£ã¦ãã‚Œã‚‹ã¨å¬‰ã—ã„ãªã€‚å‰ã«ãƒ„ã‚­ãƒ¨ãŒä½œã£ãŸè™«ã®ç´°å·¥ã‚‚äººæ°—ãŒã‚ã£ãŸã‹ã‚‰â€¦â€¦ã“ã‚“ãªé¢¨ã«ã—ã¦å¸¯ã‚’é€šã›ã‚‹ã‚ˆã†ã«ã—ãŸã‚‰ã©ã†ã‹ã¨æ€ã†ã‚“ã ã€
 
 ;CHR T04F C
-#cg ƒcƒLƒˆ tuk_1_04f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04f ä¸­
 #wipe fade
 
 #voice tuke0347
-yƒcƒLƒˆzu‚¨‚§A‚©‚Á‚±‚¢‚¢‚Å‚·B‘Ñ‚ÉƒcƒmƒJƒuƒg‚Â‚¯‚½‚ç‹­‚»‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€ŒãŠã‰ã€ã‹ã£ã“ã„ã„ã§ã™ã€‚å¸¯ã«ãƒ„ãƒŽã‚«ãƒ–ãƒˆã¤ã‘ãŸã‚‰å¼·ãã†ã§ã™ã€
 
-u‚¤‚ñA‚»‚ê‚à–Ê”’‚¢‚Èv
+ã€Œã†ã‚“ã€ãã‚Œã‚‚é¢ç™½ã„ãªã€
 
 #voice tuke0348
-yƒcƒLƒˆzuƒLƒkƒoƒlƒ`ƒ‡ƒE‚ÍãY—í‚¾‚©‚çA•ž‚É—¯‚Ü‚é‚Æ‘f“G‚Å‚·B‚ ‚êA×H•¨‚Åì‚Á‚Ä‚Ý‚½‚ç‚¢‚¢‚ÆŽv‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚­ãƒŒãƒãƒãƒãƒ§ã‚¦ã¯ç¶ºéº—ã ã‹ã‚‰ã€æœã«ç•™ã¾ã‚‹ã¨ç´ æ•µã§ã™ã€‚ã‚ã‚Œã€ç´°å·¥ç‰©ã§ä½œã£ã¦ã¿ãŸã‚‰ã„ã„ã¨æ€ã†ã§ã™ã€
 
-uƒcƒLƒˆ‚Í‚¢‚ë‚ñ‚È‚±‚Æ‚ðŽv‚¢‚Â‚­‚Èv
+ã€Œãƒ„ã‚­ãƒ¨ã¯ã„ã‚ã‚“ãªã“ã¨ã‚’æ€ã„ã¤ããªã€
 
 #voice tuke0349
-yƒcƒLƒˆzu‚¦‚Ö‚Ö‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãˆã¸ã¸ã§ã™ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-‚µ‚Î‚ç‚­‚Í–Ù‚Á‚Äì‹Æ‚ð‚µ‚Ä‚¢‚½‚ªAì‹Æ‚ª‚Ì‚Á‚ÄŠµ‚ê‚Ä‚­‚é‚Æ˜b‚µ‚È‚ª‚ç‚Å‚à‚±‚È‚¹‚é‚æ‚¤‚É‚È‚éB
+ã—ã°ã‚‰ãã¯é»™ã£ã¦ä½œæ¥­ã‚’ã—ã¦ã„ãŸãŒã€ä½œæ¥­ãŒã®ã£ã¦æ…£ã‚Œã¦ãã‚‹ã¨è©±ã—ãªãŒã‚‰ã§ã‚‚ã“ãªã›ã‚‹ã‚ˆã†ã«ãªã‚‹ã€‚
 
-‰´‚Í‚Ó‚Æ•·‚¢‚Ä‚Ý‚½B
+ä¿ºã¯ãµã¨èžã„ã¦ã¿ãŸã€‚
 
-u‚Æ‚±‚ë‚ÅA‚È‚ñ‚Å‹}‚Éƒ_[ƒNƒGƒ‹ƒt‚ð’T‚µ‚És‚­‹C‚É‚È‚Á‚½‚ÌHv
+ã€Œã¨ã“ã‚ã§ã€ãªã‚“ã§æ€¥ã«ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã‚’æŽ¢ã—ã«è¡Œãæ°—ã«ãªã£ãŸã®ï¼Ÿã€
 
 ;CHR T01F_L C
-#cg ƒcƒLƒˆ tuk_1_01f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_01f_l ä¸­
 #wipe fade
 
 #voice tuke0350
-yƒcƒLƒˆzu‚ñ‚Æccƒ_[ƒNƒGƒ‹ƒtA‘¼‚É‚à‚¢‚é‚ÆŽv‚Á‚Ä‚È‚©‚Á‚½‚Å‚·B‚Å‚àA‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚Á‚Äƒjƒ“ƒQƒ“‚³‚ñ‚ªŒ¾‚Á‚Ä‚½‚©‚ç‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“ã¨â€¦â€¦ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã€ä»–ã«ã‚‚ã„ã‚‹ã¨æ€ã£ã¦ãªã‹ã£ãŸã§ã™ã€‚ã§ã‚‚ã€ã„ã‚‹ã‹ã‚‚ã—ã‚Œãªã„ã£ã¦ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ãŒè¨€ã£ã¦ãŸã‹ã‚‰ã§ã™ã€
 
-u‚»‚¤‚©A‰´‚ª‚«‚Á‚©‚¯‚©v
+ã€Œãã†ã‹ã€ä¿ºãŒãã£ã‹ã‘ã‹ã€
 
 #voice tuke0351
-yƒcƒLƒˆzu‚Í‚¢‚Å‚·Bƒ_[ƒNƒGƒ‹ƒt‚Ì‚±‚Æ‚æ‚­’m‚ç‚È‚¢‚©‚çA‹³‚¦‚Ä‚à‚ç‚¢‚És‚­‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã„ã§ã™ã€‚ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã®ã“ã¨ã‚ˆãçŸ¥ã‚‰ãªã„ã‹ã‚‰ã€æ•™ãˆã¦ã‚‚ã‚‰ã„ã«è¡Œãã§ã™ã€
 
 ;CHR T05F_L C
-#cg ƒcƒLƒˆ tuk_1_05f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_05f_l ä¸­
 #wipe fade
 
 #voice tuke0352
-yƒcƒLƒˆzuƒ_[ƒNƒGƒ‹ƒtAƒGƒ‹ƒt‚É‚Í‰˜‚ç‚í‚µ‚¢‚Æ‚©AŠõ‚Þ‚×‚«‘¶Ý‚Á‚ÄŒ¾‚í‚ê‚½‚Å‚·B‚Å‚àA‰˜‚ç‚í‚µ‚­‚È‚¢‚Á‚ÄŒ¾‚Á‚Ä‚­‚ê‚½‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã€ã‚¨ãƒ«ãƒ•ã«ã¯æ±šã‚‰ã‚ã—ã„ã¨ã‹ã€å¿Œã‚€ã¹ãå­˜åœ¨ã£ã¦è¨€ã‚ã‚ŒãŸã§ã™ã€‚ã§ã‚‚ã€æ±šã‚‰ã‚ã—ããªã„ã£ã¦è¨€ã£ã¦ãã‚ŒãŸã§ã™ã€
 
-u‚»‚ê‚àA‰´‚ªcc‚©v
+ã€Œãã‚Œã‚‚ã€ä¿ºãŒâ€¦â€¦ã‹ã€
 
 #voice tuke0353
-yƒcƒLƒˆzu‚Í‚¢‚Å‚·BƒGƒ‹ƒt‚ªŒ¾‚Á‚Ä‚½‚±‚Æ‚ÆAŽ©‘R‚É‚í‚©‚Á‚Ä‚é‚±‚Æ‚µ‚©AƒcƒLƒˆ‚Í•ª‚©‚ñ‚È‚¢‚Å‚·B‚Å‚àA‚à‚Á‚Æ‰½‚©‚ ‚é‚æ‚¤‚È‹C‚ª‚·‚é‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã„ã§ã™ã€‚ã‚¨ãƒ«ãƒ•ãŒè¨€ã£ã¦ãŸã“ã¨ã¨ã€è‡ªç„¶ã«ã‚ã‹ã£ã¦ã‚‹ã“ã¨ã—ã‹ã€ãƒ„ã‚­ãƒ¨ã¯åˆ†ã‹ã‚“ãªã„ã§ã™ã€‚ã§ã‚‚ã€ã‚‚ã£ã¨ä½•ã‹ã‚ã‚‹ã‚ˆã†ãªæ°—ãŒã™ã‚‹ã§ã™ã€
 
-ƒcƒLƒˆ‚Í‚»‚Á‚ÆŽñŒ³‚ÌŽhÂ‚ÉŽwæ‚ðG‚ê‚³‚¹‚½B
+ãƒ„ã‚­ãƒ¨ã¯ãã£ã¨é¦–å…ƒã®åˆºé’ã«æŒ‡å…ˆã‚’è§¦ã‚Œã•ã›ãŸã€‚
 
 ;CHR T09F C
-#cg ƒcƒLƒˆ tuk_1_09f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_09f ä¸­
 #wipe fade
 
 #voice tuke0354
-yƒcƒLƒˆzu‚±‚ÌŽhÂ‚É‚à‰½‚©ˆÓ–¡‚ª‚ ‚é‚È‚çA‚»‚ê‚ð’m‚è‚½‚¢‚Å‚·B‚¾‚©‚çA‘¼‚Ìƒ_[ƒNƒGƒ‹ƒt‚ð’T‚·—·‚Éo‚æ‚¤‚ÆŽv‚Á‚Ä‚é‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã“ã®åˆºé’ã«ã‚‚ä½•ã‹æ„å‘³ãŒã‚ã‚‹ãªã‚‰ã€ãã‚Œã‚’çŸ¥ã‚ŠãŸã„ã§ã™ã€‚ã ã‹ã‚‰ã€ä»–ã®ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã‚’æŽ¢ã™æ—…ã«å‡ºã‚ˆã†ã¨æ€ã£ã¦ã‚‹ã§ã™ã€
 
-u‚¢‚Â‚©‚çs‚­‚Â‚à‚è‚¾v
+ã€Œã„ã¤ã‹ã‚‰è¡Œãã¤ã‚‚ã‚Šã ã€
 
 #voice tuke0355
-yƒcƒLƒˆzu‚Æ‚è‚ ‚¦‚¸A–žŒŽ‚Ì‚Â‚à‚è‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¨ã‚Šã‚ãˆãšã€æº€æœˆã®ã¤ã‚‚ã‚Šã§ã™ã€
 
-u‚»‚Á‚©ccv
+ã€Œãã£ã‹â€¦â€¦ã€
 
 ;CHR T06F_L C
-#cg ƒcƒLƒˆ tuk_1_06f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_06f_l ä¸­
 #wipe fade
 
 #voice tuke0356
-yƒcƒLƒˆzu“¹‚ðØ‚é—ÍA—Ç‚­‚È‚¢‚à‚Ì‚¾‚ÆŽv‚Á‚Ä‚½‚Å‚·B‚Å‚àAƒI[ƒN‚É‘˜‚Á‚½‚Æ‚«Ž©•ª‚½‚¿‚É‚Íˆ«‚­‚È‚­Žg‚¦‚½‚Å‚·B‚¾‚©‚çAˆ«‚¢‚à‚Ì‚¶‚á‚È‚¢‹C‚ª‚·‚é‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œé“ã‚’åˆ‡ã‚‹åŠ›ã€è‰¯ããªã„ã‚‚ã®ã ã¨æ€ã£ã¦ãŸã§ã™ã€‚ã§ã‚‚ã€ã‚ªãƒ¼ã‚¯ã«é­ã£ãŸã¨ãè‡ªåˆ†ãŸã¡ã«ã¯æ‚ªããªãä½¿ãˆãŸã§ã™ã€‚ã ã‹ã‚‰ã€æ‚ªã„ã‚‚ã®ã˜ã‚ƒãªã„æ°—ãŒã™ã‚‹ã§ã™ã€
 
-u‚»‚¤‚¾‚ËB‚Ç‚ñ‚È—Í‚ðŽ‚Á‚Ä‚¢‚Ä‚àAŽg‚¤‚â‚Â‚ÌŽg‚¢•ûŽŸ‘æ‚¾‚à‚ñ‚Ëv
+ã€Œãã†ã ã­ã€‚ã©ã‚“ãªåŠ›ã‚’æŒã£ã¦ã„ã¦ã‚‚ã€ä½¿ã†ã‚„ã¤ã®ä½¿ã„æ–¹æ¬¡ç¬¬ã ã‚‚ã‚“ã­ã€
 
 ;CHR T01F_L C
-#cg ƒcƒLƒˆ tuk_1_01f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_01f_l ä¸­
 #wipe fade
 
 #voice tuke0357
-yƒcƒLƒˆzu‚Å‚·B‘¼‚É‚à‰½‚©‚ ‚é‚ñ‚È‚çA‚»‚ê‚ð‹³‚¦‚Ä‚­‚ê‚éƒ_[ƒNƒGƒ‹ƒt‚É‰ï‚¢‚½‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã§ã™ã€‚ä»–ã«ã‚‚ä½•ã‹ã‚ã‚‹ã‚“ãªã‚‰ã€ãã‚Œã‚’æ•™ãˆã¦ãã‚Œã‚‹ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã«ä¼šã„ãŸã„ã§ã™ã€
 
 #voice tuke0358
-yƒcƒLƒˆzuŽ©•ª‚àƒ_[ƒNƒGƒ‹ƒt‚È‚Ì‚É‚æ‚­‚í‚©‚ç‚È‚¢‚Å‚·B“¯‚¶ƒ_[ƒNƒGƒ‹ƒt‚Ìˆê‘°‚ð’T‚µ‚½‚çA‚¢‚ë‚¢‚ë‚Æ‹³‚¦‚Ä‚à‚ç‚¦‚é‚©‚à‚µ‚ê‚È‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œè‡ªåˆ†ã‚‚ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ãªã®ã«ã‚ˆãã‚ã‹ã‚‰ãªã„ã§ã™ã€‚åŒã˜ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã®ä¸€æ—ã‚’æŽ¢ã—ãŸã‚‰ã€ã„ã‚ã„ã‚ã¨æ•™ãˆã¦ã‚‚ã‚‰ãˆã‚‹ã‹ã‚‚ã—ã‚Œãªã„ã§ã™ã€
 
-u‚»‚Á‚©A‚¢‚¢ƒ_[ƒNƒGƒ‹ƒt‚É‰ï‚¦‚é‚Æ‚¢‚¢‚ÈB‚Æ‚±‚ë‚ÅA’T‚·“–‚Ä‚Æ‚©‚Í‚ ‚é‚ÌHv
+ã€Œãã£ã‹ã€ã„ã„ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã«ä¼šãˆã‚‹ã¨ã„ã„ãªã€‚ã¨ã“ã‚ã§ã€æŽ¢ã™å½“ã¦ã¨ã‹ã¯ã‚ã‚‹ã®ï¼Ÿã€
 
 ;CHR T09F C
-#cg ƒcƒLƒˆ tuk_1_09f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_09f ä¸­
 #wipe fade
 
 #voice tuke0359
-yƒcƒLƒˆzu‚Í‚íccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã‚â€¦â€¦ã€
 
-ƒcƒLƒˆ‚Í‚Õ‚é‚Õ‚é‚ÆŽñ‚ð‰¡‚ÉU‚Á‚½B
+ãƒ„ã‚­ãƒ¨ã¯ã·ã‚‹ã·ã‚‹ã¨é¦–ã‚’æ¨ªã«æŒ¯ã£ãŸã€‚
 
-u’T‚·“–‚Ä‚à‚È‚¢‚Ì‚ÉA’T‚µ‚És‚­‚Â‚à‚è‚¾‚Á‚½‚ÌIHv
+ã€ŒæŽ¢ã™å½“ã¦ã‚‚ãªã„ã®ã«ã€æŽ¢ã—ã«è¡Œãã¤ã‚‚ã‚Šã ã£ãŸã®ï¼ï¼Ÿã€
 
-‹Á‚¢‚Ä•·‚«’¼‚·‚ÆAƒcƒLƒˆ‚ÍŠç‚ð‚±‚¿‚ç‚ÉŒü‚¯‚½B
+é©šã„ã¦èžãç›´ã™ã¨ã€ãƒ„ã‚­ãƒ¨ã¯é¡”ã‚’ã“ã¡ã‚‰ã«å‘ã‘ãŸã€‚
 
 ;CHR T01F_L C
-#cg ƒcƒLƒˆ tuk_1_01f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_01f_l ä¸­
 #wipe fade
 
 #voice tuke0360
-yƒcƒLƒˆzu‚Å‚àAƒGƒ‹ƒt‚ÌW—Ž‚É‚¢‚½‚ç‚¸‚Á‚Æ‰ï‚¦‚È‚¢‚Ü‚ñ‚Ü‚Å‚·B—·‚Éo‚½‚ç‰ï‚¦‚é‚©‚à‚µ‚ê‚È‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã§ã‚‚ã€ã‚¨ãƒ«ãƒ•ã®é›†è½ã«ã„ãŸã‚‰ãšã£ã¨ä¼šãˆãªã„ã¾ã‚“ã¾ã§ã™ã€‚æ—…ã«å‡ºãŸã‚‰ä¼šãˆã‚‹ã‹ã‚‚ã—ã‚Œãªã„ã§ã™ã€
 
-uccv
+ã€Œâ€¦â€¦ã€
 
-‰´‚ÍŒˆˆÓ‚É–ž‚¿‚½ƒcƒLƒˆ‚ÌŒ¾—t‚É‰½‚àŒ¾‚¦‚È‚­‚È‚Á‚½B
+ä¿ºã¯æ±ºæ„ã«æº€ã¡ãŸãƒ„ã‚­ãƒ¨ã®è¨€è‘‰ã«ä½•ã‚‚è¨€ãˆãªããªã£ãŸã€‚
 
-‚»‚Ì’Ê‚è‚¾BƒGƒ‹ƒt‚Ì—¢‚É‚¢‚é‚Ü‚Ü‚¶‚áA‚±‚±‚É‚¢‚é‚Ü‚Ü‚¶‚áA‰½‚à•Ï‚í‚ç‚È‚¢B
+ãã®é€šã‚Šã ã€‚ã‚¨ãƒ«ãƒ•ã®é‡Œã«ã„ã‚‹ã¾ã¾ã˜ã‚ƒã€ã“ã“ã«ã„ã‚‹ã¾ã¾ã˜ã‚ƒã€ä½•ã‚‚å¤‰ã‚ã‚‰ãªã„ã€‚
 
-‚¾‚¯‚ÇAˆá‚¤êŠ‚És‚¯‚Î¡‚Æ‚Íˆá‚¤‰½‚©‚ª‚«‚Á‚Æ‘Ò‚Á‚Ä‚éB
+ã ã‘ã©ã€é•ã†å ´æ‰€ã«è¡Œã‘ã°ä»Šã¨ã¯é•ã†ä½•ã‹ãŒãã£ã¨å¾…ã£ã¦ã‚‹ã€‚
 
-u‚·‚²‚¢‚ÈAƒcƒLƒˆ‚Ív
+ã€Œã™ã”ã„ãªã€ãƒ„ã‚­ãƒ¨ã¯ã€
 
 ;CHR T06F_L C
-#cg ƒcƒLƒˆ tuk_1_06f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_06f_l ä¸­
 #wipe fade
 
 #voice tuke0361
-yƒcƒLƒˆzu‚Í‚í‚ÁIH@‚·‚²‚¢A‚Å‚·IHv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã‚ã£ï¼ï¼Ÿã€€ã™ã”ã„ã€ã§ã™ï¼ï¼Ÿã€
 
-u‚¤‚ñA‚·‚²‚¢‚æB—E‹C‚ª‚ ‚éB‚«‚Á‚Æƒ_[ƒNƒGƒ‹ƒt‚ÌW—Ž‚àŒ©‚Â‚©‚é‚æv
+ã€Œã†ã‚“ã€ã™ã”ã„ã‚ˆã€‚å‹‡æ°—ãŒã‚ã‚‹ã€‚ãã£ã¨ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã®é›†è½ã‚‚è¦‹ã¤ã‹ã‚‹ã‚ˆã€
 
-Žv‚¢‚ª‚¯‚¸–J‚ß‚ç‚ê‚Ä‹Á‚¢‚Ä‚¢‚éƒcƒLƒˆ‚ÉAS‚©‚ç‚ÌÜŽ^‚ð‘¡‚éB
+æ€ã„ãŒã‘ãšè¤’ã‚ã‚‰ã‚Œã¦é©šã„ã¦ã„ã‚‹ãƒ„ã‚­ãƒ¨ã«ã€å¿ƒã‹ã‚‰ã®è³žè³›ã‚’è´ˆã‚‹ã€‚
 
-‚»‚Ì—E‹C‚Í‚«‚Á‚Æ‘f°‚ç‚µ‚¢“¹‚ðØ‚èŠJ‚¢‚Ä‚¢‚­‚¾‚ë‚¤B
+ãã®å‹‡æ°—ã¯ãã£ã¨ç´ æ™´ã‚‰ã—ã„é“ã‚’åˆ‡ã‚Šé–‹ã„ã¦ã„ãã ã‚ã†ã€‚
 
 #voice tuke0362
-yƒcƒLƒˆzu‚Í‚íccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã‚â€¦â€¦ã€
 
-ƒcƒLƒˆ‚Íì‚è‚©‚¯‚Ì×H•¨‚ð’u‚­‚ÆA‰´‚Ì–T‚É‹ß‚Ã‚¢‚Ä‚«‚½B
+ãƒ„ã‚­ãƒ¨ã¯ä½œã‚Šã‹ã‘ã®ç´°å·¥ç‰©ã‚’ç½®ãã¨ã€ä¿ºã®å‚ã«è¿‘ã¥ã„ã¦ããŸã€‚
 
 ;CHR T04F C
-#cg ƒcƒLƒˆ tuk_1_04f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04f ä¸­
 #wipe fade
 
 #voice tuke0363
-yƒcƒLƒˆzu—E‹C‚ÍAƒjƒ“ƒQƒ“‚³‚ñ‚ª‚­‚ê‚½‚Å‚·Bƒjƒ“ƒQƒ“‚³‚ñ‚ª‰˜‚­‚È‚¢‚Á‚ÄŒ¾‚Á‚Ä‚­‚ê‚½‚©‚çAƒ_[ƒNƒGƒ‹ƒt’T‚µ‚És‚±‚¤‚ÆŽv‚Á‚½‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œå‹‡æ°—ã¯ã€ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ãŒãã‚ŒãŸã§ã™ã€‚ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ãŒæ±šããªã„ã£ã¦è¨€ã£ã¦ãã‚ŒãŸã‹ã‚‰ã€ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•æŽ¢ã—ã«è¡Œã“ã†ã¨æ€ã£ãŸã§ã™ã€
 
 #voice tuke0364
-yƒcƒLƒˆzuƒcƒLƒˆ‚Ì—E‹C‚ÍŠFAƒjƒ“ƒQƒ“‚³‚ñ‚Ì‚à‚Ì‚Å‚·cc‚ñccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒ„ã‚­ãƒ¨ã®å‹‡æ°—ã¯çš†ã€ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã®ã‚‚ã®ã§ã™â€¦â€¦ã‚“â€¦â€¦ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-uccHv
+ã€Œâ€¦â€¦ï¼Ÿã€
 
-ƒcƒLƒˆ‚Íg‚ð‚©‚ª‚ß‚é‚ÆA‰´‚ÌO‚ÉO‚ðd‚Ë‚Ä‚«‚½B
+ãƒ„ã‚­ãƒ¨ã¯èº«ã‚’ã‹ãŒã‚ã‚‹ã¨ã€ä¿ºã®å”‡ã«å”‡ã‚’é‡ã­ã¦ããŸã€‚
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0365
-yƒcƒLƒˆzu‚Õ‚Í‚ŸB‚¦‚Ö‚Öccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã·ã¯ãã€‚ãˆã¸ã¸â€¦â€¦ã€
 
-O‚ð—£‚·‚ÆAƒcƒLƒˆ‚ÍŠð‚µ‚»‚¤‚ÉÎ‚Á‚½B
+å”‡ã‚’é›¢ã™ã¨ã€ãƒ„ã‚­ãƒ¨ã¯å¬‰ã—ãã†ã«ç¬‘ã£ãŸã€‚
 
-u‚¬‚ã‚Á‚Ä•ø‚Á‚±‚µ‚Ä‚¢‚¢Hv
+ã€ŒãŽã‚…ã£ã¦æŠ±ã£ã“ã—ã¦ã„ã„ï¼Ÿã€
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0366
-yƒcƒLƒˆzu‚Í‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã„ã§ã™ã€
 
-ƒcƒLƒˆ‚Í‘f’¼‚É‰´‚Ì•G‚Éæ‚Á‚Ä‚­‚éB
+ãƒ„ã‚­ãƒ¨ã¯ç´ ç›´ã«ä¿ºã®è†ã«ä¹—ã£ã¦ãã‚‹ã€‚
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0367
-yƒcƒLƒˆzuƒjƒ“ƒQƒ“‚³‚ñ‚Ì–T‚É‚¢‚é‚ÆA‚Û‚©‚Û‚©‚ ‚Á‚½‚©‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã®å‚ã«ã„ã‚‹ã¨ã€ã½ã‹ã½ã‹ã‚ã£ãŸã‹ã„ã§ã™ã€
 
-Æ‚ê‚­‚³‚»‚¤‚ÉƒcƒLƒˆ‚ÍÎ‚¤B
+ç…§ã‚Œãã•ãã†ã«ãƒ„ã‚­ãƒ¨ã¯ç¬‘ã†ã€‚
 
-‰´‚ÍƒcƒLƒˆ‚Ì‚±‚Æ‚ð—\’Ê‚è‚É‚¬‚ã‚Á‚Æ•ø‚«‚µ‚ß‚½B
+ä¿ºã¯ãƒ„ã‚­ãƒ¨ã®ã“ã¨ã‚’äºˆå‘Šé€šã‚Šã«ãŽã‚…ã£ã¨æŠ±ãã—ã‚ãŸã€‚
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0368
-yƒcƒLƒˆzu‚à‚Á‚Æƒ`ƒ…[‚µ‚Ä‚¢‚¢‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚‚ã£ã¨ãƒãƒ¥ãƒ¼ã—ã¦ã„ã„ã§ã™ï¼Ÿã€
 
-u‚¤‚ñA‚¢‚¢‚æv
+ã€Œã†ã‚“ã€ã„ã„ã‚ˆã€
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0369
-yƒcƒLƒˆzu‚¦‚Ö‚ÖA‚Å‚·B‚ñ‚Ácc‚ñ‚¿‚ãcc‚¿‚ã‚Õ‚Ácc‚¿‚ã‚¤‚Ácc‚¿‚ã‚­‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãˆã¸ã¸ã€ã§ã™ã€‚ã‚“ã£â€¦â€¦ã‚“ã¡ã‚…â€¦â€¦ã¡ã‚…ã·ã£â€¦â€¦ã¡ã‚…ã†ã£â€¦â€¦ã¡ã‚…ãã£â€¦â€¦ã€
 
-d‚È‚Á‚½O‚ÌŒ„ŠÔ‚©‚çã‚ð’T‚è‚±‚Ü‚¹‚Ä‚â‚é‚ÆAƒcƒLƒˆ‚Í”MS‚É–¡‚í‚¤‚æ‚¤‚Éã‚Æã‚ð—‚ß‚Ä‚­‚éB
+é‡ãªã£ãŸå”‡ã®éš™é–“ã‹ã‚‰èˆŒã‚’æŽ¢ã‚Šã“ã¾ã›ã¦ã‚„ã‚‹ã¨ã€ãƒ„ã‚­ãƒ¨ã¯ç†±å¿ƒã«å‘³ã‚ã†ã‚ˆã†ã«èˆŒã¨èˆŒã‚’çµ¡ã‚ã¦ãã‚‹ã€‚
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 #voice tuke0370
-yƒcƒLƒˆzu‚Õ‚Í‚Ÿ‚Ácc‚Í‚Ÿcc‚¨Œû‚Ì’†A‹CŽ‚¿‚¢‚¢‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã·ã¯ãã£â€¦â€¦ã¯ãâ€¦â€¦ãŠå£ã®ä¸­ã€æ°—æŒã¡ã„ã„ã§ã™â€¦â€¦ã€
 
-u‚»‚ñ‚È‚ÉŒû‚Ã‚¯‚ªD‚«Hv
+ã€Œãã‚“ãªã«å£ã¥ã‘ãŒå¥½ãï¼Ÿã€
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0371
-yƒcƒLƒˆzuƒ`ƒ…[‚·‚é‚ÌD‚«‚Å‚·B‚¨Œû‚©‚ç—n‚¯‡‚Á‚Ä¬‚´‚Á‚Ä‚¢‚­Š´‚¶‚ª‚·‚é‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒãƒ¥ãƒ¼ã™ã‚‹ã®å¥½ãã§ã™ã€‚ãŠå£ã‹ã‚‰æº¶ã‘åˆã£ã¦æ··ã–ã£ã¦ã„ãæ„Ÿã˜ãŒã™ã‚‹ã§ã™ã€
 
-u‚¿‚ã‚¤‚¾‚¯‚Å‚¢‚¢‚ÌHv
+ã€Œã¡ã‚…ã†ã ã‘ã§ã„ã„ã®ï¼Ÿã€
 
-Šz‚ÉŠz‚ð‚­‚Á‚Â‚¯‚Ä•·‚­‚ÆAƒcƒLƒˆ‚Í’p‚¸‚©‚µ‚»‚¤‚É“š‚¦‚½B
+é¡ã«é¡ã‚’ãã£ã¤ã‘ã¦èžãã¨ã€ãƒ„ã‚­ãƒ¨ã¯æ¥ãšã‹ã—ãã†ã«ç­”ãˆãŸã€‚
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0372
-yƒcƒLƒˆzu‹CŽ‚¿‚¢‚¢‚±‚Æ‚àcc‚µ‚Ä‚Ù‚µ‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ°—æŒã¡ã„ã„ã“ã¨ã‚‚â€¦â€¦ã—ã¦ã»ã—ã„ã§ã™ã€
 
-u‚¤‚ñA‚µ‚æ‚Á‚©B•žA’E‚¢‚Å‚¨‚¢‚Åv
+ã€Œã†ã‚“ã€ã—ã‚ˆã£ã‹ã€‚æœã€è„±ã„ã§ãŠã„ã§ã€
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tuke0373
-yƒcƒLƒˆzu‚Í‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã„ã§ã™ã€
 
 
 ;SMODE 062 PLAY
@@ -464,1128 +464,1128 @@
 #setscene 61
 #bg BG07b_1
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
 ;#face off
 
 
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
-‰´‚ÍƒcƒLƒˆ‚ð•ø‚¦ã‚°‚ÄA‰´‚Ì–Ò‚Á‚½‚à‚Ì‚Ìã‚É‚ä‚Á‚­‚è‚Æ‰º‚ë‚µ‚Ä‚¢‚Á‚½B
+ä¿ºã¯ãƒ„ã‚­ãƒ¨ã‚’æŠ±ãˆä¸Šã’ã¦ã€ä¿ºã®çŒ›ã£ãŸã‚‚ã®ã®ä¸Šã«ã‚†ã£ãã‚Šã¨ä¸‹ã‚ã—ã¦ã„ã£ãŸã€‚
 
 #voice tuke0374
-yƒcƒLƒˆzu‚Í‚£‚Ácc“ü‚Á‚Äcc‚­‚é‚Å‚·cc‚ñ‚£cc‚Í‚Ÿ‚ ‚Ÿccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã…ã£â€¦â€¦å…¥ã£ã¦â€¦â€¦ãã‚‹ã§ã™â€¦â€¦ã‚“ã…â€¦â€¦ã¯ãã‚ãâ€¦â€¦ã€
 
-‰¸‚â‚©‚È’ïR‚ÉS’n‚æ‚¢Š´G‚ðŠo‚¦‚È‚ª‚çA˜X‚ÉƒcƒLƒˆ‚Ì’†‚É‰´‚Ì“÷–_‚ªÁ‚¦‚Ä‚¢‚­B
+ç©ã‚„ã‹ãªæŠµæŠ—ã«å¿ƒåœ°ã‚ˆã„æ„Ÿè§¦ã‚’è¦šãˆãªãŒã‚‰ã€åºã€…ã«ãƒ„ã‚­ãƒ¨ã®ä¸­ã«ä¿ºã®è‚‰æ£’ãŒæ¶ˆãˆã¦ã„ãã€‚
 
-˜‚ð“Ë‚«ã‚°A‚³‚ç‚É[‚­‘}“ü‚·‚é‚ÆA•sˆÀ’è‚ÈƒcƒLƒˆ‚Ì‘«‚ª‚Ó‚é‚Ó‚é‚Æ—h‚ê‚½B
+è…°ã‚’çªãä¸Šã’ã€ã•ã‚‰ã«æ·±ãæŒ¿å…¥ã™ã‚‹ã¨ã€ä¸å®‰å®šãªãƒ„ã‚­ãƒ¨ã®è¶³ãŒãµã‚‹ãµã‚‹ã¨æºã‚ŒãŸã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0375
-yƒcƒLƒˆzu‚ ‚Í‚Ÿ‚Áccd‚­‚Ä”M‚¢c‚ªo—ˆ‚½‚Ý‚½‚¢A‚Å‚·cc‚­‚£ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã¯ãã£â€¦â€¦ç¡¬ãã¦ç†±ã„èŠ¯ãŒå‡ºæ¥ãŸã¿ãŸã„ã€ã§ã™â€¦â€¦ãã…â€¦â€¦ã€
 
-‚æ‚­’m‚Á‚Ä‚¢‚é‚±‚Æ‚¾‚ªAŽx‚¦‚Ä‚¢‚éƒcƒLƒˆ‚Ì‘Ì‚Í‚²‚­Œy‚­A˜‚Í×‚­A–³—‚µ‚½‚ç‰ó‚µ‚Ä‚µ‚Ü‚¢‚»‚¤‚¾B
+ã‚ˆãçŸ¥ã£ã¦ã„ã‚‹ã“ã¨ã ãŒã€æ”¯ãˆã¦ã„ã‚‹ãƒ„ã‚­ãƒ¨ã®ä½“ã¯ã”ãè»½ãã€è…°ã¯ç´°ãã€ç„¡ç†ã—ãŸã‚‰å£Šã—ã¦ã—ã¾ã„ãã†ã ã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0376
-yƒcƒLƒˆzu”M‚¢‚Ì‚¢‚Á‚Ï‚¢cc‰œ‚Ü‚Åcc“ü‚Á‚Ä‚«‚½‚Å‚·cc‚Í‚ív
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œç†±ã„ã®ã„ã£ã±ã„â€¦â€¦å¥¥ã¾ã§â€¦â€¦å…¥ã£ã¦ããŸã§ã™â€¦â€¦ã¯ã‚ã€
 
-u‚Ù‚çA‚±‚ê‚Å‘S•”“ü‚Á‚½v
+ã€Œã»ã‚‰ã€ã“ã‚Œã§å…¨éƒ¨å…¥ã£ãŸã€
 
-ªŒ³‚Ü‚Å‚»‚Á‚Æ‰º‚ë‚µ‚Äˆê‘§‚Â‚­‚ÆA‰´‚ÍÄ‚ÑƒcƒLƒˆ‚ÉŒû‚Ã‚¯‚µ‚½B
+æ ¹å…ƒã¾ã§ãã£ã¨ä¸‹ã‚ã—ã¦ä¸€æ¯ã¤ãã¨ã€ä¿ºã¯å†ã³ãƒ„ã‚­ãƒ¨ã«å£ã¥ã‘ã—ãŸã€‚
 
-u‚ñccv
+ã€Œã‚“â€¦â€¦ã€
 
 #voice tuke0377
-yƒcƒLƒˆzu‚ñ[cc‚¿‚ã‚¤‚Ácc’¼Ú”§‚Æ”§‚ªG‚ê‚Ä‚é‚Ì‹CŽ‚¿‚¢‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“ãƒ¼â€¦â€¦ã¡ã‚…ã†ã£â€¦â€¦ç›´æŽ¥è‚Œã¨è‚ŒãŒè§¦ã‚Œã¦ã‚‹ã®æ°—æŒã¡ã„ã„ã§ã™ã€
 
-•ø‚«‡‚Á‚ÄŒû‚Ã‚¯‚ð‚·‚é‚ÆAƒcƒLƒˆ‚ÍK‚¹‚»‚¤‚É‹¹‚ÉŠz‚ð‚±‚·‚è‚Â‚¯‚Ä‚«‚½B
+æŠ±ãåˆã£ã¦å£ã¥ã‘ã‚’ã™ã‚‹ã¨ã€ãƒ„ã‚­ãƒ¨ã¯å¹¸ã›ãã†ã«èƒ¸ã«é¡ã‚’ã“ã™ã‚Šã¤ã‘ã¦ããŸã€‚
 
 #voice tuke0378
-yƒcƒLƒˆzu•ø‚Á‚±‚µ‚Ä‚à‚ç‚¤‚ÌA‘åD‚«‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€ŒæŠ±ã£ã“ã—ã¦ã‚‚ã‚‰ã†ã®ã€å¤§å¥½ãã§ã™ã€
 
-u‰´‚àAD‚«‚¾‚Èv
+ã€Œä¿ºã‚‚ã€å¥½ãã ãªã€
 
-‘f”§‚Å•ø‚«‚µ‚ß‡‚Á‚Ä‚¢‚é‚ÆA‚‚Ü‚Á‚Ä‚¢‚­”M‚àA‘‚­‚È‚Á‚Ä‚¢‚­ŒÛ“®‚ÆŒÄ‹z‚àA‘S•”“`‚í‚Á‚Ä‚­‚éB
+ç´ è‚Œã§æŠ±ãã—ã‚åˆã£ã¦ã„ã‚‹ã¨ã€é«˜ã¾ã£ã¦ã„ãç†±ã‚‚ã€æ—©ããªã£ã¦ã„ãé¼“å‹•ã¨å‘¼å¸ã‚‚ã€å…¨éƒ¨ä¼ã‚ã£ã¦ãã‚‹ã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0379
-yƒcƒLƒˆzu‚Í‚Ÿ‚Ácc‚±‚ÌŽp¨‚¾‚ÆA‚¢‚Â‚à‚Æˆá‚¤‚Æ‚±AŽC‚ê‚é‚Å‚·cc‚¢‚Â‚à‚æ‚è‰œ‚Ü‚Åcc“ü‚Á‚Ä‚­‚é‚Å‚·cc‚Í‚Ÿccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ãã£â€¦â€¦ã“ã®å§¿å‹¢ã ã¨ã€ã„ã¤ã‚‚ã¨é•ã†ã¨ã“ã€æ“¦ã‚Œã‚‹ã§ã™â€¦â€¦ã„ã¤ã‚‚ã‚ˆã‚Šå¥¥ã¾ã§â€¦â€¦å…¥ã£ã¦ãã‚‹ã§ã™â€¦â€¦ã¯ãâ€¦â€¦ã€
 
-‰œ‚Ü‚Å‘}“ü‚³‚ê‚½‰´‚Ì‚à‚Ì‚ÍƒrƒNƒrƒN‚Æk‚¦A‚»‚ê‚ÉŒÄ‰ž‚·‚é‚æ‚¤‚ÉƒcƒLƒˆ‚Ì’†‚ª‚«‚ã‚Þ‚Á‚ÆŽûk‚ðŒJ‚è•Ô‚·B
+å¥¥ã¾ã§æŒ¿å…¥ã•ã‚ŒãŸä¿ºã®ã‚‚ã®ã¯ãƒ“ã‚¯ãƒ“ã‚¯ã¨éœ‡ãˆã€ãã‚Œã«å‘¼å¿œã™ã‚‹ã‚ˆã†ã«ãƒ„ã‚­ãƒ¨ã®ä¸­ãŒãã‚…ã‚€ã£ã¨åŽç¸®ã‚’ç¹°ã‚Šè¿”ã™ã€‚
 
 #voice tuke0380
-yƒcƒLƒˆzu’†‚Å‚¨‚Á‚«‚­‚È‚Á‚Ä‚éA‚Å‚·Bcc‚Í‚Ÿcc‚ ‚Ÿ‚ÁccƒrƒNƒrƒNk‚¦‚Ä‚é‚ÌA•ª‚©‚é‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œä¸­ã§ãŠã£ãããªã£ã¦ã‚‹ã€ã§ã™ã€‚â€¦â€¦ã¯ãâ€¦â€¦ã‚ãã£â€¦â€¦ãƒ“ã‚¯ãƒ“ã‚¯éœ‡ãˆã¦ã‚‹ã®ã€åˆ†ã‹ã‚‹ã§ã™â€¦â€¦ã€
 
-u‚»‚è‚áAƒcƒLƒˆ‚Ì’†‚ª‹CŽ‚¿‚¢‚¢‚©‚çB‚Å‚à‚à‚Á‚Æˆê‚É‹CŽ‚¿‚æ‚­‚È‚è‚½‚¢‚æ‚ËHv
+ã€Œãã‚Šã‚ƒã€ãƒ„ã‚­ãƒ¨ã®ä¸­ãŒæ°—æŒã¡ã„ã„ã‹ã‚‰ã€‚ã§ã‚‚ã‚‚ã£ã¨ä¸€ç·’ã«æ°—æŒã¡ã‚ˆããªã‚ŠãŸã„ã‚ˆã­ï¼Ÿã€
 
-‚Ü‚¸‚ÍŒy‚­ã‚É“Ë‚«ã‚°‚Ä‚â‚éB
+ã¾ãšã¯è»½ãä¸Šã«çªãä¸Šã’ã¦ã‚„ã‚‹ã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0381
-yƒcƒLƒˆzu‚­‚£cc‚ ‚Ácc‚Ü‚¾A“®‚­‚Ì‚Ícc‚Ü‚¾cc‚ ‚Ÿ‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãã…â€¦â€¦ã‚ã£â€¦â€¦ã¾ã ã€å‹•ãã®ã¯â€¦â€¦ã¾ã â€¦â€¦ã‚ãã£â€¦â€¦ã€
 
-u“®‚¢‚¿‚áƒ_ƒ‚È‚ÌH@“®‚¢‚½‚Ù‚¤‚ª‹CŽ‚¿‚¢‚¢‚Å‚µ‚å‚¤Hv
+ã€Œå‹•ã„ã¡ã‚ƒãƒ€ãƒ¡ãªã®ï¼Ÿã€€å‹•ã„ãŸã»ã†ãŒæ°—æŒã¡ã„ã„ã§ã—ã‚‡ã†ï¼Ÿã€
 
-‰´‚Í˜‚ðŽ~‚ß‚È‚¢‚Ü‚ÜAƒcƒLƒˆ‚Ì•û‚ð—h‚³‚Ô‚Á‚Ä‚Ý‚éB
-‚ä‚é‚­˜‚ð‰ñ‚·‚æ‚¤‚É‚µ‚Ä’†‚ð‚©‚«¬‚º‚Ä‚â‚é‚ÆAƒcƒLƒˆ‚Ìšb‚¬º‚ÉŠÃ‚³‚ª‘‚µ‚Ä‚¢‚­B
+ä¿ºã¯è…°ã‚’æ­¢ã‚ãªã„ã¾ã¾ã€ãƒ„ã‚­ãƒ¨ã®æ–¹ã‚’æºã•ã¶ã£ã¦ã¿ã‚‹ã€‚
+ã‚†ã‚‹ãè…°ã‚’å›žã™ã‚ˆã†ã«ã—ã¦ä¸­ã‚’ã‹ãæ··ãœã¦ã‚„ã‚‹ã¨ã€ãƒ„ã‚­ãƒ¨ã®å–˜ãŽå£°ã«ç”˜ã•ãŒå¢—ã—ã¦ã„ãã€‚
 
 #voice tuke0382
-yƒcƒLƒˆzu‚Í‚ícc‚Í‚£cc‚ ‚Ÿ‚ñcc‚ ‚Ácc‚ ‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã‚â€¦â€¦ã¯ã…â€¦â€¦ã‚ãã‚“â€¦â€¦ã‚ã£â€¦â€¦ã‚ã£â€¦â€¦ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0383
-yƒcƒLƒˆzu“ü‚èŒûAL‚ª‚Á‚Äcc‚ñ‚ñ‚Ácc’†‚¢‚Á‚Ï‚¢‚É‚È‚Á‚Ä‚é‚Å‚·cc‰Ÿ‚µL‚°‚ç‚ê‚Ä‚é‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œå…¥ã‚Šå£ã€åºƒãŒã£ã¦â€¦â€¦ã‚“ã‚“ã£â€¦â€¦ä¸­ã„ã£ã±ã„ã«ãªã£ã¦ã‚‹ã§ã™â€¦â€¦æŠ¼ã—åºƒã’ã‚‰ã‚Œã¦ã‚‹ã§ã™â€¦â€¦ã€
 
-‰´‚Ì• ‚ÆƒcƒLƒˆ‚Ì• ‚Å‹²‚Ü‚ê‚½‰Âˆ¤‚ç‚µ‚¢—cŒs‚ÍAŽ~‚ßˆ‚à‚È‚­”é–¨‚ð“f‚«o‚µ‚ÄA‚Ó‚½‚è‚ÌŠÔ‚É‚Ê‚¿‚á‚Ê‚¿‚á‚ÆˆúàÎ‚È‰¹‚ð¶‚¶‚³‚¹‚éB
+ä¿ºã®è…¹ã¨ãƒ„ã‚­ãƒ¨ã®è…¹ã§æŒŸã¾ã‚ŒãŸå¯æ„›ã‚‰ã—ã„å¹¼èŒŽã¯ã€æ­¢ã‚å‡¦ã‚‚ãªãç§˜èœœã‚’åãå‡ºã—ã¦ã€ãµãŸã‚Šã®é–“ã«ã¬ã¡ã‚ƒã¬ã¡ã‚ƒã¨æ·«çŒ¥ãªéŸ³ã‚’ç”Ÿã˜ã•ã›ã‚‹ã€‚
 
 #voice tuke0384
-yƒcƒLƒˆzu‚Í‚Ö‚¥cc‚±‚ÌŠiD‚¾‚ÆA‚¨‚¿‚ñ‚¿‚ñŸŽè‚ÉŽC‚ê‚ÄAcc‚ñ‚ñ‚Ácc‚·‚®ƒC‚Á‚¿‚á‚¢‚»‚¤‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã¸ã‡â€¦â€¦ã“ã®æ ¼å¥½ã ã¨ã€ãŠã¡ã‚“ã¡ã‚“å‹æ‰‹ã«æ“¦ã‚Œã¦ã€â€¦â€¦ã‚“ã‚“ã£â€¦â€¦ã™ãã‚¤ã£ã¡ã‚ƒã„ãã†ã§ã™â€¦â€¦ã€
 
-uŽË¸‚·‚é‘O‚©‚çƒkƒŒƒkƒŒ‚¾‚à‚ñ‚ÈB‚±‚ñ‚È‚ÉŽ…ˆø‚¢‚Ä‚³v
+ã€Œå°„ç²¾ã™ã‚‹å‰ã‹ã‚‰ãƒŒãƒ¬ãƒŒãƒ¬ã ã‚‚ã‚“ãªã€‚ã“ã‚“ãªã«ç³¸å¼•ã„ã¦ã•ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0385
-yƒcƒLƒˆzu‚ ‚Ÿ‚ñ‚Áccæ‚Á‚Û‚¾‚¯ƒNƒŠƒNƒŠ‚µ‚¿‚á‚â‚Ÿ‚ ‚Ÿ‚ ‚ ‚ ‚ ‚ÁI@‚»A‚»‚ñ‚È‚Ì‹CŽ‚¿‚æ‚·‚¬‚éA‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ãã‚“ã£â€¦â€¦å…ˆã£ã½ã ã‘ã‚¯ãƒªã‚¯ãƒªã—ã¡ã‚ƒã‚„ãã‚ãã‚ã‚ã‚ã‚ã£ï¼ã€€ãã€ãã‚“ãªã®æ°—æŒã¡ã‚ˆã™ãŽã‚‹ã€ã§ã™ã€
 
-u‚Ó‚£‚ñccv
+ã€Œãµã…ã‚“â€¦â€¦ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0386
-yƒcƒLƒˆzu‚ ‚Ácc‚ ‚Ÿ‚Áccƒ_ƒ‚Á‚Ä‚¢‚Á‚Ä‚é‚£cc‚Ì‚É‚¡cc‚Ð‚¡‚¢‚¢‚¢‚¢‚¢‚¡‚ñ‚Ácc‚«A‹CŽ‚¿‚æ‚·‚¬‚é‚Å‚·‚ÁIv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã£â€¦â€¦ã‚ãã£â€¦â€¦ãƒ€ãƒ¡ã£ã¦ã„ã£ã¦ã‚‹ã…â€¦â€¦ã®ã«ãƒâ€¦â€¦ã²ãƒã„ã„ã„ã„ã„ãƒã‚“ã£â€¦â€¦ãã€æ°—æŒã¡ã‚ˆã™ãŽã‚‹ã§ã™ã£ï¼ã€
 
-—]‚Á‚½”ç‚Ì’†‚ÉŽw‚ð·‚µž‚ÝA“H‚ç‚¹‚Ä‚¢‚é“§–¾‚È–¨‚ð‚Ê‚¿‚ã‚­‚¿‚ã‚Æ“à‘¤‚É‚Ü‚Ô‚µ‚Â‚¯‚é‚æ‚¤‚É‚·‚é‚ÆAƒcƒLƒˆ‚Í•sŽ©—R‚È˜‚ð’µ‚Ëã‚ª‚ç‚¹‚Ä‚æ‚ª‚Á‚½B
+ä½™ã£ãŸçš®ã®ä¸­ã«æŒ‡ã‚’å·®ã—è¾¼ã¿ã€æ»´ã‚‰ã›ã¦ã„ã‚‹é€æ˜Žãªèœœã‚’ã¬ã¡ã‚…ãã¡ã‚…ã¨å†…å´ã«ã¾ã¶ã—ã¤ã‘ã‚‹ã‚ˆã†ã«ã™ã‚‹ã¨ã€ãƒ„ã‚­ãƒ¨ã¯ä¸è‡ªç”±ãªè…°ã‚’è·³ã­ä¸ŠãŒã‚‰ã›ã¦ã‚ˆãŒã£ãŸã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0387
-yƒcƒLƒˆzu‚ ‚Ÿ‚ñ‚Ácc‚ ‚ñ‚Ácc‚ÐA‚Ð‚Ç‚¢‚Å‚·cc‚ ‚Í‚ŸccƒcƒLƒˆA”ò‚ñ‚¶‚á‚¢‚»‚¤‚É‚È‚Á‚½‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ãã‚“ã£â€¦â€¦ã‚ã‚“ã£â€¦â€¦ã²ã€ã²ã©ã„ã§ã™â€¦â€¦ã‚ã¯ãâ€¦â€¦ãƒ„ã‚­ãƒ¨ã€é£›ã‚“ã˜ã‚ƒã„ãã†ã«ãªã£ãŸã§ã™â€¦â€¦ã€
 
-Žw‚ð—£‚·‚ÆƒcƒLƒˆ‚Ì—cŒs‚Ìæ’[‚Æ‚ÌŠÔ‚ÅA”S“x‚Ì‚‚¢“§–¾‚ÈŽ´‚ªŽ…‚ðˆø‚­B
+æŒ‡ã‚’é›¢ã™ã¨ãƒ„ã‚­ãƒ¨ã®å¹¼èŒŽã®å…ˆç«¯ã¨ã®é–“ã§ã€ç²˜åº¦ã®é«˜ã„é€æ˜Žãªé›«ãŒç³¸ã‚’å¼•ãã€‚
 
-uŒ©‚ÄAƒcƒLƒˆ‚Ì‚¨‚¿‚ñ‚¿‚ñA‚±‚ñ‚È‚É‚â‚ç‚µ‚­‚È‚Á‚Ä‚é‚æv
+ã€Œè¦‹ã¦ã€ãƒ„ã‚­ãƒ¨ã®ãŠã¡ã‚“ã¡ã‚“ã€ã“ã‚“ãªã«ã‚„ã‚‰ã—ããªã£ã¦ã‚‹ã‚ˆã€
 
 #voice tuke0387a
-yƒcƒLƒˆzuˆÓ’nˆ«ccŒ¾‚Á‚¿‚áA‚â‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ„åœ°æ‚ªâ€¦â€¦è¨€ã£ã¡ã‚ƒã€ã‚„ã§ã™â€¦â€¦ã€
 
-uƒcƒLƒˆ‚ª‚ ‚ñ‚Ü‚è‹CŽ‚¿‚æ‚³‚»‚¤‚¾‚©‚çAˆ«‹Y‚µ‚½‚­‚È‚Á‚½‚ñ‚¾‚æv
+ã€Œãƒ„ã‚­ãƒ¨ãŒã‚ã‚“ã¾ã‚Šæ°—æŒã¡ã‚ˆã•ãã†ã ã‹ã‚‰ã€æ‚ªæˆ¯ã—ãŸããªã£ãŸã‚“ã ã‚ˆã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0388
-yƒcƒLƒˆzu‚ñ‚¤‚£cc‚ ‚Í‚Ácc‚Í‚Ÿ‚ñcc“ü‚ê‚Ä‚à‚ç‚Á‚Ä‚é‚¾‚¯‚Å‚àcc‹CŽ‚¿‚¢‚¢‚Ì‚Écc“ª‚Ì’†Ä‚«‚«‚ê‚¿‚á‚¤‚Å‚·cc‚ ‚Ÿ‚ñccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“ã†ã…â€¦â€¦ã‚ã¯ã£â€¦â€¦ã¯ãã‚“â€¦â€¦å…¥ã‚Œã¦ã‚‚ã‚‰ã£ã¦ã‚‹ã ã‘ã§ã‚‚â€¦â€¦æ°—æŒã¡ã„ã„ã®ã«â€¦â€¦é ­ã®ä¸­ç„¼ããã‚Œã¡ã‚ƒã†ã§ã™â€¦â€¦ã‚ãã‚“â€¦â€¦ã€
 
-u‚²‚ß‚ñ‚Ëv
+ã€Œã”ã‚ã‚“ã­ã€
 
-‚¿‚ãA‚¿‚ãA‚ÆO‚ð‹z‚Á‚Ä‚â‚é‚ÆAƒcƒLƒˆ‚Í‰a‚É‚ ‚è‚Â‚¢‚½—’¹‚Ý‚½‚¢‚ÉA‰´‚ÉO‚É‹z‚¢•t‚¢‚Ä‚­‚éB
+ã¡ã‚…ã€ã¡ã‚…ã€ã¨å”‡ã‚’å¸ã£ã¦ã‚„ã‚‹ã¨ã€ãƒ„ã‚­ãƒ¨ã¯é¤Œã«ã‚ã‚Šã¤ã„ãŸé››é³¥ã¿ãŸã„ã«ã€ä¿ºã«å”‡ã«å¸ã„ä»˜ã„ã¦ãã‚‹ã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A1
-#cg ƒCƒxƒ“ƒg ev070a1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0389
-yƒcƒLƒˆzu‚ñcc‚ñ‚¿‚ãcc‚Ò‚¿‚ãcc‚ñ‚­‚£cc‘åä•vA‚Å‚·cc‹CŽ‚¿‚¢‚¢‚ÌccD‚«‚Å‚·cc‚¿‚ã‚®‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“â€¦â€¦ã‚“ã¡ã‚…â€¦â€¦ã´ã¡ã‚…â€¦â€¦ã‚“ãã…â€¦â€¦å¤§ä¸ˆå¤«ã€ã§ã™â€¦â€¦æ°—æŒã¡ã„ã„ã®â€¦â€¦å¥½ãã§ã™â€¦â€¦ã¡ã‚…ãã£â€¦â€¦ã€
 
-‹­‚­•ø‚«‚µ‚ß‚Ä• ‚Æ• ‚ð‚·‚è‡‚í‚¹‚é‚æ‚¤‚É“®‚­‚ÆAƒcƒLƒˆ‚Ì˜‚àŽ©•ª‚Ì‚¢‚¢‚Æ‚±‚ð’T‚é‚æ‚¤‚É“®‚«Žn‚ß‚½B
+å¼·ãæŠ±ãã—ã‚ã¦è…¹ã¨è…¹ã‚’ã™ã‚Šåˆã‚ã›ã‚‹ã‚ˆã†ã«å‹•ãã¨ã€ãƒ„ã‚­ãƒ¨ã®è…°ã‚‚è‡ªåˆ†ã®ã„ã„ã¨ã“ã‚’æŽ¢ã‚‹ã‚ˆã†ã«å‹•ãå§‹ã‚ãŸã€‚
 
-u˜A“®‚¢‚Ä‚é‚¼v
+ã€Œè…°ã€å‹•ã„ã¦ã‚‹ãžã€
 
 #voice tuke0390
-yƒcƒLƒˆzu‚ñ‚Í‚Ÿcc‚¾‚Á‚ÄA‹CŽ‚¿‚æ‚­‚Ä“®‚¢‚¿‚á‚¤‚Å‚·ccŽ~‚Ü‚ñ‚È‚¢‚Å‚·cc‚Í‚Ÿcc‚ ‚Ÿ‚ñcc‚ñ‚¿‚ãcc‚¿‚ã‚Þ‚Ácc‚­‚¿‚ãccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“ã¯ãâ€¦â€¦ã ã£ã¦ã€æ°—æŒã¡ã‚ˆãã¦å‹•ã„ã¡ã‚ƒã†ã§ã™â€¦â€¦æ­¢ã¾ã‚“ãªã„ã§ã™â€¦â€¦ã¯ãâ€¦â€¦ã‚ãã‚“â€¦â€¦ã‚“ã¡ã‚…â€¦â€¦ã¡ã‚…ã‚€ã£â€¦â€¦ãã¡ã‚…â€¦â€¦ã€
 
-æÃ—~‚É‰´‚Ìã‚É‹z‚¢•t‚«‚È‚ª‚çAƒcƒLƒˆ‚ÍŒ’‹C‚É˜‚ðU‚éB
+è²ªæ¬²ã«ä¿ºã®èˆŒã«å¸ã„ä»˜ããªãŒã‚‰ã€ãƒ„ã‚­ãƒ¨ã¯å¥æ°—ã«è…°ã‚’æŒ¯ã‚‹ã€‚
 
-u‚»‚¤‚¢‚¤‚Ì‚ª‚¢‚¢‚Ì‚©B‚¶‚áA‚±‚ñ‚È•—‚É‚³‚ê‚é‚Ì‚Í‚Ç‚¤Hv
+ã€Œãã†ã„ã†ã®ãŒã„ã„ã®ã‹ã€‚ã˜ã‚ƒã€ã“ã‚“ãªé¢¨ã«ã•ã‚Œã‚‹ã®ã¯ã©ã†ï¼Ÿã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊx@
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ã€€
 ;EVCG EV070A2
-#cg ƒCƒxƒ“ƒg ev070a2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070a2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0391
-yƒcƒLƒˆzu‚Í‚Ö‚¥‚¦‚¦‚¦‚¦‚ÁIH@‚Í‚ÁA‚Í‚¤‚£‚ÁA‚ ‚ÁA‚Í‚ÁAŒƒ‚µ‚Ácc[cc‚ ‚ÁA‚Í‚Ÿ‚ÁA‚ÅA‚Å‚àA‹CŽ‚¿‚¢‚¢‚Å‚·‚Áv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã¸ã‡ãˆãˆãˆãˆã£ï¼ï¼Ÿã€€ã¯ã£ã€ã¯ã†ã…ã£ã€ã‚ã£ã€ã¯ã£ã€æ¿€ã—ã£â€¦â€¦æ·±â€¦â€¦ã‚ã£ã€ã¯ãã£ã€ã§ã€ã§ã‚‚ã€æ°—æŒã¡ã„ã„ã§ã™ã£ã€
 
-‘¬“x‚ðã‚°‚Ä“Ë‚«ã‚°‚Ä‚¢‚­‚ÆAƒcƒLƒˆ‚Í‚ª‚­‚ª‚­‚Æ—h‚³‚Ô‚ç‚ê‚ÄA‹­‚­“Ë‚©‚ê‚é‚½‚Ñ‚É”ß–Â‚Ì‚æ‚¤‚Èº‚Åšb‚®B
+é€Ÿåº¦ã‚’ä¸Šã’ã¦çªãä¸Šã’ã¦ã„ãã¨ã€ãƒ„ã‚­ãƒ¨ã¯ãŒããŒãã¨æºã•ã¶ã‚‰ã‚Œã¦ã€å¼·ãçªã‹ã‚Œã‚‹ãŸã³ã«æ‚²é³´ã®ã‚ˆã†ãªå£°ã§å–˜ãã€‚
 
 #voice tuke0392
-yƒcƒLƒˆzu‚ ‚ÁA‚ ‚ÁA‚ ‚ÁA‚ ‚ÁA‚ ‚ÁA‚Ð‚®‚Ácc‚Í‚Ó‚Ácc‚ ‚Ÿ‚ÁA‚Ð‚á‚Ÿ‚ñ‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã£ã€ã‚ã£ã€ã‚ã£ã€ã‚ã£ã€ã‚ã£ã€ã²ãã£â€¦â€¦ã¯ãµã£â€¦â€¦ã‚ãã£ã€ã²ã‚ƒãã‚“ã£â€¦â€¦ã€
 
-‚·‚Á‚©‚è‚Æ‚ë‚Æ‚ë‚É‚È‚Á‚Ä‚¢‚éƒcƒLƒˆ‚ÌE‚ª•¨—~‚µ‚°‚É“÷–_‚É—‚Ý‚Â‚«šT‚è—§‚Ä‚Ä‚­‚éB
+ã™ã£ã‹ã‚Šã¨ã‚ã¨ã‚ã«ãªã£ã¦ã„ã‚‹ãƒ„ã‚­ãƒ¨ã®å­”ãŒç‰©æ¬²ã—ã’ã«è‚‰æ£’ã«çµ¡ã¿ã¤ãå•œã‚Šç«‹ã¦ã¦ãã‚‹ã€‚
 
 #voice tuke0393
-yƒcƒLƒˆzu‚ ‚Ÿ‚ñ‚ÁA‚Í‚Ÿ‚ÁA‚Í‚Ó‚Ÿ‚ÁA‚ ‚ÁA‚ ‚ÁA‚ ‚Ÿ‚ñ‚Ácc‚«‚à‚¿‚ÁccƒCƒN‚ÁA‚Å‚·‚ÁccƒCƒL‚»‚¤A‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ãã‚“ã£ã€ã¯ãã£ã€ã¯ãµãã£ã€ã‚ã£ã€ã‚ã£ã€ã‚ãã‚“ã£â€¦â€¦ãã‚‚ã¡ã£â€¦â€¦ã‚¤ã‚¯ã£ã€ã§ã™ã£â€¦â€¦ã‚¤ã‚­ãã†ã€ã§ã™â€¦â€¦ã€
 
-u‚¢‚¢‚æA‚¢‚Á‚Á‚¿‚á‚¢‚È‚æB‰´‚àƒcƒLƒˆ‚Ì‰Âˆ¤‚¢‚Æ‚±‚ëAŒ©‚Ä‚½‚ç‚·‚®‚É‚¢‚¯‚»‚¤v
+ã€Œã„ã„ã‚ˆã€ã„ã£ã£ã¡ã‚ƒã„ãªã‚ˆã€‚ä¿ºã‚‚ãƒ„ã‚­ãƒ¨ã®å¯æ„›ã„ã¨ã“ã‚ã€è¦‹ã¦ãŸã‚‰ã™ãã«ã„ã‘ãã†ã€
 
 #voice tuke0394
-yƒcƒLƒˆzu‚ ‚Á‚ ‚ÁA‚ ‚Ÿ‚ÁA‚Í‚Ÿ‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã£ã‚ã£ã€ã‚ãã£ã€ã¯ãã£â€¦â€¦ã€
 
-–{“–‚Éâ’¸‚ÉŒü‚©‚Á‚Ä‚¢‚é‚Ì‚©A‹}‚É‹·‚­‚È‚Á‚½“÷“¹‚Í‰´‚ÌŒ`‚ðŠm‚©‚ß‚é‚æ‚¤‚ÉA‚­‚Ü‚È‚­‹z‚¢•t‚¢‚Ä‚­‚éB
+æœ¬å½“ã«çµ¶é ‚ã«å‘ã‹ã£ã¦ã„ã‚‹ã®ã‹ã€æ€¥ã«ç‹­ããªã£ãŸè‚‰é“ã¯ä¿ºã®å½¢ã‚’ç¢ºã‹ã‚ã‚‹ã‚ˆã†ã«ã€ãã¾ãªãå¸ã„ä»˜ã„ã¦ãã‚‹ã€‚
 
-“à‘¤‚¾‚¯‚¶‚á‚È‚­AG‚ê‚Ä‚¢‚é”§‚à”M‚ð‘‚µA‹z‚¢•t‚­‚æ‚¤‚ÅA‰´‚Í”§‚Æ”§‚ðŽC‚è•t‚¯‚¸‚É‚¢‚ç‚ê‚È‚©‚Á‚½B
+å†…å´ã ã‘ã˜ã‚ƒãªãã€è§¦ã‚Œã¦ã„ã‚‹è‚Œã‚‚ç†±ã‚’å¢—ã—ã€å¸ã„ä»˜ãã‚ˆã†ã§ã€ä¿ºã¯è‚Œã¨è‚Œã‚’æ“¦ã‚Šä»˜ã‘ãšã«ã„ã‚‰ã‚Œãªã‹ã£ãŸã€‚
 
 #voice tuke0395
-yƒcƒLƒˆzu‚ ‚Í‚Ÿ‚ñ‚Ácc‚Í‚Ÿ‚ñ‚ÁA‚ ‚Ÿ‚ñ‚Ácc‚¨‚µ‚è‚ÌŒŠA“Ë‚«‚Ü‚­‚ç‚ê‚ÄAƒC‚Á‚¿‚á‚¤‚Å‚·‚ÁA‚ ‚Ÿ‚ñ‚ÁA‚ ‚Ÿ‚ ‚ ‚ ‚ ‚ ‚Áv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã¯ãã‚“ã£â€¦â€¦ã¯ãã‚“ã£ã€ã‚ãã‚“ã£â€¦â€¦ãŠã—ã‚Šã®ç©´ã€çªãã¾ãã‚‰ã‚Œã¦ã€ã‚¤ã£ã¡ã‚ƒã†ã§ã™ã£ã€ã‚ãã‚“ã£ã€ã‚ãã‚ã‚ã‚ã‚ã‚ã£ã€
 
-ƒJƒ`ƒJƒ`‚É’£‚è‹l‚ß‚Ä‚¢‚½—cŒs‚ªAX‚µ‚­”’‘÷‰t‚ð“f‚«ŽU‚ç‚©‚·B
+ã‚«ãƒã‚«ãƒã«å¼µã‚Šè©°ã‚ã¦ã„ãŸå¹¼èŒŽãŒã€ç‘žã€…ã—ãç™½æ¿æ¶²ã‚’åãæ•£ã‚‰ã‹ã™ã€‚
 
-“¯Žž‚É¬‚³‚ÈŒŠ‚ª‚±‚Æ‚³‚ç‚Éˆø‚«’÷‚Ü‚èA’†‚ª‚Ð‚­‚Ð‚­‚Æå¿‚¢‚Ä‰´‚ð’Ç‚¢‹l‚ß‚½B
+åŒæ™‚ã«å°ã•ãªç©´ãŒã“ã¨ã•ã‚‰ã«å¼•ãç· ã¾ã‚Šã€ä¸­ãŒã²ãã²ãã¨è ¢ã„ã¦ä¿ºã‚’è¿½ã„è©°ã‚ãŸã€‚
 
-u‚Ácc‚¢‚­‚Áccv
+ã€Œã£â€¦â€¦ã„ãã£â€¦â€¦ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊxƒjƒ“ƒQƒ“‚¾‚¯ŽË¸
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ãƒ‹ãƒ³ã‚²ãƒ³ã ã‘å°„ç²¾
 ;EVCG EV070B1
 ;SE
-;ƒzƒƒCƒgƒAƒEƒg
+;ãƒ›ãƒ¯ã‚¤ãƒˆã‚¢ã‚¦ãƒˆ
 
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg ƒCƒxƒ“ƒg ev070b1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070b1 èƒŒæ™¯
 #bg BG07b_1
 #wipe fade 300
 
 #voice tuke0396
-yƒcƒLƒˆzu‚ ‚Ÿ‚Ácc’†‚É¸‰tAƒrƒ…[ƒrƒ…[‚Á‚ÄA‚«ã‚°‚Ä‚é‚Å‚·‚Ácc‰œ‚ÉA“ü‚Á‚Ä‚«‚½‚Å‚·cc‚Ð‚á‚ ‚Áccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ãã£â€¦â€¦ä¸­ã«ç²¾æ¶²ã€ãƒ“ãƒ¥ãƒ¼ãƒ“ãƒ¥ãƒ¼ã£ã¦ã€å¹ãä¸Šã’ã¦ã‚‹ã§ã™ã£â€¦â€¦å¥¥ã«ã€å…¥ã£ã¦ããŸã§ã™â€¦â€¦ã²ã‚ƒã‚ã£â€¦â€¦ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊxƒcƒLƒˆŽË¸
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€ãƒ„ã‚­ãƒ¨å°„ç²¾
 ;EVCG EV070B2
 ;SE
-;ƒzƒƒCƒgƒAƒEƒg
+;ãƒ›ãƒ¯ã‚¤ãƒˆã‚¢ã‚¦ãƒˆ
 
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg ƒCƒxƒ“ƒg ev070b2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070b2 èƒŒæ™¯
 #bg BG07b_1
 #wipe fade 300
 
-‰´‚Ì¸‰t‚Ìˆ³—Í‚Å‰Ÿ‚³‚ê‚½‚Ì‚©AX‚È‚éâ’¸‚ªƒcƒLƒˆ‚Ìg‘Ì‚É—Í‚ðž‚ß‚³‚¹‚½‚Ì‚©A—cŒs‚©‚çï‚èo‚·‚æ‚¤‚É‚³‚ç‚É¸‰t‚ªˆì‚ê‚½B
+ä¿ºã®ç²¾æ¶²ã®åœ§åŠ›ã§æŠ¼ã•ã‚ŒãŸã®ã‹ã€æ›´ãªã‚‹çµ¶é ‚ãŒãƒ„ã‚­ãƒ¨ã®èº«ä½“ã«åŠ›ã‚’è¾¼ã‚ã•ã›ãŸã®ã‹ã€å¹¼èŒŽã‹ã‚‰æ¾ã‚Šå‡ºã™ã‚ˆã†ã«ã•ã‚‰ã«ç²¾æ¶²ãŒæº¢ã‚ŒãŸã€‚
 
 ;SE
-;ƒzƒƒCƒgƒAƒEƒg
+;ãƒ›ãƒ¯ã‚¤ãƒˆã‚¢ã‚¦ãƒˆ
 
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg ƒCƒxƒ“ƒg ev070b2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070b2 èƒŒæ™¯
 #bg BG07b_1
 #wipe fade 300
 
 #voice tuke0397
-yƒcƒLƒˆzu‚ñ‚Ácc‚ñ‚Ácc‚­‚Í‚Ÿcc‚ ‚Ÿ‚Ácc‚ ‚Ÿcc‚Ü‚¾cc‚Å‚é‚Ácc‚Å‚·ccv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚“ã£â€¦â€¦ã‚“ã£â€¦â€¦ãã¯ãâ€¦â€¦ã‚ãã£â€¦â€¦ã‚ãâ€¦â€¦ã¾ã â€¦â€¦ã§ã‚‹ã£â€¦â€¦ã§ã™â€¦â€¦ã€
 
 ;SE
-;ƒzƒƒCƒgƒAƒEƒg
+;ãƒ›ãƒ¯ã‚¤ãƒˆã‚¢ã‚¦ãƒˆ
 
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg ƒCƒxƒ“ƒg ev070b2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070b2 èƒŒæ™¯
 #bg BG07b_1
 #wipe fade 300
 
-ucc‚Áv
+ã€Œâ€¦â€¦ã£ã€
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊxŽË¸Œã
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€å°„ç²¾å¾Œ
 ;EVCG EV070C1
-#cg ƒCƒxƒ“ƒg ev070c1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070c1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0398
-yƒcƒLƒˆzu‚Í‚Ó‚£cc‚¢‚Á‚Ï‚¢AƒC‚Á‚¿‚á‚Á‚½‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ãµã…â€¦â€¦ã„ã£ã±ã„ã€ã‚¤ã£ã¡ã‚ƒã£ãŸã§ã™ã€
 
-ƒcƒLƒˆ‚ÍŽË¸‚ªI‚í‚é‚ÆA‰´‚Ég‚ð—a‚¯‚Ä‚¤‚Á‚Æ‚è‚Æ™ê‚¢‚½B
+ãƒ„ã‚­ãƒ¨ã¯å°„ç²¾ãŒçµ‚ã‚ã‚‹ã¨ã€ä¿ºã«èº«ã‚’é ã‘ã¦ã†ã£ã¨ã‚Šã¨å‘Ÿã„ãŸã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊxŽË¸Œã
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€å°„ç²¾å¾Œ
 ;EVCG EV070C2
-#cg ƒCƒxƒ“ƒg ev070c2 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070c2 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0399
-yƒcƒLƒˆzucc‚à‚Á‚Æ‚±‚¤‚µ‚Ä‚¢‚½‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œâ€¦â€¦ã‚‚ã£ã¨ã“ã†ã—ã¦ã„ãŸã„ã§ã™ã€
 
-ucc‚¤‚ñv
+ã€Œâ€¦â€¦ã†ã‚“ã€
 
-•ø‚«‚µ‚ß‚½‚Ü‚ÜAƒcƒLƒˆ‚Ì”¯‚ð‚»‚Á‚Æž€‚¢‚Ä‚Ý‚éB
+æŠ±ãã—ã‚ãŸã¾ã¾ã€ãƒ„ã‚­ãƒ¨ã®é«ªã‚’ãã£ã¨æ¢³ã„ã¦ã¿ã‚‹ã€‚
 
-‚ ‚Ü‚è•È‚Ì‚È‚¢ƒcƒLƒˆ‚Ì”¯‚ÍAŽw‚É—‚Ý‚Â‚©‚¸‚É‚·‚é‚è‚Æ‰ð‚¯‚½B
+ã‚ã¾ã‚Šç™–ã®ãªã„ãƒ„ã‚­ãƒ¨ã®é«ªã¯ã€æŒ‡ã«çµ¡ã¿ã¤ã‹ãšã«ã™ã‚‹ã‚Šã¨è§£ã‘ãŸã€‚
 
-;‚d‚uŠG\\EV070wƒcƒLƒˆ‘Î–ÊÀˆÊxŽË¸Œã
+;ï¼¥ï¼¶çµµâ€•â€•EV070ã€Žãƒ„ã‚­ãƒ¨å¯¾é¢åº§ä½ã€å°„ç²¾å¾Œ
 ;EVCG EV070C1
-#cg ƒCƒxƒ“ƒg ev070c1 ”wŒi
+#cg ã‚¤ãƒ™ãƒ³ãƒˆ ev070c1 èƒŒæ™¯
 #wipe fade
 
 #voice tuke0400
-yƒcƒLƒˆzu‚Ü‚½‹CŽ‚¿‚¢‚¢‚±‚Æ‚µ‚¿‚á‚Á‚½‚Å‚·B‚¦‚Ö‚Öv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¾ãŸæ°—æŒã¡ã„ã„ã“ã¨ã—ã¡ã‚ƒã£ãŸã§ã™ã€‚ãˆã¸ã¸ã€
 
-Šð‚µ‚»‚¤‚ÉƒcƒLƒˆ‚ÍÎ‚Á‚ÄA‰´‚ÌŽñ‚É‚Ü‚Æ‚í‚è‚Â‚¢‚Ä‚­‚éB
+å¬‰ã—ãã†ã«ãƒ„ã‚­ãƒ¨ã¯ç¬‘ã£ã¦ã€ä¿ºã®é¦–ã«ã¾ã¨ã‚ã‚Šã¤ã„ã¦ãã‚‹ã€‚
 
 ;SMODE 062 STOP
 #endscene
 
-;”wŒiFŽR¬‰®’†i’‹j
+;èƒŒæ™¯ï¼šå±±å°å±‹ä¸­ï¼ˆæ˜¼ï¼‰
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-u‚³‚ÄA‹xŒe‚µ‚½‚µ‚à‚¤ˆêŽdŽ–‚µ‚æ‚¤‚©v
+ã€Œã•ã¦ã€ä¼‘æ†©ã—ãŸã—ã‚‚ã†ä¸€ä»•äº‹ã—ã‚ˆã†ã‹ã€
 
 ;CHR T04N C
-#cg ƒcƒLƒˆ tuk_1_04n ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04n ä¸­
 #wipe fade
 
 #voice tuke0401
-yƒcƒLƒˆzu‚Í[‚¢A‚Å‚·BŠæ’£‚Á‚Ä‚©‚Á‚±‚¢‚¢‚Ìì‚é‚Å‚·Iv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ãƒ¼ã„ã€ã§ã™ã€‚é ‘å¼µã£ã¦ã‹ã£ã“ã„ã„ã®ä½œã‚‹ã§ã™ï¼ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;ˆÃ“]
+;æš—è»¢
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;”wŒiFŽR¬‰®’†i’‹j
+;èƒŒæ™¯ï¼šå±±å°å±‹ä¸­ï¼ˆæ˜¼ï¼‰
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR T05F_L C
-#cg ƒcƒLƒˆ tuk_1_05f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_05f_l ä¸­
 #wipe fade
 
 #voice tuke0402
-yƒcƒLƒˆzuŠwŽÒ‚É‚È‚é‚Ì‚ÉA’¬‚És‚­‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œå­¦è€…ã«ãªã‚‹ã®ã«ã€ç”ºã«è¡Œãã§ã™ï¼Ÿã€
 
-u‚»‚¤‚¾‚È‚ŸA‰¤“s‚Ü‚Å‚Í‰“‚¢‚©‚ç˜H‹â‚ð‰Ò‚¢‚¾‚èŠw”ï‚ð‰Ò‚¬‚È‚ª‚ç‰¤“s‚ð–ÚŽw‚·‚±‚Æ‚É‚È‚é‚¾‚ë‚¤‚È‚Ÿv
+ã€Œãã†ã ãªãã€çŽ‹éƒ½ã¾ã§ã¯é ã„ã‹ã‚‰è·¯éŠ€ã‚’ç¨¼ã„ã ã‚Šå­¦è²»ã‚’ç¨¼ãŽãªãŒã‚‰çŽ‹éƒ½ã‚’ç›®æŒ‡ã™ã“ã¨ã«ãªã‚‹ã ã‚ã†ãªãã€
 
 #voice tuke0403
-yƒcƒLƒˆzu‘å•Ï‚»‚¤‚Å‚·cc’¬‚Ü‚Å‚Ís‚Á‚½‚±‚Æ‚ ‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œå¤§å¤‰ãã†ã§ã™â€¦â€¦ç”ºã¾ã§ã¯è¡Œã£ãŸã“ã¨ã‚ã‚‹ã§ã™ï¼Ÿã€
 
-u’¬‚Ü‚Å‚Í‰½“x‚©s‚Á‚½‚±‚Æ‚ª‚ ‚é‚æA‘å‚«‚ÈÕ‚è‚ª‚ ‚é‚Æ‚«‚És‚Á‚½‚ñ‚¾v
+ã€Œç”ºã¾ã§ã¯ä½•åº¦ã‹è¡Œã£ãŸã“ã¨ãŒã‚ã‚‹ã‚ˆã€å¤§ããªç¥­ã‚ŠãŒã‚ã‚‹ã¨ãã«è¡Œã£ãŸã‚“ã ã€
 
 ;CHR T01F_L C
-#cg ƒcƒLƒˆ tuk_1_01f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_01f_l ä¸­
 #wipe fade
 
 #voice tuke0404
-yƒcƒLƒˆzu’¬‚Á‚Ä‚Ç‚ñ‚È‚Æ‚±‚ë‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œç”ºã£ã¦ã©ã‚“ãªã¨ã“ã‚ã§ã™ï¼Ÿã€
 
-u‚¤`‚ñA‚»‚¤‚¾‚È‚ŸB‚Ü‚¸A‚ ‚ñ‚Ü‚è–Ø‚ª‚È‚¢v
+ã€Œã†ã€œã‚“ã€ãã†ã ãªãã€‚ã¾ãšã€ã‚ã‚“ã¾ã‚Šæœ¨ãŒãªã„ã€
 
 #voice tuke0405
-yƒcƒLƒˆzu‘º‚à‚ ‚ñ‚Ü‚è–Ø‚È‚©‚Á‚½‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ‘ã‚‚ã‚ã‚“ã¾ã‚Šæœ¨ãªã‹ã£ãŸã§ã™ã€
 
-u‚ AX‚Æ”ä‚×‚½‚ç‚»‚¤‚¾‚¯‚Çcc‚È‚ñ‚Ä‚¢‚¤‚©‚È‚ŸBŒš•¨‚ÆŒš•¨‚ª—×‚è‡‚Á‚Ä—§‚Á‚Ä‚é‚Ý‚½‚¢‚ÈŠ´‚¶‚È‚ñ‚¾B‚»‚ê‚ÅAl‚ª‚½‚­‚³‚ñ‚¢‚év
+ã€Œã‚ã€æ£®ã¨æ¯”ã¹ãŸã‚‰ãã†ã ã‘ã©â€¦â€¦ãªã‚“ã¦ã„ã†ã‹ãªãã€‚å»ºç‰©ã¨å»ºç‰©ãŒéš£ã‚Šåˆã£ã¦ç«‹ã£ã¦ã‚‹ã¿ãŸã„ãªæ„Ÿã˜ãªã‚“ã ã€‚ãã‚Œã§ã€äººãŒãŸãã•ã‚“ã„ã‚‹ã€
 
 ;CHR T02F C
-#cg ƒcƒLƒˆ tuk_1_02f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_02f ä¸­
 #wipe fade
 
 #voice tuke0406
-yƒcƒLƒˆzu‚È‚ñ‚¾‚©‹‡‹ü‚»‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãªã‚“ã ã‹çª®å±ˆãã†ã§ã™ã€
 
-u‹‡‹ü‚ÆŒ¾‚¦‚Î‹‡‹ü‚©‚à‚µ‚ê‚È‚¢‚¯‚ÇA‚¢‚ë‚ñ‚È‚¨“X‚ª‚ ‚é‚ñ‚¾B‘å‚«‚È’¬‚¾‚ÆA–{‰®‚à‚ ‚év
+ã€Œçª®å±ˆã¨è¨€ãˆã°çª®å±ˆã‹ã‚‚ã—ã‚Œãªã„ã‘ã©ã€ã„ã‚ã‚“ãªãŠåº—ãŒã‚ã‚‹ã‚“ã ã€‚å¤§ããªç”ºã ã¨ã€æœ¬å±‹ã‚‚ã‚ã‚‹ã€
 
 ;CHR T05F_L C
-#cg ƒcƒLƒˆ tuk_1_05f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_05f_l ä¸­
 #wipe fade
 
 #voice tuke0407
-yƒcƒLƒˆzu–{A”„‚Á‚Ä‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæœ¬ã€å£²ã£ã¦ã‚‹ã§ã™ï¼Ÿã€
 
-u‚ ‚ŸB‚±‚±‚É‚ ‚é‚Ì‚æ‚è‚à‚Á‚Æ‚½‚­‚³‚ñ‚Ì–{‚ªA‚±‚±‚æ‚è‚à‘å‚«‚ÈŒš•¨‚Ì•Ç‚Æ‚©AŽdØ‚Á‚Ä‚ ‚é’I‚É‚¬‚Á‚µ‚è‹l‚Ü‚Á‚Ä‚é‚ñ‚¾v
+ã€Œã‚ãã€‚ã“ã“ã«ã‚ã‚‹ã®ã‚ˆã‚Šã‚‚ã£ã¨ãŸãã•ã‚“ã®æœ¬ãŒã€ã“ã“ã‚ˆã‚Šã‚‚å¤§ããªå»ºç‰©ã®å£ã¨ã‹ã€ä»•åˆ‡ã£ã¦ã‚ã‚‹æ£šã«ãŽã£ã—ã‚Šè©°ã¾ã£ã¦ã‚‹ã‚“ã ã€
 
 ;CHR T06F_L C
-#cg ƒcƒLƒˆ tuk_1_06f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_06f_l ä¸­
 #wipe fade
 
 #voice tuke0408
-yƒcƒLƒˆzu‚Ó‚íA‚Ó‚í‚í‚í‚í‚í‚ív
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãµã‚ã€ãµã‚ã‚ã‚ã‚ã‚ã‚ã€
 
-us‚Á‚½‚Ì‚ª‚¨Õ‚è‚Ì‚Æ‚«‚¾‚Á‚½‚©‚ç‚©‚à‚µ‚ê‚È‚¢‚¯‚ÇA“¹’[‚É‚à‚½‚­‚³‚ñ“X‚ªo‚Ä‚ÄˆÙ‘•—‚Ì•z‚Æ‚©A‘•g‹ï‚Æ‚©A‚½‚­‚³‚ñ”„‚Á‚Ä‚½‚ñ‚¾v
+ã€Œè¡Œã£ãŸã®ãŒãŠç¥­ã‚Šã®ã¨ãã ã£ãŸã‹ã‚‰ã‹ã‚‚ã—ã‚Œãªã„ã‘ã©ã€é“ç«¯ã«ã‚‚ãŸãã•ã‚“åº—ãŒå‡ºã¦ã¦ç•°å›½é¢¨ã®å¸ƒã¨ã‹ã€è£…èº«å…·ã¨ã‹ã€ãŸãã•ã‚“å£²ã£ã¦ãŸã‚“ã ã€
 
 ;CHR T04F C
-#cg ƒcƒLƒˆ tuk_1_04f ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04f ä¸­
 #wipe fade
 
 #voice tuke0409
-yƒcƒLƒˆzuŠy‚µ‚»‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ¥½ã—ãã†ã§ã™ã€
 
-uH‚×•¨‚Ì“X‚ào‚Ä‚ÄA‰Ê•¨‚Ì’×‚µ‚½`‚É–¨‚ð¬‚º‚½‚Ì‚Æ‚©A”–‚­Ä‚¢‚½–Ëêq‚Å–ìØ‚Æ“÷‚ð•ï‚ñ‚¾‚Ì‚Æ‚©A‚à‚¿‚à‚¿‚·‚éŠÃ‚¢‚¨‰ÙŽq‚Æ‚©”„‚Á‚Ä‚³ccv
+ã€Œé£Ÿã¹ç‰©ã®åº—ã‚‚å‡ºã¦ã¦ã€æžœç‰©ã®æ½°ã—ãŸæ±ã«èœœã‚’æ··ãœãŸã®ã¨ã‹ã€è–„ãç„¼ã„ãŸéººéº­ã§é‡Žèœã¨è‚‰ã‚’åŒ…ã‚“ã ã®ã¨ã‹ã€ã‚‚ã¡ã‚‚ã¡ã™ã‚‹ç”˜ã„ãŠè“å­ã¨ã‹å£²ã£ã¦ã•â€¦â€¦ã€
 
-u‰Ê•¨‚àH‚×‚â‚·‚¢‚æ‚¤‚É–Ø‚Ì–_‚ÉŽh‚µ‚Ä‚ ‚Á‚½‚è‚·‚é‚ñ‚¾‚æv
+ã€Œæžœç‰©ã‚‚é£Ÿã¹ã‚„ã™ã„ã‚ˆã†ã«æœ¨ã®æ£’ã«åˆºã—ã¦ã‚ã£ãŸã‚Šã™ã‚‹ã‚“ã ã‚ˆã€
 
 #voice tuke0410
-yƒcƒLƒˆzu”ü–¡‚µ‚»‚¤‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œç¾Žå‘³ã—ãã†ã§ã™ã€
 
-u“¹’[‚¶‚áA“®•¨‚ÉŒ|‚ð‚³‚¹‚½‚èA‰ö‚µ‚­’…ü‚Á‚½—x‚èŽq‚½‚¿‚ª—x‚Á‚Ä‚½‚èAŠG‚ð‚©‚¢‚Ä‚él‚È‚ñ‚©‚à‚¢‚é‚ñ‚¾‚æv
+ã€Œé“ç«¯ã˜ã‚ƒã€å‹•ç‰©ã«èŠ¸ã‚’ã•ã›ãŸã‚Šã€æ€ªã—ãç€é£¾ã£ãŸè¸Šã‚Šå­ãŸã¡ãŒè¸Šã£ã¦ãŸã‚Šã€çµµã‚’ã‹ã„ã¦ã‚‹äººãªã‚“ã‹ã‚‚ã„ã‚‹ã‚“ã ã‚ˆã€
 
 ;CHR T06F_L C
-#cg ƒcƒLƒˆ tuk_1_06f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_06f_l ä¸­
 #wipe fade
 
 #voice tuke0411
-yƒcƒLƒˆzu‚í‚Ÿcc‚í‚­‚í‚­‚·‚é‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ãâ€¦â€¦ã‚ãã‚ãã™ã‚‹ã§ã™ã€
 
-u‚¨‹à‚Í‚ ‚ñ‚Ü‚è‚È‚©‚Á‚½‚©‚ç‰½‚Å‚à‚©‚ñ‚Å‚à”ƒ‚¤‚Á‚Ä‚í‚¯‚É‚Í‚¢‚©‚È‚©‚Á‚½‚¯‚ÇAŒ©‚Ä•à‚¢‚Ä‚é‚¾‚¯‚Å‚à‚·‚Á‚²‚­Šy‚µ‚­‚Á‚Ä‚³v
+ã€ŒãŠé‡‘ã¯ã‚ã‚“ã¾ã‚Šãªã‹ã£ãŸã‹ã‚‰ä½•ã§ã‚‚ã‹ã‚“ã§ã‚‚è²·ã†ã£ã¦ã‚ã‘ã«ã¯ã„ã‹ãªã‹ã£ãŸã‘ã©ã€è¦‹ã¦æ­©ã„ã¦ã‚‹ã ã‘ã§ã‚‚ã™ã£ã”ãæ¥½ã—ãã£ã¦ã•ã€
 
 ;CHR T01F_L C
-#cg ƒcƒLƒˆ tuk_1_01f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_01f_l ä¸­
 #wipe fade
 
 #voice tuke0412
-yƒcƒLƒˆzuŠy‚µ‚»‚¤‚Å‚·ccs‚Á‚Ä‚Ý‚½‚¢‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ¥½ã—ãã†ã§ã™â€¦â€¦è¡Œã£ã¦ã¿ãŸã„ã§ã™ã€
 
-u‚¤‚ñA˜A‚ê‚Äs‚Á‚Ä‚ ‚°‚½‚¢‚æB‚¯‚ÇA‚»‚ê‚±‚»’¬‚¶‚á‚¨‹à‚ª‚È‚¢‚Æ‰½‚ào—ˆ‚È‚¢‚µ‚Èv
+ã€Œã†ã‚“ã€é€£ã‚Œã¦è¡Œã£ã¦ã‚ã’ãŸã„ã‚ˆã€‚ã‘ã©ã€ãã‚Œã“ãç”ºã˜ã‚ƒãŠé‡‘ãŒãªã„ã¨ä½•ã‚‚å‡ºæ¥ãªã„ã—ãªã€
 
 ;CHR T06F_L C
-#cg ƒcƒLƒˆ tuk_1_06f_l ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_06f_l ä¸­
 #wipe fade
 
 #voice tuke0413
-yƒcƒLƒˆzu‚Í‚í‚íA‚½‚­‚³‚ñ‚¨‹à‚¢‚é‚Å‚·H@‚¶‚áA‚à‚Á‚ÆŠæ’£‚Á‚Ä×H•¨ì‚é‚Å‚·Iv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¯ã‚ã‚ã€ãŸãã•ã‚“ãŠé‡‘ã„ã‚‹ã§ã™ï¼Ÿã€€ã˜ã‚ƒã€ã‚‚ã£ã¨é ‘å¼µã£ã¦ç´°å·¥ç‰©ä½œã‚‹ã§ã™ï¼ã€
 
-u‚Í‚Í‚ÁA‚»‚¤‚¾‚Èv
+ã€Œã¯ã¯ã£ã€ãã†ã ãªã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-‚»‚ñ‚È˜b‚ð‚µ‚È‚ª‚ç‚Ìì‹Æ‚Í’²Žq‚æ‚­i‚ñ‚¾B
+ãã‚“ãªè©±ã‚’ã—ãªãŒã‚‰ã®ä½œæ¥­ã¯èª¿å­ã‚ˆãé€²ã‚“ã ã€‚
 
-Õ‚è‚Éo‚Ä‚¢‚½‚«‚ç‚Ñ‚â‚©‚È‘•g‹ï‚Ù‚Ç‚Å‚Í‚È‚¢‚ªA‚¿‚å‚Á‚Æ‚¨‚µ‚á‚ê‚ð‚µ‚½‚¢l‚É‚ÍŠì‚ñ‚Å‚à‚ç‚¦‚»‚¤‚Èo—ˆ‚¾B
+ç¥­ã‚Šã«å‡ºã¦ã„ãŸãã‚‰ã³ã‚„ã‹ãªè£…èº«å…·ã»ã©ã§ã¯ãªã„ãŒã€ã¡ã‚‡ã£ã¨ãŠã—ã‚ƒã‚Œã‚’ã—ãŸã„äººã«ã¯å–œã‚“ã§ã‚‚ã‚‰ãˆãã†ãªå‡ºæ¥ã ã€‚
 
-ucc–žŒŽ‚Ü‚ÅA‚©v
+ã€Œâ€¦â€¦æº€æœˆã¾ã§ã€ã‹ã€
 
-ƒcƒLƒˆ‚Í–žŒŽ‚ðŒ}‚¦‚½‚çƒ_[ƒNƒGƒ‹ƒt‚ð’T‚µ‚É‚¢‚­‚ÆŒˆ‚ß‚Ä‚¢‚éB
+ãƒ„ã‚­ãƒ¨ã¯æº€æœˆã‚’è¿ŽãˆãŸã‚‰ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã‚’æŽ¢ã—ã«ã„ãã¨æ±ºã‚ã¦ã„ã‚‹ã€‚
 
-‰´‚Í\\‚Ç‚¤‚µ‚æ‚¤‚©B
+ä¿ºã¯â€•â€•ã©ã†ã—ã‚ˆã†ã‹ã€‚
 
-–{“–‚ÉŠwŽÒ‚É‚È‚é‚½‚ß‚É‰¤“s‚ÉŒü‚¯‚Äo”­‚·‚é‚©ccB
+æœ¬å½“ã«å­¦è€…ã«ãªã‚‹ãŸã‚ã«çŽ‹éƒ½ã«å‘ã‘ã¦å‡ºç™ºã™ã‚‹ã‹â€¦â€¦ã€‚
 
-;ˆÃ“]
+;æš—è»¢
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb008 Ä¶
+;BGMch2 amb008 å†ç”Ÿ
 #bgvoice amb008
 
 #cg all clear
 #bg black
 #wipe fade
-;”wŒiF‘ºi’‹j
+;èƒŒæ™¯ï¼šæ‘ï¼ˆæ˜¼ï¼‰
 ;BG BG10_1
 #cg all clear
 #bg BG10_1
 #wipe fade
 
-‚»‚ñ‚ÈÜ‚¾‚Á‚½B
+ãã‚“ãªæŠ˜ã ã£ãŸã€‚
 
-‚Ü‚¾”Y‚ñ‚Å‚¢‚éÅ’†‚Ì‰´‚É‚»‚Ì˜b‚ªŽ‚¿‚©‚¯‚ç‚ê‚½‚Ì‚ÍB
+ã¾ã æ‚©ã‚“ã§ã„ã‚‹æœ€ä¸­ã®ä¿ºã«ãã®è©±ãŒæŒã¡ã‹ã‘ã‚‰ã‚ŒãŸã®ã¯ã€‚
 
-u‚¦H@‘º‚ÉccHv
+ã€Œãˆï¼Ÿã€€æ‘ã«â€¦â€¦ï¼Ÿã€
 
-;ˆÃ“]
+;æš—è»¢
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb003 Ä¶
+;BGMch2 amb003 å†ç”Ÿ
 #bgvoice amb003
 
 #cg all clear
 #bg black
 #wipe fade
-;”wŒiFŽR¬‰®’†i’‹j
+;èƒŒæ™¯ï¼šå±±å°å±‹ä¸­ï¼ˆæ˜¼ï¼‰
 ;BG BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-×H•¨‚ðì‚Á‚½‚èA‚»‚Ì“ú‚ÌH—¿‚ðW‚ß‚½‚è‚µ‚Ä‚¢‚é‚¤‚¿‚ÉA–žŒŽ‚Ì“ú‚ª‚â‚Á‚Ä‚«‚½B
+ç´°å·¥ç‰©ã‚’ä½œã£ãŸã‚Šã€ãã®æ—¥ã®é£Ÿæ–™ã‚’é›†ã‚ãŸã‚Šã—ã¦ã„ã‚‹ã†ã¡ã«ã€æº€æœˆã®æ—¥ãŒã‚„ã£ã¦ããŸã€‚
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0100
-yƒCƒoƒ‰zu‚¨‚Á‚Í‚æ[Aƒjƒ“ƒQƒ“Iv
+ã€ã‚¤ãƒãƒ©ã€‘ã€ŒãŠã£ã¯ã‚ˆãƒ¼ã€ãƒ‹ãƒ³ã‚²ãƒ³ï¼ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-u‚°‚Ó‚ÁIHv
+ã€Œã’ãµã£ï¼ï¼Ÿã€
 
-Q‚Ä‚¢‚½‚Æ‚±‚ë‚É‚Ç‚µ‚ñ‚Ææ‚ç‚ê‚ÄA‰´‚Í”ò‚Ñ‹N‚«‚½B
+å¯ã¦ã„ãŸã¨ã“ã‚ã«ã©ã—ã‚“ã¨ä¹—ã‚‰ã‚Œã¦ã€ä¿ºã¯é£›ã³èµ·ããŸã€‚
 
 ;CHR H08F1_A R
-#cg ƒqƒiƒ^ hin_1_08f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_08f1_a å³
 #wipe fade
 
 #voice hine0067
-yƒqƒiƒ^zu‚ ‚Í‚Í‚Í‚ÍAƒjƒ“ƒQƒ“‚³‚ñ‚°‚Ó‚Á‚ÄA‚°‚Ó‚Á‚Ä‚¢‚Á‚½‚æ‚ÁIHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚ã¯ã¯ã¯ã¯ã€ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã’ãµã£ã¦ã€ã’ãµã£ã¦ã„ã£ãŸã‚ˆã£ï¼ï¼Ÿã€
 
 ;CHR OFF
-#cg ƒCƒoƒ‰ clear
+#cg ã‚¤ãƒãƒ© clear
 #wipe fade
 
 ;CHR K01F1B L
-#cg ƒRƒmƒ~ kon_1_01f1b ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01f1b å·¦
 #wipe fade
 
 #voice kone0053
-yƒRƒmƒ~zu•Ï‚Èº‚¾‚Á‚½‚Ë`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œå¤‰ãªå£°ã ã£ãŸã­ã€œã€
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0414
-yƒcƒLƒˆzu‚ ‚Í‚Í‚Í‚Í‚Í‚Í‚Ív
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã‚ã¯ã¯ã¯ã¯ã¯ã¯ã¯ã€
 
-l‚ª‹ê‚µ‚ñ‚Å‚¢‚é‚Æ‚¢‚¤‚Ì‚ÉA‚æ‚Ù‚Ç–Ê”’‚©‚Á‚½‚Ì‚©ƒGƒ‹ƒt‚½‚¿‚Í–³Ž×‹C‚ÉÎ‚¢“]‚°‚Ä‚¢‚éB
+äººãŒè‹¦ã—ã‚“ã§ã„ã‚‹ã¨ã„ã†ã®ã«ã€ã‚ˆã»ã©é¢ç™½ã‹ã£ãŸã®ã‹ã‚¨ãƒ«ãƒ•ãŸã¡ã¯ç„¡é‚ªæ°—ã«ç¬‘ã„è»¢ã’ã¦ã„ã‚‹ã€‚
 
-cc‚¢‚­‚çŒy‚¢‚Á‚ÄŒ¾‚Á‚Ä‚àA¨‚¢‚Â‚¯‚Ä”ò‚Ñæ‚ç‚ê‚½‚çÎ‚¢Ž–‚¶‚á‚È‚¢‚¼B
+â€¦â€¦ã„ãã‚‰è»½ã„ã£ã¦è¨€ã£ã¦ã‚‚ã€å‹¢ã„ã¤ã‘ã¦é£›ã³ä¹—ã‚‰ã‚ŒãŸã‚‰ç¬‘ã„äº‹ã˜ã‚ƒãªã„ãžã€‚
 
 ;CHR H07F_A R
-#cg ƒqƒiƒ^ hin_1_07f_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_07f_a å³
 #wipe fade
 
 #voice hine0068
-yƒqƒiƒ^zu‚à‚¤‚¢‚Á‚©‚¢A‚à‚¤‚¢‚Á‚©‚¢‚â‚Á‚ÄAƒjƒ“ƒQƒ“‚³‚ñv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚‚ã†ã„ã£ã‹ã„ã€ã‚‚ã†ã„ã£ã‹ã„ã‚„ã£ã¦ã€ãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã€
 
 ;CHR OFF
-#cg ƒRƒmƒ~ clear
+#cg ã‚³ãƒŽãƒŸ clear
 #wipe fade
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0101
-yƒCƒoƒ‰zu‚æ‚§`‚Á‚µIv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã‚ˆã‰ã€œã£ã—ï¼ã€
 
-u‚â‚ß‚ë‚Á‚ÄBŒN‚½‚¿‚Ì‘Ìd‚¾‚Á‚Ä”ò‚Ñæ‚ç‚ê‚½‚ç‹ê‚µ‚¢‚©‚çI@‚È‚ñ‚©o‚¿‚á‚¢‚¯‚È‚¢‚à‚Ì‚ªo‚é‚©‚ÆŽv‚Á‚½‚¼v
+ã€Œã‚„ã‚ã‚ã£ã¦ã€‚å›ãŸã¡ã®ä½“é‡ã ã£ã¦é£›ã³ä¹—ã‚‰ã‚ŒãŸã‚‰è‹¦ã—ã„ã‹ã‚‰ï¼ã€€ãªã‚“ã‹å‡ºã¡ã‚ƒã„ã‘ãªã„ã‚‚ã®ãŒå‡ºã‚‹ã‹ã¨æ€ã£ãŸãžã€
 
 ;CHR H01F1_A R
-#cg ƒqƒiƒ^ hin_1_01f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_01f1_a å³
 #wipe fade
 
 #voice hine0069
-yƒqƒiƒ^zu‚¨‚§IH@‚È‚É‚ª‚Å‚é‚ÌIHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€ŒãŠã‰ï¼ï¼Ÿã€€ãªã«ãŒã§ã‚‹ã®ï¼ï¼Ÿã€
 
 ;CHR I02F L
-#cg ƒCƒoƒ‰ iba_1_02f ¶
+#cg ã‚¤ãƒãƒ© iba_1_02f å·¦
 #wipe fade
 
 #voice ibae0102
-yƒCƒoƒ‰zuo‚¿‚á‚¢‚¯‚È‚¢‚à‚Ì‚Á‚Ä‰½‚¾IHv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œå‡ºã¡ã‚ƒã„ã‘ãªã„ã‚‚ã®ã£ã¦ä½•ã ï¼ï¼Ÿã€
 
-u‚»‚±‚ÉH‚¢‚Â‚©‚È‚¢‚Å”½È‚µ‚Ä‚æB‚à‚¤v
+ã€Œãã“ã«é£Ÿã„ã¤ã‹ãªã„ã§åçœã—ã¦ã‚ˆã€‚ã‚‚ã†ã€
 
 #voice ibae0103
-yƒCƒoƒ‰zu‚»‚ñ‚È‚ÌAƒ{ƒN‚ª—ˆ‚Ä‚â‚Á‚½‚Ì‚É‹N‚«‚Ä‚È‚¢ƒjƒ“ƒQƒ“‚ªˆ«‚¢Iv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãã‚“ãªã®ã€ãƒœã‚¯ãŒæ¥ã¦ã‚„ã£ãŸã®ã«èµ·ãã¦ãªã„ãƒ‹ãƒ³ã‚²ãƒ³ãŒæ‚ªã„ï¼ã€
 
-‚»‚ñ‚È‚í‚ª‚Ü‚Ü‚ÈB
+ãã‚“ãªã‚ãŒã¾ã¾ãªã€‚
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-‚Á‚½‚­Að“ú‚Íl‚¦Ž–‚ð‚µ‚Ä‚¢‚Ä‚ë‚­‚ÉQ‚ê‚Ä‚¢‚È‚¢‚Á‚Ä‚¢‚¤‚Ì‚ÉB
+ã£ãŸãã€æ˜¨æ—¥ã¯è€ƒãˆäº‹ã‚’ã—ã¦ã„ã¦ã‚ãã«å¯ã‚Œã¦ã„ãªã„ã£ã¦ã„ã†ã®ã«ã€‚
 
-u‚í‚©‚Á‚½‚æB‹N‚«‚é‚æA‹N‚«‚é‚©‚çv
+ã€Œã‚ã‹ã£ãŸã‚ˆã€‚èµ·ãã‚‹ã‚ˆã€èµ·ãã‚‹ã‹ã‚‰ã€
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 
 #voice ibae0104
-yƒCƒoƒ‰zu‚¤‚ñB‚»‚ê‚Å‚¢‚¢v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã†ã‚“ã€‚ãã‚Œã§ã„ã„ã€
 
-u‚Á‚½‚­ccv
+ã€Œã£ãŸãâ€¦â€¦ã€
 
-Q’¼‚·‹C‚É‚à‚È‚ê‚¸‚É‹N‚«ã‚ª‚éB
+å¯ç›´ã™æ°—ã«ã‚‚ãªã‚Œãšã«èµ·ãä¸ŠãŒã‚‹ã€‚
 
-u¡“ú‚ªA–žŒŽ‚¾‚ëH@o•à‚¢‚Ä‚Ä‚¢‚¢‚ÌHv
+ã€Œä»Šæ—¥ãŒã€æº€æœˆã ã‚ï¼Ÿã€€å‡ºæ­©ã„ã¦ã¦ã„ã„ã®ï¼Ÿã€
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0105
-yƒCƒoƒ‰zu¡“ú‚ª–žŒŽ‚¾‚©‚çA‚¾v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œä»Šæ—¥ãŒæº€æœˆã ã‹ã‚‰ã€ã ã€
 
-ƒCƒoƒ‰‚ª‚®‚¢‚Á‚Æ‘Ü‚ð“Ë‚«o‚µ‚Ä‚«‚½B
+ã‚¤ãƒãƒ©ãŒãã„ã£ã¨è¢‹ã‚’çªãå‡ºã—ã¦ããŸã€‚
 
 ;CHR I07F L
-#cg ƒCƒoƒ‰ iba_1_07f ¶
+#cg ã‚¤ãƒãƒ© iba_1_07f å·¦
 #wipe fade
 
 #voice ibae0106
-yƒCƒoƒ‰zu‚±‚êA‚â‚ê‚Á‚Äv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã“ã‚Œã€ã‚„ã‚Œã£ã¦ã€
 
-ucc‰´‚ÉHv
+ã€Œâ€¦â€¦ä¿ºã«ï¼Ÿã€
 
 ;CHR K01F2B R
-#cg ƒRƒmƒ~ kon_1_01f2b ‰E
+#cg ã‚³ãƒŽãƒŸ kon_1_01f2b å³
 #wipe fade
 
 #voice kone0054
-yƒRƒmƒ~zuƒCƒoƒ‰‚ª`AƒlƒRƒoƒo‚µ‚¿‚á‚¤‚Æ‚¢‚¯‚È‚¢‚©‚ç`ƒ{ƒN‚çŠF‚Å—ˆ‚½‚Ì`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã‚¤ãƒãƒ©ãŒã€œã€ãƒã‚³ãƒãƒã—ã¡ã‚ƒã†ã¨ã„ã‘ãªã„ã‹ã‚‰ã€œãƒœã‚¯ã‚‰çš†ã§æ¥ãŸã®ã€œã€
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 #voice hine0070
-yƒqƒiƒ^zuƒLƒ‰ƒLƒ‰‚µ‚Ä‚«‚ê‚¢‚¾‚à‚ñ‚Ë‚ÁIHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚­ãƒ©ã‚­ãƒ©ã—ã¦ãã‚Œã„ã ã‚‚ã‚“ã­ã£ï¼ï¼Ÿã€
 
 ;CHR I02F L
-#cg ƒCƒoƒ‰ iba_1_02f ¶
+#cg ã‚¤ãƒãƒ© iba_1_02f å·¦
 #wipe fade
 
 #voice ibae0107
-yƒCƒoƒ‰zuƒ{ƒN‚ÍA‚±‚ñ‚È‚Ì“‚Á‚½‚è‚µ‚È‚¢‚¼IHv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãƒœã‚¯ã¯ã€ã“ã‚“ãªã®ç›—ã£ãŸã‚Šã—ãªã„ãžï¼ï¼Ÿã€
 
 ;CHR K04F R
-#cg ƒRƒmƒ~ kon_1_04f ‰E
+#cg ã‚³ãƒŽãƒŸ kon_1_04f å³
 #wipe fade
 
 #voice kone0055
-yƒRƒmƒ~zu‚ ‚Í‚Í`‚«‚ê‚¢‚¾‚¯‚Çg‚É‚Â‚¯‚ç‚ê‚È‚¢‚©‚ç`Hv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã‚ã¯ã¯ã€œãã‚Œã„ã ã‘ã©èº«ã«ã¤ã‘ã‚‰ã‚Œãªã„ã‹ã‚‰ã€œï¼Ÿã€
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0108
-yƒCƒoƒ‰zu‚»‚¤‚¾I@ƒ{ƒN‚ªƒLƒŒƒC‚É‚È‚é‚Ì‚É–ð‚É—§‚½‚È‚¢‚à‚Ì‚È‚ç‚¢‚ç‚È‚¢v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãã†ã ï¼ã€€ãƒœã‚¯ãŒã‚­ãƒ¬ã‚¤ã«ãªã‚‹ã®ã«å½¹ã«ç«‹ãŸãªã„ã‚‚ã®ãªã‚‰ã„ã‚‰ãªã„ã€
 
 ;CHR K01F1B R
-#cg ƒRƒmƒ~ kon_1_01f1b ‰E
+#cg ã‚³ãƒŽãƒŸ kon_1_01f1b å³
 #wipe fade
 
 #voice kone0056
-yƒRƒmƒ~zu‚»‚Á‚©`A‚È‚é‚Ù‚Ç‚Ë`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãã£ã‹ã€œã€ãªã‚‹ã»ã©ã­ã€œã€
 
-uƒLƒ‰ƒLƒ‰‚µ‚Ä‚«‚ê‚¢Hv
+ã€Œã‚­ãƒ©ã‚­ãƒ©ã—ã¦ãã‚Œã„ï¼Ÿã€
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
 
 #voice hine0071
-yƒqƒiƒ^zu‚¤‚ñA‚·‚Á‚²‚­‚·‚Á‚²‚­‚«‚ê‚¢‚¾‚æIv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã†ã‚“ã€ã™ã£ã”ãã™ã£ã”ããã‚Œã„ã ã‚ˆï¼ã€
 
-‚¢‚Ô‚©‚µ‚Ý‚È‚ª‚çŠJ‚­‚ÆA‘Ü‚Ì’†‚É‚Í‚¢‚­‚Â‚©‚Ì‹à‰ò‚Æ‹â‰òA‚»‚µ‚Ä‚«‚ç‚«‚çŒõ‚éÎ‚ª“ü‚Á‚Ä‚¢‚ÄA–Ú‹Ê‚ª”ò‚Ño‚é‚©‚ÆŽv‚¤B
+ã„ã¶ã‹ã—ã¿ãªãŒã‚‰é–‹ãã¨ã€è¢‹ã®ä¸­ã«ã¯ã„ãã¤ã‹ã®é‡‘å¡Šã¨éŠ€å¡Šã€ãã—ã¦ãã‚‰ãã‚‰å…‰ã‚‹çŸ³ãŒå…¥ã£ã¦ã„ã¦ã€ç›®çŽ‰ãŒé£›ã³å‡ºã‚‹ã‹ã¨æ€ã†ã€‚
 
-u‚±A‚±‚ñ‚È‚à‚Ì‚Ç‚Á‚©‚çŽ‚Á‚Ä‚«‚½‚ñ‚¾IHv
+ã€Œã“ã€ã“ã‚“ãªã‚‚ã®ã©ã£ã‹ã‚‰æŒã£ã¦ããŸã‚“ã ï¼ï¼Ÿã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-‚à‚µ“‚ñ‚Å‚«‚½‚Ì‚¾‚Æ‚µ‚½‚ç‚Æ‚ñ‚Å‚à‚È‚¢‚±‚Æ‚¾B‚±‚ê‚¾‚¯‚ÌàŽY‚ð“‚ñ‚¾‚Æ‚µ‚½‚çA‰½‰ñ”›‚èŽñ‚É‘˜‚Á‚½‚ç‚¢‚¢‚±‚Æ‚â‚çB
+ã‚‚ã—ç›—ã‚“ã§ããŸã®ã ã¨ã—ãŸã‚‰ã¨ã‚“ã§ã‚‚ãªã„ã“ã¨ã ã€‚ã“ã‚Œã ã‘ã®è²¡ç”£ã‚’ç›—ã‚“ã ã¨ã—ãŸã‚‰ã€ä½•å›žç¸›ã‚Šé¦–ã«é­ã£ãŸã‚‰ã„ã„ã“ã¨ã‚„ã‚‰ã€‚
 
-‚Æ‚±‚ë‚ªƒCƒoƒ‰‚ÍˆÌ‚»‚¤‚É‚Ó‚ñ‚¼‚è•Ô‚Á‚ÄŒ¾‚Á‚½B
+ã¨ã“ã‚ãŒã‚¤ãƒãƒ©ã¯å‰ãã†ã«ãµã‚“ãžã‚Šè¿”ã£ã¦è¨€ã£ãŸã€‚
 
 ;CHR I05F C
-#cg ƒCƒoƒ‰ iba_1_05f ’†
+#cg ã‚¤ãƒãƒ© iba_1_05f ä¸­
 #wipe fade
 
 #voice ibae0109
-yƒCƒoƒ‰zu¢˜b‚É‚È‚Á‚½‚©‚çA‚±‚ê‚Í‚»‚Ì—ç‚¾v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œä¸–è©±ã«ãªã£ãŸã‹ã‚‰ã€ã“ã‚Œã¯ãã®ç¤¼ã ã€
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
 
 #voice hine0072
-yƒqƒiƒ^zu‚Á‚Ä‚¨‚Á‚«‚ÈƒGƒ‹ƒt‚ª‚¢‚Á‚Ä‚½Iv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã£ã¦ãŠã£ããªã‚¨ãƒ«ãƒ•ãŒã„ã£ã¦ãŸï¼ã€
 
 ;CHR I07F C
-#cg ƒCƒoƒ‰ iba_1_07f ’†
+#cg ã‚¤ãƒãƒ© iba_1_07f ä¸­
 #wipe fade
 
 #voice ibae0110
-yƒCƒoƒ‰zuƒ{ƒN‚ª¢˜b‚ð‚µ‚Ä‚â‚Á‚Ä‚¢‚½‚¯‚ÇAƒjƒ“ƒQƒ“‚É‹L”O‚Ì•i‚ð‚â‚é‚¼v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œãƒœã‚¯ãŒä¸–è©±ã‚’ã—ã¦ã‚„ã£ã¦ã„ãŸã‘ã©ã€ãƒ‹ãƒ³ã‚²ãƒ³ã«è¨˜å¿µã®å“ã‚’ã‚„ã‚‹ãžã€
 
-u‚ ‚ŸA—ç‚ð‚·‚é‚Á‚ÄŒ¾‚Á‚Ä‚½ƒAƒŒ‚©cc‚Å‚àA‚±‚ñ‚È‚·‚²‚¢‚à‚Ì‚ð‚à‚ç‚¤‚í‚¯‚É‚¢‚©‚È‚¢‚æv
+ã€Œã‚ãã€ç¤¼ã‚’ã™ã‚‹ã£ã¦è¨€ã£ã¦ãŸã‚¢ãƒ¬ã‹â€¦â€¦ã§ã‚‚ã€ã“ã‚“ãªã™ã”ã„ã‚‚ã®ã‚’ã‚‚ã‚‰ã†ã‚ã‘ã«ã„ã‹ãªã„ã‚ˆã€
 
-‚»‚¤‚¢‚¦‚ÎA‚ ‚ÌƒGƒ‹ƒt‚ª‚»‚ñ‚È‚±‚Æ‚ðŒ¾‚Á‚Ä‚¢‚½‚æ‚¤‚ÈccB
+ãã†ã„ãˆã°ã€ã‚ã®ã‚¨ãƒ«ãƒ•ãŒãã‚“ãªã“ã¨ã‚’è¨€ã£ã¦ã„ãŸã‚ˆã†ãªâ€¦â€¦ã€‚
 
-‚¾‚¯‚ÇA‚Ü‚³‚©•¶Žš’Ê‚è‚Ì‹à‹âà•ó‚ð‚æ‚±‚·‚È‚ñ‚ÄB•’Ê‚É¶‚«‚Ä‚¢‚½‚çA‘½•ª‰´‚È‚ñ‚Äˆê¶‚¨–Ú‚É‚©‚©‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½‚¾‚ë‚¤àŽY‚¾B
+ã ã‘ã©ã€ã¾ã•ã‹æ–‡å­—é€šã‚Šã®é‡‘éŠ€è²¡å®ã‚’ã‚ˆã“ã™ãªã‚“ã¦ã€‚æ™®é€šã«ç”Ÿãã¦ã„ãŸã‚‰ã€å¤šåˆ†ä¿ºãªã‚“ã¦ä¸€ç”ŸãŠç›®ã«ã‹ã‹ã‚‹ã“ã¨ã¯ã§ããªã‹ã£ãŸã ã‚ã†è²¡ç”£ã ã€‚
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K02F1 L
-#cg ƒRƒmƒ~ kon_1_02f1 ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_02f1 å·¦
 #wipe fade
 
 #voice kone0057
-yƒRƒmƒ~zuƒGƒ‹ƒt‚Ì—Ìˆæ‚¶‚á`’¿‚µ‚¢‚à‚Ì‚¶‚á‚È‚¢‚ñ‚¾‚æ`Aü‚è•¨‚É‰ÁH‚µ‚½‚Ì‚Í’¿‚µ‚¢‚¯‚Ç‚Ë`Hv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã‚¨ãƒ«ãƒ•ã®é ˜åŸŸã˜ã‚ƒã€œçã—ã„ã‚‚ã®ã˜ã‚ƒãªã„ã‚“ã ã‚ˆã€œã€é£¾ã‚Šç‰©ã«åŠ å·¥ã—ãŸã®ã¯çã—ã„ã‘ã©ã­ã€œï¼Ÿã€
 
-ƒGƒ‹ƒt‚Éo‰ï‚¤‚Æ‚·‚²‚¢‚±‚Æ‚ª‹N‚«‚é‚Æ‚©AK‚¹‚É‚È‚é‚Á‚Ä‚Ì‚Í‚±‚ê‚©B
+ã‚¨ãƒ«ãƒ•ã«å‡ºä¼šã†ã¨ã™ã”ã„ã“ã¨ãŒèµ·ãã‚‹ã¨ã‹ã€å¹¸ã›ã«ãªã‚‹ã£ã¦ã®ã¯ã“ã‚Œã‹ã€‚
 
-‚¸‚¢‚Ô‚ñ‘¦•¨“I‚¾‚ÈB
+ãšã„ã¶ã‚“å³ç‰©çš„ã ãªã€‚
 
-•ó•¨‚ð–Ú‚É‚µ‚½‹Á‚«‚Ì”g‚ª‹Ž‚é‚ÆA‚Þ‚µ‚ë•’Ê‚Ì‹à‹âà•ó‚Å‚ ‚é‚±‚Æ‚ªŽc”O‚È‹C‚ª‚·‚éB
+å®ç‰©ã‚’ç›®ã«ã—ãŸé©šãã®æ³¢ãŒåŽ»ã‚‹ã¨ã€ã‚€ã—ã‚æ™®é€šã®é‡‘éŠ€è²¡å®ã§ã‚ã‚‹ã“ã¨ãŒæ®‹å¿µãªæ°—ãŒã™ã‚‹ã€‚
 
-u‰½‚©“Á•Ê‚È–‚—Í‚ª‚ ‚Á‚½‚ècc‚Á‚Ä‚í‚¯‚¶‚á‚È‚¢‚ñ‚¾‚Ëv
+ã€Œä½•ã‹ç‰¹åˆ¥ãªé­”åŠ›ãŒã‚ã£ãŸã‚Šâ€¦â€¦ã£ã¦ã‚ã‘ã˜ã‚ƒãªã„ã‚“ã ã­ã€
 
 ;CHR K05F L
-#cg ƒRƒmƒ~ kon_1_05f ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_05f å·¦
 #wipe fade
 
 #voice kone0058
-yƒRƒmƒ~zu‚»`‚¢‚¤‚Ì‚ª‚æ‚©‚Á‚½`Hv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãã€œã„ã†ã®ãŒã‚ˆã‹ã£ãŸã€œï¼Ÿã€
 
-u‚»‚¤‚¢‚¤‚Ì‚à‚ ‚é‚ÌHv
+ã€Œãã†ã„ã†ã®ã‚‚ã‚ã‚‹ã®ï¼Ÿã€
 
 ;CHR K06F L
-#cg ƒRƒmƒ~ kon_1_06f ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_06f å·¦
 #wipe fade
 
 #voice kone0059
-yƒRƒmƒ~zu‚í‚©‚ñ‚È‚¢‚¯‚Ç`AlŠÔ‚ª‚»‚¤‚¢‚¤‚ÌŽ‚Â‚Æ‘å•Ï‚È‚ñ‚¶‚á‚È`‚¢Hv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã‚ã‹ã‚“ãªã„ã‘ã©ã€œã€äººé–“ãŒãã†ã„ã†ã®æŒã¤ã¨å¤§å¤‰ãªã‚“ã˜ã‚ƒãªã€œã„ï¼Ÿã€
 
-ucc‚»‚ê‚ÍŠm‚©‚Év
+ã€Œâ€¦â€¦ãã‚Œã¯ç¢ºã‹ã«ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Ì‚Á‚©‚ç–‚–@‚Ì“¹‹ï‚ðŽè‚É“ü‚ê‚½lŠÔ‚ªg‚ðŽ‚¿•ö‚·˜b‚È‚ñ‚Ä–‡‹“‚É‚¢‚Æ‚Ü‚ª‚È‚¢B
+æ˜”ã£ã‹ã‚‰é­”æ³•ã®é“å…·ã‚’æ‰‹ã«å…¥ã‚ŒãŸäººé–“ãŒèº«ã‚’æŒã¡å´©ã™è©±ãªã‚“ã¦æžšæŒ™ã«ã„ã¨ã¾ãŒãªã„ã€‚
 
-‰ÁH‘O‚Ì‹à‹âà•ó‚Í‚‰¿‚È‚à‚Ì‚Å‚Í‚ ‚é‚¯‚ê‚ÇAâ‘Î‚ÉŽè‚É“ü‚ç‚È‚¢‚Æ‚¢‚¤‚à‚Ì‚Å‚à‚È‚¢‚©‚çAŠ·‹à‚ào—ˆ‚é‚µA‚Þ‚µ‚ë‚ ‚è‚ª‚½‚¢B
+åŠ å·¥å‰ã®é‡‘éŠ€è²¡å®ã¯é«˜ä¾¡ãªã‚‚ã®ã§ã¯ã‚ã‚‹ã‘ã‚Œã©ã€çµ¶å¯¾ã«æ‰‹ã«å…¥ã‚‰ãªã„ã¨ã„ã†ã‚‚ã®ã§ã‚‚ãªã„ã‹ã‚‰ã€æ›é‡‘ã‚‚å‡ºæ¥ã‚‹ã—ã€ã‚€ã—ã‚ã‚ã‚ŠãŒãŸã„ã€‚
 
-‚â‚Á‚Ï‚è‚»‚¤‚¢‚¤‹CŒ­‚¢‚È‚Ì‚©‚ÈBˆÄŠOƒGƒ‹ƒt‚à‚»‚ñ‚ÈlŠÔ‚¶‚Ý‚½‹CŒ­‚¢‚È‚ñ‚Ä‚à‚Ì‚ª‚ ‚é‚ñ‚¾‚ë‚¤‚©ccB
+ã‚„ã£ã±ã‚Šãã†ã„ã†æ°—é£ã„ãªã®ã‹ãªã€‚æ¡ˆå¤–ã‚¨ãƒ«ãƒ•ã‚‚ãã‚“ãªäººé–“ã˜ã¿ãŸæ°—é£ã„ãªã‚“ã¦ã‚‚ã®ãŒã‚ã‚‹ã‚“ã ã‚ã†ã‹â€¦â€¦ã€‚
 
 ;CHR I05F L
-#cg ƒCƒoƒ‰ iba_1_05f ¶
+#cg ã‚¤ãƒãƒ© iba_1_05f å·¦
 #wipe fade
 
 #voice ibae0111
-yƒCƒoƒ‰zuŠwŽÒ‚É‚È‚é‚É‚Í‚¨‹à‚ª‚©‚©‚é‚ñ‚¾‚ëH@‚»‚ê‚¾‚¯‚ ‚Á‚½‚çAŠwŽÒ‚É‚È‚ê‚é‚©Hv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œå­¦è€…ã«ãªã‚‹ã«ã¯ãŠé‡‘ãŒã‹ã‹ã‚‹ã‚“ã ã‚ï¼Ÿã€€ãã‚Œã ã‘ã‚ã£ãŸã‚‰ã€å­¦è€…ã«ãªã‚Œã‚‹ã‹ï¼Ÿã€
 
-ucc‚Ç‚¤‚¾‚ë‚¤H@‰´‚É‚Í³’¼A‚±‚ê‚ª‚Ç‚ê‚¾‚¯‰¿’l‚ª‚ ‚é‚©‚í‚©‚ç‚È‚¢‚©‚ç‚È‚Ÿv
+ã€Œâ€¦â€¦ã©ã†ã ã‚ã†ï¼Ÿã€€ä¿ºã«ã¯æ­£ç›´ã€ã“ã‚ŒãŒã©ã‚Œã ã‘ä¾¡å€¤ãŒã‚ã‚‹ã‹ã‚ã‹ã‚‰ãªã„ã‹ã‚‰ãªãã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-–³‘¢ì‚É‹à‚Ì—±‚ð‚Â‚Ü‚Ýã‚°‚Ä‚Ý‚éB‚±‚ñ‚È‚É‚Å‚©‚¢‹à‚Ì‰ò‚È‚ñ‚Ä‰‚ß‚ÄŒ©‚½B
+ç„¡é€ ä½œã«é‡‘ã®ç²’ã‚’ã¤ã¾ã¿ä¸Šã’ã¦ã¿ã‚‹ã€‚ã“ã‚“ãªã«ã§ã‹ã„é‡‘ã®å¡Šãªã‚“ã¦åˆã‚ã¦è¦‹ãŸã€‚
 
-‚·‚²‚­‚‚¢‚à‚Ì‚Å‚ ‚é‚Ì‚Í‚í‚©‚é‚¯‚ÇA¡‚Ü‚Å‚É‚±‚ê‚¾‚¯‚Ì‹à‹âà•ó‚È‚ñ‚Ä‰‚ª‚È‚©‚Á‚½‚©‚çA‚±‚Ì‹à‚ª‰½‚ÆŒðŠ·‚Å‚«‚é‚©Œ©“–‚à‚Â‚©‚È‚¢B
+ã™ã”ãé«˜ã„ã‚‚ã®ã§ã‚ã‚‹ã®ã¯ã‚ã‹ã‚‹ã‘ã©ã€ä»Šã¾ã§ã«ã“ã‚Œã ã‘ã®é‡‘éŠ€è²¡å®ãªã‚“ã¦ç¸ãŒãªã‹ã£ãŸã‹ã‚‰ã€ã“ã®é‡‘ãŒä½•ã¨äº¤æ›ã§ãã‚‹ã‹è¦‹å½“ã‚‚ã¤ã‹ãªã„ã€‚
 
-‹à‰Ý‚â‹â‰Ý‚È‚çŠz–Ê’Ê‚è‚Ì‰¿’l‚ª‚ ‚é‚¯‚ÇA‰ÁH‘O‚Ì‹M‹à‘®‚Á‚Ä‚Ç‚Ì‚®‚ç‚¢‚Ì‰¿’l‚ª‚ ‚é‚Ì‚©‚ÈB
+é‡‘è²¨ã‚„éŠ€è²¨ãªã‚‰é¡é¢é€šã‚Šã®ä¾¡å€¤ãŒã‚ã‚‹ã‘ã©ã€åŠ å·¥å‰ã®è²´é‡‘å±žã£ã¦ã©ã®ãã‚‰ã„ã®ä¾¡å€¤ãŒã‚ã‚‹ã®ã‹ãªã€‚
 
 ;CHR H01F1_A R
-#cg ƒqƒiƒ^ hin_1_01f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_01f1_a å³
 #wipe fade
 
 #voice hine0073
-yƒqƒiƒ^zuƒjƒ“ƒQƒ“‚³‚ñ‚ª‚ª‚­‚µ‚á‚É‚È‚é‚Ì‚É‚Í‚¨‚©‚Ë‚ª‚©‚©‚é‚Á‚Ä‚¢‚Á‚½‚©‚çA‚¨‚Á‚«‚¢ƒGƒ‹ƒt‚É‚¨‚©‚Ë‚ ‚°‚Ä‚Á‚Ä‚¨‚Ë‚ª‚¢‚µ‚½‚ñ‚¾‚æIv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ãŒãŒãã—ã‚ƒã«ãªã‚‹ã®ã«ã¯ãŠã‹ã­ãŒã‹ã‹ã‚‹ã£ã¦ã„ã£ãŸã‹ã‚‰ã€ãŠã£ãã„ã‚¨ãƒ«ãƒ•ã«ãŠã‹ã­ã‚ã’ã¦ã£ã¦ãŠã­ãŒã„ã—ãŸã‚“ã ã‚ˆï¼ã€
 
-u‚»‚Á‚©cc‰´‚Ì‚½‚ß‚Éccv
+ã€Œãã£ã‹â€¦â€¦ä¿ºã®ãŸã‚ã«â€¦â€¦ã€
 
 ;CHR I11F1 L
-#cg ƒCƒoƒ‰ iba_1_11f1 ¶
+#cg ã‚¤ãƒãƒ© iba_1_11f1 å·¦
 #wipe fade
 
 #voice ibae0112
-yƒCƒoƒ‰zuƒGƒ‹ƒt‚Í‹à‰Ý‚â‹â‰Ý‚È‚ñ‚Ä‚ ‚ñ‚Ü‚èŽ‚Á‚Ä‚È‚¢‚©‚çA‹à‰Ý‚â‹â‰Ý‚ÉŠ·‚¦‚ç‚ê‚é‚à‚Ì‚É‚È‚Á‚½‚¯‚Ç‚Èv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã‚¨ãƒ«ãƒ•ã¯é‡‘è²¨ã‚„éŠ€è²¨ãªã‚“ã¦ã‚ã‚“ã¾ã‚ŠæŒã£ã¦ãªã„ã‹ã‚‰ã€é‡‘è²¨ã‚„éŠ€è²¨ã«æ›ãˆã‚‰ã‚Œã‚‹ã‚‚ã®ã«ãªã£ãŸã‘ã©ãªã€
 
 ;CHR OFF
-#cg ƒCƒoƒ‰ clear
+#cg ã‚¤ãƒãƒ© clear
 #wipe fade
 
 ;CHR K01F1A L
-#cg ƒRƒmƒ~ kon_1_01f1a ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01f1a å·¦
 #wipe fade
 #voice kone0060
-yƒRƒmƒ~zu‚È‚Ÿ‚É`H@ƒjƒ“ƒQƒ“‚­‚ñŠð‚µ‚­‚È‚¢‚Ì`H@‚±`‚¢‚¤‚Ì‚ ‚°‚½‚çlŠÔ‚ÍŠì‚Ô‚à‚Ì`‚Á‚ÄAƒ{ƒN‚ç•·‚¢‚Ä‚½‚¯‚Ç`ccv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãªãã«ã€œï¼Ÿã€€ãƒ‹ãƒ³ã‚²ãƒ³ãã‚“å¬‰ã—ããªã„ã®ã€œï¼Ÿã€€ã“ã€œã„ã†ã®ã‚ã’ãŸã‚‰äººé–“ã¯å–œã¶ã‚‚ã®ã€œã£ã¦ã€ãƒœã‚¯ã‚‰èžã„ã¦ãŸã‘ã©ã€œâ€¦â€¦ã€
 
-u‚¢‚âŠð‚µ‚¢‚æB‚Å‚à¡‚Ü‚ÅŒ©‚½‚±‚Æ‚à‚È‚¢‚æ‚¤‚È•ó•¨‚¾‚©‚ç‚³v
+ã€Œã„ã‚„å¬‰ã—ã„ã‚ˆã€‚ã§ã‚‚ä»Šã¾ã§è¦‹ãŸã“ã¨ã‚‚ãªã„ã‚ˆã†ãªå®ç‰©ã ã‹ã‚‰ã•ã€
 
 ;CHR H06F1_A R
-#cg ƒqƒiƒ^ hin_1_06f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_06f1_a å³
 #wipe fade
 
 #voice hine0074
-yƒqƒiƒ^zuƒjƒ“ƒQƒ“‚³‚ñ‚Í‚±‚ñ‚È‚ÉƒLƒ‰ƒLƒ‰‚½‚­‚³‚ñ‚Ý‚é‚ÌAƒnƒWƒ‚Ä‚È‚ñ‚¾IHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã¯ã“ã‚“ãªã«ã‚­ãƒ©ã‚­ãƒ©ãŸãã•ã‚“ã¿ã‚‹ã®ã€ãƒã‚¸ãƒ¡ã¦ãªã‚“ã ï¼ï¼Ÿã€
 
-u‚ ‚ŸB‚¢‚Á‚½‚ñŠ·‹à‚µ‚È‚«‚á‚¢‚¯‚È‚¢‚ñ‚¾‚ë‚¤‚¯‚ÇA‚»‚ñ‚È‚Ì‚Ç‚±‚Å‚â‚Á‚Ä‚­‚ê‚é‚ñ‚¾‚ë‚¤‚Èv
+ã€Œã‚ãã€‚ã„ã£ãŸã‚“æ›é‡‘ã—ãªãã‚ƒã„ã‘ãªã„ã‚“ã ã‚ã†ã‘ã©ã€ãã‚“ãªã®ã©ã“ã§ã‚„ã£ã¦ãã‚Œã‚‹ã‚“ã ã‚ã†ãªã€
 
 ;CHR H04F1_A R
-#cg ƒqƒiƒ^ hin_1_04f1_a ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_04f1_a å³
 #wipe fade
 
 #voice hine0075
-yƒqƒiƒ^zu‚©‚ñ‚«‚ñHv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‹ã‚“ãã‚“ï¼Ÿã€
 
-u•²‚Æ‚©–{‚Æ‚©‚»‚¤‚¢‚¤‚Ì‚ð”ƒ‚¤‚Ì‚ÉŽg‚¦‚é‚¨‹à‚É‘Ö‚¦‚Ä‚à‚ç‚¤‚Á‚Ä‚±‚Æv
+ã€Œç²‰ã¨ã‹æœ¬ã¨ã‹ãã†ã„ã†ã®ã‚’è²·ã†ã®ã«ä½¿ãˆã‚‹ãŠé‡‘ã«æ›¿ãˆã¦ã‚‚ã‚‰ã†ã£ã¦ã“ã¨ã€
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-‰´‚ª“š‚¦‚é‚ÆA“r’[‚ÉƒCƒoƒ‰‚ª^Œ•‚ÈŠç‚É‚È‚Á‚½B
+ä¿ºãŒç­”ãˆã‚‹ã¨ã€é€”ç«¯ã«ã‚¤ãƒãƒ©ãŒçœŸå‰£ãªé¡”ã«ãªã£ãŸã€‚
 
 ;CHR I02F C
-#cg ƒCƒoƒ‰ iba_1_02f ’†
+#cg ã‚¤ãƒãƒ© iba_1_02f ä¸­
 #wipe fade
 
 #voice ibae0113
-yƒCƒoƒ‰zu‚¨‚¢Aƒjƒ“ƒQƒ“I@ŒðŠ·‚·‚é‚Æ‚«‚ÍlŠÔ‚Ééx‚³‚ê‚¿‚áƒ_ƒ‚¾‚¼IH@lŠÔ‚È‚ñ‚Ä‚Ý‚ñ‚È‰R‚Â‚«‚È‚ñ‚¾‚©‚ç‚È‚ÁIHv
+ã€ã‚¤ãƒãƒ©ã€‘ã€ŒãŠã„ã€ãƒ‹ãƒ³ã‚²ãƒ³ï¼ã€€äº¤æ›ã™ã‚‹ã¨ãã¯äººé–“ã«é¨™ã•ã‚Œã¡ã‚ƒãƒ€ãƒ¡ã ãžï¼ï¼Ÿã€€äººé–“ãªã‚“ã¦ã¿ã‚“ãªå˜˜ã¤ããªã‚“ã ã‹ã‚‰ãªã£ï¼ï¼Ÿã€
 
-ucc‰´‚É‚»‚ê‚ðŒ¾‚¤‚©H@‚Õ‚ÁA‚Í‚Í‚Í‚Í‚Í‚Ív
+ã€Œâ€¦â€¦ä¿ºã«ãã‚Œã‚’è¨€ã†ã‹ï¼Ÿã€€ã·ã£ã€ã¯ã¯ã¯ã¯ã¯ã¯ã€
 
 ;CHR I08F C
-#cg ƒCƒoƒ‰ iba_1_08f ’†
+#cg ã‚¤ãƒãƒ© iba_1_08f ä¸­
 #wipe fade
 
 #voice ibae0114
-yƒCƒoƒ‰zu‚ ‚Áccv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã‚ã£â€¦â€¦ã€
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice kone0061
-yƒRƒmƒ~zu‚Ó‚Ó‚Ó`Aƒjƒ“ƒQƒ“‚­‚ñ‚ÉlŠÔ‚É‹C‚ð‚Â‚¯‚ë‚È‚ñ‚Ä‚¨‚Á‚©‚µ‚¢`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œãµãµãµã€œã€ãƒ‹ãƒ³ã‚²ãƒ³ãã‚“ã«äººé–“ã«æ°—ã‚’ã¤ã‘ã‚ãªã‚“ã¦ãŠã£ã‹ã—ã„ã€œã€
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 #voice tuke0415
-yƒcƒLƒˆzu‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã§ã™ã€
 
 ;CHR I04F C
-#cg ƒCƒoƒ‰ iba_1_04f ’†
+#cg ã‚¤ãƒãƒ© iba_1_04f ä¸­
 #wipe fade
 
 #voice ibae0115
-yƒCƒoƒ‰zu‚¨A‚¨‚©‚µ‚­‚È‚ñ‚©‚È‚¢‚¾‚ëIH@lŠÔ‚Í“¯‘°“¯Žm‚Ì’†‚Å‚à‘Š‘ˆ‚¤–ì”Ø‚ÈŽí‘°‚¾‚©‚ç‚ÈB“¯‘°‚ðéx‚·“z‚È‚ñ‚Ä“–‘R‚¢‚é‚¾‚ëIHv
+ã€ã‚¤ãƒãƒ©ã€‘ã€ŒãŠã€ãŠã‹ã—ããªã‚“ã‹ãªã„ã ã‚ï¼ï¼Ÿã€€äººé–“ã¯åŒæ—åŒå£«ã®ä¸­ã§ã‚‚ç›¸äº‰ã†é‡Žè›®ãªç¨®æ—ã ã‹ã‚‰ãªã€‚åŒæ—ã‚’é¨™ã™å¥´ãªã‚“ã¦å½“ç„¶ã„ã‚‹ã ã‚ï¼ï¼Ÿã€
 
-ucc‚Õ‚Áv
+ã€Œâ€¦â€¦ã·ã£ã€
 
 #voice ibae0116
-yƒCƒoƒ‰zu‰½‚ª‚¨‚©‚µ‚¢‚ñ‚¾IHv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œä½•ãŒãŠã‹ã—ã„ã‚“ã ï¼ï¼Ÿã€
 
-u‚¢‚âA‚Ü‚Á‚½‚­‚»‚Ì‚Æ‚¨‚è‚¾‚æB’‰‚ ‚è‚ª‚Æ‚¤B‹C‚ð‚Â‚¯‚é‚æv
+ã€Œã„ã‚„ã€ã¾ã£ãŸããã®ã¨ãŠã‚Šã ã‚ˆã€‚å¿ å‘Šã‚ã‚ŠãŒã¨ã†ã€‚æ°—ã‚’ã¤ã‘ã‚‹ã‚ˆã€
 
 ;CHR I01F C
-#cg ƒCƒoƒ‰ iba_1_01F ’†
+#cg ã‚¤ãƒãƒ© iba_1_01F ä¸­
 #wipe fade
 
 #voice ibae0117
-yƒCƒoƒ‰zu‚¤‚ñA‚»‚¤‚µ‚ëv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã†ã‚“ã€ãã†ã—ã‚ã€
 
-‰´‚ª—ç‚ðŒ¾‚¤‚ÆAƒCƒoƒ‰‚Í‚Ü‚¾­‚µ•s–{ˆÓ‚»‚¤‚¾‚ªA”[“¾‚µ‚½—lŽq‚Åˆø‚¢‚Ä‚­‚ê‚½B
+ä¿ºãŒç¤¼ã‚’è¨€ã†ã¨ã€ã‚¤ãƒãƒ©ã¯ã¾ã å°‘ã—ä¸æœ¬æ„ãã†ã ãŒã€ç´å¾—ã—ãŸæ§˜å­ã§å¼•ã„ã¦ãã‚ŒãŸã€‚
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-u‚µ‚©‚µA‚¨‘O‚½‚¿‚Ì•û‚©‚ç—ˆ‚é‚Æ‚ÍŽv‚í‚È‚©‚Á‚½‚ÈB‚±‚Á‚¿‚©‚ç‰ï‚¢‚És‚­‚Â‚à‚è‚¾‚Á‚½‚Ì‚Év
+ã€Œã—ã‹ã—ã€ãŠå‰ãŸã¡ã®æ–¹ã‹ã‚‰æ¥ã‚‹ã¨ã¯æ€ã‚ãªã‹ã£ãŸãªã€‚ã“ã£ã¡ã‹ã‚‰ä¼šã„ã«è¡Œãã¤ã‚‚ã‚Šã ã£ãŸã®ã«ã€
 
-‚»‚Ì‚Â‚à‚è‚ÅéS•Ê‚É“n‚»‚¤‚Æ‘º‚Å“úŽ‚¿‚Ì‚µ‚»‚¤‚È‰ÙŽq‚ð”ƒ‚¢ž‚ñ‚Å‚«‚Ä‚ ‚éB
+ãã®ã¤ã‚‚ã‚Šã§é¤žåˆ¥ã«æ¸¡ãã†ã¨æ‘ã§æ—¥æŒã¡ã®ã—ãã†ãªè“å­ã‚’è²·ã„è¾¼ã‚“ã§ãã¦ã‚ã‚‹ã€‚
 
-ƒGƒ‹ƒt‚É‚à•Ê‚ê‚ðÉ‚µ‚Þ‚æ‚¤‚Èî‚ª‚ ‚é‚Ì‚©‚Í’m‚ç‚È‚¢‚¯‚ÇA‰´‚ª‚»‚¤‚µ‚½‚¢‚ÆŽv‚Á‚½‚©‚çB
+ã‚¨ãƒ«ãƒ•ã«ã‚‚åˆ¥ã‚Œã‚’æƒœã—ã‚€ã‚ˆã†ãªæƒ…ç·’ãŒã‚ã‚‹ã®ã‹ã¯çŸ¥ã‚‰ãªã„ã‘ã©ã€ä¿ºãŒãã†ã—ãŸã„ã¨æ€ã£ãŸã‹ã‚‰ã€‚
 
-•Ê‚É‚¸‚Á‚ÆŠo‚¦‚Ä‚¢‚Ä—~‚µ‚¢‚Æ‚Ü‚Å‚Í–]‚Ü‚È‚¢‚¯‚ÇA‰ÙŽq‚ðH‚×s‚­‚·‚®‚ç‚¢‚Ü‚Å‚ÌŠÔ‚Í‰´‚Ì‚±‚Æ‚ð–Y‚ê‚¸‚É‚¢‚Ä‚­‚ê‚é‚ÆŠð‚µ‚¢B
+åˆ¥ã«ãšã£ã¨è¦šãˆã¦ã„ã¦æ¬²ã—ã„ã¨ã¾ã§ã¯æœ›ã¾ãªã„ã‘ã©ã€è“å­ã‚’é£Ÿã¹å°½ãã™ãã‚‰ã„ã¾ã§ã®é–“ã¯ä¿ºã®ã“ã¨ã‚’å¿˜ã‚Œãšã«ã„ã¦ãã‚Œã‚‹ã¨å¬‰ã—ã„ã€‚
 
-‚»‚ñ‚ÈŠ´‚ÍŠÃ‚Á‚½‚é‚¢‚¾‚ë‚¤‚©B
+ãã‚“ãªæ„Ÿå‚·ã¯ç”˜ã£ãŸã‚‹ã„ã ã‚ã†ã‹ã€‚
 
 ;CHR H01F2_A R
-#cg ƒqƒiƒ^ hin_1_01F2_A ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_01F2_A å³
 #wipe fade
 
 #voice hine0076
-yƒqƒiƒ^zu‚ ‚¢‚É‚«‚Ä‚à‚ ‚¦‚È‚©‚Á‚½‚Æ‚¨‚à‚¤‚æv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚ã„ã«ãã¦ã‚‚ã‚ãˆãªã‹ã£ãŸã¨ãŠã‚‚ã†ã‚ˆã€
 
-u‚¦H@‚È‚ñ‚ÅHv
+ã€Œãˆï¼Ÿã€€ãªã‚“ã§ï¼Ÿã€
 
-ƒcƒLƒˆ‚É‰ï‚¢‚É—ˆ‚¢‚Á‚ÄŒ¾‚Á‚Ä‚½‚Ì‚ÉB
+ãƒ„ã‚­ãƒ¨ã«ä¼šã„ã«æ¥ã„ã£ã¦è¨€ã£ã¦ãŸã®ã«ã€‚
 
 ;CHR K01F1B L
-#cg ƒRƒmƒ~ kon_1_01F1B ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01F1B å·¦
 #wipe fade
 
 #voice kone0062
-yƒRƒmƒ~zu‚±‚ÌŠÔ‚©‚çŒ‹ŠE‹­‰»‚µ‚Ä‚é‚©‚ç‚Ë`‘½•ªƒjƒ“ƒQƒ“‚­‚ñ‚ÍŒ‹ŠE‚É‹ß‚Ã‚¯‚È‚©‚Á‚½‚ñ‚¶‚á‚È‚¢‚©‚Èv
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã“ã®é–“ã‹ã‚‰çµç•Œå¼·åŒ–ã—ã¦ã‚‹ã‹ã‚‰ã­ã€œå¤šåˆ†ãƒ‹ãƒ³ã‚²ãƒ³ãã‚“ã¯çµç•Œã«è¿‘ã¥ã‘ãªã‹ã£ãŸã‚“ã˜ã‚ƒãªã„ã‹ãªã€
 
-u‘O‚É–K‚Ë‚Ä‚¢‚Á‚½Žž‚Ý‚½‚¢‚ÉA‚®‚é‚®‚é“¯‚¶‚Æ‚±‚ë‚ð‰ñ‚é‰H–Ú‚É‚È‚Á‚½‚Á‚Ä‚±‚Æ‚©v
+ã€Œå‰ã«è¨ªã­ã¦ã„ã£ãŸæ™‚ã¿ãŸã„ã«ã€ãã‚‹ãã‚‹åŒã˜ã¨ã“ã‚ã‚’å›žã‚‹ç¾½ç›®ã«ãªã£ãŸã£ã¦ã“ã¨ã‹ã€
 
 ;CHR H11F_A R
-#cg ƒqƒiƒ^ hin_1_11F_A ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_11F_A å³
 #wipe fade
 
 #voice hine0077
-yƒqƒiƒ^zu‚¨‚ñ‚È‚¶‚Æ‚±‚®‚é‚®‚é`v
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€ŒãŠã‚“ãªã˜ã¨ã“ãã‚‹ãã‚‹ã€œã€
 
 ;CHR OFF 
-#cg ƒRƒmƒ~ clear
+#cg ã‚³ãƒŽãƒŸ clear
 #wipe fade
 
 ;CHR I07F L
-#cg ƒCƒoƒ‰ iba_1_07F ¶
+#cg ã‚¤ãƒãƒ© iba_1_07F å·¦
 #wipe fade
 
 #voice ibae0118
-yƒCƒoƒ‰zu‚¤‚ÞA‚¾‚©‚ç“Í‚¯‚É—ˆ‚Ä‚â‚Á‚½‚ñ‚¾‚¼v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã†ã‚€ã€ã ã‹ã‚‰å±Šã‘ã«æ¥ã¦ã‚„ã£ãŸã‚“ã ãžã€
 
-‚È‚é‚Ù‚ÇBˆ¥ŽA‚És‚Á‚Ä‚àA–³‘Ê‘«‚É‚È‚Á‚½‰Â”\«‚ª‚‚¢‚Ì‚©ccB‚»‚ê‚Å‚í‚´‚í‚´‰ï‚¢‚É—ˆ‚Ä‚­‚ê‚½‚ñ‚¾‚ÈB
+ãªã‚‹ã»ã©ã€‚æŒ¨æ‹¶ã«è¡Œã£ã¦ã‚‚ã€ç„¡é§„è¶³ã«ãªã£ãŸå¯èƒ½æ€§ãŒé«˜ã„ã®ã‹â€¦â€¦ã€‚ãã‚Œã§ã‚ã–ã‚ã–ä¼šã„ã«æ¥ã¦ãã‚ŒãŸã‚“ã ãªã€‚
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-u‚¶‚á‚ A‰´‚Ì•û‚©‚ç‚àéS•Ê‚É‚±‚êB—ˆ‚Ä‚­‚ê‚Ä‚æ‚©‚Á‚½‚æv
+ã€Œã˜ã‚ƒã‚ã€ä¿ºã®æ–¹ã‹ã‚‰ã‚‚é¤žåˆ¥ã«ã“ã‚Œã€‚æ¥ã¦ãã‚Œã¦ã‚ˆã‹ã£ãŸã‚ˆã€
 
-¬•ª‚¯‚É‚µ‚½‰ÙŽq‚ð·‚µo‚·‚ÆAŒ»‹à‚ÈƒGƒ‹ƒt‚½‚¿‚Ì–Ú‚ª‹P‚¢‚½B
+å°åˆ†ã‘ã«ã—ãŸè“å­ã‚’å·®ã—å‡ºã™ã¨ã€ç¾é‡‘ãªã‚¨ãƒ«ãƒ•ãŸã¡ã®ç›®ãŒè¼ã„ãŸã€‚
 
 ;FACEV
 #voice hine0078
-yƒqƒiƒ^zu‚í‚Ÿ‚ÁI@‚¨‚©‚µ‚¾Iv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€Œã‚ãã£ï¼ã€€ãŠã‹ã—ã ï¼ã€
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kone0063
-yƒRƒmƒ~zu‚Ù‚§`A‰Âˆ¤‚¢‚Ë`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã»ã‰ã€œã€å¯æ„›ã„ã­ã€œã€
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibae0119
-yƒCƒoƒ‰zu‘O‚ÉlŠÔ‚ªì‚Á‚½‚â‚Â‚æ‚è‚¸‚¢‚Ô‚ñŒ`‚ª®‚Á‚Ä‚é‚Èv
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œå‰ã«äººé–“ãŒä½œã£ãŸã‚„ã¤ã‚ˆã‚Šãšã„ã¶ã‚“å½¢ãŒæ•´ã£ã¦ã‚‹ãªã€
 
-u‚»‚è‚áA”„‚Á‚Ä‚é‚à‚Ì‚¾‚©‚ç‚ÈB”N‹G‚ªˆá‚¤‚æv
+ã€Œãã‚Šã‚ƒã€å£²ã£ã¦ã‚‹ã‚‚ã®ã ã‹ã‚‰ãªã€‚å¹´å­£ãŒé•ã†ã‚ˆã€
 
-•²‰®‚Ì‰œ‚³‚ñ‚É—Š‚ñ‚ÅA—pˆÓ‚µ‚Ä‚¨‚¢‚Ä‚à‚ç‚Á‚½‚à‚Ì‚¾‚©‚ç‚ÈB
+ç²‰å±‹ã®å¥¥ã•ã‚“ã«é ¼ã‚“ã§ã€ç”¨æ„ã—ã¦ãŠã„ã¦ã‚‚ã‚‰ã£ãŸã‚‚ã®ã ã‹ã‚‰ãªã€‚
 
-‚¿‚å‚Á‚Æ‚Î‚©‚è‚‚­‚Í•t‚¢‚½‚¯‚ÇA‚à‚¤‰ï‚¦‚È‚¢‚©‚à‚µ‚ê‚È‚¢•Ê‚ê‚¾BÅŒã‚ÌŽž‚®‚ç‚¢’£‚èž‚ñ‚¾‚Á‚Äƒoƒ`‚Í“–‚½‚ç‚È‚¢B
+ã¡ã‚‡ã£ã¨ã°ã‹ã‚Šé«˜ãã¯ä»˜ã„ãŸã‘ã©ã€ã‚‚ã†ä¼šãˆãªã„ã‹ã‚‚ã—ã‚Œãªã„åˆ¥ã‚Œã ã€‚æœ€å¾Œã®æ™‚ãã‚‰ã„å¼µã‚Šè¾¼ã‚“ã ã£ã¦ãƒãƒã¯å½“ãŸã‚‰ãªã„ã€‚
 
 ;CHR I07F L
-#cg ƒCƒoƒ‰ iba_1_07F ¶
+#cg ã‚¤ãƒãƒ© iba_1_07F å·¦
 #wipe fade
 
 #voice ibae0120
-yƒCƒoƒ‰zu‚¶‚á‚ A“n‚µ‚½‚µA–á‚Á‚½‚µA‹A‚é‚¼v
+ã€ã‚¤ãƒãƒ©ã€‘ã€Œã˜ã‚ƒã‚ã€æ¸¡ã—ãŸã—ã€è²°ã£ãŸã—ã€å¸°ã‚‹ãžã€
 
 ;CHR H07F_A R
-#cg ƒqƒiƒ^ hin_1_07F_A ‰E
+#cg ãƒ’ãƒŠã‚¿ hin_1_07F_A å³
 #wipe fade
 
 #voice hine0079
-yƒqƒiƒ^zu‚¨‚§Iv
+ã€ãƒ’ãƒŠã‚¿ã€‘ã€ŒãŠã‰ï¼ã€
 
 ;CHR OFF 
-#cg ƒCƒoƒ‰ clear
+#cg ã‚¤ãƒãƒ© clear
 #wipe fade
 
 ;CHR K01F1B L
-#cg ƒRƒmƒ~ kon_1_01F1B ¶
+#cg ã‚³ãƒŽãƒŸ kon_1_01F1B å·¦
 #wipe fade
 
 #voice kone0064
-yƒRƒmƒ~zu‚¶‚á‚ ‚Ë`v
+ã€ã‚³ãƒŽãƒŸã€‘ã€Œã˜ã‚ƒã‚ã­ã€œã€
 
-u‚ A‚ ‚Ÿccv
+ã€Œã‚ã€ã‚ãâ€¦â€¦ã€
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-Žó‚¯Žæ‚Á‚½‰ÙŽq‚ð•ø‚¦ž‚ñ‚ÅA—’‚Ì‚æ‚¤‚ÉƒGƒ‹ƒt‚½‚¿‚Í‹Ž‚Á‚Ä‚¢‚Á‚½B
+å—ã‘å–ã£ãŸè“å­ã‚’æŠ±ãˆè¾¼ã‚“ã§ã€åµã®ã‚ˆã†ã«ã‚¨ãƒ«ãƒ•ãŸã¡ã¯åŽ»ã£ã¦ã„ã£ãŸã€‚
 
-ucc‚È‚ñ‚¾Aî‚à‚Ö‚Á‚½‚­‚ê‚à‚È‚¢‚ÈB‚Ü‚é‚Å–¾“ú‚à‰ï‚¦‚»‚¤‚ÈŒy‚¢Š´‚¶‚¾‚Á‚½‚¼v
+ã€Œâ€¦â€¦ãªã‚“ã ã€æƒ…ç·’ã‚‚ã¸ã£ãŸãã‚Œã‚‚ãªã„ãªã€‚ã¾ã‚‹ã§æ˜Žæ—¥ã‚‚ä¼šãˆãã†ãªè»½ã„æ„Ÿã˜ã ã£ãŸãžã€
 
-‚ ‚Á‚³‚è‚µ‚½‹Ž‚èÛ‚ÉŽv‚í‚¸‹êÎ‚µ‚Ä‚µ‚Ü‚¤BƒcƒLƒˆ‚à’Þ‚ç‚ê‚½‚Ý‚½‚¢‚ÉÎ‚¢o‚µ‚½B
+ã‚ã£ã•ã‚Šã—ãŸåŽ»ã‚Šéš›ã«æ€ã‚ãšè‹¦ç¬‘ã—ã¦ã—ã¾ã†ã€‚ãƒ„ã‚­ãƒ¨ã‚‚é‡£ã‚‰ã‚ŒãŸã¿ãŸã„ã«ç¬‘ã„å‡ºã—ãŸã€‚
 
 ;CHR T04F C
-#cg ƒcƒLƒˆ tuk_1_04F ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04F ä¸­
 #wipe fade
 
 #voice tuke0416
-yƒcƒLƒˆzu‚Ý‚ñ‚È‚ç‚µ‚¢‚Å‚·B‚Ó‚Ó‚Óv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã¿ã‚“ãªã‚‰ã—ã„ã§ã™ã€‚ãµãµãµã€
 
-‚±‚ê‚Å‚à‚¤‰ï‚¦‚È‚¢‚¾‚ë‚¤‚Æ‚¢‚¤‚Ì‚ÉAŽÀ‚É‚³‚Á‚Ï‚è‚µ‚½‚à‚Ì‚¾B
+ã“ã‚Œã§ã‚‚ã†ä¼šãˆãªã„ã ã‚ã†ã¨ã„ã†ã®ã«ã€å®Ÿã«ã•ã£ã±ã‚Šã—ãŸã‚‚ã®ã ã€‚
 
-‰´‚É‚µ‚Ä‚Ý‚½‚ç‚©‚È‚è‹­—ó‚Èˆêƒ–ŒŽ‚¾‚Á‚½‚Ì‚ÉAƒGƒ‹ƒt‚É‚µ‚Ä‚Ý‚½‚ç’·‚¢’·‚¢¶ŠU‚Ì’†‚Ì‚¿‚å‚Á‚Æ‚µ‚½ˆê–‹‚É‰ß‚¬‚È‚¢‚Ì‚©‚à‚ÈB
+ä¿ºã«ã—ã¦ã¿ãŸã‚‰ã‹ãªã‚Šå¼·çƒˆãªä¸€ãƒ¶æœˆã ã£ãŸã®ã«ã€ã‚¨ãƒ«ãƒ•ã«ã—ã¦ã¿ãŸã‚‰é•·ã„é•·ã„ç”Ÿæ¶¯ã®ä¸­ã®ã¡ã‚‡ã£ã¨ã—ãŸä¸€å¹•ã«éŽãŽãªã„ã®ã‹ã‚‚ãªã€‚
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-u‚ç‚µ‚¢A‚©B‚»‚¤‚©‚à‚Ëv
+ã€Œã‚‰ã—ã„ã€ã‹ã€‚ãã†ã‹ã‚‚ã­ã€
 
-Žc”O‚È‚æ‚¤‚È‚»‚ê‚Å‚æ‚©‚Á‚½‚æ‚¤‚ÈB
+æ®‹å¿µãªã‚ˆã†ãªãã‚Œã§ã‚ˆã‹ã£ãŸã‚ˆã†ãªã€‚
 
 ;CHR T04F C
-#cg ƒcƒLƒˆ tuk_1_04F ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_04F ä¸­
 #wipe fade
 
 #voice tuke0417
-yƒcƒLƒˆzu‚¢‚ÂA’¬‚És‚­‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã„ã¤ã€ç”ºã«è¡Œãã§ã™ï¼Ÿã€
 
-u‚¦H@‰´Hv
+ã€Œãˆï¼Ÿã€€ä¿ºï¼Ÿã€
 
 #voice tuke0418
-yƒcƒLƒˆzu‚Å‚·B•Ê‚ê‚àÏ‚ñ‚¾‚µA‚»‚ë‚»‚ëƒ_[ƒNƒGƒ‹ƒt’T‚µ‚És‚­‚Å‚·v
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œã§ã™ã€‚åˆ¥ã‚Œã‚‚æ¸ˆã‚“ã ã—ã€ãã‚ãã‚ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•æŽ¢ã—ã«è¡Œãã§ã™ã€
 
-u‚»‚Á‚©AƒcƒLƒˆ‚à‚à‚¤s‚Á‚¿‚á‚¤‚Ì‚©v
+ã€Œãã£ã‹ã€ãƒ„ã‚­ãƒ¨ã‚‚ã‚‚ã†è¡Œã£ã¡ã‚ƒã†ã®ã‹ã€
 
 ;CHR T09F C
-#cg ƒcƒLƒˆ tuk_1_09F ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_09F ä¸­
 #wipe fade
 
 #voice tuke0419
-yƒcƒLƒˆzu’¬As‚©‚È‚¢‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œç”ºã€è¡Œã‹ãªã„ã§ã™ï¼Ÿã€
 
-ucc‚¤`‚ñA­‚µ”Y‚ñ‚Å‚é‚ñ‚¾v
+ã€Œâ€¦â€¦ã†ã€œã‚“ã€å°‘ã—æ‚©ã‚“ã§ã‚‹ã‚“ã ã€
 
 #voice tuke0420
-yƒcƒLƒˆzu”Y‚ñ‚Å‚éA‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ‚©ã‚“ã§ã‚‹ã€ã§ã™ï¼Ÿã€
 
-u‚¤‚ñccŽÀ‚Íccv
+ã€Œã†ã‚“â€¦â€¦å®Ÿã¯â€¦â€¦ã€
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-‰´‚ÍƒcƒLƒˆ‚Éæ“ú‚©‚ç”Y‚ñ‚Å‚¢‚é”­’[‚Æ‚È‚Á‚½o—ˆŽ–‚ð˜b‚µ‚½B
+ä¿ºã¯ãƒ„ã‚­ãƒ¨ã«å…ˆæ—¥ã‹ã‚‰æ‚©ã‚“ã§ã„ã‚‹ç™ºç«¯ã¨ãªã£ãŸå‡ºæ¥äº‹ã‚’è©±ã—ãŸã€‚
 
-ƒCƒoƒ‰‚½‚¿‚É“n‚»‚¤‚ÆéS•Ê‚Ì‚¨‰ÙŽq‚ð”ƒ‚¢‚É‘º‚Ö–ß‚Á‚½Žž‚ÉAŽ‚¿‚©‚¯‚ç‚ê‚½˜b‚¾B
+ã‚¤ãƒãƒ©ãŸã¡ã«æ¸¡ãã†ã¨é¤žåˆ¥ã®ãŠè“å­ã‚’è²·ã„ã«æ‘ã¸æˆ»ã£ãŸæ™‚ã«ã€æŒã¡ã‹ã‘ã‚‰ã‚ŒãŸè©±ã ã€‚
 
-cc‘º‚ÉA–ß‚Á‚Ä—~‚µ‚¢A‚ÆB
+â€¦â€¦æ‘ã«ã€æˆ»ã£ã¦æ¬²ã—ã„ã€ã¨ã€‚
 
-–‚•¨‚ªo‚é‚Æ‚¢‚¤‚±‚Æ‚Åî¨‚ª•sˆÀ’è‚É‚È‚èAã‚©‚ç‚Ì‚¨’B‚µ‚à’©—ß•é‰ü‚Ì‚²Žž¢‚¾B
+é­”ç‰©ãŒå‡ºã‚‹ã¨ã„ã†ã“ã¨ã§æƒ…å‹¢ãŒä¸å®‰å®šã«ãªã‚Šã€ä¸Šã‹ã‚‰ã®ãŠé”ã—ã‚‚æœä»¤æš®æ”¹ã®ã”æ™‚ä¸–ã ã€‚
 
-–³˜_–‚•¨‚ªo‚é‚Æ‰\‚È‚Ì‚ÉAÌ‚©‚ç‰ö•¨‚ªo‚é‚Æ•]”»‚ÌX‚Ö‰´‚ðZ‚Ü‚í‚¹‚é‚±‚Æ‚Í‚Å‚«‚È‚¢A‚Æ‘º‚Ì˜A’†‚ÍŒ¾‚Á‚½B
+ç„¡è«–é­”ç‰©ãŒå‡ºã‚‹ã¨å™‚ãªã®ã«ã€æ˜”ã‹ã‚‰æ€ªç‰©ãŒå‡ºã‚‹ã¨è©•åˆ¤ã®æ£®ã¸ä¿ºã‚’ä½ã¾ã‚ã›ã‚‹ã“ã¨ã¯ã§ããªã„ã€ã¨æ‘ã®é€£ä¸­ã¯è¨€ã£ãŸã€‚
 
-‚¾‚ª‚»‚ê‚ÍŒš‘O‚ÅAŒ¾—t‚Ì’[X‚©‚ç—LŽ–‚É‚È‚ê‚Î’jŽè‚ª•K—v‚Æ‚È‚é‚±‚Æ‚ðŒ©‰z‚µ‚Ä‚Ì˜b‚Å‚ ‚é‚±‚Æ‚Í“`‚í‚Á‚½B
+ã ãŒãã‚Œã¯å»ºå‰ã§ã€è¨€è‘‰ã®ç«¯ã€…ã‹ã‚‰æœ‰äº‹ã«ãªã‚Œã°ç”·æ‰‹ãŒå¿…è¦ã¨ãªã‚‹ã“ã¨ã‚’è¦‹è¶Šã—ã¦ã®è©±ã§ã‚ã‚‹ã“ã¨ã¯ä¼ã‚ã£ãŸã€‚
 
-u‚»‚ê‚©‚çA•¶Í‚Å’Ê’m‚³‚ê‚é–½—ß‚ð“Ç‚ÝA—‰ð‚Å‚«‚é‚à‚Ì‚ª•K—v‚Æ‚È‚é‚¾‚ë‚¤A‚Á‚Äv
+ã€Œãã‚Œã‹ã‚‰ã€æ–‡ç« ã§é€šçŸ¥ã•ã‚Œã‚‹å‘½ä»¤ã‚’èª­ã¿ã€ç†è§£ã§ãã‚‹ã‚‚ã®ãŒå¿…è¦ã¨ãªã‚‹ã ã‚ã†ã€ã£ã¦ã€
 
-¡‚Ü‚Å‚Í‘º’·‚È‚Ç‚Ì”N‚©‚³‚Ì˜A’†‚ª‚»‚Ì–ð–Ú‚ð’S‚Á‚Ä‚«‚½B
+ä»Šã¾ã§ã¯æ‘é•·ãªã©ã®å¹´ã‹ã•ã®é€£ä¸­ãŒãã®å½¹ç›®ã‚’æ‹…ã£ã¦ããŸã€‚
 
-‚±‚ê‚Ü‚Å‚Í”Nv‚â‰½‚©‚Ì˜b‚ªŽå‚¾‚Á‚½‚©‚çA”Žš‚³‚¦“Ç‚ß‚ê‚Î‚È‚ñ‚Æ‚©‚È‚Á‚½‚Ì‚¾B
+ã“ã‚Œã¾ã§ã¯å¹´è²¢ã‚„ä½•ã‹ã®è©±ãŒä¸»ã ã£ãŸã‹ã‚‰ã€æ•°å­—ã•ãˆèª­ã‚ã‚Œã°ãªã‚“ã¨ã‹ãªã£ãŸã®ã ã€‚
 
-‚µ‚©‚µA‰½‚©‚ª‹N‚«‚é‚Æ‚È‚ê‚Î–½—ß‚à•¡ŽG‚È‚à‚Ì‚É‚È‚èA–½—ß‘‚Í“ï‚µ‚¢Œ¾—t‚Å‹L‚³‚ê‚é‚¾‚ë‚¤B‚»‚¤‚È‚é‚Æ‘º’·‚Å‚à“Ç‚Ý‰ð‚­‚Ì‚Í‚¿‚å‚Á‚Æ“ï‚µ‚¢B
+ã—ã‹ã—ã€ä½•ã‹ãŒèµ·ãã‚‹ã¨ãªã‚Œã°å‘½ä»¤ã‚‚è¤‡é›‘ãªã‚‚ã®ã«ãªã‚Šã€å‘½ä»¤æ›¸ã¯é›£ã—ã„è¨€è‘‰ã§è¨˜ã•ã‚Œã‚‹ã ã‚ã†ã€‚ãã†ãªã‚‹ã¨æ‘é•·ã§ã‚‚èª­ã¿è§£ãã®ã¯ã¡ã‚‡ã£ã¨é›£ã—ã„ã€‚
 
-–@‚É‚Ü‚Â‚í‚é˜b‚Ü‚Å—‰ð‚Å‚«‚é‚Ù‚ÇŒ«‚¢lŠÔ‚È‚ñ‚Ä‰´‚Ì‘º‚É‚Í‚»‚¤‚Í‚¢‚È‚¢‚Ì‚¾B
+æ³•ã«ã¾ã¤ã‚ã‚‹è©±ã¾ã§ç†è§£ã§ãã‚‹ã»ã©è³¢ã„äººé–“ãªã‚“ã¦ä¿ºã®æ‘ã«ã¯ãã†ã¯ã„ãªã„ã®ã ã€‚
 
-‚»‚±‚Å‰´‚Ìo”Ô‚É‚È‚é‚Æ‚¢‚¤‚í‚¯‚¾B‚³‚ñ‚´‚ñ–{‚Î‚©‚è“Ç‚Ý‚½‚ª‚é’’×‚µˆµ‚¢‚µ‚½‚­‚¹‚ÉA‚±‚ñ‚ÈŽž‚É‚Í—Š‚Á‚Ä‚±‚æ‚¤‚Æ‚¢‚¤‚Ì‚¾‚©‚çŸŽè‚È‚à‚Ì‚¾B
+ãã“ã§ä¿ºã®å‡ºç•ªã«ãªã‚‹ã¨ã„ã†ã‚ã‘ã ã€‚ã•ã‚“ã–ã‚“æœ¬ã°ã‹ã‚Šèª­ã¿ãŸãŒã‚‹ç©€æ½°ã—æ‰±ã„ã—ãŸãã›ã«ã€ã“ã‚“ãªæ™‚ã«ã¯é ¼ã£ã¦ã“ã‚ˆã†ã¨ã„ã†ã®ã ã‹ã‚‰å‹æ‰‹ãªã‚‚ã®ã ã€‚
 
-uƒcƒLƒˆ‚Ì‚±‚Æ‚àAˆê‚É‘º‚É˜A‚ê‚Ä‚­‚ê‚Î‚¢‚¢‚ÆŒ¾‚í‚ê‚Ä‚Í‚¢‚é‚ªA‚Ü‚³‚©³‘Ì‚ð‚Î‚ç‚·‚í‚¯‚É‚à‚¢‚©‚È‚¢‚µ‚Èv
+ã€Œãƒ„ã‚­ãƒ¨ã®ã“ã¨ã‚‚ã€ä¸€ç·’ã«æ‘ã«é€£ã‚Œã¦ãã‚Œã°ã„ã„ã¨è¨€ã‚ã‚Œã¦ã¯ã„ã‚‹ãŒã€ã¾ã•ã‹æ­£ä½“ã‚’ã°ã‚‰ã™ã‚ã‘ã«ã‚‚ã„ã‹ãªã„ã—ãªã€
 
-‚³‚·‚ª‚É‚¸‚Á‚Æ‘º‚É‘ØÝ‚·‚é‚Æ‚È‚ê‚ÎA‚¢‚Â‚Ü‚Å‚àë‚Á‚½Ž¨‚ð‰B‚µ‹‚¹‚é‚±‚Æ‚Í‚Å‚«‚È‚¢‚¾‚ë‚¤B
+ã•ã™ãŒã«ãšã£ã¨æ‘ã«æ»žåœ¨ã™ã‚‹ã¨ãªã‚Œã°ã€ã„ã¤ã¾ã§ã‚‚å°–ã£ãŸè€³ã‚’éš ã—é‚ã›ã‚‹ã“ã¨ã¯ã§ããªã„ã ã‚ã†ã€‚
 
-‚»‚êˆÈ‘O‚ÉƒcƒLƒˆ‚Íƒ_[ƒNƒGƒ‹ƒt‚ð’T‚µ‚És‚­‚ÆŒ¾‚Á‚Ä‚¢‚é‚Ì‚¾‚µB
+ãã‚Œä»¥å‰ã«ãƒ„ã‚­ãƒ¨ã¯ãƒ€ãƒ¼ã‚¯ã‚¨ãƒ«ãƒ•ã‚’æŽ¢ã—ã«è¡Œãã¨è¨€ã£ã¦ã„ã‚‹ã®ã ã—ã€‚
 
 ;CHR T05F_L C
-#cg ƒcƒLƒˆ tuk_1_05F_L ’†
+#cg ãƒ„ã‚­ãƒ¨ tuk_1_05F_L ä¸­
 #wipe fade
 
 #voice tuke0421
-yƒcƒLƒˆzuƒjƒ“ƒQƒ“‚³‚ñA‘º‚Ìl‚½‚¿‚É•K—v‚Æ‚³‚ê‚Ä‚¢‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œãƒ‹ãƒ³ã‚²ãƒ³ã•ã‚“ã€æ‘ã®äººãŸã¡ã«å¿…è¦ã¨ã•ã‚Œã¦ã„ã‚‹ã§ã™ï¼Ÿã€
 
-uŸŽè‚È˜b‚¾‚¯‚Ç‚³ccv
+ã€Œå‹æ‰‹ãªè©±ã ã‘ã©ã•â€¦â€¦ã€
 
-—˜—p‰¿’l‚ª‚ ‚é‚Æ”F‚ß‚ç‚ê‚é‚±‚Æ‚ð•K—v‚Æ‚³‚ê‚Ä‚¢‚é‚Æ‚¢‚¤‚Ì‚È‚çA‚»‚Ì’Ê‚è‚È‚ñ‚¾‚ë‚¤B
+åˆ©ç”¨ä¾¡å€¤ãŒã‚ã‚‹ã¨èªã‚ã‚‰ã‚Œã‚‹ã“ã¨ã‚’å¿…è¦ã¨ã•ã‚Œã¦ã„ã‚‹ã¨ã„ã†ã®ãªã‚‰ã€ãã®é€šã‚Šãªã‚“ã ã‚ã†ã€‚
 
 #voice tuke0422
-yƒcƒLƒˆzu‘º‚É–ß‚é‚Å‚·Hv
+ã€ãƒ„ã‚­ãƒ¨ã€‘ã€Œæ‘ã«æˆ»ã‚‹ã§ã™ï¼Ÿã€
 
-ƒcƒLƒˆ‚ªŽñ‚ð‚©‚µ‚°‚Ä•·‚¢‚Ä‚«‚½B
+ãƒ„ã‚­ãƒ¨ãŒé¦–ã‚’ã‹ã—ã’ã¦èžã„ã¦ããŸã€‚
 
-;C³ MCS
+;ä¿®æ­£ MCS
 ;CHR OFF 
 #cg all clear
 #wipe fade
 
-cc‰´‚¾‚Á‚Ä‘º‚É‘Î‚µŽv‚¤‚Æ‚±‚ë‚ª‚È‚¢‚í‚¯‚¶‚á‚È‚¢B‚»‚ê‚Í‚Ç‚¿‚ç‚ðŒü‚¢‚Ä‚à— • ‚È‹CŽ‚¿‚ÅccB
+â€¦â€¦ä¿ºã ã£ã¦æ‘ã«å¯¾ã—æ€ã†ã¨ã“ã‚ãŒãªã„ã‚ã‘ã˜ã‚ƒãªã„ã€‚ãã‚Œã¯ã©ã¡ã‚‰ã‚’å‘ã„ã¦ã‚‚è£è…¹ãªæ°—æŒã¡ã§â€¦â€¦ã€‚
 
-”Þ‚ç‚ª‰´‚ð”F‚ß‚Ä‚­‚ê‚Ä‚¢‚é‚Ì‚È‚ç‚ÎA–ß‚Á‚Ä‚à‚¢‚¢‚©‚ÆŽv‚¤‹CŽ‚¿‚àA‚¢‚Ü‚³‚ç‚È‚ñ‚¾‚Æ‚¢‚¤‹CŽ‚¿‚à‚ ‚éB
+å½¼ã‚‰ãŒä¿ºã‚’èªã‚ã¦ãã‚Œã¦ã„ã‚‹ã®ãªã‚‰ã°ã€æˆ»ã£ã¦ã‚‚ã„ã„ã‹ã¨æ€ã†æ°—æŒã¡ã‚‚ã€ã„ã¾ã•ã‚‰ãªã‚“ã ã¨ã„ã†æ°—æŒã¡ã‚‚ã‚ã‚‹ã€‚
 
-‚»‚µ‚ÄAV‚½‚É“¾‚½ŠwŽÒ‚Æ‚¢‚¤–²B
+ãã—ã¦ã€æ–°ãŸã«å¾—ãŸå­¦è€…ã¨ã„ã†å¤¢ã€‚
 
-‰´‚ÍccB
+ä¿ºã¯â€¦â€¦ã€‚
 
-;‘I‘ðŽˆ”­¶
+;é¸æŠžè‚¢ç™ºç”Ÿ
 #select a b
-‚`F‘º‚É–ß‚é
-‚aF‘º‚É‚Í–ß‚ç‚È‚¢
+ï¼¡ï¼šæ‘ã«æˆ»ã‚‹
+ï¼¢ï¼šæ‘ã«ã¯æˆ»ã‚‰ãªã„
 
 #label a
 #next tbadend01
 
-;‚`‚ð‘I‘ðËwtbadend01x‚ÖƒWƒƒƒ“ƒv
-;‚a‚ð‘I‘ðËwƒcƒLƒˆEND”»’èx‚ÖƒWƒƒƒ“ƒv
+;ï¼¡ã‚’é¸æŠžâ‡’ã€Žtbadend01ã€ã¸ã‚¸ãƒ£ãƒ³ãƒ—
+;ï¼¢ã‚’é¸æŠžâ‡’ã€Žãƒ„ã‚­ãƒ¨ENDåˆ¤å®šã€ã¸ã‚¸ãƒ£ãƒ³ãƒ—
 
 #label b
 #if f4>=7 thappyend:
 #if f4<=6 tbadend02:
 
-;ƒcƒLƒˆEND”»’è
-;‚`FDŠ´“x‚ª7ˆÈã
-;‚aFDŠ´“x‚ª6ˆÈ‰º
+;ãƒ„ã‚­ãƒ¨ENDåˆ¤å®š
+;ï¼¡ï¼šå¥½æ„Ÿåº¦ãŒ7ä»¥ä¸Š
+;ï¼¢ï¼šå¥½æ„Ÿåº¦ãŒ6ä»¥ä¸‹
 
-;‚`‚ð‘I‘ðËwthappyendx‚ÖƒWƒƒƒ“ƒv
-;‚a‚ð‘I‘ðËwtbadend02x‚ÖƒWƒƒƒ“ƒv
+;ï¼¡ã‚’é¸æŠžâ‡’ã€Žthappyendã€ã¸ã‚¸ãƒ£ãƒ³ãƒ—
+;ï¼¢ã‚’é¸æŠžâ‡’ã€Žtbadend02ã€ã¸ã‚¸ãƒ£ãƒ³ãƒ—

@@ -1,342 +1,342 @@
 
 
-;BGMch2 amb004 ��~
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb003 �Đ�
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR T10F4 C
-#cg �c�L�� tuk_1_10f4 ��
+#cg ツキヨ tuk_1_10f4 中
 #wipe fade
 
 #voice tikb0294
-�y�c�L���z�u�͂����`�v
+【ツキヨ】「はうぅ〜」
 
-�u����H�v
+「あれ？」
 
 ;CHR T10F3 C
-#cg �c�L�� tuk_1_10f3 ��
+#cg ツキヨ tuk_1_10f3 中
 #wipe fade
 
 #voice tikb0295
-�y�c�L���z�u���c�c�v
+【ツキヨ】「っ……」
 
-�u�܂��A���̕z�𓪂��炩�Ԃ�������āA�ǂ������́H�v
+「また、その布を頭からかぶっちゃって、どうしたの？」
 
-�������A�Ȃ񂾂���������ł���悤�Ɍ����邵�B
+しかも、なんだか落ち込んでいるように見えるし。
 
-�u�܂����A�C�o���ɈӒn���Ȃ��Ƃ����ꂽ�H�v
+「まさか、イバラに意地悪なことをされた？」
 
-���̎���Ƀc�L���͂Ղ�Ղ�Ǝ�����ɐU�����B
+俺の質問にツキヨはぷるぷると首を横に振った。
 
 ;CHR T10F4 C
-#cg �c�L�� tuk_1_10f4 ��
+#cg ツキヨ tuk_1_10f4 中
 #wipe fade
 
 #voice tikb0296
-�y�c�L���z�u�c�c�ł��Ȃ������A�ł��v
+【ツキヨ】「……できなかった、です」
 
-�u��A�����H�v
+「ん、何が？」
 
 #voice tikb0297
-�y�c�L���z�u�����Ŕ��̖сA����Ȃ������ł��v
+【ツキヨ】「自分で髪の毛、縛れなかったです」
 
-�u�����A�����������ƁB����Ă����邩�炨���Łv
+「あぁ、そういうこと。やってあげるからおいで」
 
 ;CHR T10F3 C
-#cg �c�L�� tuk_1_10f3 ��
+#cg ツキヨ tuk_1_10f3 中
 #wipe fade
 
 #voice tikb0298
-�y�c�L���z�u�����A�ł��H�v
+【ツキヨ】「いい、です？」
 
-�u���̂��炢�������邱�ƂȂ���v
+「そのぐらい遠慮することないよ」
 
 ;CHR T10F2 C
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 中
 #wipe fade
 
-���Ԃ��Ă���z���Ƃ��Ă��炤�ƁA�c�L���̔��̖т͂����Ⴎ����ɂȂ��Ă��܂��Ă����B
+かぶっている布をとってもらうと、ツキヨの髪の毛はぐしゃぐしゃになってしまっていた。
 
-�����炭�����łǂ��ɂ����悤�ƕ����������ʂ�����Ȃ񂾂낤�B
+おそらく自分でどうにかしようと奮闘した結果がこれなんだろう。
 
-�u���ɗ��݂ɗ���΂悩�����̂Ɂv
+「俺に頼みに来ればよかったのに」
 
 #voice tikb0299
-�y�c�L���z�u���A���߂�Ȃ����ł��v
+【ツキヨ】「ご、ごめんなさいです」
 
-�u�ʂɎӂ�K�v�͂ǂ��ɂ��Ȃ����ǁv
+「別に謝る必要はどこにもないけど」
 
-��΂��Ȃ��炭���������Ă�����Ԃ��A�c�L���͋��k�����l�q�Őg�������点�Ă���B
+苦笑しながらくしけずってあげる間も、ツキヨは恐縮した様子で身を強張らせている。
 
-�u�����A������Ɨ��܂�������Ă�Ȃ��v
+「ありゃ、ちょっと絡まっちゃってるなぁ」
 
 #voice tikb0300
-�y�c�L���z�u���߂�Ȃ����ł��v
+【ツキヨ】「ごめんなさいです」
 
-�u�ӂ�Ȃ��Ă������ǁA����ɂ������񂶂�Ȃ��H�v
+「謝らなくていいけど、これ痛かったんじゃない？」
 
 ;CHR T10F1 C
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 中
 #wipe fade
 
 #voice tikb0301
-�y�c�L���z�u�͂��ł��B���ɞ������Ȃ��Ȃ������������A����̂�����߂��ł��v
+【ツキヨ】「はいです。上手に梳かせなくなっちゃったから、縛るのあきらめたです」
 
-�u�������A����ł܂��z�𓪂��炩�Ԃ��Ă��񂾂ˁv
+「そうか、それでまた布を頭からかぶってたんだね」
 
 ;CHR T10F2 C
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 中
 #wipe fade
 
 #voice tikb0302
-�y�c�L���z�u������������z��������̂ɁA���ɂł��Ȃ������ł��c�c�v
+【ツキヨ】「せっかく飾り布もらったのに、上手にできなかったです……」
 
-�u����Ȃ������͎d���Ȃ���B�������т��������Ȃ牽�x�ł���������Ă����邵�A�����ł�肽���Ȃ���K����΂������v
+「慣れないうちは仕方ないよ。髪を結びたいだけなら何度でも俺がやってあげるし、自分でやりたいなら練習すればいいさ」
 
 #voice tikb0303
-�y�c�L���z�u�͂��A�ł��v
+【ツキヨ】「はい、です」
 
-���̕������ڂƂ��Ȃ�΂���������ꂽ���̂��B
+俺の方も二回目ともなればすっかり手馴れたものだ。
 
-�u�ق�A�ł����v
+「ほら、できた」
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0304
-�y�c�L���z�u���肪�Ƃ��ł��v
+【ツキヨ】「ありがとうです」
 
-����ꂽ���G���m���߂Ă���̂��A�n���K����U��悤�ɁA�c�L���͌y������U�����B
+縛られた感触を確かめているのか、馬が尻尾を振るように、ツキヨは軽く頭を振った。
 
-�ӂƊԋ߂Ō��Ă�����A���Ƃ����j�ɐG�ꂽ���Ȃ��āA�l�����w�̊֐߂ł����ƕ��ł��B
+ふと間近で見ていたら、つるりとした頬に触れたくなって、人差し指の関節でそっと撫でた。
 
 ;CHR T06F_P C
-#cg �c�L�� tuk_1_06f_p ��
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 
 #voice tikb0305
-�y�c�L���z�u�Ђ����I�H�v
+【ツキヨ】「ひゃんっ！？」
 
-�c�L���̖j�͌����ڒʂ�ɃX�x�X�x�Ɗ��炩���B
+ツキヨの頬は見た目通りにスベスベと滑らかだ。
 
-�u�������A�Y��Ȕ�����ȁv
+「しかし、綺麗な肌だよな」
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 
 #voice tikb0306
-�y�c�L���z�u���A�Y��c�c�ł��H�v
+【ツキヨ】「き、綺麗……です？」
 
-�c�L���͉��̌��t�ɁA����ȏ�Ȃ��Ƃ����قǂɖڂ��ۂ������B
+ツキヨは俺の言葉に、これ以上ないというほどに目を丸くした。
 
-�u����B����Ȃ��āA���ׂ��ׂ��ĂāA���ߍׂ₩�ŁA�Y��Ȋ��F�����Ă�v
+「うん。傷一つなくて、すべすべしてて、きめ細やかで、綺麗な褐色をしてる」
 
 #voice tikb0307
-�y�c�L���z�u�Y��A�ł��H�@�C���������Ȃ��ł��H�v
+【ツキヨ】「綺麗、です？　気持ち悪くないです？」
 
-�u�C���������H�@�ǂ����āH�v
+「気持ち悪い？　どうして？」
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0308
-�y�c�L���z�u�G���t�́A���������Ă�ł��B�l�Ԃ��������ł��B�_�[�N�G���t�̔��͍����ł��v
+【ツキヨ】「エルフは、白い肌してるです。人間も肌白いです。ダークエルフの肌は黒いです」
 
-�u������A�C�����������Č����Ă����Ă��ƁH�v
+「だから、気持ち悪いって言われてたってこと？」
 
 #voice tikb0309
-�y�c�L���z�u�ł��c�c�v
+【ツキヨ】「です……」
 
-������A�ƃc�L�����������B
+こくり、とツキヨは頷いた。
 
-�u�������ȁH�@���̓C�o����R�m�~�ƐF�͈���Ă��A�c�L���̔����ƂĂ��Y�킾�Ǝv�����ǁv
+「そうかな？　俺はイバラやコノミと色は違っても、ツキヨの肌もとても綺麗だと思うけど」
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 
 #voice tikb0310
-�y�c�L���z�u�͂��c�c�v
+【ツキヨ】「はぅ……」
 
-�u�l�Ԃ��ˁA�����Ɠ���������荻���̖��͔��̐F�������Ȃ�炵����B���̐l�����͉�������肸���Ə����C��ɓK���Ă�񂾂������v
+「人間もね、もっと南方だったり砂漠の民は肌の色が黒くなるらしいよ。その人たちは俺たちよりずっと暑い気候に適してるんだそうだ」
 
 #voice tikb0311
-�y�c�L���z�u�����C��A�ł��H�v
+【ツキヨ】「暑い気候、です？」
 
-�u�����B�����̂ɋ������Ă��Ƃ́A���z�Ɉ�����Ă�񂶂�Ȃ����H�v
+「そう。暑いのに強いってことは、太陽に愛されてるんじゃないか？」
 
 #voice tikb0312
-�y�c�L���z�u������āc�c�ł��H�v
+【ツキヨ】「愛されて……です？」
 
-�u�_�[�N�G���t�̂��Ƃ̓G���t�̂��Ƃ����A�����Ɖ����킩���ĂȂ��悤�����ǁA�ǂ����łɑ������̂炵���ˁv
+「ダークエルフのことはエルフのことよりも、もっと何もわかってないようだけど、どうも闇に属すものらしいね」
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0313
-�y�c�L���z�u�͂��A�ł��B�����ɋ߂����āA����ꂽ�ł��v
+【ツキヨ】「はい、です。魔族に近いって、言われたです」
 
-�u�Ȃ�قǁA�����ɋ߂��B�����牘���A���v
+「なるほど、魔族に近い。だから汚い、か」
 
 #voice tikb0314
-�y�c�L���z�u�͂��ł��v
+【ツキヨ】「はいです」
 
-�h���L�����h�����̂��A�c�L���͔߂������Ȋ�ł�������������B
+辛い記憶が蘇ったのか、ツキヨは悲しそうな顔でこくりと頷いた。
 
-�u�����ɋ߂����牘�����Ă������ǂ��A�_�[�N�G���t�͖�������Ȃ��񂾂�H�v
+「魔族に近いから汚いっていうけどさ、ダークエルフは魔族じゃないんだろ？」
 
 #voice tikb0315
-�y�c�L���z�u�͂��A�ł��v
+【ツキヨ】「はい、です」
 
-�u����Ɉł��Ă���ȂɈ������̂��ȁH�v
+「それに闇ってそんなに悪いものかな？」
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 
 #voice tikb0316
-�y�c�L���z�u�ӂ��c�c�H�v
+【ツキヨ】「ふぇ……？」
 
-�u�ł��Ȃ�������A�l�Ԃ͂������A�����������x�߂Ȃ�����H�@���΂��肪���������Ĉł��Ȃ������ᐶ���Ă����Ȃ��񂶂�Ȃ��H�v
+「闇がなかったら、人間はもちろん植物も動物も休めないだろ？　光ばかりがあったって闇もなくっちゃ生きていけないんじゃない？」
 
 #voice tikb0317
-�y�c�L���z�u�ł��Ȃ�����c�c�v
+【ツキヨ】「闇もなくちゃ……」
 
-�u������K�������łɑ�������̂������Ƃ͌���Ȃ��Ǝv���񂾂�ˁv
+「だから必ずしも闇に属するものが悪いとは限らないと思うんだよね」
 
 #voice tikb0318
-�y�c�L���z�u�����Ƃ́c�c����Ȃ��c�c�v
+【ツキヨ】「悪いとは……限らない……」
 
-�u�_�[�N�G���t�͈łɑ�������̂����Č�����Ȃ�A�c�L���̂��̔��̐F�́A�łɈ�����Ă���؋��Ȃ񂶂�Ȃ����ȁv
+「ダークエルフは闇に属するものだって言うんなら、ツキヨのその肌の色は、闇に愛されている証拠なんじゃないかな」
 
 #voice tikb0319
-�y�c�L���z�u�łɁc�c������āc�c�v
+【ツキヨ】「闇に……愛されて……」
 
-�u����A�����Ƃ������v
+「うん、きっとそうだ」
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0320
-�y�c�L���z�u���ƁA�����ł��v
+【ツキヨ】「だと、いいです」
 
 #voice tikb0321
-�y�c�L���z�u���Ō����āA�����ł��A�����A�v���Ă��ł��B������̌��������ł��v
+【ツキヨ】「里で言われて、自分でも、汚い、思ってたです。見られるの嫌だったです」
 
-�u�������B����ł����Ƃ��̕z�Ŕ��𕢂��B���Ă����񂾂ȁv
+「そっか。それでずっとこの布で肌を覆い隠していたんだな」
 
 #voice tikb0322
-�y�c�L���z�u�͂��A�ł��B����ƊF�A���Ȋ炷��ł��B������A�ڂɐG��Ȃ��悤�Ɂc�c���Ă��ł��v
+【ツキヨ】「はい、です。見ると皆、嫌な顔するです。だから、目に触れないように……してたです」
 
-�u���������Ȃ��ȁv
+「もったいないな」
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 
 #voice tikb0323
-�y�c�L���z�u���������c�c�Ȃ��ł��H�v
+【ツキヨ】「もったい……ないです？」
 
-�u����A���������Ȃ��B����ȂɊ��炩���Y��Ȕ������Ă���̂ɁA�����ƕ����B���Ă��Ȃ�Ă��������Ȃ��v
+「うん、もったいない。こんなに滑らかで綺麗な肌をしているのに、ずっと覆い隠してたなんてもったいない」
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0324
-�y�c�L���z�u�ӂӁc�c�v
+【ツキヨ】「ふふ……」
 
-���̌��t�Ƀc�L���͊��������ȏ΂݂����ڂ����B
+俺の言葉にツキヨは嬉しそうな笑みをこぼした。
 
 #voice tikb0325
-�y�c�L���z�u����ȕ��Ɍ����Ă�������́A���߂Ăł��B�J�߂Ă��炦��́A�s�v�c�ł��v
+【ツキヨ】「そんな風に言ってもらったの、初めてです。褒めてもらえるの、不思議です」
 
-�u�s�v�c�Ɏv�����Ƃ͂Ȃ���B�c�L���͉����Ȃ񂩂Ȃ��B�Y�킾��B�C�o����R�m�~��A�q�i�^�Ƃ͈Ⴄ���ǁA����͈Ⴄ���Ă����ł����ė���Ă�킯����Ȃ��v
+「不思議に思うことはないよ。ツキヨは汚くなんかない。綺麗だよ。イバラやコノミや、ヒナタとは違うけど、それは違うってだけでけして劣ってるわけじゃない」
 
 #voice tikb0326
-�y�c�L���z�u�����ƁA�C�o���{��ł��v
+【ツキヨ】「きっと、イバラ怒るです」
 
-�u�����ˁB�ł��A���͖{���ɂ����v������v
+「かもね。でも、俺は本当にそう思うから」
 
 #voice tikb0327
-�y�c�L���z�u�c�c���肪�Ƃ��A�ł��v
+【ツキヨ】「……ありがとう、です」
 
-�u���̕z���A�d���Ă��������׍H���Â��Ă邵�������̂�����A�������B�����߂Ɏg���̂����������Ȃ���v
+「この布も、仕立てもいいし細工も凝ってるしいいものだから、何かを隠すために使うのももったいないよ」
 
 #voice tikb0328
-�y�c�L���z�u�͂��A�ł��v
+【ツキヨ】「はい、です」
 
-�u�B�������A�c�L���̉��₩�Ȕ���������������Ƃ��̕z�ɂ������Ă�Ǝv���ȁB���̐F�ɂ��f���Ă悭�������Ă�v
+「隠すよりも、ツキヨの艶やかな肌を飾る方がずっとこの布にも向いてると思うな。肌の色にも映えてよく似合ってる」
 
 ;CHR T05F_P C
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 
 #voice tikb0329
-�y�c�L���z�u�������Ă�c�c�ł��H�v
+【ツキヨ】「似合ってる……です？」
 
-�u����A�������������Ă�B�c�L���͂����Ǝ��M�������Ă������Ǝv���ȁv
+「うん、すごく似合ってる。ツキヨはもっと自信を持ってもいいと思うな」
 
 #voice tikb0330
-�y�c�L���z�u���M�c�c�ł��H�v
+【ツキヨ】「自信……です？」
 
-�u����A���M�B�c�L���͊�p�����A�����ڂ����Ă����ďX���Ȃ񂩂Ȃ��B�ނ���A�l�Ԃ̉����猩��΂������Y�킾�Ǝv����v
+「うん、自信。ツキヨは器用だし、見た目だってけして醜くなんかない。むしろ、人間の俺から見ればすごく綺麗だと思うよ」
 
 #voice tikb0331
-�y�c�L���z�u�͂�c�c�v
+【ツキヨ】「はわ……」
 
-�u������A���M�������ď΂��Ă��Ȃ�B���̂ق��������Ƃ������Y��Ɍ����邩��v
+「だから、自信を持って笑っていなよ。そのほうがずっとずっと綺麗に見えるから」
 
 #voice tikb0332
-�y�c�L���z�u�c�L���c�c�Y��A�ł��H�v
+【ツキヨ】「ツキヨ……綺麗、です？」
 
-�u�����v
+「あぁ」
 
 #voice tikb0333
-�y�c�L���z�u�͂�c�c�v
+【ツキヨ】「はわ……」
 
-���̌��t�ɁA�c�L���͑�������ŁA���ꂩ��������Ɗ����������������B
+俺の言葉に、ツキヨは息を飲んで、それからゆっくりと嬉しそうに頷いた。
 
 ;CHR T01F_P C
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 
 #voice tikb0334
-�y�c�L���z�u���M�A���ł��B�撣��A�ł��v
+【ツキヨ】「自信、持つです。頑張る、です」
 
-�u�����A���̈ӋC���v
+「そう、その意気だ」
 
 ;CHR T06F_P C
-#cg �c�L�� tuk_1_06f_p ��
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 
 #voice tikb0335
-�y�c�L���z�u�͂��A�ł��I�v
+【ツキヨ】「はい、です！」
 
-�������񂾃c�L���̊�͂���܂ł��������Ɩ��邭�Ȃ����悤�Ɍ������B
+髪を結んだツキヨの顔はそれまでよりもずっと明るくなったように見えた。
 
-;�c�L���D���x+1
+;ツキヨ好感度+1
 #set f4 f4+1
 
-;b05��
+;b05へ
 #next b05

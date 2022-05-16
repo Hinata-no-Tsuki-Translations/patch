@@ -1,195 +1,195 @@
 
-�u���̂��A������̂���Ȃ��񂾂��A�������炢�݂��Ă��������Ă�������Ȃ����v
+「あのさ、減るものじゃないんだし、少しぐらい貸してあげたっていいじゃないか」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0024
-�y�c�L���z�u���c�c�v
+【ツキヨ】「っ……」
 
-�c�L���̖ڂ��u�Ԍ��J����āA�����Ă����ɂ��܂����Ǝv�����B
+ツキヨの目が瞬間見開かれて、言ってすぐにしまったと思った。
 
-�u���A���A���߂�v
+「あ、ご、ごめん」
 
-�c�L���͉��O������ŕ\����d�������B
+ツキヨは下唇を噛んで表情を硬くした。
 
 #voice tuke0025
-�y�c�L���z�u�킩���Ă��炦�Ȃ��Ȃ�ʂɂ����ł��v
+【ツキヨ】「わかってもらえないなら別にいいです」
 
-�u����A���́c�c�݂��Ă����Ȃ������Ă����̂͂��A��������Ă킯����Ȃ����c�c�v
+「いや、あの……貸してあげなさいっていうのはさ、あげろってわけじゃないし……」
 
 ;CHR T10F1 C
-#cg �c�L�� tuk_1_10f1 ��
+#cg ツキヨ tuk_1_10f1 中
 #wipe fade
 
 #voice tuke0026
-�y�c�L���z�u������A�����ł��B��΂ɗ����Ȃ������ł��v
+【ツキヨ】「だから、いいです。絶対に離さないだけです」
 
-�c�L���͂܂�Ŏ�Ђǂ����؂���󂯂����̂悤�ɁA��w�������Ȃɂ����ۂ������Ă��܂����B
+ツキヨはまるで手ひどい裏切りを受けたかのように、一層かたくなにそっぽを向いてしまった。
 
-���͂⊮�S�Ɏ����̊k�ɕ�������p�����B
+もはや完全に自分の殻に閉じこもる姿勢だ。
 
-�c�c����͌��������ԈႦ���ȁB
+……これは言い方を間違えたな。
 
-�u���L�҂͂������킩���Ă��B������A�݂��Ă�����΂��Č������񂶂�Ȃ����v
+「所有者はもちろんわかってるよ。だから、貸してあげればって言ったんじゃないか」
 
 #voice tuke0027
-�y�c�L���z�u����̓C�o���̂���Ȃ��ł��v
+【ツキヨ】「これはイバラのじゃないです」
 
-�Ȃ��߂Č���������悤�ɂ��A�c�L���͂��͂╷�����������Ȃ��Ƃ����΂���ɁA�z��������������ł��܂��Ă���B
+なだめて言い訳をしようにも、ツキヨはもはや聞く耳を持たないといわんばかりに、布をきつく抱え込んでしまっている。
 
 ;CHR T10F2 C
-#cg �c�L�� tuk_1_10f2 ��
+#cg ツキヨ tuk_1_10f2 中
 #wipe fade
 
 #voice tuke0028
-�y�c�L���z�u�N�ɂ��G�点�����Ȃ��ł��B����͐�΂Ƀc�L���̂��̂ł��v
+【ツキヨ】「誰にも触らせたくないです。これは絶対にツキヨのものです」
 
-���`��A�����܂ŐG�点�����Ȃ��Ă����̂͒P�ɈӒn�ɂȂ��Ă��邾���Ȃ̂�����Ƃ��A�������R������񂾂낤���H
+う〜ん、こうまで触らせたくなっていうのは単に意地になっているだけなのかそれとも、何か理由があるんだろうか？
 
-�������ɂ����܂ő厖�ɂ��Ă�����̂��C�����݂��Ă�����΂Ȃ�āA���_�o�������ȁB
+さすがにここまで大事にしているものを気安く貸してあげればなんて、無神経すぎたな。
 
-����Ă���ƁA�C�o�����C�o���łԂ�ނ���Ă���B
+弱っていると、イバラもイバラでぶんむくれている。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibae0032
-�y�C�o���z�u�j���Q���͋��������痝���ł��Ȃ��̂�������Ȃ����A���L�𗣂ꂽ���̂͏E�����G���t�̂��̂Ȃ񂾂��v
+【イバラ】「ニンゲンは愚かだから理解できないのかもしれないが、所有を離れたものは拾ったエルフのものなんだぞ」
 
-�u����͂������R�m�~�ɕ�������v
+「それはさっきコノミに聞いたよ」
 
 #voice ibae0033
-�y�C�o���z�u����Ȃ�A�{�N�������ȏ��L�҂ƂȂ������Ƃ������ł���͂����v
+【イバラ】「それなら、ボクが正当な所有者となったことも理解できるはずだ」
 
-�u���߂�A����͗����ł��Ȃ��v
+「ごめん、それは理解できない」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibae0034
-�y�C�o���z�u�Ȃ��I�H�v
+【イバラ】「なっ！？」
 
-�u�����āA���͈ꉞ�����Ƃ��̕z�̓c�L���̂��ƔF�����Ă�����v
+「だって、俺は一応ずっとその布はツキヨのだと認識していたよ」
 
 #voice ibae0035
-�y�C�o���z�u���A���ǁc�c�j���Q���̓G���t����Ȃ����I�v
+【イバラ】「け、けど……ニンゲンはエルフじゃないぞ！」
 
-�u�����ǁA���ꏏ�ɕ�炵�Ă�͉̂��������낤�H�@�����������c��ł���҂��F�����Ă���Ȃ�A����̓G���t���F�����Ă���̂ƕς��Ȃ��񂶂�Ȃ��v
+「だけど、今一緒に暮らしてるのは俺たちだろう？　共同生活を営んでいる者が認識しているなら、それはエルフが認識しているのと変わらないんじゃない」
 
 #voice ibae0036
-�y�C�o���z�u���A�����c�c���A����́c�c�v
+【イバラ】「う、うぅ……そ、それは……」
 
-�u����ɁA�z���͍̂��̓c�L���������Ă邶��Ȃ����B��������A����ς�C�o�����珊�L�𗣂�āA���̓c�L���̂��̂ƌ�����񂶂�Ȃ��́H�v
+「それに、布自体は今はツキヨが持ってるじゃないか。そしたら、やっぱりイバラから所有を離れて、今はツキヨのものと言えるんじゃないの？」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibae0037
-�y�C�o���z�u�Ⴄ�I�@�c�L���̓{�N�̎肩�狭���ɒD��������񂾂��I�v
+【イバラ】「違う！　ツキヨはボクの手から強引に奪い取ったんだぞ！」
 
 ;FACE K05F
 #face f_kon_0_05f 94 466
 
 #voice kone0021
-�y�R�m�~�z�u����Ȃ��ƁA�����̂����ꂽ�̂����������ƂȂ����ǁ`�A���������Ȃ�����A���L�����ǂ���ɂ��邩�̊m�F�͂��邾�낤�ˁ`�v
+【コノミ】「そんなこと、したのもされたのも聞いたことないけど〜、もしそうなったら、所有権がどちらにあるかの確認はするだろうね〜」
 
 ;FACE T07F_L
 #face f_tuk_0_07f_l 94 466
 
 #voice tuke0029
-�y�c�L���z�u�C�o���̂���Ȃ��ł��I�@�c�L���̂ł��I�v
+【ツキヨ】「イバラのじゃないです！　ツキヨのです！」
 
-���[��A�܂������ȁB���ꂶ��܂��͂ݍ����ɖ߂肩�˂Ȃ��B
+うーん、まいったな。これじゃまた掴み合いに戻りかねない。
 
-�u���̏ꍇ�A���L���Ăǂ��Ȃ�́H�v
+「その場合、所有権てどうなるの？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K03F R
-#cg �R�m�~ kon_1_03f �E
+#cg コノミ kon_1_03f 右
 #wipe fade
 
 #voice kone0022
-�y�R�m�~�z�u���������ƂȂ�����킩��Ȃ����ǁA�ǂ���̂��̂������Ɏ咣���Ă�����ā`�A�݂�ȂŌ��߂�񂶂�Ȃ����ȁ`�v
+【コノミ】「聞いたことないからわからないけど、どちらのものか両方に主張してもらって〜、みんなで決めるんじゃないかな〜」
 
-�u�c�c���[��B���Ⴀ�A���͂���ς�c�L���̂��̂��Ǝv�����Ȃ��v
+「……うーん。じゃあ、俺はやっぱりツキヨのものだと思うかなぁ」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibae0038
-�y�C�o���z�u�Ȃ�ł���A�j���Q���I�v
+【イバラ】「なんでだよ、ニンゲン！」
 
-�u�ꏏ�ɕ�炵�Ă���͉̂������Ȃ񂾂��A���̃G���t�̔F�؂Ȃ񂩂Ȃ��Ă��A���Ȃ��Ƃ����̏����ɂ����Ă̓c�L���̂��̂��ƌ����Ă��񂶂�Ȃ��H�v
+「一緒に暮らしているのは俺たちなんだし、他のエルフの認証なんかなくても、少なくともこの小屋においてはツキヨのものだと見られてたんじゃない？」
 
 #voice ibae0039
-�y�C�o���z�u�ł��c�c�ł��c�c�v
+【イバラ】「でも……でも……」
 
-�C�o�����ł��ł��ƑʁX�����˂Ă���ƁA�R�m�~���ɂ����Ə΂����B
+イバラがでもでもと駄々をこねていると、コノミがにこっと笑った。
 
 ;CHR K04F R
-#cg �R�m�~ kon_1_04f �E
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice kone0023
-�y�R�m�~�z�u�����ˁ`�B�j���Q�����񂪌����Ȃ�`�A����̓c�L���̂��̂��ˁ`�A�����Ɓv
+【コノミ】「そだね〜。ニンゲンくんが言うなら〜、それはツキヨのものだね〜、きっと」
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibae0040
-�y�C�o���z�u�R�m�~�c�c���O�c�c�v
+【イバラ】「コノミ……お前……」
 
 #voice kone0024
-�y�R�m�~�z�u��`�H�@�Ȃɂ��`�H�@�܁`�A���[���ƃc�L���������Ă��̂͊ԈႢ�Ȃ����ˁ`�B���������Ȃ��݂��������A�F�؂���ɂ͏\������Ȃ��`�H�v
+【コノミ】「ん〜？　なにぃ〜？　ま〜、ずーっとツキヨが持ってたのは間違いないしね〜。離したくないみたいだし、認証するには十分じゃない〜？」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hine0014
-�y�q�i�^�z�u�j���Q������ƃR�m�~�������Ȃ�A�q�i�^������ł�����v
+【ヒナタ】「ニンゲンさんとコノミがいうなら、ヒナタもそれでいいよ」
 
-�q�i�^���ꏏ�ɂȂ��Ď��������B
+ヒナタも一緒になって手を挙げる。
 
 #voice ibae0041
-�y�C�o���z�u�����c�c�v
+【イバラ】「くっ……」
 
-�ǂ���瑽�����Ńc�L���̕z�̓c�L���̏��L���ƔF�߂�ꂽ�悤���B
+どうやら多数決でツキヨの布はツキヨの所有物と認められたようだ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T09F C
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tuke0030
-�y�c�L���z�u�R�m�~�H�@�q�i�^�H�@�͂�c�c�v
+【ツキヨ】「コノミ？　ヒナタ？　はわ……」
 
-�������߂Ă���z�������̂��̂��ƔF�߂��āA�悤�₭�c�L���͗����������̂��A��������������B
+抱きしめている布が自分のものだと認められて、ようやくツキヨは落ち着いたのか、こちらを向いた。
 
-;dt01_2��
+;dt01_2へ
 #next dt01_2

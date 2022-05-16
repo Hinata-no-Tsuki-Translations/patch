@@ -1,573 +1,573 @@
 
 
-;�w�i�F�R�����i���j
-;b03��������
+;背景：山小屋（昼）
+;b03引き続き
 
 
-���̂��َq���C�o���ɐH�ׂ�������ǂ�Ȋ�����邾�낤�B
+このお菓子をイバラに食べさせたらどんな顔をするだろう。
 
-�c�c���ǁA�H�ׂ�����܂ł���ς�������Ȃ��ȁB
+……けど、食べさせるまでが大変かもしれないな。
 
-�C�o���͂������Ă܂����̌������ƁA���邱�ƂȂ����ƁA�ے肩����邩��A�f���ɂ��̂��َq�����ɂ��Ă���邱�Ƃ͂Ȃ����낤�B
+イバラはいつだってまず俺の言うこと、することなすこと、否定から入るから、素直にこのお菓子を口にしてくれることはないだろう。
 
-�����ǁA�ǂ����l��{�D��S�͋����݂���������A�{���͋C�ɂȂ��Ďd���Ȃ��āc�c�B
+だけど、どうも人一倍好奇心は強いみたいだから、本当は気になって仕方なくて……。
 
-���炿�炨�َq�����Ȃ���u�d���Ȃ�����H�ׂĂ��v�Ƃ����C�o�����ڂɕ����Ԃ悤���B
+ちらちらお菓子を見ながら「仕方ないから食べてやる」というイバラが目に浮かぶようだ。
 
-�c�c���������Ƃ��낪�܂������񂾂�ȁB
+……そういうところがまた可愛いんだよな。
 
-������Ɛl�������Ă����C�z�ɐU������ƁA�ˌ��ɃC�o���������Ă����B
+かたりと人が入ってきた気配に振り向くと、戸口にイバラが立っていた。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
-�u���A��������v
+「あ、おかえり」
 
-�����Ă���Ȃ�C�o���͂Ђ�����ł��Ƃ��������B
+入ってくるなりイバラはひいた顔であとずさった。
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0217
-�y�C�o���z�u�����A�j���Q���B�Ȃ�ċC��������������Ă�񂾁H�v
+【イバラ】「おい、ニンゲン。なんて気持ち悪い顔をしてるんだ？」
 
-�u�C�����������ĂЂǂ��ȁv
+「気持ち悪いってひどいな」
 
-�J����Ԃɔl��Ȃ�āA���΂ɉ��ł�������Ə����B
+開口一番に罵るなんて、流石に俺でもちょっと傷つく。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0218
-�y�C�o���z�u�����C��������������Ă��邯�ǁA�������̓j���j�����܂肪�Ȃ��Ă�����肸���ƋC���������������v
+【イバラ】「いつも気持ち悪い顔をしているけど、さっきはニヤニヤしまりがなくていつもよりずっと気持ち悪かったぞ」
 
-�c�c����ȂɃj���j�����Ă����ȁB
+……そんなにニヤニヤしてたかな。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0219
-�y�C�o���z�u�͂��I�H�@�����������Ƃ��l���Ă��ȁI�@���󂵂�A�j���Q���߁I�v
+【イバラ】「はっ！？　何か悪いことを考えてたな！　白状しろ、ニンゲンめ！」
 
-�u�ʂɈ������ƂȂ�čl���ĂȂ���v
+「別に悪いことなんて考えてないよ」
 
 #voice ibab0220
-�y�C�o���z�u�R���I�@�A���͈������Ƃ��l���Ă��炾�I�v
+【イバラ】「嘘だ！　アレは悪いことを考えてた顔だ！」
 
-�u�Ⴄ���āc�c�v
+「違うって……」
 
-�������ɃC�o���̂��Ƃ��l���Ăɂ�ɂ₵�Ă��Ƃ͌����Â炢�B���ꂾ���āA�C�o���ɂ��Ă݂���u�������Ƃ��l���Ă��v���ɓ��邾�낤���ȁB
+さすがにイバラのことを考えてにやにやしてたとは言いづらい。それだって、イバラにしてみたら「悪いことを考えてた」内に入るだろうしな。
 
-�u���[���ƁA���َq�����ɏĂ�����ł��ꂪ�����������񂾂�B�j�����Ă���Ȃ炻�̂�������Ȃ����ȁv
+「えーっと、お菓子が上手に焼けたんでそれが嬉しかったんだよ。ニヤついてたんならそのせいじゃないかな」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
-���������Ȃ���A�Ă������������َq�̎M�������o���ƁA�C�o���͈�u�ł���ɖڂ�D���Ă��ꂽ�B
+そういいながら、焼きあがったお菓子の皿を差し出すと、イバラは一瞬でそれに目を奪われてくれた。
 
-���َq�̊Â�����̓G���t�̋C�����Ђ�����̂炵���B
+お菓子の甘い香りはエルフの気をもひけるものらしい。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0221
-�y�C�o���z�u���������̂��v
+【イバラ】「成功したのか」
 
-�u����B�������Ă݂��猋�\�������������v
+「うん。味見してみたら結構美味しかった」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0222
-�y�C�o���z�u�������A����Ɛ��������̂��B�l�Ԃ͕s��p���ȁI�v
+【イバラ】「そうか、やっと成功したのか。人間は不器用だな！」
 
-�����̂悤�ɑ��܂����@�����Ƃ��Ă��邪�A�C�o���̎����͂����Ƃ��َq�Ɏ䂫����ꂽ�܂܂��B
+いつものように憎まれ口を叩こうとしているが、イバラの視線はずっとお菓子に惹きつけられたままだ。
 
-�u�C�o�����悯��΁A�������Ă���Ȃ��H�v
+「イバラもよければ、味を見てくれない？」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0223
-�y�C�o���z�u���H�@�{�A�{�N���H�v
+【イバラ】「え？　ボ、ボクが？」
 
-�C�o���͈�u����Ƃ�Ƃ��āA���ꂩ��A���َq�Ɖ��̊������ׂ��B
+イバラは一瞬きょとんとして、それから、お菓子と俺の顔を見比べた。
 
-�u���A�������A�����ɂƂ͌���Ȃ����ǁv
+「あ、もちろん、無理にとは言わないけど」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0224
-�y�C�o���z�u��������������ǁA�G���t�͂ł������Ȃ��̐l�Ԃƈ���āA�H�ו��Ȃ񂩐H�ׂ�K�v�͂Ȃ��񂾂��I�H�@�������ꂽ������������ȁv
+【イバラ】「昨日も言ったけど、エルフはできそこないの人間と違って、食べ物なんか食べる必要はないんだぞ！？　完成された生き物だからな」
 
-�u�ł��A�H�ׂ��Ȃ����Ă킯����Ȃ��񂾂�H�v
+「でも、食べられないってわけじゃないんだろ？」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0225
-�y�C�o���z�u����A�܂��c�c�v
+【イバラ】「うん、まぁ……」
 
-�u�܂��A������������̂�����A����̈��قǂ͔��������Ȃ���������Ȃ����ǂ��v
+「まぁ、俺が作ったものだから、昨日の飴ほどは美味しくないかもしれないけどさ」
 
 #voice ibab0226
-�y�C�o���z�u�c�c�v
+【イバラ】「……」
 
-�C�o���͂��΂炭���َq�����߂Ă���A�ӂ��������悤�ɐ錾�����B
+イバラはしばらくお菓子を見つめてから、意を決したように宣言した。
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0227
-�y�C�o���z�u���A�d���Ȃ�����H�ׂĂ��v
+【イバラ】「し、仕方ないから食べてやる」
 
-�u�c�c���ՁB����c�c���ق񂲂ق�v
+「……っぷ。んっ……ごほんごほん」
 
-��قǑz�����Ă����ʂ�̌��t�Ɏv�킸�����o���Ă��܂��čQ�ĂĊP�����Ō떂�������B
+先ほど想像していた通りの言葉に思わず吹き出してしまって慌てて咳払いで誤魔化した。
 
-�����ƐH�ׂĂ݂������Ċ炵�Ă��̂ɁB
+ずっと食べてみたいって顔してたのに。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0228
-�y�C�o���z�u�ǂ������j���Q���H�@������̂��H�v
+【イバラ】「どうしたニンゲン？　具合悪いのか？」
 
-�ˑR�P�����ݎn�߂������C�o���͐S�z�����Ɍ��グ�Ă����B
+突然咳き込み始めた俺をイバラは心配そうに見上げてきた。
 
-�u���A������v�B������Ƃނ�������������v
+「い、いや大丈夫。ちょっとむせただけだから」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0229
-�y�C�o���z�u�������B�����ƋC������񂾂��H�v
+【イバラ】「そうか。ちゃんと気をつけるんだぞ？」
 
-�S�z�����ɃC�o���͌����āA���ꂩ��n�b�Ƃ����悤�Ɉ̂����Ɍ��������B
+心配そうにイバラは言って、それからハッとしたように偉そうに言い直す。
 
 ;CHR I01F C
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0230
-�y�C�o���z�u�j���Q���͂�����������ȁI�@�g�̂�厖�ɂ��Ȃ��Ƃ������񂶂Ⴄ�񂾂��I�v
+【イバラ】「ニンゲンはよわっちぃからな！　身体を大事にしないとすぐ死んじゃうんだぞ！」
 
-�u�킩�����B�C�������A���肪�Ƃ��v
+「わかった。気をつけるよ、ありがとう」
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0231
-�y�C�o���z�u����A�킩��΂����v
+【イバラ】「うん、わかればいい」
 
-�C�o���͑�В��肵�Ȃ���A���߂Ă��َq�����ɉ^�񂾁B
+イバラは大威張りしながら、改めてお菓子を口に運んだ。
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0232
-�y�C�o���z�u���������c�c��I�H�v
+【イバラ】「もぐもぐ……ん！？」
 
-���ɂ����r�[�A�C�o���̖ڂ��傫�����J�����B
+口にした途端、イバラの目が大きく見開かれる。
 
-�u�ǂ��H�@���ɍ���Ȃ������H�v
+「どう？　口に合わなかった？」
 
-�����S�z�ɂȂ��ĕ����ƁA�C�o���͂��̂����킸�ɂQ�R�Ƃ���Ɍ��̒��ɉ������񂾁B
+俺が心配になって聞くと、イバラはものも言わずに２個３個とさらに口の中に押し込んだ。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 #voice ibab0233
-�y�C�o���z�u��[���I�v
+【イバラ】「んーっ！」
 
-�����āA�ǂ�ǂ�Ƌꂵ�����ɋ���@���Ă���B
+そして、どんどんと苦しそうに胸を叩いている。
 
-�u�����؂�ɐH�ׂ�������B�ق�A���v
+「いっぺんに食べすぎだよ。ほら、水」
 
 ;CHR I10F2 C
-#cg �C�o�� iba_1_10f2 ��
+#cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0234
-�y�C�o���z�u���[�A�ꂵ�������v
+【イバラ】「あー、苦しかった」
 
-�u����ȂɋC�ɓ������́H�v
+「そんなに気に入ったの？」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0235
-�y�C�o���z�u�x�A�ʂɋC�ɂ������킯����c�c�l�Ԃ̐H�ו����܂��܂����ȁB����Ȃ̂Ȃ�܂��H�ׂĂ���Ă��������v
+【イバラ】「ベ、別に気にいったわけじゃ……人間の食べ物もまぁまぁだな。こんなのならまた食べてやってもいいぞ」
 
-�ӂ�A�Ƃ����ۂ������C�o���͂ǂ��l���Ă��f������Ȃ��āA�ł����ɂ킩��₷���B
+ふん、とそっぽを向くイバラはどう考えても素直じゃなくて、でも実にわかりやすい。
 
-�u�킩�����B���Ⴀ�A�܂�����Ă�����ˁv
+「わかった。じゃあ、また作ってあげるね」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0236
-�y�C�o���z�u�x�A�ʂɁc�c����Ă���Ȃ�āc�c�v
+【イバラ】「ベ、別に……作ってくれなんて……」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o�������̖T�ɂ����H�ׂ������w��Ő@���Ă�����A�Ђ傢���ƃR�m�~������o�����B
+イバラが口の傍につけた食べかすを指先で拭っていたら、ひょいっとコノミが顔を出した。
 
 ;CHR K01F1B L
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0246
-�y�R�m�~�z�u�܂����́`�H�v
+【コノミ】「また作るの〜？」
 
-�u����v
+「わっ」
 
 ;CHR H01F1 R
-#cg �q�i�^ hin_1_01f1 �E
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0268
-�y�q�i�^�z�u����A�������ł����́I�H�@�������[�˂��I�@�������[�˂��H�v
+【ヒナタ】「これ、おかしできたの！？　おいしーねっ！　おいしーねっ？」
 
-�q�i�^�͓����Ă���Ȃ�A���َq���ς����A���܂����c�L���ɂ������o���Ă���B
+ヒナタは入ってくるなり、お菓子をぱくつき、あまつさえツキヨにも差し出している。
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0217
-�y�c�L���z�u���������A�ł��v
+【ツキヨ】「美味しい、です」
 
 ;CHR K01F2B L
-#cg �R�m�~ kon_1_01f2b ��
+#cg コノミ kon_1_01f2b 左
 #wipe fade
 
 #voice konb0247
-�y�R�m�~�z�u�q�i�^�`�A�{�N���H�ׂ�`��`�v
+【コノミ】「ヒナタ〜、ボクも食べる〜よ〜」
 
 ;CHR H01F2 R
-#cg �q�i�^ hin_1_01f2 �E
+#cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hinb0269
-�y�q�i�^�z�u����I�@����������I�v
+【ヒナタ】「うん！　おいしいよ！」
 
 ;CHR K02F2 L
-#cg �R�m�~ kon_1_02f2 ��
+#cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0248
-�y�R�m�~�z�u�قف`�A���َq���Ă���Ȗ����`�B�������~�����Ȃ�ˁ`�v
+【コノミ】「ほほ〜、お菓子ってこんな味か〜。お茶が欲しくなるね〜」
 
-�u�����A�������ȁB�����A��������v
+「あぁ、そうだな。お茶、今入れるよ」
 
-�Ă��َq�͐��C���Ȃ�����A�A�ɋl�܂�₷���B�������Ă���q�i�^�Ȃ�āA�������̃C�o���݂����ɍA�ɋl�܂点�������B
+焼き菓子は水気がないから、喉に詰まりやすい。がっついているヒナタなんて、さっきのイバラみたいに喉に詰まらせそうだ。
 
 ;CHR K01F1A L
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice konb0249
-�y�R�m�~�z�u���肪�Ɓ`�A�j���Q��������H�ׂĂ���������ˁ`�v
+【コノミ】「ありがと〜、ニンゲンくんも食べてもいいからね〜」
 
-�u�H�ׂĂ������A���č�����̉�����v
+「食べてもいい、って作ったの俺だよ」
 
 ;CHR K01F1B L
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0250
-�y�R�m�~�z�u���A���������`�v
+【コノミ】「あ、そだった〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0237
-�y�C�o���z�u�����c�c������c�c���܂������c�c�v
+【イバラ】「あっ……ちょっ……おまえたち……」
 
-�Ă��������Ă������َq�͏u���ԂɃq�i�^�����ɕ��炰���Ă����B
+焼きあがっていたお菓子は瞬く間にヒナタたちに平らげられていく。
 
 ;CHR I09F C
-#cg �C�o�� iba_1_09f ��
+#cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0238
-�y�C�o���z�u�����c�c�{�N�܂��A������Ƃ����H�ׂĂȂ��c�c�v
+【イバラ】「あぁ……ボクまだ、ちょっとしか食べてない……」
 
-���S�ɕs�ӂ�˂��ꂽ�`�ɂȂ����C�o���́A�Ȃ��p���Ȃ��H���r�炳��Ă����l���R�ƒ��߂Ă����B
+完全に不意を突かれた形になったイバラは、なす術もなく食い荒らされていく様を呆然と眺めていた。
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0239
-�y�C�o���z�u�q�i�^�A�R�m�~�A�c�L���I�@����ȂɃo�N�o�N�H�ׂ�񂶂�Ȃ��I�@�{�A�{�N�̕����l����I�v
+【イバラ】「ヒナタ、コノミ、ツキヨ！　そんなにバクバク食べるんじゃない！　ボ、ボクの分も考えろ！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H04F2 L
-#cg �q�i�^ hin_1_04f2 ��
+#cg ヒナタ hin_1_04f2 左
 ;CHR K02F1 R
-#cg �R�m�~ kon_1_02f1 �E
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice hinb0270
-�y�q�i�^�z�u�ق��I�H�v
+【ヒナタ】「ほぇ！？」
 
 #voice konb0251
-�y�R�m�~�z�u�C�o�����H�ׂ��������`�H�v
+【コノミ】「イバラも食べたかった〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I01F L
-#cg �C�o�� iba_1_01f ��
+#cg イバラ iba_1_01f 左
 ;CHR T05F_L R
-#cg �c�L�� tuk_1_05f_l �E
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice ibab0240
-�y�C�o���z�u���A���������킯����c�c�ɁA�j���Q���̐H�ו��Ȃ�ĕʂɐH�ׂ����Ȃ����ǁc�c�v
+【イバラ】「そ、そういうわけじゃ……に、ニンゲンの食べ物なんて別に食べたくないけど……」
 
 #voice tikb0218
-�y�c�L���z�u�C�o���̕��A�����ς�����ł��H�v
+【ツキヨ】「イバラの分、いっぱいいるです？」
 
 ;CHR I11F2 L
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0241
-�y�C�o���z�u���A����Ȃ��I�v
+【イバラ】「い、いらない！」
 
-���[���A�ނ��ɂȂ����`���Ȃ���������B
+あーあ、むきになって臍を曲げちゃった。
 
-�u�ق�A�����Ă������������A�܂����̐��n���c���Ă邩��v
+「ほら、次も焼きあがったし、まだ生の生地も残ってるから」
 
 #voice ibab0242
-�y�C�o���z�u�ӂ���I�v
+【イバラ】「ふんっ！」
 
-�����Ȃ��߂�悤�Ɍ����Ă��A�C�o���͌��܂舫���ɐO���点�Ă����ۂ������Ă��܂��B
+俺がなだめるように言っても、イバラは決まり悪げに唇を尖らせてそっぽを向いてしまう。
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0271
-�y�q�i�^�z�u�͂��A�́[���I�@�q�i�^�A�����ς����ׂ��I�@�������͂����ς����ׂ���I�v
+【ヒナタ】「はい、はーい！　ヒナタ、いっぱいたべるよ！　おかしはいっぱいたべられる！」
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0219
-�y�c�L���z�u���������A�ł��v
+【ツキヨ】「おいしい、です」
 
-�C�o���͊y�������ȃq�i�^�����ɕ��𗧂ĂĂ���炵���A���炿��Ƃ����������Ă��邪�A�������H�ׂ�Ƃ͌����o���Ȃ��悤���B
+イバラは楽しそうなヒナタたちに腹を立てているらしく、ちらちらとそっちを見ているが、自分も食べるとは言い出せないようだ。
 
-�������傤���Ȃ��ȁ[�B
+もうしょうがないなー。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�u�{���ɃC�o���͂�������Ȃ��́H�v
+「本当にイバラはもういらないの？」
 
 ;CHR I10F2 C
-#cg �C�o�� iba_1_10f2 ��
+#cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0243
-�y�C�o���z�u���c�c�����`�v
+【イバラ】「う……うぅ〜」
 
-�u�c�O���Ȃ��B���̓C�o���ɂ��H�ׂė~���������̂Ɂv
+「残念だなぁ。俺はイバラにも食べて欲しかったのに」
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0244
-�y�C�o���z�u���Ⴀ�A�H�ׂĂ��B�������A�j���Q�������ނ���A�d���Ȃ��Ȃ񂾂��I�v
+【イバラ】「じゃあ、食べてやる。いいか、ニンゲンが頼むから、仕方なくなんだぞ！」
 
-�C�o���͂��������Ă���A�q�i�^�����ɕ����Ȃ��悤�ɂ��َq�Ɏ��L�΂����B
+イバラはそういってから、ヒナタたちに負けないようにお菓子に手を伸ばした。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;�C���^�[�o��
+;インターバル
 
-;�w�i�F�R�����i���j
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-;�����G�Ȃ�
+;立ち絵なし
 #voice ibab0245
-�y�C�o���z�u�����A�j���Q���I�@�N���Ă邩�H�@�J����I�v
+【イバラ】「おい、ニンゲン！　起きてるか？　開けろ！」
 
-�������A�C�o���̑傫�Ȑ��ŋN���ꂽ�B
+朝早く、イバラの大きな声で起された。
 
-�u�ȂɁH�@�����ŊJ����΂�������Ȃ����v
+「なに？　自分で開ければいいじゃないか」
 
-�����ڂ��C��Ȃ�������J����ƁA�C�o���͗���ŉ������������܂܁A�����ƒ��ɓ����Ă����B
+眠い目を擦りながら扉を開けると、イバラは両手で何かを持ったまま、そっと中に入ってきた。
 
-�����A���肪�ӂ������Ă�����������J�����Ȃ������̂��B
+あぁ、両手がふさがっていたから扉が開けられなかったのか。
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0245-01
-�y�C�o���z�u�ق�I�@���߁A�j���Q���I�v
+【イバラ】「ほら！　飲め、ニンゲン！」
 
-���ʂ̏΂݂ō����o���ꂽ�̂́A�t���ςō������̂悤�Ȃ��̂������B
+満面の笑みで差し出されたのは、葉っぱで作った器のようなものだった。
 
 #voice ibab0245-02
-�y�C�o���z�u����̂��َq�͔���������������ȁB���̂��炾����A�����͂���Ȃ����v
+【イバラ】「昨日のお菓子は美味しかったからな。そのお礼だから、遠慮はいらないぞ」
 
-�u�c�c�H�@���肪�Ƃ��H�v
+「……？　ありがとう？」
 
-���ɂ͐��݂����Ȃ��̂��A�ق�̔����ɂ������Ȃ����炢�����Ă���B
+中には水みたいなものが、ほんの半分にも満たないくらい入っている。
 
-���͉��̋C���Ȃ��A��C�Ɉ��݊������B
+俺は何の気もなく、一気に飲み干した。
 
-�c�c����A�����B
+……うん、水だ。
 
 #voice ibab0246
-�y�C�o���z�u���������������H�v
+【イバラ】「美味しかったか？」
 
-�u���A�����B����A��������������v
+「あ、あぁ。うん、美味しかったよ」
 
-�N�������̐��͊m���ɔ����������ǁA��̂Ȃ�Ȃ񂾂낤�B
+起き抜けの水は確かに美味しいけど、一体なんなんだろう。
 
 ;CHR I06F C
-#cg �C�o�� iba_1_06f ��
+#cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0247
-�y�C�o���z�u�ӂӂ�A�j���Q���Ȃ񂩂ɂ͂��������Ȃ��悤�ȑ㕨�����A����̂��َq�͊撣���č���Ă�����A�˂�����Ă��񂾂��v
+【イバラ】「ふふん、ニンゲンなんかにはもったいないような代物だが、昨日のお菓子は頑張って作ってたから、ねぎらってやるんだぞ」
 
-�u�c�c��̂Ȃ񂾂����́H�v
+「……一体なんだったの？」
 
-�����̐��ɂ��Ă͂��܂�ɂ��C�o�����ܑ̂�t����̂ŁA�ӂƕs���ɂȂ����B
+ただの水にしてはあまりにもイバラが勿体を付けるので、ふと不安になった。
 
-�G���t�̓��ʂȖ򂩉����������̂��낤���B
+エルフの特別な薬か何かだったのだろうか。
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0248
-�y�C�o���z�u�l�Ԃ������񂾂̂͂ȁA�c�c��ƁA�l�Ԃ̌��t����\�����̂��c�c�Ȃ��ȁv
+【イバラ】「人間が今飲んだのはな、……んと、人間の言葉じゃ表すものが……ないな」
 
-�܂��܂��s���ɂȂ��Ă����B
+ますます不安になってきた。
 
-�u�����̐��݂������������ǁc�c�v
+「ただの水みたいだったけど……」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0249
-�y�C�o���z�u�����̐��Ȃ�Ď���Ȃ��ƌ����ȁI�@����͒��I����H��H�W�߂����̂Ȃ񂾂��I�H�v
+【イバラ】「ただの水なんて失礼なこと言うな！　あれは朝露を一滴一滴集めたものなんだぞ！？」
 
-�u���I����H��H�H�v
+「朝露を一滴一滴？」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0250
-�y�C�o���z�u�������B����Ԃ̌��𗁂т��Ԃɗ��܂������I�́A���z�̏j�����󂯂�B���̐����W�߂����̂͐��̒��ł������ŉԂ̉��삪���鐅�Ȃ񂾁v
+【イバラ】「そうだ。朝一番の光を浴びた花に溜まった朝露は、太陽の祝福を受ける。その水を集めたものは水の中でも純粋で花の加護がある水なんだ」
 
 ;CHR I11F2 C
-#cg �C�o�� iba_1_11f2 ��
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0251
-�y�C�o���z�u���̐����D��ň��ނ̂̓G���t�̒��ł����M�ł���A�{�N�̂悤�ȉԂ̖�͂����҂����Ȃ񂾂��v
+【イバラ】「その水を好んで飲むのはエルフの中でも高貴である、ボクのような花の紋章を持つ者だけなんだぞ」
 
-�C�o���͂܂�ł�������Ԃ肻���Ɍւ炵���ɐ��������B
+イバラはまるでそっくり返りそうに誇らしげに説明した。
 
-�u�c�c�v
+「……」
 
-���͎v�킸��ɂ���t���ςɖڂ�������B
+俺は思わず手にある葉っぱに目をやった。
 
 #voice ibab0252
-�y�C�o���z�u�Â������ɂ��̉Ԕ��ɍs���āA���z������Ȃ�W�߂Ă����񂾁v
+【イバラ】「暗いうちにあの花畑に行って、太陽が昇るなり集めてきたんだ」
 
 ;CHR I11F1 C
-#cg �C�o�� iba_1_11f1 ��
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0253
-�y�C�o���z�u���I���W�߂�̂͑�ς�������ʂȂ��y���Ȃ񂾂��ǁA�j���Q���͂���Ȃ��̈��񂾂��Ƃ��Ȃ����낤������ʂɈ��܂��Ă�����񂾁v
+【イバラ】「朝露を集めるのは大変だから特別なご馳走なんだけど、ニンゲンはそんなもの飲んだことがないだろうから特別に飲ませてやったんだ」
 
-�c�c��������Ȃ��B���I�Ȃ�āA�W�߂悤�Ƃ���΂ق�̂ۂ�����̐��H���B
+……そうだよなぁ。朝露なんて、集めようとすればほんのぽっちりの水滴だ。
 
-����Ȃ��̂��y�����݊�����قǂƂ͌����A�W�߂�̂ɂ͂ǂ�Ȃɑ�ς��������Ƃ��낤�B
+そんなものを軽く飲み干せるほどとは言え、集めるのにはどんなに大変だったことだろう。
 
-�u���A���߂�C�o���B����Ȃɑ�ςȂ��̂��Ƃ͒m�炸�ɁA���킢�������Ɉ�C���݂����������v
+「ご、ごめんイバラ。そんなに大変なものだとは知らずに、味わいもせずに一気飲みしちゃったよ」
 
 ;CHR I08F C
-#cg �C�o�� iba_1_08f ��
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0254
-�y�C�o���z�u��H�@�Ȃ�Ŏӂ�񂾁H�v
+【イバラ】「ん？　なんで謝るんだ？」
 
-��������������ƁA�C�o���̓L���g���Ƃ����B
+俺が頭を下げると、イバラはキョトンとした。
 
-�u�����Ƒ厖�Ɉ��ނׂ��������񂶂�Ȃ����Ǝv���āB�ق�ƁA���߂�v
+「もっと大事に飲むべきだったんじゃないかと思って。ほんと、ごめん」
 
-�\����Ȃ��ɎӍ߂��J��Ԃ����ɁA�C�o���͂ɂ����Ɩ��ʂ̏΂݂𕂂��ׂ��B
+申し訳なさに謝罪を繰り返す俺に、イバラはにいっと満面の笑みを浮かべた。
 
 ;CHR I07F C
-#cg �C�o�� iba_1_07f ��
+#cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0255
-�y�C�o���z�u�ӂӂ�B�Ȃ񂾂��킩��Ȃ����ǁA���̈��ݕ��̋M�d�����j���Q���ɂ��킩�����悤���ȁB�厖�ɂ��悤�Ƃ����̂͂����S�������B�͂͂͂͂́v
+【イバラ】「ふふん。なんだかわからないけど、あの飲み物の貴重さがニンゲンにもわかったようだな。大事にしようというのはいい心がけだ。ははははは」
 
-�����̋�J���ڂ݂��A�������̐��̉��l��F�߂����Ƃ����ł���̂��A�C�o���͋��𒣂��Ċ��������ɍ��炩�ȏ΂������グ���B
+自分の苦労を顧みず、俺があの水の価値を認めたことを喜んでいるのか、イバラは胸を張って嬉しそうに高らかな笑い声を上げた。
 
 #voice ibab0256
-�y�C�o���z�u������ƏW�߂�̂͑�ς��������ǁA�j���Q�����C�ɓ������̂Ȃ�΁A�܂������Ă��Ă���Ă��������v
+【イバラ】「ちょっと集めるのは大変だったけど、ニンゲンが気に入ったのならば、また持ってきてやってもいいぞ」
 
-;�C�o���D���x+1
+;イバラ好感度+1
 #set f2 f2+1
 
-;b04��
+;b04へ
 #next b04

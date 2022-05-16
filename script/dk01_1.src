@@ -1,9 +1,9 @@
-;�T�E���h���ׂĒ�~
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;���A�C�L���b�`�\��
+;※アイキャッチ表示
 ;BG:BG40_1
 
 #mes off fade
@@ -26,699 +26,699 @@
 #mes on flash
 #system on flash
 
-;�C���^�[�o��
+;インターバル
 
 ;FACE ON
 #face on
 
 #bgvoice stop
-;BGMch2 amb001 �Đ�
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;�w�i�F�R�����O�i���j
+;背景：山小屋前（昼）
 ;BG BG08b_1
 #cg all clear
 #bg BG08b_1
 #wipe fade
 
-�u���̐�����āc�c�ƁB����ŊԈႢ�Ȃ����ȁv
+「この線を閉じて……と。これで間違いないかな」
 
 ;CHR K02F1 C
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice kond0001
-�y�R�m�~�z�u�j���Q�����񉽂��Ă�́`�H�@�����ɂ��G�����H�v
+【コノミ】「ニンゲンくん何してるの〜？　小屋にお絵かき？」
 
-�u�Ȃ�ł����̂��G�����Ȃ񂩂���񂾂�B�I�[�N�����̂��􂢂���v
+「なんでただのお絵かきなんかするんだよ。オーク避けのお呪いだよ」
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice kond0002
-�y�R�m�~�z�u�����A�������`�B���ɕ`�����ˁ`�v
+【コノミ】「おぉ、そっか〜。上手に描けたね〜」
 
-�u���ɕ`�������āA�����������̂��H�@�������A����Ō����̂��ȁ`�v
+「上手に描けたって、そういうものか？　しかし、これで効くのかな〜」
 
 ;CHR K05F C
-#cg �R�m�~ kon_1_05f ��
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice kond0003
-�y�R�m�~�z�u��`�H�@�{�N�ɂ͂킩��Ȃ����ǁA�c�L���͂ǂ��v���`�H�v
+【コノミ】「ん〜？　ボクにはわかんないけど、ツキヨはどう思う〜？」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg �c�L�� tuk_1_01f_l �E
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tukd0001
-�y�c�L���z�u�����Ɓc�c�q����A�؂�Ă�ł��B������A���C�Ǝv���ł��v
+【ツキヨ】「ちゃんと……繋がり、切れてるです。だから、平気と思うです」
 
-�u�c�c��H�@�q����؂�Ă���āH�@�G���t�͂Ȃ񂩂��������̂킩��́H�v
+「……ん？　繋がり切れてるって？　エルフはなんかそういうのわかるの？」
 
 ;CHR K04F L
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice kond0004
-�y�R�m�~�z�u�����`��A�G���t�͕�����Ȃ���`�B�ł��A�c�L���̓_�[�N�G���t������ˁ`�v
+【コノミ】「うう〜ん、エルフは分かんないよ〜。でも、ツキヨはダークエルフだからね〜」
 
-�u�_�[�N�G���t���Ƃ킩����̂Ȃ́H�v
+「ダークエルフだとわかるものなの？」
 
 #voice tukd0002
-�y�c�L���z�u�͂��ł��c�c�킩��A�ł��v
+【ツキヨ】「はいです……わかる、です」
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibad0001
-�y�C�o���z�u����Ȏ��͖��ɗ��ȁv
+【イバラ】「こんな時は役に立つな」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR H08F1 R
-#cg �q�i�^ hin_1_08f1 �E
+#cg ヒナタ hin_1_08f1 右
 #wipe fade
 
 #voice hind0001
-�y�q�i�^�z�u�c�L���I�@�������[���I�v
+【ヒナタ】「ツキヨ！　すっごーい！」
 
 ;CHR OFF
-#cg �R�m�~ clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T09F L
-#cg �c�L�� tuk_1_09f ��
+#cg ツキヨ tuk_1_09f 左
 #wipe fade
 
 #voice tukd0003
-�y�c�L���z�u�J�߂�ꂽ�A�ł��c�c�H�v
+【ツキヨ】「褒められた、です……？」
 
-�u����A�G���t���ł��Ȃ����Ƃ��ł���Ȃ�Ă���������Ȃ����v
+「うん、エルフができないことができるなんてすごいじゃないか」
 
 ;CHR T04F L
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 左
 #wipe fade
 
 #voice tukd0004
-�y�c�L���z�u���ւււł��v
+【ツキヨ】「えへへへです」
 
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hind0002
-�y�q�i�^�z�u�c�L������������Ԃ��Ă�������Ȃ炠�񂵂񂾂˂��I�v
+【ヒナタ】「ツキヨがだいじょぶっていったんならあんしんだねっ！」
 
-�u�������ȁ[�B����A���S�����Ƃ���ŒT�����ĊJ���邩�v
+「そうだなー。じゃ、安心したところで探索を再開するか」
 
 ;CHR OFF
-#cg �c�L�� clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR K03F L
-#cg �R�m�~ kon_1_03f ��
+#cg コノミ kon_1_03f 左
 #wipe fade
 
 #voice kond0005
-�y�R�m�~�z�u�j���Q������́`�{���ɒT���Ƃ��������D�����ˁ`�v
+【コノミ】「ニンゲンくんは〜本当に探索とか調査が好きだね〜」
 
-�u�D�����Ă������c�c�m��Ȃ��������Ƃ�m��̂��Ėʔ�������H�v
+「好きっていうか……知らなかったことを知るのって面白いだろ？」
 
 ;CHR K01F1B L
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice kond0006
-�y�R�m�~�z�u�����`�A����Ȃ�킩���`�v
+【コノミ】「おぉ〜、それならわかるよ〜」
 
 ;CHR H08F1_A R
-#cg �q�i�^ hin_1_08f1_a �E
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hind0003
-�y�q�i�^�z�u�j���Q������Ƃ�������ɂ��񂳂����̂�������I�v
+【ヒナタ】「ニンゲンさんといっしょにたんさくたのしいよっ！」
 
-�u����A�����������T���ɍs�����v
+「じゃ、早速今日も探索に行くか」
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hind0004
-�y�q�i�^�z�u�������I�@����������I�@����������I�v
+【ヒナタ】「おぉっ！　いこうよっ！　いこうよっ！」
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 #voice ibad0002
-�y�C�o���z�u�d���Ȃ��ȁA�{�N���ꏏ�ɍs���Ă���Ă��������v
+【イバラ】「仕方ないな、ボクも一緒に行ってやってもいいぞ」
 
 ;CHR K06F L
-#cg �R�m�~ kon_1_06f ��
+#cg コノミ kon_1_06f 左
 #wipe fade
 
 #voice kond0007
-�y�R�m�~�z�u��`�A���Ⴀ�{�N�́`�c�c�I�[�N�����Ȃ������ł����Q���Ă�����ȁ`�v
+【コノミ】「ん〜、じゃあボクは〜……オークが来ない小屋でお昼寝してよっかな〜」
 
-�u�Ȃ�ł���I�v
+「なんでだよ！」
 
-�R�m�~�̂��܂�ɋC�܂܂Ȕ����Ɏv�킸�˂�����ł��܂����B
+コノミのあまりに気ままな発言に思わず突っ込んでしまった。
 
-�������͏��C���������ۂ���������Ȃ����B
+さっきは乗り気だったっぽかったじゃないか。
 
 ;CHR K02F1 L
-#cg �R�m�~ kon_1_02f1 ��
+#cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice kond0008
-�y�R�m�~�z�u��`�H�@�_���������H�v
+【コノミ】「ん〜？　ダメだった？」
 
-�u����A�ʂɉ��͍\��Ȃ����ǂ��v
+「いや、別に俺は構わないけどさ」
 
 ;CHR H11F_A R
-#cg �q�i�^ hin_1_11f_a �E
+#cg ヒナタ hin_1_11f_a 右
 #wipe fade
 
 #voice hind0005
-�y�q�i�^�z�u�R�m�~����������ɂ�������`�v
+【ヒナタ】「コノミもいっしょにいこうよ〜」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibad0003
-�y�C�o���z�u�����������I�@�{�N�����Ĉꏏ�ɍs���񂾂���R�m�~�����ė��Ȃ���_������I�v
+【イバラ】「そうだぞっ！　ボクだって一緒に行くんだからコノミだって来なきゃダメだろ！」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 #voice tukd0005
-�y�c�L���z�u�ꏏ�ɍs�������ł��c�c�v
+【ツキヨ】「一緒に行きたいです……」
 
 ;CHR K01F1B L
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice kond0009
-�y�R�m�~�z�u���͂́`�A�F�����������Ȃ�{�N���s���Ȃ����Ⴉ�`�v
+【コノミ】「あはは〜、皆がそう言うならボクも行かなくちゃか〜」
 
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hind0006
-�y�q�i�^�z�u������A�݂�Ȃ�������̂ق������̂�������I�v
+【ヒナタ】「そだよ、みんないっしょのほうがたのしいよっ！」
 
 #voice kond0010
-�y�R�m�~�z�u�y�������`�y�����̂͂����ˁ`����`�{�N���s�������ȁ`�v
+【コノミ】「楽しいか〜楽しいのはいいね〜じゃ〜ボクも行こっかな〜」
 
-�܂������B�G���t���Ď��R�C�܂܂Ȃ��̂炵�����ǁA�R�m�~�̎��R�z�����͌Q�𔲂��Ă�ȁB
+まったく。エルフって自由気ままなものらしいけど、コノミの自由奔放さは群を抜いてるな。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 
-;�w�i�F�X�i���j
+;背景：森（昼）
 ;BG BG04_1
 #cg all clear
 #bg BG04_1
 #wipe fade
 
 ;CHR T04F L
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 左
 #wipe fade
 
 #voice tukd0006
-�y�c�L���z�u�ق�A�{�ɏ����Ă���̌������ł��v
+【ツキヨ】「ほら、本に書いてあるの見つけたです」
 
-�u�����A����Ȍ����ɂ������Ȃ�悭�������ȁv
+「おぉ、こんな見つけにくそうなやつよく見つけたな」
 
 ;CHR H07F_A R
-#cg �q�i�^ hin_1_07f_a �E
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hind0007
-�y�q�i�^�z�u����Ȃւ�ȃJ�^�`�̃C�V�݂�����I�v
+【ヒナタ】「こんなへんなカタチのイシみつけたよ！」
 
-�u���[�A����͕ς�����F�̐΂��ȁB�ǂ��ɗ����Ă��H�v
+「おー、これは変わった色の石だな。どこに落ちてた？」
 
 ;CHR H08F2_A R
-#cg �q�i�^ hin_1_08f2_a �E
+#cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hind0008
-�y�q�i�^�z�u�����������I�v
+【ヒナタ】「すぐそこっ！」
 
-�u���̑傫�����ƁA���������^��ł������Ă��Ƃ��Ȃ�����������c�c�������������B���̊�Ɠ����`�����낤�ȁc�c�ӂނӂށv
+「この大きさだと、小動物が運んできたってこともなさそうだから……あったあった。この岩と同じ形質だろうな……ふむふむ」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR I05F C
-#cg �C�o�� iba_1_05f ��
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibad0004
-�y�C�o���z�u�ӂӂ�A�{�N�Ȃ񂩂��[��ȁA�Y��Ȏ������������I�@�����A�H�ׂĂ������񂾂��j���Q���v
+【イバラ】「ふふん、ボクなんかこーんな、綺麗な実を見つけたぞ！　さぁ、食べてもいいんだぞニンゲン」
 
-�u�c�c�����ɂ������ǁA����ł���v
+「……いいにくいけど、それ毒だよ」
 
 ;CHR I02F C
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibad0005
-�y�C�o���z�u�ȁI�H�@���A���������������̂ɁI�@����Ȃ��Y��Ȃ̂ɁI�@�ł��Ƃ��I�H�v
+【イバラ】「な！？　せ、せっかく見つけたのに！　こんなに綺麗なのに！　毒だとっ！？」
 
-�u���[�c�c�������A�����ł̂��郂�m���Ă��Ă��ăh�h����Y�킾�����肷��񂾂�ˁB���A�ł��ł͓łŎg�������邩�珕�����v
+「あー……動物も植物も毒のあるモノってえてしてド派手で綺麗だったりするんだよね。あ、でも毒は毒で使い道あるから助かるよ」
 
 ;CHR I04F C
-#cg �C�o�� iba_1_04f ��
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibad0006
-�y�C�o���z�u�c�c�����B���A���x�����j���Q�����т����肷��悤�Ȃ��̂������Ă��񂾂���ȁI�v
+【イバラ】「……くっ。こ、今度こそニンゲンがびっくりするようなものを見つけてやるんだからな！」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR H01F1_A R
-#cg �q�i�^ hin_1_01f1_a �E
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hind0009
-�y�q�i�^�z�u�q�i�^�����I�@�j���Q������т����肳����I�v
+【ヒナタ】「ヒナタもっ！　ニンゲンさんびっくりさせる！」
 
 ;CHR T04F L
-#cg �c�L�� tuk_1_04f ��
+#cg ツキヨ tuk_1_04f 左
 #wipe fade
 
 #voice tukd0007
-�y�c�L���z�u�撣��ł��I�v
+【ツキヨ】「頑張るです！」
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice kond0011
-�y�R�m�~�z�u�����`�F�撣���Ăˁ`�v
+【コノミ】「おぉ〜皆頑張ってね〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�v���v���̕����ɋ삯�o���Ă������R�l���������ăR�m�~�͂Ђ�Ђ�Ǝ��U�����B
+思い思いの方向に駆け出していった３人を見送ってコノミはひらひらと手を振った。
 
-�u�c�c�R�m�~�͍s���Ȃ��́H�v
+「……コノミは行かないの？」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice kond0012
-�y�R�m�~�z�u���`�H�@�{�N�͂������ȁ`�B�����͂����l�C�����������A�����ł����Q����`�v
+【コノミ】「んん〜？　ボクはいっかな〜。今日はお日様気持ちいいし、ここでお昼寝する〜」
 
-�u�ق�ƂɎ��R�C�܂܂��ȁA�R�m�~�́v
+「ほんとに自由気ままだな、コノミは」
 
 #voice kond0013
-�y�R�m�~�z�u��`�H�@�G���t���Ă����������̂���`�H�v
+【コノミ】「ん〜？　エルフってそういうものだよ〜？」
 
-�u�܁A���������Ⴄ�����ł݂�Ȏ��R�C�܂܂��Č����΂��������ǂ��v
+「ま、方向性が違うだけでみんな自由気ままって言えばそうだけどさ」
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice kond0014
-�y�R�m�~�z�u���͂́`�����ł���`�H�@�{�N��������Ȃ���`�B���Ⴀ�A���₷�݁`�v
+【コノミ】「あはは〜そうでしょ〜？　ボクだけじゃないよ〜。じゃあ、おやすみ〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�R�m�~�͎v���؂�悭�A�����Ƒ��ނ�ɓ]�������B
+コノミは思い切りよく、ごろんと草むらに転がった。
 
-�u�c�c�Ȃ񂾂��C�����悳�������ȁv
+「……なんだか気持ちよさそうだな」
 
-�������ċ�����グ�Ă݂��B
+俺もつられて空を見上げてみた。
 
-���n�镗���������āA�����l�͒g�����āA�ƂĂ��C�����悩�����B
+空を渡る風が涼しくて、お日様は暖かくて、とても気持ちよかった。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;���o�b�N��
+;黒バック★
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 
 #voice hind0010
-�y�q�i�^�z�u�����`�H�@�j���Q��������R�m�~���˂Ă����I�H�v
+【ヒナタ】「あれれ〜？　ニンゲンさんもコノミもねてるよっ！？」
 
-;�w�i�F�X�i�[�j
+;背景：森（夕）
 ;BG BG04_2
 #cg all clear
 #bg BG04_2
 #wipe fade
 
-�u������I�H�@���܂ŐQ������Ă��v
+「あれっ！？　俺まで寝ちゃってた」
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hind0011
-�y�q�i�^�z�u���[�I�@�j���Q������͂��[���炳�񂾂Ȃ��I�v
+【ヒナタ】「もー！　ニンゲンさんはぐーたらさんだなぁ！」
 
 ;CHR I02F L
-#cg �C�o�� iba_1_02f ��
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibad0007
-�y�C�o���z�u���炵�Ȃ����A�j���Q���v
+【イバラ】「だらしないぞ、ニンゲン」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K04F C
-#cg �R�m�~ kon_1_04f ��
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice kond0015
-�y�R�m�~�z�u�ق�Ƃ��ˁ`�B���`����̂˂ڂ������񂾁`�v
+【コノミ】「ほんとだね〜。ぐ〜たらのねぼすけさんだ〜」
 
-�u�ꏏ�ɂȂ��ĐQ�Ă������ɁA�R�m�~���������H�v
+「一緒になって寝てたくせに、コノミが言うか？」
 
 ;CHR K01F1A C
-#cg �R�m�~ kon_1_01f1a ��
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice kond0016
-�y�R�m�~�z�u��`�H�@�{�N�͐Q�������ɐQ�ā`�A�N���������ɋN�����`�H�v
+【コノミ】「ん〜？　ボクは寝たい時に寝て〜、起きたい時に起きるよ〜？」
 
-�܂������A�R�m�~�Ƃ�����c�c�������ĉ��Ɋ����悤�Ȃ��Ƃ΂����肾�ȁB
+まったく、コノミときたら……いつだって煙に巻くようなことばっかりだな。
 
-�R�m�~�ɒނ��ĐQ�����Ă��܂������������������B
+コノミに釣られて寝入ってしまった俺が悪かったか。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-���͒��߂ɂ������S���ňÂ��Ȃ���������グ���B
+俺は諦めにも似た心境で暗くなった空を見上げた。
 
-�u���������Ă���������ˁB���낻��A�낤���v
+「日が落ちてきちゃったね。そろそろ帰ろうか」
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice kond0017
-�y�R�m�~�z�u�����ˁ`�A�A�낤��`�v
+【コノミ】「そだね〜、帰ろうよ〜」
 
-����Șb�����Ă���ƁA�e�������悤�Ɍ����˂����B
+そんな話をしていると、影が差すように光が射した。
 
-�u�Ȃ��c�c�Ȃ񂾁I�H�v
+「なっ……なんだ！？」
 
 ;CHR E C
-#cg ���̑� elf_1_01 ��
+#cg その他 elf_1_01 中
 #wipe fade
 
 #voice izud0001
-�y��̃G���t�z�w�c�c�A��͉̂��̗̈�ɂł����x
+【泉のエルフ】『……帰るのは我らの領域にですか』
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hind0012
-�y�q�i�^�z�u�ЂႤ���I�H�@���������G���t�����I�H�v
+【ヒナタ】「ひゃうっ！？　おっきいエルフだっ！？」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibad0008
-�y�C�o���z�u�ȁA�Ȃ�Łc�c�Z�ケ���ɁI�H�v
+【イバラ】「な、なんで……兄上ここに！？」
 
-�q�i�^�����ɂ��\�����ʗ��K�������炵���A�R�m�~�ȊO�͈�l�ɋ�������ŐV��������Ă����G���t�����グ�Ă���B
+ヒナタたちにも予期せぬ来訪だったらしく、コノミ以外は一様に驚いた顔で新しくやってきたエルフを見上げている。
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kond0018
-�y�R�m�~�z�u���`�C�Y�~�A�Ђ����Ԃ�`�v
+【コノミ】「お〜イズミ、ひさしぶり〜」
 
 #voice izud0002
-�y��̃G���t�z�w�C�Y�~�H�@���ł�������́H�x
+【泉のエルフ】『イズミ？　何ですかそれは？』
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kond0019
-�y�R�m�~�z�u��`�H�@�j���Q������ɂ킩��₷���悤�ɁA�l�Ԍ�̖��O����`�H�v
+【コノミ】「ん〜？　ニンゲンくんにわかりやすいように、人間語の名前だよ〜？」
 
 #voice izud0003
-�y��̃G���t�z�w�c�c���̂悤�Ȃ��́A�K�v�Ȃ��ł��傤�x
+【泉のエルフ】『……そのようなもの、必要ないでしょう』
 
-���̃G���t�̐��́A���A�Ƃ����ɂ͕s�v�c�ȋ����������Ă���B���ړ��̒��ɋ����Ă���݂����ȁc�c�B
+そのエルフの声は、声、というには不思議な響き方をしている。直接頭の中に響いてくるみたいな……。
 
-������Ȃ��G���t�͂����Ƃ����������ƁA�����ɃC�o���ɖڂ��������B
+見慣れないエルフはちらりとこちらを見ると、すぐにイバラに目を向けた。
 
 #voice izud0004
-�y��̃G���t�z�w��̃G���t�A���Ȃ��͖؂̎��̃G���t�▼�������G���t������A��A��ɗ����̂ł͂Ȃ������̂ł����x
+【泉のエルフ】『茨のエルフ、あなたは木の実のエルフや名も無きエルフたちを連れ帰りに来たのではなかったのですか』
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibad0009
-�y�C�o���z�u�������c�c���A����́c�c�v
+【イバラ】「あうっ……そ、それは……」
 
 #voice izud0005
-�y��̃G���t�z�w�܂��������Ȃ����͌��E�̊O�֏o���݂̂Ȃ炸�A�l�ԂƊւ��ȂǂȂ�Ƃ��������ȁx
+【泉のエルフ】『まったくあなた方は結界の外へ出たのみならず、人間と関わるなどなんという愚かな』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0010
-�y�C�o���z�u�Z��A�Ȃ������ɁH�v
+【イバラ】「兄上、なぜここに？」
 
 #voice izud0006
-�y��̃G���t�z�w���Ȃ�����T���ɗ��܂����B���E����������߂��̂ł���B���c���ꂽ��Ȃ�Ƃ��܂��x
+【泉のエルフ】『あなた方を探しに来ました。結界が閉じる日も近いのですよ。取り残されたらなんとします』
 
 ;FACE I11F1
 #face f_iba_0_11f1 94 466
 
 #voice ibad0011
-�y�C�o���z�u���A������A�{�N�͂������A��߂����Ɓc�c�v
+【イバラ】「だ、だから、ボクはこいつらを連れ戻そうと……」
 
 #voice izud0007
-�y��̃G���t�z�w�ꏏ�ɂȂ��ėV��ł����̂͂킩���Ă��܂���B��̃G���t�A���Ȃ��ɂ��̔C����C�����̂͊ԈႢ�ł����x
+【泉のエルフ】『一緒になって遊んでいたのはわかっていますよ。茨のエルフ、あなたにこの任務を任せたのは間違いでした』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0012
-�y�C�o���z�u�����c�c�v
+【イバラ】「うっ……」
 
-���������΃C�o���͌Z����ČĂ�ł������ǁA���̃G���t�̓C�o���̌Z�Ȃ̂��H
+そういえばイバラは兄上って呼んでいたけど、このエルフはイバラの兄なのか？
 
 #voice izud0008
-�y��̃G���t�z�w�������A�Ⴂ�܂��l�̎q��B���͂��Ȃ���̂悤�ɐ��B�ɂ�錌�����������܂���x
+【泉のエルフ】『いいえ、違います人の子よ。我らはそなたらのように生殖による血縁を持ちえません』
 
-�����l���Ă������Ƃ��`������H
-���������̕ԓ��͓��̒��ɒ��ځc�c�H
+俺が考えていたことが伝わった？
+しかもその返答は頭の中に直接……？
 
 #voice izud0009
-�y��̃G���t�z�w�����ł��A�G���t�͎����o��Ό�����g�킸�Ƃ��ӎv��a�ʂł���悤�ɂȂ�܂��B�����p���Ȃ���Ό��t�̈Ⴂ�ȂǍ����Ȃ��Ɓx
+【泉のエルフ】『そうです、エルフは時を経れば言語を使わずとも意思を疎通できるようになります。言語を用いなければ言葉の違いなど些末なこと』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0013
-�y�C�o���z�u�������A��߂��̂̓{�N�̖�ڂ̂͂��Ȃ̂ɁA�Z��͉������ɂ�����ł����H�v
+【イバラ】「こいつらを連れ戻すのはボクの役目のはずなのに、兄上は何をしにきたんですか？」
 
 #voice izud0010
-�y��̃G���t�z�w���Ȃ�����A��߂��ɂł��x
+【泉のエルフ】『あなた方を連れ戻しにです』
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0014
-�y�C�o���z�u���c�c�I�H�v
+【イバラ】「っ……！？」
 
-�C�o���̊炪�����ɍʂ���B
+イバラの顔が驚愕に彩られる。
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0015
-�y�C�o���z�u���A����̓{�N�̖�ڂŁc�c�v
+【イバラ】「そ、それはボクの役目で……」
 
 #voice izud0011
-�y��̃G���t�z�w���͂₻��ɂ͋y�т܂���B��ڂ��ʂ����ɂ͂܂����Ȃ��͗c�������悤�ł��x
+【泉のエルフ】『もはやそれには及びません。役目を果たすにはまだあなたは幼かったようです』
 
-�Z��Ƃ��ɂ���Ȃ��Ƃ������A�C�o���͉��������ɐO�����񂾁B
+兄上とやらにそんなことを言われ、イバラは悔しそうに唇を噛んだ。
 
 #voice izud0012
-�y��̃G���t�z�w�����A�A��܂��傤�B��̃G���t�A�؂̎��̃G���t�A���������G���t�����x
+【泉のエルフ】『さぁ、帰りましょう。茨のエルフ、木の実のエルフ、名も無きエルフたち』
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kond0020
-�y�R�m�~�z�u��`���Ⴀ�A�N���A��Ȃ��Ă����̂��Ȃ��`�H�@�{�N�̓R�m�~�����`���O���t��������A�q�i�^���c�L���������i�i�V����Ȃ�����ˁ`�H�v
+【コノミ】「ん〜じゃあ、誰も帰らなくていいのかなぁ〜？　ボクはコノミだし〜名前が付いたから、ヒナタもツキヨももうナナシじゃないもんね〜？」
 
-�̂قق�ƁA�����R�m�~�͐^��������C�Y�~�̔����𗼒f���Ĕ��΂񂾁B
+のほほんと、だがコノミは真っ向からイズミの発言を両断して微笑んだ。
 
 #voice izud0013
-�y��̃G���t�z�w�؂̎��̃G���t��B���Ȃ��͂��̐l�Ԃ̗̈�ɂ���قǂ܂łɗ��܂肽���̂ł����H�x
+【泉のエルフ】『木の実のエルフよ。そなたはこの人間の領域にそれほどまでに留まりたいのですか？』
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kond0021
-�y�R�m�~�z�u���������킯����Ȃ����ǁ`�A�܂����Ԃ����邵�A����������ƗV��ł������ȁ`�v
+【コノミ】「そういうわけじゃないけど〜、まだ時間もあるし、もうちょっと遊んでたいかな〜」
 
 #voice izud0014
-�y��̃G���t�z�w�c�c�Ȃ�قǁB���Ȃ��炵�������ł��ˁx
+【泉のエルフ】『……なるほど。あなたらしい答えですね』
 
 ;FACE K06F
 #face f_kon_0_06f 94 466
 
 #voice kond0022
-�y�R�m�~�z�u��`�H�@�����ȁ`�H�@�{�N�炵�����Ăǂ��������Ɓ`�H�@�{�N�킩��Ȃ���`�v
+【コノミ】「ん〜？　そかな〜？　ボクらしいってどういうこと〜？　ボクわかんないや〜」
 
 #voice izud0015
-�y��̃G���t�z�w�ł́A���������G���t�����ɖ₢�܂��傤�B���Ȃ������͂����ŕ�炷���Ƃ�]�݂܂����H�x
+【泉のエルフ】『では、名も無きエルフたちに問いましょう。そなたたちはここで暮らすことを望みますか？』
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
 
 #voice hind0013
-�y�q�i�^�z�u�����c�c�����ł��āA�j���Q�����񂽂��Ƃ��Ȃ��Z�J�C�ł��Ă��ƁH�v
+【ヒナタ】「あぅ……ここでって、ニンゲンさんたちとおなじセカイでってこと？」
 
 #voice izud0016
-�y��̃G���t�z�w�����ł��B�������Ȃ������������ɋ��邱�Ƃ�]�ނȂ�A���̗̈�͍Ăт��Ȃ��疼�������G���t���󂯓���邱�Ƃ͂Ȃ��ł��傤�x
+【泉のエルフ】『そうです。もしそなたたちがここに居ることを望むなら、我らの領域は再びそなたら名も無きエルフを受け入れることはないでしょう』
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 #voice tukd0008
-�y�c�L���z�u�󂯓���Ȃ��A�ł��H�v
+【ツキヨ】「受け入れない、です？」
 
-�q�i�^�ƃc�L���������Đk���オ�����B
+ヒナタとツキヨが揃って震え上がった。
 
-�u����A������Ƒ҂��Ă���B�Ȃ񂩂��̌������͋������݂ĂȂ����H�v
+「ちょ、ちょっと待ってくれ。なんかその言い方は脅迫じみてないか？」
 
-�v�킸�������ނƁA�C�Y�~�͉��̕��ɂ����Ɩڂ��������B���̖ڂ͂܂�Ŗi���錢������悤�ȗ₽�����̂������B
+思わず口を挟むと、イズミは俺の方にちらりと目を向けた。その目はまるで吠える犬を見るような冷たいものだった。
 
 #voice izud0017
-�y��̃G���t�z�w��͂������Ȃ��̂́A���ɂƂ��ĕK�v�̂Ȃ����݂��Ƃ������ƁB���������G���t�ȂǁA��炪�{���K�v�ȂǂȂ��̂ł��x
+【泉のエルフ】『紋章を持たないのは、我らにとって必要のない存在だということ。名も無きエルフなど、我らが養う必要などないのです』
 
-�o���������̃C�o���̌������v���΁A�G���t�ɂƂ��Đl�Ԃ�n�[�t�G���t�A�_�[�N�G���t�Ȃ�ĂƂ�ɑ���Ȃ����̂Ȃ񂾂낤�B
+出会ったころのイバラの言動を思えば、エルフにとって人間やハーフエルフ、ダークエルフなんてとるに足りないものなんだろう。
 
-�ٔ�������C�̒��A���������ƃC�o��������������B
+緊迫した空気の中、おずおずとイバラが手を挙げた。
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0016
-�y�C�o���z�u�����c�c�ځA�{�N�͖߂�c�c���ǁA�{�N�ɂƂ��ăq�i�^��c�L���͕K�v�Ȃ��̂ɂȂ�������A��A�肽���c�c�ł��v
+【イバラ】「うぅ……ぼ、ボクは戻る……けど、ボクにとってヒナタやツキヨは必要なものになったから連れ帰りたい……です」
 
 #voice izud0018
-�y��̃G���t�z�w��̃G���t���]�ނ̂ł���΁A�������������G���t�������󂯓���܂��傤�B�ł́A�߂�܂��傤�B�����x
+【泉のエルフ】『茨のエルフが望むのであれば、我らも名も無きエルフたちを受け入れましょう。では、戻りましょう。さぁ』
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0017
-�y�C�o���z�u���H�@�ł��A�܂����E������܂łɂ͎��Ԃ�����񂶂�c�c�H�v
+【イバラ】「え？　でも、まだ結界が閉じるまでには時間があるんじゃ……？」
 
 #voice izud0019
-�y��̃G���t�z�w���̗͂��؂�Č��E�͍��������Â��Ă��܂��B���Ȃ������͂Ƃ������A�n�[�t�G���t��_�[�N�G���t�͂��܂Œʂ邱�Ƃ��ł��邩�c�c�x
+【泉のエルフ】『月の力を借りて結界は今も少しづつ閉じています。そなたたちはともかく、ハーフエルフやダークエルフはいつまで通ることができるか……』
 
 #voice izud0020
-�y��̃G���t�z�w����ɁA����ȏ�l�ԂƂ̉����ł��邱�Ƃ͗ǂ����Ƃł͂Ȃ��ł��傤�B�l�ԂƂ̉��͂�����Ж�������܂��x
+【泉のエルフ】『それに、これ以上人間との縁ができることは良いことではないでしょう。人間との縁はいずれ災厄を招きます』
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0018
-�y�C�o���z�u���c�c����ȁc�c����Ȃ��ƂȂ��Ɓc�c�v���c�c���ǁv
+【イバラ】「そ……そんな……そんなことないと……思う……けど」
 
 #voice izud0021
-�y��̃G���t�z�w���Ȃ����������̐X�łƂǂ܂��Ă����̂Ō����邱�Ƃ��ł��܂������A�����l�Ԃɝ����X����������Ă����Ƃ�����c�c�x
+【泉のエルフ】『そなたたちがこの森でとどまっていたので見つけることもできましたが、もし人間に攫われ森を遠く離れていたとしたら……』
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0019
-�y�C�o���z�u�c�c���v
+【イバラ】「……あ」
 
-�����܂Ō����āA�悤�₭�C�o���͐l�Ԃ����������w�����̂ł͂Ȃ��ƋC�������݂����������B
+そこまで言われて、ようやくイバラは人間が俺だけを指すものではないと気がついたみたいだった。
 
 #voice izud0022
-�y��̃G���t�z�w�����܂łɖ߂�Ȃ��Ȃ�Ƃ�����܂���B���͂����S�z���Ă���̂ł���x
+【泉のエルフ】『満月までに戻れなくなるとも限りません。我らはそれを心配しているのですよ』
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0020
-�y�C�o���z�u�́A�͂��B�킩��܂����A�Z��v
+【イバラ】「は、はい。わかりました、兄上」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�C�o���͉���U��Ԃ�Ȃ�����A�q�i�^�ƃc�L���ɂ��Ă���悤�ɑ������B
+イバラは俺を振り返りながらも、ヒナタとツキヨについてくるように促した。
 
 ;CHR H02F1_A R
-#cg �q�i�^ hin_1_02f1_a �E
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hind0014
-�y�q�i�^�z�u�͂��c�c�j���Q���A����c�c�v
+【ヒナタ】「はぅ……ニンゲン、さん……」
 
 ;CHR T02F L
-#cg �c�L�� tuk_1_02f ��
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 
 #voice tukd0009
-�y�c�L���z�u�������������c�c�v
+【ツキヨ】「あぅうううう……」
 
-�q�i�^�ƃc�L���͖��c�ɂ������ɉ��������B
+ヒナタとツキヨは名残惜しそうに俺を見た。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 ;CHR K01F1B C
-#cg �R�m�~ kon_1_01f1b ��
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice kond0023
-�y�R�m�~�z�u���ꂶ��`�{�N�����ǂ�[���Ɓ`�B���肪�ƁA�y����������j���Q������v
+【コノミ】「それじゃ〜ボクももどろーっと〜。ありがと、楽しかったよニンゲンくん」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-�R�m�~�͊�����������ƋA�邱�Ƃ����߁A�y�������Ɏ��U�����B
+コノミは割合あっさりと帰ることを決め、楽しそうに手を振った。
 
-���c���ꂽ���́A���܂ł��ЂƂ��R�Ɨ����Ă����B
+取り残された俺は、いつまでもひとり呆然と立っていた。
 
-;�Ó]
+;暗転
 ;#face off
 
 #cg all clear
@@ -726,87 +726,87 @@
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb004 �Đ�
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;�w�i�F�R�����i��j
+;背景：山小屋（夜）
 ;BG BG07b_3
 #cg all clear
 #bg BG07b_3
 #wipe fade
 
-�����Ɉ�l�߂�ƁA�n���݂����ɍL���������B
+小屋に一人戻ると、馬鹿みたいに広く感じた。
 
-����ȂɍL����������Ȃ��͂������ǁA���������ɂ͂S�l�������B
+そんなに広い小屋じゃないはずだけど、いつもここには４人がいた。
 
-���ꂪ�����Ȃ艴�ЂƂ�ɂȂ����񂾁B�����A�L���������邩�c�c�B
+それがいきなり俺ひとりになったんだ。そりゃ、広くも感じるか……。
 
-�͂��߂͉��ЂƂ�ŏZ�ނ��肾�����񂾂��A�����̗\��ɖ߂����������B
+はじめは俺ひとりで住むつもりだったんだし、当初の予定に戻っただけだ。
 
-�Ȃ̂ɂǂ����Ă���Ȃɕs���Ŏ₵���̂��낤�B
+なのにどうしてこんなに不安で寂しいのだろう。
 
-������A����ɉ��������Ă������̐����߂��Ⴍ����ɂ��Ă����������ɁA�o�čs�����͂���Ȃɂ�������o�čs�����Ⴄ�̂��B
+あいつら、勝手に押しかけてこっちの生活めちゃくちゃにしていったくせに、出て行く時はあんなにあっさり出て行っちゃうのか。
 
-����܂�ɂ������Ȃ����c�c�H
+あんまりにも薄情じゃないか……？
 
-�u�R�m�~�c�c�v
+「コノミ……」
 
-���̏����ɃR�m�~���ŏ��ɖK�˂Ă������̂��Ƃ��v���o���āA�ЂƂ�Ԃ₢�����̎��B
+この小屋にコノミが最初に訪ねてきた時のことを思い出して、ひとりつぶやいたその時。
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kond0024
-�y�R�m�~�z�u��`�H�@�Ă񂾁H�@�j���Q�����`��H�v
+【コノミ】「ん〜？　呼んだ？　ニンゲンく〜ん？」
 
-�n���q�ɂ̔����J���A������R�m�~�ƃc�L�������ꂽ�B
+地下倉庫の扉が開き、中からコノミとツキヨが現れた。
 
-;��������c�L���@�|�j�e��
+;ここからツキヨ　ポニテ＊
 
-�u�Ȃ��c�c�I�H�v
+「なっ……！？」
 
 ;CHR K09F1 R
-#cg �R�m�~ kon_1_09f1 �E
+#cg コノミ kon_1_09f1 右
 #wipe fade
 
 #voice kond0025
-�y�R�m�~�z�u���͂͂͂͂͂́`�A�т����肵�Ă�`�B�ˁ`�A�B��Ă�̖ʔ��������ł���`�H�v
+【コノミ】「あはははははは〜、びっくりしてる〜。ね〜、隠れてるの面白かったでしょ〜？」
 
 ;CHR T05F_P L
-#cg �c�L�� tuk_1_05f_p ��
+#cg ツキヨ tuk_1_05f_p 左
 #wipe fade
 
 #voice tukd0010
-�y�c�L���z�u�т����肵���ł��H�@���߂�Ȃ����ł��v
+【ツキヨ】「びっくりしたです？　ごめんなさいです」
 
-�u�ȁA�Ȃ�łӂ���Ƃ������Ɂc�c�I�H�@���܂������G���t�̗̈�ɖ߂����񂶂�Ȃ������̂��H�v
+「な、なんでふたりともここに……！？　おまえたちエルフの領域に戻ったんじゃなかったのか？」
 
 ;CHR K04F R
-#cg �R�m�~ kon_1_04f �E
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice kond0026
-�y�R�m�~�z�u��`�A���̂��肾�����񂾂��ǁ`�B�Ȃ�ł��ȁ`�A�������ɗ����ق����y�����������痈��������`�v
+【コノミ】「ん〜、そのつもりだったんだけど〜。なんでかな〜、こっちに来たほうが楽しそうだから来ちゃった〜」
 
 ;CHR T01F_P L
-#cg �c�L�� tuk_1_01f_p ��
+#cg ツキヨ tuk_1_01f_p 左
 #wipe fade
 
 #voice tukd0011
-�y�c�L���z�u�r���ŃC�Y�~�Ƃ͂���āA�߂��Ă��ĉB��Ă��ł��v
+【ツキヨ】「途中でイズミとはぐれて、戻ってきて隠れてたです」
 
-�u���O�����c�c�v
+「お前たち……」
 
-���͏����΂���C�Y�~�ɓ�����o�����B
+俺は少しばかりイズミに同情を覚えた。
 
-����Ȃӂ��ɋC�܂܂ȘA������������Ȃ�č��̐܂��d���A�悭�����͂���Ă�ȁB
+こんなふうに気ままな連中を引率するなんて骨の折れる仕事、よくあいつはやってるな。
 
-���ǁc�c�����A�R�m�~�ɂ͈ꌾ����Ȃ����Ⴂ���Ȃ��B
+けど……俺も、コノミには一言言わなくちゃいけない。
 
-;�I��������
+;選択肢発生
 #select a b
-�`�F�܂���Ă悩����
-�a�F�s���Ȃ��Ă悩�����̂��H
+Ａ：また会えてよかった
+Ｂ：行かなくてよかったのか？
 
 #label a
 #next dk01a
@@ -814,5 +814,5 @@
 #label b
 #next dk01b
 
-;�`��I���ˁwdk01a�x�փW�����v
-;�a��I���ˁwdk01b�x�փW�����v
+;Ａを選択⇒『dk01a』へジャンプ
+;Ｂを選択⇒『dk01b』へジャンプ
