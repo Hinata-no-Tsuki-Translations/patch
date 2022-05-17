@@ -21,7 +21,7 @@ for file in files:
                         else:
                             tsv_file += str(line_no) + "\t" + line
                             
-            g = open(os.path.join(output_folder, file + '.tsv'), encoding='utf-8', mode="w")
-            g.write(tsv_file)
+            with open(os.path.join(output_folder, file + '.tsv'), encoding='utf-8', mode="w") as g:
+                g.write(tsv_file)
 
             
