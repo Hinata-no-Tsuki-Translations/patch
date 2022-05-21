@@ -11,7 +11,7 @@ files = os.listdir(jpn_folder)
 
 for file in files:
     print(file)
-    d = {'Line': [], 'Jpn':[], 'Eng':[]}
+    d = {'Line': [], 'Jpn':[], 'Eng':[], 'Edit':[]}
 
     jpn_file = os.path.join(jpn_folder, file)
     try:
@@ -42,12 +42,13 @@ for file in files:
             pass
         else:
             d['Line'].append(line_no)
-            d['Jpn'].append(line)
+            d['Jpn'].append(line.strip())
             if eng_lines:
-                d['Eng'].append(eng_lines[line_no])
+                d['Eng'].append(eng_lines[line_no].strip())
             else:
                 d['Eng'].append('')  # machine translate
                 pass
+            d['Edit'].append('')
 
     df = pd.DataFrame(d)
     df.set_index('Line', inplace=True)
