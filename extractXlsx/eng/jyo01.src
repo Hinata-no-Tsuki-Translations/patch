@@ -1,0 +1,537 @@
+
+;#face off
+
+#bg black
+#wipe fade
+
+#mes clear
+
+#cg all clear
+
+#wipe fade 1000
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;※BGMch1 通常BGM
+;※BGMch2 アンビエント（環境音）
+
+;BGMch2 amb001 森１ 再生
+;#se 0 amb001
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#bg bg04_1
+#wipe fade
+
+#voice hina0003
+【？？？】「Onii-san!　Heelp〜！」
+
+A scene beyond imagination made me speechless。
+
+;SMODE 001 PLAY
+#label replay001
+#setscene 0
+#bg bg04_1
+
+;BGMch1 bgm003 ヒナタ 再生
+#bgm 0 bgm003
+
+;EVCG EV002A1
+#cg all clear
+#cg イベント ev002a1 背景
+#wipe fade
+
+Hanging down in midair was a cute girl, with limbs as delicate as young branches that they can easily break.
+
+White skin like alabaster, golden hair like honey that gathered/collected the sunlight, and blue eyes like a clear sky, which I rarely see around here.
+
+While such a beautiful girl writhes in the ivy she is entwined with, she reaches her hand towards me.
+
+Almost as if, it was a work of art……。
+
+#voice hina0004
+【？？？】「Dooon't juuust looook〜！　Leeeet meeee dooown〜！！」
+
+…but, regrettably the subject's facial expression and the motif are dissociated as a component of art.
+
+In these scenes, the subject's expression should be twisted in agony, or otherwise in esctacy, either one it should be.
+
+It's not like I have any artistic background, but I idly thought about it.
+
+While she is asking for help, there is a lack of urgency in her cheerful expression……。
+
+;SE se011 にょるん 再生
+#se 1 se011
+
+『Nyoron』
+
+While escaping reality, in the corner of my vision,  I caught sight of part of the vine that caught the girl slithering like a mollusk.
+
+Before long, it resembled a prey-searching snake evaluating its captured prisoner. 
+
+It had no eyes it could possibly see through, but it seems to have a sensory organ similar to that？
+
+I can understand logically I'm being targeted to, but it doesn't connect to my emotions and I don't feel a sense of crisis.
+
+Ivy……is a plant, right. If only flowers could bloom from it.
+
+――That's right, if flowers bloomed, the depiction of this trapped girl would also have been much more deeply coloured.
+
+I'm sure that scene would definitely have looked sensual.
+
+But of course even just with ivy, a situation with a girl tied up is sensual enough already.
+
+#voice hina0005
+【？？？】「Oniisaaaaaaaaaaaaaaaaaaaaaan！」
+
+The girl's scream echoes in the sky.
+
+Aa, this is a joke right? Or maybe I'm in a dream.
+
+When I left house this morning, I did not ever think that I'll get into this situation.
+
+No, I couldn't think this is a possibility.
+
+This goes way beyond the scope of my imagination.
+
+……because, this is impossible.
+
+;BGMch1 bgm003 FO停止
+#bgm 0 stop 1000
+;BGMch2 amb001 FO停止
+;#se 0 stop 1000
+#bgvoice stop
+
+;暗転（wait）
+#cg all clear
+#bg black
+#wipe fade
+
+「……that's about all」
+
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg bg05_1
+#wipe fade
+
+I looked at the small luggage I had put together and muttered. For now, it's good enough to bring what I need immediately.
+
+This house will be left as is, so if I need anything more, I can come again to take them.
+
+Even then, the things I think are important to my life now may eventually become unnecessary.
+
+「……next-」
+
+;SE se012 コインのじゃらん 再生
+#se 1 se012
+
+The silver coins I received from the village head makes a defining tinny (jyagari) noise in my hands.
+
+「With this much, I can get by for the time being.」
+
+I took out a few coins out of the pouch. Even with all these coins in my hand, it was light enough to make me uneasy.
+
+With only those livestock, I could only exchange for these much……。
+
+Even though the village head said he was concerned for me, but when it came to buying my livestock, he bought them off at a mercilessly low price.
+
+The result of that was these few silver coins. He really took advantage of my circumstances.
+
+After my mum died, since I still took care of my lifestock, it should have been more well-maintained and fed than any other livestock in the village.
+
+He said, his finances was also in dire straits.
+
+He said, it's not just about raising the livestock.
+
+It's not that I don't understand what the village head said.
+
+Because for the people who live in this remote village, every one of them are doing their best in their daily lives.
+
+……it's not that I don't know that.
+
+Since I decided to leave the village, I can't take care of them anymore. Even if I've decided to leave, at least sell my livestock for their sake.
+
+Rather than go wild or starve at my place, it should be much better for new owners to take care of them.
+
+Releasing them in the fields……the strong will survive on their own, but the weak will be driven out like weeds.
+
+Aside from the animals who came after mother died, I did not invest any time in maintaining the fields. By now, they are quite desolate.
+
+Though such a narrow field, mother was always taking care of it alone.
+
+Humans are the same as crops in the fields. We help one another as we live together in the village, but we cannot afford to care for those who may not be useful to the village.
+
+Unneeded things are cut off and thinned, fats are reused as fertilizer. If not, the fields cannot be maintained.
+
+The me who says I'm released from my shackles and decided to live in the forest, I wonder if I was a crop or a weed.
+
+When mother was alive, we managed to maintain decency as a member of the village, but after mother died, my motivation was lost.
+
+Like my mother, raise a few livestock, maintain the fields……then so what.
+
+I cannot bear to live in this village.
+
+Isn't that so. How can I get along with those who shun me as an outsider just because I can read a few words?
+
+How should I get along with those who do not know the value of writing or academia?
+
+Until now I was an outsider. Instead of living suffocatingly in the village, living alone in the forest should suit be better.
+
+And this benefits the other villagers as well.
+
+「Well then……it's about time to go」
+
+While thinking that it could be the last, I turn around to take sight at the intimately familiar house once more.
+
+Will I ever come back to this house, I wonder.
+
+;SE se013 戸を閉める 再生
+#se 1 se013
+
+……I'm going to take only belongings that I'll need for the time being. Although the fact that I was to depart from here soon does not change, my determination to leave made me feel sentimental.
+
+;背景：山道（昼）
+;BG BG06_1
+#cg all clear
+#bg bg06_1
+#wipe fade
+
+;BGMch2 amb001 森１ 再生
+;#se 0 amb001
+#bgvoice amb001
+
+「Maybe I should have reduced my luggage a little more」
+
+After a while of traversing the mountains, I whined to myself.
+
+As it was not certain that I would find a base immediately, I regretted not deciding where I would stay before carrying my luggage.
+
+I did thought to use a mountain hut built a long time ago, but no one in the village knows if the hut still exists.
+
+That's also because the mountain hut is said to be near a dark forest where monsters appear, so no villager gets close to it.
+
+My grandfather said when he was middle-aged there was a person living there, so I think the hut might still remain there.
+
+In the first place, there are few villagers who can read and write, so no proper records were left.
+
+It is also suspicious if the village council does any work at all.
+
+To the extent it makes me question if they made the job position just to drink and socialize together.
+
+……What should I do if it is completely weathered away. If I don't have the hut I was counting on, I might no choice but to return to the village.
+
+As I thought, maybe I should have aimed for the town, not the mountain hut?
+
+But there are many people in town, and I have no idea how to get clothes, food and shelter in town.
+
+「……Aaー、heavy」
+
+The luggage I intended to be small, was too heavy to swing around freely.
+
+「But, it's mostly an animal trail」
+
+Whlie wiping dripping sweat with the back of my hand, I gazed at the pathless road and muttered.
+
+The roadway is under renovation and few people walk the the path near the mountain, so even by walking it's inconvenient.
+
+I can see why no one has lived in this forest for a while.
+
+The overgrown thick trees in the forest seem to look down menacingly, almost as if to threaten any intruders.
+
+Come to think of it, there have been strange rumors of this forest for a long time.
+
+It is said that monsters appear in this forest.
+
+It may be a legend to frighten children from entering the forest, I was often told that monsters would appear when I was a kid.
+
+That there are non-anthropomorphic beings like trolls and orcs roaming in the forest, that their favourite food was human children.
+
+And it seems that the country itself has declared not to enter too deep because monsters will come out.
+
+That's why even adults form groups and do not venture too deep into the forest.
+
+On that note, there may be resources in the forest, but no one would risk themselves for a place where it is uncertain whether there may be resources or not.
+
+The villagers are not that wealthy, but able to make a rich enough living in that remote village.
+
+……but is it really true monsters will appear?
+
+Plus there is a neighbouring country beyond the forest, so it may be a story to avoid pointless conflicts.
+
+In the olden days, this country had fierce conflicts with neighboring countries, so it is quite possible that monsters meant the enemies.
+
+「……though in that case, it would be interesting if elves appeared」
+
+I having seen them, but elves seem to be a very beautiful race. What's more, they are said to bring wealth and glory or something.
+
+In the royal capital, there are many rich people who keep such elves as pets. I have been told such a story by a traveler who occasionally visited the village.
+
+Are they said to bring wealth and glory because rich people keep them as pets? Or is really keeping them as pets made them wealthy?
+
+It's a pity that we can never confirm the truth of the story as those who have only been to the town at best.
+
+Anyway, it's a drunken story at the sake table, but if it sells really high, I definitely want to catch one. Then, it would be good to go to the royal capital and start a business.
+
+More than that, there is also a simple curiosity that I want to meet and see. What kind of creature is an elf that is so beautiful that it captivates?
+
+I've heard that elves live in this forest, but most of them are the morals of human beings who got carried away and faced a terrible punishment.
+
+Like the story of monsters in the forest, it's meant to tell a child something, and it's just as suspicious if it can be believed or not.
+
+If elves really appearaed, even if I can't catch it, I catch a glance and worship it.
+
+……however. The dense forest reminds me of strange monsters more strongly than the fun delusions of beautiful elves and fairies.鬱蒼とした森は、綺麗なエルフや妖精と言った愉快な妄想よりも、得体のしれない魔物たちをより強く想起させる。
+
+For example, a human-eating demon lurking in the shadow of a tree, under the grass, and so on……
+
+「……stupid」
+
+At least I've never heard of such a story along the roadway.
+
+Here is not far from that roadway, and not far from the village, there's no reason for monsters appearing in this place.
+
+There are many rumors about the forest, but most of them should be myths to warn children. I decided.
+
+When I was a kid, I sometimes laughed holding my stomach at the horror story that was told as if it were true.
+
+I think there wasn't a single credible story about the appearance of monsters from the day I was born.
+
+Someone's grandfather……I've heard, but it's a story conjured by adults who tease children and lie…….
+
+At best, there's hearsay from travelers that monsters had appeared.
+
+If so, are the rabbits and birds that hunters often hunt safe from monsters?
+
+At best, it's a weasel or a fox.
+
+Un. That's right. That's decided.
+
+It's unreasonable to be scared of such things.
+
+No, a wolf or a bear may come out once in a while……even if it does……if I come across it I'll be dead. Will be good if I don't meet any.
+
+;SE se014 騒々しい羽音を立てて鳥が飛び立つ 再生
+#se 1 se014
+
+『Gyaaaaaaaaaaa！』
+
+「Mm！？」
+
+I jumped suddenly from the cry I heard nearby.
+
+When I looked there in a hurry, the birds flew away with a loud noise.
+
+「Oh it's a bird. Afraid if it was an orc」
+
+Saying these words to no one but myself to get rid of unpleasant thoughts.
+
+A monster that attaches to humans, slurps its vitality, and turns them into souless humans.
+
+The fairy tale I heard when I was a kid could not leave my mind.
+
+In reality, the beasts are much scarier than those, and it's those that I should be weary of. But my mind swims with imaginations of non-anthropomorphic monsters.
+
+……no no. That kind of thing, can't possibly exist.
+
+But, if they did, what should I do.
+
+#voice hina0006
+【？？？】「……Honyaa……Funiyuuu……Hel……」
+
+「！？」
+
+I pressed my lips shut to stifle a scream. That was definitely a human voice just now.
+
+When I was scared for an unknown reason, I heard someone making noise, so I listened anxiously.
+
+#voice hina0007
+【？？？】「……Nyuuuuuuuu……Iyaaaan……Pukyuuuuuuuuuuuuuuuuuu……」
+
+……What's that？　Could be a scream, could be a prank.
+
+As soon as I recognized it as a human voice, my calmness returned.
+
+「……There's still people here huh」
+
+I thought I had finally reached deep into the forest, but I felt relieved and disappointed.
+
+#voice hina0008
+【？？？】「……Nyaaaaaaaaaaaaa……Help……」
+
+「Is it calling for help？」
+
+I felt like I could clearly hear the words calling for help, and for a moment I thought to run away, but for the time being, I went closer to check it out.
+
+
+;EVCG EV002A1
+#cg all clear
+#cg イベント ev002a1 背景
+#wipe fade
+;BGMch1 bgm003 ヒナタ 再生
+#bgm 0 bgm003
+
+「What is this……」
+
+Then, going in a bit deeper into the forest, the sight of a girl hanging in mid-air, entwined in ivy greeted my eyes.
+
+It doesn't look like anyone from these parts, and I don't recognize her at all. Such a beautiful child, I should be able to remember it at first glance.
+
+Perhaps she was traveling, separated from her companions and became lost in the forest.
+
+But, that's some light clothing……。
+
+No, aside from the child's origin, I couldn't immediately think of what to do in a scene that was far from the common sense I had lived in.
+
+Because it's not an man-made trap that caught the girl, it's ivy.
+
+#voice hina0009
+【？？？】「Nnnkyuuuuuuuu……help……onii-san！」
+
+「Do you really want my help？」
+
+The question leaked from my mouth because she lacked a sense of urgency.
+
+If she's just fooling around, it's boring to reach out and go along with it.
+
+It is also possible that children are just playing with one another.
+
+I was surprised when I first saw it, but it's possible to tie her with ivy growing around there. Children can do this kind of mischief.
+
+#voice hina0010
+【？？？】「Etto etto, please help me. Let me downー」
+
+「You were playing and got trapped？」
+
+The child shook her head after I was tired of hearing her call for help and inquired the situation.
+
+;EVCG EV002A2
+#cg all clear
+#cg イベント ev002a2 背景
+#wipe fade
+
+#voice hina0011
+【？？？】「I got caughtー」
+
+「……Caught？」
+
+The ivy moved in front of my eyes as I wondered if it was tag or something.
+
+Eh？　Why is it moving？
+
+No, ivy grows so it moves in that sense, but this ivy moves with physically ...I-is this ivy a monster!?
+
+;EVCG EV002A1
+#cg all clear
+#cg イベント ev002a1 背景
+#wipe fade
+
+;冒頭使い回し
+#voice hina0012
+【？？？】「Onii-san！　Heeelpp〜！」
+
+The child entwined with the ivy cried out and wriggled her body, but there was not a single sign that she could be released at all.
+
+As if asking for help, her hands reached towards me.
+
+#voice hina0013
+【？？？】「Stop waatching〜！　LetーMeーDoWNー〜！！」
+
+;SE se011 にょるん 再生
+#se 1 se011
+『Nyoron』
+
+The ivy, which behaved as slimy as a mollusk, seemed to set me as a new target.
+
+;EVCG EV002A2
+#cg all clear
+#cg イベント ev002a2 背景
+#wipe fade
+
+#voice hina0014
+【？？？】「ONIIII-SAAAAAAAAAAAAAAAAAAAAAAAAN！」
+
+By the way, the child who is asking for help is pretty beautiful…… I escaped from reality for a moment, and then jumped away from the attacking ivy.
+
+;SE se015 足音１ 再生
+#se 1 se015
+
+It seems that only the linear movement towards me was very fast.
+
+I'm so confused that I don't really understand the situation I'm in.
+
+「Uu、Uwaa！　Monster！」
+
+After being attacked by the monster of the ivy, my thoughts and emotions were finally connected in a straight line.
+
+Oh right, it was said that there are monsters in this forest who hang themselves and kill their entwined prey.
+
+At least it seems that story wasn't a lie.
+
+Indeed, this ivy seems to be able to hang and kill its prey.
+
+……Strangle to death？
+
+As I calmly recalled the story I had heard in the past, I realized that this monster was in front of me. I was so shocked that I hurriedly ran off.
+
+……Strangled to death？
+
+Being targeted means that I'm also considered a prey!?
+
+Oh no. Bad. Oh no.
+
+Could this be a life-threatening danger?
+
+There seems to be a limit to the distance that the ivy can grow, and when I step back, the ivy squirms and twists, but eventually it goes down.
+
+Can't move that far?
+
+I was relieved that the ivy had given up on catching me, but one child was still caught in front of me.
+
+……I forgot。
+
+#voice hina0015
+【？？？】「Aaan, I said help me. Uhyahyahya, it tickles……Uhyahyahyahyahya」
+
+The hanging child is laughing without any sense of crisis.
+
+No, she is tickled to the point of laughter?
+
+The movement of the ivy monster doesn't seem to be that fast unless it moves straight, and if you run away quickly it will be difficult to for it to chase.
+
+But what should I do if I get caught.
+
+
+;SMODE 001 STOP
+#endscene
+
+
+What should I do anyway?
+
+;▼選択肢：助けるor助けない
+
+;選択肢発生
+;Ａ：助ける
+;Ｂ：助けない
+
+;Ａを選択⇒『jyo01a』へジャンプ
+;Ｂを選択⇒『jyo01b』へジャンプ
+
+#select jyo01a jyo01b
+Ａ：Help
+Ｂ：Do not help
+
+#label jyo01a
+#next jyo01a top
+
+#label jyo01b
+#next jyo01b top
