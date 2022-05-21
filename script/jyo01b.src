@@ -5,47 +5,47 @@
 #bg bg04_1
 #wipe fade
 
-いくらちょっと見には殺傷能力のなさそうな蔦でも、モノが魔物となれば、それだけで恐ろしい。
+Even if the ivy seems to have no killing ability at first glance, that thing is a monster, and that itself is scary.
 
-だって、獲物を縊り殺すなんて物騒な噂があるのだ。
+After all, there are rumors that it hangs and kills its prey.
 
-見たところ人を持ち上げられるだけあって耐久性はかなりあるようだが、稼働範囲はそれほどないらしいことだけはわかっている。
+From what I see, it seems to be quite durable because it can lift people, but it seems that the attacking range is not too far.
 
-それにさっきは突然こちらに向かってきたから速い動きのような気がしたけど、実際にはそれほど動きも早くはないみたいだ。
+Also, since it suddenly attacked me, I felt like it was moving fast, but in reality it doesn't seem to move that fast.
 
-だとすれば、今のうちに逃げるのが賢い選択ではないのだろうか。
+If so, isn't it a wise choice to escape now?
 
-捕まった子には可哀想だが、俺だって命が惜しい。
+I'm sorry for the captured child, but my life is also precious.
 
-誰かを助けようとして死ぬなんて、そんな劇的な展開は想像するだけで十分だ。
+It's enough to simply imagine a dramatic development where you die trying to save someone.
 
-逃げようとして背中を向けると、捕まっている子から声がかかった。
+As I turned my back to escape, I heard a voice from the captured child.
 
 #voice hina0018
-【？？？】「おにいさーん、たすけてよーぅ。もうボクおなかいたくて……あは、あははははは、くすぐっちゃだめぇー！」
+【？？？】「Onii-san, help me pleasee. My stomach is already hurting……aha、ahahahahaha、stop tickling meeeー！」
 
-「……やっぱりほっといてもよさそうだな」
+「……it seems it is okay to leave it alone」
 
-捕まっているっていうのに、あんまり危機感ないし。
+Even though she's caught, she doesn't feel a sense of crisis.
 
 #voice hina0019
-【？？？】「たすけてってばー、あ、あたまに血がのぼーるぅー……」
+【？？？】「I said help me, ah, blood is dripping from my headー……」
 
-あぁ、もう！　逃げようって気も削がれるくらいに緊張感がないな！
+Aaa, fine! I'm not so frightened that I feel like running away！
 
-まぁ、逆さ吊りはかわいそうか。
+Well, I feel pity for her hanging upside down.
 
-俺はひとまず逃げ出そうとするのをやめて、蔦の魔物のほうに向きなおった。
+I stopped trying to escape for the time being and turned towards the ivy monster.
 
-ちょっとやってみてやっぱり無理だと思ったら、改めて逃げればいいさ。
+If I try for a while and find it impossible, I can run away again.
 
-「とりあえず小刀で切りつけてみるか」
+「Anyway, see if a knife can cut it」
 
-もしこれで駄目だったら、その時は申し訳ないけど捕まってる子にはあきらめてもらおう。
+If this doesn't work, sorry to the captured child, but I will give up.
 
-動きも遅いようだし、それから逃げるのでも多分大丈夫だろう。
+It seems to move slowly, and it's probably safe to run away from it later.
 
-俺は小刀を取り出すと、蔦の魔物を切ろうと試みた。
+I took out a small knife and tried to cut the ivy monster.
 
 ;jyo01cへ
 #next jyo01c

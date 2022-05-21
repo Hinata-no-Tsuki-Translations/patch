@@ -6,39 +6,39 @@
 #cg イベント ev002a1 背景
 #wipe fade
 
-さすがに人として、困っている他人を助けないわけにはいかない。
+As a person, I cannot ignore others in need.
 
-危機に出くわしておいてみすみす見殺しにするのは、さすがに寝覚めが悪すぎるよな。
+To leave another behind in danger and watch them die, I'll definitely get nightmares from that.
 
-助けてって言われちゃってるし。
+I've been asked to help.
 
-「……けど、魔物なんかと戦ったことはないからな」
+「……But, I've never fought a monster」
 
-いや、それどころではなく魔物じゃなくても戦ったことなんかない。
+No, I've never fought even if it wasn't a monster.
 
-どちらかと言うと、子どもの頃から人間同士の争いでさえ避けられるものなら避けてきたぐらいだ。
+If anything, since I was a kid, I've avoided even conflicts between humans if they can be avoided.
 
-喧嘩するぐらいなら一人で本を読んでいる方がずっと気楽だったからな。
+It was more comfortable to read a book alone than to quarrel.
 
-でも、今はそんなことも言っていられない。
+But now I can't say that.
 
-どうにかして捕まっている子を助けなくては。
+I have to help the child who is caught somehow.
 
-これが普通の生き物なら、弱点らしきものがどこかにあるものだけど、蔦の魔物はどこが頭でどこが腹なのかも判然としない。
+If this is a normal creature, there is something that seems to be a weak point, but it is not clear where the ivy monster is the head and the belly.
 
-本はたくさん読んできたけど、こんな魔物の倒し方なんてどの本にも載ってなかったぞ！？
+I've read a lot of books, but none of them have a way to defeat such a monster!?
 
-「千切ったら増殖したりしないよね……」
+「If cut into pieces, it won't multiply right……」
 
-近づいて恐る恐るちょんと端を突いてみると、蔦はくねくねと踊った。
+As I approached and pierced the edge cautiously, the ivy danced in a squiggly manner.
 
-そもそも千切れるものなんだろうか？
+Is it something that can be cut in the first place?
 
-人ひとりぶら下げてるってことは、結構な耐久力のある代物なんじゃないのか。
+Isn't the fact that it can hang a person proof that it is fairly durable?
 
-ひょっとしたら戦いを挑むこと自体が無謀なんじゃないのか。
+Perhaps it is reckless to challenge the ivy to battle itself.
 
-迷っていると、捕まっている子が潤んだ目で俺を見つめてきた。
+When I was at a loss, the captured child stared at me with moist eyes.
 
 ;EVCG EV002A2
 #cg all clear
@@ -46,21 +46,21 @@
 #wipe fade
 
 #voice hina0016
-【？？？】「おにいさぁーん、はやくたすけてくれないと……ふひゃ……わきばらいたい……ふひゃひゃひゃひゃ」
+【？？？】「Onii-saan、If you don't save me soon……fuhya……my sides will hurt……fuhyahyahyahya」
 
-「……それは笑い過ぎじゃないかな」
+「……Aren't you laughing too much?」
 
 #voice hina0017
-【？？？】「だって、くすぐったい……」
+【？？？】「But, it's ticklish……」
 
-助けを求められているというのに、そして相手は魔物だというのに、この子がいるだけで気勢が削がれてしまう。
+Even though I'm being asked for help, and my opponent is a monster, the presence of this child makes me lose my temper.
 
-だが、そのおかげでかえって変な緊張のようなものがどこかへ飛んでいった。
+However, thanks to that, a strange tension fled my body.
 
 
-「とりあえず小刀で切りつけてみるか」
+「Anyway, see if a knife can cut it」
 
-冷静になった俺は、懐から小刀を取り出すと、蔦に切りかかった。
+I became calm, took out the small knife from my pocket and started to cut the ivy.
 
 ;jyo01cへ
 
