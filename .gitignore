@@ -1,5 +1,5 @@
 extractXlsx/**/**
-!extractXlsx/extractXlsx.py
+!extractXlsx/*.py
 
 insertXlsx/**/**
-!insertXlsx/insertXlsx.py
+!insertXlsx/*.py

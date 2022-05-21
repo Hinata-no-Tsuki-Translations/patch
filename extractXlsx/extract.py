@@ -35,7 +35,7 @@ for file in files:
         with open(eng_file, encoding='shift_jis') as g:
             eng_lines = g.readlines()
         if len(eng_lines) != len(jpn_lines):
-            print("Unequal number of lines for japan and english for " + file + ". Engilsh not parsed.")
+            print("Unequal number of lines for japan and english for " + file + ". English not parsed.")
 
     for line_no, line in enumerate(jpn_lines):
         if not line or line == '' or line =='\n' or line.isspace() or line[0] == ';' or line[0] == '#':
