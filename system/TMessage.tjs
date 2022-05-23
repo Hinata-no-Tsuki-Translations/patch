@@ -1,7 +1,7 @@
 //==============================================================
 //	TMessage
 //==============================================================
-var DefaultMessageSize=6;
+var DefaultMessageSize=5.2;
 //var DefaultMessageColor=0xffffff;
 var DefaultMessageColor=tSettings.fontColor;
 //var DefaultMessageShadowColor=0x000000;
@@ -10,7 +10,7 @@ var DefaultMessageOutlineColor=tSettings.fontOutlineColor;
 var DefaultMessageWait=100;
 var DefaultMessageSizeStep=5;
 var DefaultMessageLineHeight=(int)(DefaultMessageSize*1.0)*DefaultMessageSizeStep;
-var DefaultMessageLinePitch=8;
+var DefaultMessageLinePitch=6;
 
 class TMessage{
 
