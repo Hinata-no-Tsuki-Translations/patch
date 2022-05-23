@@ -704,8 +704,14 @@ class TMStrings{
 					index=endIndex;
 				}
 
+<<<<<<< Updated upstream
 				if(currentTop+mstrings[index].height>windowTop+windowHeight){
 					return mstrings.slice(index).reduce((accu,curr)=>accu+curr,'')
+=======
+				// 4 as max lines per textbox
+				if(currentTop+DefaultMessageLinePitch<=DefaultMessageLinePitch*4){
+					return mstrings.slice(index).reduce((accu,curr)=>accu+curr,'');
+>>>>>>> Stashed changes
 				}
 				//	‰üs‚·‚é
 				var maxHeight=setStringLocation(mstrings,startIndex,index,currentTop);
