@@ -1390,7 +1390,7 @@ class TScript{
 							tMap.setWindowCompatibility(expression(script.command[0]),expression(script.command[1]),expression(script.command[2]));
 						}else{
 							//	#map window x y width
-							tMap.setWindow(expression(script.command[0]),expression(script.command[1]),expression(script.command[2]));
+							tMap.setWindow(expression(script.command[0]),expression(script.command[1]),expression(script.command[2],expression(script.command[3])));
 						}
 					}else if("startwipe"==command){
 						var mode=wipeTable[script.command[0]];

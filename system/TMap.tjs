@@ -226,7 +226,7 @@ class TMap{
 				}else{
 					//	キャプション表示
 					var ms=new TMStrings(layer);
-					ms.setWindow(tLocalData.data.script.map.window.x,tLocalData.data.script.map.window.y,tLocalData.data.script.map.window.width);
+					ms.setWindow(tLocalData.data.script.map.window.x,tLocalData.data.script.map.window.y,tLocalData.data.script.map.window.width,tLocalData.data.script.map.window.height);
 					ms.resetLocation();
 					ms.setString(tLocalData.data.script.map.items[param.tag].caption===void?"":tLocalData.data.script.map.items[param.tag].caption);
 					ms.putCharacter(true);
@@ -315,10 +315,11 @@ class TMap{
 		tLocalData.data.script.map.window.size=DefaultFontSize;
 	}
 
-	function setWindow(x,y,w){
+	function setWindow(x,y,w,h){
 		tLocalData.data.script.map.window.x=x;
 		tLocalData.data.script.map.window.y=y;
 		tLocalData.data.script.map.window.width=w;
+		tLocalData.data.script.map.window.height=h;
 		tLocalData.data.script.map.window.color=0xffffffff;
 		tLocalData.data.script.map.window.size=DefaultFontSize;
 	}

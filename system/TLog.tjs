@@ -238,7 +238,7 @@ class TLog{
 		for(var i=iy;i<logs.count;i++){
 			if(y+logs[i].height<=layout.message.y+layout.message.height){
 				var ms=new TMStrings(layerMessage);
-				ms.setWindow(layout.message.x,y,layout.message.width);
+				ms.setWindow(layout.message.x,y,layout.message.width,layout.message.height);
 				ms.resetLocation();
 //佐藤追加
 				ms.setString(logs[i].message);
@@ -397,7 +397,7 @@ class TLog{
 
 		//	ログとメッセージウィンドウの幅が違うと改行位置が変り1ページの高さが変るのでここで計算してる
 //		var ms=new TMStrings(owner.primaryLayer);
-//		ms.setWindow(layout.message.x,layout.message.y,layout.message.width);
+//		ms.setWindow(layout.message.x,layout.message.y,layout.message.width,layout.message.height);
 //		ms.resetLocation();
 //		ms.setString(message);
 //		logs.add(%['message'=>message,'height'=>ms.totalHeight,'voice'=>voice]);

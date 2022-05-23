@@ -103,7 +103,7 @@ class TMessage{
 	//	メッセージ
 	//--------------------------------------------------------------
 	function setMessage(message,keywait=true,anime=true){
-		mstrings.setString(message);
+		nextMessage=mstrings.setString(message);
 		phase=PTick;
 		waitTime=0;
 		flagKeyWait=keywait;
@@ -112,6 +112,9 @@ class TMessage{
 		stopWaitAnime();
 		showName();
 		tLocalData.setScriptMessageWait(flagKeyWait);
+		if(nextMessage!==''){
+			setMessage(nextMessage,keywait,anime);
+		}
 	}
 
 	function getMessage(){
@@ -317,7 +320,7 @@ class TMessage{
 	function setMode(mode){
 		tLocalData.setScriptMessageMode(this.mode=mode);
 		if(mode==ModeWindow){
-			mstrings.setWindow(tSettings.messageWindowLeft+tSettings.messageOffsetLeft,tSettings.messageWindowTop+tSettings.messageOffsetTop,tSettings.messageWidth,tSettings.nameWindowLeft+tSettings.nameOffsetLeft,tSettings.nameWindowTop+tSettings.nameOffsetTop);
+			mstrings.setWindow(tSettings.messageWindowLeft+tSettings.messageOffsetLeft,tSettings.messageWindowTop+tSettings.messageOffsetTop,tSettings.messageWidth,tSettings.canvasHeight-tSettings.messageOffsetTop,tSettings.nameWindowLeft+tSettings.nameOffsetLeft,tSettings.nameWindowTop+tSettings.nameOffsetTop);
 			layer.fillRect(0,0,layerString.width,layerString.height,0x00000000);
 			layerFrame.visible=true;
 		}else{
@@ -412,7 +415,7 @@ class TMStrings{
 	var message;
 	var mstrings;
 	var nameLeft,nameTop,nameWidth;
-	var windowLeft,windowTop,windowWidth;
+	var windowLeft,windowTop,windowWidth,windowHeight;
 	var currentLeft,currentTop,currentIndex;
 	var currentNameLeft,currentNameTop;
 	var lastRight,lastBottom;
@@ -436,10 +439,11 @@ class TMStrings{
 	//--------------------------------------------------------------
 	//	ウィンドウ設定
 	//--------------------------------------------------------------
-	function setWindow(windowleft,windowtop,windowwidth,nameleft=void,nametop=void){
+	function setWindow(windowleft,windowtop,windowwidth,windowheight,nameleft=void,nametop=void){
 		windowLeft=windowleft;
 		windowTop=windowtop;
 		windowWidth=windowwidth;
+		windowHeight=windowheight;
 		nameLeft=nameleft;
 		nameTop=nametop;
 	}
@@ -700,6 +704,9 @@ class TMStrings{
 					index=endIndex;
 				}
 
+				if(currentTop+mstrings[index].height>windowTop+windowHeight){
+					return mstrings.slice(index).reduce((accu,curr)=>accu+curr,'')
+				}
 				//	改行する
 				var maxHeight=setStringLocation(mstrings,startIndex,index,currentTop);
 				startIndex=index;
@@ -714,6 +721,7 @@ class TMStrings{
 			totalHeight+=maxHeight+DefaultMessageLinePitch;
 		}
 		currentIndex=0;
+		return '';
 	}
 
 	//--------------------------------------------------------------
