@@ -3,7 +3,10 @@
 ;ヒナタ表示はまだナナシ
 ;
 
-;アイチャッチ表示 BG:BG32_1
+;※アイキャッチ表示 BG:BG32_1
+
+;スキップ禁止
+#waitcancel disabled
 
 #mes off fade
 #system off fade
@@ -26,6 +29,12 @@
 #system on flash
 ;インターバル
 
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON DBG1023
+#face on
+
 ;背景：村（昼）
 ;BG:BG10_1
 #cg all clear
@@ -33,47 +42,47 @@
 #wipe fade
 
 #voice okua0001
-【粉屋の奥さん】「まぁ、あんたどうしてたの？　最近見ないから、心配してたのよ」
+【Miller's Wife】「Oh my, what happened to you? I haven't seen you in forever, I was getting worried.」
 
-俺は久しぶりに村に戻った。
+I returned to the village for the first time in a long while.
 
-他のものはどうとでもなるけれど、穀類はやはり、一人で賄うのは難しい。
+Everything else I can somewhat manage on my own, but grains are currently quite difficult for me to come by.
 
-森で取れたきのこやら、果物を持ってきて売る代わりに、少しばかりの粉などを買い求めに来たのだ。
+I returned from the forest, carrying fruits and mushroom I'd gathered, hoping to sell them for some money to buy grain instead of eating them myself.
 
-それにまだ村に残している家から、余分の寝具や紙などの筆記用具も取ってきたかった。
+Also, I wanted to grab the extra bedding, paper, and writing material I'd left behind in my old home.
 
-特に筆記用具は貴重品なのもあるけれど、今の俺の生活には記録しておきたいことが多すぎる。
+Writing materials are extremely valuable and precious, but recently I've quite often been feeling like I wanted to record what has been happening in my life.
 
-「……最近は、森で暮らしているんです」
+「...I've been living in the forest, recently.」
 
-狭い村のことだから噂になんてなってないはずはないけど、俺は素知らぬ顔で愛想笑いを返す。
+Not wanting any rumors to start about me in the tiny village, I force a smile and respond.
 
 #voice okua0002
-【粉屋の奥さん】「そうなの。気をつけなさいよ。最近は魔物が出るって評判なんだから」
+【Miller's Wife】「I see. Take care. There's talk of monsters appearing in there recently.」
 
-俺の答えに粉屋の奥さんは、眉を顰めながら粉を計ってくれた。
+The miller's wife responds, her eyebrows raised, as she carefully measures out the flour.
 
-……急に村を出た俺のことは、いったいどんな話になっているのだろう。
+...I wonder what kind of rumors have already started about me for leaving the village without warning?
 
-とうとう完全におかしくなったぐらいのことは言われていても不思議じゃないな。
+I wouldn't be surprised if they were saying that I'd finally gone completely insane.
 
-元から変わりものと評判だった俺のことだ。むしろ村の人達もいなくなってほっとしているぐらいかもしれない。
+I've always been infamous in this village. Perhaps they're happy that I'm gone.
 
 #voice okua0003
-【粉屋の奥さん】「はい。どうぞ」
+【Miller's Wife】「Here you go.」
 
-「どうも」
+「Thank you.」
 
-他に買うものは……ないか。
+Is there anything else I need to buy? ...I don't think so.
 
-俺は計ってもらった粉と麺麭とをかばんに仕舞い、銅貨を数枚渡した。
+I place the bread and flour in my bag, and hand her a few copper coins.
 
-粉も麺麭も少し値上がりしていたが、その代わりきのこや果物もいい値で売れたので、少し儲かったぐらいだった。
+The bread and flour were both quite pricey, but I sold the mushrooms and fruits for a tidy profit, so I'm actually coming out a bit ahead.
 
-つまり、森に入る者が減っているということだ。
+...So, based on what she said, less people are going in to the forest these days.
 
-俺以外にもこの村で魔物を見た奴が出たのかもしれないな。
+I might actually be the only person in the entire village who has seen a monster.
 
 ;暗転
 ;#face off
@@ -91,45 +100,45 @@
 #bg bg06_1
 #wipe fade
 
-ナナシやコノミも村についてきたがったけど、俺が住んでいた村なんて何もない。
+Nanashi and Konomi wanted to come, but I told them there was nothing to do in the village.
 
-辺境もいい所の廃れた村なんて遊びに来ても、まだ森にいる方が面白いと諭して山小屋に置いてきた。
+Rather than being bored in the village with nothing to do, they'd have more fun playing in the forest near the cabin.
 
-……連れてきても良かったんだけど、ただでさえ閉鎖的な村だ。
+...I'm glad I didn't bring them. This village has always disliked the different.
 
-見たこともない、しかも、飛びぬけて美しい容姿の彼らに、どんな目が向けられるか分かったものじゃない。
+They're strangers to the village, no villager has ever seen an elf before, and they're strikingly beautiful. I worry about how the villagers would react if they suddenly appeared.
 
-「問題は……あの耳なんだよなぁ……」
+「The biggest problem is...their ears...」
 
-エルフを特徴づける耳は、何と言っても一番目立つ。
+Their distinctive pointed elf ears makes them instantly stand out.
 
-ナナシの時は最初は気付かなかったけど、それは俺に『そうそうエルフになんて会えるものじゃない』という先入観があったせいだ。
+I didn't notice Nanashi's at first, but that's probably because I was so convinced it was impossible to meet an elf they didn't register.
 
-そうじゃなければ、すぐに変わった耳の形をしている事に気づかれてしまうだろうし、ナナシでなくコノミなら一発でばれる。
+Without that, their strange ears will be instantly noticed, and Nanashi and Konomi's secret will be exposed in an instant.
 
-ばれるだけならいいが、エルフはエルフ狩人に売ればいい金になる。
+If all I had to worry about was their species being exposed, that would be one things, but they might attract elf hunters looking for profit.
 
-目の色を変えて捕まえようとするやつだっているだろう。
+They might try to capture and sell the two young elves.
 
-魔物が出たということなら、粉以外の衣料品や何か、村の外からの行商に頼るしかないものはもっと高くなっていてもおかしくない。
+If word spreads that monsters are in the area, then everything this village relies peddlers bringing in to survive - which is essentially everything other than grains and clothing - would grow significantly more expensive.
 
-だとすると、村の連中も今まで以上に儲け話には過敏になっているはずだ。
+And if that happened, the villagers would also be much more desperate for ways to find money than before.
 
-俺だってナナシやコノミに会う前はそんなことも考えていたけど、今となっては彼らを売ろうなんてちょっと考えられない。
+Even I considered the possibility of selling an elf to make my fortune, before I'd actually met Nanashi and Konomi, although now selling them is unthinkable.
 
-あんなに懐いてくれている子達を売り飛ばしたりしたら、さぞかし夢見が悪いことだろう。
+How could I even think of selling such innocent, kind boys? The thought itself is nightmarish.
 
-「やっぱりあいつらには村に近付かないように言った方がいいかもしれないな……」
+「I probably should tell them to stay away from the village...」
 
-道を歩きながら考え込んでいると、すぐ近くから騒がしい男たちの声が聞こえてきた。
+As I was thinking about it and walking through the village, I heard some noisy men from nearby.
 
 ;村人１（男）
 
-【？？？】「おい、話しかけてるだろうが！」
+【???】「Hey, I said I was talking to you!」
 
-「ん？」
+「Hm?」
 
-俺はそっと道をそれて騒がしい方を覗いてみた。
+I look away from the road, towards the noise.
 
 ;背景：森（昼）
 ;BG:BG04_1
@@ -137,84 +146,86 @@
 #bg bg04_1
 #wipe fade
 
-（……あれは、雑貨屋の息子？　それに……）
+（...Isn't that the son of the manager of the general store? And also...）
 
-覗いてみると、そこには村の男たちが数人いて、何かを取り囲んでいるように見える。
+When I glance over, I see several men of the village surrounding something.
 
-集まっているのは、村でもとりわけ力自慢だったりといった若い連中だ。
+They're all young men, cocky and overconfident in their strength.
 
-魔物が出るという話だから、集団で森に入るところだったのかもしれない。そういう時にすぐにいきがる面子だというのはすぐに見て取れた。
+The tales of monsters appearing probably made them decide to gather together and head into the forest as a group. That's the sort of men they are - they'll seize whatever opportunity they can get to appear tough to their peers.
 
-よくよく目を凝らすと、囲まれているのは小さい男の子のようだった。
+When I take a good look, they're surrounding a young boy.
 
-（……まさか、あいつら付いてきて！？）
+（...Oh no, don't tell me those two followed me to town!?）
 
-ありえなくもなさそうな話に一瞬、ざわっと焦りが浮かんだ。
+It seems impossible, but for a moment, the idea floods me with panic.
 
-だが、慌ててよく確認してみれば、囲まれている少年の手足の皮膚は濃い色をしている。
+However, after a second of utter horror, I take a closer look, and confirm the boy they're surrounding is dark-skinned.
 
-……違う、コノミやナナシ、イバラではないようだ。
+...That isn't any of them - Konomi, Ibara, or Nanashi.
 
-じゃあ、異国からの旅人か何かだろうか。それとも……。
+Is it some foreign visitor? Or...
 
 ;CHR T10F4 C
 #cg ツキヨ tuk_1_10f4 中
 #wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0002
-【？？？】「やっ……」
+【???】「No...」
 
-かぶっている布を取り上げようとする男を避けるように、その子は必死にいやいやをしている。
+The young boy desperately tries to avoid the men, who keep trying to rip his headress off.
 
-けれど、そんな弱弱しい抵抗は男たちの残虐な衝動をますます煽っているようだった。
-
-
-【村人１】「そんなに必死なところを見ると、本当に盗賊の一味か何かなんじゃないか？」
+But his feeble resistance just makes the villagers treat him more and more cruelly.
 
 
-【村人２】「こんなちびがか？」
+【Villager１】「If he wants to get away this badly, he must be from a group of thieves or something, right?」
 
 
-【村人１】「偵察だけなら、ちびの方が都合がいいこともあるだろ？」
+【Villager２】「This little brat?」
 
 
-【村人３】「そうだな。それに、服の方はボロっちいのに、こんなに豪勢なキレを持ってるのはおかしいだろう」
+【Villager１】「Wouldn't kids be good for scouting and stuff? Because they're small.」
 
 
-【村人２】「ここにいたってことは、俺たちの村を狙ってやがるのか」
-
-ドン、ドン、とそっちこっちに小突かれて、男の子はよろよろとしている。
+【Villager３】「It makes sense. That'd also explain why he has such nice clothes, but they're in such terrible condition.」
 
 
-【村人１】「おい、なんとか言ってみろ！」
+【Villager２】「If he's here, doesn't that mean they're planning to rob our village?」
 
-それでも男の子は隙を突いて逃げようと、さっと村人たちの間を逃げようとした。
+They poke the boy, then start pushing him around between them. He staggers, trying to keep from falling.
+
+
+【Villager１】「Oi, say something, dammit!」
+
+The boy suddenly sees his chance, and darts through a gap between two of them to escape.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 
-【村人２】「こいつ！」
+【Villager２】「Hey!」
 
-しかし、あくまで多勢に無勢。
+But there's just too many of them.
 
-盗賊呼ばわりされていた子が逃げ出すよりも早く、捕まえられてしまう。
+They chase the boy, and soon catch him again.
 
-（……あ）
+（...Ah.）
 
-どうしようもなく、嫌な感じがした。
+Watching makes me feel awful.
 
-自分が正しいと思うとき、人間はどこまでも残酷になれる生き物だ。
+When they believe their actions are correct, humans can behave truly awfully.
 
-そして、自分が絶対安全で自分だけが責任を持つ必要はないと思うからか、集団で何かを責める時にはそれが顕著になる。
+And, when they are part of a group, and believe they won't need to take responsibility for their actions, it only gets amplified.
 
-多分今がその時だった。
+I think that's what's happening here.
 
-どうしようかと、一瞬悩む。
+For a moment, I hesitated, wondering what to do.
 
-そして俺がとった行動は……。
+Then, I...
 
 ;・選択肢発生
 ;Ａ：助ける
@@ -224,8 +235,8 @@
 ;Ｂを選択⇒『jyobadend』へジャンプ
 
 #select jyo06 jyobadend
-Ａ：助ける
-Ｂ：助けない
+Ａ：Help
+Ｂ：Don't help
 
 #label jyo06
 #next jyo06 top

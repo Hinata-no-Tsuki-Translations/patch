@@ -14,11 +14,11 @@
 #mes on flash
 #system on flash
 
-;MC
-
+;FACE ON DBG1023
+#face on
 
 ;BGMch1 bgm004 小屋 再生
-#bgm 0 bgm004
+#bgm 0 04
 
 ;背景：山小屋前（夕）
 ;BG BG08a_2
@@ -26,13 +26,13 @@
 #bg bg08a_2
 #wipe fade
 
-「……あった」
+「...There it is.」
 
-エルフが教えてくれた方角に「こや」はあっさり見つかった。
+I find the cabin surprisingly easily, a short hike away in the direction the elf suggested.
 
-あんな道草をしたせいで、予定よりも到着はずいぶん遅れてしまっているが、少なくとも今晩から夜露をしのぐことはできそうだ。
+My little elf misadventure delayed my arrival until later than I'd planned, but at the very least this should keep the evening dew off tonight.
 
-しかし、覚悟していたとはいえ想像してたのよりも随分オンボロだな。
+I was prepared for it to be run-down, but this is far, far worse than I'd expected.
 
 ;背景：山小屋中（夕・もし荒れ差分が可能なら）
 ;BG BG07a_2
@@ -40,29 +40,29 @@
 #bg bg07a_2
 #wipe fade
 
-「……これはひどいな」
+「...This is just awful.」
 
-入ってみると、廃棄されるまでも相当いい加減に使われていたのか、その後、動物でも入りこんだのか、中も荒れ放題だ。
+I took a look around, to discover that either the last resident of the cabin had used it extremely irresponsibly, or animals had spent some time living here.
 
-外から見たのに輪をかけて中はひどい有様だった。
+It looked a ruin on the outside, and was even worse on the inside.
 
-人が住まない家は荒れるなんてよく言うけど、そんな甘いものじゃない。無事な床がいくらかあるだけでも奇跡的に思えるくらいだ。
+People sometimes refer to uninhabited, abandoned houses as 'rustic', but this is nothing so sweet. It's a miracle that there are even a few floorboards that are safe to step on.
 
-これをまともに住めるように直すのにはしばらく掛かりそうだぞ。
+It will take a long, long while to bring this place back to liveable condition.
 
-ひょっとして雨でも降っていたら、外と大差ないことになっていたかもしれないな。
+If it rains, there will be absolutely no difference between being inside the cabin and out of it.
 
-「……だけど、まぁ……今日の所は」
+「...But, well...for today, it's enough.」
 
-今日は色んな事があって疲れた。
+After everything that happened today, I am quite exhausted.
 
-片づけたりなんだりは明日からと言うことにして、今日の所は軽く食事をして寝てしまおう。
+I'll leave cleaning and repairs until tomorrow. For tonight, I will have a light dinner, then sleep.
 
-かまどを使うのは少し怖かったから、ひとまずのところは携帯食料を水で流し込み、寝床を整えた。
+Using the stove in the house is a terrifying prospect, so for now I made do with some food that I had brought, a little water, then made a spot to sleep.
 
-少なくともまともに火を使うためにも少し掃除しなくちゃな。
+There is a lot more cleaning to be done before I can feel safe about using fire in here.
 
-やれやれ明日からは忙しくなりそうだ。
+...Well, it looks like tommorrow will certainly be busy.
 
 ;BGMch1 bgm004 FO停止
 #bgm 0 stop 1000
@@ -99,22 +99,22 @@
 #bg bg07a_3
 #wipe fade
 
-なんだかんだで床につけたのはそれなりの時間になってしまった。
+A little while has passed since I laid out some bedding on the floor, then laid down upon it.
 
-魔物に出会ったりエルフに出会ったりと、予想外のことが起きたせいで神経が高ぶっていたのか、なかなか寝付けなかったのだ。
+All the unexpected events that happened today - meeting the vine-monster, meeting an elf - have put my nerves on edge, and I just can't seem to get to sleep.
 
-生活が変わる初日なのもあるから、仕方がないことではあるけど。
+I suppose it's only natural for the first night after starting my new life.
 
-夜半過ぎにようやく睡魔が訪れ、うとうとしかけていると……。
+Long after midnight, my exhaustion overcome my nerves, and drowsiness soon set in, and then...
 
-――床のきしむ音がした。
+――I heard one of the nearby floorboards creaked.
 
 ;暗転
 #cg all clear
 #bg black
 #wipe fade
 
-その時にはもう、俺はすっかり寝る姿勢に入っていて、誰かが入って来た気配は察したものの、身体は指一本動かせなかった。
+At that time, I was almost completely asleep, lying on the floor, and didn't move even a finger when I noticed the presence of something else.
 
 ;SMODE 003 PLAY
 #label replay003
@@ -128,40 +128,40 @@
 #wipe fade
 
 #voice kona0002
-【？？？】「……人間……かな？」
+【???】「...A human...is it?」
 
-くすくすと楽しそうに忍び笑いを漏らす侵入者。
+The mysterious intruder chuckled, sounding happy for some reason.
 
-薄く目をあけると、少年のしなやかな肢体が見えた。
+I crack my eyes open just a slit, and see the dainty limbs of a young boy.
 
-こんな時間に、子どもがひとりでこんな山奥に？
+A child, this deep in the mountains, this late at night?
 
-……これは夢なんだろうか。
+...Am I dreaming?
 
-いや、それにしては嫌にはっきりと気配を感じるような……。
+No, I can feel his presence too clearly for that...
 
-少年……少年……あぁ、あのエルフか。
+A boy...a boy..oh, is it that elf?
 
-昼に逢った無邪気なエルフを思い出した。
+The elf I encountered earlier springs to mind.
 
-エルフにはどうやら人間の常識が通用しないらしい。
+It seems that elves lack the human trait of common sense.
 
-やっぱりついてきていたのか。
+I suppose he must have followed after me.
 
-こんな夜中に遊びに来るのも、エルフにしてみたら大した問題ではないのかもしれない。
+Perhaps an elf would not see a problem with visiting in the dead of night to play.
 
-たまに、いつも、などとわけのわからないことを言っていたのも思い出す。
+I remember that he said the nonsensical statement that he would visit "always, some of the time".
 
-エルフは相当長生きするらしいからな。時間の感覚も人間とは違うというのは充分に考えられることだ。
+I have heard that elves live much longer lives than humans. Perhaps their sense of time is also different.
 
-まったく迷惑な話だ。
+Honestly, what a bother.
 
-だけど、怒ろうにも瞼が重くて……頑張って開けたはずの目もゆるゆると閉じてしまう。
+But my eyelids are just too heavy for me to get angry...I try to open them, but they insist upon closing instead.
 
-（あぁ……眠い。怒るのは、明日でいいか……）
+（Aah...I'm so sleepy. I can just be mad tommorrow instead...）
 
 #voice kona0003
-【？？？】「……ふふふ……くすくすくす」
+【???】「...Fufufu...heheheh.」
 
 ;背景：山小屋中（夜・もし荒れ差分が可能なら）
 ;BG BG07a_3
@@ -170,41 +170,41 @@
 #wipe fade
 
 
-侵入者は俺を見て笑っているのにも飽きたのか、そこいらを歩き回り始めた。
+The intruder keeps giggling at me for a bit, but eventually seems to grow board of it, and starts to stroll around my ruin.
 
-うっかりすると床を踏み抜くんじゃないかと、おっかなびっくりだった俺と違って、その足取りは軽やかなものだ。
+Whereas every step I took in this place was filled with terrified trepidation, his stride is cheerful and lax.
 
-エルフと俺では体重が違うこともあるのだろうけど、床が腐っていそうなことなど気にも留めていない様子だ。
+The elf likely weighs much less than I do, so he has less reason to be concerned about a misttep putting him through a rotted floorboard.
 
-床板を踏み抜いたりしなきゃいいけど。
+Well, as long as he doesn't break anything, I don't mind.
 
-（あ、そっちにあるのは……）
+（Oh, that's my...）
 
-一通り部屋を見廻って、俺の荷物を見つけたエルフはそこでしゃがみこんだ。
+After doing a full lap of the building, the elf comes across my luggage, and squats down to look.
 
 #voice kona0004
-【？？？】「……ん〜？　……ふふふ……これ、なんだろ……」
+【???】「...Hm〜?　...Fufufu...Now, what might this be...」
 
-エルフはガサガサと遠慮なく、俺の荷物を漁っている。
+The elf shows no reservations about picking through my things.
 
-……ったく、何やって……。
+...Honestly, what's he doing...
 
 #voice kona0005
-【？？？】「……おぉ？　これ綺麗〜……」
+【???】「...Oooh? This is pretty〜...」
 
-何見てるんだよ！？
+What's he looking at!?
 
-……って、ちょっとそれはさすがにまずい。
-荷物に入っているのは今の俺のほぼ全財産だ。
+...Wait, maybe this is a worse situation than I thought.
+My luggage is the sum total of everything I currently own.
 
-エルフに悪気はなくても持って行かれたら困る。
+I need everything there. If the elf takes even a single thing, that will be a serious problem.
 
-俺は渾身の力で睡魔を振り払って起き上がり、エルフに掴みかかった。
+I shake off my drowsiness, get up, and grab the elf.
 
 ;SE se017 小屋内でドタンバタン 再生
 #se 1 se017
 
-「……ちょっと待て、お前、他人の物を勝手に持っていくのは泥棒って……」
+「...Hold on a second, you, you can't just go through other people's things, are you a thief, or what...」
 
 ;EVCG EV005A1
 #cg all clear
@@ -212,53 +212,53 @@
 #wipe fade
 
 #voice kona0006
-【？？？】「……ん〜？　ひょっとして、ボク捕まっちゃった〜？」
+【???】「...Hm〜?　Have I been caught, perhaps〜?」
 
 ;BGMch1 bgm005 コノミ 再生
-#bgm 0 bgm005
+#bgm 0 05
 
-押さえ込まれたエルフは、焦るでもなくふにゃんと笑った。
+The elf, pinned down beneath me, shows no sign of panic, and in fact smiles unconcernedly.
 
-「……君、誰？」
+「...Who are you?」
 
-長く尖った耳、白く抜けるような肌。人間と言うにはあまりにも整った容姿。
+Long pointed ears, pale white skin, and a body too fair to be called human.
 
-それは明らかに話に聞くエルフそのもの……ではあるのだが、昼間逢ったあのエルフではなかった。
+She perfectly fits the description of elves that I've always heard in stories...but she isn't the elf I met earlier today.
 
-むしろ昼間のエルフよりもひと目でそれとわかるぐらいにはっきりとエルフの特徴を持った耳をしている。
+In fact, at a glance she looks far more elf-like than the elf I met earlier, particularly her ears.
 
-髪の色だって、昼間の子の糖蜜色の髪よりもさらに淡い、清流にも似た銀色だ。
+Compared to the honey-colored hair of the elf-boy from earlier, her hair is the silver of a clear flowing stream.
 
-（……けど、やっぱり男の子だよなぁ）
+（...However, he's probably a boy, isn't he.）
 
-水の流れのようにさらさらとした銀髪のエルフは首をかしげた。
+The elf with the hair as silver as a stream looks at me quizzically.
 
 #voice kona0007
-【？？？】「……ボクぅ〜？　ボクが誰かってぇ〜？」
+【???】「...Meee〜?　Who am I〜?」
 
 ;三点リーダー部分は無音で
 #voice kona0008
-【？？？】「ボクは……だよぉ〜」
+【???】「My name is...you knooow〜」
 
-多分、エルフは名乗ったのだろうけど、残念ながらその部分は聞き取れなかった。
+The elf probably just said his name, but unfortunately the sound slipped right out of my ears.
 
-「え？　今、なんて……？」
+「Eh? Pardon?」
 
 #voice kona0009
-【？？？】「ふふ、……だよぉ〜？」
+【???】「Fufu, I'm...you knooow〜?」
 
-やっぱり肝心の部分が聞き取れない。
+Yet again, I couldn't hear the essential part.
 
-そもそもが耳に入らなかったというか、不思議な感じだった。
+It feels like the sound of his name is not even entering my ears to begin with. How odd.
 
-「……悪い、聞こえなかったからもう一回」
+「...Sorry, I missed that. One more time, please?」
 
 #voice kona0010
-【？？？】「ふふふ、聞こえなかったかぁ〜。やっぱり、君は人間なんだねぇ〜。ボク、人間て初めて見たぁ〜」
+【???】「Fufufu, so you couldn't hear meee〜 You really are a humaan〜 It's the first time I've seen a humaaan〜」
 
-昼間のエルフとを思い起こさせる会話。だけど昼間の子とは明らかに違う、どこか誘われているような甘い響き。
+This conversation is very similar to the one I had earlier. But while the first elf's tone was naive and curious, this elf sounds lurid and seductive.
 
-だけどエルフはやっぱり楽しくてたまらないとでも言いたげに笑みを含んだ態度だ。
+However, they both share a smile that shows they simply cannot hold back their enjoyment of the situation.
 
 ;EVCG EV005A1
 #cg all clear
@@ -266,46 +266,46 @@
 #wipe fade
 
 #voice kona0011
-【？？？】「んー……、ボクは人間で言うなら……木になる……実とか……果物とかぁ〜……」
+【???】「Hmm...to say it how a human could understand...it's what grows on a tree...like a fruit, or a nut〜...」
 
-「木の実？」
+「Konomi?」 ;Literally 'fruit of the tree', used to refer to nuts/fruit/berries
 
 #voice kona0012
-【コノミ】「……そう、それでいいよー。コノミ。うん、ボクはコノミ、だよぉ〜」
+【Konomi】「...That sounds good. Konomi. Yes, that's right, I'm Konomiii〜」
 
-「じゃ、じゃあ、コノミ、お前は一体何のために俺の荷物を漁ろうなんて……」
+「Well then, um, Konomi, what exactly did you intend by searching through my luggage?」
 
-コノミのペースに巻き込まれ、毒気を抜かれていた俺は、改めて威厳を出そうと怖い声を出した。
+Caught up in Konomi's pace, all venom had been removed from me. I resummoned my dignity and spoke in an intimidating tone.
 
-そうだよな。泥棒かもしれない相手に舐められてちゃいけない。
+That is correct. After all, I can't allow myself to be teased by someone who might be a thief.
 
 #voice kona0013
-【コノミ】「……起きてくれてよかったよぉ〜。せっかく遊びに来たのに、初めて会った人間が寝てるだけなんてつまんないからね〜」
+【Konomi】「...I'm glad you woke uuup〜 I troubled myself to come here to play, and so having the first human I ever met just sleep the whole time would be far too duuullllll〜」
 
-コノミは俺の質問に応えることなく、とらえどころのない笑みを浮かべ、フワフワと笑う。
+Konomi completely ignores my question and smiles an elusive smile, laughing softly.
 
 #voice kona0014
-【コノミ】「……せっかく、初めて人間に遭ったんだもの。ふふふふふ」
+【Konomi】「...It was quite a lot of work to meet a human for the first time. Fufufufu.」
 
-コノミは手で俺の顔を撫でると、観察でもしているみたいに頬をつまんできた。
+Konomi reaches up to stroke my cheek. Then, watching my reaction closely, he pinches my cheek and pulls.
 
-「わぷっ！？　な、なに……？」
+「Oww!?　Wh-What?」
 
 #voice kona0015
-【コノミ】「人間て、もっとドワーフとかオークみたいなのかと思ってたけど、案外弱っちそうなんだねぇ〜。おひげは生えてないの〜？」
+【Konomi】「I thought humans would be more like dwarves or orcs, but they're unexpectedly weeaaakk〜 You don't even have faaangs〜?」
 
-特に嫌味でもなく、感心したようにコノミは言って、そのまま頬をぺちぺちと軽く叩くようにしてきた。
+Konomi's tone isn't one of recrimination, but one of praise. He lets my cheek go, then lightly pats it a few times.
 
-「ヒゲは……剃ってる。あんまり濃いほうじゃなくてまばらでみっともないから」
+「...I shaved my beard. It was never very thick, so it always looked shaggy and unsightly.」
 
 #voice kona0016
-【コノミ】「そかぁ〜、みっともないのか〜」
+【Konomi】「I seeee〜, it was unbecomiiiing〜」
 
-やっぱり観察されてるのか。
+He really is carefully observing me, isn't he.
 
-……昼間の子もそうだったけど、エルフって言うのはこんなにも好奇心が強い種族なのか？
+...That child from earlier was similar. Are elves a particularly inquisitive race?
 
-「それにしても……長くてとがった耳だなー」
+「Still...You have rather long, pointy ears.」
 
 ;EVCG EV005A2
 #cg all clear
@@ -313,74 +313,74 @@
 #wipe fade
 
 #voice kona0017
-【コノミ】「ひゃんっ！？」
+【Konomi】「Hyaahn!?」
 
-耳に触るとコノミはくすぐったそうに身を縮こまらせた。
+Konomi shudders when I touch his ears, like they're ticklish.
 
-昼間の子もこのぐらいの耳だったらすぐにエルフだってわかったんだけど……。
+If the elf earlier had ears like these, I would've realized he was an elf right away...
 
-「あ、手触りいいな。耳の軟骨って結構薄くて柔らかいんだな」
+「Oh, they feel nice. The cartilage of your ear is rather thin and soft to touch.」
 
 #voice kona0018
-【コノミ】「あ……耳……くすぐった……んっ……」
+【Konomi】「Ah...my ears are...ticklish...mnn...」
 
-さわさわと、しなやかな耳に触っていると、コノミは甘い吐息を漏らした。
+When I rub his supple ears, Konomi lets out a sweet moan.
 
-「耳、触られるの気持ちいいの？」
+「Does having your ears touched feel good?」
 
 #voice kona0019
-【コノミ】「う、ん……悪くは……ないかもぉ……」
+【Konomi】「Mnn...it's not....bad...」
 
-肌も昼間のエルフのそれよりずっと白い。夜目だからそう見えているというだけではないだろう。
+It's not just the light of the moon making him look pale, his skin is much whiter than the first elf.
 
-ひょっとしたら、この服の下の足や腹はもっと……。
+And perhaps, under his clothes, his legs and stomach are also more...
 
-ぞくっと言いしれない興奮が腹を駆け上った。
+A shiver of indescribable excitement ran down my spine.
 
-「……エルフはどうか知らないけど、人間は他人の荷物を触る奴は泥棒って言うんだ」
+「...I don't know about elves, but humans call people who go through others belongings 'thieves'.」
 
 #voice kona0020
-【コノミ】「泥棒〜？　ボク泥棒さんなの〜？　なんにも取ってないよ〜」
+【Konomi】「Thief〜?　I'm a thieeeef〜?　I haven't taken anythiiiing〜」
 
-「そうだ。取ってなくたって取ろうとしたら、泥棒なんだぞ。泥棒には罰を与えなきゃな」
+「That's right. Even though you didn't take anything, you tried to, so that makes you a thief. And thieves need to be punished.」
 
 #voice kona0021
-【コノミ】「んー……罰ぅ……？　一体何をするのぉ〜？」
+【Konomi】「Hmmm......punished?　Just what are you going to dooooo〜?」
 
-コノミは別に恐れた様子もなく首をかしげる。
+Konomi looks curious, and not afraid in the slightest.
 
-「反省もしない悪い子にはお仕置きだよ」
+「Bad boys who don't repent for their sins deserve punishment.」
 
 ;EVCG EV005B1
 #cg all clear
 #cg イベント ev005b1 背景
 #wipe fade
 
-コノミの帯を解き服を脱がせると、案の定、服の下には可愛らしいおちんちんがついていた。
+When I pull off Konomi's clothes, just as I thought, there was a cute penis hidden underneath.
 
-……だけど、昼間の子と違っておへそがない。
+...However, unlike the elf-boy from earlier today, he...
 
-「へ、へそがない……？」
+「...N-No navel?」
 
-つるんと滑らかな腹を撫でさすっても、へそのくぼみは見当たらなかった。
+I rub his completely flat stomach, not finding any trace of a belly button.
 
 #voice kona0022
-【コノミ】「へそ？　何それぇ〜？」
+【Konomi】「Navel?　What's thaaat〜?」
 
-強烈な違和感に、何度もコノミの腹を撫でさすって確認し、ざわっと毛穴が開くように異様な興奮を覚える。
+I stroke his stomach again and again, feeling slightly disturbed, but also strangely excited.
 
-へそがないということが視覚的に、耳よりももっとずっと強く、この子が人間ではないことを印象付けた。
+The fact that he has no belly button drives home the fact that this child is 'not human' even more powerfully than his pointed ears.
 
-俺は今、人間ではないものを組み敷いている……！
+Right now, the 'thing' that I am holding pinned to the floor isn't human!
 
 #voice kona0023
-【コノミ】「……うーんとぉ〜、服を脱がせるのが、お仕置きぃ〜？」
+【Konomi】「...Ummmmm〜 is taking off my clothes, punishment〜?」
 
-「それだけなわけないだろ」
+「Of course it isn't.」
 
-人を小馬鹿にしているかのように平然とした態度にムッときた。
+His total calm and the slight edge of mockery to his voice incenses me.
 
-俺はコノミの下腹部についた細い小枝を掴むと、まだ何の反応も見せていないそれを乱暴に擦る。
+I grab the thin twig dangling between his legs, and when he still doesn't react, start to roughly stroke it.
 
 ;BGMch1 bgm005 FO停止
 #bgm 0 stop 1000
@@ -391,32 +391,34 @@
 #wipe fade
 
 #voice kona0024
-【コノミ】「……っあ！　ぅああああっ、なに、これぇ！」
+【Konomi】「...Aah! Aaaaaaahh, what's thiiiiisss?!」
 
-さすがに一番敏感な部分を弄られては、平然とはしていられないようだ。
+Even he can't maintain his composure when I start teasing his most sensitive spot.
 
-握ると俺の手の方が余ってしまうほどの可愛いおちんちんは簡単に勃起した。
+His cute penis easily grows erect in my hand, so small I can grasp it in my fingers with plenty of room to spare.
 
 #voice kona0025
-【コノミ】「……っあ！　あっ！　んくぅんっ！　なに、なに、これ、おちんちん触られると、ぞくぞくぅってぇ！」
+【Konomi】「...Aah! Aaah! Mkuuhn! What, what is this, when you touch my penis, I feel all tinglyyyy!」
 
-やっぱり、こんなに小さな体でも感じるものなんだな。
+As I thought, despite his small body, he's very sensitive.
 
 #voice kona0026
-【コノミ】「ひゃわぁああ……！？　なにぃ〜！？　なにこれぇ〜？　ボクこんな、気持ちいいの知らない〜！？　あっ……あっ……！？」
+【Konomi】「Hyaaaahhaaa!?　Whaaat〜!?　What is thiiis〜?　I never knew something could feel this gooood〜!?　Aah.....aaah!?」
 
-「これから気持ちいい罰を与えてあげるよ」
+「I'm going to give you a very pleasurable punishment.」
 
-昼間の一件で、すっかり俺には男の子に対する抵抗感がなくなっていた。
+After the incident today, any antipathy towards young boys I may have had seems to have vanished completely.
 
-むしろ感じれば勃起、射精するおちんちんがある方がわかりやすくていい。
+むしろ感じれば勃起,射精するおちんちんがある方がわかりやすくていい。
 
-それに男と言ってもそこらの女の子よりもずっと可愛いし、何よりエルフ相手に男も女もないじゃないか。
+Furthermore, even if he's a boy, he's far cuter than any girl I've ever seen.
+
+And, most of all, he's not male or female, he's an elf.
 
 #voice kona0027
-【コノミ】「気持ちいいのが罰なのぉ〜？　あっ……あっ……おちんちん擦ると、こんなに気持ちいいなんてぇ〜……ボク、知らなかったよぉ〜」
+【Konomi】「Pleasure is a punishmeeent〜?　Aah....aaah....to think my penis being rubbed could feel this goooood〜...I never kneeeewww〜」
 
-「でも、気持ちいいだけじゃ罰にならないから、その前にちょっとだけ痛い思いをしてもらおうかな」
+「However, if it only feels good, it won't be a punishment, so in a bit you'll also feel a little pain.」
 
 ;EVCG EV005B3
 #cg all clear
@@ -424,14 +426,14 @@
 #wipe fade
 
 #voice kona0028
-【コノミ】「ええ〜？　なにぃ〜？　痛いこと、するの〜？」
+【Konomi】「Eeeh〜?　Whaaat〜?　You're gonna hurt meee〜?」
 
 ;SE se018 パシンとおしりを叩く 再生
 #se 1 se018
 
-コノミに足を上げて自分で抱えさせると、可愛いすべすべのおしりを平手で打った。
+I lift up Konomi's legs, then spank his cute, smooth behind.
 
-ぱしーん。なめらかなしりと手のひらが小気味いい音を立てる。
+Slap! His smooth butt feels amazing against my hand.
 
 ;EVCG EV005B2
 #cg all clear
@@ -439,23 +441,23 @@
 #wipe fade
 
 #voice kona0029
-【コノミ】「……あぅっ……いたぁい、何でブツのぉ〜」
+【Konomi】「...Aaah.....oooowww, why did you hit meee〜?」
 
-ぱしんとおしりを打つたびに、縮こまったおちんちんがぷるんと揺れる。
+His penis went flaccid when I first hit it, and each time I repeat the action it shakes and sways.
 
-「言っただろ、罰だからだよ」
+「I told you, this is a punishment.」
 
-おちんちんを揺らすのが面白くて、俺はコノミのおしりを何度も平手打ちした。
+Watching his penis sway is so fascinating that I spank Konomi's bottom again and again.
 
 ;SE se019 パシンとおしりを叩く連続 再生
 #se 1 se019
 
-ぱしん、ぱしん。ぱしん、ぱしん。
+Slap, slap, slap, slap, slap.
 
 #voice kona0030
-【コノミ】「……やぁっ……やぁっ！　痛い、痛いよぉ〜」
+【Konomi】「...Noo....nooo! It hurts, it huuuurts〜」
 
-「どうだ、他人の荷物を勝手に開けちゃいけないってわかったか」
+「Well, do you understand that going through other people's belongings is wrong, now?」
 
 ;EVCG EV005B3
 #cg all clear
@@ -463,29 +465,29 @@
 #wipe fade
 
 #voice kona0031
-【コノミ】「わかった、わかったってばぁ〜……わかったから、酷いことしないでぇ〜」
+【Konomi】「I got it, I got it alreadyyy〜...I understand now, so don't be mean to meeee〜」
 
-甘えるように涙目になったコノミに俺の嗜虐心はますます煽られていく。
+The sight of Konomi pleading with tears in his eyes incites the sadistic streak in my heart.
 
-「……そうか、わかったならいいんだ」
+「...I see, if you understand, then it's fine.」
 
-わざと猫撫で声をかけながら、赤く腫れたおしりをそっと撫でさすってやる。
+Deliberately speaking softly, I gently rub his reddened behind.
 
 #voice kona0032
-【コノミ】「……ふわっ……ぶたれたおしり、撫でられると……びりびりして……」
+【Konomi】「...Fuhaah....when you rub my bruised butt...it feels tingly...」
 
-「ひょっとして気持ちいいのか？」
+「Does it feel good?」
 
 #voice kona0033
-【コノミ】「……う……、ん、なんか変な感じぃ〜……」
+【Konomi】「...Y....es, but it feels kinda strange〜...」
 
-コノミは快感に耐えるようにきつく目をつぶった。
+Konomi tries adorably hard to endure the pleasure.
 
-ぶたれた痛みに萎えていた幼茎が自ら立ち上がろうとしている。
+As I rub the pain away, his childish pistil slowly regains its stature.
 
-「コノミはお仕置きでぶたれて気持ち良くなるなんて、なんて悪い子なんだ。それじゃ、お仕置きにならないじゃないか」
+「What a naughty boy you are, Konomi, enjoying having your bottom slapped. That means it's not a punishment.」
 
-「……じゃあ、これはどうかな」
+「...Then how about this?」
 
 ;EVCG EV005B2
 #cg all clear
@@ -493,23 +495,23 @@
 #wipe fade
 
 #voice kona0034
-【コノミ】「……っ！？」
+【Konomi】「...!?」
 
 ;SE se021 挿入音2 再生
 #se 1 se021
 
-ずにゅ。
+Zunyuu.
 
-小さく可愛らしくすぼまったおしりの穴に指を押し付けるようにして、いきなり侵入させていく。
+I place my finger against his tight, tiny, adorable butthole, and then immediately thrust it in as far as it will go.
 
-弾力のあるそこは叩かれて緊張していた反動からか、少し緩んでおり指の先端だけは容易に侵入が果たせた。
+The spanking had made his butt relax and grow more pliable, but it was still so tight I could only fit the tip of my finger in.
 
 #voice kona0035
-【コノミ】「やっ……なに、してるの！？」
+【Konomi】「Noo...what are you doing!?」
 
-「お仕置きだよ。これからここを使ってお仕置きする」
+「This is punishment. I'm going to use this to punish you.」
 
-自分でも触れたこともないような部分を指で犯されているせいか、指が入った途端、きゅっと抵抗するようにすぼまった。
+He tightens up when my finger invades a part of his body that nobody's ever touched before, squeezing down hard, resisting my attempts to push deeper.
 
 ;EVCG EV005B1
 #cg all clear
@@ -517,21 +519,21 @@
 #wipe fade
 
 #voice kona0036
-【コノミ】「はぁ……指、入ってるぅ〜。人間て変なことするんだね〜。まだ……お仕置きするのぉ？　これがお仕置き？」
+【Konomi】「Haa...your finger is insideeee〜. Humans sure do some strange thiiings〜. Are you...still punishing me? Is this punishment?」
 
-コノミは怯えているというよりも、むしろ興味深そうに聞いてきた。
+Konomi's tone is not afraid in the slightest; He sounds intrigued.
 
-どうも恐怖とか、そういった感情は欠落しているらしい。
+He doesn't seem to ever feel fear, or any similar emotion.
 
-さきほどからコノミから伝わってくる感情は無邪気な好奇心ばかりだ。
+The only emotion I can sense in Konomi is pure, innocent curiosity.
 
-先ほど涙を浮かべたばかりなのに、もう楽しげなその顔を見ていると、もっと泣かせたくなる。
+Even though he was just sobbing, he's immediately happy and curious again...which makes me want to make him cry all the more.
 
-「そう、これからここを指なんか比べ物にならない太いものでずぽずぽするんだ。こんな風にね」
+「That's right, I'm about to put something incomparably larger than a finger inside here. Like this.」
 
-すでに咥えこまれた人差し指の第一関節までで、薄紅色の襞をそっとほぐすようにぐるりと動かしてやる。
+With the first joint of my finger deep inside him, I twirl it around inside his pinkish folds, slowly relaxing them.
 
-力が入っていないせいか、思ったよりも動かしやすい。
+There's no strength in his lower body, so it's much easier to move than I thought.
 
 ;EVCG EV005B2
 #cg all clear
@@ -539,39 +541,39 @@
 #wipe fade
 
 #voice kona0037
-【コノミ】「ふわっ……あぁっ！？　おしりの穴拡げちゃうのぉ！？」
+【Konomi】「Fuhaah...Aaah!?　You're spreading my buttholeee!?」
 
-指一本でもきつそうな小さな穴をくじるようにして皺を伸ばしていきながら、さらに深く指を挿入した。
+I insert my finger even deeper into his tiny hole, so tight that putting in even one finger is a struggle, and wriggle it to relax and smooth him out.
 
 ;SE se021 挿入音2 再生
 #se 1 se021
 
-中は温かい。
+He's so warm inside.
 
-ゆっくりと押し込み、ゆっくりと引き抜くと、温かく柔らかな腸壁がふるふると吸いついてくる。
+I slooowly push in, sloowly pull out, feeling his warm, soft intestinal walls squeezing around me.
 
 #voice kona0038
-【コノミ】「あぁ……にゅるって、指が出たり入ったりしてるぅ〜……」
+【Konomi】「Aah...your finger is going in and ouuut〜...」
 
-「こんなものじゃないよ、もっと奥まで激しくずぽずぽ抜き差ししてあげる。嫌だといっても止めないよ」
+「I've barely started, I'm going to thrust it in and out much, much harder and deeper. I won't stop even if you hate it.」
 
-抜けないように注意しながら、指を抜き差しして、これからどんなことが起きるのかを教えてあげる。
+I thrust my finger back and forth, careful not to pull it all the way out, curious what will happen next.
 
 ;EVCG EV005B1
 #cg all clear
 #cg イベント ev005b1 背景
 #wipe fade
 
-すると、コノミはどこか期待するような目で俺を見上げてきた。
+When I do, Konomi looks up at me with eyes filled with what almost looks like desire.
 
 #voice kona0039
-【コノミ】「嫌だなんて言ってないよぉ〜？　もっと……太いので、ずぽずぽ、するんだぁ……？」
+【Konomi】「I never said I didn't like iiit〜?　You can...thrust it in and out...moreeee...?」
 
-コノミには昼間の子よりも適性があるのかもしれなかった。
+Konomi might have an even better natural aptitude for this sort of thing than the elf-boy from earlier.
 
-むしろ、目をつぶって震えている様子は、指の感触を味わおうとしているように見える。
+The way he's trembling, with one eye closed, makes him look like he's enjoying the sensation of my finger inside him.
 
-「そう、ずぽずぽずぽずぽ、ね」
+「That's right, I'll move it in and out again and again.」
 
 ;EVCG EV005B2
 #cg all clear
@@ -579,46 +581,46 @@
 #wipe fade
 
 #voice kona0040
-【コノミ】「ひゃあ……っはうぅん……おしりに入れた指……うごいてるぅ……出したり、入れたり、出したり、入れたりぃ〜」
+【Konomi】「Hyaah...haaoooh...the finger in my butt...is moviiing...out, in, out, iiiiin〜」
 
-指を曲げたり伸ばしたりしていると、コノミは嬉しそうにくねくねと身体をよじらせた。
+When I extend and wriggle my finger, Konomi's body wriggles happily in response.
 
-「何だ、これも嬉しいの？　それじゃ、どうやったらお仕置きになるのかな、困ったな」
+「What, you like this too? Then how am I possibly supposed to punish you?」
 
-わざとつまらなそうに呟いたつもりだけど、俺の耳にも、自分の声にたっぷりと興奮が塗されているのがよくわかる。
+I tried to sound disinterested, but when my voice hit my ears I could clearly hear how aroused I am. 
 
-抵抗されても興奮したかもしれないけど、積極的なのはそれはそれで楽しめそうだ。
+I seem to enjoy it when they resist, but them proactively enjoying it and participating is also rather enjoyable. ;enjoy three times in one sentence.
 
 #voice kona0041
-【コノミ】「あぁん……お仕置き、気持ちいいよぉ〜……」
+【Konomi】「Aahn...Punishment feels gooood〜...」
 
-腸内の壁を引っ掻くように指を動かすと、コノミは自分で抱えたままの両足を切なげに揺らした。
+When I crook my finger and rub his intestinal walls, Konomi legs tremble from the pleasure.
 
-「気持ちいいのか……じゃあ、もっと乱暴にしても平気だね」
+「So it feels good..then you'll be fine even if I get rougher.」
 
-昼間の行為で感じがつかめていたのもあるけど、コノミの肛門に入れる指を増やすのは、変に力を入れていないせいか昼の子よりもずっとたやすかった。
+I insert another finger into Konomi's behind. While the act is similar to what I did earlier today, Konomi's anus is strangely relaxed, making it much easier to put a second finger inside him compared to the other elf-boy.
 
 ;SE se021 挿入音2 再生
 #se 1 se021
 
 #voice kona0042
-【コノミ】「あぁっ……また、指入ってきたぁ！」
+【Konomi】「Aaah...Another finger's iiiin!」
 
-人差し指に続き中指も受け入れて、コノミは身体を歓喜に打ち震わせる。
+Konomi's body trembles with delight, accepting both my index and middle finger inside him.
 
 #voice kona0043
-【コノミ】「おしりの中で指動くの、気持ちいい……」
+【Konomi】「Fingers moving in my butt feels good...」
 
-指と指を擦り合わせるようにして、すぼまった可愛らしい薄紅色の蕾を広げていく。
+His tight, cute, pink-colored rosebud expands as my two fingers rub inside him.
 
 #voice kona0044
-【コノミ】「んんっ……おしりの中、覗かれちゃってる、おしり広がってるよぉ……」
+【Konomi】「Mmn...you're peeking inside my butt...my butt is being spread open...」
 
-皺が伸びきるほど広げたそこは、内側のほの赤い粘膜を覗かせた。
+I can faintly see slight, pinkish folds inside his stretched-out behind.
 
-乳首もおちんちんも可愛らしいのに、そこだけがエルフの器官にしては、生々しくいやらしかった。
+His nipples and penis are unbearably cute, so that's the only part of the elf's body that looks vividly lewd.
 
-ぬめぬめとした粘膜は生々しく、壁や屋根の割れ目から張り込んだ月の光で照り輝いている。
+His slick, wet insides are glistening faintly under the moonlight shining thorugh the cracks in the walls and ceiling.
 
 ;EVCG EV005B3
 #cg all clear
@@ -626,20 +628,20 @@
 #wipe fade
 
 #voice kona0045
-【コノミ】「はぁ……はぁ……あぁん……」
+【Konomi】「Haa...haa...aahn...」
 
-おちんちんは最初に触れて以降触れてもいないのに、よほど気持ちがいいのかぴくんぴくんと身悶えるように動いている。
+I haven't touched his penis once, since the first time, but he's already feeling so good that his body is writhing from the pleasure.
 
-可愛らしいタマタマも震えるおちんちんと一緒に呼吸するように蠢いていた。
+His adorable balls and penis shuddered slightly in time with his breathing.
 
 #voice kona0046
-【コノミ】「はきゅううううんっ……！」
+【Konomi】「Hyaakyaaaooohhhn!」
 
-別の生き物みたいになっているタマタマをそっと指でつついてやると、コノミは高い声で鳴いた。
+Konomi let out a high-pitched cry as I lightly tapped his testicles, which were moving like a living animal.
 
-「余裕で入れられそうだね」
+「It looks like there's enough room for me to fit.」
 
-俺は下履きを下ろすと、興奮しすぎて腹まで反り返ったそれを、ぐっと押し下げてコノミの中に侵入していく。
+I remove my trousers, take my thing, so erect it's pressing against my stomach, and immediately thrust it all the way inside Konomi.
 
 ;EVCG EV005B2
 #cg all clear
@@ -650,48 +652,48 @@
 #se 1 se020
 
 #voice kona0047
-【コノミ】「う……わ……ぁ、なんか熱くて硬いの入ってきたぁ……」
+【Konomi】「U....wah....s-something hot and hard just went inside meeee...」
 
-やはり、コノミにはあまり激しい抵抗はない。それどころか、押し入ってきた肉棒を歓迎するように柔らかな粘膜が俺を包み込んでくれる。
+As I thought, Konomi puts up almost no resistance. In fact, his soft behind gently and tightly wraps around me, welcoming me in.
 
-侵入を果たしたそこは火傷しそうに熱く感じられた。
+Finally achieving insertion makes me feel so hot it's like I'm on fire.
 
 #voice kona0048
-【コノミ】「うんっ……うんっ……おしり、おしり……熱いよぉ……」
+【Konomi】「Ooh...ooh...my butt, my butt...it's so hoooot...」
 
-むしろ逃すまいとでもしているかのような入口のきつい締め付けと、中の柔らかさの差がたまらない。
+The way his soft behind squeezes around me is unbearably good. It feels almost like his butthole is saying it doesn't want to let me go.
 
-その感触を楽しもうと思うと、自然に腰が動き出す。
+Savouring the sensation, my hips start moving on their own.
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice kona0049
-【コノミ】「あぁ……すごい太いの……ボクのおしりに入ってる……何これぇ？　熱い……熱いのが入ってるよぉ……」
+【Konomi】「Aah...something really thiiick...is in my buuut...what it thiis? So hot...it's so hot inside meee...」
 
-ゆっくりと、グネグネとした腸の形状を亀頭で確認するように押しつける。
+I slowly press forward, moving I'm using my glans to check how his bowels are shaped.
 
-「俺のおちんちんだよ。コノミの中に俺のおちんちんが入ってるんだ」
+「It's my penis. What's inside you is my penis, Konomi.」
 
-根本まで押し込むと、コノミの可愛いタマタマが俺の下腹に当たった。
+When I finally insert it all the way to the base, Konomi's cute little balls rub against my stomach.
 
 #voice kona0050
-【コノミ】「おちんちん……人間のおちんちんがボクのおしりに入っちゃってるのぉ〜？」
+【Konomi】「Penis...a human penis is in my buuttttt〜?」
 
-「そうだよ。根元までしっかりとくわえ込んでいやらしいね」
+「That's right. You took me all the way to the base, how naughty of you.」
 
 ;SE se022 挿入音連続1 loop再生
-#se 1 se022 100 0
+#se 1 se022 70
 
 #voice kona0051
-【コノミ】「あっ……あっ動いて……あ、うんっ……んっ……おっきいおちんちんがボクのおしりにズポズポ出たり入ったりしてるぅっ！」
+【Konomi】「Ah...Aah, moviiing...ah, ooh...mnn...your huge penis is going in and out of my buuuttt!」
 
-激しく腹をぶつけるようにして動くと、今度は俺の玉がぺちぺちとコノミのしりを叩いて音を立てる。
+I violently thrust my hips forward, and this time it's my balls that repeatedly slap against Konomi's butt.
 
 #voice kona0052
-【コノミ】「これぇ！？　これがお仕置きなのぉ〜？　ボクのお腹の中、人間のおちんちんで掻き回すのがお仕置きぃ〜？　気持ちいいよぉ〜？」
+【Konomi】「This, this is punishmeeent〜!?　Human's penis mixing up my stomach is punishmeeent〜?　But it feels so gooood〜?」
 
-「そうだ。これがお仕置きだよ」
+「That's right, this is punishment.」
 
 ;EVCG EV005B3
 #cg all clear
@@ -699,38 +701,38 @@
 #wipe fade
 
 #voice kona0053
-【コノミ】「お腹の中、ずんずんされるの……気持ちいい……あっあっすごぉい……もっとお仕置きしてぇ！」
+【Konomi】「Thrusting into my stomach...feels good...aah, amaziiing...punish me hardeeeer!」
 
-「あぁ、お仕置きしてあげる。もっと気持ちよくなりなよ」
+「Yeah, I'll punish you, I'll make you feel even better.」
 
-腰を動かすと、締め付けの強い肉の輪が肉棒から精液を絞りだそうとするようにひくついているのが良くわかる。
+Moving my hips, I can really feel his body squeezing down hard on my cock, like he's trying to wring out all my semen.
 
-勃起しきった可愛らしいおちんちんの先端はほんの少しだけ綺麗な桃色の頭を覗かせ、蜜の玉を作っている。
+A bit of the pink tip of his adorable erect penis is visible, dripping a little bit of honey.
 
-俺はその可愛らしいおちんちんを掴むと、抜き差しするのに合わせて、皮で擦るようにその先端をくりくりしてやった。
+I grab hold of his cute penis, and matching my thrusts, rub his skin, stroking his tip over and over again
 
 #voice kona0054
-【コノミ】「あぁっ……おちんちんも気持ちいい……気持ちいいよぉ！　シコシコされたらボクおかしくなっちゃう！」
+【Konomi】「Aaah...my penis feels good too...it feel so gooood! If you stroke me like that I'll go craaazyyy!」
 
-「おかしくなっていいよ。罰なんだから」
+「It's fine if you go crazy. This is a punishment after all.」
 
-桃色の先端は快感によがり泣いて、透明な蜜をあとからあとから染み出させている。
+His pink tip cries in pleasure, dripping translucent honey.
 
-可愛らしいおちんちんを弄ぶと、指先で粘性のある愛蜜が糸を引いた。
+As I keep playing with his lovely penis, the love-honey increases in viscosity, making little strings on my fingers.
 
 #voice kona0055
-【コノミ】「おちんちんくりくりしちゃ……いやぁ！　先っぽクリクリだめぇ〜……そんなの気持ちよすぎて、ボク、ボクゥ……！」
+【Konomi】「Rubbing my penis...noo! Don't rub the tiiiip〜!...It feels too good, I'm, I'm-!」
 
-先走りを塗り広げるようにして、弾力のある先端の感触を楽しんでいると、コノミは強すぎる快感に喉を喘がせた。
+Konomi panted from the overwhelming pleasure as I coated his penis in his own precum, enjoying the supple sensation of his glans in my hand.
 
-「お仕置きだといっただろう、やめてあげないよ」
+「I told you this is punishment, I'm not going to relent.」
 
 #voice kona0056
-【コノミ】「そんなに激しくされたら、おしりも、おちんちんも、壊れちゃうよぉ……！　ボク、なんにも考えられなくなるぅ〜……」
+【Konomi】「If you do it this hard, my butt, and my penis, will breeaaak!　I won't be able to think anymoreee〜...」
 
-「それじゃ、こっちはどうかな？」
+「Then, what if I do this?」
 
-快感に立ち上がっている乳首に舌を這わせる。ほのかに色づいたそれは、乳輪ごとでなければ摘めないほどに可愛らしい。
+I run my tongue along his nipples, erect from the pleasure he's feeling. They're each a beautiful pink, so faintly colored they'd almost be impossible to see without the areolae surrounding them.
 
 ;EVCG EV005B2
 #cg all clear
@@ -738,23 +740,23 @@
 #wipe fade
 
 #voice kona0057
-【コノミ】「……ふぁっ！　くすぐったいよぉ……そ、そこも変な感じ……」
+【Konomi】「...Fuah!　That tickleeess...th-that spot feels strange too...」
 
-「ははは、ここも感じるのか」
+「Hahaha, so you can feel pleasure from here, too?」
 
-固く尖った先端が舌に心地よくて、思わず歯を立てると、コノミは一層身悶えた。
+The tip of my stiffened tongue must have felt pleasurable, as Konomi grit his teeth, squirming beneath me.
 
 #voice kona0058
-【コノミ】「……噛んじゃダメぇ……！　おむねコリュコリュされるの……頭に響くぅ……」
+【Konomi】「...Don't biteee! When you rub my nipples...it echoes in my brain...」
 
-「ここも気持ちいいの？　舐められてる乳首と、シコシコされてるおちんちんとズポズポされてるおしりの穴、どれが一番いい？」
+「This feels good too? Between licking your nipples, stroking your penis, and thrusting into your butthole, which feels the best?」
 
 #voice kona0059
-【コノミ】「……ぜ、全部ぅ！　乳首もおちんちんもおしりの穴も全部気持ちいいよぉ……」
+【Konomi】「...A-All of theeem!　My nipples, penis, and butthole all feel too gooood...」
 
-「全部同じぐらいなら、全部やめちゃおうかなぁ」
+「If they all feel the same, maybe I should stop them all.」
 
-一瞬全ての動きを止めると、コノミは切なそうにいやらしく腰を振った。
+When I stop for a moment, Konomi lewdly wriggles his hips, in absolute agony.
 
 ;EVCG EV005B3
 #cg all clear
@@ -762,40 +764,40 @@
 #wipe fade
 
 #voice kona0060
-【コノミ】「……あぅうううんん、あんっあんっあんっ……ずぽずぽぉ！　もっと、もっとずぽずぽしてぇ！　全部、全部してよぉ〜！」
+【Konomi】「...Aaaaooohoh, aaahhn, aaahhh....thruust! More, thrust into me moree! All of it, do everythiiiing〜!」
 
-「わかった、欲張りだな。ズポズポしてあげるよっ」
+「Understood. My, aren't you a greedy one. Then I'll do it all for you.」
 
-肉槍の全てを生かして、抜け切りそうなほど引き抜いてから、根元まで勢いよく押し込む。
+Using the entirety of my cock, I pull out almost all the way, then violently thrust balls-deep.
 
 #voice kona0061
-【コノミ】「……にゃぁああっ、ひゃあんっ！」
+【Konomi】「...Nyaaaahh, hyaaahhn!」
 
-「こういう動きはどう？」
+「How does moving like this feel?」
 
-それから俺のおちんちんでコノミのおしりの穴を広げるようにぐりぐりと円をかいて動かす。
+I move my hips in a circle, expanding Konomi's butthole with my penis.
 
 #voice kona0062
-【コノミ】「ぐりぐりぃ……ぐりぐりぃっ先っぽが気持ちいいとこぐいぐい押してるよぉ、それいいっ！」
+【Konomi】「Rubbing...when you push into me like that, my tip feels really good...it's so good!」
 
-前立腺を押しつぶすようにこりっこりっと探り当てると、コノミの反応が変わった。
+When I push against his prostate, hitting it hard, Konomi's reactions change.
 
 #voice kona0063
-【コノミ】「あひゃあっ……あぁっ……何それぇ！？　おしりの中に気持ちいいとこあるよぉ〜……そこ、そうされると……頭真っ白に……ふぁああああんっ」
+【Konomi】「Ahyaah...aaah...what's thiiis〜?! That's a really good spot in my buuutt...when you rub there...my brain goes white...fuaaaahhhn!」
 
-「へぇ、この中のこりこりしてる所押しつぶされるのがいいの？　じゃあ、もっとこりこりしてあげるね」
+「Hmmm, so when I press against this spot, it feels good? Then I'll keep doing it.」
 
 #voice kona0064
-【コノミ】「あぁ……そこだけいぢめられたら、ボクおかしくなるぅ！！」
+【Konomi】「Aah...If you keep only teasing that spooot, I'll go craazyyy!!」
 
-コノミが身をよじるせいで予測不能な動きも加わり、一気に俺も頂点へと押し上げられていく。
+Konomi's body twists and writhes from the pleasure, moving in ways I can't predict, instantly putting me at climax.
 
-「イくぞ、イくぞ、中でイくからしっかり受け止めろよ？」
+「I'm going to cum, I'm cumming inside, so make sure you take it all, okay?」
 
 #voice kona0065
-【コノミ】「ひゃあっ……ふわぁああああん！！　イク……？　イクってなぁに……？」
+【Konomi】「Hyaaah...fuwaaaahhhh!!　Cumming?　What's cummiiiing?」
 
-「おまえの中に俺の精液を吐き出すってことだ」
+「It means I'm going to shoot my semen inside you.」
 
 ;SE se022 挿入音連続1 loop停止
 #se 1 stop
@@ -812,15 +814,15 @@
 #bg bg07a_3
 #wipe fade 300
 
-届く限りの一番奥で、俺は射精した。びゅくびゅくと精液がコノミの体内を撃ち抜いていく。
+I reach the deepest spot inside him, and orgasm. My semen spurts inside Konomi's bowels.
 
 #voice kona0066
-【コノミ】「あぁっ……熱いの、熱いのおなかの中に広がるよぉ……！」
+【Konomi】「Aaah...so hooot, something hooot is filling my stomaaach!」
 
-腹の中で射精されたのを感じたのか、コノミは射精の勢いに合わせるようにして、びくんびくんと体を震わせた。
+The pleasure Konomi experiences from my ejaculation is so great he powerfully cums in turn, his body spasming.
 
 #voice kona0067
-【コノミ】「ボクも……ボクも、なんか出そう……！　あぁっ……出るぅ……！」
+【Konomi】「Me too....something's coming out of me, too! Aaah...it's shooting ouuut..!」
 
 ;SE se024 射精音2 再生
 #se 1 se024
@@ -835,9 +837,9 @@
 #bg bg07a_3
 #wipe fade 300
 
-俺に続いて、コノミも射精した。
+Right after me, Konomi also ejaculates.
 
-コノミの白い精液が、コノミ自身の顔に降りかかっていく。
+Konomi's white semen shoots out with such force it covers his own face.
 
 ;EVCG EV005B2
 #cg all clear
@@ -845,13 +847,13 @@
 #wipe fade
 
 #voice kona0068
-【コノミ】「ボクの、おちんちんから……びゅくびゅくって、白いの、いっぱい出たぁ……！」
+【Konomi】「A whole bunch of white stuff...shot out of my peniiiss!」
 
-コノミがイった瞬間、俺の肉棒を包んでいる肉輪がきゅっと締まり、最後の一滴までを搾り取っていった。
+The moment Konomi climaxes, he squeezes down extremely hard, wringing out every last drop of my semen
 
-「ふぅ……」
+「Phew...」
 
-出し切って力を失いつつある俺自身を引き抜くと、コノミはどこか残念そうに呟いた。
+Completely exhausted, I pull out. Konomi looks almost disappointed.
 
 ;EVCG EV005B1
 #cg all clear
@@ -859,29 +861,31 @@
 #wipe fade
 
 #voice kona0069
-【コノミ】「これが、人間のお仕置き？」
+【Konomi】「That's a human punishment?」
 
-「そうだ」
+「That's rihgt.」
 
 #voice kona0070
-【コノミ】「お仕置き……もう、おしまい？」
+【Konomi】「Is the punishment...already over?」
 
-「今日は、おしまい」
+「For today, it's over.」
 
 #voice kona0071
-【コノミ】「そっかぁ……」
+【Konomi】「I see...」
 
-……あぁ、気が遠くなる。
+...Aah, I'm going to faint.
 
-ただでさえ寝入りかけていたところに来て、軽く体を動かしたことと射精の疲労が、俺を容赦なく眠りの国に誘っていく。
+Normally, I would be fast asleep at this time of night.
+
+The combination of fatigue from exercise and ejaculation forcibly invites me to the land of dreams.
 
 #voice kona0072
-【コノミ】「眠いのぉ〜？」
+【Konomi】「Are you sleeeepy〜?」
 
-「うん、おやすみ」
+「Yes....good night.」
 
 #voice kona0073
-【コノミ】「……おやすみなさぁ〜い」
+【Konomi】「...Good niiiiiight〜」
 
 ;（仮）blackフェードアウト（ロング）
 ;メモ：黒画面のフェード1秒で表示しています。参考までにご確認お願い致します。
@@ -903,136 +907,136 @@
 ;#se 0 amb001
 #bgvoice amb001
 
-「ん……」
+「Mmn...」
 
-隙間だらけの小屋の方々から差し込む光で、目が覚めた。
+Sunlight shining through the holes in my roof woke me up the next morning.
 
-「……まずは屋根と壁だな。早い所直さないと、住むどころじゃないぞ」
+「...I'll start with the walls and roof. If I don't fix them quickly, I won't be able to abide here.」
 
-起きぬけの寝ぼけた頭で、起き上がりながら呟く。
+Shaking my still-sleepy head, I mutter to myself as I get up.
 
-改めて昼間見ると、壁にどでかい穴が開いていて、向こう側に生えている木が覗けている始末。
+When I look around again, in the daylight, I can see a gigantic hole in the wall, so large I can see the trees growing on the other side.
 
-これは大仕事になりそうだ。
+This will probably be a lot of work.
 
-昨夜の深夜、寝入りばなに無理やり起きたせいか、はたまたたんに疲れているせいか、酷く体がだるい。
+My boddy feels sluggish and languid. I feel exhausted, maybe because I was woken up in the middle of the night
 
-昨日は立て続けに二人の可愛いエルフと関係を持ったせいもあるかもしれない。
+It might also be because I had carnal relations with two beautiful young elves in a row, yesterday.
 
-どうせ、目が覚めたらいなくなってるんだろうけど……。
+But now that I've woken up, the elf is nowhere to be seen...
 
-エルフなんて、昔から気まぐれなものだと相場は決まっている。
+Elves have a long-held reputation for being capricious creatures, vanishing and reappearing on a whim.
 
-もう会えないんだとしたら、惜しいことをしたな……また、会えるといいんだけど……。
+If I never saw either of them again, that would be truly regrettable...It would be nice to see them again, but...
 
-「残念だな」
+「What a shame.」
 
 #voice kona0074
-【コノミ】「ん〜？　何が残念なのぉ？」
+【Konomi】「Mnn〜?　What's a shameee?」
 
-「へ？」
+「Huh?」
 
 ;BGMch1 bgm003 コノミ 再生
-#bgm 0 bgm003
+#bgm 0 03
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
-;メモ：この箇所、命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
+;メモ：この箇所,命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
 #face f_kon_0_01f1a 94 466
 
 #voice kona0075
-【コノミ】「やぁっと起きたぁ〜、人間ってお寝坊なんだねぇ〜」
+【Konomi】「You're finally uuuup〜, Human, you sure are a sleepyheaaaad〜」
 
-「うわっ！？　びっくりしたっ！」
+「Uwaaah!?　You frightened the life out of me!」
 
-昨夜のふにゃんとした笑顔が覗きこんで来て、飛び上がりそうになる。
+The same bemused grin I saw last night popping up out of nowhere nearly makes me jump in fright
 
 #voice kona0076
-【コノミ】「ん〜？　びっくりしたぁ？　脅かしてないよぉ〜？　ふふふ」
+【Konomi】「Mnn〜?　You're frighteneeed? I'm not scaaarrry, okaay〜? Fufufu.」
 
-「あ、いや……まだ、いると思わなかったから……」
+「Oh, uh...I wasn't expecting you to be here....」
 
 ;CHR K09F1 C
 #cg コノミ kon_1_09f1 中
 #wipe fade
 
-;メモ：この箇所、命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
+;メモ：この箇所,命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
 #face f_kon_0_09f1 94 466
 
 #voice kona0077
-【コノミ】「ボク、いるよぉ〜？　それでびっくりするなんて、おっかしいのぉ〜。うふふふふふ」
+【Konomi】「But I'm right hereee〜?　Getting scared by something like that, how straaange〜. Fufufufufu.」
 
-「……あ、あは……へへへ……」
+「...A-Ahaha...heh...」
 
-笑うコノミに釣られて、俺まで笑ってしまう。
+Konomi's laugh is so charming I can't help but laugh along.
 
-あ、れ……何で、まだいるんだ？
+Wait...why is he still here?
 
-大体、昔話じゃ昨日みたいないい思いをした後は、いつの間にか相手はいなくなってて、大事なものをなくすのが相場……。
+The way the folklore about elves goes is roughly: They show up, give you some form of wonderful or magical experience, then disappear before you even realize they left, taking something valuable with them...
 
-「っ！？」
+「!?」
 
-俺ははっとして、自分の荷物を見た。
+Realization dawning on me, I rush over to check my belongings.
 
-「……別に何もなくなってない」
+「...Phew, it doesn't seem like anything's missing.」
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
-;メモ：この箇所、命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
+;メモ：この箇所,命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
 #face f_kon_0_01f1a 94 466
 
 #voice kona0078
-【コノミ】「駄目だっていうから、夕べから触ってないよぉ？　勝手に荷物触ったら泥棒なんでしょ〜？」
+【Konomi】「You said not to, so I haven't touched them since last night, okaaay? People who touch other's belongings without permission are thieves, riiight〜?」
 
-コノミも一緒になって覗きこんできているが、嘘はついていないようだ。
+Konomi joins me in reviewing my possessions. He doesn't seem to be lying.
 
-「そ、それじゃ……！？」
+「Th-Then that means...!?」
 
-自分の体を確認してみるが、それも特に変わった様子はない。
+I check all over my body, but nothing seems to have changed.
 
-……あれ、なんか怪我してるとかなんとかないのか？
+...Huh, I'm not even injured or missing something?
 
-;メモ：この箇所、命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
+;メモ：この箇所,命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
 #face f_kon_0_01f1a 94 466
 
 #voice kona0079
-【コノミ】「ボク、びっくりしたよぉ。人間のお仕置きって気持ちいいんだねぇ〜。あんなお仕置きなら、ボクいっぱいしてもらいたい」
+【Konomi】「I was really surpriiised. Human punishment feels so gooood〜. If that's punishment, I want to be punished lots and looots.」
 
-コノミは嬉しそうに言った。
+Konomi says that cheerfully.
 
-「それは、ちょっと違うかな。は、ははははは……」
+「That's, uh, not quite right. Haha, hahahahaha...」
 
-昨日はノリでそんなことを言ってしまったが……あれがお仕置きだと思われて、今後お仕置きされるために何かされたら、困ったことになりそうだ。
+I got a bit carried away last night and said that...But if he continues to think 'that' was punishment, and then does bad things so he can get punished again, that'll be a rather significant problem.
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
-;メモ：この箇所、命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
+;メモ：この箇所,命令文の記述ミスがない状態でフェイスが自動表示されないため手動で表示命令を入れています。
 #face f_kon_0_02f1 94 466
 
 #voice kona0080
-【コノミ】「ん〜違うのぉ？」
+【Konomi】「Mnn〜 it's noooot?」
 
-不思議そうにコノミが目をぱちぱちとさせる。
+Konomi blinks, his curiosity piqued.
 
-「えーっとその、あれは……」
+「Umm, that was...」
 
-なんて言ったらいいんだろう？
+How can I possibly explain this?
 
 #voice hina0143
-【？？？】「あーっ！」
+【???】「Aah‾!」
 
-何と言ったものかと、言葉に詰まっていると、突然大きな声が響き渡った。
+Trying and utterly failing to think of an explanation, I suddenly hear a loud voice.
 
 #voice kona0081
-【コノミ】「あれぇ？」
+【Konomi】「Oh myyy?」
 
-;……無音
+;...無音
 ;wait
 
 ;CHR K02F1 L
@@ -1046,9 +1050,9 @@
 
 ;ヒナタ
 #voice hina0144
-【エルフ】「なんで……がいっしょなの？」
+【Elf】「Why...are you together?」
 
-やってきたのは、昨日の昼に遭った、蔦の魔物に捕まっていた方のエルフだった。
+The new arrival was the elf from yesterday, the one who had been captured by the vine monster.
 
 ;CHR H03F1 R
 #cg ヒナタ hin_1_03f1 右
@@ -1056,11 +1060,11 @@
 
 ;ヒナタ
 #voice hina0145
-【エルフ】「ニンゲンさん、ぼくにはついてきちゃ、ダメだっていったのにぃ」
+【Elf】「Human-san, you said that I wasn't allowed to come with you. But he's...」
 
-昼会った子は悲しそうな目で俺を見上げてくる。
+He looks at me with eyes full of hurt and betrayal.
 
-「う、うーん、コノミはついてきたわけじゃなくてね……」
+「U-Um, you see, Konomi didn't exactly follow me...」
 
 ;CHR H02F2 R
 #cg ヒナタ hin_1_02f2 右
@@ -1068,14 +1072,14 @@
 
 ;ヒナタ
 #voice hina0146
-【エルフ】「コノミ？」
+【Elf】「Konomi?」
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice kona0082
-【コノミ】「ボクのことだよぉ、ナナシぃ〜。人間には、僕らの言葉は聞き取れないからねぇ〜」
+【Konomi】「That's me, Nanashiii〜. Humans don't seem to be able to hear our languaagee〜」
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
@@ -1083,55 +1087,55 @@
 
 ;ヒナタ
 #voice hina0147
-【エルフ】「おお、ニンゲンのことばだとコノミかぁ、いいねぇっ♪」
+【Elf】「Oooh, so in Human, you're Konomi. That's nice♪」
 
-「ナナシ？」
+「Nanashi?」
 
-新しく出てきた言葉に、首をかしげているとコノミが糖蜜色の髪のエルフを指差した。
+When I repeat that word, confused, Konomi tilts his head and points at the elf with honey-colored hair.
 
 #voice kona0083
-【コノミ】「これはナナシ。それなら聞こえるでしょお〜？」
+【Konomi】「This is Nanashi. That way, you can hear it, riiight〜?」
 
-「あ、うん。ナナシ、かぁ」
+「Oh, okay. Nanashi, huh.」
 
-なんだ、名前はあったんじゃないか。
+So he actually does have a name.
 
-何か事情があって名乗れないとか、個体名がないのかと思っていたけど、エルフにもどうやら個体名はあるようだ。
+Yesterday, I thought there was some reason he couldn't tell me his name, or that elves didn't name individuals, but apparently they do.
 
-「コノミはエルフ語で木になる実とか、果物とかそういう名前らしいけど、ナナシにはどんな意味があるんだい？」
+「Konomi means fruit, so your real name is the Elvish word for fruit, right? What does Nanashi mean?」
 
-人間の言葉に直すとナナシになるということなんだろうけど、聞き慣れない言葉だ。
+Apparently 'Nanashi' is a human word that's a translation of his real name, but it's not one that I'm familiar with, so I'm curious what it means.
 
 #voice hina0148
-【ナナシ】「ナナシは、ナナシだよ？」
+【Nanashi】「Nanashi means Nanashi?」 
 
 #voice kona0084
-【コノミ】「うん、ナナシに意味はないねぇ〜」
+【Konomi】「Yes, Nanashi has no meaning〜」 (TL note: Nanashi (ナナシ) means "Doesn't have a name" or "Nameless" in Japanese.)
 
-「意味はない？」
+「It doesn't mean anything?」
 
 #voice kona0085
-【コノミ】「うん、意味はないよぉ〜？　意味がないからナナシなんだもん」
+【Konomi】「Yep, it's meaninglesss〜?　It's meaningless, hence, Nanashi.」
 
-「音が似てるとか、そういうこと？」
+「So you mean his name is exactly what it sounds like?」
 
 ;CHR H02F1 R
 #cg ヒナタ hin_1_02f1 右
 #wipe fade
 
 #voice hina0149
-【ナナシ】「おと？」
+【Nanashi】「Sounds?」
 
 #voice kona0086
-【コノミ】「ナナシは、ナナシ、だよねぇ？」
+【Konomi】「Nanashi is Nanashi, riiight?」
 
-質問の意味がわからない、と言う顔でコノミとナナシは顔を見合わせて首を捻っている。
+Konomi and Nanashi look at each other and tilt their heads in confusion, clearly not understanding my question.
 
-……なんで、ナナシはナナシって名前があるのに、昨日は名乗らなかったんだろう？
+...Why, if he has a name, Nanashi, did he not introduced himself yesterday?
 
-『人間の言葉に直すと』ってことだから、昨日は思いつかなかったんだろうか。
+Perhaps he didn't know that humans apparently can't hear Elvish, and he needed to say his name in human? Or he just didn't know the translation?
 
-俺が考え込んでいると、コノミとナナシはお互いが動いているのが面白くなったのか、鏡のように動いたりして遊び始めた。
+While I ponder over it, Konomi and Nanashi, each intrigued by the other's movements, start playing a game where they each try to imitate how the other moves, like a mirror.
 
 ;CHR K06F L
 #cg コノミ kon_1_06f 左
@@ -1142,300 +1146,300 @@
 #wipe fade
 
 #voice kona0087
-【コノミ】「ん〜？」
+【Konomi】「Mnn〜?」
 
 #voice hina0150
-【ナナシ】「ん〜！」
+【Nanashi】「Mnn〜!」
 
-「……何してるの、ふたりとも」
+「...What are you two up to?」
 
-声をかけると、ナナシははっとして俺の方を向き直った。
+When I call out to them, Nanashi, startled, turns to face me.
 
 #voice hina0151
-【ナナシ】「そだった！　ニンゲンさんは、ぼくはいっしょにきちゃダメ〜っていったのに、コノミはいっしょでもいいの？」
+【Nanashi】「I just remembered!　Human-san, you said I wasn't allowed to come with you〜, but Konomi is?」
 
-「へ？」
+「Huh?」
 
 #voice hina0152
-【ナナシ】「ぼくは、いっしょにいちゃダメなの？　ぼくもいっしょがいいのにっ！」
+【Nanashi】「Am I not allowed to be here too?　But I really want to be together!」
 
-「一緒にいちゃダメって言うか、コノミだって昨日勝手に入ってきて……」
+「It's not that he's allowed and you're not, Konomi just snuck in on his own last night, and then...」
 
 #voice kona0088
-【コノミ】「ニンゲンさん？」
+【Konomi】「Human-san?」
 
-「は、はい！」
+「Y-Yes!」
 
-返答に困っているところに、突然素っ頓狂な声を上げられて、思わず返事をしてしまう。
+I hesitate, reaching a spot I'm not sure how to explain, when Konomi suddenly pipes up, and I'm so startled I respond without thinking.
 
 #voice kona0089
-【コノミ】「君、ニンゲンていうんだ〜」
+【Konomi】「Oh, so your name is Human〜」
 
-「え？　あ、違う……」
+「Eh? Oh, no, I'm not...」
 
-もしかして、コノミも俺の名前がニンゲンだと勘違いしている？
+Does Konomi now also mistakenly believe that my name is 'Human'?
 
 #voice hina0153
-【ナナシ】「え？　ちがわないよ、ニンゲンさんはニンゲンさんでしょお？　ぼくにウソついたのっ！？」
+【Nanashi】「Eh? It's not wrong, Human-san, you're Human-san, right?　You lied to me!?」
 
-「いや、嘘はついて……」
+「No, I didn't lie...」
 
 #voice kona0090
-【コノミ】「さっき、『ニンゲンさん』って呼ばれて返事したもんねぇ？」
+【Konomi】「And when I just called you 'Human-san', you responded, right?」
 
-コノミが不思議そうに首をかしげる。
+Konomi tilts his head, curious.
 
 ;CHR H01F2 R
 #cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hina0154
-【ナナシ】「ほらっ！　やっぱりニンゲンさんだっ！」
+【Nanashi】「That's right!　He really is Human-san!」
 
-嬉しそうにナナシが飛び跳ねた。
+Nanashi jumps for joy.
 
-「それは違うってば」
+「I keep telling you that's wrong.」
 
 ;CHR H02F1 R
 #cg ヒナタ hin_1_02f1 右
 #wipe fade
 
 #voice hina0155
-【ナナシ】「ニンゲンさん、ニンゲンじゃないの？　ニンゲンにみえるけどちがうのっ！？　ぼくわかんないよっ！？」
+【Nanashi】「Human-san, you're not human?　You look human, but you're not!?　I don't get it!」
 
-ナナシが困った顔で首を左右に振った。
+Nanashi shakes his head, at his wits end.
 
-「いや、人間は人間なんだけど……」
+「No, I'm human, but...」
 
 ;CHR K09F1 L
 #cg コノミ kon_1_09f1 左
 #wipe fade
 
 #voice kona0091
-【コノミ】「人間のニンゲン、かぁ……よろしくねぇ、ニンゲンくん」
+【Konomi】「Ah, so you're a human named Human, is it...Nice to meet you, Human-kun.」 ;Konomi says that he's a human (人間) named Human (ニンゲン). 
 
-にこぉ、とコノミが笑う。
+Konomi smiles a gigantic smile.
 
-「あぁ、もうどうやって説明したらいいんだ！　頭痛いな、もう」
+「Yeah, I'm at my wit's end trying to explain this! This is giving me a headache.」
 
-わけのわからない状況に、思わず頭を抱えると、ナナシが心配そうに俺の顔を覗きこんできた。
+This bizarre situation makes me rub my forehead. Nanashi looks up at me, worried.
 
 #voice hina0156
-【ナナシ】「ニンゲンさん、あたまイタタなの？　だいじょうぶ？　なおしてあげたほうがいい？」
+【Nanashi】「Human-san, is your head feeling ouchie?　Are you alright? Should I heal you?」
 
-「……」
+「...」
 
-悪気など一つもなさそうな心配顔は、俺の頭痛の原因が自分だなどとは一つも思っていない様子だ。
+The genuine, pure concern for me in his expression shows that he doesn't have the slightest idea he's the cause of my headache.
 
-「……ぷ」
+「...Pff.」
 
-あどけない顔には、思わず笑いを誘われた。
+His innocent face makes me laugh, despite myself.
 
 ;CHR H04F1 R
 #cg ヒナタ hin_1_04f1 右
 #wipe fade
 
 #voice hina0157
-【ナナシ】「あれあれ？　なんでわらっているのかな？」
+【Nanashi】「Huh, huh? Why are you laughing?」
 
-しかめっ面から笑い顔になった俺に、ナナシは心底不思議そうになる。
+Nanashi is as curious as can be as to why I suddenly stopped frowning and started laughing.
 
-「あはははは、キョトンとした顔して」
+「Ahahaha, you're so dumbfounded.」
 
-その不思議そうな顔にますます笑いがこみ上げてくる。
+He looks so confused that I just can't stop myself from laughing even more.
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice kona0092
-【コノミ】「治してあげたの、ナナシ？　今、何にもしなかったよねぇ〜？」
+【Konomi】「Nanashi, did you just heal him? You didn't do anything, just now, did you〜?」
 
-コノミも不思議そうな顔で俺とナナシを見比べている。
+Konomi, also perplexed, looks back and forth between Nanashi and me.
 
 #voice hina0158
-【ナナシ】「あたまいたいのなおったの？」
+【Nanashi】「Is your head all better?」
 
-ナナシの邪気がまったくない顔が、妙におかしい。
+For some strange reason, Nanashi's innocent, worried, harmless expression seems hilarious to me.
 
-そうか、この子たちには何一つ悪気も何もないんだ。
+I finally understand. These young elves don't have the slightest bit of malice or ill-will in them.
 
-それに気づいた俺は愉快な気持ちになった。
+That realization makes me feel...nice.
 
-「ははははは……あぁ、治ったよ」
+「Ahahaha...yes, it's better.」
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hina0159
-【ナナシ】「よかったっ！　よかったねっ！」
+【Nanashi】「Hooray! That's great!」
 
-ナナシはそんなたった一言で、心底嬉しそうにぴょんぴょんと跳ねた。
+Just that simple response was enough to make Nanashi jump for joy.
 
-「あぁ、ありがとう」
+「Thank you.」
 
-くしゃっと髪を撫でてやるとナナシは嬉しそうに目を細める。
+When I pat his head, Nanashi looks up at me and smiles brilliantly.
 
 
 #voice hina0160
-【ナナシ】「えへへぇ、それスきっ！」
+【Nanashi】「Ehehe, I like that!」
 
-「頭撫でられるの好きなの？」
+「You like headpats?」
 
 
 #voice hina0161
-【ナナシ】「うんっ！」
+【Nanashi】「Yeah!」
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice kona0093
-【コノミ】「いいなぁ〜ボクもぉ〜」
+【Konomi】「That looks niiice〜, me tooo〜」
 
-コノミもねだるように頭を差し出してきたので、こちらも撫でてあげると、コノミもうっとり目を細めた。
+Konomi sticks his head out towards me so that I can pet him too. When I do, his whole face breaks out into a smile.
 
 #voice kona0094
-【コノミ】「ニンゲンくんに頭撫でてもらうのいい気持ち〜」
+【Konomi】「My head being patted by human-kun feels really good.〜」
 
 #voice hina0162
-【ナナシ】「うん、いいきもち！」
+【Nanashi】「Yeah, it's nice!」
 
-嬉しそうに頭を撫でられているふたりを見ると、こちらとしても悪い気はしない。
+Watching the pure happiness the duo demonstrate from having their heads patted doesn't feel bad for me, either.
 
-一通り撫でてから手を離すと、ナナシが一生懸命な様子で俺にまとわりついてきた。
+When I finally pull my hand away, Nanashi jumps on me, and clings to me like his life depends on it.
 
 #voice hina0163
-【ナナシ】「ね、ね、ぼくもいっしょにいていい？」
+【Nanashi】「Hey, hey, can I stay with you too?」
 
-「……あぁ、いいよ」
+「...Yes, you can.」
 
-こんなに懐かれてはさすがに断ることなんてできない。
+If he's this attached to me already I can't possibly refuse.
 
-俺が頷いて見せると、ナナシは飛び上がって喜んだ。
+When I agree, Nanashi jumps for joy higher than I've seen him jump ever before.
 
 ;CHR H07F R
 #cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hina0164
-【ナナシ】「わぁい！　ぼくもニンゲンさんといっしょにいていいんだぁっ！」
+【Nanashi】「Hooraaaay! I can be with Human-san tooooo!」
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice kona0095
-【コノミ】「よかったねぇ〜」
+【Konomi】「That's greeaat〜」
 
-ふたりは手を取り合って飛び跳ねている。ふたりして喜んでいる姿が実に微笑ましい。
+The two join hands and jump for joy together. How happy they look is truly adorable.
 
-「ふたりとも顔見知りみたいだったけど、同じところから来たの？」
+「You two seem to know each other. Are you both from the same place?」
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hina0165
-【ナナシ】「そだよ？」
+【Nanashi】「That's right?」
 
 #voice kona0096
-【コノミ】「うん、そぉ〜」
+【Konomi】「Yep, that's riiight〜」
 
-「へぇ……ってことは、この近くにエルフの里があるのか」
+「Huh...so that means there's an elf village somewhere nearby?」
 
-この近くってことは俺が元いた村からも近いはずだけど、そんなにこのあたりにエルフの目撃談が多いという話は聞いたことがない。
+If the village is close to this cabin, that must mean it's also close to where I used to live. However, it's a bit odd, because there were almost no stories of firsthand elf sightings.
 
-昔話や噂話で、エルフの話が残っているくらいだ。それなのに、こんなに立て続けにエルフに出会うことになるなんてなぁ。
+The only stories of elves are rumors and fairy tales. And yet I've managed to encounter two elves in a single day's journey.
 
-「エルフって、この近くの村に来たりしたこと無いの？」
+「Have any elves ever come this close to the human village before?」
 
-素朴な疑問が浮かんで、どちらにともなく聞いてみる。
+As more and more questions keep popping up, I decide to ask the two of them.
 
 #voice hina0166
-【ナナシ】「おっきいエルフは、へんそーしたりするんだよ」
+【Nanashi】「Big elves are good at disguises.」
 
-へんそー……ヘンソウ、変装……か。
+Disguises...that might explain it.
 
-「なるほどねぇ。人間の村に来るときはエルフだってバレようにしてるのか」
+「I see. So you're saying that elves actually do visit humans, they hide the fact that they're elves when they do it?」
 
 #voice kona0097
-【コノミ】「だから、ニンゲンくんにはわからなかったのかもねぇ〜」
+【Konomi】「That's probably why you never noticed any, Human-kuuuun〜」
 
-「へぇ、じゃあ、今まで村に来た旅の行商人とかの中にエルフがいたのかもしれないってことか」
+「Huh. So would that mean that some of the travelling merchants who visit are actually elves in disguise?」
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice kona0098
-【コノミ】「ん〜。かもしれない〜」
+【Konomi】「Mnn〜, maybe sooo〜」
 
-「君たちは村に来たことないの？」
+「Have you two ever been to the human village?」
 
 #voice kona0099
-【コノミ】「ううん、ないよぉ〜門の外に出られるのは大きいエルフだけだもん」
+【Konomi】「Nope, neveeer〜, it's only big elves who are allowed through the gate.」
 
 #voice hina0167
-【ナナシ】「もんがなくなっちゃったから、ぼくたちでてきたの」
+【Nanashi】「But now the gate's gone, so we could go out.」
 
 #voice kona0100
-【コノミ】「門があったから、小さいエルフは出て来れなかったんだよねぇ〜」
+【Konomi】「When the gate was still around, little elves like us could never have leeeft〜」
 
-「門が、なくなった？」
+「The gate's...gone?」
 
-門てなくなったりするものなんだろうか。
+What could that possibly mean? 
 
 #voice kona0101
-【コノミ】「うん、門がなくなったのねぇ〜。それでぇ、えいって出てきちゃった」
+【Konomi】「Yep, the gate's gonee〜, and so we could leeeave.」
 
 #voice hina0168
-【ナナシ】「でてきちゃった♪」
+【Nanashi】「We left♪」
 
-「門てどんな門？」
+「What kind of gate is this, exactly?」
 
 ;CHR H04F2 R
 #cg ヒナタ hin_1_04f2 右
 #wipe fade
 
-興味をそそられて聞いてみると、ナナシは少し困ったように固まった。
+I asked out of mere idle curiosity, but Nanashi inexplicably seemed a little bothered by the question.
 
 #voice hina0169
-【ナナシ】「もんはもんだよ。ね？」
+【Nanashi】「The gate is a gate. Right??」
 
 #voice kona0102
-【コノミ】「そうだね。門は出たり入ったりするねぇ〜」
+【Konomi】「That's right. You can go in the gate, or out of the gateee〜」
 
 #voice hina0170
-【ナナシ】「とおるからもん、だよね？」
+【Nanashi】「That's what makes it a gate, right?」
 
-「……門て言ったっていろいろあるだろう？」
+「...But there's a lot of different types of gates, aren't there?」
 
 #voice hina0171
-【ナナシ】「はにゃ？」
+【Nanashi】「Hanya?」
 
 #voice kona0103
-【コノミ】「色々は〜あるけど〜、どんなって聞かれてもわかんないかな〜ボクらが作ったわけじゃないからね〜」
+【Konomi】「There aree〜 buuut〜, we didn't make iiiit〜, so we don't know what kind it iiiis〜」
 
 #voice hina0172
-【ナナシ】「そだよ！　おっきいエルフがつくるんだもん！　ね〜？」
+【Nanashi】「Yeah!　The big elves made the gate!　Got it〜?」
 
-……なんだかよくわからないけど、このふたりに聞いてもこれ以上のことはわからなそうだ。
+...I haven't the foggiest, but the more I talk to them, the more confused I get.
 
-もっと具体的に聞けば何かわかるのかもしれないけど、とりあえずとはいえ、こんな時に咄嗟にいい聞き方なんてそうそう出てこない。
+Perhaps if I ask more specific, directed questions, I might get more details, but it's difficult to think of the right questions to ask on the spot, so I set the matter aside for now.
 
-「そうか、門から出てきたのか。よくわかったよ」
+「Okay, so you left through the gate. Now I understand.」
 
-俺は諦めて、問答を締めくくった。
+I give up, and end the questions.
 
-細かいことは少しづつ聞いていけばいいだろう。
+I'll just get the details from them a little at a time.
 
-幸か不幸か、コノミもナナシもしばらくは俺の傍にいるつもりのようだし。
+For good or ill, it seems that Nanashi and Konomi want to stay with me for the next little while.
 
-……この森には孤独を求めてきたはずだったんだけどなぁ。
+...And to think I came out to live in this forest here for solitude.
 
-「でも、ふたりとも、俺がやってることは邪魔しないでくれよ？」
+「Promise you two won't interfere when I'm working, okay?」
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
@@ -1444,84 +1448,84 @@
 #wipe fade
 
 #voice hina0173
-【ナナシ】「はーい！」
+【Nanashi】「OK!」
 
 #voice kona0104
-【コノミ】「はぁい」
+【Konomi】「Okaaaay.」
 
-ちょっと不安は残るけど、エルフは飽きっぽいと聞くし、それまでの辛抱だ。
+I'm still somewhat concerned over this, but all stories of elves say they're capricious creatures. All I have to do is put up with them until they grow bored.
 
-村にいた頃よりもしばらくは騒がしいことになりそうだけど……。
+Until then, it looks like my life here will be more hectic than back in the village...
 
-ま、人間から離れて生活ができることには一応、変わりはないかな。
+Well, I left because I wanted to get away from humans, so in a way I've succeeded.
 
-「さて、それじゃ今日は小屋の修理をするぞ」
+「Alright then, I'll start by fixing the cabin today.」
 
 #voice hina0174
-【ナナシ】「おぉ！？　たいへんなにんむだっ！」
+【Nanashi】「Ooh!?　What an important job!」
 
-「そうだ、大変な任務なんだ。だからナナシもコノミも付き合ってくれよな」
+「Yes, it's a very important job. So, if possible, I'd like you two to help me.」
 
 ;CHR H07F R
 #cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hina0175
-【ナナシ】「はいっぼくいっしょうけんめいおてつだいするよっ！」
+【Nanashi】「Yes! I'll do my best to ehlp!」
 
-ナナシが緊張した様子で拝命を受けた。
+Nanashi seems really excited to have been appointed my helper.
 
-うまいこと手伝ってくれるようなら人手が増えてありがたいな。
+If it helps me get the job done faster, then there's no reason to be upset about getting a helping hand.
 
-あまり贅沢を言うつもりはないけど、一人で小屋の修理をするのは大変だろうから助かる。
+I don't desire to live in luxury, but fixing this hut to be livable is a lot of work for just one person.
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice kona0105
-【コノミ】「おぉ〜、頑張ってねぇ〜」
+【Konomi】「Ooh〜, do your beeest〜」
 
-「……コノミは付き合ってくれないの？」
+「...You aren't going to help, Konomi?」
 
 #voice kona0106
-【コノミ】「おぉ〜？　ボクはてっきりナナシだけにやらせるつもりなのかと思ってたぁ〜」
+【Konomi】「Ooh〜?　I was certain that you only wanted Nanashi to help youuu〜」
 
-ふにゃん、と他人事みたいにコノミが笑う。
+Konomi grins. His smile looks like it's saying "not my problem".
 
-……これだからこいつは。
+..This boy...
 
-「じゃあ、とりあえずは……修理道具を探すところからかな」
+「Then, for now...we should search for things we can use as tools to fix this place.」
 
-多分この小屋にも何かあるだろう。なければ村に戻ってとってくればいい。修理用の材料は周辺で入手できるだろうし……。
+There's probably something usable in the cabin. If not, I can head back to the village. I can get the raw materials for the repair from the surrounding forest...
 
 ;CHR H04F1 R
 #cg ヒナタ hin_1_04f1 右
 #wipe fade
 
 #voice hina0176
-【ナナシ】「しゅうりどうぐ？」
+【Nanashi】「Fixing tools?」
 
 #voice kona0107
-【コノミ】「わぁ、面白そうだねぇ〜」
+【Konomi】「Hmm, sounds fuuuun〜」
 
-「お手伝い頼むよ」
+「Help out, please.」
 
 ;CHR H08F1 R
 #cg ヒナタ hin_1_08f1 右
 #wipe fade
 
 #voice hina0177
-【ナナシ】「うん！」
+【Nanashi】「OK!」
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice kona0108
-【コノミ】「はぁ〜い」
+【Konomi】「Suuuure〜」
 
-これから先色々なことがありそうではあるけど、少なくとも退屈だけはしなさそう、かな。
+There's a lot that needs doing, so I probably won't be bored for a while.
 
 ;MC
 #cg all clear

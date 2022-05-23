@@ -2,6 +2,9 @@
 ;暗転
 ;#face off
 
+;FACE ON DBG1023
+#face on
+
 #cg all clear
 #bg black
 #wipe fade
@@ -15,41 +18,41 @@
 #bg bg07a_2
 #wipe fade
 
-周辺の探索を終え、ある程度資材を集めてきた俺は山小屋へと戻った。
+My search of the surrounding area finished, I returned to the cabin, some materials gathered.
 
-資材を運ぶのはコノミもナナシもおとなしく手伝ってくれたから助かった。
+Fortunately, Nanashi and Konomi both willingly agreed to help me carry what I'd gathered back, which was a lifesaver.
 
-いつもこうならありがたいんだけど。
+I'd be very grateful if they were always so willing.
 
-ふたりがどこかにいってしまったのは、夕食の準備をしていたら『変な匂いがする』と逃げてしまったからだ。
+However, when I started cooking dinner, the two of them complained that it smelled weird and ran off somewhere.
 
-どうも動物性のものを調理する匂いは苦手なようだ。
+Apparently, they dislike the smell of cooked meat.
 
-エルフは基本的にモノを食べなくても生きていけるみたいだし、なじみのない匂いだからなのかもしれない。
+As elves apparently do not need to eat to survive, they're unused to the smells of food.
 
-……ひとりになりたい時は料理を始めればいいのかな。
+...Perhaps, whenever I want to be alone, I should just start cooking?
 
-俺は思いがけず訪れた平穏を満喫しながら、貴重品のお茶を入れると、手持ち燭台を掲げて物置の傍にしゃがみこんだ。
+Enjoying the unexpectedly quiet evening, a cup of tea in one hand, and a candle in the other, I spent my time bent over reviewing the books in the basement.
 
-先の住民が残していった本は相当面白そうなものばかりだった。
+Every single book that the previous user of this cabin had left was an interesting one.
 
-日記の他に見受けられるのは、事典や辞書の類が多く、日記を読んで分からないことを調べるのに事欠かなさそうだ。それに研究書みたいなのもある。
+Besides the diary, the bookshelves were filled with encyclopedias, dictionaries, and the like. Even a few books of scientific research.
 
-辞書があるおかげで結構専門的な言葉で書かれている部分もなんとか解読できそうだ。
+Thanks to one of the dictionaries, I was able to decipher the quite technical language in the research books.
 
-地下倉庫を調べると、どうも以前のこの小屋の所有者は、エルフや魔物、怪物なんかを研究していた学者か何かのようだ。
+Judging from all of the books gathered here, the previous owner of this hut was a researcher, studying elves, monsters, demons, and plenty of other topics.
 
-村というか、普通の書店でも見ないような学術書の類が多いのはやはり専門にそういう研究をしていたからだろう。
+The books are all technical and specific, each focused on their area. They're not the kinds of things you would find at an ordinary book store.
 
-「こんな人が生きていてくれたら、俺も村を出ることはなかったかもしれないな」
+「If I had met this person when they were alive, maybe I never would've had to leave the village.」
 
-俺がいた村では、役に立たないと言われてしまっていた学問。だけど、それをこんなに真剣に研究していた人がいる。
+I've derided the villagers as close-minded, uninterested in the world. But, at one point, this brilliant, scientific man must have lived there.
 
-いや、俺と同じように感じていたからこそ、この人も村を出てここで生活していたのかもしれない。
+Or, perhaps, just like me, he got fed up with them and left.
 
-そう思うと、一気に親近感が沸いた。
+That thought makes me feel strangely close to him.
 
-亡くなったのは……二十年ほど前か。惜しいことをしたな。会ってみたかった。話をしてみたかったな。
+He must've died...twenty years ago, or so? What a shame, I would have loved to meet him and talk to him.
 
 ;暗転
 ;#face off
@@ -64,17 +67,17 @@
 #bg bg07a_2
 #wipe fade
 
-――日記に残された記述によれば、この地は『聖域』に近いと言われていたらしい。
+――The diary describes a place located near this cabin, called the 『Sanctuary』.
 
-その『聖域』とは、エルフの里ではないかということ。
+Apparently, this 『Sanctuary』 is the village where the elves live.
 
-そして、『聖域』に近いためか、怪物が多く生息しているらしい。
+And, perhaps because of the proximity to the 『Sanctuary』, a lot of monsters live in this area as well.
 
-聖域の近くに怪物が出るなんて不思議な気がするが、力の磁場のようなものがあるんじゃないかという仮説が立てられている。
+The diary's author supposed that there must be something like a magnetic field near the Sanctuary, but for magic, that draws monsters to it.
 
-ただし、そんなに凶悪なものはおらず、初日に見かけた蔦のようなものやスライム、小型獣などが中心等と書いてあるのは少し安心できる。
+However, the diary only describes smaller, weaker monsters, like those vines, or a slime, nothing too dangerous, as being drawn to the sanctuary, which is a slight relief.
 
-「まぁ、でも、気をつけるにこしたことはないよなぁ……」
+「Still, I'll have to be careful...」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -82,17 +85,17 @@
 
 ;ヒナタ
 #voice hina0215
-【ナナシ】「なになに？　なににきをつけるのっ！？」
+【Nanashi】「What, what? What do you have to be careful of!?」
 
-「うわっ！」
+「Uwaaah!」
 
-横合いからひょいっと顔を突き出されて、俺は焦った。
+I nearly fall over in shock when a face pops up beside me out of nowhere.
 
-危なく茶を零すところだった。
+That was close, almost spilled my tea.
 
-もうそんなに熱くはないけど、好き好んで茶を頭から被りたいって奴もいないだろう。
+The tea has grown cool, but no person enjoys having a mug of tea dropped on their head.
 
-「ナナシ、いきなり顔出すな。お茶かけちゃうところだったぞ」
+「Nanashi, don't scare me like that. I nearly dropped my tea all over you.」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
@@ -100,7 +103,7 @@
 
 ;ヒナタ
 #voice hina0216
-【ナナシ】「ほぇ？」
+【Nanashi】「Fueh?」
 
 ;CHR OFF
 #cg all clear
@@ -111,9 +114,9 @@
 #wipe fade
 
 #voice kona0140
-【コノミ】「ん〜、いいにおーい。一口ちょ〜だい？」
+【Konomi】「Mnn〜, smells gooood. Can I have a biiiit〜?」
 
-「あぁ、いいよ。ほら」
+「Oh, sure. Here.」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -121,14 +124,14 @@
 
 ;ヒナタ
 #voice hina0217
-【ナナシ】「ぼくも！　ぼくも！」
+【Nanashi】「Me too! Me too!」
 
-ふたりとも戻ってきちゃったか。
-戻ってきた途端に騒がしくなったな。
+They both came back together?
+The moment they return it got noisy around here again.
 
-「零さないように気をつけてよ」
+「Be careful, don't spill any.」
 
-器を渡すとふたりで奪い合うようにお茶を舐め、ナナシは変な顔をした。
+The two of them pass the cup back and forth, each taking a gulp, and Nanashi looks displeased.
 
 ;CHR H02F2 L
 #cg ヒナタ hin_1_02f2 左
@@ -136,20 +139,20 @@
 
 ;ヒナタ
 #voice hina0218
-【ナナシ】「いいにおいだけど、おいしくなーい」
+【Nanashi】「It smells good, but it tastes baaaad.」
 
 #voice kona0141
-【コノミ】「そぉ？　ボクは嫌いじゃないなぁ〜」
+【Konomi】「Reeaally? I don't dislike iiiit〜」
 
-……ふむ、食べなくても平気だけど、嗜好品として何かを口にすることもあるのか。
+...Hmm, so they don't have to east, but they still have a sense of taste.
 
-そして、どうも嗜好にも個体差があるものらしいな。そのあたりは人間と一緒か。
+And they each seem to have their own preferences in what they like and dislike. In that regard, they're the same as humans.
 
 ;CHR OFF MCS
 #cg all clear
 #wipe fade
 
-;ＥＶ絵――EV007『それなーに？』
+;ＥＶ絵――EV007『それなーに?』
 
 ;SMODE 005 PLAY
 #label replay005
@@ -163,184 +166,184 @@
 
 ;ヒナタ
 #voice hina0219
-【ナナシ】「ねぇ、ニンゲンさん。なにしてるの？」
+【Nanashi】「Hey, Human-san. What are you doing?」
 
-ナナシが本と俺の間に顔を挟むようにして突き出してきた。
+Nanashi pushes his face in between me and the book.
 
-「……ここにあった本を読んでるんだよ」
+「...I'm reading this book.」
 
-もうこれは落ち着いて本は読めないな。
+He's pushed himself right between me and the book, preventing me from reading it.
 
 ;ヒナタ
 #voice hina0220
-【ナナシ】「ほん？」
+【Nanashi】「Book?」
 
-「本て知らない？　エルフの世界にはないの？」
+「You don't know what books are? Are there no books in the elf world?」
 
 ;ヒナタ
 #voice hina0221
-【ナナシ】「ほんはしってるよ！　でも、このほんはみたときないねぇっ！」
+【Nanashi】「I know books! But I've never seen this kind of book before!」
 
 #voice kona0142
-【コノミ】「ボクも、本て読んだことないなぁ〜」
+【Konomi】「Me too, I can't read the wooords〜」
 
 ;ヒナタ
 #voice hina0222
-【ナナシ】「ニンゲンさんはほんよめるの？」
+【Nanashi】「Human-san, you can read it?」
 
-「あぁ、読める、けど」
+「Yes, I can.」
 
-村ではこんな田舎で字が読めても仕方がないなんていつも馬鹿にされていた。
+In the village, they always used to mock me for being able to read.
 
-字が読めるからって威張ってる、なんて言われたときのことを思い出すと、胸がざわりとした。
+Remembering the times they'd insult me for it, my chest hurts a little.
 
 #voice kona0143
-【コノミ】「ニンゲンくん、すごいんだねぇ〜」
+【Konomi】「Human-kun, you're amaziiing〜」
 
-「すごい？」
+「Amazing?」
 
-与えられる無条件で惜しみのない賛辞に、記憶のせいでささくれかけた気持ちが瞬時に癒される。
+The elf's innocent, generous, unconditional praise instantly heals the negativity welling up inside me from my memories of the past.
 
 ;ヒナタ
 #voice hina0223
-【ナナシ】「うん、すごーい！　なんてかいてあるの？　よんで、よんでっ！」
+【Nanashi】「Yeah, amaziiing! How do you read this one? Read it, read it!」
 
 #voice kona0144
-【コノミ】「ボクも聞きたいなぁ〜、本てどんなことが書いてあるの？」
+【Konomi】「I wanna hear toooo〜, what's written in this book?」
 
-……この子達は文字が読めることを賞賛してくれるのか。
+...Do these children really find being able to read so admirable?
 
-「そりゃ、モノによっていろいろだよ」
+「Well, this book has a variety of things written in it.」
 
 ;ヒナタ
 #voice hina0224
-【ナナシ】「いろいろっ！？　おもしろそう！」
+【Nanashi】「A lot of stuff!? That sounds interesting!」
 
 #voice kona0145
-【コノミ】「この本は？　ニンゲンくんずいぶん楽しそうに読んでたけど、そんなに面白いこと書いてあるのかなぁ？」
+【Konomi】「What about this book? You seemed to be really enjoying yourself when you read it, Human-kun. Is what's written here truly so interestiiing?」
 
-「説明するのは難しいけど……このあたりのことが書いてあるんだ。例えば、魔物が多いとか」
+「It's somewhat hard to explain...it's about the nearby surroundings. For example, it is written that there are a lot of monsters.」
 
 ;ヒナタ
 #voice hina0225
-【ナナシ】「おぉ……マモノ？　こわいね！」
+【Nanashi】「Oh...Monsters?　Scary!」
 
-「ナナシはもう捕まってただろ」
+「You were already caught by one of them, Nanashi.」
 
 ;ヒナタ
 #voice hina0226
-【ナナシ】「つかまってた？」
+【Nanashi】「Caught?」
 
-「ほら、蔦みたいなやつ。俺、助けてやっただろ？」
+「The vine-like one, remember? I saved you?」
 
 ;ヒナタ
 #voice hina0227
-【ナナシ】「おぉ、ぼくつかまってた！」
+【Nanashi】「Oh, I was caught!」
 
 #voice kona0146
-【コノミ】「捕まっちゃったの〜？　食べられちゃった〜？」
+【Konomi】「You were caught〜? Did it eat you〜?」
 
-「食べられちゃってたらここにはいないよ」
+「If it ate him, how could he be here?」
 
-俺が苦笑しかけると、ナナシがとんでもないことを言いだした。
+I laugh at his question, but Nanashi responds by saying something unbelievable.
 
 ;ヒナタ
 #voice hina0228
-【ナナシ】「マモノにはたべられなかったけど、そのあとニンゲンさんにはちょっとたべられた！」
+【Nanashi】「The monster didn't eat me, but right after Human-san ate me a little!」
 
-「ちょ、おま……」
+「Hey, wait...」
 
 #voice kona0147
-【コノミ】「そっかぁ〜、ぱくぱくぱく〜って？」
+【Konomi】「I see〜, did he go omnomnom〜?」
 
 ;ヒナタ
 #voice hina0229
-【ナナシ】「うん、そう！」
+【Nanashi】「Yeah, like that!」
 
 #voice kona0148
-【コノミ】「大変だ〜。いつか全部食べちゃう〜？」
+【Konomi】「How serious〜. You think one day he'll come back and eat the rest of you〜?」
 
-「……食べてないし、食べないから」
+「...I didn't eat him, I didn't, okay?」
 
 ;ヒナタ
 #voice hina0230
-【ナナシ】「でも、たべられるのきもちいかったよ。コノミもたべてもらいなよ」
+【Nanashi】「But being eaten felt really good. Konomi, you should try it too.」
 
 #voice kona0149
-【コノミ】「へぇ〜、気持ちいいんだ。うん、今度そうする〜」
+【Konomi】「Heeeh〜, it felt good, huh. OK, do it to me next timeee〜」
 
-「ごほん」
+「Ahem.」
 
-なんだか、気恥ずかしい話題に俺は咳払いして注意をこちらに向けた。
+The conversation was going in a rather embarrassing direction, so I cleared my throat to try to get it back on track.
 
-「西の方角に花畑があるらしいが、そこにも魔物がいるらしいな」
+「Apparently, there's a monster lurking in a flower garden to the west of here.」
 
 ;ヒナタ
 #voice hina0231
-【ナナシ】「そいえば、ぐにゅぐにゅいたよ」
+【Nanashi】「That reminds me, I saw a splishy splasy one.」
 
-「ぐにゅぐにゅ？」
+「Splishy splasy?」
 
 ;ヒナタ
 #voice hina0232
-【ナナシ】「びろーんてしてて、うごくみずたまり？　みたいなの」
+【Nanashi】「Yeah, it was all splashy and rubbery and watery.」
 
-「そいつはスライムかな。うん、ここにもそんなようなことが書いてあるな。へぇ、スライムって火に弱いのか」
+「That's a slime. Oh, it's written about in here too. Hmm, so slimes are weak to fire.」
 
 ;ヒナタ
 #voice hina0233
-【ナナシ】「ほほぉ〜う？　なるほど〜」
+【Nanashi】「Ohoo〜?　I see〜」
 
-「……なぁ、お前本当にわかってるか？」
+「...Do you really understand?」
 
 
 ;ヒナタ
 #voice hina0234
-【ナナシ】「ううん、わかんない」
+【Nanashi】「No, I don't.」
 
-……そんなことだろうと思ったよ。
+...Thought so.
 
-「……あぁ、やっぱり食料になりそうな果実のことなんかも書いてあるな」
+「...Aah, found it, so they really do have information about food in here.」
 
 #voice kona0150
-【コノミ】「食料？」
+【Konomi】「Food?」
 
-「この絵、たぶんカンキツ類だと思うんだけど、こんな感じで黄色いやつがあるって」
+「I think this drawing is of citrus fruits, they're usually this yellow color.」
 
 #voice kona0151
-【コノミ】「木にこういうふうにぶら下がってるやつ〜？」
+【Konomi】「They hang from trees〜?」
 
-「そうそう。それ」
+「That's right, those.」
 
 #voice kona0152
-【コノミ】「あぁ、この近くにあるの見たなぁ〜」
+【Konomi】「Yeah, I saw a bunch nere hereee〜」
 
-「え、それはどっちにあった？」
+「Eh, where did you see them?」
 
 #voice kona0153
-【コノミ】「あっちぃ〜」
+【Konomi】「Thereee〜」
 
-コノミが指差した方角は、今日俺たちが探索した方面だ。
+Konomi points in the direction we searched today.
 
-「そんなのあったか？　見逃したかな？」
+「They were over there? Did I miss them?」
 
 #voice kona0154
-【コノミ】「あれぇ、違った〜？　じゃあ、こっちだったかもしれなぁい」
+【Konomi】「Oh, am I wrooong〜?　Then they might be over thereeee.」
 
-その次にコノミが指差したのは、てんで違う方角だ。
+This time, he points in a completely different direction.
 
-「……近いの？　遠いの？」
+「...Close? Far??」
 
 #voice kona0155
-【コノミ】「近かったような〜遠かったような〜？」
+【Konomi】「They're pretty clooose〜 but also very faaar〜?」
 
-小首をかしげて見せるコノミ。
+Konomi seems somewhat confused.
 
-「……あてにしようとした俺が悪かったよ」
+「...It's my fault for asking you in the first place.」
 
-しかし、ナナシとコノミの話を聞く限り、結構この本の信憑性は高そうだ。
+Still, based on what Nanashi and Konomi have said, this book seems to be fairly accurate.
 
-とりあえず、実際のところがどうなっているかは、実地に調べるしかないか。
+I guess my next step is to go to the spots described and check in person.
 
 ;暗転
 ;#face off
@@ -348,39 +351,44 @@
 #cg all clear
 #bg black
 #wipe fade
+
+#mes clear
+#bgvoice stop
+#wait 4000
 ;インターバル
 ;日付変更（メモ）
-
 ;SMODE 005 STOP
 #endscene
 
+;BGMch2 amb001森　昼 再生
+#bgvoice amb001
 ;背景：森A（昼）
 ;BG:BG04_1
 #cg all clear
 #bg bg04_1
 #wipe fade
 
-翌日、俺たちは森の探索に向かった。
+The next day, we went into the forest again to have a look.
 
-……どうでもいいけど、エルフってどこで寝るんだろう。
+...I'm a little curious as to where the two elves sleep, although not overly so.
 
-３人で寝るには寝具が……なんて思っていたら、夜にはコノミもナナシもどこかに行ってしまった。
+At first, I was concerned, as I don't have enough bedding for three people...but at night, Konomi and Nanashi vanished somewhere.
 
-もともと一人で暮らすつもりだったから、寝具に余分はないんだが、少し気にならなくもない。
+I only brought enough bedding for myself, as I'd originally intended to live alone, but it seems I didn't need to worry.
 
-ナナシも一緒にいていいかとは聞いてきたけど、それは必ずしも人間が思うような一緒に暮らすという意味ではなさそうだ。
+Nanashi did say he wants to be with me, but apparently he didn't mean it in the human sense of actually living together.
 
-……エルフは気まぐれだというからな。
+...Elves sure are whimsical creatures.
 
-だったら、気まぐれに寝ていくこともありそうだから、一応余分の寝具も用意しておくか。
+However, as their moods are so easily changeable, perhaps I should get some extra bedding prepared in case they decide they do want to use it.
 
-「うーん……この丸っこい奴、カンキツ類で間違いないと思うんだけど、それらしいものは見当たらないな。それともこれ何か間違ってるのかな」
+「Hmmm...I thought these round things in the drawing definitely fruit, but I can't seem to find them. Or perhaps there's been a mistake?」
 
-それらしい木が見当たらない。
+I can't seem to find a tree with fruit growing on it.
 
-日記が書かれて何十年と経ってるはずだから、木が枯れちゃったとか、生態系が変わったとか？
+Perhaps, as it has been decades since this diary was written, the tree died, or the ecosystem changed?
 
-うん、そういうこともあるかもしれないな。
+That's probably it.
 
 ;CHR H04F1 L
 #cg ヒナタ hin_1_04f1 左
@@ -390,9 +398,9 @@
 
 ;ヒナタ
 #voice hina0235
-【ナナシ】「あっちじゃない？」
+【Nanashi】「What about over there?」
 
-「何か匂いでもする？」
+「Did you find a clue? Did you see or smell something?」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -400,56 +408,56 @@
 
 ;ヒナタ
 #voice hina0236
-【ナナシ】「ううん、いってみただけ！」
+【Nanashi】「No, I just wanted to say it!」
 
-「……あ、そう」
+「...Oh.」
 
 #voice kona0156
-【コノミ】「こっちかもよぉ〜？」
+【Konomi】「Why not come over hereee〜?」
 
-「……なんで？」
+「...Why?」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0157
-【コノミ】「理由なんてないよ〜」
+【Konomi】「No reasooon〜」
 
-「はいはい」
+「Yeah, yeah.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-こいつらの言うことをまともに聞いてたら、日が暮れても目的地にたどり着かないな。
+If I listen to those two, I'll make absolutely no progress before sunset.
 
-ま、絶対すぐに見つけなきゃならないってものでもないから、どうしてもみつからなかったらエルフの勘に頼ってみるっていうのもアリといえばアリか。
+Well, I'm not in any rush to actually find them, and if I exhaust all other methods relying on an elf's intuition might actually work.
 
-人間よりそのあたりの感覚は鋭敏かもしれないし。根拠はないけど。
+They seem to have better senses than humans. I'm not actually basing that statement on anything, though.
 
-「えーっと、あの小屋から……」
+「Okay, so the cabin is over there...」
 
-とりあえず位置を確認して推測しようと、携行していた本を開くと……。
+I open the book to the map, trying to confirm my exact location, and then...
 
-;イバラ？？？
+;イバラ???
 #voice ibaa0026
-【？？？】「にゃーっ！　ぴぎゃー！」
+【???】「Nyaaa!　Pigyaaah!」
 
-「うわっ、なんだ！？」
+「What was that!?」
 
-背後から突然悲鳴のようなものが聞こえた。
+I hear what sounds like a scream from behind me.
 
-;イバラ？？？
+;イバラ???
 #voice ibaa0027
-【？？？】「にゃーっ！　にゃーっ！　ぐにゃぐにゃして気持ち悪いーっ！」
+【???】「Nyaaah!　Nyaaah!　So springy! It's gross!」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice kona0158
-【コノミ】「あれ〜この声〜」
+【Konomi】「Oh myyy〜 this voice is〜...」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -457,20 +465,20 @@
 
 ;ヒナタ
 #voice hina0237
-【ナナシ】「イバラだね、なんかたのしそうだよっ♪」
+【Nanashi】「That's definitely Ibara. He seems to be having fun♪」
 
-「いや、どう考えても悲鳴だろ。これ」
+「No, he's definitely screaming in fear.」
 
-……こんな状況にはつい最近覚えがあるぞ。
+...I feel like I've been in this situation before, recently.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0028
-【イバラ】「ぴぎゃーっ！　触るな、くっつくなーっ！　きたないーっ！」
+【Ibara】「Pigyaaah!　Don't touch me, get off me! So dirty!」
 
-「何が起きたかわからないけど、助けてやらなくちゃ」
+「I have no idea what's going on, but we should probably go help him.」
 
 ;CHR OFF
 #cg all clear
@@ -482,153 +490,163 @@
 
 ;ヒナタ
 #voice hina0238
-【ナナシ】「おぉ、たすけなきゃっ♪」
+【Nanashi】「Ooh, help him♪」
 
-……あんまり強そうな魔物とかだったらどうしよう。
+...I have no idea what to do if it's a strong monster.
 
-悲鳴が聞こえた方に踏み込んでみると、イバラはなんだかヌトヌトしたものと格闘しているところだった。
+When I located the source of the screams, I found Ibara locked in battle with something slimy.
 
-「おぉ……これが、スライム……」
+;MCK
+;SE se011	にょるん(蔦）
+#se 1 se011
 
-ねっとりとした水のようなものは陽の光を受けてキラキラしていて、見ようによっては綺麗だ。
+「Oh...so that's a slime...」
 
-初めて見る魔物に俺はいささかの感動を覚えた。
+It looks like a sticky, glowing ball of water. In a strange way, it's quite pretty.
 
-蔦の魔物の時は恐ろしかっただけだけど、魔物って本当にいるところにはいるもんなんだな……。
+;MCK
+;SE se011	にょるん(蔦）
+#se 1 se011
+
+My first sight of a real monster makes me feel a burst of rather strong emotions.
+
+Back when I saw the vine monster, I was too scared to think straight. But now, I can't help but wonder at the marvel that monsters really do exist...
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0029
-【イバラ】「あ、人間！　見てないで助けろ！」
+【Ibara】「Ah, human! Do not just watch! Save me!」
 
-「あ……うん」
+「Oh....right.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-助けを求める時まで尊大とか、色々すごいな。
+The way he can act so stuck-up and haughty while begging for help is rather amazing.
 
-筋が通っているといえば筋が通ってるけど。
+It seems somewhat contradictory...and yet not, at the same time.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
-
 ;ヒナタ
 #voice hina0239
-【ナナシ】「ニンゲンさん、ガンバって！」
+【Nanashi】「Human-san, do your best!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0159
-【コノミ】「頑張って〜」
+【Konomi】「Do your best〜」
 
-「はいはい……」
+「Yes, yes...」
 
-;SE
+;MCK
+;SE se018	パシンとおしりを叩く（火打石）
+#se 1 se018
 
-俺はスライム対策に持ち歩いていた、火打石と焚きつけを使って火を起こした。
+I brought anti-slime protective measures with me. I take out a flint, and use it to strike a light.
 
-この本にはスライムは火が苦手だと書いてあったが、果たして効果のほどは……。
+;MCK
+;SE se018	パシンとおしりを叩く（火打石）
+#se 1 se018
+
+The book said that slimes are weak to fire. Let's see if this works...
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
-
 #voice ibaa0030
-【イバラ】「にゃーっ！　人間、貴様ボクのこと焼いて食べちゃうつもりかっ！」
+【Ibara】「Nyaaah!　I knew it! Human, you're trying to cook me so you can eat me!」
 
-「いや、そんなことしないって」
+「No, I'm not doing that.」
 
-火を持って近づく俺に、スライムよりも早く反応したイバラに苦笑しながら、傍にしゃがみこむ。
+I crouch down besides Ibara, holding the flame, smiling wryly at the fact that Ibara - the one that I'm trying to save - is currently more hostile towards me than the slime I'm trying to save him from.
 
-イバラの服を焦がさないように気をつけて……。
+I have to be careful to make sure I do not accidentally set Ibara on fire...
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
-
 #voice ibaa0031
-【イバラ】「動けないのをいいことに、この卑怯者っ！」
+【Ibara】「Taking advantage of the fact I am immobolized are you, you coward!」
 
-「……煙草か何かの方が良かったかな？」
+「...Maybe tobacco or the like would work better?」
 
-なにぶん初めてのことなので、さっぱり要領がつかめない。
+This is my first time doing something like this, so I'm not quite sure what I'm doing.
 
-昔から、森に入る時は煙草を携行するものだっていうのは、ただの習慣じゃなくてこんなところから来ていたのかもしれないな……。
+I'd heard that it was a tradition to carry tobacco with you when you entered the forest. I'd thought no more of it, but perhaps it was useful for warding off slimes...
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
-
 #voice ibaa0032
-【イバラ】「離せっ！　さてはこれも汚い人間の罠……あれ？」
+【Ibara】「Release me! So this is yet another filthy human trap, is it....huh?」
 
-「おっ……」
+「Ah...」
 
-;SE
+;MCK
+;SE se011	にょるん(蔦）
+#se 1 se011
 
-意志がありそうにも見えないのに、熱を察知したスライムは、するするとイバラから離れて、草むらへと逃げていく。
+The slime doesn't seem to have any real intelligence to speak of, but when it feels the heat on its body, it releases Ibara and flees into the bushes.
 
-なるほど、火は効くみたいだ。
+Apparently fire does work.
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
-
 #voice kona0160
-【コノミ】「おぉ〜ニンゲンくん、すごい〜」
+【Konomi】「Ooh〜 Human-kun, you're awesome〜」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
-
 ;ヒナタ
 #voice hina0240
-【ナナシ】「ぐにょぐにょにげてった！」
+【Nanashi】「It squiggled away!」
 
-「効くもんだなぁ」
+「Seems to have been effective.」
 
-劇的な効果に感心しながら火を消す。
+I put out the fire, pleased by how well that worked.
 
-「大丈夫だったか、イバラ？」
+「Are you alright, Ibara?」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibaa0033
-【イバラ】「あ、ありがとう……」
+【Ibara】「M-My thanks...」
 
-ぽかーんと俺を見上げていたイバラは礼を言うと、はっとしたように顔を真っ赤にした。
+Ibara looks up at me, dazed, and thanks me, then realizes what he just did and blushes bright red.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0034
-【イバラ】「ベ、別に助けてなんか……」
+【Ibara】「I-I never asked for your help...」
 
-「さっき思いっきり助けろって、言ってたじゃん」
+「You were just begging me to save you.」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0161
-【コノミ】「うん、言ってた〜」
+【Konomi】「Yep, you said iit〜」
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibaa0035
-【イバラ】「ば……そ……それはっ……！」
+【Ibara】「Th...th-.....that-!」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -636,16 +654,18 @@
 
 ;ヒナタ
 #voice hina0241
-【ナナシ】「たすかってよかったね！」
+【Nanashi】「I'm glad we rescued you!」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0036
-【イバラ】「うるさいっ！」
+【Ibara】「Shut it!」
 
-;SE
+;MCK
+;SE se017	草むらへ倒れる
+#se 1 se017
 
 ;FACE H04F1
 #face f_hin_0_04f1 94 466
@@ -653,133 +673,136 @@
 
 ;ヒナタ
 #voice hina0242
-【ナナシ】「ぴきゃーっ！？」
+【Nanashi】「Pikyaaah?」
 
-「あ、おい」
+「Hey!」
 
-イバラは嬉しそうに近づいてきたナナシを、あろうことか突き飛ばした。
+Nanashi cheerfully reaches out to Ibara, trying to help him up, but Ibara pushes him away.
 
-ナナシはころころと転がった。
+Nanashi falls onto his butt and rolls over.
 
 ;削除 MCS
 
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+
 #voice ibaa0037
-【イバラ】「あっ……ごめ……」
+【Ibara】「Ah...Sorr...」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
-
 ;ヒナタ
 #voice hina0243
-【ナナシ】「はにゃっ！？　おそらがまえにあるよっ！」
+【Nanashi】「Hanyaah!?　The sky is right in front of me!」
 
-「……倒れてるんだ、それは」
+「...You fell over, Nanashi.」
 
-よかった、別に怪我はしていないみたいだ。それでも一応注意はしておかなきゃな。
+That's good, Nanashi seems fine. Still, I should give Ibara a talking-to about this.
 
-「突き飛ばすことないだろう、怪我でもしたらどうするんだ？」
+「Don't push him like that, what if he'd actually been hurt?」
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibaa0038
-【イバラ】「むぅっ……」
+【Ibara】「Mnnh...」
 
-イバラは盛大に頬を膨らませた。
+Ibara puffs his cheeks out like a squirrel.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0039
-【イバラ】「ナナシのくせにボクに馴れ馴れしくするからいけないんだ！　ボクは悪くないっ！」
+【Ibara】「That was Nanashi's fault for acting overly familiar with me! I did nothing wrong!」
 
-「あのなぁ、お前……」
+「Listen here, you...」
 
 #voice ibaa0040
-【イバラ】「大体、人間なんかと仲良くしてるのがいけないんだろっ！　やっぱりボク悪くない！」
+【Ibara】「Besides, acting amiably with an inferior human is vile! I really did do nothing wrong!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0162
-【コノミ】「ボクは、ニンゲンくんと仲良くするの、悪くないと思うな〜」
+【Konomi】「I don't think being friends with human-kun is that baaaad〜」
 
 #voice ibaa0041
-【イバラ】「何でそんなこと言うんだ！？　人間と関わっちゃいけないって、おっきいエルフに言われてるだろ？」
+【Ibara】「How can you say that!?　The big elves told us not to intermingle with humans, did they not?」
 
-あぁ、やっぱりエルフには、そういう掟があるのか。
+Ah, so elves really do have a rule like that.
 
-村にいた頃に、こんなに立て続けにエルフに会うなんて思ってもみなかったしな。
+When I lived in the village, I never even imagined it would be possible to meet an elf, let alone this many this quickly.
 
-少なくとも、ここ十年くらいでエルフに会ったなんて話は聞いたことがない。
+At the very least, in the over a decade of my life there, I've never heard a single story of someone meeting an elf in person.
 
-それもエルフの方で人間と関わっちゃいけないって掟があるなら頷ける話だ。
+If the elves have some sort of law banning contact with humans, it would explain a few things.
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0163
-【コノミ】「ん〜？　でも、ニンゲンくんといると、楽しいよ？」
+【Konomi】「Mnn〜? But being with Human-kun is fun?」
 
-ほにゃっと答えるコノミに腹を立てたのか、イバラはムキになった。
+Konomi's offhand reply seems to infuriate Ibara.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibaa0042
-【イバラ】「人間といてもいいことなんかないだろ！？」
+【Ibara】「Is there even a single redeeming quality to humans!?」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0164
-【コノミ】「ん〜、そうでもないよ〜？」
+【Konomi】「Mnn〜, I think so〜?」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0043
-【イバラ】「人間は悪くて汚いから、エルフは人間の世界を去ったんだ！」
+【Ibara】「The whole reason elves left the human world is because of how evil and repulsive humans are!」
 
-「そうか、エルフって人間の世界を去ったんだ。……じゃあ、またどうして君たちはこの森に？」
+「Oh, I see, so the elves left the human world...then why are you all in this forest again?」
 
-イバラはよっぽど人間が嫌いなのか、俺とは目を合わせようともしてくれない。
+Ibara refuses to even look me in the eye. Does he really hate humans that much?
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibaa0044
-【イバラ】「月が狼に食われたせいで結界が弱くなっちゃったから、出てこられたんだよ。今はまた繋がっちゃったけど次の満月が来れば……」
+【Ibara】「The wolf ate the moon, and so the barrier grew weak. The worlds are connected, for now, but on the next full moon...」
 
-月が狼に食われた……月食のことか。確かに俺が村を出た日に月食が起きたな。
+The wolf ate the moon...an eclipse? There was a lunar eclipse the night I left the village.
 
-そのせいで結界とやらが弱まったのか。
+And that eclipse weakened the barrier?
 
-「次の満月？」
+「The next full moon?」
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibaa0045
-【イバラ】「そうだ。お前達醜い人間と関わることなんて、またしなくて良くなるんだ」
+【Ibara】「Indeed. Once it occurs, you unsightly humans can finally stop intruding upon the lives of elves.」
 
-ふふん、と胸を張るイバラ。
+Ibara puffs out his chest.
 
-「……別に俺から関わったつもりはないんだけどなぁ」
+「...I'm hardly the one intruding here.」
 
-大体、ナナシに会ったのは偶然だし、むしろコノミもイバラも自分から関わって来たんじゃないか……。
+I ran into Nanashi by coincidence, and Konomi and Ibara are the ones who poked their heads into my life, not the other way around...
 
-「コノミやナナシが言ってた門が開いたって、ひょっとして結界のことか」
+「Nanashi and Konomi both mentioned something about a gate opening. Is that the barrier?」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -787,51 +810,51 @@
 
 ;ヒナタ
 #voice hina0244
-【ナナシ】「そだよ、モンなくなったよっ！」
+【Nanashi】「That's right, the gate's gone!」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0046
-【イバラ】「なくなったわけじゃない。結界が弱まったから、閉じられていた門が開きっぱなしになったんだ」
+【Ibara】「It isn't 'gone'. The barrier weakened, so the closed gate swung open again.」
 
 ;FACE K01F2B
 #face f_kon_0_01f2b 94 466
 
 
 #voice kona0165
-【コノミ】「そうそう。出るための方法を知らないボクらも通れるようになったんだよね〜？」
+【Konomi】「Right, right. That's why we were able to get out, even though we don't know the way, riiight〜?」
 
 #voice ibaa0047
-【イバラ】「それもこれも次の満月までだ！」
+【Ibara】「Only until the next full moon!」
 
-「……それって、今なら人間の方もエルフの里に入れるのかな？」
+「...So does that mean any human could enter the elf village right now, if they wished?」
 
-好奇心から聞くと、イバラはギョッとした顔になった。
+When I asked, curious, Ibara looked shocked.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0048
-【イバラ】「人間め！　エルフの世界に入ってきてめちゃくちゃ暴れるつもりだな！」
+【Ibara】「Accursed human!　So you intend to invade and ransack the elf world, do you!」
 
-「そんなことしないってば」
+「Of course not.」
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibaa0049
-【イバラ】「ふ、ふふん。だけどな、結界が弱まったからって、人間ごときがはいれると思うなよ！　人間なんか近くにも寄れないようになってるんだから」
+【Ibara】「F-Fufun. But even if the barrier has weakened, do not think you deplorable humans will be able to enter so easily! No wretched human will even be able to come close!」
 
-「そうなのか、それは残念だな」
+「I see. That's too bad.」
 
-俺のつぶやきにイバラは勝ち誇って言った。
+My mutter makes Ibara looks triumphant.
 
 #voice ibaa0050
-【イバラ】「残念だろう！　悔しいだろう！　エルフは人間なんかよりずっと優れているから、人間といる理由なんかない。人間といても悪いことだけだ」
+【Ibara】「Upset, are you?!　Frustrated, are you?! Elves are so vastly superior to humans that there is no reason to interact with you. Inferior humans are only capable of wickedness!」
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
@@ -839,48 +862,48 @@
 
 ;ヒナタ
 #voice hina0245
-【ナナシ】「そんなことないよっ！」
+【Nanashi】「That's not true!」
 
-ナナシがぷくっと頬を膨らませた。
+Nanashi's cheeks puff up with anger.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibaa0051
-【イバラ】「な、なんだよ、ナナシ」
+【Ibara】「Wh-What, Nanashi?」
 
-ナナシの勢いに押されたのかイバラがたじたじとなると、コノミもイバラの傍に近寄って手をとった。
+Ibara was so surprised by Nanashi's vehemence that he faltered, pulling back a little. At the same time, Konomi walked beside Ibara, and held his hand.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0166
-【コノミ】「ニンゲンくんはね、本も読めるし、色んな事知ってるすごい人間なんだよ？　だってね……」
+【Konomi】「Human-kun can read books, and knows all sorts of things, he's a really impressive human, you know? After all...」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0052
-【イバラ】「ひゃあっ！」
+【Ibara】「Hyaah!」
 
 ;FACE K01F2B
 #face f_kon_0_01f2b 94 466
 
 
 #voice kona0167
-【コノミ】「こんな気持ちいいこと、ボク知らなかったよ〜？」
+【Konomi】「I never knew about anything that felt this good until I met him, you know〜?」
 
 ;SE
 
-コノミはイバラの裾をたくしあげると、白い太ももに手を添わせ、可愛らしいおちんちんをシコシコとしごいた。
+Konomi flips up Ibara's tunic, exposing his skinny white thighs, running his hand up them, then stroking Ibara's penis.
 
 #voice ibaa0053
-【イバラ】「ひゃっな、なにこれ！？」
+【Ibara】「Hyaaahhn, wh-what is this!?」
 
-気持ち良さに腰が引けたのか、とすん、とイバラは尻もちをついた。
+Ibara is so startled by the unexpected pleasure that he falls right on his butt.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -888,14 +911,14 @@
 
 ;ヒナタ
 #voice hina0246
-【ナナシ】「ぼくもっ！　ニンゲンさんにきもちいことおしえてもらったよっ♪」
+【Nanashi】「Me too! Human-san taught me all sorts of things that feel really good♪」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0168
-【コノミ】「じゃ〜ナナシも一緒にイバラに気持ちいいこと、教えてあげよ〜」
+【Konomi】「Then〜 Nanashi, let's teach Ibara about things that feel good together〜」
 
 ;FACE H08F1
 #face f_hin_0_08f1 94 466
@@ -903,7 +926,7 @@
 
 ;ヒナタ
 #voice hina0247
-【ナナシ】「うんっ！」
+【Nanashi】「OK!」
 
 ;CHR OFF MCS
 #cg all clear
@@ -922,470 +945,470 @@
 
 ;ヒナタ
 #voice hina0248
-【ナナシ】「ちゅ〜っ♪」
+【Nanashi】「Chuu〜♪」
 
 #voice ibaa0054
-【イバラ】「ん〜！　ぷはぁ！　汚いハーフエルフがボクに触るなぁっ！」
+【Ibara】「Mnn〜!　Puhaah!　Do not touch me, you disgusting half-elf!」
 
 ;ヒナタ
 #voice hina0249
-【ナナシ】「さわらなきゃ、きもちいことできないよ？　ちゅー」
+【Nanashi】「If I don't touch you, I can't make you feel good, right? Chuu.」
 
 #voice ibaa0055
-【イバラ】「ふあぁ……んちゅっ……口の中ペロペロされると、変な感じするぅ……」
+【Ibara】「Fuaah...mnchuu...It feels strange when you lick inside my mouth...」
 
 #voice kona0169
-【コノミ】「へぇ〜それ、気持ちいいの？」
+【Konomi】「Heeeh〜, does that feel good?」
 
 ;ヒナタ
 #voice hina0250
-【ナナシ】「うん、きもちいよ。ぺろぺろしてもらうと、あたまとろ〜ってなるの」
+【Nanashi】「Yeah, it does. Licking makes my head feel all fluffy〜」
 
 #voice kona0170
-【コノミ】「胸もぺろぺろしてもらうと気持ちいいんだよね〜」
+【Konomi】「Licking your chest feels good too, right〜」
 
 #voice ibaa0056
-【イバラ】「ひゃあんっ、何？　何で、そんなところぺろぺろ……んんっ……」
+【Ibara】「Hyaaahn, what? Why are you licking me there...mmn...」
 
 #voice kona0171
-【コノミ】「あはっ、赤いとこ固くなってきたよ〜」
+【Konomi】「Aha, your little red nubs got all hard〜」
 
 #cg イベント ev008a2 背景
 #wipe fade
 
-イバラの可愛らしい乳首は刺激を受けてぷっくりと自己主張を始めた。
+Ibara's cute little nipples immediate harden from the stimulation.
 
 ;ヒナタ
 #voice hina0251
-【ナナシ】「それからね、おちんちんこりゅこりゅしてね」
+【Nanashi】「And then next, rub the penis.」 ;penis just doesn't feel right for Hinata as a translation of ochinchin, but translators have made retarded decisions based on what feels right before.
 
 #voice kona0172
-【コノミ】「先っぽだけくりくりしてもらうのも、すごく気持ち良かった〜」
+【Konomi】「Just rubbing the tip feels really good〜」
 
-ヒナタとコノミは口々にどうされるのが気持ちよかった、などと言いながら、俺がしたことをなぞるようにイバラに施していく。
+Hinata and Konomi kept talking about what actions cause pleasure when performed on a person, as they replicated the deeds I had enacted on them with Ibara.
 
 #voice ibaa0057
-【イバラ】「やぁっ……やぁ……何か変、気持ちいいの、いっぱいすぎて、何が何だかわからないよっ」
+【Ibara】「No....no...It feels too weird, it feels too good, I don't understand what's happening to me.」
 
-ふたりがかりで責められているイバラは、逃れようとじたばたしていたけど、おちんちんが勃起するにつれて大人しくなっていく。
+Ibara struggles to try to escape the duo's assault, but his erect penis obediently remains put.
 
 #voice ibaa0058
-【イバラ】「あは……も……やだぁ……気持ちよくて……頭、ぼーっと……んぅ……くぅ……はぅ……」
+【Ibara】「Aha...no...more...it feels good...I can't think...mn...kuh...haa...」
 
-先端を弄りまわしているコノミの手が、イバラの先走りで濡れ、てらてらと粘液にまみれたようになっている。
+As a result of Konomi's hands teasing the tip of his penis, Ibara is soon dripping shining, sticky fluids.
 
-まるでさっきまでのスライムがまだ纏わりついているようだ。
+It's almost like that slime from before has returned.
 
 #voice kona0173
-【コノミ】「ね、気持ちいいでしょ〜？」
+【Konomi】Hey, it feels good, right〜?」
 
 #cg イベント ev008a3 背景
 #wipe fade
 
 #voice ibaa0059
-【イバラ】「……はぁ……はぁ……ん……気持ちいい……」
+【Ibara】「...Haa...haa...mn...it feels good...」
 
 ;ヒナタ
 #voice hina0252
-【ナナシ】「ね、でも、いちばんきもちいのはね……」
+【Nanashi】「But, you know, the spot that feels the best is right here...」
 
-白い双丘の狭間にナナシの手が降りて行った。その先にあるのは、きゅうと閉じられた可憐な蕾だ。
+Nanashi's hand slides between the beautiful white hills of Ibara's behind, touching the cute, tightly shut flowerbud within.
 
 #voice ibaa0060
-【イバラ】「……ひゃっ……そこ……くすぐった……」
+【Ibara】「...Hyaah...that...tickles...」
 
-つんつんと細い指で皺の中心をつついても、なかなか中に侵入することは出来ないようだ。
+He pokes around the center of the small wrinkled spot, but can't seem to insert his finger inside.
 
 ;ヒナタ
 #voice hina0253
-【ナナシ】「あれぇ、うまくはいらないなぁ」
+【Nanashi】「Huuuh? It won't go in.」
 
 #voice kona0174
-【コノミ】「ヌルヌルつけたら入るかも〜」
+【Konomi】「It'll be easier if you get it slippery〜」
 
 ;ヒナタ
 #voice hina0254
-【ナナシ】「そだね。じゃ、コノミがいれたげて」
+【Nanashi】「Oh, alright. Then you do it, Konomi.」
 
 #voice kona0175
-【コノミ】「うん、いいよ〜」
+【Konomi】「Yeah, okaaay〜」
 
 #cg イベント ev008a2 背景
 #wipe fade
 
 #voice ibaa0061
-【イバラ】「ひゃっ……！？　おちんちん触っちゃダメェっ！？」
+【Ibara】「Hyaah...!?　Don't touch my peniiis!?」
 
 #voice kona0176
-【コノミ】「だって先っぽからちょうどいいヌルヌル出てるよ〜？　これをいっぱい指につけて〜」
+【Konomi】「But the slippery stuff coming out from the tip is perfect, riiight〜?　If I use this, I can get my finger in〜」
 
 #voice ibaa0062
-【イバラ】「くちゅくちゅしちゃやだぁ……おちんちんの先っぽコシコシされるの気持ちいいよォ……」
+【Ibara】「Don't rub me like that...The tip of my penis being rubbed feels gooood...」
 
 #voice kona0177
-【コノミ】「ヌルヌルいっぱい付いた指をイバラのおしりの穴にぃ〜」
+【Konomi】「Now to get my slippery finger all the way inside Ibara's buttholeee〜」
 
 #voice ibaa0063
-【イバラ】「そんなとこ触っちゃやだァっ！　入れる？　入れちゃうの？」
+【Ibara】「Do not dare touch me there! Are you putting it in? Are you truly putting it in?」
 
 ;ヒナタ
 #voice hina0255
-【ナナシ】「そだよ。いれてね、なかぐりぐりしてもらうと、すっごくきもちいんだよ？」
+【Nanashi】「Of course. If you put it in and mush it up, it feels reaaally good, you know?」
 
-俺は眼前で繰り広げられている光景にごくりと息を飲んだ。
+The sight unfolding before me takes my breath away.
 
-コノミの細い指がイバラの後孔に押し込まれていく。
+Konomi's thin finger is pushing it's way inside Ibara's rear hole.
 
 #cg イベント ev008a3 背景
 #wipe fade
 
 #voice ibaa0064
-【イバラ】「あぁっ！　入ってきたっ！　入ってきちゃった！」
+【Ibara】「Aah!　It's in! It's iiiiiiin!」
 
 #voice kona0178
-【コノミ】「んー、でもきついねぇ。ニンゲンくんの指はボクのよりもっと太いんだけどなぁ〜もっと広げたらいいのかなぁ〜」
+【Konomi】「Mnn, but it's pretty tight. Human-kun's finger is much bigger than mine〜 Maybe I should widen it a little〜」
 
 ;ヒナタ
 #voice hina0256
-【ナナシ】「じゃ、ぼくのおててもいれたらいいんじゃないかな？」
+【Nanashi】「Then why don't I use my fingers too to help out?」
 
 #voice kona0179
-【コノミ】「そかぁ、ナナシ頭いいねぇ〜」
+【Konomi】「That makes seeeense, Nanashi, you sure are smaaart〜」
 
 ;ヒナタ
 #voice hina0257
-【ナナシ】「えへへ♪　ほめられた！　んー、いれにくいなぁ」
+【Nanashi】「Ehehe♪　I was praised! Mnn, it's hard to get them in.」
 
 #voice kona0180
-【コノミ】「じゃあ、これでどう？」
+【Konomi】「Then how about this?」
 
-コノミがぐいっと双丘を割開くようにして、孔を露出させる。
+Konomi grabs the twin peaks of Ibara's behind and spreads them open, exposing the hole within to the sky.
 
 ;ヒナタ
 #voice hina0258
-【ナナシ】「おぉ、いれやすくなったかもっ！」
+【Nanashi】「Oooh, I think it's easier now!」
 
 #voice ibaa0065
-【イバラ】「だめぇ！　おしり広げちゃダメぇ！」
+【Ibara】「Stop! Don't spread my behind!」
 
-ぐりぐりと押し広げられたそこに、コノミの時よりはいくぶん遠慮会釈なく、ナナシの指が押し込まれていく。
+Nanashi's finger forces its way in, his movements far less considerate than Konomi's, pushing and wriggling inside.
 
 #cg イベント ev008a3 背景
 #wipe fade
 
 #voice ibaa0066
-【イバラ】「はひゃぁっ、おしりの穴広がって……！　ひぅっ」
+【Ibara】「Hahiiih, my butthole is spreadiiing!　Hioohh!」
 
-ふたりがかりでおしりの穴を広げられて、イバラは喉を喘がせる。
+Ibara starts panting hard as the two other elves work to widen his anus.
 
 ;ヒナタ
 #voice hina0259
-【ナナシ】「おぉ、はいった！　なかあったかいね♪」
+【Nanashi】「Oooh, I got my finger in! It's nice and warm inside♪」
 
-ナナシはいったん指が入ると、ずぽずぽと楽しそうに抜き差しを始めた。
+Nanashi finally gets a finger in, then happily starts pushing it in and out.
 
 #voice ibaa0067
-【イバラ】「あぁっ……！？　ずぽずぽしちゃだめぇっ！？　なんで！？　なんでそんなこと……はぁうっ……おしりから変な感じ広がってく……」
+【Ibara】「Aaah...!?　Don't thrust iiiit!?　Why!?　Why does this...haooh...a strange feeling is spreading through my butt...」
 
 
 ;ヒナタ
 #voice hina0260
-【ナナシ】「んー、でも、あんまりいっぱいはいらないや。ニンゲンさんのゆびもっとふとかったかんじする」
+【Nanashi】「Hmm, but this doesn't feel like enough, Human-san's finger feels a lot bigger.」
 
 #voice kona0181
-【コノミ】「指、増やせばいいんじゃない？」
+【Konomi】「Why not use more fingers?」
 
 ;ヒナタ
 #voice hina0261
-【ナナシ】「そかぁ」
+【Nanashi】「I get it.」
 
 #voice ibaa0068
-【イバラ】「あぁ……ま、まだ入れるの……？　ばかぁっ！」
+【Ibara】「Aah...M-More?　Idiooot!」
 
-二本三本と指を増やし、コノミとナナシは俺にイバラの中を見せつけるように、穴を広げていく。
+Nanashi adds a second, then a third finger, working with Konomi to spread Ibara's hole wider and show me his insides.
 
 #voice ibaa0069
-【イバラ】「はひゅー……はひゅー……はぁあああああ……」
+【Ibara】「Hahyuuh...Hahyuuh...haaaaaaaa...」
 
 ;
 ;
 ;※EV008 ここで切る可能性
 ;
 
-無邪気な指に遠慮なくほじくりかえされた赤い粘膜が、呼吸に合わせてひくついている。
+無邪気な指に遠慮なくほじくりかえされた赤い粘膜が,呼吸に合わせてひくついている。
 
 #cg イベント ev008a2 背景
 #wipe fade
 
 #voice kona0182
-【コノミ】「んー？」
+【Konomi】「Hmm?」
 
 ;ヒナタ
 #voice hina0262
-【ナナシ】「どしたの？」
+【Nanashi】「What?」
 
 #voice kona0183
-【コノミ】「中にねぇ、すごく気持ちいいとこあってねー。イバラにも教えてあげたいんだけど……もっと奥かなぁって〜」
+【Konomi】「You know, deep inside, there's a spot that feels really good. I wanted to teach Ibara about it too, but...maybe it's deeper iiiiin〜」
 
 ;ヒナタ
 #voice hina0263
-【ナナシ】「おくのほうかぁ、それじゃぼくらのてじゃ、ちっちゃくてできないね」
+【Nanashi】「Deeper in? Then our fingers are too small.」
 
 #voice ibaa0070
-【イバラ】「も……もっと……気持ちいいなんて……ボク……ボク……死んじゃう……」
+【Ibara】「I....if....I feel any better...I....I'll...die...」
 
 ;ヒナタ
 #voice hina0264
-【ナナシ】「だいじょぶ！　あたままっしろになっちゃうけど、しんじゃわないよっ！」
+【Nanashi】「It's okay! Your brain will go all mushy, but you won't die!」
 
 #voice kona0184
-【コノミ】「やっぱり、ニンゲンくんにしてもらうのが一番いいよ。頭溶けちゃうよ〜」
+【Konomi】「It really does feel the best when Human-kun does this to you. It makes you feel like your head is meltiiing〜」
 
 ;ヒナタ
 #voice hina0265
-【ナナシ】「そだね！　ほらほら、ニンゲンさん！　イバラのこときもちいくしたげて！」
+【Nanashi】「I know, right! C'mon, Human-san! Let's make Ibara feel good!」
 
 #voice ibaa0071
-【イバラ】「やめろぉ……触るなぁ……！　人間なんて人間なんて……人間なんて汚いっ！」
+【Ibara】「Stooop, don't touch meeeee!　Filthy human, filthy human...humans are disgusting!」
 
-俺に、と言われて抵抗する気力が戻ったのか、暴れようとするイバラをコノミとナナシががっちりと左右から押さえ込む。
+Ibara's dislike of me resurrects his desire to resist, as he starts violently thrashing, trying to escape Nanashi and Konomi's grasp.
 
 ;ヒナタ
 #voice hina0266
-【ナナシ】「さいしょはいたかったけど、すっごくきもちいよ！」
+【Nanashi】「It does hurt a bit at first, but then it feels reeeaaally good!」
 
 #voice kona0185
-【コノミ】「そうだよ〜、ニンゲンくんのおちんちん、すごく気持ちいいよ〜」
+【Konomi】「That's riight〜, Human-kun's penis feels really gooood〜」
 
 #voice ibaa0072
-【イバラ】「ひっ……！　人間のおちんちん？　やだぁ、きたないっ！　やだっ！　やだぁっ！」
+【Ibara】「Hii...!　A human penis? That's disgusting! Stop! Stooop!」
 
 #voice kona0186
-【コノミ】「大丈夫〜。してもらったら、きっとすっごく大好きになっちゃうんだから〜」
+【Konomi】「It's okay〜, once he does it, I'm sure you'll really love iiiit〜」
 
 ;ヒナタ
 #voice hina0267
-【ナナシ】「うん、だからしてもらうといいよ」
+【Nanashi】「Yeah, so just let him do it!」
 
-無理やり押さえ込まれているイバラを犯す、というシチュエーションに、すっかり俺の分身は臨戦態勢に入っている。
+After witnessing Ibara being pinned down and violated against his wishes, my other self was ready for battle.
 
 ;ヒナタ
 #voice hina0268
-【ナナシ】「うわぁ、ニンゲンさんのおちんちんゲンキいいね！」
+【Nanashi】「Uwaah, Human-san's penis is so full of energy!」
 
-下履きを下ろす動作に反発するように跳ねかえったそれを見て、ナナシが目を丸くする。
+Nanashi stares in amazement as, freed from my underwear, I point towards the sky.
 
 #voice kona0187
-【コノミ】「ほらぁ、すごいでしょ〜？　ニンゲンくんのおちんちん、ボクらのと全然形が違うんだよ」
+【Konomi】「See, isn't it amazing〜?　Human-kun's penis looks completely different from ours.」
 
 #voice ibaa0073
-【イバラ】「やだぁ！　きたないっ！　そんなの入れちゃダメっ！」
+【Ibara】「Nooo!　Disgusting!　You can't put that thing in!」
 
-見るからに凶悪な肉棒に、イバラは怯えてしまっているのかまた暴れようとする。しかし、イバラを押さえたままコノミは楽しそうに言った。
+Ibara is terrified of my clearly brutal cock. But, Konomi, still holding him down, speaks cheerfully. 
 
 #voice kona0188
-【コノミ】「ほらほら、ニンゲンくん早く」
+【Konomi】「Come on, come on, hurry, human-kun.」
 
-「あ、あぁ……」
+「Y-Yeah...」
 
 #cg イベント ev008b1 背景
 #wipe fade
 
-無理に嫌がる子を犯すなんていけないことをしている。
+I know that violating a child like this by force is wrong.
 
-その背徳感が腰が重くなるほどの興奮を掻き立てる。
+This immoral feeling makes my hips feel heavy with arousal.
 
-嫌がっている子を快感にドロドロにして、俺のモノに服従させてやったらどれほど支配欲を充足させることができるだろう。
+Just how much will making this unyielding boy surrender to the pleasure against his wishes sate my desire to dominate?
 
-コノミ達の指を抜いたばかりのそこはすっかり準備ができていて、きついながらも押し込むだけでどんどん俺のものを飲みこんでいく。
+Konomi and Nanashi have readied him with their fingers, and so, while it's incredibly tight, he slowly welcomes me inside him.
 
-「あぁ、熱いよ。ナナシとコノミにいじられて気持ちよくなってたんだね」
+「Ah, it's so hot. You must be feeling really good after Nanashi and Konomi teased you.」
 
 #voice ibaa0074
-【イバラ】「あ、あぁ……入ってきちゃった……奥の方まで、入ってくよぉ……」
+【Ibara】「A-Aaah...it's iiiin....it's going so deep inside meeee...」
 
-コノミとナナシにいじくり回されてすっかり熱を持っているイバラの身体は、戦慄くように俺を歓迎してくれる。
+Ibara's body shivers as he welcomes me inside.  Konomi and Nanashi fingers have made him feel incredibly hot inside.
 
 #voice ibaa0075
-【イバラ】「あぁ……太い……おっきい……人間のおちんちん熱い……！　兄上っ……兄上〜！　ボク、ボク人間に汚されちゃって……」
+【Ibara】「Aah...so thick...so big...Human's penis is so hot!　Ani-ue...Ani-ue〜!　I, I've been soiled by a human...」
 
 ;ヒナタ
 #voice hina0269
-【ナナシ】「わぁ、すっごい！　こんなにおっきいの、ぜんぶはいっちゃった！」
+【Nanashi】「Wooow, amazing! It's so big but it went all the way in!」
 
 #voice kona0189
-【コノミ】「おぉ〜、おしりの穴、目いっぱい広がってるねぇ〜」
+【Konomi】「Ooh〜, your butthole is spread so wiiide〜」
 
-ナナシとコノミは楽しそうに俺たちの接合部に指を沿わせてくる。
+Konomi and Nanashi cheerfully run their fingers along the spot we're connected.
 
-その遠慮ない触り方に快感が走った。
+Their careless touches make pleasure run through me.
 
 #cg イベント ev008b2 背景
 #wipe fade
 
 #voice ibaa0076
-【イバラ】「ばか！　……おまえら……さ、触る……なぁ！　んっ……ひどいことされてるのに、気持ちいいよぉ……」
+【Ibara】「Fool!　...C-Cease...touching...me!　Mn...even though such awful things are being done to me, I feel so good...」
 
-「ほら、俺も頑張ってイバラのこと気持ちよくするから、ナナシとコノミももっとイバラのこと気持ちよくしてあげて」
+「I'll do my best to make Ibara feel good, so you two do your best to make him feel good too, alright?」
 
 ;ヒナタ
 #voice hina0270
-【ナナシ】「うん！　ぼくもガンバって、イバラきもちいくする！」
+【Nanashi】「Yeah! I'll do my best and make Ibara feel good!」
 
 #voice kona0190
-【コノミ】「ボクもお手伝い〜」
+【Konomi】「I'll help toooo〜」
 
 #voice ibaa0077
-【イバラ】「あぁっ！　あぁっ！　やだぁ！　お腹の中、かきまわさないでっ！」
+【Ibara】「Aah!　Aah!　Stop!　Don't churn up my stomach!」
 
-「ごめん、無理」
+「Sorry, but that's impossible.」
 
-そんなことを言われても、ずっと見せつけられてお預けをくらっていたせいか、止まることなんてできなかった。
+Even if he asks me to stop, after watching all of that and not doing anything, stopping is impossible.
 
-ずんずんと固く張り詰めた肉棒で遠慮なくイバラの熱い腸内を抉っていく。
+I thrust my cock, so hard it feels strained, without reservation into Ibara's warm body.
 
 #voice ibaa0078
-【イバラ】「あぁああああああ！　中、抉るなぁっ！　すご……こんなの初めてで……どうしたらいいのか、わかんないよ！」
+【Ibara】「Aaaaaaaahhhhh!　Don't gouge into meeeee!　Incredi...this is the first time I've ever felt this...I don't know what to do!」
 
 ;ヒナタ
 #voice hina0271
-【ナナシ】「きもちくなればいいんだよ♪」
+【Nanashi】「Just enjoy it♪」
 
 #voice kona0191
-【コノミ】「そーそー。気持ちいいでしょ〜」
+【Konomi】「Yeah, yeah. It feels good, riiight〜」
 
 #voice ibaa0079
-【イバラ】「あぁっあぁっあぁあああああっ」
+【Ibara】「Aaaaaaahhhhh!」
 
-ごりごりっと、猛々しい剛直に直腸を擦られるたび、イバラは悲鳴のような嬌声を上げた。
+Each time the duo touched Ibara's fiendishly tight anus, he howled like an animal.
 
-「……どう？　気持ちいい？」
+「...Well, does it feel good?」
 
 #voice ibaa0080
-【イバラ】「う……聞くなぁ……！　やだぁ……やだぁ……あはぁ……あぁ……気持ち悪いよぉ……気持ち悪いのに気持ちよくて……」
+【Ibara】「Oh...don't ask me that! No...nooo....ahaah....aaah....it feels bad...it feels bad...but it feels good...」
 
 #voice ibaa0081
-【イバラ】「う、うぅ……頭真っ白になるぅ……気持ちいい！　気持ちいいよぉっ！」
+【Ibara】「O-Ooh...everything's going white...it feels good! It feels so gooood!」
 
 
-イバラのそこは、入れる時は抵抗するくせに、抜く時は離すまいとしがみついてくる感じで、抜き差しが気持ちいい。
+Ibara, down there, resisted so much when I put it in, but when I pull backwards his insides clamp down hard, refusing to let me go. Both insertion and retraction feel incredibly good.
 
 ;ヒナタ
 #voice hina0272
-【ナナシ】「イバラのおちんちんもきもちいって言ってるね♪　ぼくイバラのおちんちんいっぱいさわってあげるぅっ！　んちゅっ」
+【Nanashi】「Ibara's penis is saying it wants to feel good too♪　I'll touch Ibara's penis and make it feel really really good!　Mnchuu.」
 
 #voice ibaa0082
-【イバラ】「あはぁ……ぴちゃ……んうぅうう……おちんちんくりくりやだぁ……おしりきゅってなって感じすぎるよぉ……」
+【Ibara】「Ahaa...picha...mnooh...don't rub my penis...I'm feeling it so much from my behind...」
 
-ナナシとイバラが舌を絡ませ合って、ぴちゃぴちゃと音を立てる。
+Nanashi kisses Ibara, twining their tongues together, their spittle making splashing sounds.
 
-もうすっかり仲良くなっているみたいだ。
+They seem to be getting along a lot better.
 
 #voice kona0192
-【コノミ】「おむねのぺろぺろするの、ボクのお口も気持ちいいかも〜ちゅっちゅっちゅううううっ」
+【Konomi】「I'll lick your chest and use my mouth to make you feel really gooooood〜 chuuchuuuchuuuu‾」
 
 #voice ibaa0083
-【イバラ】「胸のとこ……吸っちゃやだぁ……あうぅ……おしりもおちんちんも……きもちいいのに……お胸も気持ちいいよぉ……」
+【Ibara】「Don't suck on...my chest...aooh...my butt and penis...feel so good...and my chest feels good toooo...」
 
-「ふたりとも、イバラのこと頑張って気持ちよくしてあげたんだ？」
+「You two, work hard to make Ibara feel good, okay?」
 
 ;ヒナタ
 #voice hina0273
-【ナナシ】「うん♪」
+【Nanashi】「Yeah♪」
 
 #voice kona0193
-【コノミ】「気持ちよくしてあげるのも、楽しいかも〜」
+【Konomi】「Making him feel good might be pretty fuun〜」
 
-「じゃあ、ふたりにもご褒美あげなきゃな」
+「Then I'd better give you two a reward.」
 
-俺は、イバラに挿入したまま、ふたりのおしりの穴にも指を入れてあげた。
+Still thrusting into Ibara, I insert a finger into each of their buttholes.
 
 ;ヒナタ
 #voice hina0274
-【ナナシ】「ひゃあっ♪」
+【Nanashi】「Hyaaah♪」
 
 #voice kona0194
-【コノミ】「ニンゲンくんの指、やっぱり気持ちいい〜」
+【Konomi】「Human-kun's finger really does feel gooood〜」
 
-「おちんちんはイバラの中だけど、ふたりは指でいかせてあげるね」
+「My penis busy with Ibara right now, but I can make you both cum with my fingers.」
 
-中にあるぐりっとした部分がどうやら気持ちいいらしいのは、学習済みだ。
+I've learned by now that there's a mushy spot inside them both that makes them feel incredible pleasure.
 
-そこを指先で削るようにして集中的に攻めてやる。
+I take the tips of my fingers, and aggressively attack that spot inside both of them.
 
 ;ヒナタ
 #voice hina0275
-【ナナシ】「おぉっ！？　おぉおおおおおお！？」
+【Nanashi】「Ooohh!?　Ooooohhhh!?」
 
 #voice kona0195
-【コノミ】「あ、そこっ……そこ、気持ちいいのぉ〜」
+【Konomi】「Ah, there...that feels goooood〜」
 
-イバラを責めていたことで充分に興奮していたらしいふたりは、おちんちんに触らなくてもおしりだけで達せそうだ。
+The foreplay with Ibara got them both so aroused that they're both close to climax just from anal stimulation, without touching their penises once.
 
 #voice ibaa0084
-【イバラ】「あぁっ……あぁ……人間の汚らしいおちんちんで気持ちよくさせられちゃってる……も、もう、ボク……駄目……」
+【Ibara】「Aaah...ah...A human's disgusting penis is making me feel so good....th-that I'm about to...no more...」
 
-さんざん喘ぎ、暴れ疲れたのかイバラはぐったりと俺に揺さぶられるままになっていく。
+Ibara seems to have grown tired of struggling, because he relaxes somewhat, moaning even more, his body shaking as I thrust.
 
 ;ヒナタ
 #voice hina0276
-【ナナシ】「もう、イバラもいきそうなの？」
+【Nanashi】「Ibara, are you gonna cum?」
 
 #voice ibaa0085
-【イバラ】「い、いく……？」
+【Ibara】「C-Cum...?」
 
-「気持ちよくて、頭真っ白になってきちゃったかってこと」
+「It's when you feel so good that your head goes all white.」
 
 ;ヒナタ
 #voice hina0277
-【ナナシ】「いっぱいきもちくなると、おちんちんのさきっぽからしろいせいえきがでて、しゃせーするんだよっ！」
+【Nanashi】「When you feel really good, white semen comes out of the tip of your penis, it's called ejaculating!」
 
 #voice ibaa0086
-【イバラ】「う、うん、いく、ボクいくよぉ……射精するぅ……」
+【Ibara】「Y-Yes, cumming, I'm going to cum...I'm going to ejaculate...」
 
-すがるように甘い声を上げるイバラに、俺は意地悪な気分になった。
+Seeing Ibara moan sweetly, turning to putty beneath me, makes me feel like bullying him a little.
 
-さんざん汚いの何のと言われて、その気になっていたのもあるかもしれない。
+Part of it might also be because he kept calling me filthy, disgusting, and so forth.
 
-「じゃあ、イバラの中に精液たっぷり出してあげる。精液ってわかる？　子種だよ、子種」
+「Then I'll shoot lots of my semen inside you. Do you know what semen is? It's where babies come from.」
 
 #voice ibaa0087
-【イバラ】「……え？」
+【Ibara】「...Eh?」
 
-「動物の交尾って知ってるだろ？　その赤ちゃんの素、イバラの中にたっぷり出して種付けしてあげる」
+「You've seen animals mate, right?　I'm going to take what they use to make babies and shoot lots of it inside you, impregnating you.」
 
 #voice ibaa0088
-【イバラ】「や、やだっ！　種付けやだぁっ！」
+【Ibara】「N-No!　I don't want to be impregnated!」
 
-種付け、という言葉に覚醒したのか、イバラは暴れだそうとするが、もうすっかり快感にとろけた身体には力が入らないようだ。
+The word 'impregnate' returns Ibara to his senses, and he tries to violently thrash around again, but he's feeling so good there's no strength to it.
 
-「イバラ、男の子なのに人間の子どもを産んじゃうんだ。汚い人間の子をね」
+「Ibara, you're about to give-birth to a half-breed, even though you're a boy. The half-breed child of filthy human.」
 
 #voice ibaa0089
-【イバラ】「やだ、やだぁっ！」
+【Ibara】「No, nooooooo!」
 
-イバラは嫌がって力なく頭を左右に振る。
+Ibara frantically, but feebly, shakes his head.
 
 ;ヒナタ
 #voice hina0278
-【ナナシ】「あかちゃんできるのっ！？」
+【Nanashi】「You can make babies!?」
 
 #voice kona0196
-【コノミ】「すごいすごい〜！　イバラ頑張れ〜ニンゲンくん頑張れ〜」
+【Konomi】「Incredible, amazing〜!　Ibara, do your best〜 Human-kun, do your best〜」
 
 #voice ibaa0090
-【イバラ】「やだ、離せってばぁっ！　んぁああああっ……あっあっ……はぁんっ」
+【Ibara】「Stop, I said let me goooo!　Mnaaaaahhh...aaaaaahh...aaahhn.」
 
-イバラは一応暴れ出してはいるつもりみたいだけど、コノミとナナシがしっかりと押さえてくれているのもあり、抽送の邪魔にはならない。
+Ibara thrashes around, trying to escape, but Konomi and Nanashi are holding him tight, so he can't interfere.
 
-それどころか、不規則な動きが、かえって気持ちいいくらいだ。
+In fact, his erratic movements only increase the pleasure I'm feeling.
 
-「イバラはいやらしい子だもんね？　卑しい人間の子種が欲しくて気持ちよくなっちゃうぐらいいやらしいもんね」
+「You're a rather naughty elf, aren't you, Ibara? You're so naughty that your body wants to bear my inferior human children oh so badly so that it can feel even better.」
 
 #voice ibaa0091
-【イバラ】「違うぅ……違うもんっ！　あぁっ……あっあっ……嫌なのにぃ！　種付けされるの嫌なのにぃ！　気持ちよくて、ボク、ボク……」
+【Ibara】「No...That's not true!　Aaah...aaaaaahh...I should hate this! I should hate being impregnated! But it feels so good, I, I...」
 
-「本当に嫌なの？　こんなに淫らに腰を振って。そんな風に動いたら、俺もすぐいっちゃうよ？　ほらっ」
+「Do you really hate it? You're shaking your hips in such a naughty way. If you move like that, I'll also cum soon, you know? Like this.」
 
 ;SE
 ;ホワイトアウト
@@ -1402,10 +1425,10 @@
 
 ;ヒナタ
 #voice hina0279
-【ナナシ】「ひゃんっ！？」
+【Nanashi】「Hyaahn!?」
 
 #voice kona0197
-【コノミ】「あぁっ！！」
+【Konomi】「Aah!!」
 
 ;SE
 ;ホワイトアウト
@@ -1420,10 +1443,10 @@
 
 ぴしゃっぱしゃぱしゃっ
 
-イバラの中に射精した拍子に力がこもって、指が曲がり、俺に続いてナナシとコノミも射精した。
+The moment I ejaculate inside Ibara, I twist my fingers, making Nanashi and Konomi also cum right after me.
 
 #voice ibaa0092
-【イバラ】「中に精液出てるぅ〜！　赤ちゃんできちゃうよ、あぁ〜！！」
+【Ibara】「Semen is shooting inside meeee〜!　I'm going to have a baby, aaaah〜!!」
 
 ;SE
 ;ホワイトアウト
@@ -1436,7 +1459,7 @@
 #bg bg04_1
 #wipe fade 300
 
-泣きそうな声を上げて腹の中に俺の射精を感じながらイバラも射精した。
+Half screaming from pleasure, half sobbing, the pleasure of my ejaculation inside him makes Ibara also cum.
 
 ;暗転
 ;#face off
@@ -1459,44 +1482,44 @@
 #wipe fade
 
 #voice ibaa0093
-【イバラ】「う……うぅっ……ボク、人間の赤ちゃん産まなきゃいけないの？」
+【Ibara】「Oh...ooh...do I have to give birth to a human baby now?」
 
-イバラは悲しそうにしくしくと泣いている。
+Ibara won't stop sobbing.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……あぁ、やっちゃったな。
+...Aaah, now I've done it.
 
-さっきはつい興奮して意地悪しちゃったけど、泣いているのを見ると心が痛んだ。
+I was getting off on teasing him a little while ago, but now watching him sob I feel rather bad.
 
 ;CHR K06F L
 #cg コノミ kon_1_06f 左
 #wipe fade
 
 #voice kona0198
-【コノミ】「……ねぇ、ニンゲンくん」
+【Konomi】「...Hey, Human-kun.」
 
-「ん？」
+「Hm?」
 
 #voice kona0199
-【コノミ】「人間て男同士でも、子供できるの？」
+【Konomi】「Can two human males make children?」
 
-きょとん、とコノミが俺に聞いてくる。
+Konomi asks me, curious.
 
-「……できないよ」
+「...They can't.」
 
 ;CHR K05F L
 #cg コノミ kon_1_05f 左
 #wipe fade
 
 #voice kona0200
-【コノミ】「でも、さっきイバラに『子供産んじゃう』って言ってたよね〜？」
+【Konomi】「But you just told Ibara that he'd have a baby, didn't you〜?」
 
-「あんまり汚い汚い言われたから、意地悪言いたくなっただけだよ」
+「He kept insulting me, so I felt like teasing him a little, that's all.」
 
-そう真正面から聞かれると、ばつが悪い。
+Him asking me so directly makes me feel a little embarrassed.
 
 ;CHR H04F2 R
 #cg ヒナタ hin_1_04f2 右
@@ -1504,29 +1527,29 @@
 
 ;ヒナタ
 #voice hina0280
-【ナナシ】「そかぁ、あかちゃんおとこどうしだとできないのか」
+【Nanashi】「I see, so two men can't make babies.」
 
-どことなくしょんぼりと、ナナシが呟いた。
+Nanashi seems a little upset by the revelation.
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 
 #voice ibaa0094
-【イバラ】「……え、できないの？」
+【Ibara】「...Eh? They can't?」
 
 ;ヒナタ
 #voice hina0281
-【ナナシ】「ぼくにもできるのかな〜って、たのしみにしてたのに」
+【Nanashi】「I was hoping I could〜, I wanted to try it, it seemed fun.」
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice kona0201
-【コノミ】「ボクも〜」
+【Konomi】「Me too〜」
 
-……なんでふたりしてがっかりしてるんだよ。
+...Why are you two so disappointed?
 
 ;CHR H06F2 R
 #cg ヒナタ hin_1_06f2 右
@@ -1534,36 +1557,36 @@
 
 ;ヒナタ
 #voice hina0282
-【ナナシ】「ニンゲンさんウソつくのだめだよっ。ぼくがっかりしちゃったよっ」
+【Nanashi】「Human-kun, you shouldn't lie like that. I'm disappointed in you.」
 
-「……変な嘘ついて悪かったよ」
+「...Sorry for lying.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-俺たちのやりとりに、イバラはまだ泣き顔のまま猛然と怒り出した。
+Ibara, listening to our exchange, immediately grew incensed, although he was still sobbing somewhat.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0095
-【イバラ】「何だ、出来ないのか。何でそんな嘘ついたんだ、人間！」
+【Ibara】「What, it's impossible? Why would you lie to me like that, Human?!」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0202
-【コノミ】「イバラが気持ちいいのに汚いとか、意地悪言うから〜」
+【Konomi】「Ibara, you kept saying stuff like it feels good but it's disgusting, so he teased you〜」
 
-「そうだよ。あんまり汚い汚いって言うから、ちょっとした意地悪のつもりだったんだ」
+「That's right. You kept calling me filthy, so I felt like teasing you a little」
 
 #voice ibaa0096
-【イバラ】「だって、人間が汚いのは本当のことだろう！　今だって変な嘘つくし！」
+【Ibara】「But it's true! Humans are disgusting! You just told me that strange lie, that's proof!」
 
-「それに男と女だって、一回中に出してすぐできるってわけじゃないぞ」
+「And besides, even between men and women, just once probably isn't enough to make children.」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
@@ -1571,18 +1594,18 @@
 
 ;ヒナタ
 #voice hina0283
-【ナナシ】「そなの！？」
+【Nanashi】「Really!?」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0203
-【コノミ】「じゃあ、男同士でも頑張ったらできるかもしれないね〜」
+【Konomi】「Then maybe boys can do it if they work really hard〜」
 
-何故だか楽しそうにコノミはニコニコとしている。
+Pleased for some reason, Konomi smiles widely.
 
-……欲しいのか、赤ちゃん。
+...Does he want a baby?
 
 ;
 ;※※
@@ -1593,7 +1616,7 @@
 #wipe fade
 
 #voice ibaa0097
-【イバラ】「うぅ〜色んなとこぬるぬるして気持ち悪いし、おしりも変な感じする……」
+【Ibara】「Ooh〜, I'm all slimy everywhere, it feels gross, and my butt feels weird too...」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -1601,12 +1624,12 @@
 
 ;ヒナタ
 #voice hina0284
-【ナナシ】「でも、きもちいかったでしょ？」
+【Nanashi】「But it felt good, right?」
 
-不満そうにしているイバラの空気を読まずにナナシが話しかける。
+Nanashi, completely failing to notice Ibara's grumpy mood, cheerfully starts chatting with him.
 
 #voice ibaa0098
-【イバラ】「き、気持ちよくなんてなかった！」
+【Ibara】「I-It felt awful!」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
@@ -1614,68 +1637,68 @@
 
 ;ヒナタ
 #voice hina0285
-【ナナシ】「あれぇ……ヘンだな。しろいおしっこでるの、あたままっしろになるぐらいきもちいのに」
+【Nanashi】「Huuuh...that's weird. When the white pee comes out, it should feel so good your head goes all white.」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0204
-【コノミ】「うーん……それに、してるとき、イバラ何回も気持ちいいっていってたよね〜」
+【Konomi】「Hmmm...and when it was happening, Ibara, you kept saying 'it feels good, it feels good', didn't you〜」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0099
-【イバラ】「い、言ってない！　言ってないったら、言ってない！　気持ちよくなんかなかったったら！」
+【Ibara】「I-I said no such thing!　Didn't, didn't, didn't! I did NOT feel good!」
 
-イバラは怒って立ち上がろうとして、ふらっとした。
+Ibara, furious, tries to stand up, but stumbles, unsteady on his feet.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「おっと、あぶない」
+「Oh, be careful.」
 
 ;SE
 
-転びそうになったとこを慌てて抱きとめてやる。
+I reach out and grab him before he can fall over.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibaa0100
-【イバラ】「あ、ありがと……って、汚い人間がボクに触るな！」
+【Ibara】「T-Thank you...wait, do not touch me, foul human!」
 
-「そうは言っても……ひとりじゃ立てないんだろ？　もう少し休んでなよ」
+「You say that, but...you can't stand without help, can you? Just relax a bit.」
 
-なんだかんだいって腰が抜けたみたいだ。調子に乗って結構無理させちゃったかな。
+After everything that happened, he can't seem to put any strength in his lower body. Maybe I got a little carried away and was too hard on him.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0101
-【イバラ】「うー……親切にされても、ボクはお前なんか信じないぞ」
+【Ibara】「Ooh...Even if you treat me nicely, I can't trust one of your kind.」
 
-「……はいはい。君はずいぶん人間が嫌いみたいだね」
+「...Yeah, yeah. You really do despite humans, huh?」
 
 #voice ibaa0102
-【イバラ】「あぁ、人間なんか嫌いだ。人間は汚くて野蛮だって、兄上も言ってた。それに嘘つきなのもよくわかった！」
+【Ibara】「Yes, I despise humans. Ani-ue told me that humans are disgusting barbarians. And now I know for a fact they're liars, too!」
 
-「それは、俺も否定しないけどね」
+「I suppose I can't deny that.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-どこまでもかたくななイバラが座るのを手助けしてやると、俺は本を取り出した。
+Since Ibara's too stubborn to let me help, I got him to sit back down, and pulled out my book, content to wait.
 
-コノミとナナシは座っているのに飽きたのか、ふたりで勝手に何か遊び出している。
+Konomi and Nanashi, bored of sitting around, started to wander off to play.
 
-「この辺、スライムいるから、あんまり離れるなよ？」
+「There's slimes int his area, so don't go too far, okay?」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -1685,79 +1708,79 @@
 
 ;ヒナタ
 #voice hina0286
-【ナナシ】「はーい！」
+【Nanashi】「Okaaaayyy!」
 
 #voice kona0205
-【コノミ】「わかった〜」
+【Konomi】「Got iiittt〜」
 
-「……本当にわかってんのかな？」
+「...Do they really get it?」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-まぁ、いいか。危なさそうなら、あのふたりも悲鳴ぐらい上げるだろう。
+Well, whatever. If things get dangerous, I'm sure they'll start screaming.
 
-小屋から歩いてきて、ここにスライムがいたということは、少し方角がずれているのかもしれない。
+Reviewing the book, and considering how far I walked it stated that I'd run into a slime in a slightly different spot than I actually encountered one.
 
-まぁ、スライムなんて生き物のようだし、移動はしているかもしれないけど、推論としては悪くないだろう。
+Well, slimes are living beings. I suppose it's entirely possible that they don't always stay in the same locations.
 
 #voice ibaa0103
-【イバラ】「……」
+【Ibara】「...」
 
-イバラはぶすっとしたまま、コノミからもナナシからも目を逸らして座っている。
+Ibara, refusing to look at either Konomi or Nanashi, is just sitting on his butt, staring off into space.
 
-そんな風に意地を張っている姿も、俺から見れば可愛かった。
+How obstinate he is looks quite cute, in my opinion.
 
-「……可愛いから、仲良くなりたいんだけどなぁ」
+「...He's cute enough that I'd quite like to get to know him better...」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibaa0104
-【イバラ】「ふぇ……？」
+【Ibara】「Fueh...?」
 
-イバラがびっくりしたように顔を上げた。
+Ibara looks over, surprised that I spoke to him.
 
 #voice ibaa0105
-【イバラ】「可愛い？　ボクのことか？」
+【Ibara】「Cute? Me?」
 
-「うん。君はとても綺麗だし、可愛いと思う。正直エルフに会うのは君たちが初めてなんだけど、エルフって本当に綺麗なんだね」
+「Yes. I think you're beautiful, and very cute. To be honest, you three are the first elves I've ever met. Elves really are beautiful.」
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibaa0106
-【イバラ】「ふ、ふふん……」
+【Ibara】「H-Hmph...」
 
-イバラは自慢げに胸を逸らした。
+Ibara's chest puffs out with pride.
 
 #voice ibaa0107
-【イバラ】「エルフは美しく気品高い種族なんだ。あのふたりに先に会ったんじゃわからなかったかもしれないけど」
+【Ibara】「Elves are the fairest and most graceful of all races. Although, perhaps the fact that those two are the first you ever met may have prevented you from realizing that.」
 
-イバラもようやく調子を取り戻したようで、そんな姿も微笑ましい。
+Ibara seems to finally be getting back in his stride. He looks just adorable like this, too.
 
-「その中でも、君は多分特に美しいんだろ？　違うかな」
+「But I'm guessing that you're unusually beautiful, even for an elf, right? Am I wrong?」
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibaa0108
-【イバラ】「そうだ。まぁ、兄上の方がもっと綺麗だけど」
+【Ibara】「Correct. Well, Ani-ue is even more fair than I.」
 
-「へぇ。それは、その兄上とやらにも会ってみたいな」
+「Huh. I'd like to meet that brother of yours one day.」
 
 #voice ibaa0109
-【イバラ】「見る目だけはあるのは認めてやるぞ、人間のニンゲン」
+【Ibara】「Just seeing him once would make it obvious, Human the human.」 ;人間のニンゲン - figure out how to convey the change.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……あれ、今の『ニンゲン』はさっきまでのものと少し違うように聞こえたのは気のせいかな？
+...Huh, it feels like the way he just said "human" felt a little different. Am I imagining things?
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -1765,62 +1788,62 @@
 
 ;ヒナタ
 #voice hina0287
-【ナナシ】「ニンゲンさーん、しょくりょー？　あったよー！」
+【Nanashi】「Human-saaaan, I found foooood?!」
 
-少し離れたところから、ナナシが叫ぶのが聞こえた。
+I hear Nanashi shouting, some distance away.
 
-「え、見つけたのか？」
+「Eh, you found some?」
 
-ナナシの声が聞こえてきた方角からすると……どうもさっき俺が立てた推論で正しかったみたいだ。
+Judging from the direction Nanashi is shouting from...looks like my guess earlier was correct.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0206
-【コノミ】「いっぱいあるよ〜」
+【Konomi】「There's a looot〜」
 
-「ちょっと待って、すぐ行く」
+「Wait a moment, I'll be there soon!」
 
-俺はふたりに返事をしてから、イバラに手を差し出した。
+After responding to the two of them, I extend my hand to Ibara.
 
-「大丈夫？　立てるなら、一緒に行く？」
+「Are you alright? If you can stand, would you like to go together?」
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 
 #voice ibaa0110
-【イバラ】「っ……！？」
+【Ibara】「...!?」
 
-イバラは驚きで目を丸くしながらも、俺の手をとり、今度こそ立ち上がった。
+Ibara's eyes widen with shock, but this time he takes my hand and stands p.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0111
-【イバラ】「べ、別にボクは一緒になんて行ってやらないんだからな！　ボクはあいつらと違ってニンゲンと馴れ合ったりしないぞ！　じゃあ、またな。ニンゲン」
+【Ibara】「I-It's not like I want to go with you or anything! I just want to make sure they don't start getting along with a different human! Well then, until next time, Human.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-だけど、一緒に行こうとはしないで、イバラは俺に背を向けて、声が聞こえたのとは違う方角へ行ってしまった。
+However, Ibara refuses to join me, and walks away in a completely different direction than the one they're calling from.
 
-「またな……か」
+「Until next time...huh.」
 
-……いきなり仲良くなるのは難しいかもしれないけど、今のがイバラの精一杯の譲歩なのかもしれない。
+...Suddenly becoming friendly might be too much for him. That small concession probably the absolute best Ibara could do.
 
-だったら少しづつ仲良くなっていけばいいかな。
+In that case, we just have to get to know each other better, little by little.
 
-「……それに、何よりナナシやコノミより話通じそうだし」
+「...And, more importantly, he seems to actually understand what I say when I talk to him, unlike the other two.」
 
-イバラに聞きたいことはいっぱいあるし、この先もエルフについて聞きたいことは増えていきそうだ。
+I have plenty of questions left for Ibara, but I think I'll have plenty of chances to ask them and learn more about elves in the near future.
 
-まずは結界とは何か、満月になったら何が起きるのかぐらいは聞いておきたい。
+First off, I want to ask him more about this barrier, how it's related to the full moon, and what'll happen the next full moon.
 
-俺はイバラの背中を見送ってから、ナナシ達の方向へと歩き出した。
+After watching Ibara off, I head towards Nanashi and Konomi.
 
 ;jyo05へ
 #next jyo05

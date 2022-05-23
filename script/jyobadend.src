@@ -12,210 +12,250 @@
 
 ;サウンド変更なし
 
-異国の子が突き飛ばされたり小突かれている姿に、思わず昔の自分を重ねてしまった。
+Watching the young foreign boy get pushed around by the group of village youths reminds me of my own childhood.
 
-（あ……あいつら……）
+（T...Those bastards...）
 
-脳裏に蘇った子どもの頃の自分の姿に思わず拳を握り締める。
+The revived memories of my childhood make me clench my first so hard it hurts.
 
-そういえば、子どもの頃から本ばかり読んでいた俺はあんな風に、あいつらに虐められたものだった。
+When I was a kid, with my nose always in a book, they used to bully me like that.
 
-やめてと泣いても、あいつらは今みたいにニヤニヤしながら俺を小突くばかりで……。
+If I begged them, or even cried, they wouldn't stop, grinning and hitting me...
 
-思い出した途端に足がすくんだ。
+The memories make me go weak at the knees.
 
-拳を握り締めたのに、そこから一歩が踏み出せない。
+My fists are clenched, but I can't move.
 
-（俺には……無理だ。俺には関係ない）
+（I...I can't do it. This doesn't have anything to do with me.）
 
-踏み出したとしたって多勢に無勢だ。
+Even if I stepped in, I'd be horribly outnumbered.
 
-俺だってもう子どもじゃないけど、力関係なんてそう変わるものじゃない。
+I'm not a child anymore, but they're still far stronger than I am.
 
-だとしたら、俺が止めに入ったって意味がない。
+I wouldn't accomplish anything even if I tried.
 
-俺はそっと足音を忍ばせてその場を離れた。
+Walking quietly, so I'm not noticed, I leave the scene behind.
 
-（……なんなんだ、あいつら。いい年して子どもの頃からちっとも成長してないんだな）
+;MCK1022
+;暗転
+;#face off
 
-俺は雑貨屋の息子たちを馬鹿にすることで、自分が虐められていた子を見捨てたことから必死に目をそらした。
-
-（まあ、あいつらだっていい年をした大人なんだ。あの子が盗賊じゃないなら大丈夫だし、ひょっとしたら本当に盗賊の一味なのかも……）
-
-俺は悪くない、俺は悪くない、と必死に自分に言い聞かせながら、俺は耳を塞ぎ、なるべく急ぎ足で山小屋を目指した。
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 1000
 
 ;背景：森A（昼）
 ;変更なし
-
-
-【村人１】「なんで逃げたんだ。やっぱり盗賊だな、お前」
-
-村の男たちは逃げようとした少年を強く突き飛ばした。
-
-;CHR T06F_L C
-#cg ツキヨ tuk_1_06f_l 中
+#cg all clear
+#bg BG04_1
 #wipe fade
 
-#face f_tuk_0_06f_l 94 466
+（...What is wrong with them? They haven't grown up at all.）
 
-;ツキヨ
+I insult the son of the general store owner and his friends in my mind, doing everything I can to avoid thinking about the fact that I just abandoned a young boy who was being bullied like I was.
+
+（Well, they're old enough to be adults, now. If that boy isn't a thief, he'll be fine, and if he actually is, then...）
+
+Desperately trying not to hear anything, frantically trying to convince myself I wasn't doing anything wrong, I ran away. 
+
+;MCK1022
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 4000
+
+;背景：森A（昼）
+;変更なし
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+
+;CHR T10F3 C
+#cg ツキヨ tuk_1_10f3 中
+#wipe fade
+#face f_tuk_0_10f3 94 466
+;TKface
+
+【Villager１】「Why did you run? You really are a thief, aren't you.」
+
+The men of the village surround and start to push around the boy, yet again, his escape attempt foiled.
+
+【???】「Ah...」
+
+;MCK
+;SE se015	足音１
+#se 1 se015
 #voice tuka0034
-【？？？】「あっ……」
-
-少年は足をよろけさせ、倒れまいとして頭を覆っていた布から手を離した。
-
-そのせいで転んだ拍子に長い髪と、長い耳が露出した。
 
 ;CHR OFF
 #cg all clear
 #wipe fade
+
+The boy stumbles, releasing his hold on the cloth covering his head so he can use his arms to keep from falilng.
+
+As a result, the cloth slips off, exposing his long hair - and long ears.
 
 ;CHR T10F2 C
 #cg ツキヨ tuk_1_10f2 中
 #wipe fade
-
 #face f_tuk_0_10f2 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0035
-【？？？】「あううう……み、見ないで、です……」
+【???】「Aaahhh...p-please don't look...」
 
-慌てて少年はその長い耳を隠そうと手で覆ったが、一瞬で人間とは違うその形状は男達に知れた。
-
-
-【村人３】「あっ！　こいつエルフじゃないか！」
+The boy frantically attempts to hide his ears with his hands, but it only takes a moment for the men to realize he's not human.
 
 
-【村人２】「エルフにしちゃ肌が黒いぜ？」
+【Villager３】「Aah!　He's an elf!」
 
 
-【村人３】「けど、こんな長い耳の人間がいるか？　間違いない、エルフに決まってる」
+【Villager２】「Elves can have dark skin?」
 
-男たちは驚きの声を上げ、それまでよりも奇異なものを見たからか、お互いの目を信じられないとでも言うように顔を見合わせた。
+
+【Villager３】「Humans don't have ears like that, do they? He must be an elf.」
+
+The men exclaim in shock at finding something far more bizarre than they were expecting, glancing at each other, each unable to believe his eyes.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;CHR T02F C
-#cg ツキヨ tuk_1_02f 中
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
-
 #face f_tuk_0_02f 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0036
-【エルフ】「あ……、あ……」
+【Elf】「Ah..., ah...」
 
-男たちが呆然とした隙にエルフは這いずって男達から離れようとする。
+The elf tries to take advantage of the men's surprise to escape yet again.
 
-しかしそう都合良くはいかなかった。
+And, yet again, he fails.
 
 
-【村人１】「おっと、逃がすかよ」
+【Villager１】「You're not gettin' away!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;CHR T10F1 C
-#cg ツキヨ tuk_1_10f1 中
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
 #wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
 
 #face f_tuk_0_02f 94 466
 
 ;ツキヨ
 #voice tuka0037
-【エルフ】「いやっ！　離してですっ！」
+【Elf】「Noo! Please let me go!」
 
-男の一人が乱暴にエルフの髪を掴んで引きずり戻す。
+One of the men grabs the elf by his hair, violently forcing him back.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;CHR T10F2 C
-#cg ツキヨ tuk_1_10f2 中
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
 #wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
 
 #face f_tuk_0_10f2 94 466
 
 ;ツキヨ
 #voice tuka0038
-【エルフ】「ひいっ！」
+【Elf】「Hiii!」
 
-エルフはその手から逃れようと、髪を振り乱して暴れるがその程度ではなんの抵抗にもならない。
+The elf struggles to escape, but his resistance accomplishes nothing but mussing up his hair.
 
-男たちはエルフの様子を無視して舌なめずりした。
-
-
-【村人１】「なぁ、ラッキーだったな俺たち。エルフなんて町に持ってきゃ高く売れるぜ」
+The men, ignoring the elf's struggles, lick their lips.
 
 
-【村人４】「あぁ。だけど、肌が黒くちゃ買い叩かれるんじゃないか？」
+【Villager１】「Hey, we're real lucky. Elves sell for a fortune back in tone.」
 
 
-【村人５】「何言ってるんだ、珍しいって言うんで高く売れるかもしれないじゃないか」
+【Villager４】「Yeah. But his skin's black, won't that mean he won't be worth as much?」
+
+
+【Villager５】「'Course not, it means he's rare, he'll sell for even more, probably.」
 
 #face f_tuk_0_10f2 94 466
 
 ;ツキヨ
 #voice tuka0039
-【エルフ】「やぁ〜！　やぁ〜！」
+【Elf】「Nooo〜!　Nooo〜!」
 
-男たちが話をしている間もエルフはじたばたと暴れて逃れようとするが、髪をがっつりと掴まれているせいで逃げようがない。
+The elf kicks and thrashes as the men talk, but his hair is held so tightly he can't escape.
 
-じたばたと暴れることで細い手足があらわになり、内側の柔らかそうな皮膚が視線にさらされる。
-
-
-【村人２】「そ、それよりよ……」
-
-村人の一人がごくりと喉を鳴らした。
+His body is so thin and small his kicks and punches are ineffective at anything except ruffling his clothes, exposing more of his soft skin to the eyes of the men.
 
 
-【村人２】「エルフってえらく具合がいいらしいじゃないか」
+【Villager２】「M-More importantly...」
+
+One of the men gulps, then continues to speak.
 
 
-【村人１】「具合？」
+【Villager２】「Aren't elves supposed to all be in really good 'condition'?」
 
 
-【村人２】「町の金持ちはそのためにエルフを飼う奴もいるってぐらい、一度やったらやめられないとか」
+【Villager１】「Condition?」
 
 
-【村人５】「本気かよ……こいつオスだぜ」
-
-しかし、オスだと周囲の意思を確認した男ですら生唾を飲み込む。
-
-エルフのはかない抵抗は男たちの欲望に火をつけた。
+【Villager２】「Apparently, the whole reason so many rich people buy elves is because once you've done one, you can't ever stop or go back.」
 
 
-【村人４】「け、けどよ……あまりのよさに寿命も延びるとか何とか……」
+【Villager５】「Are you serious? ...He's male.」
 
-男たちの目にはあからさまな情欲の光が宿っていた。
+Still, even though they know the young elf is male, the other men also feel their mouths going dry.
 
-抵抗する細い手足を押さえつけたら……そういう目で見れば、エルフは村のどの女よりも美しかった。
+The elf's pathetic resistance has done nothing more than arouse the men's desires.
+
+
+【Villager４】「B-But...you know, they say elves are so good that doing it with them will make you live longer...」
+
+The men's eyes are visibly burning with lust.
+
+When his arms and legs are pinned down, so he can't resist...with those eyes, the young elf looks more beautiful than any woman of the village.
 
 #face f_tuk_0_10f2 94 466
 
 ;ツキヨ
 #voice tuka0040
-【エルフ】「ひっ……」
+【Elf】「Hii...」
 
-エルフは血走った男達の目に怯えて身を竦めた。
-しかし、男たちの目にはその仕草さえもますます情欲を煽るものにしか映らない。
+The elf shrinks in fear from the men's bloodshot gaze.
+But even that action just fans the flames of the lust burning in their eyes.
 
 
-【村人１】「……売る前に味見するぐらい当然だよな？」
+【Villager１】「...We've gotta try a taste before we sell it, right?」
+
+;ツキヨ
+#voice tuka0041
+【Elf】「No...!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;ツキヨ
-#voice tuka0041
-【エルフ】「や……！」
+;MCK
+;SE se016	ドスン
+#se 1 se016
 
-男達は暗い目をかわし、エルフに襲い掛かった。
+The men, their eyes dark, swarm over the elf.
 
 ;EV010『村人に輪姦されるツキヨ』
 ;※表示移動
@@ -224,43 +264,46 @@
 ;;;;#wipe fade
 
 
-エルフは必死に掴まれている手を振り払おうとするが、自分よりも体格のいい男達の手が振り払いきれるはずもなかった。
+The elf frantically tries to fight them off with his hands, but he's vastly outnumbered, and the men are much larger than him, so there's little he can do.
 
-それも複数に押さえこまれては、悪戯に暴れても体力を消耗するだけだ。
+If multiple of them pin him down, all resistance does is tire him out.
 
-
-【村人１】「おい、暴れるな、このっ！」
+【Villager１】「Hey, stop struggling!」
 
 ;SE　布を裂く音
+;MCK
+;SE se017	押し倒す
+#se 1 se017
+
 
 ;ツキヨ
 #voice tuka0042
-【エルフ】「きゃああああっ！」
+【Elf】「Kyaaaaaaahhh!」
 
-ついには衣服を破かれて、エルフは悲鳴をあげる。
+When they finally start tearing off his clothes, the elf screams.
 
-乱暴な手口は先程までよりもひどい暴力にさらされようとしていることを示していた。
-
-
-【村人３】「あっ……！　あはは、そうだよな」
-
-突然ひとりの男が仰天して声を上げ、それから笑った。
-
-エルフの下肢には男達も見慣れたものがついていた。
-
-小さく縮こまったそれは、エルフのおびえを示すようにふるふると小刻みに揺れている。
-
-一瞬男達の勢いが静まり、エルフもほっとしたように体の力を抜く。
-
-逃げ出す機会があったとすればこの時だけだったのかもしれない。しかし、エルフはその機会を逃してしまった。
-
-男達は視線を交わすと、己を納得させるように頷きあった。
+He can tell from the violent way they're treating him that his situation is about to grow much, much worse.
 
 
-【村人１】「そりゃ、オスには付いてるわな。けど、エルフに出くわす機会なんかそうそうないぜ」
+【Villager３】「Ah...!　Ahaha, that's right.」
+
+Suddenly, one of the men exclaims in shock, before laughing right after.
+
+It's because he saw what he was used to only seeing between men's legs attached to the lower body of the elf.
+
+It has shrunk down as small as it can go, and is trembling slightly, showing how scared the elf is.
+
+Its exposure to the air quiets the men down for a moment, and the elf, feeling a faint relief, relaxes slightly.
+
+But that was a mistake. That was the elf's last chance to escape, and he just missed it.
+
+The men all glance at each other, nodding in agreement.
 
 
-【村人２】「こうなってちゃ治まりなんかつかないもんな」
+【Villager１】「Well, he is a boy, and he does have one. But ya don't get the chance ot do this with an elf often.」
+
+
+【Villager２】「Now that I'm like this my cock ain't goin' down until we're finished.」
 
 ;EVCG EV010A1
 ;#face off
@@ -271,428 +314,469 @@
 
 ;ツキヨ
 #voice tuka0043
-【エルフ】「っ！？」
+【Elf】「!?」
 
-一人の男がそそり立った肉棒をエルフの頬へ押し付けた。ぷんと雄の匂いがエルフの鼻腔を犯していく。
+One of the men presses his erect cock against the elf's cheek. The pungent male scent violates the elf's nasal cavity.
 
 ;ツキヨ
 #voice tuka0044
-【エルフ】「やっ……なんです……？　くさいです……」
+【Elf】「No...what is that?　It stinks...」
 
-ケダモノじみたその匂いはエルフには馴染みのない匂いだった。
-
-
-【村人２】「ははは、びびることないよな。どうせこんなもん見慣れてるんだ」
+The elf had never smelled something so raw and animalistic before.
 
 
-【村人１】「ははははは、おまえ元気よすぎ」
+【Villager２】「Hahaha, no need to be so scared. You'll get used to it soon.」
 
 
-【村人４】「俺のはそこまで完勃ちじゃないから、手伝ってくれよな」
+【Villager１】「Hahahaha, you're too excited for this.」
 
 
-【村人５】「俺のもだ」
+【Villager４】「I don't think I'll be able to get goin' that fast, so lend me a hand here.」
 
 
-【村人３】「おいおい、おまえら。俺が面倒見てもらうとこがないだろう？」
+【Villager５】「Me too.」
 
-これから始まることを予感してか、男たちの声は幾分うわずったもので、どれほど男たちが興奮しているかを知らせるようだった。
+
+【Villager３】「Geez, what would you guys do without me to look after you?」
+
+The men's voices were excited, filled with anticipation for what was about to happen.
 
 ;ツキヨ
 #voice tuka0045
-【エルフ】「やめ……離して、です……」
+【Elf】「Stop...let me go..」
 
-エルフは弱々しく首を振って懇願するが、むろんそんな願いが聞きとどけられるはずもない。
+The elf faintly shakes his head, pleading, but his entreaty is, of course, ignored.
 
-エルフは両手に男たちの生殖器を握らされ、身体のそこかしこにも熱く滾った雄臭い肉棒を押し付けられた。
+Two men press their sex organs into each of his hands, and more press their hard, hot, stinking cocks against his body.
 
-男たちの肉棒は恐ろしい程に質量があり、熱く硬かった。
+The men's cocks are terrifyingly large, hard as steel, and burning hot.
 
-エルフが持つそれとは違う凶悪な形と、獣の匂いはひどく忌まわしい物に感じられる。
+Compared to the elf's, their shape is twisted and freakish, and they reek like unwashed animals.
 
 ;ツキヨ
 #voice tuka0046
-【エルフ】「いやぁっ！！　気持ち悪い！！　変なものくっつけないで、です！」
+【Elf】「Noooo! Disgusting!! Please don't touch me with those weird things!」
 
 
-【村人５】「お、喋れるんじゃないか。せいぜいいい声上げてくれよな」
+【Villager５】「Oh, he can speak? Can't wait to see what noises he'll make.」
 
 
-【村人１】「変なものって、お前にだってくっついてるだろうが」
+【Villager１】「Weird things? You've got one too.」
 
 ;ツキヨ
 #voice tuka0047
-【エルフ】「離してぇっ！！　離してぇ！！」
+【Elf】「Let me go!! Let me go!!」
 
 
-【村人２】「ははは、かわいそうにぶるっちまって縮み上がってるぜ」
+【Villager２】「Ahaha, he's so terrified it's shaking.」
 
-縮こまったエルフの可愛らしいおちんちんを見て男たちが嘲笑う。
+The men laugh at the elf's cute, small penis.
 
-そんな中、先程までエルフの髪を掴んでいた男が優しげに話しかけてきた。
+Then, the man who's been holding the elf's hair starts speaking to him more kindly.
 
 
-【村人１】「おとなしくしてりゃ気持ちよくしてやるよ。痛いのは嫌だろ？」
+【Villager１】「Just be good and we'll make sure you enjoy it. You don't want it to hurt, right?」
 
 ;ツキヨ
 #voice tuka0048
-【エルフ】「ん……痛いのやです」
+【Elf】「Mn...I don't like pain.」
+
+The elf, terrified, nods, and the man behind him lightly slaps his ass.
 
 ;SE se018	パシンとおしりを叩く
-
-怯えたままこくりと頷いたエルフの尻を、背後に立っていたその男がぴしゃりと手のひらで軽く叩いた。
+#se 1 se018
 
 ;ツキヨ
 #voice tuka0049
-【エルフ】「っ！？」
+【Elf】「!?」
 
 
-【村人１】「頑張って身体中使えばその分早く済むかもな」
+【Villager１】「if you work hard and let us use your whole body, it'll end faster.」
 
-驚いて背をのけぞらせるエルフの丸い尻を割り開き、強引に太い指を尻の穴にくじり入れていく。
+The elf, shocked, attempted to move his behind away, but the man grabbed it hard, spread the cheeks, and began to push a finger inside.
+
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
 ;ツキヨ
 #voice tuka0050
-【エルフ】「やぁああああああ、何してるですっ！？　入れないでですっ、広げないでですっ」
+【Elf】「Nooooooooooo, what are you doing?! Don't put it in, don't spread it!」
 
-男の太い指が容赦なく蕾を散らすように、ぐいぐいとエルフの可憐な後孔を無残に押し広げていく。
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
-
-【村人３】「何言ってんだ。ちゃんと広げとかないと、痛いのはお前だぞ」
-
-
-【村人１】「痛い方がいいって言うんだから、いいだろ。ま、俺は優しいからちゃんと濡らしてやるからな。ははははは……」
-
-背後に立った男は下卑た笑い声を上げると指を抜き、自身の男根につばを吐きかけると、小さくすぼまったエルフの菊座に押し当てた。
+The man's fat finger forces itself mercilessly into the elf's flowerbud,  forcibly expanding the elf's immature rear hole open.
 
 
-【村人１】「ん……さすがにきついな。こりゃ俺の方まで痛いか」
+【Villager３】「Don't be stupid, if we don't expand it, it'll only hurt you more.」
 
-そんなことを言いながらも、男は躊躇なく自身の剛直で無理やりにエルフの尻穴をえぐり抜こうとした。
 
-摩擦でなのか、その剛直は耐え難いほどの熱を持っているようにエルフには感じられた。
+【Villager１】「He's saying he wants it rough. Well, I'm a nice guy, so I'll get it wet first, ahahahaha...」
+
+The man pulls out his finger, laughing vulgarly, then spits on his phallus, before pressing it against the elf's tight, small chrysanthemum.
+
+
+【Villager１】「Mn...it's so tight it kinda hurts to go in.」
+
+Despite what he says, the man doesn't hesitate, continuing to force himself deeper into the elf's anus.
+
+The elf begins to feel a heat in his lower parts, perhaps because his behind is clamping down so hard that the man's finger is creating friction.
+
+;SE se020	挿入音1（深い）
+#se 1 se020
 
 ;ツキヨ
 #voice tuka0051
-【エルフ】「いぐっうぅうううううっあぁああああああああっっっ！？」
+【Elf】「Iguguguaaaaaaaaaahahhhhhhhh!?」
 
-エルフは身体を割り裂かれる痛みにうなるような悲鳴をあげる。
+The elf screams in pain, feeling like his body is being split in half.
 
 ;ツキヨ
 #voice tuka0052
-【エルフ】「いやぁあああああっ！　いたいっいたいぃっ！　やめて、やめてぇえええええええ！！！」
+【Elf】「Nooooooo!　It hurts it huuuuurts!　Stop, stooooooooop!!!」
 
 
-【村人１】「あいてて、きついきつい。力抜けよ、このっ」
+【Villager１】「Damn, it's so tight it hurts. Relax a bit, you little brat.」
 
-そこまでも怯えているように固く閉じたエルフの蕾を、先ほどの指などよりもよほど強引に粗野な剛直が侵入し散らしていく。
+;SE se022	挿入音1連続
+#se 1 se022
 
-ねじ込まれる灼熱の痛みにエルフは身悶えた。
+The man violently forces his coarse, stiff finger inside to the elf's flowerbud, clenched tightly in fear.
+
+The elf thrashes in pain from the white-hot agony spreading through his body.
 
 ;ツキヨ
 #voice tuka0053
-【エルフ】「あああああっ！　やですっ！　やですっ！！」
+【Elf】「Aaaaahhh!　No! Nooo!!」
 
-逃れようとのけぞる細い腰を押さえつけ、肉棒はゴリゴリと力任せにエルフの中に押し入っていった。
+;SE se020	挿入音1（深い）
+#se 1 se020
+
+The elf arches his thin hips, trying to escape the cock gouging its way inside him.
 
 ;ツキヨ
 #voice tuka0054
-【エルフ】「あぁあああああ！　はいってきちゃうっはいってきちゃうっ」
+【Elf】「Aaaaaahhhhhhh!! It's going in, it's going iiin!」
 
-エルフは我知らず腹に力を込めたが、かえって尻の穴は広がり男を受け入れていく。
+The elf unintentionally tenses up his stomach, which has the converse effect of spreading his anus, making it easier for the man to go in
 
 
-【村人１】「おほっ、入口は食いちぎられそうだが、中はぬめぬめしていい具合だぜ」
+【Villager１】「Oho, the entrance is so tight it felt like it'd rip my cock off, but it's nice and soft inside.」
 
-男はよほど具合がいいのか、舌なめずりをする勢いで腰を進めた。
+The man, pleased by how excellent the condition of the elf's anus is, licks his lips, and violently pushes forward.
 
 ;ツキヨ
 #voice tuka0055
-【エルフ】「出してですっ！　やですっ！！　抜いてくださいっ！」
+【Elf】「Get it out! Please stop! Please pull it out!」
 
 
-【村人１】「あぁ、出してやるさ。中にたっぷりなぁ」
+【Villager１】「Oh, I'm gonna get it out. I'm gonna get all of my loud out right up your asshole.」
 
 
-【村人４】「ぶわははは、最低だな。お前だけで楽しんでじゃねーよ」
+【Villager４】「Bwahaha, you're the worst. You're the only one enjoyin' yourself here.」
 
 
-【村人１】「ははは、そうだな。エルフちゃんも楽しませてやんなきゃな」
-
-ぐいぐいと力任せに押し込まれた肉棒はエルフを割り裂き串刺しにしていく。
-
-肉穴はどうにか限界まで口を開いて男の欲望を飲み込んでいった。
-
-やがて男の下腹に、エルフの可憐な丸い尻がつく。
+【Villager１】「Hahaha, fair enough. I'd better make sure little elf-chan enjoys himself too.」
 
 
-【村人１】「ほーら、根元まで入ったぞ」
+;SE se022	挿入音1連続
+#se 1 se022
 
-その言葉はまるでエルフにとっては死刑宣告のようだった。
+The man's cock cruelly skewers the elf with all the strength the man has, thrusting as deep as he can in one go, splitting the elf's body apart.
 
-村人によってよく熱せられた金槍で磔刑にされてしまっているようにしか感じられなかった。
+The elf's hole spreads to its limit to accept the man's lust inside it.
+
+Eventually, the man's hips reach the elf's white, round behind.
+
+【Villager１】「Heh, it went all the way in.」
+
+To the elf, those words were a death sentence.
+
+He felt like the villager was thrusting a white-hot metal spear up his anus, ripping him apart on the inside
 
 ;ツキヨ
 #voice tuka0056
-【エルフ】「くはぁあぁあああああ……あっあっあっ……お腹の中……人間でいっぱいです……」
+【Elf】「Kuhaaaaaaahhh.....aaaah....my stomach...is full of human...」
 
-空気が薄くなってしまったのではないか思えて、エルフは必死に息をする。しかし喘いでも喘いでも、体内に打ち込まれた楔のせいで、息も満足にできない気がする。
+The elf is gasping for air to the point that, watching him, one might think that the air has grown thinner. However, no matter how he gasps, the wedge of meat filling his body means he can't properly fill his lungs with air.
 
 ;ツキヨ
 #voice tuka0057
-【エルフ】「はっ……はっ、はっはっ……嫌です……抜いてくださいです……気持ち悪い、です……」
+【Elf】「Haa...haa, haahaaa...I hate this...please, take it out...it feels awful...」  
 
-エルフは細い喉を喘がせて、なんとか息をしようと短い呼吸を繰り返した。
+The elf's thin throat sucks down air, somehow managing to breathe in short spurts.
 
-だが男たちに囲まれているせいで喉に入ってくるのは、むっとするような雄臭い空気だけだ。
+However, thanks to the men surrounding him, the air filling his lungs reeks of a disgusting male stench.
 
 
-【村人１】「さーてじゃ、ご要望通り抜いてあげますか」
+【Villager１】「Weeeelll then, I guess I should do what you want and take it out.」
+
+;SE se020	挿入音1（深い）
+#se 1 se020
 
 ;ツキヨ
 #voice tuka0058
-【エルフ】「ひうぅううう……っ！？」
+【Elf】「Hiioohohhh...!?」
 
-ずるずると肉棒が引き抜かれていくと、エルフの意思とは裏腹に名残を惜しむように内壁が絡みつく。
+The villager pulls his cock out, and against the elf's wishes his inner walls squeeze down around it, clinging tight, refusing to let go.
 
 
-【村人１】「ははははは、すげぇ。絡みついてくるぜ。こいつはいきなり搾り取ろうとしてきてるみたいだ」
+【Villager１】「Hahahaha, awesome, he's clamping down on me. This guy suddenly started tryin' to wring me dry.」
 
 ;ツキヨ
 #voice tuka0059
-【エルフ】「はぁああああ……あぐぅっ……く、くるし……」
+【Elf】「Haaaaah...aguuh...i-it hurts...」
 
-生きたまま内蔵が引き抜かれているのではないかという錯覚すら覚えた。
+The elf felt like all of his organs were being pulled out of his stomach.
 
-動かれるのが辛くてエルフは先程とは真逆の願いを口にした。
+The pain was so great that the elf starts begging the exact opposite of his previous plea.
 
 ;ツキヨ
 #voice tuka0060
-【エルフ】「やぁあああああ……抜かないでです……だめぇ……うぐぅうううううう……」
+【Elf】「Nooooooo...don't pull it out...uguuuoohhh...」
 
-脂汗を流しながら、エルフがうめき声を上げる。
+The elf groans, dripping with greasy sweat.
 
-むき出しの神経に爪を立てられているようなゾワゾワとした不快感が全身を支配していた。
+A horrible discomfort dominated his entire body, as if an animal was clawing directly as his nerves.
 
 
-【村人１】「そうかそうか、もうチンポの味を覚えたか。おらよっ」
+【Villager１】「I see, I see, so you've already learned the taste of cock, huh? Take this!」
+
+;SE se022	挿入音1連続
+#se 1 se022
 
 ;ツキヨ
 #voice tuka0061
-【エルフ】「あぐぅっ！」
+【Elf】「Aguuh!」
 
-男は苦悶の声を都合よく解釈して、思い切りよくエルフの尻に腰を打ち付けた。
+The man, interpreting the elf's statement in the most convenient way for him, thrusts his hips as hard as he pleases against the elf's behind.
 
-男の太く長い全長を利用して腹の中がこすられて、目の前がチカチカする。
+When the man forces his entire fat, long length inside the elf's stomach, the elf's vision flickers.
 
 ;ツキヨ
 #voice tuka0062
-【エルフ】「ぎっ……ぐぅううう……うごか、ないで……」
+【Elf】「Gii..guuuhh...don't mooove...」
 
-腹の中に男根を押し込まれると、満腹感にも似た苦しさがこみ上げてきた。
+The man pushes his phallus into the elf's stomach, making the elf feel a bloated pain. 
 
-さらに中から腹を圧迫されるせいか、ぞわぞわして虫に這われているように気持ちよさと気持ち悪さがごちゃまぜになる。
+The increasing pressure inside his stomach makes the elf feel a mixture of revulsion and pleasure. It feels like bugs are crawling inside him.
 
-その感触にどこか心奪われそうになり、エルフは愕然とした。
+The elf is astonished to realize that sensation seeping into him, taking over the cracks in his heart.
 
 ;ツキヨ
 #voice tuka0063
-【エルフ】「あぁっ……ひぃいい……動いちゃ、やですっ……なんでっ……？　人間に変なことされて気持ちいいです……？」
+【Elf】「Aaah...hiiiih...don't move...why?　Why does a human doing these weird things to me feel good?」
 
-初めて押し寄せてくる感覚に、エルフは目を白黒させた。
-
-
-【村人１】「気持いいか。チンポはたっぷりあるからな、思う存分楽しんでくれよ」
+The elf is confused and terrified by the sensation newly growing inside him.
 
 
-【村人５】「あはははは、俺たちの相手もさせろっての」
+【Villager１】「Does it feel good? We've got all the cocks you could want for you to enjoy, right here.」
 
 
-【村人１】「使えるのケツだけじゃないんだから、好きにしろよ」
+【Villager５】「Ahahahaha, what, we can do him too?」
 
 
-【村人２】「ま、そうだけどよ。じゃ、俺はお口の方をいただきますか」
+【Villager１】「He's got other holes besides his ass, ain't he? Go for it.」
+
+
+【Villager２】「True enough. I'll take his mouth, then.」
 
 ;EVCG EV010B1
 #cg イベント ev010b1 背景
 #wipe fade
 
+;SE se021	挿入音2（浅め）
+#se 1 se021
+
 ;ツキヨ
 #voice tuka0064
-【エルフ】「やっ……うぇっ……」
+【Elf】「Noo...ueeh...」
 
-エルフの前に立っていた男が、喉を喘がせるために開かれていた唇に、肉棒を押し込んだ。
+The man who had been standing right next to the elf earlier takes advantage of the fact that the elf's mouth is open wide as he struggles to breathe, and forces his cock in.
+
 
 ;ツキヨ
 #voice tuka0065
-【エルフ】「うぇっうぇ……く、くさっ……えぐぅっ……おぇ……」
+【Elf】「Uweeeehh...s-stinks...eguuh...oeh...」
 
 
-【村人２】「あぁ、こら吐き出すなよ」
+【Villager２】「Hey, don't vomit now.」
 
 ;ツキヨ
 
-【エルフ】「お口におちんちん……それも人間のなんて汚いですっ……」
+【Elf】「A penis in my mouth...and it's a dirty human's...」 ;it's unclear whether he's being racist like Ibara or just saying it's not very clean.
 
 
-【村人２】「そう言うなって。すぐ気に入ると思うぜ」
+【Villager２】「That's right. Don't worry, you'll love it soon enough.」
+
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
 ;ツキヨ
 #voice tuka0067
-【エルフ】「あうぶっ……ぐぅえっ……うえっ……」
+【Elf】「Auobuh....gueeeh...ueeeh...」
 
-何度もえづくエルフの喉を、男の肉棒が奥へ奥へと侵攻していく。
+The man's cock thrusts into the nauseated elf's throat again and again.
 
-喉奥まで肉棒を押し込まれたせいでさらにえづくが、それで痙攣した喉にさらに男は肉棒を押し込んでくる。
+The elf gags as the man forces his cock into his throat, his throat spasming, letting the man push his cock even deeper.
 
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
-【村人２】「うほー、ちっちゃいお口で頑張るなぁ。ははは、いいよいいよもっと舐め舐めしてな。間違っても歯を立てるなよ」
+【Villager２】「Uhoooh, he's workin' his cute lil' mouth so hard. Hahaha, good boy, keep lickin'. Don't you dare bite, even as a mistake.」
 
-懸命に押し出そうする舌の動きはかえって男を喜ばせた。
+The elf's desperate efforts to force the man's cock out with his tongue just make the man enjoy it more.
 
-男が腰を使い、喉を使って楽しもうとしてきたのに合わせて、なんとか顔をそらし肉棒を吐き出してようやく息をつく。
+The man thrusts his hips, enjoying the elf's throat, matching the man using his hips. The elf somehow manages to pull his face away from the cock and desperately sucks in air.
 
 ;ツキヨ
 #voice tuka0068
-【エルフ】「やふあぁっ……やっ……くるし……う……ぎ……」
+【Elf】「Hafuaaaaaahh...noo...it hurts...oh...giiih...」
 
 
-【村人２】「あーあ、ほらもう一回口開けろって」
+【Villager２】「Aw, c'mon, open that mouth one more time.」
 
-なんとか吐き出し、懸命に歯を食いしばったエルフの頬を、ぺちぺちと唾液にまみれた肉棒が叩く。
+;SE se019	パシンとおしりを叩く（連続３）
+#se 1 se019
+
+After somehow getting the cock out of his mouth, the elf clenches his jaw, refusing to let it back in. The man slaps his saliva-covered cock against the elf's cheek.
 
 
-【村人３】「かわいそうに、お前らがいじめてばっかだからちんこ縮んじゃってるじゃん」
+【Villager３】「I feel sorry for him, you guys have all been so mean to him that his little cocky's shrunk, look.」
 
-エルフの手からもあぶれた男が面白がりながら、エルフの下肢に手を伸ばした。
+One of the men, watching from nearby, reaches out to touch the elf's lower body.
 
 ;ツキヨ
 #voice tuka0069
-【エルフ】「……！？　なんです……？　今の、変な感じ……やっ……そこ……触っちゃやですっ！」
+【Elf】「...!?　...What is it?　I just felt something strange...no...don't touch me there!」
 
 
-【村人３】「お、可愛いチンコ、ピクってなった」
+【Villager３】「Oh, what a cute little cock. It just twitched.」
 
-つまんだエルフの幼茎を嘲笑いながら男の手が上下する。
+The men starts to move his hand up and down, mocking the elf's tiny stamen.
 
 ;ツキヨ
 #voice tuka0070
-【エルフ】「ぎっ……いっ……！？　やです、やです……なんです、これ、おちんちん、こすられると気持ちいいです……！」
+【Elf】「Gii...iih...!?　Stop it, stop it...what is this, when my penis is rubbed I feel good!」
 
 
-【村人３】「ほら気持ちいいだろ？　自分でしたこともなかったか？」
+【Villager３】「It feels good, right? Have you never done it to yourself?」
 
-腹いっぱいの苦痛と共に流し込まれる快楽にエルフが目を剥く。
+The combination of the agony in his stomach and the waves of pleasure from his penis makes the elf's eyes pop.
 
-あっという間にエルフの可愛らしい若枝は勃起した。
+In a very short time, the elf's cute young sprig is erect.
+
+;★差分ツキヨ勃起
 
 ;ツキヨ
 #voice tuka0071
-【エルフ】「気持ちいいの嫌です……やっ……こんなの……気持ちいいの変になるです……」
+【Elf】「I don't like pleasure...no....this is...the pleasure is making me feel all funny...」
 
 
-【村人３】「気持いいの、嫌なの？　痛いほうがいいの？」
+【Villager３】「You don't like pleasure?　You prefer pain?」
 
 
-【村人４】「まだ皮も剥けてないのか。剥いてやれよ」
+【Villager４】「Hey, his skin's not even peeled back yet. Peel it.」
 
 ;ツキヨ
 #voice tuka0072
-【エルフ】「ぎゃっ……！　いたっ……！！」
+【Elf】「Gyaaah! It hurts!!」
 
-無理に皮を引っ張られ、エルフは思わず悲鳴を上げる。
-
-
-【村人２】「お、やった。口マンコぱっくんと」
-
-悲鳴を上げたエルフの口に容赦なく先ほどの肉棒が押し込まれた。
-
-匂いだけでなく喉の奥にまで届くせいで、ひっきりなしに嘔吐感がこみ上げてくる。
+The elf screams when his skin is forced back.
 
 
-【村人３】「あーだめだ。完全に被っちゃってて剥けないな、これ」
+【Villager２】「Oh, there we go, his mouthpussy finally opened back up.」
 
-包茎を剥くのを早々に諦めた男の手がエルフの肉棒をしごき続ける。
+;SE se020	挿入音1（深い）
+#se 1 se020
+
+The man takes advantage of the elf's open mouth to violently force his cock inside it.
+
+This time, his throat is filled not just with the disgusting stench, but the man's cock, and the elf's throat starts to constantly spasm in an attempt to vomit it out.
+
+
+【Villager３】「Aaah, I give up, it's really stuck on there.」
+
+The man, giving up hope at completely retracting the elf's foreskin, returns to stroking the elf's cock.
 
 ;ツキヨ
 #voice tuka0073
-【エルフ】「（な……きもちいのと……苦しいのと……ふぁあああああ！）」
+【Elf】「（It hurts...but it feels good....fuaaaaaaahhh!）」
 
-快楽に喘ぐ喉に、口内の男根が押し込まれていく。
+;SE se020	挿入音1（深い）
+#se 1 se020
 
-口に入れた男はエルフの喉を使って自慰を行おうとしているらしかった。
+The elf attempts to moan in pleasure, and the man pushes even deeper in his throat.
+
+The man is attempting to use the elf's throat as a masturbation tool.
 
 
-【村人３】「やっぱり痛いのより、気持ちいいのがいいよなぁ？」
+【Villager３】「Pleasure really is better than pain, huh?」
 
-エルフの若い肉枝をいじる男は楽しそうにニヤニヤしながら問いかけてくる。
+The man asks, happily playing with the elf's young meatbough.
 
 ;ツキヨ
 #voice tuka0074
-【エルフ】「んぐむぅ……んふぅ……！？」
+【Elf】「Mngumuuh...mnfueh...!?」
 
-にゅるにゅるしこしことしごかれる初めての快楽にエルフは惑乱していった。
+The elf, experiencing the pleasure of being stroked for the first time in his life, is bewildered by the sensation.
 
-;ツキヨ
+;ツキヨ★ある?
 #voice tuka0075
-【エルフ】「（おちんちんしこしこ！　しこしこ！　気持ちいいですっ！）」
+【Elf】「（My penis being stroked! Stroked! It feels good!）」 ;this is phrased in a very childish way, maybe rephrase
 
 
-【村人２】「エルフ喉まんこ気持ちいいぜ。おらっおらっ」
+【Villager２】「This elf's throatpussy feels great too.」
+
+;SE se020	挿入音1（深い）
+#se 1 se020
 
 ;ツキヨ
 #voice tuka0076
-【エルフ】「ぐぅうううっ……！　ぐぇっ……！！　あぶっ……」
+【Elf】「Guuuhhh...!　Gueh...!!　Abuh...」
 
 ;ツキヨ
 #voice tuka0077
-【エルフ】「（なんで……この変な匂い……やじゃなくなって……）」
+【Elf】「（Why...it smells so funny...I should hate it...）」
 
-はじめは気持ち悪いだけだった口奉仕も喉奥を突かれるうちに、次第にエルフの思考をぼんやりと濁らせていく。
+At first, the elf found it repulsive, but as the man continues to use the elf's mouth and the depths of his throat to service himself, the elf's consciousness gradually gets foggier.
 
-男たちの獣のような匂いも次第に心地よく感じ始めた思考をかき混ぜるように、腹の中が掻き回されている。
+The beginnings of the idea that the men's repulsive, beastlike smell isn't actually so bad trickle in to the elf's mind.
 
 ;ツキヨ
 #voice tuka0078
-【エルフ】「ふぁああああ……んむ……んっ、んんっ……」
+【Elf】「Fuaaaaaahhhh...nmuh...mn, mmn...」
 
-刺激を与えられる幼茎の真裏を、人間の猛々しい肉槍が擦り立て、暴力的に快楽を引き出そうとしてくる。
+Below the elf's immature being-stroked stamen, a man's vicious meatspear thrusts violently, creating twisted pleasure from the violence.
 
 ;ツキヨ
 #voice tuka0079
-【エルフ】「（おしりもおくちも……気持ちよくなってきて……身体、変、です……）」
+【Elf】「（My mouth and my butt...are both feeling good...my body is going crazy...）」
 
-エルフの体が快楽を覚えるに連れ、男の欲望をくわえこんだ唇の隙間から漏れる声も、甘さと熱を増していく。
+As the elf's body awakens to pleasure, sweeter and hotter moans start leaking out of the little space the man's lust has left between his lips.
 
 ;ツキヨ
 #voice tuka0080
-【エルフ】「んむ……ふぅんっ、んぐぅっ……んあっあっあっあっ……んぅっ……」
+【Elf】「Nmu...fuuuhn, mnguuh...mnaaaaaaaahhh...mnooh...」
 
 
-【村人５】「ははっ……エルフってのは淫乱なんだな。輪姦されてんのにいい声上げ始めた」
+【Villager５】「Hahaha....elves sure are sluts. He's being gang-raped but he's moaning so sweetly.」
 
 
-【村人４】「ちっちゃいおててもなかなか乙なもんだぜ」
+【Villager４】「His tiny little hands feel great, too.」
 
-エルフの体のどこもかしこもで、男たちはモノを使うように遠慮なく性器をこすり立てる。
+All over the elf's body, the men rub their genitals on every part of him they can reach.
 
-やがて、エルフの尻穴に挿入している男の動きが急に早くなっていった。
+;SE se022	挿入音1連続
+#se 1 se022
+
+Eventually, the movements of the man inside the elf's anus speed up.
 
 ;ツキヨ
 #voice tuka0081
-【エルフ】「んっ……んっ……んむぅっ……！」
+【Elf】「Mnn...mnn...mnuuh...!」
 
-
-【村人１】「……っでるっ」
-
-;ツキヨ
-#voice tuka0082
-【エルフ】「っ……！？　いやぁっ……！！　あついぃっ……！」
-
-体の中で精液がしぶく感覚は、腸内に熱く染み渡る温度と共にエルフの意識を絶望に塗り替えていった。
-
-
-【村人１】「ははぁ……確かにクセになるわ、これ。エルフのケツマンコまじ気持ちいい……」
+【Villager１】「...Cumming.」
 
 ;ホワイトアウト
 #cg all clear
@@ -703,73 +787,92 @@
 #cg イベント ev010c1 背景
 #bg bg04_1
 #wipe fade 300
+
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+;ツキヨ
+#voice tuka0082
+【Elf】「...!?　Nooooo...!!　So hooooot...!」
+
+
+The hot sensation of the man's bitter semen flooding the elf's bowels instantly redrowns the elf in despair.
+
+
+【Villager１】「Haha...I might get addicted to this. Elf's asspussies feel incredible...」
+
 
 ;EVCG EV010C1
 
 ;ツキヨ
 #voice tuka0083
-【エルフ】「あぁあああああっ……ひゃあっ……っ」
+【Elf】「Aaaaaaaaaaahh...hyaah...」
 
 ;ツキヨ
 #voice tuka0084
-【エルフ】「（何です？　何がお腹の中に出されたです？　この熱いのなんですっ！？）」
+【Elf】「（What is this?　What is going inside my stomach? What is this hot stuff!?）」
 
-全く知らない感覚にエルフは混乱しながら、射精を受け止めた。
-
-
-【村人５】「おい、まだ使うのに中で出すなよな」
+The elf takes the ejaculation, his mind plunged into chaos by the completely unknown sensation.
 
 
-【村人１】「いいだろ、妊娠するわけじゃなし」
+【Villager５】「Oi, we're still gonna be usin' him, why are you cumming inside?」
 
 
+【Villager１】「It's fine, not like he'll get pregnant or anything.」
 
-【村人４】「バカ誰がそんな心配してるんだよ、きたねーって話だろ」
+
+【Villager４】「Dumbass, who said that's what we cared about? Now you've got his as all dirty.」
 
 ;ツキヨ
 #voice tuka0085
-【エルフ】「（汚い……そうです、汚されちゃったです……なんかいっぱい入ってきたです……）」
+【Elf】「（Dirty...that's right, I've been soiled...something is filling me...）」
 
-ギャハハハ、と笑いながら男たちは立ち位置を変えた。
+The men, smiling, switch positions.
 
 
-【村人３】「は、やっと俺の番か」
+【Villager３】「Finally my turn.」
 
 ;ツキヨ
 #voice tuka0086
-【エルフ】「ふぐっ……も、もう入れないでですっ……！！」
+【Elf】「Fuguh....n-no more, please...!!」
 
-腸内から肉棒を引き抜かれて、解放されるかとかすかに持った希望が、残酷に握り潰される。
-
-
-【村人４】「はぁ？　まだ一人済んだだけだろ？　まだ俺たちのも控えてるんだからさ」
+The man extracts his cock from the elf's insides, finally giving the elf the faintest hope it might be over - hope which is cruelly crushed in an instant.
 
 
-【村人２】「お口もお手々も頑張れば、少しは早く終わるかもな」
+【Villager４】「Haa?　You've only done one guy, right? The rest of us have just been waiting.」
+
+
+【Villager２】「If you do your best with your mouth and hands, maybe it'll be over faster.」
 
 ;ツキヨ
 #voice tuka0087
-【エルフ】「うっ……うぅ……」
+【Elf】「Ooh...ooh...」
 
-中に出されたばかりの尻穴に新たな剛直が押し込まれた。
+;SE se020	挿入音1（深い）
+#se 1 se020
+
+A new erection forces itself into the elf's freshly semen-stained hole.
 
 
-先程までのものと違うところを男の亀頭が擦り、エルフは新しい快楽と苦痛を味わう。
+The different shape of this new phallus makes it rub against different spots, giving the elf new kinds of pleasure.
+
+;SE se020	挿入音1（深い）
+#se 1 se020
 
 ;ツキヨ
 #voice tuka0088
-【エルフ】「んぐっ……！」
+【Elf】「Mguh...!」
 
-さらに口に入った肉棒が喉の奥深くを犯していく。
+Also, the man in the elf's mouth thrusts even deeper into his throat.
 
 ;ツキヨ
 #voice tuka0089
-【エルフ】「ぐむぅ……！」
+【Elf】「Mghghh...!」
 
-前立腺に受けた刺激にエルフが息を飲み、そのため喉で咥えた肉棒を締め上げた。
+The man in his anus hits the elf's prostate, making him gasp in pleasure, causing his throat to squeeze down.
 
-
-【村人２】「……うっ……やべぇ……おら、人間様の精液だ。ありがたく飲めよな」
+【Villager２】「...Oooh...shiiit....ora, take it, it's a superior human's semen, drink up gratefully.」
 
 ;ホワイトアウト
 #cg all clear
@@ -781,106 +884,115 @@
 #bg bg04_1
 #wipe fade 300
 
-エルフの口を楽しんでいた男は喉の奥深くで射精した。
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
 
-勢いよく放たれた精液が喉奥を叩き、食道を通って胃へと迸った。
+Savouring the sensation of the elf's throat, the man ejaculates deep inside it.
+
+The semen gushes down his throat, flooding into his stomach.
 
 ;ツキヨ
 #voice tuka0090
-【エルフ】「っ……！？　んぷっ……ぷはぁっ……ごぷっ……」
+【Elf】「...!?　Mpuh...puhaah...gopuh...」
 
 
-【村人２】「ちゃんと飲まないと溺れるぞ」
+【Villager２】「If you don't drink it down, you'll drown.」
 
 
-勢いよく射出された精液が喉奥で跳ね返って鼻の中にまで暴れ狂う。
+The semen violently pouring down the elf's throat rebounds as he coughs, and some of it gushes out his nose.
 
-しかし、口はいまだ男のモノに塞がれたままで、エルフは生臭い精液を飲み下すほかなかった。
+However, his mouth is still closed off with the man's penis, so the elf has no choice but to drink or drown.
 
 ;ツキヨ
 #voice tuka0091
-【エルフ】「んっ……ごくっ……ぐくっ……うぇっ……」
+【Elf】「Mnn...gulp...gukuh...ueeh...」
 
 
-【村人２】「ハハ、飲んだ飲んだ。ほんとに飲んだぞコイツ」
+【Villager２】「Hahaha, he's actually drinking it.」
 
 ;ツキヨ
 #voice tuka0092
-【エルフ】「へぁ……はぁ……うぅっ……あぁ……くっさいの、飲んじゃったです……」
+【Elf】「Haa...haa...ooooh...ah...I drank that stinky stuff...」
 
-喉奥も犯されたエルフは息も絶え絶えになりながら、ようやく解放された口で呼吸をした。
-
-
-【村人３】「あーあ、かわいそうに。もう意識飛んじゃってるじゃないか」
+His airways finally unblocked, the elf gasps for air, even as the man thrusts into his throat.
 
 
-【村人４】「そんだけ気持ちよかったんだろ。ほらちゃんと手を動かせって」
+【Villager３】「Aww, I feel bad for him. He's barely conscious.」
+
+
+【Villager４】「That's just how good he feels. C'mon, keep moving your hands.」
 
 ;ツキヨ
 #voice tuka0093
-【エルフ】「あぁ……はぁああああああ……はぁ、はぁはぁ……」
+【Elf】「Aah...haaaaaaaaaaa...haa, haahaa...」
 
-何も考えられなくなったエルフは男たちが求めるままに手を動かし、されるがままに腰をくねらせた。
-
-
-【村人５】「ははは、すっかり淫乱エルフだな。うっ……俺もイク」
+The elf, barely able to think any longer, moves his hands and his hips as the men order. 
 
 
-【村人４】「俺もだ」
+【Villager５】「Hahaha, what a little slut this elf is....I'm cumming too.」
 
 
-【村人３】「お前ら早すぎ。溜まってたんじゃないの？」
+【Villager４】「Me too.」
 
 
-【村人１】「お前が参加するのが遅かっただけだろ」
+【Villager３】「You guys are way too fast, are you backed up or something?」
 
-下品な笑い声をあげながら、男たちは射精したあとも飽きずにエルフの体をいじりまわした。
+
+【Villager１】「You just joined in after everyone else.」
+
+Laughing vulgarly, even the men who have already ejaculated and lost their erections continue to play with the elf's body.
 
 ;ツキヨ
 #voice tuka0094
-【エルフ】「あっ……？　はぁ……あっ……なんです……？」
+【Elf】「Ah...?　Haa...ah...what...?」
 
 
-【村人４】「しかし、どこもかしこもすべすべで気持ちいい体だな」
+【Villager４】「Still, his body's nice and smooth all over, it feels great.」
 
 
-【村人１】「この調子なら、何発でもやれそうだ。何周できっかな」
+【Villager１】「His body's so great that I feel like I can keep cumming forever.」
 
-無遠慮に体を嬲られるうちに、体のそこかしこからそれまでの嫌悪感と異なるものが湧き上がってくる。
+As they brusquely toy around with his body, a new feeling, different from revulsion, wells up inside him.
 
 ;ツキヨ
 #voice tuka0095
-【エルフ】「やっ……も、もう……触ら……ないで、ですぅ……」
+【Elf】「Noo....d-don't....touch....me...please...」
 
 ;ツキヨ
 #voice tuka0096
-【エルフ】「（触られると……ぞわぞわして……気持ちよくなっちゃうです……）」
+【Elf】「（When they touch me...I feel all fluffy...and good...）」
 
 
-【村人３】「お、さっきまでと反応変わってきたんじゃないか？」
+【Villager３】「Ooh, ain't this a different reaction than earlier?」
 
 ;ツキヨ
 #voice tuka0097
-【エルフ】「あっあぁ……気持ちいい……気持ちいいですぅ……たすけてぇ……」
+【Elf】「Aaaaah...it feels good...it feels good...save meee...」
 
-未知の快楽は苦痛よりもエルフを混乱させた。
+This new, unknown pleasure is even more terrifying to the elf than the pain.
 
 
-【村人５】「おらっ、いけよ。いっちまえ」
+【Villager５】「Go on then, cum! Cum!」
 
 ;ツキヨ
 #voice tuka0098
-【エルフ】「っ……！？　な、なんです……これぇ……！？」
+【Elf】「...!?　Wh-What...is this!?」
 
-勢いよくこすりたてられた前立腺が、体の芯に電流のような快感を走らせる。
+;SE se021	挿入音2（浅め）
+#se 1 se021
+
+His prostate grand being violently stroked by the man's penis makes electric currents of pleasure run through his body.
+
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
 ;ツキヨ
 #voice tuka0099
-【エルフ】「あぁああああああっ！　あはぁっ……あぁん……あっ」
+【Elf】「Aaaaaaaaaaa!　Ahaa...aahn...ah.」
 
 ;ツキヨ
 #voice tuka0100
-【エルフ】「はっ……！　はぅひゃうぅうううううんんんっ……！？」
+【Elf】「Haa...!　Haaaahiiyyaaaaaahhoooohhn!?」
 
 ;ホワイトアウト
 #cg all clear
@@ -892,52 +1004,66 @@
 #bg bg04_1
 #wipe fade 300
 
-エルフは体を弓なりにしならせて射精した。
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+The elf's body arches like a bow as he ejaculates
 
 ;ツキヨ
 #voice tuka0101
-【エルフ】「や、やだ……おちんちんから……なんか……出てるです……」
+【Elf】「N-No...something's coming...out of my penis...」
 
 
-【村人１】「ひゃははは。イったな、いいイキっぷりだった」
+【Villager１】「Hyahahahhaa, he came hard.」
 
-初めての射精は目がチカチカするほどに鮮烈だった。
+The elf's first ejaculation is so striking sparks flash before his eyes.
 
 ;ツキヨ
 #voice tuka0102
-【エルフ】「はぁあああああ……たす……助け……も、やです……無理……」
+【Elf】「Haaaaaahh...save...save me...no more, please...I can't...」
 
-暴力的なまでの快楽にさらわれかけた意識をどうにか繋ぎとめて、エルフは呟いた。
+The elf murmurs, his mind completely overrun by the savage pleasure.
 
 
-【村人５】「休んでる暇はないぜ。俺は満足してないからな」
+【Villager５】「No time to take a break, I ain't satisfied yet.」
 
 ;ツキヨ
 #voice tuka0103
-【エルフ】「ぎゃっ……ふあぁ……触っちゃやです……やめて……もう……」
+【Elf】「Gyaah...fuaah...don't touch me...stop, please...no more...」
 
-射精したばかりでまだ敏感な性器を男達に弄ばれて、エルフは懇願する。
-
-
-【村人４】「残念だけど、一回出したぐらいじゃ満足できないんだよな」
-
-男たちの情欲に染まった瞳を見上げ、エルフは絶望した。
-
-あんなにも強い快楽を何度も何度も与えられたら……いったい自分はどうなってしまうのだろう？
+The elf begs the man to stop touching his genitals, extra-sensitive from his ejaculation.
 
 
-【村人３】「仕方ないな。まずは俺も一発出しとくか」
+【Villager４】「Too bad, but just once ain't gonna cut it.」
 
-挿入している男が性急に腰を動かす。
+The lust in the mens eyes plunges the elf into yet further despair.
+
+If they keep giving him that incredible pleasure, again and again and again..what will happen to him?
+
+
+【Villager３】「Guess it's about time for me to fire off a shot, too.」
+
+;MCK
+;SE se022	挿入音1連続
+#se 1 se022
+
+The man inside him thrusts his hips, impatient.
 
 ;ツキヨ
 #voice tuka0104
-【エルフ】「んっ……あぁっ……や……また……気持ちよくなるぅ……」
+【Elf】「Mnn...aaah...no...feeling good...again..」
 
-拒んでも、体内を突かれると強引に快感が引き上げられていく。
+Even if he protests, he can't stop feeling good when they thrust inside him.
 
+;MCK
+;SE se022	挿入音1連続
+#se 1 se022
 
-【村人３】「いくぞ、しっかり受け止めろよ！」
+【Villager３】「Here I come, take it all!」
+
+;ツキヨ
+#voice tuka0105
+【Elf】「Aaah...!　M-More hot stuff...Nooooooooooo...」
 
 ;ホワイトアウト
 #cg all clear
@@ -949,35 +1075,37 @@
 #bg bg04_1
 #wipe fade 300
 
-;ツキヨ
-#voice tuka0105
-【エルフ】「あぁっ……！　ま、また熱いのっ……やぁああああああん……」
+;MCK
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
 
-再び腸内に勢いよく精液が叩きつけられ、エルフはその快感に体を震わせた。
+As a massive amount of semen pours inside him yet again, the elf's body trembles in pleasure.
 
-中に出されるのは、硬い肉棒で中をこすられるのとは別種の快楽があった。
+The pleasure of being ejaculated inside is a completely different pleasure than that of a cock thrusting into him.
 
 ;ツキヨ
 #voice tuka0106
-【エルフ】「も……許してですっ……」
+【Elf】「Stop...please, let me go...」
 
+【Villager５】「Next it's my turn to enjoy his asspussy.」
 
-【村人５】「俺も今度はケツマンコで楽しませてもらうか。順番だろ？」
+His body still being held down, escape impossible, yet another man thrusts into the elf.
 
-身体を丸めて逃れようとするのを押さえ込んで、また先程までと違う男がエルフの中に侵入してくる。
+;MCK
+;SE se022	挿入音1連続
+#se 1 se022
 
-
-【村人５】「お……こんなにむちゃくちゃにされてんのに、まだまだ締まりがいいな」
+【Villager５】「Oh...He's been fucked so much, but he's still nice and tight.」
 
 ;ツキヨ
 #voice tuka0107
-【エルフ】「や……あぁっ……」
+【Elf】「No...aaah...」
 
 ;ツキヨ
-#voice tuka0108
-【エルフ】「ひゃぁああああああっ！　あぁっ……はぁん……うぅ……」
+#voice tuka0108/
+【Elf】「Hyaaaaaaaaaaa!　Aaah...haahn...ooh...」
 
-狂宴はまだまだ終わりを告げることはなさそうだった。
+The dark-skinned elf's gang-rape was apparently still far from over.
 
 ;暗転
 ;#face off
@@ -1002,27 +1130,27 @@
 
 ;ヒナタ
 #voice hina0316
-【ナナシ】「ニンゲンさん、おかえりなさいっ！」
+【Nanashi】「Human-san, welcome home!」
 
-「お、今日はナナシだけか」
+「Oh, it's just you today, Nanashi?」
 
 ;ヒナタ
 #voice hina0317
-【ナナシ】「ううん、さっきまでコノミもいたよっ」
+【Nanashi】「No, Konomi was just here.」
 
-俺が山小屋に移り住むようになってしばらく経ち、最近はエルフたちも飽きたのか、前ほどは俺にまとわりついてこなくなった。
+I've been living at the cabin for some time now. Perhaps the elves are growing bored of me, because I've been seeing them less and less.
 
-エルフたちはどこで眠っているのか、山小屋にもきたりこなかったりだ。
+I don't know where they sleep, and they don't spend much time at the cabin with me.
 
-先住者の記録を読み解いたところによれば、エルフとはそんなものらしい。
+I've been reading the books left behind by the previous inhabitant, and apparently that's just how elves are.
 
-そんなわけで今日の探索も俺ひとりで行った。
+Because of that, I've often being going out to explore the forest on my lonesome.
 
-少しさみしいような気もするけど……それはわがままというものだろう。
+I do feel a little lonely, but...I'm probably just being selfish.
 
-「そういえばイバラは最近すっかり見なくなったな」
+「That reminds me, I haven't seen Ibara at all recently.」
 
-俺は今日の収穫をおろし、貯蔵しておくものと今日使うものに分別しながら、何気なく聞いた。
+I was casually chatting with Nanashi, as I worked through what I'd gathered today, determining what I would use in the near future and what I would store.
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
@@ -1030,15 +1158,15 @@
 
 ;ヒナタ
 #voice hina0318
-【ナナシ】「そだねぇ。イバラいなくなっちゃったねぇ」
+【Nanashi】「Yeah. Ibara's gone.」
 
-「人間の世界に飽きたのかな」
+「Did he get bored with the human world?」
 
 ;ヒナタ
 #voice hina0319
-【ナナシ】「ん〜？　イバラ、エルフのとこからもいなくなっちゃったよ？」
+【Nanashi】「Mnn〜?　No, Ibara's not around, even where all the elves are.」
 
-「え？」
+「Eh?」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
@@ -1046,35 +1174,35 @@
 
 ;ヒナタ
 #voice hina0320
-【ナナシ】「どっかいっちゃったみたいっ」
+【Nanashi】「He must've gone somewhere.」
 
-「どっかいっちゃったみたい、ってお前な……」
+「He must've gone somewhere? Not very concerned, are you...」
 
-同族がいなくなったんだから心配とかしないのか？　と思ったが、どうやら人間とエルフの意識というのはずいぶん違うみたいだ。
+Is he not worried about Ibara at all? They're from the same tribe. Maybe I'm just thinking like a human, and elves have a different perspective.
 
-エルフ狩人などに捕まるのは種としての問題にもなるから注意するが、個別にいなくなったりなんだりはそれほど気にしないし惜しんだりもしないらしい。
+エルフ狩人などに捕まるのは種としての問題にもなるから注意するが,個別にいなくなったりなんだりはそれほど気にしないし惜しんだりもしないらしい。
 
-よく言えば自由奔放なんだろうが、俺の目から見るとちょっと冷たいように感じる。
+Perhaps you could call it living free of worries, but to me it looks a bit cold.
 
-ま、人間にも、俺みたいにいなくなったところで、あまり気にかけられない奴もいるけどな。
+Well, then again, there probably aren't any humans who would care if I vanished, so maybe I shouldn't be critical.
 
-とりあえず次の満月まではエルフたちと一緒にいられるはずだったけど、この調子ではその前に一人の生活が手に入りそうだ。
+At any rate, the elves were only supposed to be around until the next full moon, but the way things are going I'll be all on my own well before that.
 
-「ま、いいけどな」
+「I suppose it's fine.」
 
-ぼそっとひとり呟く。
+I quietly mutter to myself.
 
-エルフたちが来なくなれば、邪魔をされることもなくなるから、ここにある本の解読も一気に進められるだろう。
+When the elves are all gone, I'll be able to devote all my time to deciphering the book collection, without hindrance.
 
-そのあとはどうするか……まだ考えてはいないが、村に戻ってもいいかという気にもなってきたし、街に行こうかとも思う。
+After that...I haven't considered. I might move back to the village. Or maybe I'll travel to the big city.
 
-つまり何も決まっていない。
+In other words, no decisions have been made.
 
-（少し、あの騒がしかった日々が懐かしいな……）
+（To think I would actually feel a little nostalgic for how noisy it was back when all the elves were here...）
 
-イバラもコノミもナナシも俺にまとわりついてきた日々は、けして嫌なものじゃなかった。
+I never hated any of the days when Ibara, Konomi, and Nanashi used to follow me around.
 
-それを考えると、他人ともうまい付き合い方があるのかもしれない。
+Perhaps spending time with other people is not such a terrible thing, after all.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -1082,9 +1210,9 @@
 
 ;ヒナタ
 #voice hina0321
-【ナナシ】「ニンゲンさんっ！　ごはんつくる！？」
+【Nanashi】「Human-san! Are you making food? Want me to help!?」
 
-「いや、いい。お前に手伝わせると、すぐに得体の知れないことはじめるからな」
+「No, I'm fine. If you help you'll turn the ingredients into a mysterious, unrecognizable substance.」
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
@@ -1092,17 +1220,17 @@
 
 ;ヒナタ
 #voice hina0322
-【ナナシ】「えぇっ！？　つまんないっ！！」
+【Nanashi】「Eeeh!?　Boring!!」
 
-ぷぅっと頬を膨らませるナナシの頭をぞんざいに撫でて、俺は夕食を作ろうと立ち上がった。
+Nanashi puffs out his cheeks. Still cooking dinner, I stand up and casually pat him on the head to calm him down.
 
 ;コノミ
 #voice kona0223
-【？？？】「〜〜〜〜〜〜〜〜〜〜！」
+【???】「〜〜〜〜〜〜〜〜〜〜!」
 
-「っ！？」
+「!?」
 
-近くから悲鳴のような声が聞こえて、俺は慌てて周囲を見渡す。
+Suddenly, I hear a scream from nearby, and look around, concerned.
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
@@ -1110,22 +1238,22 @@
 
 ;ヒナタ
 #voice hina0323
-【ナナシ】「コノミのこえ、したね。そばにいるのかなっ」
+【Nanashi】「That was Konomi. I wonder if he's nearby.」
 
-ナナシはのんきにそんなことを言っているが、今の声はどこか切迫していなかったか？
+Nanashi seems cheerful and unconcerned, but didn't that sound like Konomi screaming for help?
 
 #voice kona0224
-【コノミ】「〜〜〜〜〜〜〜〜〜いやぁっ！」
+【Konomi】「〜〜〜〜〜〜〜〜〜NOOOOOO!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「やっぱりっ！」
+「I knew it!」
 
 ;SE se013 扉のバタン音
 
-俺は慌てて薪割り用のナタを引っつかむと、小屋の外に飛び出した。
+I grab my woodcuttting axe and run out of the cabin.
 
 ;暗転
 ;#face off
@@ -1140,7 +1268,7 @@
 #bg bg08a_2
 #wipe fade
 
-「どこだ、コノミ！」
+「Konomi! Where are you?!」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -1148,14 +1276,14 @@
 
 ;ヒナタ
 #voice hina0324
-【ナナシ】「どこだっ！」
+【Nanashi】「Where are you?!」
 
-新しい遊びだとでも思っているのか、楽しそうにナナシもついてきた。
+Nanashi runs after me, as cheerful as always. He seems to think we're playing a new type of game.
 
-近くに魔物でも出たのだろうか。
-あんまりものすごいやつだったら、ナタ一本じゃどうにもならないが……。
+Did a monster appear somewhere nearby?
+If it's a particularly dangerous monster, my little hatchet won't do much...
 
-どうか、無事でいてくれよ。コノミ。
+Please, please be safe, Konomi.
 
 ;暗転
 ;#face off
@@ -1170,10 +1298,11 @@
 #bg bg04_3
 #wipe fade
 
-#voice kona0225
-【コノミ】「あぁんっ……も、もう無理だよぉ〜……」
 
-声を頼りにコノミを探していると、やがてその声が艶めいたものであることがわかってきた
+#voice kona0225
+【Konomi】「Aaahhn...N-No moreeeee〜...」
+
+Using Konomi's voice to track him down, I realize that the screams he's making sound rather...amorous.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -1181,103 +1310,107 @@
 
 ;ヒナタ
 #voice hina0325
-【ナナシ】「わわっ！　いいなぁ、えっちいこえだ」
+【Nanashi】「Haha! Konomi sounds naughty, I'm jealous.」
 
-「……でも、なんか変じゃないか？」
+「...But isn't something strange?」
 
-気持ちよさそうだけど、なんだかどことなく辛そうというか……。
+He seems to be enjoying himself, yet also suffering at the same time...
 
-;FACE K01F1B
-#face f_kon_0_01f1b 94 466
-
+;MCK
+;FACE K08F
+#face f_kon_0_08f 94 466
 
 #voice kona0226
-【コノミ】「んんんっ……そ、そんなに出ないってばぁ〜……も、むりだよぉ〜。乱暴にしちゃやだァ〜」
+【Konomi】「Mmnnn...p-please stoooop〜...I-I can't keep goiiing〜 don't be so rough with meee〜」
 
 ;ヒナタ
 #voice hina0326
-【ナナシ】「ねねっ、ニンゲンさんっ！　ボクもっ！」
+【Nanashi】「Hey, Human-san! Me too!」
 
-「ちょっと待ってってば」
+「Just hang on a second!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-嬌声に当てられたのか飛びついてきたナナシを押しとどめ、俺は声の方を伺った。
+I have to hold Nanashi back from jumping around once he recognizes the sounds Konomi is making. Finally, I reach the origin of the noise...
 
-「あ、あれは！？」
+「Wh-What!?」
 
-そこにいたのは、雑貨屋の息子をはじめとする村の男たちだった。
+Standing there, was the son of the owner of the general store, and several men of the village. ;Maybe I should come up with names for these characters, like Aroduc did in Kamidori?
 
-その中心でコノミが輪姦されている。
+In the center of the group was Konomi, being gang-raped.
 
-「こ、このっ……！」
+「Y-You bastards!」
+
+;MCK
+;SE se014	騒々しい羽音を立てて鳥が飛び立つ
+#se 1 se014
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
-
 ;ヒナタ
 #voice hina0327
-【ナナシ】「あ、ニンゲンさんっ！？」
+【Nanashi】「Ah, Human-san!?」
+
+【Villager４】「Hieh!?」
+
+All the blood rushes to my head, and the men at the village glance towards me, surprised.
+
+I can't tell how long Konomi's been being raped for, but he seems completely exhausted, barely alive.
 
 
-【村人４】「ひえっ！？」
+【Villager１】「W-What, it's just you? Don't scare us like that」
 
-頭に血が登り急に飛び出した俺に、村の男たちも驚いたのかこちらに視線が集中した。
-
-コノミはどれほど犯されたのか、もうぐったりとしてしまっている。
+「L-Let the boy go!」
 
 
-【村人１】「な、なんだお前か。脅かすなよ」
+【Villager１】「Haah!?」
 
-「そ、その子を離せ」
-
-
-【村人１】「はぁっ！？」
-
-俺の要求に男たちは何を言われているのか理解できないというふうに、聞き返してきた。
+The man makes a confused noise in response. He seems genuinely confused by my actions.
 
 
-【村人１】「あぁ、初めて見るのか。こいつはエルフだ」
+【Villager１】「Oh, it's your first time seeing one of these. It's an elf.」
 
-「そんなことはわかっている。コノミを離せと言ってるんだ」
+「I know that. I said, let Konomi go.」
 
-情けないことに膝がガクガクと震えた。
-
-
-【村人１】「ひとつ聞くけど、コノミってのは誰だ？」
-
-「その子の名だ」
+Pathetically, my legs are trembling.
 
 
-【村人１】「へぇええええ、エルフにも名前なんかあるのか」
+【Villager１】「Who the hell is Konomi?」
 
-雑貨屋の息子は驚いた様子で片眉だけを上げた。
-
-
-【村人２】「おまえ、このエルフの知り合いなのか？」
-
-「あ、あぁ……」
+「Konomi is the name of that boy.」
 
 
-【村人１】「ってことは、何か。おまえ自分ひとりで儲けようとしてやがったのか」
+【Villager１】「Heeeeeeeeh? So elves have names, huh?」
 
-急に男たちのまとう雰囲気が剣呑なものになった。
-
-「儲ける……？」
+The general store owner's son raises an eyebrow, surprise.
 
 
-【村人４】「しらばっくれるんじゃねぇ！　エルフは街に持ってきゃ高く売れる！　そんなの常識じゃねぇか」
+【Villager２】「You know this elf?」
 
-「あっ……」
+「Y-Yeah...」
 
-そうか、こいつらコノミも売り飛ばすつもりで……。
 
-男たちが俺の方に詰め寄ってくる。すると森から飛び出してくる影があった。
+【Villager１】「So, what, you're trying to keep him to yourself so you don't have to share the money?」
 
-;SE se016	ドスン（蔦から落ちる）
+Suddenly, the men's atmosphere changes, growing dangerous.
+
+「Profit...?」
+
+
+【Villager４】「Don't play dumb! You know how much elves sell for! Everyone does!」
+
+「Ah...」
+
+Oh, they intend to sell Konomi off...
+
+The men move closer to me. Then, a shadow jumps out from the forest.
+
+;MCK
+;SE se017	草むらへ倒れる
+#se 1 se017
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
@@ -1285,18 +1418,18 @@
 
 ;ヒナタ
 #voice hina0328
-【ナナシ】「ニンゲンさんっ！」
+【Nanashi】Human-san!」
 
-飛び出してきたのはナナシで、ぎゅっと俺にしがみついてくる。
+Nanashi runs out, and jumps on to me, clinging to me.
 
 ;ヒナタ
 #voice hina0329
-【ナナシ】「ニンゲンさんはにんげんとケンカしちゃダメだよ、ニンゲンさん」
+【Nanashi】「Human-san, you shouldn't fight other humans!」
 
-「ナナシ……」
+「Nanashi...」
 
 
-【村人５】「なんだ、こいつ」
+【Villager５】「What's with him?」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
@@ -1304,28 +1437,28 @@
 
 ;ヒナタ
 #voice hina0330
-【ナナシ】「きゃっ！？」
+【Nanashi】「Gyaah!?」
 
-ヒョイっとナナシがつまみあげられた。
+One of the men grabs Nanashi's arm and lifts him into the air.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「あ、おいっ！」
+「H-Hey!」
 
 
-【村人３】「妙に耳が短いけど、こいつもエルフだろ？」
+【Villager３】「Is this guy an elf too? His ears are short.」
 
 
-【村人１】「てめぇ、一匹だけじゃなくエルフを隠してたのか」
+【Villager１】「Bastard, you mean you it wasn't just one? You were hiding a hoard all to yourself?」
 
-「隠してただなんて……そんな」
+「I wasn't hoarding them...」
 
 
-【村人２】「あぁ、それで急に森に移り住むなんて言い出したんだ。儲けを独り占めするために」
+【Villager２】「That explains why he suddenly moved to the forest. He wanted to make sure nobody found out so he could get the money.」
 
-今や男たちが俺に向ける目は憎悪の塊だった。
+The men are looking at me with outright hatred.
 
 ;FACE H02F2
 #face f_hin_0_02f2 94 466
@@ -1333,33 +1466,34 @@
 
 ;ヒナタ
 #voice hina0331
-【ナナシ】「はなしてっ！　はなしてってばっ！」
+【Nanashi】「Let me go! I said let me go!」
 
-ナナシがじたばたと暴れるが、俺よりもずっと屈強そうな男の手からはとてもじゃないが逃げられそうになかった。
-
-
-【村人１】「しかもナタなんか持ち出して、俺たちを殺して口を封じようって腹だな？」
-
-「い、いや、これは……」
-
-俺の弁明も聞かず、雑貨屋の息子はいきなり殴りつけてきた。
-
-;SE 殴る
+Nanashi kicks and struggles, but the man holding him is much larger than me
 
 
-【村人１】「ふざけるな、欲張り野郎！」
+【Villager１】「And, look, you even brought a weapon. Were you gonna kill us so we couldn't spill your little money secret?」
 
-「……っ！？」
+「N-No, I was...」
 
-硬い拳で殴られ、目の前を火花が飛んだ。
+Before I can even start to explain, the son of the general store owner attacks.
 
-;SE
+;SE 殴る se015	足音１
+#se 1 se015
 
-よろけたところで、鳩尾を思い切り蹴られた。
+【Villager１】「Don't fuck with me, you greedy piece of shit!」
 
-「ぐぶっ……！？」
+「...!?」
 
-思い切り急所に入って気が遠くなりかける。
+His fist slams into my face, making sparks flicker in my vision.
+
+While I'm dazed, he kicks me hard in the stomach.
+
+;SE 殴る se016	ドスン
+#se 1 se016
+
+「Gufuaah!?」
+
+Two direct attacks on my vitals in a row almost knock me unconscious.
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
@@ -1367,45 +1501,52 @@
 
 ;ヒナタ
 #voice hina0332
-【ナナシ】「ニンゲンさんっ！」
+【Nanashi】「Human-san!」
 
 
-【村人１】「こいつも、こいつも、俺たちがもらっていく。文句はないな？」
+【Villager１】「We're taking both of them. Got a problem with that?」
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
 
-
 ;ヒナタ
 #voice hina0333
-【ナナシ】「あるよ、もんくあるよっ」
+【Nanashi】「I do! I have a problem!」
 
-ナナシはじたばたしてるけど、男たちはそれを意に解す様子もない。
-
-
-【村人４】「よかったなぁ、コノミちゃん。お友達が来てくれたから少し休めるぞ」
+Nanashi keeps fighting, but the men don't even notice.
 
 
-【村人５】「俺たちの待ち時間が半分になるだけだけどな」
-
-男たちは楽しそうに下卑た笑い声を上げた。
+【Villager４】「Good for you, Konomi-chan. Now you'll have a friend to help you out, so you won't have to work as hard.」
 
 
-【村人１】「この間の長い髪のは、装身具も高く売れそうなのばっかりで良かったけど、あんな上玉はさすがにエルフでもめったにねぇのかな」
+【Villager５】「This new guy will cut the amount of time we spend waiting for our turns inhalf.」
+
+The men laugh, vulgarly.
 
 
-【村人４】「おいおい、そりゃ欲張りすぎってもんだろう？　これだけいりゃ、俺らみんなしばらく遊んで暮らせるぜ」
+【Villager１】「There's also that one with long hair from the other day, with all those expensive accessories. You don't run into a jewel that fine often, even amongst elves.」
 
+
+【Villager４】「Oioi, isn't this a little too much?　With this many elves, we'll all be living on easy street for a while.」
+
+;FACE H02F1_a
+#face f_hin_0_02f1_a 94 466
 ;ヒナタ
 #voice hina0334
-【ナナシ】「やだぁっ！　はなしてっ！」
+【Nanashi】「Nooo! Let me gooo!」
+
+;MCK
+;FACE K08F
+#face f_kon_0_08f 94 466
 
 #voice kona0227
-【コノミ】「もう、しないでぇ……休ませてよぉ〜……」
+【Konomi】「No more....let me reeest〜...」
 
+;FACE H02F1_a
+#face f_hin_0_02f1_a 94 466
 ;ヒナタ
 #voice hina0335
-【ナナシ】「ニンゲンさーん！」
+【Nanashi】「Human-saaaan!」
 
 ;暗転（スロー）
 ;#face off
@@ -1419,12 +1560,12 @@
 ;インターバル
 #wait 2000
 
-俺はといえば……倒れたままだんだん狭くなっていく視界を感じていた。
+I collapsed on the ground. My vision slowly faded..until everything goes dark.
 
 ;インターバル
 #wait 2000
 
-;『BADEND』表示後、タイトルへ
+;『BADEND』表示後,タイトルへ
 ;※エンド表示
 ;BG:BG61_1
 

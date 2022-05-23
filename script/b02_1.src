@@ -3,6 +3,9 @@
 ;※アイキャッチ表示
 ;;BG:bg35_1
 
+;スキップ禁止
+#waitcancel disabled
+
 #mes off fade
 #system off fade
 
@@ -24,6 +27,8 @@
 #system on flash
 
 ;MC
+;スキップ禁止解除
+#waitcancel enabled
 
 ;BGMch2 amb001 森１ 再生
 ;#se 0 amb001
@@ -37,160 +42,170 @@
 
 #face on
 
-「んー？　さっきのとこ辺りのはずなんだけど、この間のスライムの時のズレを計算に入れると……この辺か？」
+「Hmm?　It's supposed to be here...but the slime was off by about this much, so calculating that distance in too...maybe about here?」
 
-俺は本の地図を広げたまま首をかしげた。
+I tilt my head, studying the maps inside the open book before me.
 
-「でもこの地図、縮尺は結構いい加減みたいだからなぁ……」
+「Still, the scale this map uses seem to be rather inaccurate...」
 
-;CHR I02F L
-#cg イバラ iba_1_02f 左
+;CHR I01F L
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0065
-【イバラ】「おい、ニンゲン。さっきからお前何をブツブツ言ってるんだ？」
+【Ibara】「Oi, Human. What have you been muttering to yourself for the past little while?」
 
-「ちょっと計算してたんだよ。多分、ここでいいはず、なんだけど。でも花なんか生態系変わると繁殖地変わったりするしなぁ……」
+「Just a few calculations. They should be around here...But when the ecosystem changes, flowers change the places where they grow and bloom, too...」
 
 ;CHR H01F2 R
 #cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hinb0081
-【ヒナタ】「そだよ！　イバラ、けーさんはだいじなんだよ！　せーたいへーも！」
-
-#voice ibab0066
-【イバラ】「ヒナタ、お前わかって言ってるか？」
-
-#voice hinb0082
-【ヒナタ】「ううん、わかんない！」
+【Hinata】「That's right!　Ibara, he's calcoolating!　For the ecosistem!」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
+#voice ibab0066
+【Ibara】「Hinata, do you have any idea what those words mean?」
+
+#voice hinb0082
+【Hinata】「Nope, not at all!」
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
 #voice ibab0067
-【イバラ】「あ、そ……」
-
-;CHR H02F2 R
-#cg ヒナタ hin_1_02f2 右
-#wipe fade
-
-#voice konb0115
-【コノミ】「イバラこそ、ヒナタがわかってないってわかってたでしょ〜？」
-
-;CHR I01F L
-#cg イバラ iba_1_01f 左
-#wipe fade
-
-#voice ibab0068
-【イバラ】「当たり前じゃないか。だってこいつが偉そうに言ったことって、何一つまともに理解してたためしがないだろ？」
-
-#voice konb0116
-【コノミ】「じゃ〜、いちいち確認なんかしなくていいじゃない〜」
-
-;CHR ONのまま
-;#cg onのまま
-;#wipe fade
-;FACE T02F
-#face f_tuk_0_02f 94 466
-
-
-#voice tikb0069
-【ツキヨ】「け、喧嘩、ダメです……」
-
-;CHR H06F2 R
-#cg ヒナタ hin_1_06f2 右
-#wipe fade
-
-#voice hinb0083
-【ヒナタ】「えー！？　ケンカ？　コノミとイバラケンカしてるの！？　ケンカはダメだよっ！」
-
-;CHR I01F L
-#cg イバラ iba_1_01f 左
-#wipe fade
-
-#voice ibab0069
-【イバラ】「バカ、ケンカなんかしてないだろ！？」
-
-;CHR ONのまま
-;#cg onのまま
-;#wipe fade
-;FACE K01F1A
-#face f_kon_0_01f1a 94 466
-
-
-#voice konb0117
-【コノミ】「そうそう〜。ホントのこと言われるとすぐかっとなるのは、ただのイバラの癖だもんね〜？」
-
-#voice ibab0070
-【イバラ】「コノミ！　なんだよ、ほんとにケンカしたいのか！？」
-
-;CHR H08F2 R
-#cg ヒナタ hin_1_08f2 右
-#wipe fade
-
-#voice hinb0084
-【ヒナタ】「あはは、イバラおこったー！」
-
-#voice ibab0071
-【イバラ】「怒ってないっ！」
+【Ibara】「Ah, I see...」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-今日は小屋に残されていた地図を頼りに、エルフの里の近くにあるという花畑を探しに来た。
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
 
-小屋の周りが殺風景なので、よさそうな株があれば少しばかり植え替えてみたい。
+#voice konb0115
+【Konomi】「Ibara, you knew Hinata had no idea, didn't yooou〜?」
 
-いくら隠遁生活だってそのぐらいの心の潤いは必要だもんな。
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
 
-それに、もし珍しい花があれば村に持って行って売れるはずだ。
+#voice ibab0068
+【Ibara】「Of course. After all, despite how much confidence he speaks with, he almost never understands anything, does he not?」
 
-俺の村の言い伝えでは、山小屋より奥はもう魔物の住処だと信じられているからこのあたりまではさすがに村人も入ってこない。
+#voice konb0116
+【Konomi】「Theeen〜, you don't need to check every tiiimeee〜」
 
-いくら徒党を組んでいても、俺の小屋が見えるあたりまで来たら引き返すのがお約束になっている。
+;CHR ONのまま
+;#cg onのまま
+;#wipe fade
 
-だから、あんなところに居を構えようと思ったんだけど。
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+#voice tikb0069
+【Tsukiyo】「F-Fighting, is bad...」
+
+;FACE H06F2
+#face f_hin_0_06f2 94 466
+
+#voice hinb0083
+【Hinata】「Eeeh!? Konomi and Ibara are fighting! Fighting's bad!」
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0069
+【Ibara】「Fool, of course we aren't fighting!」
+
+;CHR ONのまま
+;#cg onのまま
+;#wipe fade
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice konb0117
+【Konomi】「Right, right〜. Ibara has a bad habit of getting upset whenever somebody tells him the truth, you knooow〜?」
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibab0070
+【Ibara】「Konomi!　Do you actually want to have a fight!?」
+
+;FACE H08F2
+#face f_hin_0_08f2 94 466
+
+#voice hinb0084
+【Hinata】「Ahaha, Ibara's mad!」
+
+#voice ibab0071
+【Ibara】「I am NOT!」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Today, I'm search of a flower field, supposedly near where the Elves are from, following the instructions in a map left in my cabin.
+
+The surroundings of my cabin are rather dreary, so I thought I would find something to spruce them up a little.
+
+While I do intend to live a life of solitude, having something pretty near the cabin to relax my heart is an absolute necessity.
+
+And, if there are any rare flowers, I could sell them for money in the village.
+
+俺の村の言い伝えでは,山小屋より奥はもう魔物の住処だと信じられているからこのあたりまではさすがに村人も入ってこない。
+
+いくら徒党を組んでいても,俺の小屋が見えるあたりまで来たら引き返すのがお約束になっている。
+
+だから,あんなところに居を構えようと思ったんだけど。
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0072
-【イバラ】「大体花だったら、さっきも咲いてるところあっただろう？」
+【Ibara】「大体花だったら,さっきも咲いてるところあっただろう?」
 
-「あれは普通の花だったからなぁ……」
+「あれは普通の花だったからなぁ...」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0070
-【ツキヨ】「お花、綺麗だったです」
+【Tsukiyo】「お花,綺麗だったです」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0118
-【コノミ】「お花が見たいなら、お花の近くに引っ越すのはどうかなぁ〜」
+【Konomi】「お花が見たいなら,お花の近くに引っ越すのはどうかなぁ〜」
 
-皆でワイワイ騒いでいたところで、急にヒナタがぴたりと動きを止めた。
+皆でワイワイ騒いでいたところで,急にヒナタがぴたりと動きを止めた。
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
-
 #voice hinb0085
-【ヒナタ】「んっ！？　ふんふん……あっ！」
+【Hinata】「んっ!?　ふんふん...あっ!」
 
-たっと、我先にヒナタが駆け出していく。
+たっと,我先にヒナタが駆け出していく。
 
-「あ、おい！　いきなり走り出したりしたら……」
+「あ,おい!　いきなり走り出したりしたら...」
 
-その先には……。
+その先には...。
 
 ;SMODE 010 PLAY
 #label replay010
@@ -213,9 +228,9 @@
 #wipe fade
 
 #voice hinb0086
-【ヒナタ】「あった！　あったよ、ニンゲンさん！」
+【Hinata】「あった!　あったよ,ニンゲンさん!」
 
-森を抜けた先に、ぽっかりと色とりどりの花が咲き乱れる花畑があった。
+森を抜けた先に,ぽっかりと色とりどりの花が咲き乱れる花畑があった。
 
 ;EVCG EV012A1
 ;#face off
@@ -229,43 +244,43 @@
 
 
 #voice tikb0071
-【ツキヨ】「キレイ、です」
+【Tsukiyo】「キレイ,です」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0119
-【コノミ】「わぁ〜、すご〜い！　お花の絨毯だぁ〜」
+【Konomi】「わぁ〜,すご〜い!　お花の絨毯だぁ〜」
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0073
-【イバラ】「すごい、いっぱい花が咲いてる！」
+【Ibara】「すごい,いっぱい花が咲いてる!」
 
 エルフたちははじかれたように勢いよく駆け出していく。
 
 ;FACE OFF
 ;#face off
 
-思い切り寝転んだり、しゃがみこんで花を揺らしたりと思い思いにはしゃぎ始めた。
+思い切り寝転んだり,しゃがみこんで花を揺らしたりと思い思いにはしゃぎ始めた。
 
-「な、なんだ、ここは……」
+「な,なんだ,ここは...」
 
-だけど、俺はいざ花畑を目の前にしても信じられない思いでいた。
+だけど,俺はいざ花畑を目の前にしても信じられない思いでいた。
 
-何だ、ここは？
+何だ,ここは?
 少なくとも人間の常識では考えられない。
 
-ウィスプノトモシビはもっと寒くならないと花をつけないはずだし、それと同じ時期に初夏に花開くウスゴロモが咲いているのもありえない。
+ウィスプノトモシビはもっと寒くならないと花をつけないはずだし,それと同じ時期に初夏に花開くウスゴロモが咲いているのもありえない。
 
-ハマビシャクはその名のとおり、砂地にしか咲かないのが特徴だし、真っ赤な綿帽子のようなクラウンパフは灼熱の太陽を必要とする南国の特産品だったはずだ。
+ハマビシャクはその名のとおり,砂地にしか咲かないのが特徴だし,真っ赤な綿帽子のようなクラウンパフは灼熱の太陽を必要とする南国の特産品だったはずだ。
 
 この花畑は季節感も気候も無視して咲き乱れていた。
 
-本にはそういう場所があるとは書かれていたけど、実際目にしてみると常識ではありえない光景に目眩がした。
+本にはそういう場所があるとは書かれていたけど,実際目にしてみると常識ではありえない光景に目眩がした。
 
 ;背景：花畑（昼）
 ;BG BG11_1
@@ -275,9 +290,9 @@
 
 #face on
 
-意味がわからなくて、俺はイバラを捕まえて聞いてみた。
+意味がわからなくて,俺はイバラを捕まえて聞いてみた。
 
-「お、おい。この花畑は一体どうなってるんだ？」
+「お,おい。この花畑は一体どうなってるんだ?」
 
 それこそ生態系とかどうなってるんだろう。
 
@@ -286,20 +301,20 @@
 #wipe fade
 
 #voice ibab0074
-【イバラ】「おかしなことを聞くな、ニンゲン。花が咲いてるから花畑というのだろう？　ニンゲンはここを探してたんじゃないのか？」
+【Ibara】「おかしなことを聞くな,ニンゲン。花が咲いてるから花畑というのだろう?　ニンゲンはここを探してたんじゃないのか?」
 
-「あ、あぁ……それはそうだけど……少なくとも俺が知ってる限りじゃ、ありえない咲き方をしてるんだ」
+「あ, aah...それはそうだけど...少なくとも俺が知ってる限りじゃ,ありえない咲き方をしてるんだ」
 
 #voice ibab0075
-【イバラ】「ありえない？　人間というのはすぐにありえないと現実から目をつぶる生き物らしいが、ニンゲンお前もそうなのか？」
+【Ibara】「ありえない?　人間というのはすぐにありえないと現実から目をつぶる生き物らしいが,ニンゲンお前もそうなのか?」
 
 #voice ibab0076
-【イバラ】「花なんて、咲きたいから咲いている。咲きたくなかったら咲かない。そういうものだろう？」
+【Ibara】「花なんて,咲きたいから咲いている。咲きたくなかったら咲かない。そういうものだろう?」
 
-「……エルフの世界じゃ知らないけど、人間の世界じゃ花が咲くのには季節や気候なんかが関係あるんだよ」
+「...エルフの世界じゃ知らないけど,人間の世界じゃ花が咲くのには季節や気候なんかが関係あるんだよ」
 
 #voice ibab0077
-【イバラ】「じゃ、花は人間の世界じゃ咲きたくないのかもな。ここはエルフの里に近いからエルフの世界と同じに咲いてるんだ、きっと」
+【Ibara】「じゃ,花は人間の世界じゃ咲きたくないのかもな。ここはエルフの里に近いからエルフの世界と同じに咲いてるんだ,きっと」
 
 #cg all clear
 
@@ -307,27 +322,27 @@
 #cg イベント ev012a1 背景
 #wipe fade
 
-イバラはそう言って、再び花畑に飛び込んでいった。
+イバラはそう言って,再び花畑に飛び込んでいった。
 
-取り残された俺は、ぽかんと皆がはしゃぐのをしばらく眺めていた。
+取り残された俺は,ぽかんと皆がはしゃぐのをしばらく眺めていた。
 
-咲きたいから、咲く……？
-咲きたくないから、咲かない……？
+咲きたいから,咲く...?
+咲きたくないから,咲かない...?
 
-なんだ、それは。
+なんだ,それは。
 そんな状態でどうやって繁殖してるんだ。
 
-「……って、せっかく来たのに見とれてるだけじゃもったいないよな」
+「...って,せっかく来たのに見とれてるだけじゃもったいないよな」
 
-この花たちがエルフのチカラで咲いているんじゃ、小屋の近くに植え替えても根付かないかもしれないけど……一日ぐらいなら持つだろう。
+この花たちがエルフのチカラで咲いているんじゃ,小屋の近くに植え替えても根付かないかもしれないけど...一日ぐらいなら持つだろう。
 
-うまく村まで運べれば、園芸好きの連中なんかに売りつけるといい金になるだろうし。
+うまく村まで運べれば,園芸好きの連中なんかに売りつけるといい金になるだろうし。
 
-それに、村近辺で見たことがないような株なら、少し生息地を広げてやったほうが繁殖しやすいかもしれない。
+それに,村近辺で見たことがないような株なら,少し生息地を広げてやったほうが繁殖しやすいかもしれない。
 
-持たなかったとしても、この不思議な花畑の謎を解明する手がかりの一端にはなるかもしれない。
+持たなかったとしても,この不思議な花畑の謎を解明する手がかりの一端にはなるかもしれない。
 
-俺はしゃがみ込むと、掘り起こせそうな株を探し始めた。
+俺はしゃがみ込むと,掘り起こせそうな株を探し始めた。
 
 ;背景：花畑（昼）
 ;BG BG11_1
@@ -337,19 +352,19 @@
 
 「うーん」
 
-珍しい花を、と思ったが、つい手入れのことを考えると、馴染み深い花の方にばかり目が行く。
+珍しい花を,と思ったが,つい手入れのことを考えると,馴染み深い花の方にばかり目が行く。
 
-熱帯で咲く花なんか、村に持ち帰っても咲くものだろうか。
+熱帯で咲く花なんか,村に持ち帰っても咲くものだろうか。
 
 見たこともない花なんかそもそもどうやって手入れしたらいいかわかんないしな。
 
 綺麗だけど毒草なんていうのも混ざっていないとも限らない。
 
-馴染みのある花にしたって、小屋の方に持っていった段階で一旦様子を見たほうがいいのか、枯れてしまう前に早々に売り抜けるか。
+馴染みのある花にしたって,小屋の方に持っていった段階で一旦様子を見たほうがいいのか,枯れてしまう前に早々に売り抜けるか。
 
 いっそ乾かして持っていったほうがいいかもしれないな。
 
-思案しながら、いくつかの株を丁寧に掘り返し、持ち運べるように土ごと根をぼろ布でくるんでいく。
+思案しながら,いくつかの株を丁寧に掘り返し,持ち運べるように土ごと根をぼろ布でくるんでいく。
 
 ;CHR H01F2 C
 #cg all clear
@@ -357,17 +372,17 @@
 #wipe fade
 
 #voice hinb0087
-【ヒナタ】「ねー、ニンゲンさんなにしてるの？」
+【Hinata】「ねー,ニンゲンさんなにしてるの?」
 
-「来るときに説明しただろう？　小屋の周りに少し花でも植えようと思ってるって」
+「来るときに説明しただろう?　小屋の周りに少し花でも植えようと思ってるって」
 
 #voice hinb0088
-【ヒナタ】「おー、いってた」
+【Hinata】「おー,いってた」
 
-「だから、持って帰る準備をしてるんだ」
+「だから,持って帰る準備をしてるんだ」
 
 #voice hinb0089
-【ヒナタ】「おー、それってむずかしい？」
+【Hinata】「おー,それってむずかしい?」
 
 「難しいってこともないけど」
 
@@ -377,7 +392,7 @@
 #wipe fade
 
 #voice ibab0078
-【イバラ】「人間が必要だと思うなら、手伝ってやってもいいぞ」
+【Ibara】「ニンゲンが必要だと思うなら,手伝ってやってもいいぞ」
 
 ;CHR K01F1A C
 #cg all clear
@@ -385,19 +400,21 @@
 #wipe fade
 
 #voice konb0120
-【コノミ】「うん、お手伝いしてあげる〜」
+【Konomi】「うん,お手伝いしてあげる〜」
 
 ;CHR T05F_L C
 #cg all clear
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0072
-【ツキヨ】「お手伝い？　何してる、です？」
+【Tsukiyo】「お手伝い?　何してる,です?」
 
-ヒナタが寄ってきた途端に、わらわらと皆が集まってきて手伝いに名乗りを上げる。
+ヒナタが寄ってきた途端に,わらわらと皆が集まってきて手伝いに名乗りを上げる。
 
-「とりあえず今日のところはまだ試しに、って段階だから、そんなに手伝ってもらうことはないんだけど……」
+「とりあえず今日のところはまだ試しに,って段階だから,そんなに手伝ってもらうことはないんだけど...」
 
 ;CHR OFF
 #cg all clear
@@ -406,7 +423,7 @@
 ;SMODE 010 STOP
 #endscene
 
-さて、誰に手伝ってもらおうかな。
+さて,誰に手伝ってもらおうかな。
 
 ;▼選択肢：４択
 

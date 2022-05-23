@@ -3,224 +3,238 @@
 
 ;背景：山小屋（昼）
 
-やはり『ヒミツ』などと言われれば、かえって気になるのが人情というものだろう。
+Konomi said what he was working on was a 'secret'. It's only natural I'd be curious.
 
-俺はまずコノミの様子を見ることにした。
+Therefore, I decided to check on him first.
 
-「で。コノミ、何作るのかな？」
+「Well, Konomi, what are you making?」
 
-こほん、と咳払いなどしつつコノミに近寄ると、コノミは俺を見上げて悪戯っぽく笑った。
+When I clear my throat and approach Konomi, he looks up at me, a mischevious smile on his face.
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0024
-【コノミ】「ん〜？　ふふふ、クサイモノ、かなぁ〜？」
+【Konomi】「Mnn〜?　Fufufu, something stinky, maybee〜?」 ;kusai/saiku
 
-「だから、クサイモノじゃなくて細工物だってば」
+「Like I said, it's stinky, it's woodworking.」
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0025
-【コノミ】「いいんだよ〜、ボクが作るのはクサイモノだから〜。だってニンゲンくん、好きなものを作れっていったでしょ〜？」
+【Konomi】「It's all goood〜, what I'm making is stinky after aaaalll〜. You said to make what we like, right Human-kuuuun〜?」
 
-そんなことを言いながら笑うコノミの手元にあるのは、少し曲がりくねった大きめの木の塊だ。
+Konomi grins as he says that. In his hands is a large, lumpy, twisted block of wood.
 
-「そりゃま、言ったけどさ……」
+「I suppose I did...」
 
-コノミの好きなくさいもの、ってなんだ？
+So what Konomi likes is something that smells?
 
-肉なんかの匂いは臭いらしいけど、それらは好きどころかむしろ苦手みたいだし……。
+Let me think....meat smells, but I'm fairly certain that Konomi hates meat...
 
-「……何作ろうとしてるの？」
+「...What are you making?」
 
 ;CHR K01F2A C
 #cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice konb0026
-【コノミ】「ん〜？　当ててみて〜？」
+【Konomi】「Mnn〜?　Can't you tell〜?」
 
-「わからないから聞いてるんだよ。降参。教えてよ、コノミ」
-
-;CHR K01F2B C
-#cg コノミ kon_1_01f2b 中
-#wipe fade
-
-#voice konb0027
-【コノミ】「しょーがないなぁ〜、じゃあ、教えてあげよっかなぁ〜」
+「I have no idea, that's why I'm asking. I surrender. Tell me, Konomi.」
 
 ;CHR K06F C
 #cg コノミ kon_1_06f 中
 #wipe fade
 
+#voice konb0027
+【Konomi】「I suppose I don't have a choiceee〜,- I guess I'll tell you theeen〜」
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
 #voice konb0028
-【コノミ】「やっぱり〜、やめとこっかな〜」
+【Konomi】「Or maybeee〜, I shouldn't〜」
 
-コノミは楽しそうにくねくねと身をよじっている。
+Konomi giggles, happily wriggling his body.
 
-「教えてよ」
+「Just tell me.」
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0029
-【コノミ】「ん〜とね、ニンゲンくんに関係あるの〜」
+【Konomi】「Mnn〜, well, it has something to do with you, Human-kun〜」
 
-「俺に？」
+「With me?」
 
 #voice konb0030
-【コノミ】「うん、そう〜」
+【Konomi】「Yep, that's riiight〜」
 
-って言われても、コノミが手にしている木は、まだほとんど切り分けたままで……こんなふうにくねった形をしてるものといえば……。
+The way that the piece of wood that Konomi's holdign is carved...what has this sort of curved shape...
 
-「魚？」
+「A fish?」
 
-;CHR K06F C
-#cg コノミ kon_1_06f 中
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0031
-【コノミ】「はっずれ〜」
+【Konomi】「Wrooong〜」
 
-「う〜ん？　じゃあ、なんだ？」
+「Hm〜?　Then what?」
 
-コノミはもったいぶるみたいに俺を上目遣いで見つめてきた。
+Konomi glances up at me with upturned eyes.
 
-「……なに？」
+「...What?」
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice konb0032
+【Konomi】「The right answer is〜, a model of Human-kun's penis〜, fufufufu‾」
+
+「Wha-!?」
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
-#voice konb0032
-【コノミ】「正解はねぇ〜ニンゲンくんの、おちんちん〜ふふふふふ」
-
-「なっ！？」
-
-;CHR K01F2B C
-#cg コノミ kon_1_01f2b 中
-#wipe fade
-
 #voice konb0033
-【コノミ】「ボクねぇ〜、ニンゲンくんのおちんちんだぁいすきなんだよ？　だから頑張って作るんだぁ〜」
+【Konomi】「You know〜, I love your penis, right Human-kun? So I worked hard to carve it〜」
 
-だぁいすき、なんて言われるのは嬉しいが、局部だけと限定されると奇妙な気分だ。
+I-I'm glad he says that he loves it, but that he's chosen this particularly part alone to love gives me rather complicated emotions.
 
-俺の価値はちんちんだけか。
+Is my only part of value my dick?
 
-「そ、そんなもの作るなよ！」
+「D-Don't make THAT!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;CHR T04F C
-#cg ツキヨ tuk_1_04f 中
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0022
-【ツキヨ】「ふぇ……ご、ごめんなさいです」
+【Tsukiyo】「Fueh...I-I'm so sorry...」
 
-珍しく何か話しかけようとしたのか、服の裾をつかもうとしていたツキヨが飛び上がってしまった。
+ I accidentally raised my voice, scaring Tsukiyo, who thought I was talking to him, so much he jumps in the air.
 
-「あ、いや……ツキヨに言ったわけじゃなくて……」
+「No, uh...I wasn't talking to you, Tsukiyo...」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0023
-【ツキヨ】「違う……です？」
+【Tsukiyo】「Not......me?」
 
-キョトンとしているツキヨに慌てて話を聞く。
+I try to calm down the panicking Tsukiyo.
 
-「そうそう。なにか聞きたいことがあるんだろ、ツキヨ？」
+「Of course not. Did you have anything you wanted to ask me, Tsukiyo?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0024
-【ツキヨ】「これ、うまくできないです。途中で折れちゃうです」
+【Tsukiyo】「This part, I can't seem to get it right. It breaks when I try.」
 
-差し出されたそれは、虫の形をしていた。なかなか精巧にできているせいで、細かく割れてしまっているのがまるで羽をむしられでもしたような無残さだ。
+He offers me a piece of wood carved into the shape of an insect.  It's very well made. There's an attempt to make wings on the back, although they're cracked and awkward.
 
-「……あぁ、忠実に羽や足まで再現しようとしたのか。それは確かに木じゃ無理だろうな……」
+「...Oh, you're trying to accurately recreate wings and legs, eh? That's quite difficult to do when woodworking...」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0025
-【ツキヨ】「できない、です？」
+【Tsukiyo】「It's not, possible?」
 
-不安そうにツキヨが見上げている。
+Tsukiyo looks up at me, concerned.
 
-「いや、胴体のところに模様みたいに彫り込む形ならできるんじゃないかな？」
+「No, it's possible. But instead, why not try to carve it as a pattern into the wood, instead?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0026
-【ツキヨ】「……なるほど、です」
+【Tsukiyo】「...I, see.」
 
-「ほら、こうやってさ……こういう部分はくっつけたまんま……」
+「See, just like this...take this part, and do it like so...」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0047
-【イバラ】「うわっ！？　これ虫みたい！　何これ、気持ち悪い！」
+【Ibara】「Uwaaah!?　What is this? It looks like an insect! Disgusting!」
 
-見せながら説明していたら横から覗き込んできたツバキが驚いたみたいに身を引く。
+Ibara, curious to what I was up to, peeked around me to get a closer look, and let out a shocked exclamation.
 
 #voice tikb0027
-【ツキヨ】「虫、です……ツノカブト……です……」
+【Tsukiyo】「It's, a bug...a rhinocerous beetle...」
 
-イバラが驚くのも無理はないか……恐るべき再現度の高さだもんな。
+I understand why Ibara's surprised...it does look pretty faithful to the real insect.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0058
-【ヒナタ】「ツキヨじょうずだねぇ！　すっごい！」
+【Hinata】「You're so good, Tsukiyo! Amaziiing!」
 
-「こんなバラバラでも何を作ろうとしてたのかはわかるのは、たいしたもんだよね」
+「It's actually impressive that I can tell you what you were trying to make despite how messy it is, Hinata. Good job.」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0048
-【イバラ】「うぇええええ、なんでそんな変なの作るんだ？」
+【Ibara】「Ueeehhh, why would you make something so revolting?」
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0028
-【ツキヨ】「好き、だからです……ツノカブト」
+【Tsukiyo】「Because, I like them...rhinocerous beetles.」
 
-「そっか。ツキヨは虫が好きなんだね」
+「I see, so you like insects, Tsukiyo?」
 
-こくりとツキヨは頷いた。
+Tsukiyo nods slightly.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0029
-【ツキヨ】「マルムシとか、ツノカブトとか、ピカピカしててかっこいい……です……」
+【Tsukiyo】「I like round ones...and rhinocerous beetles...and sparkly ones...」
 
-なんというかこの反応は心洗われるなぁ。
+This reaction is...heartwarming.
 
 ;CHR OFF
 #cg all clear
@@ -231,37 +245,37 @@
 #wipe fade
 
 #voice konb0034
-【コノミ】「ニンゲンくん、好きなもの作れって言ったもんね〜？　ボクも好きなの作るんだ〜」
+【Konomi】「Human-kun said to make what we like, right〜?　So I'm making what I like too〜」
 
-「それで俺のちんちんかよ……」
+「...You mean my penis.」
 
 ;CHR K09F1 C
 #cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0035
-【コノミ】「うん！」
+【Konomi】「Yep!」
 
-コノミが好きなのはちんちんだけかよ。
+Is the only thing you like my dick, Konomi?
 
-しかも臭いとか散々な言われようだったような……。
+...And you said it was stinky too, didn't you...
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0036
-【コノミ】「じゃあ、ボクは〜ひとりで頑張って作るからぁ、邪魔しないでね〜？」
+【Konomi】「Then, I'll work hard by myself〜, so don't interefere, okaaay〜?」
 
-コノミはそう言って楽しそうに大まかな形を削り始めた。
+Konomi cheerfully resumes carving the wood into a rough shape.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……なるほど、それで少し曲がった木を選んだのか。言われてみればよく特徴を掴んで……。
+...So that explains why he asked for a long, slightly curved piece of wood to carve. Pretty smart...
 
-「……って、何を感心してるんだよ、俺！」
+「...Wait, why am I admiring him!」
 
 ;CHR H04F2 L
 #cg ヒナタ hin_1_04f2 左
@@ -270,62 +284,62 @@
 #wipe fade
 
 #voice hinb0059
-【ヒナタ】「ニンゲンさん、どしたの？」
+【Hinata】「Human-san, hat's the matter?」
 
-「なんでもない……さ、ヒナタやイバラもわからないところがあったら聞いてくれよ？」
+「Nothing...Hinata, Ibara, don't be afraid to ask if you have any questions, okay?」
 
 ;CHR H07F L
 #cg ヒナタ hin_1_07f 左
 #wipe fade
 
 #voice hinb0060
-【ヒナタ】「はーい！」
+【Hinata】「Yeesss!」
 
 #voice ibab0049
-【イバラ】「ふん！　ボクにはわからないところなんて……あれ、ここどうやったら……」
+【Ibara】「Hmph! As if I would ever not know how to....wait, how do I do this...」
 
 ;CHR I08F R
 #cg イバラ iba_1_08f 右
 #wipe fade
 
-「あぁ、ここに縦に切れ目を入れてから彫るといいよ。こんなふうに」
+「Ah, you want to carve this spot like this, actually.」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0050
-【イバラ】「そ、そんなの、わかってた！」
+【Ibara】「I-I obviously knew that!」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0030
-【ツキヨ】「ツノカブトみたく、ツヤツヤできるです？」
+【Tsukiyo】「How do I make the shell look glossy like a real beetle?」
 
-「丁寧に布で磨けばいいよ。トゲを刺さないように気をつけて」
+「Just take a rag and polish it. Be careful to not get a splinter.」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0031
-【ツキヨ】「はいです」
+【Tsukiyo】「Understood.」
 
-他のエルフたちにも適宜助言しながら、俺は売れるものを作るのに集中することにした。
+I concentrate on my own work, that I intend to sell later, while occasionally giving advice to the elves as needed.
 
-気にするな。エルフたちの中でもコノミの言動が一番突拍子もないのは今に始まったことじゃない。
+I'm definitely, certainly not worried. This is far from the first time Konomi's behaviour has been the most outrageous of all the elves.
 
-気にしたら負けだ。
+If I worry, I lose.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-しかし、くるり、とコノミに背中を向けては見たものの、そちらから感じる瘴気というか、異様な圧迫感で気になってしょうがない。
+But as I try to focus, my back turned to Konomi, I feel a miasma of anxiety enveloping me, and I grow extremely concerned that he might mess something up without me checking on him.
 
-……これでコノミがすごく器用で完全に寸分違わず再現されてたりしたら嫌だな。
+...And, worst of all, he might actually create an anatomically correct 1:1 model.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -346,7 +360,7 @@
 #bg BG08b_2
 #wipe fade
 
-夕方になると、ヒナタ達はもうすっかり飽きてしまったのか、作業を放り出して遊びに行ってしまった。
+By the time evening rolls around, Hinata and the others seem to have grown bored of woodworking, and they head out to play outside.
 
 ;BGMch2 amb001 停止
 #bgvoice stop
@@ -366,149 +380,149 @@
 #bg BG07b_1
 #wipe fade
 
-作りかけのものぐらいは仕上げておいてあげるか。
+Have they all finished what they wanted to make?
 
-ただ、予想外なことに、コノミだけがまだ熱心に作業を続けている。
+...Surprisingly, Konomi alone continues passionately working on his project.
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0037
-【コノミ】「ん〜ふふふ、んふ〜♪」
+【Konomi】「Mnn〜, fufufu, mfuh〜♪」
 
-「…………」
+「......」
 
-ずいぶん楽しそうだ。
-あれ、俺のちんちんを彫ってるんだよな。
+He seems to be enjoying himself.
+...Oh, wait, he's carving my penis, isn't he.
 
-…………
-…………
+......
+......
 
-……あまり深くは考えないようにしよう。
+...I won't think too hard about it.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-とりあえずコノミは無視して、ヒナタ達の残していったものを仕上げ、自分の作業に没頭することにした。
+I ignore Konomi, clean up the three other elves' mess, and then head back to my own work.
 
-ヒナタはまぁ予想通りとして、イバラとツキヨは案外器用なんだな……。
+Hinata's was well...what I expected...but Tsukiyo and Ibara's are quite well made.
 
-しかし、ヒナタが作ってたの、なんだこれ……？
-明日にでも戻ってきたら、本人に聞いてみるか。
+What was Hinata even trying to make...?
+I'll ask him when he comes back tomorrow.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0038
-【コノミ】「できたよ〜」
+【Konomi】「I'm doooone〜」
 
-しばらくすると、コノミが嬉しそうな声を上げた。
+After a little while, Konomi cheerfully exclaims that he's finished.
 
-「……」
+「...」
 
-気になるけど、見せてって言いたくない。
+I'm very curious as to the result...but I don't want to admit it.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0039
-【コノミ】「ほら〜、ニンゲンくん。見てもいいよ〜、上手に出来たでしょ〜？」
+【Konomi】「Heyyy〜,Human-kun can look if you want〜, I did a pretty good job〜?」
 
-「うっ……」
+「Uh...」
 
-そう言いながらコノミが突き出してきたのは、どう見てもいかがわしい行商人とかが持ってくる張り型だった。
+What Konomi holds out in front of him looks like something that would be sold by a merchant of very dubious origin.
 
-勃起した時の男性器がテカっている様子まで、見事に再現されている。
+It's an excellent, almost perfect, reproduction of my erect genitals.
 
-形は曲がり方もカリの張り具合も、俺のモノの特徴をよく捉えているような気がする。
+The shape, the curvature, they all recreate my own phallus nearly exactly.
 
-ただ、俺のものよりは、そのいささか……。
+However, if I had to state one flaw...
 
-思わずコノミが手にしたそれと、股間を見比べてしまう。
+I can't help but compare Konomi's work to my own crotch.
 
-「……膨張時なら、もう少し大きい、と思うのは俺のうぬぼれではないよね？」
+「...Would it be arrogant if I said I think mine is slightly larger?」
 
 ;CHR K01F2A C
 #cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice konb0040
-【コノミ】「うん。ピカピカにしようと思ったら、ニンゲンくんのより小さくなっちゃったよ〜」
+【Konomi】「Yep. I almost got it perfect, but it is a little small〜」
 
-「だよな……」
+「Yeah...」
 
-少しほっとした。こんなに小さかったと思われていたら落ち込む。
+I'm a little relieved. If my own phallus was this small, I would've been somewhat depressed.
 
-曲がった形にカリがついているが、その表面は実になめらかに磨き上げられている。
+The model glistens, polished to a brilliant sheen.
 
-よく磨き込まれた艶やかさが、あからさまにいかがわしい。
+The excellent sheen of a good polishing just makes it look even more dubious, however.
 
-「……よくここまで磨いたな」
+「...You must've spent some time polishing it.」
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0041
-【コノミ】「だって、チクチクしたら入れるとき痛いでしょ〜？」
+【Konomi】「I mean, if I didn't get it nice and smooth, it'd really hurt when I put it in, riiight〜?」
 
-「やっぱり入れるつもりで彫ってたのか」
+「...So that really was why you carved it, huh.」
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0042
-【コノミ】「うん、そうだよ〜？」
+【Konomi】「Yep. Wasn't it obvious〜?」
 
-なるほど、実用性を考えたのか……と妙な感動さえ覚えた。
+I see. So even as he was making it, he was thinking about how best to use it practically...I'm strangely impressed.
 
-しかし、いやらしいとか興奮する以前にどうにも脱力してしまうのは否めない。
+But the thought is honestly more exhausting than it is arousing or exciting.
 
 ;CHR K09F2 C
 #cg コノミ kon_1_09f2 中
 #wipe fade
 
 #voice konb0043
-【コノミ】「これでニンゲンくんがいなくても、気持ちいいことできるね〜」
+【Konomi】「This way, even when you're not around, Human-kun, I can still have lots of fun〜」
 
-実に嬉しそうに無邪気にコノミは言った。
+Konomi says, cheerfully, and completely innocently.
 
-コノミがあまりに嬉しそうなので、やっぱり俺の価値がちんちんだけだと言われたような気がして、カチンときた。
+Konomi seems so happy that it almost makes me feel like the only part of me he cares about is my penis, which is somewhat upsetting.
 
-「……試してみれば」
+「...So then why don't you try it, if you like it so much.」
 
-俺はそっけなく応えて、道具や残った資材を片付け始めた。
+I respond rather brusquely, cleaning up the remaining tools and materials.
 
-……別に怒るようなことではないのは分かっているが、自分を物と比べられたのも面白くない。
+...I'm not particularly mad, but having my penis compared to a wooden replication isn't particularly enjoyable, either.
 
-俺ってちょっと心狭いかもしれない。
+Maybe I've got a rather small heart.
 
 ;CHR K06F C
 #cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0044
-【コノミ】「あ、ここ、ちくっとしたぁ〜。まだトゲあったみたい〜」
+【Konomi】「Ah, it stings a bit here〜, there must still be some splinters〜」
 
-……悪気はないんだよな。
+...I know he doesn't mean any harm by it.
 
-再び熱心に木製の張り型を磨き始めたコノミを横目に就寝準備をして、床に入ることにした。
+I lie on the floor, getting ready to go asleep, watching Konomi, who's once again polishing the wooden sculpture with zeal.
 
-「もう、明かり消すよ」
+「I'm putting out the light」
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0045
-【コノミ】「うん、いいよ〜。お月様が明るいから明かりは無くても大丈夫〜」
+【Konomi】「Sure, go ahead〜, the moon's bright enough, so I won't have a problem〜」
 
-まだ、磨き続けるつもりか。もう好きにしてくれ。
+So he still wants to keep polishing it? ...Well, he can do what he likes.
 
 ;CHR OFF
 #cg all clear
@@ -520,14 +534,14 @@
 #bg BG07b_3
 #wipe fade
 
-俺は明かりを消すと、コノミにかまわず目をつぶった。
+I put out the light, and close my eyes, ignoring Konomi, who's still hard at work.
 
 #voice konb0046
-【コノミ】「うんしょ、うんしょ〜」
+【Konomi】「And there, and there〜」
 
-いつまで磨くつもりなんだろうな。
+How long does he intend to keep polishing it?
 
-……くそ、気になる。
+...Dammit, it's bothering me.
 
 ;暗転
 ;#face off
@@ -535,10 +549,9 @@
 #cg all clear
 #bg black
 #wipe fade
-;
 
 #voice konb0047
-【コノミ】「んあぁあああああ〜、ニンゲンくんのおちんちん気持ちいいよぉ〜……」
+【Konomi】「Mnaaaaaaaaaahh〜, Human-kun's penis feels so goooood〜...」
 
 ;SMODE 009 PLAY
 #label replay009
@@ -550,6 +563,9 @@
 #bg BG07b_3
 #wipe fade
 
+#bgm 0 07
+
+
 ;ＥＶ絵――EV???『大人のオモチャ』
 
 ;EVCG EV011A1
@@ -558,396 +574,430 @@
 #cg イベント ev011a1 背景
 #wipe fade
 
-夜も更け、ウトウトとし始めた頃、艶かしい喘ぎ声に起こされた。
+Much later that night, I'd fallen into a light doze, when I was woken by seductive moans from nearby.
 
-「本当にやってるのか……」
+「Is he actually...」
 
-バッチリ目は覚めたが、声をかけるのはためらわれ、俺は月明かりの下、うっすらと目を開けコノミの痴態を覗き見た。
+My eyes snapped open, but I hesitated to speak, when I saw Konomi masturbating under the moonlight.
 
-コノミは可愛らしいすぼまりに手製の張り型を飲み込ませ、自分で自分のちんちんを刺激していた。
+Konomi was sliding the wooden phallus deep inside his own tight, adorable entrance, stroking his own penis at the same time.
 
-おぼつかない手つきはもどかしいのか、時折自分の陰茎をギュッと掴んでしまっている。
+Perhaps he's not quite good enough at moving his hands to stimulate himself right, because he seems frustrated, sometimes 
 
 #voice konb0048
-【コノミ】「手作りちんちん、本物よりかたぁい〜……うふふふふふ……」
+【Konomi】「This handmade penis even harder than the real oneeee〜...ufufufufufu...」
 
-ゆっくりと出し入れされる木製の棒は、何かをまぶしてあるのかテカって見えた。
+As he thrust the wooden shaft in and out of him, it glistened under the moonlight, as if it was coated with something.
 
 #voice konb0049
-【コノミ】「あぁ……気持ちいいとこ、グリグリしてるぅ〜」
+【Konomi】「Aah...it's rubbing against all the good spots〜」
 
-コノミは自分自身をじらすことを楽しんでいるかのように、体中に手を這わせた。
+Konomi seems to be enjoying teasing himself, as his hands run all along his body.
 
 ;EVCG EV011A2
 #cg イベント ev011a2 背景
 #wipe fade
 
+#se 1 se021
+
 #voice konb0050
-【コノミ】「はぁああああん、おしりの穴いいよぉ〜……固いのズポズポすると気持ちいい〜」
+【Konomi】「Haaahhhn, my butthole feels so goooood〜...this hard thing thrusting in and out feels so goooood〜」
 
-時折、びくっと体を痙攣させて手を止めてしまいながら、コノミは行為に没頭しているように見えた。
+Konomi seems completely absorbed in what he's doing, although sometimes his body spasms and his hands stop moving for a little while.
 
-ごく……。
+*gulp*...
 
-自分がつばを飲む音がやけに高く聞こえる。
+The sound of me drinking my own saliva sounds extremely loud.
 
 #voice konb0051
-【コノミ】「あぁ〜やっぱりおしり気持いい〜。おちんちんもすごくいいよぉ〜はぁんっ」
+【Konomi】「Aaah〜, my butt really does feel so goood〜, my penis feels so goood toooooo〜 haaahhn〜!」
 
-自分で自分を快楽の淵へと追い込んでいくさまは、組み敷いた時とも違って、とてつもなくいやらしかった。
+The way he plunges himself into the depths of pleasure is completely different from how he acted when I pinned him down and forced myself upon him. The sight is incredibly arousing.
 
 ;EVCG EV011A3
 #cg イベント ev011a3 背景
 #wipe fade
 
 #voice konb0052
-【コノミ】「……むぅ〜、でも、手２本じゃ足りないし、おちんちん動いて欲しいよぉ……」
+【Konomi】「...Muu〜, but two hands just aren't enough, I want the penis to moveeeee...」
 
 ;EVCG EV011A2
 #cg イベント ev011a2 背景
 #wipe fade
 
-快楽に蕩けたコノミの視線がこちらに向けられ、目が合う。
+Konomi, his face rapt with pleasure, glances over to me, and our eyes met.
 
-ぎくりと心臓が跳ね上がった。
+I feel my heart jump up in my chest.
 
-コノミは俺がさっきから見ていたのに気づいていた……？
+Has Konomi known I've been watching for a while...?
 
 #voice konb0053
-【コノミ】「ニンゲンくぅん〜……やっぱりニンゲンくんにしてもらうほうが気持ちいいみたい……」
+【Konomi】「Human-kuuuuun〜...It really does feel better when you do it, Human-kun...」
 
 #voice konb0054
-【コノミ】「ねぇ〜、ニンゲンくん。気持ちいいことしてよぉ〜」
+【Konomi】「Pleaseee〜,Human-kun, let's do stuff that feels really gooood〜」
 
-鼻にかかった甘い声でコノミが俺を呼ぶ。
+Konomi calls out for me in a sweet voice, breathing through his nose.
 
 #voice konb0055
-【コノミ】「ねぇ〜ニンゲンくぅん……」
+【Konomi】「Heeyyy〜, Human-kuuuuun...」
 
-俺を呼ぶ間にもコノミの手は休むことなく、尻穴にくわえ込んだ擬似男根を動かしている。
+#se 1 se021
+
+Konomi's hands don't stop even as he calls out to me, thrusting the psuedo-phallus deeper into his anus.
+
+#se 1 se021
 
 #voice konb0056
-【コノミ】「ねぇ〜聞こえてるんでしょ〜、ニンゲンく〜ん。だって、さっきから、はぁはぁしてるの聞こえるよぉ〜？」
+【Konomi】「Heeyy〜 I know you can hear meeeee〜, Human-kuuuun〜, I've been able to hear you panting for a while, you knooowww〜?」
 
-「っ！？」
+「!?」
 
-俺は思わず寝返りをうったふりをして、今更口を押さえ込んだ。
+I quickly pretend to just be tossing in my sleep, and clamp a hand over my mouth to muffle the sounds of my reathing.
 
-そんなに息が荒くなっていただろうか。
+Was I really breathing that hard?
 
-我ながら熱く湿った息が手のひらに当たる。
+I can feel my breath, hot against my palm.
 
 #voice konb0057
-【コノミ】「起きてるよねぇ〜？　ボク、ニンゲンくんが欲しいのに、どうしてくれないの〜？　自分でしても、上手にできないよぉ〜？　んっ……」
+【Konomi】「I know you're awakeeee〜? I want you to do me so badly, Human-kun, so why won't youuuu〜?　I just can't do it right by myself, you knooowww〜?　Mn...」
 
-どきんどきんと胸がやけに脈打つ。
+I can feel my heart pounding hard in my chest.
 
 ;EVCG EV011A3
 #cg イベント ev011a3 背景
 #wipe fade
 
-#voice konb0058
-【コノミ】「あぁ……あはぁ……ん……もっと気持ちよくなりたいのに、気持ちよくなってくると、手が止まっちゃうの〜」
+#se 1 se021
 
-甘く誘い続けるコノミの声。合間合間にくちゅくちゅと自分の手で、自分の尻穴をかき混ぜる音が、俺の情欲を煽り立ててくる。
+#voice konb0058
+【Konomi】「Aah...ahaa...mn...I want to feel even better, but every time I get close, my hands stop〜」
+
+Konomi's sweet, seductive voice, and the squelching noises made by his hands manipulating the wooden penis to thrust inside his anus, fire up the flames of my lust.
 
 ;EVCG EV011A2
 #cg イベント ev011a2 背景
 #wipe fade
 
 #voice konb0059
-【コノミ】「ねぇ、ニンゲンく〜ん。ニンゲンくんがしてくれなきゃ、ボクイケないよぉ〜」
+【Konomi】「Hey, Human-kuuun〜, I need you to do it, Human-kun, it has to be youuu〜」
 
-駄目だ。コノミはどうしても俺が相手をしなければ我慢ならないらしい。
+It's no good. It seems that Konomi won't be satisfied unless I become his partner.
 
-……別に拒む理由はひとつもないけど、盗み見をしていたのを知られたのが気まずい。
+...I don't particularly have a reason to refuse, but it is awkward that he knows I was peeping on him.
 
 #voice konb0060
-【コノミ】「はぁん……ひとりじゃ上手にできないよぉ〜、ニンゲンくん、してしてぇ〜……」
+【Konomi】「Haahn...I can't do it well enough on my oowwn〜,Human-kun, do me, do meee〜...」
 
-吐息混じりの声が俺を誘う。
+His aroused moans are tempting.
 
-「仕方ないな……」
+「Guess I don't have a choice...」
 
 ;SE 起き上がる
 
-俺は、やれやれといかにも億劫な風を装って身を起こし、コノミに近づいた。
+I get up, and walk over to Konomi, affecting that I'm uninterested and only doing this out of obligation.
 
-「せっかく作ったのに、もう使わなくていいの？」
+「You worked so hard to make this, and it's not good enough?」
 
-俺はコノミの後孔に刺さったままの擬似性器を掴み、不規則に抜き差しする。
+#se 1 se021
 
-;SE
+I grab the wooden penis, still inside Konomi's anus, and begin randomly thrusting it in and out.
 
-くぱぁっとすっかり解されたそこは、柔らかく広がって奥深くまで偽物のチンチンを飲み込んでしまう。
+#se 1 se021
+
+His loosened, ready hole easily accepts the false penis deep inside him.
 
 ;EVCG EV011A1
 #cg イベント ev011a1 背景
 #wipe fade
 
 #voice konb0061
-【コノミ】「やっ……あっ……あぁんっ……硬いけど、硬いだけじゃダメだったの〜。でも、ニンゲンくんにしてもらったら気持ちいい〜」
+【Konomi】「Noo...ah...aahhn...It's hard, but just being hard isn't enough〜, but when Human-kun does it it feels really good.〜」
 
-コノミは乱暴なぐらいの俺の愛撫に嬉しそうに身を震わせた。
+Konomi's body spasms with joy in response to my rough movements.
 
-「そうなの？　偽物のおちんちんでも気持ちよくなってるんじゃないの？　コノミの可愛いおちんちん、もうパンパンになってるよ」
+「Are you sure? You sure you aren't loving this wooden penis? Your cute little penis is all puffed up, Konomi.」
 
-指先で張りつめたそれを撫でてあげると、別の生き物のように嬉しそうに応えてくる。
+When I stroke the tip of his penis with one finger, it bounces, happily responding like it's a separate living being.
 
 ;EVCG EV011A3
 #cg イベント ev011a3 背景
 #wipe fade
 
 #voice konb0062
-【コノミ】「あっ……そんなそっと〜……もっと強くシコシコしてぇ〜」
+【Konomi】「Ah...that's too soft〜...stroke it hardeeers〜」
 
-「どうしようかな？　そんなことしたらひとりでいっちゃうんじゃない？」
+「Should I? But if I do that, won't you feel good and cum on your own?」
 
-つんつん、とつつくだけにとどめているとコノミはねだるように腰をくねらせた。
+I tease Konomi, lightly poking at his penis, and he wriggles his hips, begging.
 
 #voice konb0063
-【コノミ】「意地悪しちゃやだァ〜。気持ちよくなりたいの〜」
+【Konomi】「Don't bully meee〜, I wanna feel gooood〜」
 
-「自分ひとりでイっちゃうなんてやらしいなぁ」
+「You want to cum by yourself, huh? What a naughty boy you are.」
 
 ;EVCG EV011A1
 #cg イベント ev011a1 背景
 #wipe fade
 
 #voice konb0064
-【コノミ】「ふふふ……でもぉ〜、意地悪してもいいよ〜？　自分でわかんないことされる方が、気持ちいいから〜」
+【Konomi】「Fufufu...buuuutt〜, I love it when you bully me too, you knooww〜?　Because having things I don't understand done to me feels really gooood〜」
 
-「なに、それ」
+「What's that mean?」
 
-わかるようなわからないような言葉に、半分笑いながら聞き返すと、コノミもいたずらっぽく笑い返してくる。
+I half-smiled in response to Konomi's confusing statement, and Konomi himself smiled mischeviously in response.
 
 #voice konb0065
-【コノミ】「んーとね。自分で作ったの、自分で入れて、自分でおちんちんしゅこしゅこするでしょ〜？　そうすると、どうしたら気持ちいいかわかっちゃうの〜」
+【Konomi】「Well, it's like, I made this, and then put it in me, and stroked my penis at the same time, riiight〜?　And by doing that, I learned whether or not it feels gooood〜」
 
 #voice konb0066
-【コノミ】「それだとね〜、気持ちはいいけど〜、物足りなくて、ボク困っちゃうの〜」
+【Konomi】「And then〜, it feels gooood〜, but doing it by myself just isn't enouuugh〜」
 
-「そっか。ひとりじゃ、こんなことはできないしね」
+「I see. Because on your own, you can't do this, can you.」
 
-;SE
+;SE se021	挿入音2（浅め）
+#se 1 se021
 
 ;EVCG EV011A3
 #cg イベント ev011a3 背景
 #wipe fade
 
+#se 1 se021
+
 #voice konb0067
-【コノミ】「ひゃぁああんっ！　そう、それきもちいいよぉ！」
+【Konomi】「Hyaaahhhn! That's it, that feels so gooooood!」
 
-偽物の男根を抜き差しする手は止めず、左胸には舌を這わせ、右胸をコリコリと弄ぶと、コノミは嬉しそうに嬌声を上げた。
+I don't stop thrusting the fake phallus in and out of him, place my mouth on top of his left breast, licking it, and play with his right nipple with my remaining hand. Konomi moans with pleasure.
 
-「じゃあ、俺がしてあげたら、偽物ちんちんでもいけちゃうかな」
+「So if I'm the one doing it, maybe you can cum from this imitation penis.」
 
-反応を見ながら、手に持ったそれでコノミの中を蹂躙する。
+I watch his reactions, enjoying them, violating Konomi with the fake penis in my hand.
 
 #voice konb0068
-【コノミ】「わかんない〜……んうぅう〜……気持ちいい、気持ちいいけど〜」
+【Konomi】「I don't understand〜...mnoooh〜...it feels really, really good, but〜」
 
-「けど？」
+「But?」
 
 ;EVCG EV011A2
 #cg イベント ev011a2 背景
 #wipe fade
 
 #voice konb0069
-【コノミ】「やっぱり、ニンゲンくんのおちんちんの方が気持ちいいよぉ〜」
+【Konomi】「Human-kun's penis really does feel betteeer〜」
 
-「……当たり前だろ？」
+「...Isn't that obvious?」
 
-擬似男根を抜くと、コノミはほっと息を付いた。
+I rip the psuedopenis out, and Konomi gasps.
 
 #voice konb0070
-【コノミ】「ひとりでも気持ちよくなれるかなって思ったけど〜、やっぱり偽物じゃ、ダメだね〜」
+【Konomi】「I thought I could feel good by myself〜, but a fake just isn't good enough〜」
 
-「ひとりより、俺とする方が気持ちいい？」
+「So me doing this to you feels better than you doing it by yourself?」
 
 #voice konb0071
-【コノミ】「ん、抱っこしてもらったほうがずっと気持ちいいよ〜。ニンゲンくん、はやくぅ〜ニンゲンくんがぎゅって抱っこしてくれなきゃ〜」
+【Konomi】「Mnn, you hugging me makes it feel way better〜。Human-kun, hurry〜 I want you to hug me tiiight〜」
 
-甘えるようにコノミが俺に視線を投げかけてくる。
+Konomi looks at me, his eyes fawning.
 
-どきん。
+My heart throbs.
 
-『抱っこして』という言葉は、ただ『して』と求められた時よりも、もっと強烈にコノミへと意識を惹きつけた。
+For some reason, the I find Konomi requesting that I hug him to be far more arousing than a simple request for sex.
 
-「……」
+「...」
 
-ただ、交わることを求められるだけよりずっと、俺自身を求められているように思えて……。
+It feels like this way he's saying he wants to be with me, not just physically lovemaking, but emotionally as well...
 
 #voice konb0072
-【コノミ】「ねぇ〜抱っこして〜、して〜、あったかくてびくんびくんってするおちんちんで、ボクの中にずぽずぽつっついて〜」
+【Konomi】「Come ooon〜 hug meee〜, do meee〜, thrust your warm twitching penis inside meee〜」
 
-「コノミはしょうがないな。そんなに言うならしてあげるよ」
+「If you want it that badly, Konomi, then of course I'll deliver.」
 
 #voice konb0073
-【コノミ】「うん。してして、いっぱいイカせて〜」
+【Konomi】「Yes, do me, do me, do me looots〜」
 
-コノミは無邪気な顔で俺に向かって腕を差し上げた。
+Konomi, his face innocent, stretched his arms out towards me.
 
-俺はまず、コノミを望む通りにぎゅっと抱きしめてやってから、俺自身を挿入していった。
+I follow Konomi's desires and hug him tight, thrusting myself inside him.
 
-;SE
+;SE se020	挿入音1（深い）
+#se 1 se020
 
 ;EVCG EV011B1
 #cg イベント ev011b1 背景
 #wipe fade
 
 #voice konb0074
-【コノミ】「あぁ〜っ！　やっぱりこれじゃなきゃダメなの〜、木とは全然違うよぉ〜」
+【Konomi】「Aaah〜!　Anything other than this really isn't good enouuugh〜, it's totally different from the treee〜」
 
-玩具ですっかり熱くなり、柔らかく解された肉襞が、うねりながら俺を受け入れていく。
+The hot, soft flesh of his body, hot and ready because of the toy, wriggles around me, accepting me inside.
 
-入れただけでも絶頂に誘い込まれてしまいそうなほどにコノミの中がいやらしい反応を返してくる。
+His reactions are so lewdly exciting that he almost tempts me to climax just from putting it in.
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
+;SE se020	挿入音1（深い）
+#se 1 se020
+
 #voice konb0075
-【コノミ】「あぁ〜！　ニンゲンくんの中でビクンビクンしてる〜、熱いよぉ〜」
+【Konomi】「Aaah〜!　Human-kun's twitching inside meee〜, so hooot〜」
 
-コノミの肉壁は、まるで玩具でイキきれなかった分を取り戻すかのように、俺のモノを貪欲に貪った。
+Konomi's flesh greedily devoured me, his body working extra-hard as if to compensate from being unable to cum just from the toy earlier.
 
-熱く咀嚼される感触は、まるで本当に食われてしまうんじゃないかという勢いだ。
+His boilingly hot anus is clamping down on me so hard it feels like it's trying to devour my penis.
 
 ;EVCG EV011B3
 #cg イベント ev011b3 背景
 #wipe fade
 
 #voice konb0076
-【コノミ】「あぁ〜はぁああああああ〜熱い、熱いよぉ〜！　もっと中、グリグリして〜！」
+【Konomi】「Aaah〜, haaaaaaa〜, so hooot〜! Rub it more inside meeee〜!」
 
-「もっと、か。コノミは欲張りだな」
+「More, huh? You sure are greedy, Konomi.」
 
 ;EVCG EV011B1
 #cg イベント ev011b1 背景
 #wipe fade
 
 #voice konb0077
-【コノミ】「うん。ボク欲張りさんなの〜。あぁ〜。偽物じゃ届かなかった奥までニンゲンくんのあっついおちんちん入ってくるぅ〜！」
+【Konomi】「Yeesss, I'm a greedy boooy〜, aaah〜, Human-kun's penis is reaching all the spots the fake couldn't〜!」
 
-コノミの腹側を押し上げるようにして、擦りつけながら腸の奥へと肉棒をねじ込んでいく。
+;SE se020	挿入音1連続
+#se 1 se022
+
+I press up into Konomi's stomach, slamming my cock deep inside him, rubbing it along his insides on the way
 
 #voice konb0078
-【コノミ】「あぁ〜あぁ〜気持ちいいよぉ〜、ボクのお腹の中、ニンゲンくんのおちんちんが出たり入ったりしてるぅ〜」
+【Konomi】「Aaah〜, aah〜, it feels so goood〜, Human-kun's penis is going in and out of my tummyyyy〜」
 
-俺のがコノミのおちんちんの裏側をこするたびに、コノミの可愛らしいおちんちんから、濁った透明の先走りがぴゅるっと散った。
+Each time I rub against the spot where Konomi's penis connects to his body from the inside, a little precum dribbles from his adorable penis.
 
-「どう？　本物のおちんちんでならいけそう？」
+「Well? Can you cum from a real penis?」
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
 #voice konb0079
-【コノミ】「うぁああああっ、うん、すぐにイっちゃいそう〜。やっぱり本物の方がずっといい〜はぁん……」
+【Konomi】「Uaaaaah, yes, I'm gonna cum right awaaayyy〜, the real thing is so much betteeeer〜...」
 
-コノミの内側は俺の形をもうすっかりと覚え込んでいるのか、ぴったりと粘膜が這うように吸い付いてくる。
+Konomi's insides seem to have memorized my shape, as they're clinging and sucking to me perfectly.
 
-「そういえば、大きさはともかく、この玩具かなり特徴掴んでるもんな。よくここまで見てたな」
+「That reminds me, the shape aside, every other detail of this toy was exactly accurate. You must've been paying close attention to do such a good job.」
 
 ;EVCG EV011B1
 #cg イベント ev011b1 背景
 #wipe fade
 
 #voice konb0080
-【コノミ】「うん。だって、ボクね〜、ニンゲンくんのおちんちんだぁ〜い好きなんだよ〜？」
+【Konomi】「Yeah, because〜, I looooove〜 Human-kun's penis, you knoooww〜?」
 
-「確かにそれは真実みたいだな」
+「I have no problems believing that.」
 
-不思議と昼間聞いたのようなイラつきは起きなかった。それどころか、それほどまでに俺との性行為に夢中になったのかと思うと誇らしく思える。
+For some strange reason, unlike earlier today when I found him saying this annoying, now him stating just how obsessed he is with sex with me makes me feel fantastic.
 
 #voice konb0081
-【コノミ】「しんじつ？」
+【Konomi】「Believing?」
 
-「ほんとうってこと」
+「I mean I think it's true.」
 
 #voice konb0082
-【コノミ】「うん、本当だよ？　ボクねぇ、ニンゲンくんだぁいすき〜」
+【Konomi】「Yeah, it's true, you knooow?　I looooove Human-kuuun〜」
 
-今度はコノミは「おちんちん」と限定しなかった。それだけで快感のタガが外れ、とめどなく増大していく。
+For the first time, Konomi said he loved me, and not just my penis. That removed the last doubts I was feeling, massively increasing my pleasure.
 
 ;EVCG EV011B3
 #cg イベント ev011b3 背景
 #wipe fade
 
 #voice konb0083
-【コノミ】「ねぇ〜、ボクもお口ペロペロして〜。ヒナタにはしてあげたんでしょ〜？」
+【Konomi】「Heeyy〜, lick my mouth tooo〜, you did it for Hinata, riiight〜?」
 
-「あぁ……」
+「Aah...」
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
 #voice konb0084
-【コノミ】「ん……ちゅっ……んぁ……ほんとだぁ、お口ペロペロしてもらうと、もっと頭トロぉ〜ってなるぅ」
-何度も口付けていると、コノミの表情はその度ごとに、うっとりと潤んでいく。
+【Konomi】「Mn...chuu...mnah...it's trueee, having my mouth licked makes my head feel all fuzzy〜」
+
+I kissed him again and again, and each time Konomi's expression grew more enrapt.
 
 #voice konb0085
-【コノミ】「ちゅう〜。んちゅっ、ふふ、ニンゲンくんの唇、甘い気がする〜。甘くないのにね〜？　不思議〜」
+【Konomi】「Chuu〜, mnchuu, fufu, Human-kun's lips taste so sweet〜, but not sweet toooo〜?　How straange〜」
 
-「うん。俺もコノミの唇甘く感じるよ」
+「Your lips taste sweet for me too, Konomi」
 
 ;EVCG EV011B3
 #cg イベント ev011b3 背景
 #wipe fade
 
 #voice konb0086
-【コノミ】「なんで、だろうね？　ぁああああ〜、ていうかね〜、ニンゲンくんにしてもらわなきゃダメみたい〜んぅうう〜」
+【Konomi】「I wonder why?　Aaaaaahh〜, I mean〜, anything other than Human -kun doing this to me feels no good at all〜, mnooh〜」
 
-絶えず唾液の交換をしているせいで下からも上からも水っぽい音が続いた。
+Our constant exchange of fluids, above and below, made wet sounds fill my cabin.
 
-肉と肉の擦れ合う卑猥な音は、先程までの木とコノミの肉が立てていたものとは比べ物にならないほど淫靡だ。
-「っ……俺も、そろそろイくぞ」
+The obscene noises made by flesh rubbing against flesh is so much more obscene than any sound made earlier by Konomi with the wood.
 
-コノミへと肉槍を打ち込む速度は、射精欲求に従って上がっていく。
+「...I'm going to cum soon.」
+
+;SE se020	挿入音1連続
+#se 1 se022
+
+The speed at which I thrust my spear of flesh into Konomi ramps up, as I come closer to ejaculation.
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
 #voice konb0087
-【コノミ】「んぅっ……うん、いいよぉ〜ボクも、もう、いっちゃ〜う！　あぁ〜、きてぇ！　なかにあっついの出してぇ！」
+【Konomi】「Mnooh...go aheaaad〜, I'm, I'm cumming toooo〜!　Aah〜, comeee!Shoot your hot stuff inside meee!」
 
-「うん……だけど、今日はコノミを先にイカせてあげるよ」
+「Of course...but I'm going to make sure you cum first today, Konomi.」
 
-すっかりこぷこぷと止めどなくあふれる我慢汁でベタベタになったコノミのおちんちんを抽送に合わせてこすり立てた。
+I stroked Konomi's penis, slippery and wet because of the precum flowing endlessly out of it.
 
-包皮に包まれた可愛らしいそれは健気なくらいに震えている。
+His foreskin-covered absolutely adorable little penis shudders in the cutest way.
 
 ;EVCG EV011B3
 #cg イベント ev011b3 背景
 #wipe fade
 
 #voice konb0088
-【コノミ】「ひゃあっ……おちんちんだめぇ〜……あぁっ、も、もう白いの出ちゃう〜、せーえき出ちゃう〜」
+【Konomi】「Hyaaah...not my peniiiss〜...aah, n-no more, my white stuff is shooting out〜, my semen is going to shoot out〜」
 
-コノミが喉を喘がせるのに構わず、芯のある手触りのそれの余っている皮を上下させるようにしていく。
+Uncaring for Konomi's moans and gasps for air, I continued to stroke him up and down, rubbing his excess skin over his sensitive tip.
 
-「うん、出していいよ。気持ちよくイキな。いっぱいイっていいんだから」
+「Go ahead, cum, cum all you can.」
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
+;SE se020	挿入音1（深い）
+#se 1 se020
+
 #voice konb0089
-【コノミ】「あぁっ〜うんっ〜、ボク、ボク……もぉ……」
+【Konomi】「Aaah〜, oooh〜, I'm, I'm...going to...」
 
-コノミの射精直前の動きは挿入している男根からも伝わってきた。
+;SE se022	挿入音1連続
+#se 1 se022
 
-可愛らしい睾丸から吐き出された精液が、尿道を勢いよく駆け上がっていく。
+I can feel through my manhood inside him that Konomi's just about to ejaculate.
+
+His semen shoots up from his adorable testicles, moving through his urethra and out his penis with astounding force.
 
 ;EVCG EV011B3
 #cg イベント ev011b3 背景
 #wipe fade
 
+;SE se020	挿入音1（深い）
+#se 1 se020
+
 #voice konb0090
-【コノミ】「あっ、イクッ！　イっちゃうっ……！」
+【Konomi】「Aah, cumming!　I'm cummiiing...!」
 
 ;ホワイトアウト
 
@@ -960,18 +1010,21 @@
 #bg BG07b_3
 #wipe fade 300
 
-;SE
+;SE se024 射精音2（エルフ）
+#se 1 se024
 
-どくっ
+*throb*
 
-ぴょんっと跳ね上がった若枝が白濁液を吐き出して暴れる。
+Konomi's small sapling jumps, shooting out a murky white fluid.
 
-その勢いでコノミの肉筒が俺の分身をきつく締め付けてきた。
+Konomi's insides clamp down on my lower half with vicious force.
 
-「出るっ」
+「Cumming!」
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
 
 ;ホワイトアウト
-
 #cg all clear
 #bg white
 #wipe flash
@@ -981,47 +1034,50 @@
 #bg BG07b_3
 #wipe fade 300
 
-;SE
+Semen furiously shoots out of my testicles.
 
-どくんどくんと激しい勢いで俺の精巣からも精液が吐き出されていく。
-
-俺の白濁汁はコノミの中で暴れ狂いながら、奥へと注ぎ込まれていく。
+My white fluids pour deep into Konomi, raging inside him.
 
 #voice konb0091
-【コノミ】「あぁ〜、ボク、イってるのに〜……ニンゲンくんのが中で出てると、もっとイっちゃうよぉ〜」
+【Konomi】「Aaah〜, I already came, buuut〜...Human-kun cumming inside me is making me cum even moreee〜」
 
 ;EVCG EV011B2
 #cg イベント ev011b2 背景
 #wipe fade
 
 #voice konb0092
-【コノミ】「あぁっ……はぁああああああああん」
+【Konomi】「Aaah...haaaaaaaaaaaaahn!」
 
-コノミは大きく声を上げて釣り上げられたばかりの魚のように背中を仰け反らせると、それからぐったりと横たわった。
+Konomi shrieked, raised his hips up, then collapsed, flopping like a fish, exhausted.
 
-コノミの内側はそれでもまだ、俺の精液を最後の一滴まで搾り取ろうとするかのようにひくついていた。
+And yet, even now, Konomi's insides are still sucking hard on me, trying to wring out every last drop of my semen.
 
 ;EVCG EV011B1
 #cg イベント ev011b1 背景
 #wipe fade
 
 #voice konb0093
-【コノミ】「すごーい。スゴーく気持ちよかったぁ……やっぱりニンゲンくん、だぁいすき……」
+【Konomi】「Amaziiing, it felt so gooood...I really do loooove you, Human-kuuun...」
 
-「俺のおちんちんが好きなんじゃなくて？」
+「You don't just love my penis?」
 
 #voice konb0094
-【コノミ】「ふふふ……ニンゲンくんのおちんちんもだけど、ぎゅっとしてくれるのも好きだよ〜？」
+【Konomi】「Fufufu...I love Human-kun's penis as well, and I love Human-kun hugging me too, you knooow〜?」
 
-呼吸をするようにくぱくぱと開いたり閉じたりを繰り返している可憐なつぼみから、こぷりと俺の精液が吐き出された。
+His flowerbud opens and closes again and again, almost like it's breathing, my white smemen spilling out of it.
+
+#bgm 0 stop 2000
 
 ;暗転
 ;#face off
 
+
 #cg all clear
 #bg black
 #wipe fade
+#mes clear
 ;インターバル
+#wait 4000
 
 ;SMODE 009 STOP
 #endscene
@@ -1040,314 +1096,332 @@
 #wipe fade
 
 #voice konb0095
-【コノミ】「ふっふーん、ふっふふーん♪」
+【Konomi】「Fufuun, fufuun♪」
 
-「なんでそれまだ磨いてるんだよ……」
+「Why are you still polishing it...」
 
-コノミは楽しそうに昨日作ったばかりの木製「俺のおちんちん」を磨いている。
+Konomi is happily polishing away at my 
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0096
-【コノミ】「ん〜？」
+【Konomi】「Mnn〜?」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0032
-【ツキヨ】「すごーい、ツルツルピカピカです。ツノカブトも頑張って磨いたら同じぐらい光るです？」
+【Tsukiyo】「Amaziiing, it's so shiny and sparkly. Can my wooden rhinocerous beetle be that shiny if I polish it that much?」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 
 #voice hinb0061
-【ヒナタ】「わー！　コノミつくったの？　すごいね！」
+【Hinata】「Wow! You made this, Konomi? It's awesome!」
 
-;FACE I02F
-#face f_iba_0_02f 94 466
-
+;FACE I01F
+#face f_iba_0_01f 94 466
 
 #voice ibab0051
-【イバラ】「……ツキヨの虫より気持ち悪いもの作ったな」
+【Ibara】「...That is even more disgusting than Tsukiyo's insect.」
 
-ヒナタは無邪気に感心しているが、イバラはドン引きもいいところだ。
+Hinata's innocently admiring Konomi's work, but Ibaara seems creeped out.
 
-あぁ、昨日は自分の作業に夢中でコノミが何を作ってたのか気がつかなかったんだな……。
+That reminds me, Ibara was so intent on his own work he didn't even bother to check what Konomi was making yesterday...
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0097
-【コノミ】「え〜？　気持ち悪くなんかないよ〜？　ニンゲンくんが好きなもの作れって言ったでしょ〜？　ボクの好きなニンゲンくんのおちんちんにしたんだ〜」
+【Konomi】「Eh〜?　It's not disgusting〜?　Human-kun said to make what we like, riiight〜?　And I love Human-kun's penis〜」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 
 #voice hinb0062
-【ヒナタ】「おぉ！　ヒナタもそれにすればよかった！」
+【Hinata】「Ooh!　Hinata should've made that too!」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
-
 #voice tikb0033
-【ツキヨ】「じゃ、じゃあ……手、作るです」
+【Tsukiyo】「Th-Then...I'll make one of Human-kun's hands.」
 
-「……お願いだから、やめて。部分部分で人体なんて作られたらそれこそ気持ち悪くてしょうがない」
+「...Please, don't do that. Having every part of my body recreated in wood really does make me uncomfortable.」
 
-俺のちんちんの模型なんか何本もあってどうするんだよ……。
+And, even worse, is the possibility that my cabin could wind up filled with wooden copies of my penis...What would I even do with them...
 
 ;FACE H07F
 #face f_hin_0_07f 94 466
 
 
 #voice hinb0063
-【ヒナタ】「じゃあ、もっとおっきなきで、ニンゲンさんをつくるっ」
+【Hinata】「Then let's make a whole Human-san out of wood!」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
-
 #voice tikb0034
-【ツキヨ】「お、お手伝いするです……」
+【Tsukiyo】「I-I'll help...」
 
-木人を作る気かよ。何の修行をはじめる気だ。
+Are they trying to make a wooden training dummy or something? What kind of training would they even use it for?
 
-「そんなのどこに置くんだよ。俺はあんまり嬉しくないぞ？」
+「Where would I even put it? You know I wouldn't like a present like that at all, right?」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
 
 
 #voice hinb0064
-【ヒナタ】「え〜！？　うれしくないの？」
+【Hinata】「Eh〜!?　You wouldn't like it?」
 
-「少なくとも、小屋の中に置くのはやめてよ」
+「...At the very least, don't put it anywhere in my cabin.」
 
-自分ソックリだったとしても、おかしな形だったとしても、自分を模して作られた木像と顔を付き合わせて生活なんてぞっとしない。
+Whether it's an accurate model or not, living with a wooden recreation of myself does not appeal to me in the slightest
 
-作られるのもだけど壊されるのも気分悪そうだしなぁ。
+That said, while I don't want it, I'd also feel terrible if I destroyed something they worked so hard to make
+
+;FACE I02F
+#face f_iba_0_02f 94 466
 
 #voice ibab0052
-【イバラ】「そんなの外に置いたりしたら、ほかの生き物が迷惑するだろ！」
+【Ibara】「If you leave it outside, you would be terrifying the creatures of the forest!」
 
-「いや、だからね、そもそも作らないって選択肢が……そう言われるのもちょっと傷つく……」
+「Um, like I'm saying, the option I would prefer is that it's just never made...you saying that a copy of me left outside would terrify animals hurts a little...」
 
-コノミはヒナタたちを見わたすと可愛らしく首をかしげた。
+Konomi surveyed the rest of the elves, then cutely shook his head.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0098
+【Konomi】「You knooowww〜, when I made thiiis〜, I realizeeed〜, the real Human-kun real is the beest〜」
+
+;FACE H04F2
+#face f_hin_0_04f2 94 466
+
+#voice hinb0065
+【Hinata】「Hoeh?」
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
-#voice konb0098
-【コノミ】「ボクねぇ〜、これ作ったけどねぇ〜やっぱりねぇ〜ニンゲンくんは、本物が一番と思うなぁ〜」
-
-;FACE H04F2
-#face f_hin_0_04f2 94 466
-
-
-#voice hinb0065
-【ヒナタ】「ほぇ？」
-
 #voice konb0099
-【コノミ】「だってねぇ〜、木で彫るでしょ〜？　木は動かないし熱くならないんだよね〜。それに、木じゃ抱っこしてぎゅ〜もしてくれないでしょ〜？」
+【Konomi】「You seee〜, It's made out of wood, riiight〜?　Wood is cold, and it doesn't mooove〜 and wood can't give you a big hug, riiight〜?」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
-
 #voice ibab0053
-【イバラ】「うん。まぁ、それはそうだろうな。木で作ったニンゲンが動き出したりしたら怖いし」
+【Ibara】「Indeed. Well, it's only obvious - a wooden man moving would be terrifying.」
 
 #voice konb0100
-【コノミ】「だからボクは〜、木で彫ったニンゲンくんはいらないと思うかな〜？」
+【Konomi】「Which is why〜, I don't think we need a wooden Human-kun, okaaay〜?」
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
 
-
 #voice hinb0066
-【ヒナタ】「そかー」
+【Hinata】「I see.」
 
-ヒナタはちょっとしょんぼりした様子で、コノミが作ったモノを手にとり見つめている。
+Hinata seems a little dispirited, holding what Konomi made in his hands and staring at it longingly.
 
-……モノが違えば、感動的な結論に落ち着いたところだろ思うんだけど、いかんせんヒナタが手にしてるものがものだからなぁ……。
+...If things were different, I wouldn't have minded letting them go ahead and build whatever they wanted, but considering what Hinata's holding in his hands...
 
-;FACE I02F
-#face f_iba_0_02f 94 466
-
+;FACE I01F
+#face f_iba_0_01f 94 466
 
 #voice ibab0054
-【イバラ】「大体、こーんな汚くて気持ちの悪いもの、なんで作るんだ？」
+【Ibara】「Why did you make such a disgusting, repulsive object in the first place?」
 
-イバラの疑問はもっともだけど、そこまで言うことはないんじゃ……。
+Ibara asks a reasonable question, albeit one with a rather unreasonable answer...
 
 ;CHR K01F2A C
 #cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice konb0101
-【コノミ】「使えるかな〜って思ったんだよね〜。あ、でも使えるかも〜」
+【Konomi】「I thought I'd try to use it〜〜. Oh, but maybe it can be used〜」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
-
 #voice tikb0035
-【ツキヨ】「おちんちん、使う、です？」
+【Tsukiyo】「Penis...use?」
 
-なんのことだかさっぱりわかってないツキヨだけが、ひとり盛大に首をかしげている。
+Tsukiyo tilts his head, confused, clearly not understanding what they're talking about in the slightest.
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0102
-【コノミ】「ほら〜、前にボクとヒナタで、イバラを気持ちよくしてあげようとしたでしょ〜？」
+【Konomi】「Remembeeer〜, when Hinata and I made Ibara feel really good beforeee〜?」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
 
-
 #voice hinb0067
-【ヒナタ】「おぉ！　おぉ！」
+【Hinata】「Ooh!　Ooh!」
 
-;FACE I02F
-#face f_iba_0_02f 94 466
-
+;FACE I04F
+#face f_iba_0_04f 94 466
 
 #voice ibab0055
-【イバラ】「なっ……！？」
+【Ibara】「Wha-...!?」
 
 #voice konb0103
-【コノミ】「あの時、ボクらの指じゃ、全然足りなかったじゃない〜。でもニンゲンくんはひとりしかいないでしょ〜？」
+【Konomi】「Back then, our fingers just weren't enough, riiight〜? But there's only one Human-kun, riiight〜?」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
-
 #voice hinb0068
-【ヒナタ】「わかったー！　みんなでなかよくするのにつかうんだ！　そうでしょ、コノミ！」
+【Hinata】「I got it! You made it so we can all use it to get along better! Right, Konomi?!」
 
 ;CHR K09F2 C
 #cg コノミ kon_1_09f2 中
 #wipe fade
 
 #voice konb0104
-【コノミ】「そうそう、ヒナタあったまい〜」
+【Konomi】「Exactly right, Hinata, you're quite smaaart〜」
 
 ;FACE H08F1
 #face f_hin_0_08f1 94 466
 
-
 #voice hinb0069
-【ヒナタ】「えへへっ！　みんななかよしだね！」
-
-;FACE I11F2
-#face f_iba_0_11f2 94 466
-
-
-#voice ibab0056
-【イバラ】「……」
+【Hinata】「Ehehe!　Everyone's getting along!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-;CHR T04F L
-#cg ツキヨ tuk_1_04f 左
-;CHR I11F2 R
-#cg イバラ iba_1_11f2 右
+;CHR I01F R
+#cg イバラ iba_1_01f 右
 #wipe fade
 
-#voice tikb0036
-【ツキヨ】「おちんちん使うと、気持ちいいです？」
+#voice ibab0056
+【Ibara】「...」
 
-エルフの倫理観や羞恥心なんかは、いまだによくわからない俺だけど、ヒナタやコノミに押さえ込まれたのが、イバラにとって屈辱的だったのは想像に難くない。
+;CHR T05F_L L
+#cg ツキヨ tuk_1_05f_l 左
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0036
+【Tsukiyo】「Using a penis, feels good?」
+
+While I don't quite understand everything about the elves' values and ethics, I do know that being pinned down and violated by Hianta and Konomi was very humiliating for Ibara.
+
+;CHR T06F_L L
+#cg ツキヨ tuk_1_06f_l 左
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0037
-【ツキヨ】「おちんちんで仲良くするです？　みんなで仲良く……？　イバラは、ヒナタとコノミに気持ちよくしてもらったです……？」
+【Tsukiyo】「You can use a penis to become better friends? Everyone getting along? Ibara felt good with Hinata and Konomi...?」
 
-「あ、あの……ツキヨ？　その話はそのへんで……」
+「U-Um...Tsukiyo? Let's just leave it at that...」
 
-事情を知らないツキヨが気になるのは無理もないけど、イバラの拳は、握りしめられてふるふると怒りに震えている。
+Tsukiyo's curiousity is quite understandable, given that he has absolutely no idea what everyone else is talking about, but Ibara's fists are clenched and shaking with fury, so it's a good idea to drop the issue.
 
-「……イバラ、乱暴はダメだよ。ほらあの時だって、イバラがあんなに意地を張らなければ、ヒナタもコノミもあんなふうに無理矢理には……」
+「...Ibara, violence is wrong. Remember how much you didn't like it back then when Hinata and Konomi forced you to do those things against your will...」
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0057
-【イバラ】「うるさい！　このニンゲンめっ！」
+【Ibara】「Shut up!　You damned Human!」 ;using it as a name, not a species
 
-ツキヨをかばおうとしたが、イバラの拳は迷わず俺に向けられた。
+;se016	ドスン（蔦から落ちる）
+#se 1 se016
 
-なだめようとしただけなのにっ！？
+I attempt to protect Tsukiyo, but that results in Ibara turning his fists towards me instead, trying to hit me.
 
-;CHR T02F L
-#cg ツキヨ tuk_1_02f 左
+All I was trying to do was calm him down!?
+
+;CHR T6F_L L
+#cg ツキヨ tuk_1_06f_l 左
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0038
-【ツキヨ】「はわわわわ、拳骨でぶったりしたらすっごく痛いです！？」
+【Tsukiyo】「Awawawawa, getting hit with a fist really hurts!?」
 
 ;FACE H08F1
 #face f_hin_0_08f1 94 466
 
-
 #voice hinb0070
-【ヒナタ】「あはは、イバラおこってる！」
+【Hinata】「Ahaha, Ibara's mad!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
-
 #voice konb0105
-【コノミ】「ニンゲンくんガンバレ〜」
+【Konomi】「Human-kun, do your best〜」
 
-ツキヨはぽかーんとしているが、頭を抱えてイバラの怒りの鉄拳から逃げ惑う俺を、ヒナタとコノミは腹を抱えて笑っている。
+;CHR OFF
+#cg all clear
+#wipe fade
 
-全く誰のせいでこんな目にあっていると……。
+;se025	小屋内でドタンバタン
+#se 1 se025
+
+Tsukiyo's upset, but Hinata and Konomi are laughing so hard they're almost falling over at the sight of Ibara chasing me around the room, fists clenched.
+
+Whose fault do you think this whole situation is...
 
 ;FACE H08F1
 #face f_hin_0_08f1 94 466
 
-
 #voice hinb0071
-【ヒナタ】「あはは、あはははははは」
+【Hinata】「Ahaha, ahahaha!」
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
-
 #voice konb0106
-【コノミ】「あははは〜」
+【Konomi】「Ahahaha〜」
+
+;se025	小屋内でドタンバタン
+#se 1 se025
 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0039
-【ツキヨ】「……っぷ、あは、あはは……」
+【Tsukiyo】「...pff, aha, ahahaha...」
 
-やがて、コノミとヒナタの笑いに感化されたのか、ツキヨも楽しそうに笑った。
+In the end, probably influenced (or corrupted) by Konomi and Hinata's howls of laughter, Tsukiyo starts giggling too.
+
+;CHR I04F R
+#cg イバラ iba_1_04f 右
+#wipe fade
 
 #voice ibab0058
-【イバラ】「このっ！　逃げるな、止まれ！　ボクの前に跪け！」
+【Ibara】「Curse you! Stop! Cease running! Prostrate yourself before me!」
 
-「殴るんだろ？　やだよ！」
+「If I do, you'll punch me, right? So no!」
 
-イバラはまだ怒っている……というよりも、思うように俺を攻撃できないのに苛立ってるみたいだけど、追いかけっこが楽しくなってきたのかどことなく笑顔だ。
+Ibara is still angry...but now, he's more upset that he can't land a hit on me than anything. He's smiling, clearly enjoying our little game of tag.
 
-こんな日々が続くのなら悪くない。
-そんなふうに思えた。
+That was when I thought...
+...If these happy days with them could continue forever, that might not be so bad.
 
 ;コノミ好感度+1
 #set f3 f3+1

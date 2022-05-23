@@ -8,173 +8,191 @@
 #wipe fade
 
 
-ツキヨはこっちから気にかけてあげないと、自分からは主張できなさそうだからな……。
+Tsukiyo's quiet, and never speaks up for himself unless someone reaches out first...
 
-ちゃんと俺の方からこまめに目をかけてあげないと。
+I should keep an eye on him.
 
-「ツキヨ、どう？　上手に出来そう？」
+「Tsukiyo, how's it going? Are you managing?」
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0040
-【ツキヨ】「……あ。はい。できる、です」
+【Tsukiyo】「...Ah. Yes. It's going well.」
 
-返ってきたのは肯定だが、俺を見上げる目は不安げだ。
+His response is affirmative, but the eyes he looks up at me with are clearly worried.
 
-そしてその手にあるのは、細工というにはあまりに無残な木っ端だった。
+And what he's holding in his hands is so atrociously crafted I have absolutely no idea what it's supposed to be.
 
-「……」
+「...」
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0041
-【ツキヨ】「ご、ごめんなさい……。上手に、できてない、です」
+【Tsukiyo】「S-Sorry...It's not, going well, at all.」
 
-ツキヨは悲しそうに言って、隠すように自分の作品の上に手を乗せてしまう。
+Tsukiyo says, sadly, trying to cover up his work with his hands.
 
-「初めてやったことがすぐにできるわけないよ。怒ってるわけじゃないから、見せて。助言できるかもしれないよ」
+「It's totally normal to not get it perfect on your first try, it's nothing to be upset about. Come on, show me, I won't be mad, I might be able to give you advice.」
 
 #voice tikb0042
-【ツキヨ】「は……はい」
+【Tsukiyo】「Y...Yes.」
 
-恐る恐る差し出されたそれは、細くくびれた胴体部分で折れてしまった虫の模型だった。
+His trembling hands timidly hold out what looks like a crudely-carved wooden bug, a long thin protrusion having broken off entirely.
 
-「あー、なるほど。細くなってるところは難しいよね」
+「Ah, I see. It is very difficult to carve long, thin portions, after all.」
 
 #voice tikb0043
-【ツキヨ】「は、はい……ごめんなさい」
+【Tsukiyo】「Y-Yes...I'm sorry.」
 
-「なんで謝るの？　別にツキヨは悪いことしてないでしょ」
+「What are you apologizing for? You haven't done anything wrong, Tsukiyo.」
 
-くしゃっと頭を撫でてあげると、ツキヨは困った顔になった。
+When I stroke Tsukiyo's hair, he looks confused and upset.
 
 #voice tikb0044
-【ツキヨ】「せっかく、教えてくれたのに、上手にできないです。だから、ごめんなさいです」
+【Tsukiyo】「You worked so hard, to teach me, but I couldn't get it right. Which is why, I'm sorry.」
 
-「うーん、そりゃこんなに細かい細工は俺にだって難しいよなぁ……」
+「Don't worry about it, woodworking that fine would be difficult even for me...」
 
 #voice tikb0045
-【ツキヨ】「でも、虫、足、細いから……」
+【Tsukiyo】「But a bug's legs, are thin...」
 
-さらにツキヨは困った顔になってしまう。
+Tsukiyo says, still clearly upset about it.
 
-「そりゃま、そうなんだけどね」
+「Well, of course they are.」
 
-ツキヨは凝り性なんだなぁ……。
+Tsukiyo sure is a very fastidious kid...
 
-「こういうのって特徴掴んでればそれでいいっていうか、どう省略するかが腕の見せどころみたいなさ……」
+「With carving, it's about evoking the image of the original, not capturing its likeness exactly. What features you exaggerate and what you omit is part of the skill...」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0046
-【ツキヨ】「特徴……省略……？」
+【Tsukiyo】「Exaggerate...Omit...?」
 
-俺の言葉にツキヨはキョトンとした顔になってしまっている。
+Tsukiyo looks confused by my words.
 
-「んーと、ツキヨには難しかったかな？」
+「Hmm, was that explanation a bit complicated for you, Tsukiyo?」
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0047
-【ツキヨ】「はい、難しいです」
+【Tsukiyo】「Yes, it's too hard.」
 
-「あぁ、泣かないで。責めたり怒ったりしてるわけじゃないよ。実際に比べてみるとわかるかな……」
+「Aaah, don't cry. I'm not mad or trying to insult you. Maybe you'll understand better if I give you a practical example...」
 
-俺は木片を手にすると、すごく簡単に省略した花を彫った。
+I take a piece of wood, and carve a very rough flower.
 
-複雑に重なり合った花弁を単純化して、簡単に切込だけで表現した、実物とは全然違うけど、多分誰もが見ればわかるツルバラの花の形。
+What I carved was a very simple, rudimentary rose. While it doesn't actually resemble the real thing, it does a good enough job of evoking the image that anyone who looks could likely tell what it's supposed to be.
 
-「ほら、これ。何に見える？」
+「Here. Can you tell what this is?」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0048
-【ツキヨ】「バラ……に見えるです？」
+【Tsukiyo】「Is it....a rose?」
 
-「そう。雌しべとか、葉っぱも蔓もないけど、これがなんだかわかるでしょ？」
+「Exactly. I didn't carve leaves, a pistil, or all the other little pieces, but you can still manage to tell what it is, right?」
 
 #voice tikb0049
-【ツキヨ】「は、はい……」
+【Tsukiyo】「Y-Yes...」
 
-「虫もこんなふうに簡単な形にすればいいんじゃないかと思うんだけど」
+「I'm sure you could carve an excellent bug even if the shape is simple. It's the same idea.」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0050
-【ツキヨ】「なるほど、です」
+【Tsukiyo】「I understand.」
 
-ツキヨは目を輝かせて、バラに見入った。
+Tsukiyo's eyes sparkle as he stares at the rose.
 
-「だからさ。マルムシだったら、こうやって首のとこと羽だけ筋つけたら、それっぽいでしょ？」
+「So you could carve the legs and wings into it like so, and that would be enough, right?」
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0051
-【ツキヨ】「はい！　じゃ、じゃあ、ツノカブトは、角だけ、ちゃんと、わかるようにしたら……」
+【Tsukiyo】「Yes! Th-Then, for a rhinocerous beetle, I just need to, make the horn...」
 
-ツキヨは指先で簡単に形をなぞってみせる。
+Tsukiyo traces out the approximate shape along the wood with his finger.
 
-「うん、いいんじゃないかな。それで作ってみなよ」
+「Yes, that would work. Why don't you try it?」
 
 #voice tikb0052
-【ツキヨ】「は、はい……！」
+【Tsukiyo】「Y-Yes...!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-ツキヨはそれから一生懸命、いくつかの単純化した形の虫を彫った。
+After that, Tsukiyo carved an insect as best he could, albeit a significantly simplified one from his earlier attempt.
 
-「そうそう、うまいうまい」
+「That's it, you're doing well.」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0053
-【ツキヨ】「で、でも……これじゃ、足がないです」
+【Tsukiyo】「B-But...this way, it won't have legs.」
 
-やっぱり写実的に作りたいんだな。
+I suppose he does want to make it as realistic as he can, after all.
 
-「うーん、そうだなぁ。じゃあ、こんなふうに彫り出してみたらどうかな？　折れないように胴にくっつけてさ」
+「Hmm, well...Why don't you carve it like this? Try attaching the parts that have broken off to make legs.」
 
 #voice tikb0054
-【ツキヨ】「そっか……胴にくっつけて、作ったら、折れないです」
+【Tsukiyo】「I see...So if you attach the legs, they won't break.」
 
-「そうそう、細くすると折れちゃうから、ここのくびれも模様みたいに彫るだけにしてさ」
+「そうそう,細くすると折れちゃうから,ここのくびれも模様みたいに彫るだけにしてさ」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0055
-【ツキヨ】「それだったら、作れるです」
+【Tsukiyo】「それだったら,作れるです」
 
-木片へと向かうツキヨの顔は真剣そのものだ。
+Tsukiyo's face is dead serious, as he stares at the wood.
 
-「……邪魔したら悪いかな」
+「...Perhaps I should leave him to it.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-他の面々も心配だし、ちょっと見てあげなきゃ。
+I'm a bit worried about the others, so I'll go check on them.
 
-「どう？　うまく作れてる？」
+「Well? How are things going?」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -183,115 +201,115 @@
 #wipe fade
 
 #voice hinb0072
-【ヒナタ】「ニンゲンさん、みてみて！　ヒナタじょーずでしょう！？」
+【Hinata】「Human-san, look, look! Hinata did good, right!?」
 
 #voice konb0107
-【コノミ】「ボクも、見せてあげてもいいよぉ〜？」
+【Konomi】「Wanna take a look at mine, toooo〜?」
 
-ヒナタとコノミに左右から頬へ押し付けられたそれが一体何なのかわからない。
+Hinata and Konomi both press their carvings against my cheeks, preventing me from getting a good look at them.
 
-「あーもう、見てって言うなら見せてよ。そんなことされても見られないでしょ？」
+「Hey, if you want to show off, just show me, okay? If you press them against my face I obviously can't see them, right?」
 
 ;CHR H06F2 L
 #cg ヒナタ hin_1_06f2 左
 #wipe fade
 
 #voice hinb0073
-【ヒナタ】「あ、そっか！」
+【Hinata】「Oh, I get it!」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0108
-【コノミ】「うん、知ってた〜」
+【Konomi】「Yeah, I knooow〜」
 
-「ったく、どれどれ……」
+「For crying out loud...alright, let me have a look...」
 
-……見てもわからなかった。
+...Even with a good look, I can't tell what they're supposed to be.
 
-「ヒナタ、コノミ。これどっち側から見たらいいのかな？」
+「Hinata, Konomi...what angle am I supposed to be looking at these from?」
 
 #voice hinb0074
-【ヒナタ】「ニンゲンさんがみたいふうにみればいいよっ！」
+【Hinata】「However you want!」
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0109
-【コノミ】「考えないで〜気持ちのままに〜？」
+【Konomi】「Don't think about it〜, and just go with the flower〜?」
 
-「むずかしいこと言うな、おい！　……それに比べたら、イバラの花はわかりやすくていいな。なんていうか、ほっとする」
+「You're just making it more confusing!　...In comparison, I can easily tell that Ibara's is a flower. It's kind of a relief.」
 
-理解できるってすごく大事な事なんだな。
+The most important thing in woodcarving is that the viewer can tell what the carving is supposed to be.
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0059
-【イバラ】「ふんっ！　そいつらと一緒にするな！　このボクにできないことなんてあるわけないだろ！？」
+【Ibara】「Hmph! Do not lump me in with the likes of them! As if there would be a task I cannot accomplish with ease!?」
 
-イバラはそっくりかえってそのまま倒れてしまうんじゃないかというほど自慢そうだ。
+Ibara puffs his chest out with pride and sticks his nose high in the air, almost toppling himself over in the process.
 
 ;CHR H02F1 L
 #cg ヒナタ hin_1_02f1 左
 #wipe fade
 
 #voice hinb0075
-【ヒナタ】「ぷぅ〜！　イバラばっかりほめてっ！　ひいきだ、ひいきだっ！」
+【Hinata】「Buu〜!　You're only praising Ibara! Bias! You're biased!」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0110
-【コノミ】「そうだ、ひいきだぁ〜」
+【Konomi】「That's right, you're biaaased〜」
 
-「いや、だってしょうがないだろ！？」
+「No, I mean, his is obviously the best, right? Just look at it!」
 
-何を作ったのかわからないものを作ったヒナタとコノミと、ひと目でわかるものを作ったイバラじゃ、イバラのほうを褒めたくなるのが人情だろう。
+Ibara and Konomi's carvings are nonsense, while I can easily tell what Ibara's is supposed to be. Of course I'm going to praise him over them.
 
 ;CHR H03F1 L
 #cg ヒナタ hin_1_03f1 左
 #wipe fade
 
 #voice hinb0076
-【ヒナタ】「あーあ、ヒナタもがんばったのにっ」
+【Hinata】「Aaaww, and Hinata worked so hard too!」
 
 #voice konb0111
-【コノミ】「ボクも〜」
+【Konomi】「Me too〜」
 
-「はいはい、頑張ったのは認めるよ」
+「Yes, yes, I know you worked hard.」
 
 ;CHR H07F L
 #cg ヒナタ hin_1_07f 左
 #wipe fade
 
 #voice hinb0077
-【ヒナタ】「わーい！　みとめられた！」
+【Hinata】「Yaaaaaaaaaaaaaay!　I was praised!」
 
 ;CHR K09F1 R
 #cg コノミ kon_1_09f1 右
 #wipe fade
 
 #voice konb0112
-【コノミ】「やった〜」
+【Konomi】「Hooray〜」
 
-……要するに褒められればなんでもいいんだな。
+...Basically, all they want is to be praised. They don't really care what the praise is, or what they're praised for, they just want praise.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-この騒ぎが気にならないなんて、ツキヨはよほど集中しているらしい。
+Tsukiyo is completely ignoring Konomi and Hinata's ruckus, intent on his work.
 
-この子達に邪魔をされたらかわいそうだな。
+I feel sorry for him, having to deal with these distractions.
 
-少し静かに集中させておいてあげるか。
+I'll let him be alone for a bit so he can focus quietly.
 
-俺はツキヨのそばをそっと離れた。
+I quietly move away from Tsukiyo.
 
 ;暗転
 ;#face off
@@ -306,203 +324,219 @@
 #bg BG07b_1
 #wipe fade
 
-そのあともヒナタが手を切ったり、イバラが癇癪を起したりといった騒ぎがあったが、ツキヨは黙々と細工を続けていた。
+After that, Hinata accidentally cut himself, and Ibara got carried away and threw a fit, but Tsukiyo continued to work quietly.
 
-うーん、すごい集中力だ。
+He really does have an amazing ability to concentrate.
 
 ;※メモ　ボイスがない場合カット
-;ツキヨ:「でき、ました」
+;ツキヨ:「でき,ました」
 
-ツキヨがようやく顔を上げたのは、昼から作っていた細工が完成した時だ。
+Tsukiyo finally looks up for the first time in hours, his work finally complete.
 
-他のエルフたちはとっくに飽きて、外に遊びに行ってしまっている。
+The other elves have long since grown bored with this, and gone outside to play.
 
-「見せてもらってもいいかな？」
+「May I have a look?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0056
-【ツキヨ】「はい。どうぞです」
+【Tsukiyo】「Yes, please do.」
 
-おずおずと、でも、まっすぐに差し出されたそれは、地道に少しづつ彫り進めていたせいか、びっくりするほど精巧な出来だ。
+He timidly - but earnestly - thrusts his shockingly elaborate carving towards me. His hours of painful concentration and work have really paid off.
 
-「へぇ！　これはすごいよ、ツキヨ！」
+「Huh! This is really good, Tsukiyo!」
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0057
-【ツキヨ】「え、えへへ……そうです？」
+【Tsukiyo】「E-Ehehe...is that right?」
 
-「うん、今日ちょっと教えただけなのに、これだけのものを作れるなんて思わなかった」
+「Yes. I only taught you the basics today, and this is way beyond my expectations.」
 
 #voice tikb0058
-【ツキヨ】「うふっ、うふふ……ありがとうです」
+【Tsukiyo】「Ufu, ufufu...Thank you.」
 
-ツキヨが作ったツノカブトは、何しろパッと見には本当に動き出しそうだと思える程だ。
+Tsukiyo's carved rhinocerous beetle is so well done it looks like it might start moving at any second.
 
-「ツキヨはツノカブトが好きかい？」
+「Do you like rhinocerous beetles, Tsukiyo?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0059
-【ツキヨ】「……はい」
+【Tsukiyo】「...Yes.」
 
-控えめにこくりとツキヨは頷いた。
+Tsukiyo nods politely.
 
 #voice tikb0060
-【ツキヨ】「ツノカブト、黒い、です。おんなじ、だから……」
+【Tsukiyo】「Rhinocerous beetles, are dark. Same, as me...」
 
-あぁ、そうか。ツキヨは肌の黒い自分と、黒い外皮を持つ甲虫に自分を重ねていたんだな。
+Oh, I see. Tsukiyo has dark skin, so he likes rhinocerous beetles, who have shells of a similar tint.
 
-そのことを知って少し切なくなった。
+...The realization makes my chest hurt slightly.
 
 #voice tikb0061
-【ツキヨ】「それに、嫌いな人が、たくさんいるのも、おんなじです」
+【Tsukiyo】「And, lots of people hate us, so we're the same that way, too.」
 
-「そんな悲しいこと言わないでよ……」
+「Don't say something so depressing...」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
 
 
 #voice hinb0078
-【ヒナタ】「あー、ツキヨナデナデしてもらってるっ！　いいなっ！」
+【Hinata】「Aaah, you're patting Tsukiyo's head! I'm so jealous!!」
 
-思わずツキヨの頭を撫でていると、戻ってきたヒナタたちがドタドタと駆け込んできた。
+I started patting Tsukiyo's head without even thinking about it, when Hinata and the others burst in the door.
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0060
-【イバラ】「なんだ。やっとできたのか、ツキヨはグズだな」
+【Ibara】「What, Tsukiyo finally finished? Certainly took his time.」
 
-そう言いながら机を覗き込んだイバラは、のけぞった。
+Ibara says, peering to take a look at Tsukiyo's finished work, before recoiling.
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0061
-【イバラ】「うわっ！？　なんかいる！　気持ち悪い！」
+【Ibara】「Uwaaah!?　Something's there! Disgusting!」
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0062
-【ツキヨ】「あ、あのね……ツノカブト……作ったの……」
+【Tsukiyo】「U-Um....I made...a rhinocerous beetle...」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0079
-【ヒナタ】「え、これツキヨがつくったの！？　すっごい！　ホンモノみたい！」
+【Hinata】「Eh, you made this, Tsukiyo!? Amazing! It looks real!」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0113
-【コノミ】「うん〜、よくできてるね〜」
+【Konomi】「Yeah〜, it's very well done〜」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0062
-【イバラ】「ぎゃ〜！　気持ち悪いからこっちに近づけるなぁ！」
+【Ibara】「Kyaah〜!　It's disgusting! Keep it away from me!」
 
-イバラは虫が苦手なのか、部屋の隅っこにまですっ飛んでいってしまった。
+Ibara flees into a corner of the room, hiding from the wooden insect. He must dislike bugs.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0080
-【ヒナタ】「え〜？　でも、これすっごいよっ！　アシもちゃんとあるの！」
+【Hinata】「Eh〜?　But it's amaziiiing! Look, it even has legs!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0114
-【コノミ】「すごいよねぇ〜、知らないでみたら、きっと生きてるって思うよ〜」
+【Konomi】「It's very impressiveee〜, if I didn't know it was fake I'd definitely think it was aliveee〜」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0063
-【イバラ】「わかった、わかったから！　おなかの方むけるなって！　そっちの方が気持ち悪いんだよ！」
+【Ibara】「I understand, I understand already! Don't point the stomach at me! That side is even more disgusting!」
 
-「そんなに怖がらなくても、噛み付いたりしないから」
+「You don't need to be so afraid, it won't bite.」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0064
-【イバラ】「ば、バカ！　ボクは怖がってなんかないぞ！」
+【Ibara】「F-Fool! I'm definitely not afraid!」
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0063
-【ツキヨ】「ご、ごめんなさい。イバラ……そんなに嫌がると思わなかったです」
+【Tsukiyo】「I-I'm sorry, Ibara...I didn't think you'd hate it so much.」
 
-イバラがあまりに気持ち悪がるものだから、ツキヨはしょんぼりしてしまった。
+Ibara's extreme disgust depresses Tsukiyo.
 
-「……ま、あそれだけ良く出来てるってことだと思うよ。虫が嫌いなら怖くなるくらいにね」
+「...Well, if it's good enough to make someone afraid of bugs scared of it, that's just a sign of how well you made it.」
 
 #voice tikb0064
-【ツキヨ】「……うぅ」
+【Tsukiyo】「...Oh.」
 
-「しょんぼりしなくていいよ。それだけツキヨが上手にツノカブトを作ったって事なんだから。俺にだって、あんなに上手には作れない」
+「You shouldn't be so depressed. You made an amazing rhinocerous beetle, Tsukiyo. I couldn't have done nearly as good a job myself.」
 
 #voice tikb0065
-【ツキヨ】「……上手に作れない、です？」
+【Tsukiyo】「...You couldn't have made one just as good?」
 
-「やっぱり好きだとその分よく見てるんだろうな」
+「You can really see how much you love them in your work.」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0066
-【ツキヨ】「……はい。ちっちゃくて、なのにピカピカして、かっこいいから、好きです」
+【Tsukiyo】「...Yes. They're small, but so shiny and cool. I love them.」
 
-ツキヨは褒められて照れているが、さっきツノカブトと自分を重ねて「嫌いな人が、たくさんいる」と言っていた姿を思い出すとたまらなくなった。
+Tsukiyo looks so bashful at being praised...but I can't help but remember his earlier words, that he likes rhinocerous beetles because, like him, many people hate them.
 
-「そっか……ツキヨがツノカブトを好きみたいに、俺はツキヨのことが好きだよ。多分、ヒナタたちもね。みんなが嫌いなわけじゃない」
+「You know...just like you love rhinocerous beetles, Tsukiyo, I love you. And I think Hinata and the others do to. Nobody here dislikes you.」
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0067
-【ツキヨ】「はわ……」
+【Tsukiyo】「Hawawa...」
 
-俺の言葉にツキヨは驚いた顔で俺を見上げてくる。
+My words shock him.
 
-「俺はツキヨのこと大好きだからね」
+「I love you, Tsukiyo.」
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0068
-【ツキヨ】「ありがとう、です」
+【Tsukiyo】「...Thank you so much.」
 
-ツキヨは作ったツノカブトが褒められた時よりもっと嬉しそうな笑顔を見せてくれた。
+Tsukiyo smiles, looking even happier than when I praised his rhinocerous beetle.
 
 ;ツキヨ好感度+1
 #set f4 f4+1

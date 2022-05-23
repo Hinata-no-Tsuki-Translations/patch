@@ -6,224 +6,224 @@
 #bg BG07b_1
 #wipe fade
 
-……一番怪我しそうなのは、ヒナタだよな。
+...Hinata's by far the most likely to hurt himself out of all of them.
 
-誰の様子を……とか言わずに、ヒナタの様子だけは誰よりもしっかり見張っておかないと、とんでもないことをやらかしそうで怖い。
+If I'm going to check on someone...it has to be Hinata. I always have to keep an eye on him, or else I'm worried about what he might get up to.
 
-「どう、ヒナタ。上手に出来そう？」
+「How's it going, Hinata? Coming along well?」
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0017
-【ヒナタ】「うん！　ねぇ、じょーず？　ヒナタじょーず？」
+【Hinata】「Yeah! See, good, right? Hinata's good?」
 
-「……それなに？」
+「...What's that supposed to be?」
 
 #voice hinb0018
-【ヒナタ】「おはなだよ！」
+【Hinata】「A flower!」
 
-「あぁ、お花か。お花……なるほどね」
+「Aaah, a flower. A flower...I see.」
 
-……なるほど、わからない。
+...I see. I don't get it.
 
-削り方が荒くて角張ってるのはさておき、これをどうやって花に見立てたらいいんだろう。
+Leaving aside how rough and angular it is, I just can't see how this looks like a flower in any way.
 
-３枚の花弁らしきものの大きさもばらついていて、そもそも俺が花弁だと思っている箇所が本当に花弁かも定かじゃない。
+There's three big things that might be petals (I'm not sure) but they're all completely different shapes and sizes.
 
-ヒナタはとても自信満々だけど、心の目で見るとこうとか、エルフにはこう映ってるとか、そういうことなんだろうか。
+Hinata's brimming with pride and confidence in his work. When he looks at it, does he only see what he intended to make? Or maybe it looks better to the eyes of an elf?
 
-それともエルフの世界にはこういう花があるとか……。
+Or maybe that's what flowers look like in the elf world...
 
-「……あのさ、ヒナタ。聞いてもいいかな……？」
+「...Um, Hinata, may I ask you a question...?」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0019
-【ヒナタ】「うん、きいてもいいよっ！」
+【Hinata】「Yeah, ask!」
 
-「これは一体どこに咲いてる花なの？」
+「Where does this flower grow, exactly?」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0020
-【ヒナタ】「そこだよっ！」
+【Hinata】「There!」
 
-びしっとヒナタが指さしたのは、この小屋の扉だ。
+Hinata points at the door of my cabin.
 
-「……そこ？」
+「...There?」
 
 #voice hinb0021
-【ヒナタ】「そこのおっきいきのとこにはえてるきいろいおはなだよっ」
+【Hinata】「It's a big yellow flower that grows over there!」
 
-黄色い、花……？
+Yellow...flower...?
 
-「……確かあの花は５枚の花弁だったと記憶してるけど」
+「...I seem to remember those flowers having five petals, not three.」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0022
-【ヒナタ】「うん！　みてわかんないかなぁ、もうっ」
+【Hinata】「Yeah! Can't you tell by looking!?」
 
-ぷくっと頬を膨らませてみせるヒナタは可愛いけど……。
+Hinata's so cute when eh puffs his cheeks out like that...
 
-「まぁ、いいや。怪我だけしないように気をつけなよ？」
+「Well, whatever. Just be sure not to hurt yourself, okay?」
 
-自由な創作意欲を削ぐのはよくないよな、うん。
+He's a free thinker, a creative spirit. I shouldn't try to diminish that. Yep.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0023
-【ヒナタ】「だいじょーぶ、とがったとこはさわっちゃダメなんだよねっ？」
+【Hinata】「It's okaaay, I just don't touch the sharp parts, right?」
 
-「そうそう、だから彫るときは刃の方には手を持っていかないように……」
+「Exactly, keep your hands away from the sharp part of the blade when you're carving...」
 
 #voice hinb0024
-【ヒナタ】「だいじょーぶだってば、ニンゲンさんはシンパイしすぎだよっ！　こーやってとがったとこをさわったら……ぴぎゃっ！」
+【Hinata】「I'll be fiiiine, you worry too much, Human-san! I just have to remember not to touch this part...pigyaaah!」
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
-「ぴぎゃっ！？」
+「'Pigyaah'!?」
 
 ;CHR H02F2 C
 #cg ヒナタ hin_1_02f2 中
 #wipe fade
 
 #voice hinb0025
-【ヒナタ】「わーん、きっちゃったよっ！　いたいよっ！　ちがぴゅーぴゅーでちゃうよっ！」
+【Hinata】「Aaaahhh! I cut myself! It huuuurts! My blood is spurting everywhereeeee!!」
 
-「お約束だなっ！？　大丈夫、ヒナタ！？」
+「Already!? Are you alright, Hinata!?」
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0026
-【ヒナタ】「だいじょぶくないーっ！　わぁあぁんっ！　いたいー！」
+【Hinata】「I'm noooooot alriiiiiight! Aaaaaaahhhh! It huuuurts!」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0009
-【ツキヨ】「ひ、ヒナタ……平気？　痛い？」
+【Tsukiyo】「H-Hinata...are you well? Does it hurt?」
 
 #voice hinb0027
-【ヒナタ】「へいきくないー！　いたいーっ！　わぁん、ちがでてるー！」
+【Hinata】「I'm not well! It huuuuuurts! My blood going everywhereeee!」
 
 ;FACE K02F2
 #face f_kon_0_02f2 94 466
 
 
 #voice konb0009
-【コノミ】「どしたの〜？　切っちゃったの〜？」
+【Konomi】「What's wroooong〜?　Did you cut yourseeelf〜?」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0013
-【イバラ】「だから、ヒナタには無理だって思ったんだよ！」
+【Ibara】「This is why I told you not to do this, Hinata!」
 
-ヒナタが大騒ぎするものだから、皆驚いてわらわらと周りに寄ってきた。
+Hinata's wailing so loudly that the other elves come to check on him.
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0010
-【ツキヨ】「ヒナタ……大怪我、死んじゃう……」
+【Tsukiyo】「Hinata....badly hurt...going to die...」
 
-中でもツキヨは、自分の方が貧血を起こしでもしそうな顔でオロオロしている。
+In particular, Tsukiyo's dark face has gone so pale with fear that I'm worried he might actually be losing blood.
 
 ;CHR H02F2 C
 #cg ヒナタ hin_1_02f2 中
 #wipe fade
 
 #voice hinb0028
-【ヒナタ】「ヒナタしんじゃうの！？　しんじゃうと、いたい！？　うわーんっ！！」
+【Hinata】「Hinata's going to die?! I'm dying, and it hurts!? Uwaaaaahhh!!」
 
-「ちょ、ちょっと見せて……指切ったぐらいで死なないから、大丈夫だから！」
+「L-Let me see that...and you just cut your finger, you won't die, don't worry.」
 
-エルフって切り落としちゃった指とかも治せるんだろうか？
-　
-とりあえず傷口を見てみないことには、何も言えない。
+I wonder - if he'd actually chopped his finger off, could the other elves have healed it with their magic?
 
-隠すように握った手を開かせて、ヒナタの指を確認する。
+For now, I won't say more until I see the wound.
 
-「……少し切っただけか」
+Hinata's clasped his hands together tight. I work them open, and take a close look at his finger.
+
+「...It's just a tiny cut.」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0029
-【ヒナタ】「ふぇ……？」
+【Hinata】「Fueh...?」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0011
-【ツキヨ】「ふぇ……少し切っただけ？」
+【Tsukiyo】「Fueh...it's just a little cut?」
 
-ヒナタが切っていたのは、右手の人差し指をほんのちょっぴり。
+Hinata gave himself a barely visible cut on the tip of his right forefinger.
 
-出てると騒いだ血だって、ほんのぽっちり玉になるかならないかぐらいのものだ。
+Despite all the fuss he was making, there's only a single drop of blood leaking from it.
 
-ほっとして力が抜けた。
+I'm so relieved that I can feel the tension leave my body
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0030
-【ヒナタ】「で、でもいたいもんっ、ちぃでてるもんっ！」
+【Hinata】「B-But it really hurts! And I'm bleeding!」
 
-ヒナタはよほど怪我したのに驚いたのか、一生懸命に主張する。
+Hinata seems to be shocked by my dismissal of his injury, insisting that it's severe.
 
-「このぐらい、舐めとけば治るよ」
+「That small a cut will easily heal with a little spit.」
 
-俺はヒナタの指を口に含んだ。
+I slide Hinata's finger into my mouth.
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0031
-【ヒナタ】「ひゃわっ！？　ニンゲンさん、ヒナタのケガなめたっ！？」
+【Hinata】「Hihaaahhh!? Humans-san, you're licking Hinata's injury!?」
 
-人間の血は鉄臭いものだが、エルフのそれは人間のとは違うのか、かすかに鉄臭くはあるものの少し花のような匂いもする。
+Human blood smells and tastes faintly of iron, but demonstrating their fundamental difference from humans, elf blood does not. It tastes similarly metallic, but it smells like flowers.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0032
-【ヒナタ】「ふぁああ……ニンゲンさん、ありがとっ！」
+【Hinata】「Fuaaah....thanks, Human-san!」
 
-ヒナタは傷を舐められたのが嬉しいのか、先程まで泣き叫んでいたとはとても思えないほどのニコニコ顔だ。
+Hinata seems so happy to have had his wound cleaned by me that he immediately becomes all smiles, making it hard to believe how loudly he was wailing just a few moments ago.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……そういえば、初めて会った時に、自分の怪我は自分で舐めて治すって言ってたっけ。
+...That reminds me, when we first met, Hinata mentioned that he had to lick his own injuries himself to help them heal.
 
-エルフは他人の怪我は治せるのに、自分じゃ治せないなんて不便なもんだな。
+While elves can heal the injuries of others, they cannot heal their own wounds.
 
-しかも、他のエルフは治し合うって話なのに、ヒナタはずっと自分でってことだから……。
+Which means that, if other elves had been around, they could've taken care of Hinata's injuries for him...which in turn suggests that Hinata's been on his own for a long, long time...
 
 ;CHR H04F2 L
 #cg ヒナタ hin_1_04f2 左
@@ -232,39 +232,39 @@
 #wipe fade
 
 #voice ibab0014
-【イバラ】「おいっ！　ニンゲン！　何してるんだ？」
+【Ibara】「Oi! Human! What are you doing?」
 
-ヒナタの過去を思い小さな手を握っていると、イバラがイラついたような声をかけてきた。
+While I was lost in wondering about Hinata's past, clutching his tiny hand, Ibara called out to me, vexed.
 
-「何って、ヒナタの傷口を舐めたんだけど」
+「I'm licking Hinata's wound to help it heal, is it not obvious?」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0015
-【イバラ】「……っ！？　ボクがっ！　ヒナタの怪我を治してやるから、その手を離せっ」
+【Ibara】「...!?　I'll do it! I will heal Hinata's injuries! So you release his hand, immediately!」
 
-「え……？」
+「...Eh?」
 
 #voice ibab0016
-【イバラ】「なんでヒナタばっかり見てるんだ、気に食わないっ！」
+【Ibara】「Why are you only paying attention to Hinata! It is sickening!」
 
 ;CHR H02F2 L
 #cg ヒナタ hin_1_02f2 左
 #wipe fade
 
 #voice hinb0033
-【ヒナタ】「イバラ、いたっ！　いたいよっ！」
+【Hinata】「Ibara, ow! That hurts!」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0017
-【イバラ】「怪我したのはここかっ！？」
+【Ibara】「Where is your injury!?」
 
-イバラは乱暴にヒナタの手を取ると、傷口に手をかざした。
+Ibara roughly grabs Hinata's hand, and forcefully pushes his fingers against the injury.
 
 ;SE
 ;ホワイトアウト
@@ -279,220 +279,220 @@
 #bg bg07b_1
 #wipe fade 300
 
-ぱぁっとイバラの手が優しい光を放ち、その光がヒナタに移って、みるみる傷口が癒えていく。
+Ibara's hand glows lightly with a soft, gentle light. That light slowly moves to Hinata's hand, and Hinata's cut vanishes in an instant.
 
 ;CHR H06F2 L
 #cg ヒナタ hin_1_06f2 左
 #wipe fade
 
 #voice hinb0034
-【ヒナタ】「わぁ……なおっちゃった……ちゃった……」
+【Hinata】「Uwaaah...I'm healed....healed...」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0012
-【ツキヨ】「よかったです、ヒナタ」
+【Tsukiyo】「I am very glad for you, Hinata.」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
 #wipe fade
 
 #voice hinb0035
-【ヒナタ】「うん！」
+【Hinata】「Yeah!」
 
 ;CHR I07F R
 #cg イバラ iba_1_07f 右
 #wipe fade
 
 #voice ibab0018
-【イバラ】「ふんっ、このぐらいたいしたことない！　エルフなら当たり前だろっ！？」
+【Ibara】「Bah, that was nothing! Any elf could have done it easily, no!?」
 
 ;CHR H04F2 L
 #cg ヒナタ hin_1_04f2 左
 #wipe fade
 
 #voice hinb0036
-【ヒナタ】「で、でも……ヒナタ、おけがしたのなおしてもらったの……はじめて」
+【Hinata】「B-But....that's the first time...anyone's healed Hinata's injuries.」
 
 ;CHR I11F2 R
 #cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0019
-【イバラ】「そ、それは……ニンゲンは怪我治せないんだろっ！？」
+【Ibara】「B-But....Human, you do not have the power to heal, do you!?」
 
-「あぁ、うん。俺にはそんな力ないなぁ」
+「Nope, I don't have that ability.」
 
 #voice ibab0020
-【イバラ】「だ、だから見てられなくて……しょーがないからで……」
+【Ibara】「S-So I-I could not simply watch...I did not have a choice...」
 
-「そっか……」
+「I see...」
 
-多分、エルフの世界にいた頃は、イバラとヒナタは仲良しではなかったんだろうな。
+I suspect that Ibara didn't treat Hinata very well when they both resided in the world of elves together.
 
-こうして外の世界に出てきて仲良くなれたってことはいいことだよな。
+If leaving to the outside world allowed them to become closer, in my opinion that's a very good result indeed.
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0037
-【ヒナタ】「えへへっ！　イバラがヒナタのおケガなおしてくれたよっ、ニンゲンさんっ！」
+【Hinata】「Ehehe! Ibara healed Hinata's injuries, Human-san!」
 
-「ヒナタ、良かったな。今度から怪我したら、イバラが治してくれるってさ」
+「That's great, Hinata. I'm sure Ibara will heal you the next time you get hurt, too.」
 
 ;CHR I11F1 R
 #cg イバラ iba_1_11f1 右
 #wipe fade
 
 #voice ibab0021
-【イバラ】「な、なんでボクがハーフエルフにそんなこと……」
+【Ibara】「Wh-Why should I help a filthy half-elf...」
 
 ;FACE K09F2
 #face f_kon_0_09f2 94 466
 
 
 #voice konb0010
-【コノミ】「あ〜、イバラ、ボクもお願いね〜」
+【Konomi】「Ah〜, Ibara, I'll do it too〜」
 
-イバラが反論しようとする前に、コノミが手を挙げた。
+Ibara starts to object, but Konomi cuts him off before he can finish, raising his hand.
 
 ;FACE T04F
 #face f_tuk_0_04f 94 466
 
 
 #voice tikb0013
-【ツキヨ】「……が、頑張って、治します」
+【Tsukiyo】「...I-I will do my best to heal you all as well.」
 
-ツキヨも一生懸命手を上げている。
+Tsukiyo also joins in, politely but firmly raising his hand as well.
 
 ;CHR H07F L
 #cg ヒナタ hin_1_07f 左
 #wipe fade
 
 #voice hinb0038
-【ヒナタ】「ヒナタもヒナタもっ！　おけがしたらなおしてあげる！」
+【Hinata】「Hinata too, Hinata too! If you get hurt, I'll heal you!」
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 
 #voice konb0011
-【コノミ】「じゃあ、みんなでなおしっこだねぇ〜」
+【Konomi】「Then we can all heal each otheeer〜」
 
-「まぁ、でもあんまり怪我はしないようになるべく気をつけるんだよ？」
+「Well, that's all very well and good, but try to avoid being hurt in the first place, okay?」
 
-いくら治せるって言ったって、怪我をしたその瞬間に痛いのはエルフも人間も変わりはないんだろうし。
+Even if they have the power to heal, elves also experience pain when they're injured, the same as any human, so best to avoid it entirely. 
 
 ;CHR I10F2 R
 #cg イバラ iba_1_10f2 右
 #wipe fade
 
 #voice ibab0022
-【イバラ】「ふ、ふん！　ボクはそんな仲間になんて入りたく……」
+【Ibara】「H-Hmph! As if I would ever join your little friend group...」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
 #wipe fade
 
 #voice hinb0039
-【ヒナタ】「ありがとっ！　ヒナタニンゲンさんすきだけど、イバラもだいすきっ！」
+【Hinata】「Thanks! Hinata loves Human-san, but Hinata loves you too, Ibara!」
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0023
-【イバラ】「なっ！？」
+【Ibara】「Wha-!?」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0012
-【コノミ】「良かったね〜、イバラ〜」
+【Konomi】「How nice〜, Ibara〜」
 
 #voice ibab0024
-【イバラ】「よ、よくなんて……」
+【Ibara】「I-It isn't...」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0013
-【コノミ】「ヒナタ〜、ボクのことは〜？」
+【Konomi】「Hinata〜, what about me〜?」
 
 #voice hinb0040
-【ヒナタ】「だいすきだよっ！　いちばんはニンゲンさんだけど、イバラもコノミもツキヨもいっとうスキ！」
+【Hinata】「I love you! Human-san is number one, but I lvoe Ibara and Konomi and Tsukiyo too!」
 
-ヒナタは嬉しそうにニコニコしている。
+Hinata says, smiling cheerfully.
 
-「そっかそっか、一番がいっぱいあってよかったな」
+「I see, I see. Thanks for making me number one, Hinata.」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0041
-【ヒナタ】「うん！　ヒナタここにきてよかった！　いっとうスキがいっぱいふえたよ！」
+【Hinata】「Yeah! Hinata's so glad I came here! I love everyone and everything so much!」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0025
-【イバラ】「……あー、もう、踊るなっ！　ボクは細工物作るんだからっ」
+【Ibara】「...Aah, blast it, stop dancing! I am trying to concentrate on my woodwork here!」
 
 #voice hinb0042
-【ヒナタ】「うん、ヒナタもつくるっ！　できたらとっかえっこしようねっ！」
+【Hinata】「Yeah, Hinata's making wood too! Let's trade when we're finished!」
 
 #voice ibab0026
-【イバラ】「ば……だ、誰が……」
+【Ibara】「Idio-.....wh-who would...」
 
-ヒナタのあまりの喜びように、イバラはうまく言葉が出てこない様子だ。
+Hinata's raw, sheer exuberance is putting Ibara at a loss for words.
 
-「…………とっかえっこ、ね」
+「......Trading, huh.」
 
-……ヒナタのこれをもらうのは、あんまり嬉しくなさそうだな。
+...I'm not sure anybody would be happy to trade what they made for Hinata's rough work.
 
-「俺もとっかえっこの仲間に入っていいかな？」
+「May I join you as a trading partner?」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
 #wipe fade
 
 #voice hinb0043
-【ヒナタ】「いいよっ！　みんなでとっかえっこ、とっかえっこ！」
+【Hinata】「Of course!　We're all gonna trade!」
 
-ヒナタのは俺がもらうことにすればいいかな。
+I'll just have to make sure that I'm the one who ends up swapping for what Hinata made.
 
-せっかく、ヒナタとイバラが仲良くなれそうなのに、こんなことでまた喧嘩になってもつまらないし。
+Hinata and Ibara are finally getting along a little bit better. It would be a shame for that to be undone.
 
-イバラのは結構うまくできてるのに、ヒナタが作った花（？）を押しつけでもしたら、きっとまたイバラは怒るだろうな。
+Ibara actually seems to have a knack for wood-carving, so if Hinata gave him this poorly-made flower(?), Ibara would probably get upset with him again.
 
 ;CHR I11F2 R
 #cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0027
-【イバラ】「と、とっかえっこ、してやってもいいけど……」
+【Ibara】「I-I would like to trade as well...」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0044
-【ヒナタ】「わーい、とっかえっこ！」
+【Hinata】「Yaaay, trading buddies!」
 
-……大丈夫か、俺の考えすぎだったみたいだ。
+...Or maybe I'm overthinking the situation. I think they'll be fine.
 
-やれやれ、村に持っていく売り物は別に作らなきゃならなそうだ。
+Good grief, I'll have to make something else to sell in the village.
 
-せっかくの『クサイモノ』を村の連中に売っちゃうのもなんだしな。
+I could never sell this 'stinky thing' in the village. ;saiku/kusai pun again. Partly because, to be honest, what Hinata's making isn't good enough to sell...
 
-ま、ヒナタのなんか売り物にはなりそうもないけど……ヒナタたちと作った『クサイモノ』は、かけがえのない宝物になりそうな気がした。
+...But also because what Hinata - and the others - have made here today are irreplaceable treasures I would never give away.
 
 ;ヒナタ好感度+1
 #set f1 f1+1

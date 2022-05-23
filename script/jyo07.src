@@ -1,6 +1,9 @@
 
 
-;アイチャッチ表示 BG:BG33_1
+;※アイキャッチ表示 BG:BG33_1
+
+;スキップ禁止
+#waitcancel disabled
 
 #mes off fade
 #system off fade
@@ -24,6 +27,12 @@
 
 ;インターバル
 
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON DBG1023
+#face on
+
 ;BGMch2 amb004 小屋内（夜） 再生
 #bgvoice amb004
 
@@ -33,39 +42,39 @@
 #bg bg07a_3
 #wipe fade
 
-「ふぅ……」
+「Phew...」
 
-しばらく山小屋に残されていた本――先住者の残した記録を読んでいた俺は、きりのいいところで顔を上げた。
+After reaching a good stopping point in the old books the former owner of the cabin left behind, I take a breath and look up.
 
-気がつけば、もうすっかり暗くなっている。
+At some point it got completely dark out without me noticing.
 
-今日は珍しくエルフ達の来訪がなかったから、ずいぶん読みふけってしまったな。
+Today, unusually, none of the elves dropped by, so I spent all my time reading.
 
-先住者の記録は思った以上に、このあたりのことを詳細に記している。しかも、ずいぶんエルフのことにまで踏み込んでいるようだ。
+The previous occupant of the cabin wrote far more about this area than I'd anticipated. Furthermore, there's quite a lot about elves in here, too.
 
-エルフと親しい交流があったらしいこともちらほらと見受けられる。
+He seems to have encountered elves more than once, and had something of a cultural exchange with them.
 
-どうもこんなところに住んでいたにしてはずいぶん学識の深い人物だったらしく、記録のあちこちにわからない記述があった。
+The writer seems to have been a highly educated, scientifically-minded person, surprising for someone who lived in a place like this, and so I often run into words I don't recognize.
 
-……まぁ、わからないっていうのは字が汚いからって言うのもかなりあったんだけど。
+...Well, a lot of it is also that the writer's handwriting is atrocious and nearly indecipherable.
 
-これでもう少し字が綺麗ならありがたかったんだけどな。
+If his writing was even a little better, this would be much, much easier.
 
-聞いたことがなくてわからないような言葉の多くは、これも物置にあった辞書で何とか事足りた。
+Fortunately, I found a dictionary, which explained most of the words I didn't recognize, but not all.
 
-それでも分からない言葉のいくつかは、エルフに関するものなのかもしれない。
+Many of the words that I don't understand are relating to elves in some way.
 
-なんにせよ、この小屋に残されている本を読むだけでもずいぶん時間がかかりそうだ。
+At any rate, reading all the books collected here will take me a significant length of time.
 
-「……エルフ達は、散々邪魔してくれるしな」
+「...What a bother those elves are.」
 
-呟いてみて、思わず笑みが浮かんだ。
+I mutter that to myself, but can't help but smile.
 
-他人と関わることを嫌ってこの森に移り住むことにしたはずなのに、エルフ達との交流はけして嫌ではないことがおかしかった。
+I left the town and moved here because I hated being around people so much, but I don't hate spending time with the elves at all. How strange.
 
-もちろん、困ること、戸惑うことばかりだけど、それも含めて楽しんでいる俺がいる。
+Of course, they cause a lot of problems, and I don't understand a lot about them, but I'm still enjoying myself.
 
-だけど……。
+However...
 
 ;BGMch2 amb004 小屋内（夜） 停止
 #bgvoice stop
@@ -78,41 +87,41 @@
 #bg bg08a_3
 #wipe fade
 
-俺は外に出ると、夜空を見上げた。
+I leave the cabin, and look up at the night sky.
 
-空にはこれからどんどん欠けていくのだろう大きな月がかかっている。
+The empty black void will soon be filled by a large, rising moon.
 
-「次の満月、ってイバラも言っていたか……」
+「The next full moon, Ibara said...」
 
-先住者の残した記録にも、イバラの言葉を裏付けるようなことが書かれていた。
+The previous inhabitant's books support Ibara's statement.
 
-エルフの世界と人間の世界には結界があり、時としてその境界が曖昧になることがある、と。
+There's a barrier between the world of elves and the world of humans, and sometimes that barrier becomes...fuzzy.
 
-どうやら、そのきっかけは月食のような天体の動きによって起こるらしい。
+It seems to be tied to the movement of celestial bodies, such as a lunar eclipse.
 
-そうした時に、好奇心の強いエルフがこちらへ出てくることもあるが、やがて時がくるとその結界は修復され、エルフ達も元いた世界に戻る。
+When it does, inquisitive elves come to visit our world, and when time runs out, the barrier repairs and the elves return.
 
-その期限となるのが満月なのだというところまで、先住者は調べていた。
+My predecessor had guessed that the time limit was the full moon.
 
-しかし、そうそうその結界が緩くなる時というのはこないものらしく、先住者もそれを確認できたのは一度だけ。
+Unfortunately, he never had the chance to actually see the barrier weaken for himself, so he never had the chance to confirm his hypothesis.
 
-……つまり、俺がエルフ達と共に過ごせるのは、次の満月までと定められているようなのだ。
+...All this to say, on the next full moon, my time with the elves will come to an end.
 
-「……その時期まで待てば、平穏な生活が得られるんだよなぁ」
+「...If I just wait until then, I'll finally get my peaceful life.」
 
-満月までなんて、たいした期間があるわけじゃない。
+Until the next full moon is not a significant length of time.
 
-エルフ達はうるさいし、静かに本を読もうとすれば邪魔をするし、気ままで勝手だ。
+The elves are loud, annoying, and they constantly get in the way when I'm trying to quietly read my books.
 
-自分達の気が向けばこちらの事情などお構いなしに押しかけてきて我が物顔で振舞う。
+They bother me whenever they feel like it, not a care for what I'm doing, and do whatever they please.
 
-そんな彼らと過ごす時間が限られているというのは……ちょっとほっとするような気もするけど、どこか残念な気がするのも事実だ。
+And so, the realization that my time with them is limited makes me feel relieved...and also a bit sad.
 
-「相当毒されてるな、俺も」
+「...They're a bad influence on me.」
 
-……さて、明日にはまたエルフ達がやってきて騒がしくなることだろう。
+...Tomorrow, there'll probably be back, and make a ruckus in my home again.
 
-今夜はお茶でも淹れてゆっくり本の続きを読むとしようか。
+I'll make some tea and spend the rest of the night reading in peace.
 
 ;BGMch2 amb002 森（夜） 停止
 #bgvoice stop
@@ -130,45 +139,45 @@
 #wipe fade
 
 #voice hina0308
-【ヒナタ】「ニンゲンさーん！」
+【Hinata】「Human-saaan!」
 
-カップに茶を淹れて、テーブルについた途端に来訪者があった。
+Just as I filled the cup and sat down, a visitor arrived.
 
-「って、昼も夜もお構いなしかい、君はっ！」
+「It's the middle of the night! Do you not pay any attention to the time!?」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hina0309
-【ヒナタ】「だってすごいのみつけたんだよ。ほら！」
+【Hinata】「But I found something incredible. Look!」
 
-「……石がどうしたの？」
+「...A stone?」
 
-ヒナタが差し出した小汚い石に困惑する。宝石かなにかならまだしも、苔だらけで汚らしいことこの上ない。
+Hinata hands me a small stone, leaving me very confused. It's not a jewel, just a rather dirty, moss-covered, rock.
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hina0310
-【ヒナタ】「あれー？　あれれ？　さっきはキレイにぴかぴかしてたのになぁ……」
+【Hinata】「Huuh?　Huh, huh?　It was just all shiny and sparkly...」
 
-「ぴかぴか……光る……あぁ、光苔か」
+「Shiny...light...oh, luminous moss?」
 
 #voice hina0311
-【ヒナタ】「ひかりごけ……？　なに、それ？　ニンゲンさんはたべる？」
+【Hinata】「Loominuss moss? What's that? Human-san, can you eat it?」
 
-「食べないよ。暗いところにあると光る苔なんだ。でもあまり強い光じゃないから、こんな明るいところに持ってきちゃうとわかんないよ」
+「You can't eat it. It's moss that glows in the dark. But it doesn't glow very brightly, so you can't see it in brightly-lit places like the cabin.」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hina0312
-【ヒナタ】「ほぉう！　ほほう！」
+【Hinata】「Hoooh! Hoho!」
 
-ヒナタは理解はしてないけど返事だけはいいよな。
+Hinata responds, but it's clear he has no idea what I'm talking about.
 
 ;CHR OFF
 #cg all clear
@@ -179,26 +188,26 @@
 #wipe fade
 
 #voice ibaa0134
-【イバラ】「うわ、なんだそれ。ばっちぃ」
+【Ibara】「Uwaah, what is that? It's filthy.」
 
-「……一体、イバラはいつの間に来たんだい？」
+「...When on earth did you get here, Ibara?」
 
 #voice ibaa0135
-【イバラ】「通りがかったらいい匂いがしたから来てやった。この匂いは何だ？」
+【Ibara】「I happened to be in the area and smelled something nice, so I stopped by. What is that smell?」
 
-「お茶だけど……」
+「Tea.」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0219
-【コノミ】「ヒナタは好きじゃないみたいだけど、美味しいんだよね」
+【Konomi】「Hinata doesn't seem to like it, but it's really tasty.」
 
-「……コノミも来たんだ」
+「...You're here too, Konomi?」
 
 #voice kona0220
-【コノミ】「うん。小屋の外でツキヨがしゃがんでたから、ツキヨも連れてきちゃったよ〜」
+【Konomi】「Yes. I found Tsukiyo hiding outside, so I brought him too〜」
 
 ;CHR OFF
 #cg all clear
@@ -208,119 +217,124 @@
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
-「こんばんは、ツキヨ」
+「Good evening, Tsukiyo.」
+
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tuka0029
-【ツキヨ】「……こんばんは、です」
+【Tsukiyo】「...Good evening.」
 
-「どうして、小屋の外になんかいたの？」
+「Why were you outside the cabin?」
 
 #voice tuka0030
-【ツキヨ】「……夜怖いけど、傍なら怖くない、です」
+【Tsukiyo】「...Night is scary, but close, it's not scary.」
 
-「……傍って、俺の？」
+「...Close...to me?」
 
 #voice tuka0031
-【ツキヨ】「……はい」
+【Tsukiyo】「...Yes.」
 
-なんだ、すっかり頼られたものだな。なんだかくすぐったい。
+What, he's that attached to me? That's kind of embarrassing.
 
-「それなら中に入ってくればよかったのに」
+「You should've come inside, then.」
 
-ツキヨの肩に手を置こうとすると、イバラが割って入ってきた。
+I try to put my hand on Tsukiyo's shoulder, but Ibara barges between us before I can.
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibaa0136
-【イバラ】「ダークエルフは闇の眷属のはずなのに、夜が怖いなんて変なの！」
+【Ibara】「Dark elves are creatures of darkness, how can you possibly be scared of the night!?」
 
-「こらこら、そんなこと言わないの。そんなのは人それぞれなんだろ。意地悪言っちゃ駄目だよ」
+「Hey, knock it off. Everybody has their own peculiarities. Don't be a bully.」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibaa0137
-【イバラ】「意地悪なんか言ってないぞ。ボクは間違ったこと言ってない！」
+【Ibara】「I am not a 'bully'. I have said and done nothing wrong!」
 
-「はいはい。君達もお茶飲むかい？」
+「Yes, yes. Would you like some tea?」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0221
-【コノミ】「飲みたい〜」
+【Konomi】「I want some〜」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibaa0138
-【イバラ】「飲んでやってもいいぞ」
+【Ibara】「I shall partake.」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hina0313
-【ヒナタ】「ヒナタも！」
+【Hinata】「Hinata too!」
 
-「あれ、ヒナタはお茶苦手なんじゃなかったっけ？」
+「I thought you didn't like tea, Hinata?」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
 
 
 #voice hina0314
-【ヒナタ】「あ、そーだった！」
+【Hinata】「Oh, that's right!」
 
-「じゃあ、ヒナタにはお水でいいかな……ツキヨも、お茶飲んでみる？」
+「Then I'll give you some water...Tsukiyo, do you want tea as well?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tuka0032
-【ツキヨ】「……ん。飲んでみるです」
+【Tsukiyo】「...I'll try it.」
 
-「よし、わかった。……って、器が全然足りないか」
+「Got it...oh, do I not have enough cups?」
 
-やれやれ、エルフたちのために飲み物用の器くらいは用意しなくちゃならないかな。
+Good grief, I should've gotten some more cups in case the elves needed them when I was in town.
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0222
-【コノミ】「じゃあ、ボクはニンゲンくんのからもらうからいいよ〜」
+【Konomi】「Then I'll drink from Human-kun's cup〜」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibaa0139
-【イバラ】「ボクにはちゃんと用意しろよ！」
+【Ibara】「I demand my own! Make sure you prepare one for me!」
 
 ;FACE H08F1
 #face f_hin_0_08f1 94 466
 
 
 #voice hina0315
-【ヒナタ】「えへへ〜おみず〜」
+【Hinata】「Ehehe〜 water〜」
 
-ただの水でニコニコしているヒナタにつられて、ツキヨも笑みを見せる。
+It's just water, but it makes Hinata smile so happily. Tsukiyo also flashes a small smile.
 
 #voice tuka0033
-【ツキヨ】「ふふふ、楽しいです」
+【Tsukiyo】「Fufufu, this is fun.」
 
-まったく、騒がしいなぁ……。
+Honestly, what a bother they are...
 
-だけど、そんな騒がしさも悪くはない。
+But a bother isn't so bad.
 
-俺はお湯を沸かすために腰を上げた。
+I stand up, preparing to bring more water to a boil.
 
 ;b01へ
 #next b01
