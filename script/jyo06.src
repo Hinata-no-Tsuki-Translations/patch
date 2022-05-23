@@ -1,179 +1,196 @@
 
+;FACE ON DBG1023
+#face on
 
 ;背景：森A（昼）
 ;変更なし
 
 ;サウンド変更なし
 
-俺は思いきり息を吸い込んで叫んだ。
+I take a deep breath, then shout.
 
-「ぎゃああああああ、化け物っ！　魔物だっ！　怪物だっ！」
+「Gyaaaaaaaaaaa, a beast!　A demon! There's a monster!」
 
+;se014	騒々しい羽音を立てて鳥が飛び立つ
+#se 1 se014
 
-【村人１】「なんだとっ！」
+【Villager１】「What was that?!」
 
+【Villager２】「Whaaat!?」
 
-【村人２】「な、なにぃ！？」
+The villagers, hearing me shouting, start looking around, confused.
 
-俺の叫び声を聞いた村人たちはあたふたと周囲を見回し始めた。
+Alright, just one more push.
 
-よし、もうひと押し。
+When I boldly jump out in front of them, some of the villagers are so shocked they fall over.
 
-思い切って村の連中の前に飛び出すと、何人かが腰を抜かしかけたみたいだ。
+I ignore them and start talking.
 
-俺はそれにかまわず早口にまくし立てた。
+「I-It's terrible! You have to run, there's a monster! It heard me screaming and it's coming right for us!」
 
-「お、おい、あんたら大変だ！　すぐ逃げろ、魔物が出たぞ！　今俺が叫んだせいでこっちに来てる！」
+【Villager２】「O-Oi, are you serious!?」
 
+【Villager１】「We have to get out of here...」
 
-【村人２】「お、おいマジかよ！？」
+Terrified, some prepare to run, but don't know which way to go, others just freeze on the spot.
 
+...If they actually ran into an orc or a troll, they'd be slaughtered.
 
-【村人１】「早く逃げなきゃ……」
+【Villager３】「What kind of monster!?」
 
-あたふたおろおろと、どいつもこいつも次に取るべき行動に戸惑っている様子だ。
+...What a pain this guy is, asking that question.
 
-……これで本当にオークやトロールが出てたら、もうこいつら死んでるぞ。
+「It's huge, covered in hair, and has a giant mouth. It's a troll or orc or something, I don't know!」
 
+As I invent a monster on the fly, some of hte men appear to be on the verge of making a break for it, while others are more hesitant.
 
-【村人３】「魔物っていったいどんなだ！？」
+【Villager２】「Y-You're kidding, right? Hey...」
 
-……めんどくさいこと聞く奴だな。
+That one's almost crying. 
 
-「身の毛もよだつような、毛むくじゃらのこーんな大きな口をした奴だった。オークなのかトロルなのかよくわかんないけど！」
+「I've been living here, so I've seen a few monsters, but I've never seen a monster that big before.」
 
-適当にでっちあげると、もう何人かは周囲の様子を伺いながらも、我先に逃げ出そうとしている。
+【Villager１】「Y-You've seen a few monsters!?　...O-Oh yeah, you did move to the forest a while ago...」
 
+「Yeah, I've been dealing with the deadly on the daily...shh, did you hear something?」
 
-【村人２】「な、なぁ、嘘だろ？　なぁ……」
+I go quiet, shushing the men, then put an expression of terror on my face and point behind them.
 
-あーあ、泣きそうになってるよ。まぁ、嘘なんだけどさ。
+「Uwaah! Th-There it is!?」
 
-「森に住むようになってから魔物はよく見るが、あんなおっかないの初めて見る」
+;se014	騒々しい羽音を立てて鳥が飛び立つ
+#se 1 se014
 
+【Villager１】「Hiiii!?」
 
-【村人１】「ま、魔物をよく見る！？　……そ、そういえばお前、最近森に移り住んで……」
+【Villager２】「Uwaaaaah! Waaaaahh!」
 
-「あぁ、危ない目に遭うこともしょっちゅうだ……し、何か聞こえないか」
+【Villager３】「Save meeeeeee!」
 
-俺は深刻そうに声を顰めて男たちの耳目を集めてから、皆の背後を指差して叫んだ。
+;se017	草むらへ倒れる
+#se 1 se017
 
-「うわっ！　き、きたっ！？」
+The villagers scream and run in random directions.
 
+It was a simple trick, but it worked surprisingly well.
 
-【村人１】「ひえっ！？」
+Some of them fall over, but they're all too concerned with themselves to bother stopping to help.
 
+One of the fallen ones reaches out to grab his friend, trying to get back up, but his friend screams and pushes him away, then keeps running.
 
-【村人２】「うわっ、うわわっ！？」
+Aaah, humans sure are unsightly creatures.
 
+「Gyaaaaaahh! Save meee! Get back, get back! Noooooooooooo.....just kidding.」
 
-【村人３】「助けてー！」
+I scream a bit and make the appropriate noises, until I glance around and confirm there's nobody around.
 
-村人たちは口々に叫びながら、脱兎のごとくてんでバラバラに逃げ出して行った。
+Not a soul in sight.
 
-単純な手だけど、面白いほどひっかかったな。
+「Pretty cold-hearted of them...」
 
-何人かは転んだりしているが、誰しも自分の身が可愛いのか、自分だけでもと死に物狂いで走っている。
+None of them even bothered to try to help me, or even check. Well, I don't really care.
 
-後ろの奴に掴まれたのを、悲鳴をあげて振り払う奴までいる始末だ。
-
-あーあ、人間てのは醜いねぇ。
-
-「ぎゃーたーすけてー！　おいてかないでー！　……なーんてね」
-
-怪しまれないように適当に騒いでから、連中が逃げて行った方角を見てみると、相当本気で走っていったみたいだ。
-
-既に影も形も見えなくなった。
-
-「薄情だなー……」
-
-俺のことはおかまいなしか。ま、いいけどさ。
-
-しっかし、連中情けなかったな。俺が嘘ついてたって知ったらどうするのかな。
+Still, they sure were pathetic. What would they have done if they knew I was lying?
 
 ;CHR T10F3 C
 #cg ツキヨ tuk_1_10f3 中
 #wipe fade
+#face f_tuk_0_10f3 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0003
-【？？？】「……食べ……られちゃう」
+【???】「...I'll...get eaten.」
 
-「ん？」
+「Hm?」
 
-見れば、連中に囲まれていた子は、頭を抱えてぶるぶる震えている。
+When I look, the boy that they'd surrounded is still there, curled in a ball, trembling in terror.
 
-しまった、この子まで怖がらせちゃったか。
+Oh no, did I scare him too?
 
-「……もう、大丈夫だよ」
+「..It's okay.」
 
-声をかけてあげても、俺の言葉なんて全然耳に入っていないようだ。
+I try to talk to him, but he doesn't seem to hear me.
 
-仕方ない。怖がらせちゃうかもしれないけど……。
+Can't be helped. This might scare him, but...
 
 ;CHR T10F4 C
 #cg ツキヨ tuk_1_10f4 中
 #wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0004
-【？？？】「ひっ……！？」
+【???】「Hii...!?」
 
-そっと肩に手を置くと、少年は身をこわばらせて悲鳴を上げた。
+I gently put my hand on his shoulder, making him freeze in terror and scream.
 
-「あの……魔物が出たっていうのも、嘘だから。あいつらもいなくなっちゃったし、もう俺一人しかいないよ」
+「Um...I was lying when I said there was a monster. They're all gone. It's just me.」
 
 ;CHR T10F1 C
 #cg ツキヨ tuk_1_10f1 中
 #wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0005
-【？？？】「……え？」
+【???】「...Eh?」
 
-怯えながら上げた顔はやっぱり見慣れないもので……だけど、とても美しい顔立ちをしていた。
+The child's face was terrified, and I didn't recognize him...but he was beautiful.
 
-このところ、ナナシやコノミ、イバラですっかり美しい子には慣れたつもりでいたけど、それでも美しいものは美しい。
+Lately, I've been spending a lot of time with beautiful children - Ibara, Nanashi, Konomi - but beautiful is still beautiful.
 
-「……君、ひょっとしてエルフ？」
+「...Are you, by any chance, an elf?」
 
 ;CHR T10F2 C
 #cg ツキヨ tuk_1_10f2 中
 #wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0006
-【？？？】「っ……！？」
+【???】「...!?」
 
-黒いエルフはびくっとすると、俺の顔を怯えるように見上げた。
-
-;ツキヨ
-#voice tuka0007
-【？？？】「……どうして、です？　どうしてわかるです？」
-
-力ないか細い声で、酷く怯えられているのが良くわかる。
-
-頭からかぶった布をぎゅっと押さえているのは、尖った耳を見られないようにかもしれない。
-
-俺は黒いエルフを怯えさせないようにしゃがんで視線を合わせた。
-
-「んー……それは君みたいな子たちを知ってるから、かな」
+The dark-skinned elf starts, then looks up at me, still terrified.
 
 ;CHR T10F1 C
 #cg ツキヨ tuk_1_10f1 中
 #wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+;ツキヨ
+#voice tuka0007
+【???】「...How? How do you know?」
+
+His voice is tiny. I can tell just how terribly scared he is.
+
+He grabs the cloth around his head and squeezes, making sure it's still on, and that he hasn't exposed his long ears.
+
+I squat down besides the dark elf, and meet his eyes, being careful not to scare him.
+
+「Hm...Probably because I've met a few kids like you before.」
 
 ;ツキヨ
 #voice tuka0008
-【？？？】「……みたいな、子です？」
+【???】「...Like me?」
 
-「ついてくればわかるよ、と言いたいけど、さっきの今で人間についてくるのは怖いかな？」
+「I'd like to say 'come with me and I'll show you', but after what just happened, you're probably too scared to follow a human anywhere, huh?」
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0009
-【？？？】「……」
+【???】「...」
 
-黒いエルフはしばらく考えた後、ぷるぷると首を左右に振った。
+The dark-skinned elf spent a while in thought, then shook his head.
 
 ;暗転
 ;#face off
@@ -197,14 +214,14 @@
 
 ;ヒナタ
 #voice hina0288
-【ナナシ】「ニンゲンさーん！　おっかえりー！」
+【Nanashi】「Human-saaaan! Welcome baaack!」
 
 #voice kona0207
-【コノミ】「おかえりなさい〜」
+【Konomi】「Welcome home〜」
 
-山小屋にはナナシとコノミがいた。まるで自分の家かのようなくつろぎぶりだ。
+Nanashi and Konomi were both at the cabin. They're both completely at ease, like it's their own home.
 
-またどっか変な悪戯してないだろうな……。
+I hope they're not up to any mischief again...
 
 ;CHR H06F1 L
 #cg ヒナタ hin_1_06f1 左
@@ -212,16 +229,16 @@
 
 ;ヒナタ
 #voice hina0289
-【ナナシ】「あれ、だれかいっしょだよ！」
+【Nanashi】「Oh, someone's with you!」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice kona0208
-【コノミ】「おぉ〜？　その子はお土産〜？」
+【Konomi】「Ooh〜?　You brought us this boy as a souvenir〜?」
 
-「お土産って言うか……」
+「Not quite a souvenir...」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
@@ -229,9 +246,9 @@
 
 ;ツキヨ
 #voice tuka0010
-【？？？】「……あっ」
+【???】「...ah.」
 
-ちらっと黒いエルフの方を見ると、黒いエルフは俺の影に隠れた。
+They try to get a better look at the dark-skinned elf, but he hides in my shadow.
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -239,7 +256,7 @@
 
 ;ヒナタ
 #voice hina0290
-【ナナシ】「お？　かくれんぼっ！？　かくれんぼっ！？」
+【Nanashi】「Oh? Hide and seek!? Hide and seek!?」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
@@ -247,73 +264,73 @@
 
 ;ツキヨ
 #voice tuka0011
-【？？？】「わ、わわわ……？」
+【???】「Awawawawa...」
 
-ナナシに追われるようにして、黒いエルフはきょときょとと逃げ腰になっている。
+Nanashi moves to charge towards him, and the dark elf, scared yet again, gets ready to flee.
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0209
-【コノミ】「あれ〜？　ナナシじゃないか」
+【Konomi】「Huh〜?　Well, if it isn't Nanashi.」
 
-「ナナシ？　ナナシって、この子もナナシって言うの？」
+「Nanashi? You mean this boy is also named Nanashi?」
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice kona0210
-【コノミ】「うん、そうだよ〜。ダークエルフの、ナナシ」
+【Konomi】「Yep, that's right〜. He's Nanashi, the Dark Elf.」
 
-「ふーん、同じ名なのか」
+「Hmmm. So they have the same name.」
 
-人間ではよくあることだから聞き流しかけて、ふと不思議に思った。
+It's quite common in humans, at least, but I'm curious about whether it is for elves.
 
-「同じ名が何人もいるくらいエルフってたくさんいるの？」
+「Is sharing a name common amongst elves?」
 
-そんなに沢山いるなら、よほど大きな集落なんだろうな。
+If there's a lot of people with the same names, then perhaps their village is much bigger than I originally thought.
 
-そんな集落がこの近くにあったのに、これまでほとんど出会わなかったっていうのも不思議なものだ。
+If so, then it would be very strange that I've barely heard about it before now.
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice kona0211
-【コノミ】「たくさん？　ん〜ん、いないよ〜？」
+【Konomi】「A lot?　Hmm〜, no, there aren't〜」
 
-けれど、コノミは不思議そうに首を横に振った。
+But, Konomi, confused, shakes his head.
 
-「え、じゃあ、何で同じ名前をわざわざつけるの？」
+「Eh? Then why would they both be given the same name?」
 
 #voice kona0212
-【コノミ】「名前をつける？　誰が？」
+【Konomi】「Given a name? By who?」
 
-「名前をつけるのは、親とかだろ？」
+「I mean, wouldn't they get their names from their parents?」
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice kona0213
-【コノミ】「ん〜？　エルフには親とかっていないよ？」
+【Konomi】「Mnn〜?　Elves don't have parents.」
 
-……そういえば、コノミやイバラにはへそがなかったっけ。
+...Konomi and Ibara don't have belly-buttons.
 
-「……んんっ？　じゃ、エルフってどうやって生まれてくるんだ？」
+「...Huh? Then how are elves born?」
 
 #voice kona0214
-【コノミ】「ん〜？　ナナシは親がいるのかな〜？　でも、普通のエルフはいなーいよ〜？」
+【Konomi】「Mnn〜?　Nanashi probably has parents〜?　But normal elves dooon't〜?」
 
-そういって指さしたのは蜂蜜色の髪をしているナナシの方だ。
+As he speaks, he points to the Nanashi with fair skin and hair the color of honey.
 
-ダークエルフの方には親がいないのかな。
+Does the dark elf Nanashi also not have parents, then?
 
-……わからん。
+...I'm failing to understand what he's talking about.
 
-「しかし、ナナシとナナシじゃややこしいな」
+「Still, if they're both called Nanashi, that's confusing.」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
@@ -321,7 +338,7 @@
 
 ;ヒナタ
 #voice hina0291
-【ナナシ】「ねーねー、きみもでてきたの？　たのっ？」
+【Nanashi】「Hey, hey, did you come out too? Out too?」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
@@ -329,164 +346,167 @@
 
 ;ツキヨ
 #voice tuka0012
-【黒いナナシ】「……」
+【Dark Nanashi】「...」
 
-連れてきたのはいいけど、黒いエルフはナナシとコノミにも怯えているみたいだ。
+I brought him alone, but Dark Elf Nanashi seems scared of Nanashi and Konomi.
 
-「どうしたもんかなー」
+「What to do, what to do...」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-思案していると……。
+As I was thinking...
 
 #voice ibaa0112
-【イバラ】「きてやったぞ、ニンゲン！」
+【Ibara】「I've arrived, Human!」
 
-;SE
+;SE se013 扉のバタン音
+#se 1 se013
 
-ばんっ
+Slam!
 
 ;CHR T02F L
 #cg ツキヨ tuk_1_02f 左
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0013
-【黒いナナシ】「きゃあっ！」
+【Dark Nanashi】「Kyaaaah!」
 
-思いっきりよく、イバラが戸を開けたものだから、黒いナナシが悲鳴を上げた。
+Ibara slams the door open, making Dark Nanashi scream in fright.
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaa0113
-【イバラ】「ん……お前。ダークエルフじゃないか。ニンゲン、お前の所にはよくよく半端モノが集まるらしいな」
+【Ibara】「Hm...You. A dark elf, is it? Human, you sure seem to enjoy collecting oddities.」
 
 ;ツキヨ
 #voice tuka0014
-【黒いナナシ】「……あ……う……」
+【Dark Nanashi】「...Ah...uh...」
 
-「……そういう言い方をすると、お前自身も半端モノと言うことになると思うんだけど」
+「...You know, in my opinion, you're an oddity as well.」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0114
-【イバラ】「何か言ったか、ニンゲン」
+【Ibara】「Did you say something, Human?」
 
-イバラは嫌そうな顔で黒いエルフを見た。
+Ibara's staring at the dark elf, an unpleasant expression on his face.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0215
-【コノミ】「ナナシはニンゲンくんのお土産なの〜」
+【Konomi】「Nanashi is Human-kun's souvenir〜」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaa0115
-【イバラ】「……またナナシか」
+【Ibara】「...Another Nanashi, is it.」
 
-「それなんだけどさ、エルフって同じ名前を子どもにつける習慣があるの？」
+「About that - do elves commonly give their children the same names?」
 
 ;CHR I08F R
 #cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibaa0116
-【イバラ】「同じ名前？」
+【Ibara】「Same names?」
 
-「エルフにどんな習慣があるのか知らないけどさ、人間なら普通は同じ里で近い時期に生まれた子どもの名はかぶらないようにするものだからさ」
+「I don't know what customs the elves have, but humans, normally, try to not name their children the same name as someone else's child, at least in the same village.」
 
-「それなのに、この子もこの子もナナシってややこしくないのかなと思って……」
+「And yet, both of these kids are named Nanashi. It just seems confusing to me...」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0117
-【イバラ】「エルフは不要なものに名前を与えない」
+【Ibara】「Elves do not name the unnecessary.」
 
-「不要なものに名前を与えない……？」
+「Don't name the unnecessary?」
 
-そう言えば、コノミは木の実とか果実とかって言う意味のエルフ語を人間の言葉に直したものだって言っていたっけ。
+In Elvish, they're named after things. The word 'Konomi' means fruit, and Konomi's real Elvish name means the same thing.
 
-イバラは植物のアレを人間語で、ということだろう。
+And 'Ibara' means thorn, or rose. Which means Ibara's Elvish name must mean something similar. Elvish names are words, and they names they use with me are translations of those words.
 
-……とすると。
+...That means...
 
-「ナナシ、って人間の言葉に直すと……」
+「If you treat Nanashi as a word and not a name..」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaa0118
-【イバラ】「ナナシはナナシだろ？　人間の言葉じゃないか。何をおかしなこと言ってるんだ、ニンゲン」
+【Ibara】「Nanashi is Nanashi, correct? It's a human word. You're acting very strange, Human.」
 
-――ナナシは『名無し』か。
+――Nanashi means "Nameless".
 
-「それはあんまりなんじゃないか？　エルフの親っていうのは、一体何を考えてそんな名をつけるんだ？」
+「Isn't that a bit too much? What are their elf parents thinking, giving them that kind of name?」
 
-思わず嫌な顔になった俺に、イバラは不思議そうに言った。
+I can't help but grimace. Ibara speaks to me, seeming confused.
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0119
-【イバラ】「親？　さっきから何を言ってるんだ、お前は。名前が無いから、名無し、だろ」
+【Ibara】「Parents? You've been talking nonsense for a while. They don't have names, so, Nanashi, correct?」
 
 #voice ibaa0120
-【イバラ】「エルフは最初から完全な存在として生まれてくる。ハーフエルフのような例外はあっても、普通は親なんていない」
+【Ibara】「Elves are born as already perfect beings from the moment of their creation. Half-elves are an exception, but normally, elves do not have parents.」
 
-「親がいない……？」
+「Don't have parents...?」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaa0121
-【イバラ】「そうだ。そして名は生まれ持った紋章によって与えられる」
+【Ibara】「Yes. And when you're born, you're given a name by the crest you bear.」
 
-「紋章？」
+「Crest?」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0122
-【イバラ】「お前の目は節穴か？　ボクのここにある美しい紋章が見えないのか？」
+【Ibara】「Are your eyes knotholes? I have an exquisite crest right here. Can you not see it?」
 
-イバラは誇示するように薄い胸を突きだした。
+Ibara thrusts out his small chest towards me.
 
-言われてみれば確かにイバラの鎖骨の下あたりには美しい花の形をした痣のようなものがある。
+Now that he mentions it, there really is what looks like a rose-shaped birthmark just under his collarbone.
 
-「それが紋章？　いや、見えてるけど、それって生まれつきのものなのか？」
+「That's a crest? I can see it, but, you're saying you were born with it?」
 
-……これが紋章か。
+...So that's a crest.
 
 #voice ibaa0123
-【イバラ】「そうだ。これがエルフとしての出自を明らかにするものだ。だから、紋章のない者は皆名無しと言う意味の名で呼ばれる」
+【Ibara】「Correct. An elf's crest is what indicates their birth. Which is why those without crests are all nameless, or Nanashi.」 ;birth = Ibara uses a word that could mean 'place of birth', or 'bloodline'. Unclear.
 
-なるほど。ダークエルフにもハーフエルフにも紋章がないから、名前が与えられない……名無しなのか。
+I see. So both dark elves and half-elves don't have crests, so they aren't given names...so they're Nanashi.
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaa0124
-【イバラ】「ボクのこの紋章は、この花の守護と精を受けて産まれたということ。この花に祝福されているということだ」
+【Ibara】「My crest grants me the protection and vitality of the flower it depicts. I've been blessed by this flower.」
 
 #voice ibaa0125
-【イバラ】「人間のように紋章を持たないダークエルフやハーフエルフは、この世界に必要ないんだ。だから名が与えられない」
+【Ibara】「Dark Elves, Half-Elves, born without crests like you humans, are not needed in this world. As such, they are not given names」
 
 ;FACE H03F2
 #face f_hin_0_03f2 94 466
@@ -494,30 +514,32 @@
 
 ;ヒナタ
 #voice hina0292
-【ナナシ】「……」
+【Nanashi】「...」
 
 ;CHR T10F2 L
 #cg ツキヨ tuk_1_10f2 左
 #wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0015
-【黒いナナシ】「……」
+【Dark Nanashi】「...」
 
-イバラの言葉に、ふたりのナナシはひどく悲しそうな顔になった。
+Ibara's words make both Nanashis look very sad.
 
-普段ははしゃいでばかりいる、うるさいナナシまで……。
+To think this could even quiet down the always-bubbly Nanashi...
 
-「……俺は、それはおかしいと思う」
+「...I think that's strange.」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0126
-【イバラ】「はぁ？」
+【Ibara】「Haah?」
 
-「エルフがどういう考え方をしていてもかまわないよ。でも、俺はこの世に必要のないものなんてないと思うんだ」
+「I don't care what elves think. But I don't think there's anything in this world that's unneeded.」
 
 ;FACE H04F2
 #face f_hin_0_04f2 94 466
@@ -525,61 +547,65 @@
 
 ;ヒナタ
 #voice hina0293
-【ナナシ】「ニンゲンさん……」
+【Nanashi】「Human-san...」
 
 ;CHR T10F1 L
 #cg ツキヨ tuk_1_10f1 左
 #wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0016
-【黒いナナシ】「……」
+【Dark Nanashi】「...」
 
-「エルフにとって紋章がどんな意味を持つものだか知らないけど、たかだか痣じゃないか。そんなものがないからって不要っていうのはおかしいと思うな」
+「I don't know what crests mean to elves, but they're just birthmarks. Calling people without them unnecessary seems strange to me.」
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibaa0127
-【イバラ】「た、たかだか痣だとっ！？」
+【Ibara】「J-Just birthmarks!?」
 
-「それにせっかく友達になったのにナナシがふたりもいたらややこしいよね。どっちを呼んでるのかわかりにくくない？」
+「Besides, you've finally all become friends, and now we have two Nanashis, which is rather confusing. It'll make it hard to tell which one you're talking to, right?」
 
 ;CHR I08F R
 #cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibaa0128
-【イバラ】「……それは」
+【Ibara】「...That's...」
 
-文句を言おうとしたいバラだったけど、俺の反論で黙り込んでしまった。
+Ibara starts grumbling, but goes silent when I bring up that point.
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 ;ツキヨ
 #voice tuka0017
-【黒いナナシ】「……とも、だち、です？」
+【Dark Nanashi】「...Fr...iends?」
 
-「だいたい、そんな理由から来てるってわかったら、もうナナシなんて呼べないよ」
+「Also, after hearing the reason behind it, there's no way I can keep calling either of them Nanashi.」
 
-俺はしゃがむと、ふたりのナナシの顔を交互に見た。
+I squat down, and look into both of the Nanashi's faces.
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibaa0129
-【イバラ】「じゃ、じゃあ、紋章もないのに、なんて名前を付けるんだ！」
+【Ibara】「B-But wh-what will you even name them! They don't have crests!」
 
 ;SMODE 007 PLAY
 #label replay007
 #setscene 6
 #bg bg07a_1
 
-「別に紋章なんかなくたって、名前は付けられるだろ？　そんなわけで、ふたりの名前、俺がつけてもいいかな？」
+「You can still have a name even without a crest, right? Anyways, are you two alright if I give you both names?」
 
 ;CHR OFF
 #cg all clear
@@ -587,43 +613,47 @@
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
+
 ;CHR H04F2 R
 #cg ヒナタ hin_1_04f2 右
 #wipe fade
 
 ;ヒナタ
 #voice hina0294
-【ナナシ】「うん……」
+【Nanashi】「Yes...」
+
+#face f_tuk_0_05f_l 94 466
+;ssdelete
 
 ;ツキヨ
 #voice tuka0018
-【黒いナナシ】「ん……」
+【Dark Nanashi】「Mmn...」
 
-コクリとふたりが神妙な顔で頷く。
+The two of them nod, their faces both very serious.
 
-「じゃあ……」
+「Then...」
 
-俺はそっと糖蜜色の髪を持つハーフエルフの肩に手を乗せた。
+I gently put my hand on the shoulder of the fair-skinned half-elf with honey-colored hair.
 
-「君は、お日様みたいな笑顔でいつも周りを明るく照らしてぽかぽかさせてくれる。だから、君の名は『ヒナタ』だ」
+「Your smile lights up everything around you and makes everyone feel happy and warm, like the sun. So I'll name you Hinata, which means sunshine.」
 
 #voice hina0295
-【ヒナタ】「ヒナタ……ぼく、ヒナタ？」
+【Hinata】「Hinata...I'm Hinata?」
 
-「うん」
+「Yes.」
 
-そして次に、頭からすっぽり布をかぶったダークエルフの肩に手を乗せる。
+Then, I put my hand on the shoulder of the hooded dark elf.
 
-「まだ会ったばかりで君がどんな子かはわからないけど、少し覗いている君の髪は月の光を集めたみたいに綺麗だから『ツキヨ』」
+「I've only just met you, so I don't know you well, but from the little I can see, your hair is the color of moonlight and just as beautiful, so I'll name you Tsukiyo, which means moonlight.」
 
 #voice tuka0019
-【ツキヨ】「ツキヨ……です？」
+【Tsukiyo】「I'm...Tsukiyo?」
 
-「どう？　ふたりとも気に入ってくれた？」
+「Well? Do you both like them?」
 
-聞くと、ヒナタとツキヨは飛び上がるみたいにして、ふたりで抱きあった。
+When I ask, Hinata and Tsukiyo both jump in the air, then hug each other.
 
-#bgm 0 bgm011
+#bgm 0 11
 
 ;ＥＶ絵――EV009『僕たちの名前はヒナタとツキヨ』
 
@@ -636,116 +666,116 @@
 #wipe fade
 
 #voice hina0296
-【ヒナタ】「なまえ！　おなまえもらっちゃった！　ぼく、ヒナタだって！」
+【Hinata】「Name! I have a name! I'm Hinata!」
 
 #voice tuka0020
-【ツキヨ】「ツキヨ……ツキヨ……月の光を集めたみたいに美しいって……」
+【Tsukiyo】「Tsukiyo...Tsukiyo...as beautiful as moonlight...」
 
-ふたりは嬉しそうに、顔を見合わせてニコニコしている。
+The two of them smile, looking at each other.
 
-名前をつけられたのがよほど嬉しかったみたいだ。
+They both seem overjoyed by their new names.
 
 #voice hina0297
-【ヒナタ】「ヒナタ……ヒナタ、ヒナタ、ヒナタ……」
+【Hinata】「Hinata...Hinata, Hinata, Hinata...」
 
 #voice tuka0021
-【ツキヨ】「ツキヨ……ツ・キ・ヨ……ツキヨ、ツキヨ……」
+【Tsukiyo】「Tsukiyo...Tsu-Ki-Yo...Tsukiyo, Tsukiyo...」
 
 #voice hina0298
-【ヒナタ】「ツキヨ……イバラ、コノミ……ヒナタ！」
+【Hinata】「Tsukiyo...Ibara, Konomi...Hinata!」
 
-ヒナタはさっそく確かめるように順番に指差して、ぴょんと飛び跳ねた。
+Hinata points at everyone in the room, like he's checking all their names, jumping up and down as he does.
 
 #voice hina0299
-【ヒナタ】「ねーねー！　だれかぼくのおなまえ、よんでみて！」
+【Hinata】「Hey, hey! Somebody call me by my name!」
 
 #voice kona0216
-【コノミ】「いいよ〜、ヒーナタ〜」
+【Konomi】「Okaaay〜, Hiiiinata〜」
 
 #voice hina0300
-【ヒナタ】「はい、ぼくヒナタ！」
+【Hinata】「Yep, I'm Hinata!」
 
-飛び切り嬉しそうにヒナタは返事をした。
+Hinata responds, incredibly happy.
 
 #voice hina0301
-【ヒナタ】「ヒナタもツキヨもいいおなまえだよね！　ね、ツキヨ！」
+【Hinata】「Hinata and Tsukiyo are both great names! Right, Tsukiyo!」
 
 #voice tuka0022
-【ツキヨ】「ん……いいお名前、です」
+【Tsukiyo】「Yes...it's a good name.」
 
-ツキヨも返事をして嬉しそうだ。
+Tsukiyo also seems pleased.
 
 #voice hina0302
-【ヒナタ】「ねね！　ニンゲンさん、ヒナタって、どんなじ？」
+【Hinata】「Hey, hey! Human-san, how do you write Hinata?」
 
-「あぁ、それは……」
+「Oh, like this...」
 
-今日村から取って来たばかりの筆と紙でさらっと書きつけて渡してやると、ヒナタは嬉しそうにごろごろ転がった。
+I take the brush and paper I just bought today in the village, and write his name down. Hinata grabs the paper and sits down to read it.
 
 #voice hina0303
-【ヒナタ】「わぁ！　これがヒナタか！　ぼくのおなまえか！」
+【Hinata】「Waah! So this is how you write Hinata! This is my name!」
 
-「……君も、欲しい？」
+「...You want me to write your name too?」
 
 #voice tuka0023
-【ツキヨ】「はい……欲しい、です……」
+【Tsukiyo】「Yes...I do, please...」
 
-聞いてみるとツキヨもコクコク頷いたので、同じように名前をかいた紙を渡してやる。
+Tsukiyo nods when I ask, so I write his name down and hand it over too.
 
 #voice tuka0024
-【ツキヨ】「ツキヨ……ツキヨ、ツキヨ……」
+【Tsukiyo】「Tsukiyo...Tsukiyo...Tsukiyo...」
 
-ツキヨは嬉しそうにそれを胸に抱え、何度もツキヨと呟いた。
+Tsukiyo holds the paper tight to his chest, whispering his name over and over.
 
-こんなに喜んでもらえるなら、名前をつけてあげて良かったな。
+If it made them both this happy, I'm glad I named them.
 
-イバラやコノミはどう思うだろうと、そちらを見やると、ふたりも感心したように頷いてくれた。
+Curious what Ibara and Konomi think, I glance over, and they're both nodding in approval.
 
 #voice ibaa0130
-【イバラ】「ヒナタとツキヨか。ふん、ニンゲンにしてはいい名前をつけたな。こいつらにはもったいないくらいだ」
+【Ibara】「Hinata and Tsukiyo, is it? Hmph, good names, for a human. Too good for those two, in fact.」
 
 #voice kona0217
-【コノミ】「うん、綺麗な名前だと思う〜」
+【Konomi】「Yeah, I think they're real pretty names〜」
 
-「そっか、ふたりにもそういってもらえてよかったよ。ありがとう」
+「I see. If you two both think so, I'm glad it I did it. Thank you.」
 
 #voice ibaa0131
-【イバラ】「おい、ヒナタ！　ツキヨ！」
+【Ibara】「Oi, Hinata! Tsukiyo!」
 
 #voice hina0304
-【ヒナタ】「はい！」
+【Hinata】「Yes!」
 
 #voice tuka0025
-【ツキヨ】「は、はい……」
+【Tsukiyo】「Y-Yes...」
 
 #voice ibaa0132
-【イバラ】「今日からボクもその名で呼んでやるから、ちゃんと返事しろよ」
+【Ibara】「I will also be using those names for you, so if I call your name, you respond, understood!」
 
 #voice hina0305
-【ヒナタ】「うん！　もっとよんでみて！」
+【Hinata】「Yes!　Say my name more!」
 
 #voice tuka0026
-【ツキヨ】「は、はい……」
+【Tsukiyo】「Y-Yes...」
 
 #voice ibaa0133
-【イバラ】「ヒナタ！　ツキヨ！」
+【Ibara】「Hinata! Tsukiyo!」
 
 #voice hina0306
-【ヒナタ】「はい、はい、はーい！！」
+【Hinata】「Yes, yes, yeeeesss!!」
 
 #voice tuka0027
-【ツキヨ】「は、はい……」
+【Tsukiyo】「Y-Yes...」
 
 #voice kona0218
-【コノミ】「ヒナタ〜ツキヨ〜」
+【Konomi】「Hinata〜, Tsukiyo〜」
 
 #voice hina0307
-【ヒナタ】「はーい！！」
+【Hinata】「Yeeesss!!」
 
 #voice tuka0028
-【ツキヨ】「は、はい……」
+【Tsukiyo】「Y-Yes...」
 
-それからしばらく、エルフ達はお互いの名前を呼び合っては幸せそうに笑いあっていた。
+For a little while longer, the elves continued to each repeat their names, happy and smiling.
 
 #bgm 0 stop 1000
 

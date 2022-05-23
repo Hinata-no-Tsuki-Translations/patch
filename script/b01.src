@@ -1,9 +1,11 @@
 
-;※これ以降、小屋は修繕済み BG07b BG08b
+;※これ以降,小屋は修繕済み BG07b BG08b
 
 ;※アイキャッチ表示
 ;BG:BG34_1
 
+;スキップ禁止
+#waitcancel disabled
 
 #mes off fade
 #system off fade
@@ -27,6 +29,12 @@
 
 ;インターバル
 
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON DBG1023
+#face on
+
 ;BGMch2 amb003 再生
 #bgvoice amb003
 
@@ -43,27 +51,27 @@
 #bg BG07b_1
 #wipe fade
 
-「……ま、こんなもんか」
+「...Well, that should do it.」
 
-昨日の雨のせいで新たに発覚したほころびを修理して、一通りの小屋の修繕は終わった。
+I've just finished patching up a number of holes that I hadn't discovered until the rain yesterday brought them to light.
 
-まだいろんなところに何かはあるかもしれないし、改善点はいくらでもあるだろうが、ひとまずはこんなものだろう。
+There might still be plenty more holes that I still haven't found yet, as well as all sorts of other problems, but this should do for now.
 
-いくらやってもきりがないといえばきりがないし。
+No matter how much time I spend fixing, there's always a new problem to be solved.
 
-小屋はとりあえずこんなところにして、何かあったらまた直していけばいい。
+In the end, I decided to fix the problems as they appear.
 
-これで腰を落ち着けて、この小屋の残された本の解読に集中できるな。
+Now, I can finally relax a bit, and go back to deciphering the old books abandoned in this cabin.
 
-あとは、適当に村で売れるような果物や何かをとってきたりして、どうにか生計が立つようになればばんばんざいだ。
+After that, I can go find some fruits, or something else suitable, to sell in the village. Astoundingly, I've managed to work out a tidy living out here.
 
-……しかし、それじゃ収入が天候任せになるか。
+...Still, right now, my livelihood depends on the weather.
 
-一人で暮らすのに蓄えもまったくなしっていうんじゃ、不安も残るな……。
+Furthermore, I'm living on my own, in the middle of nowhere, with absolutely no savings, a rather concerning situation...
 
-さて、残った廃材はまた修繕の時にも使えるし焚き付けにもなるだろうけど、それまでどこに置いておくかな……。
+I have some wood left over. I could use it for my future repairs, or as firewood, but where to keep it until I need it...
 
-「……そうだ」
+「...I know.」
 
 ;暗転
 ;#face off
@@ -71,6 +79,7 @@
 #cg all clear
 #bg black
 #wipe fade
+
 ;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
@@ -82,79 +91,79 @@
 #wipe fade
 
 #voice hinb0001
-【ヒナタ】「ニンゲンさん、なにしてるの？」
+【Hinata】「Human-san, what are you doing?」
 
-小屋の修繕で余った廃材を手ごろな大きさに切り分けて、彫っているところにヒナタがきた。
+After cutting some of my leftover wood from the house repair down to a workable size, I began to carve, when Hinata walked up to me.
 
-「ん？　ちょっと細工物でも作ろうかと思ってさ」
+「Hm? Oh, I just thought I'd try a little woodwork.」
 
-ちょうどいい具合に枯れているので、細工もしやすい。
+This piece is the perfect size and shape, so it's very easy to carve.
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0002
-【ヒナタ】「クサイモノ……？　くっさー？」
+【Hinata】「クサイモノ...?　くっさー?」 ;Woodwork = Saiku, smelly = kusai. Pun.
 
-ヒナタは鼻を摘んでおそるおそる俺が作っているものを覗き込んだ。
+Pinching his nose, Hinata looks down to try to get a better look at what I'm working on.
 
-「違う違う、細工物。木を彫って細工して……飾り箱を作ったり、髪飾りにしたりして生活の糧にしようかと思って」
+「No, no, woodwork, carving wood...I thought I could try to carve a decorative box, or maybe a hair ornament, and sell it to earn a bit of money.」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0003
-【ヒナタ】「ほぅ……？」
+【Hinata】「Hoeh...?」
 
-「わかってないだろ、ヒナタ？」
+「Do you not understand, Hinata?」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0004
-【ヒナタ】「うん！」
+【Hinata】「Nope!」
 
-「つまり、いいモノを作って、村で売るんだ。お金ととっかえっこ。お金はわかる？」
+「Okay, so I'm making something nice to sell in the village, and get money. Do you know what money is?」
 
-幸い手先の器用さには自信がある。村にいた頃はたまに細工物も作っていたけど、下手に器用だとばれると色々やらされるから隠していたけど……。
+Fortunately, I'm quite deft, and confident in my carving abilities. I would occasionally carve back in the village, although it would be bothersome if how good I was came to light, so I only did it in private. 
 
-ま、背に腹は代えられない。
+I suppose I'll be exposing that secret, but currently that's a necessary sacrifice.
 
-他に碌な収入源はなさそうだしな。
+I need to find a sustainable source of income.
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0005
-【ヒナタ】「おぉ！　おぉ！　おかねはしってるよっ！　ヒナタ、わかった！」
+【Hinata】「Ooh! Oooh! I know money! Hinata understands!」
 
-「というわけで、邪魔しないでくれる？　刃物も危ないし」
+「Anyways, could you not get in the way? I'm using sharp tools, you might get hurt.」
 
 #voice hinb0006
-【ヒナタ】「うん！　じゃましないでヒナタいいこにおてつだいするよ！」
+【Hinata】「Yeah!　Hinata will be good, and help out instead of getting in the way!」
 
-「いや、お手伝いはいらないから。おとなしく見ててくれたほうが助かる」
+「No, I don't need help. If you would just sit quietly and watch that'd be enough...」
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0007
-【ヒナタ】「そっか、おてつだいいらないのか……」
+【Hinata】「I see, so you don't need help...」
 
-ヒナタは一瞬ションボリしたが、おとなしく膝を抱えて俺の作業に見入っている。
+Hinata seems a bit downcast for a moment, but he obediently sits down, wrapping his arms around his knees, and watches quietly.
 
-ちゃんとそうやって大人しくしておいてくれるといいんだけど。
+I wish he'd behave like this more often.
 
-下手に手を出されたら困ったことになりそうだしな。
+Whenever he tries to help out, he has no idea what he's doing and causes more problems than he solves.
 
-まずは花をモチーフに髪飾りでも作ってみるか。花はやっぱり女の子が喜ぶだろうし、売れ筋になるだろうからな。
+I think I'll try making a flower hairpiece first. Flowers are always popular with young girls, so it should sell.
 
-手ごろな大きさにざっくりと切った木片をざっくりと当たり程度に形にしていく……。
+Slowly and carefully, I slice away at the wood, carving it into the right shape...
 
 ;CHR OFF
 #cg all clear
@@ -179,53 +188,53 @@
 #wipe fade
 
 #voice konb0001
-【コノミ】「うわぁ〜、木がお花の形になってるぅ〜」
+【Konomi】「Uwaah〜, the wood turned into a flower〜」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0001
-【ツキヨ】「すごい……」
+【Tsukiyo】「Amazing...」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0001
-【イバラ】「ニンゲンは何をしてるんだ？」
+【Ibara】「Human, what are you doing?」
 
 #voice hinb0008
-【ヒナタ】「んっとね、クサイモノつくってるっていってたよ！」
+【Hinata】「Um, he said he's making something stinky!」 ;same sukai/kusai pun
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 
 #voice ibab0002
-【イバラ】「くさいもの……うぇっ」
+【Ibara】「Something stinky...uweeh.」
 
 #voice konb0002
-【コノミ】「別に臭くないよぉ〜？　これから臭くするのかなぁ〜？」
+【Konomi】「But it doesn't smeeelll〜?　Is it going to start smelling soooon〜?」
 
 #voice hinb0009
-【ヒナタ】「うん、くさくなるんだよ！　きっとすっごくくさくなるよ！」
+【Hinata】「Yeah, it's gonna get smelly! It'll definitely get really smelly!」
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 
 #voice ibab0003
-【イバラ】「うえぇえええええ〜……」
+【Ibara】「Ueeehhhh〜...」
 
-「臭い物じゃないからね、細工物……木を細工して何か作ってるってことだからね？」
+「It's not smelly, it's woodwork...when you carve wood to make something, got it?」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0002
-【ツキヨ】「ひゃんっ……」
+【Tsukiyo】「Hyaahn...」
 
 ;SE
 
@@ -233,9 +242,9 @@
 #cg all clear
 #wipe fade
 
-集中しても聞こえてきたあほな会話に思わず突っ込むと、真剣に見入っていたツキヨが驚いて尻餅をついた。
+I was listening to their foolish conversation as I concentrated on carving, and when I spoke up without thinking Tsukiyo, who had been watching with interest, was so startled he fell right on his behind.
 
-「ご、ごめん」
+「S-Sorry.」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -244,90 +253,96 @@
 #wipe fade
 
 #voice tikb0003
-【ツキヨ】「大丈夫です……」
+【Tsukiyo】「I'm fine...」
 
-そんなに興味があったのかな。
+Was he that interested in the carving?
 
 ;CHR H08F2 L
 #cg ヒナタ hin_1_08f2 左
 #wipe fade
 
 #voice hinb0010
-【ヒナタ】「あ、そだった。まちがえた」
+【Hinata】「Oh, so that's it. I was wrong!」
 
 ;CHR K05F R
 #cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0003
-【コノミ】「臭くならないの？」
+【Konomi】「It won't start to smell?」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0004
-【イバラ】「ヒナタの嘘つき！」
+【Ibara】「Hinata, you liar!」
 
-いつの間にかヒナタ以外のエルフたちも遊びに来ていた。
+At some point, all the other elves had dropped by to join Hinata.
 
-よほど集中していたのか、ちっとも気がつかなかったな。
+I was so focused on my work I didn't even notice.
 
-「嫌だろ、臭い髪飾りなんて。誰がそんなものを買うんだよ……」
+「Who would buy a stinky hair ornament, in the first place...」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0011
-【ヒナタ】「ヒナタかうよ！　おもしろいよっ！」
+【Hinata】「Hinata would! It sounds fun!」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0005
-【イバラ】「ヒナタはお金持ってないだろ。どうやって買うんだよ……」
+【Ibara】「You have no money, Hinata. How would you buy anything?」
 
 #voice konb0004
-【コノミ】「それに臭いの頭につけるの〜？　ボクは嫌だと思うけどなぁ〜」
+【Konomi】「You put that stinky thing on your head〜?　That sounds nasty to me〜」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-きゃんきゃん騒ぎはじめた他の３人とは裏腹にツキヨだけはじっと俺の手元に見入っている。
+While the other three make a ruckus, chatting with each other, Tsukiyo does the exact opposite. He's dead quiet, barely moving, concentrating hard on my hands.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0004
-【ツキヨ】「これ、作った、です？」
+【Tsukiyo】「You made...this?」
 
-「作ったって言うか、作ってる途中だけど。こう、木を彫ってね……結構うまいもんでしょ？」
+「Not really 'made', I'm still making it. You take a piece of wood and carve it...then it looks good in your hair, right?」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0005
-【ツキヨ】「すごいです……こんなの見たことないです」
+【Tsukiyo】「Amazing...I've never seen anything like it before.」
 
-きらきらと尊敬を込めた目で見られるのは、結構気分がいい。
+His eyes are shining, awestruck. It feels pretty good, to be honest.
 
-「こういうの作るのは得意なんだ。よかったら、ツキヨも作ってみるかい？　教えてあげる」
+「I'm pretty good at making these things. Would you like to try to make one, Tsukiyo? I can teach you how.」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0006
-【ツキヨ】「教えてくれる、です？」
+【Tsukiyo】「Teach me?」
 
-まだ切り出しただけの木片を渡すと、ツキヨは嬉しそうに受け取った。
+I take a piece that I've only carved slightly so far, and hand it to Tsukiyo, who receives it happily.
 
-「まずはどんな形でもいいから、何を作ろうか考える。それから大まかに形にして……」
+「First, just think of what you want to make. Anything works. Then, just roughly start carving it into that shape...」
 
 ;CHR OFF
 #cg all clear
@@ -338,150 +353,150 @@
 #wipe fade
 
 #voice hinb0012
-【ヒナタ】「ツキヨもつくるのっ！？　いいなっ！」
+【Hinata】「Tsukiyo, you're making one too!? That must be so cool!」
 
-ヒナタがツキヨと俺の間に飛び込んできて、羨ましそうにこちらを見上げる。
+Hinata jumps between me and Tsukiyo, looking up at me, jealous.
 
-「……わかったよ、ヒナタにも教えてやるから。怪我しないように気をつけるんだぞ」
+「...Okay, I'll teach you too, Hinata. Be careful so you don't hurt yourself.」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0013
-【ヒナタ】「わーいっ！　ヒナタもつくるっ！　うんっ！　きをつけるっ！」
+【Hinata】「Yeess! Hinata will make one too! Yeah! I'll be careful!」
 
-ヒナタはまだ切る前の木片を抱えて、ぴょんぴょん飛び跳ねる。
+Hinata grabs an uncut slab of wood, jumping for joy.
 
-「そんな大きな木で何を作る気だよ。まずは、こっちの木でやってみなよ。柔らかくて彫り易いから」
+「What do you think you're going to make with such a big piece? Start with this one, it's soft wood, easy to carve.」
 
 ;CHR H11F C
 #cg ヒナタ hin_1_11f 中
 #wipe fade
 
 #voice hinb0014
-【ヒナタ】「うんっ！」
+【Hinata】「OK!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-ヒナタが木片を抱えて踊る横で、じっとイバラがこちらを睨んでいる。
+Next to Hinata, who's dancing happily with his new piece of wood, Ibara is quietly glaring at me.
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0006
-【イバラ】「おい、ニンゲン！　お前、そうやって人間の秘密をそのハンパものたちに教えて味方にしようって魂胆だな！」
+【Ibara】「Oi, Human!　You think you can easily turn those fools into your allies just by teaching them a few of your sneaky human tricks, do you?!」
 
-「えぇえええええええ〜……そんなんじゃないよ。それに、友達のことハンパものなんていう子には教えてあげないよ」
+「Eeeeeeehhhh〜...Of course not. Also, I'm not going to teach anyone who insults his friends anything.」
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0007
-【イバラ】「ぐっ……そ、そんなのボクは……」
+【Ibara】「Kuh....Th-That's not what I...」
 
-……イバラも仲間に入りたかったのなら素直にそういえばいいのに。
+...All you had to do was just honestly admit you wanted to join us, Ibara.
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0005
-【コノミ】「ボクも教えてほしーいなぁ〜。ニンゲンく〜ん、クサイモノ？　って作るの難しいぃ〜？」
+【Konomi】「I want to learn toooo〜, making one of Human-kuuun's stinky things seems haaaard〜」 ; same pun
 
-「クサイモノじゃなくて細工物、な。作りたいものによるけど、簡単な形のものならそんなに難しくないよ」
+「It's not smelly, it's woodwork. If you want to make something, just pick a simple design, that way it won't be that hard.」 again kusai;saiku
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0008
-【イバラ】「コノミまでニンゲンになにか教わるつもりなか！？」
+【Ibara】「Even you intend to let him teach you, Konimi!?」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0006
-【コノミ】「だってぇ〜、楽しそうじゃな〜い？」
+【Konomi】「Buuut〜, it seems fun, riiiight〜?」
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0009
-【イバラ】「……」
+【Ibara】「...」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0007
-【コノミ】「ほらぁ、ニンゲンくんが作ってるお花、綺麗だよぉ？」
+【Konomi】「Loook, isn't the flower Human-kun made preeetty?」
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0010
-【イバラ】「くっ……おい、ニンゲン！　ボクにも教えろ！」
+【Ibara】「Kuh...Oi, Human! Teach me too!」
 
-「はいはい、刃物を使うから気をつけてね」
+「Yes, yes. You'll be using sharp tools, so be careful.」
 
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0008
-【コノミ】「も〜、イバラは素直じゃないなぁ〜」
+【Konomi】「Honestly〜, Ibara, you just can't be honeeest〜」
 
-「仲間に入りたかったら、入りたいって言えばいいのにね」
+「If you want to join your friends, you just have to admit it.」
 
 ;FACE H08F2
 #face f_hin_0_08f2 94 466
 
 
 #voice hinb0015
-【ヒナタ】「ね〜っ！」
+【Hinata】「Riiiight〜!」
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0011
-【イバラ】「ぼ、ボクはお前たちの仲間になんてっ！」
+【Ibara】「I-I'm not friends with any of you or anything!」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0007
-【ツキヨ】「じーっ……」
+【Tsukiyo】「*stare*...」
 
 ;CHR I11F1 L
 #cg イバラ iba_1_11f1 左
 #wipe fade
 
 #voice ibab0012
-【イバラ】「うぅ……人間のことがわかれば、それだけ戦い方もわかるからな。そのためなんだ！　それ以外にないからなっ！」
+【Ibara】「Guh...I'm only learning about humans to learn how to better fight them! That's all this is! No other reason!!」
 
 ;FACE H07F
 #face f_hin_0_07f 94 466
 
 
 #voice hinb0016
-【ヒナタ】「わーい！　イバラもなっかまっ♪」
+【Hinata】「Yaaay! Ibara's joining the group♪」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0008
-【ツキヨ】「……ふふっ。一緒、です」
+【Tsukiyo】「...Fufu. One of us.」
 
 ;CHR OFF
 #cg all clear
@@ -493,46 +508,48 @@
 #cg all clear
 #bg black
 #wipe fade
+#mes clear
+
 ;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-とりあえず、刃物の取り扱いに注意をするように教え、それぞれに小刀と木片を渡した。
+First, I carefully taught them the right way to use the carving tools to avoid hurting themselves. Then, I gave each of them a small knife to chip away at the wood.
 
-基本的なところだけ教えてやり、初めのうちは俺の作業は進まなかったけど……。
+It took some time to get going, but eventually, I managed to teach them the basics...
 
-やがて熱中し始めると、大人しくなってくれたから、いつもみたいにまとわりつかれているよりは楽だ。
+After a while, they all got quite into it, and quieted down, concentrating on the work. This is much easier, compared to how they're usually tagging along behind me.
 
-これ、いいな。
+...This is nice.
 
-今度から相手するのが面倒になったら、何か作らせるか。
+Next time that they're bothering me, I'll just distract them by getting them to carve again.
 
-ヒナタとイバラは花を、ツキヨは虫を作りたいということだ。
+Hinata and Ibara are both making flowers, and Tsukiyo is making a bug.
 
-コノミが『秘密〜』なんて笑ってたのがちょっと気になるけど……。
+When I asked Konomi what he's making, he just laughed and said "it's a secret"...
 
-「よし、できた」
+「Alright, done.」
 
-作っていた花の髪飾りが完成して、俺はひとり呟いた。
+I mutter to myself, my handmade flower hair piece finished.
 
-「……」
+「...」
 
-いつもなら「できたの？　見せて見せて」なんて、近寄ってくるのに皆自分が作るのに一生懸命で気がつかないみたいだ。
+Normally, they'd all be crowding around me, going "You're done? Let me see, let me see", but right now they're all working so hard they haven't even noticed.
 
-……無視されて少し寂しいような気がしてる俺も大概ワガママだな。
+...I actually feel a little lonely that they're ignoring me, but I know that's just being selfish.
 
-さて、それじゃ皆の様子も見てあげようかな。
+Well then, let's go see how they're doing.
 
 ;▼選択肢：４択
 
 ;選択肢発生
 #select a b c d
-Ａ：ヒナタ
-Ｂ：イバラ
-Ｃ：コノミ
-Ｄ：ツキヨ
+Ａ：Hinata
+Ｂ：Ibara
+Ｃ：Konomi
+Ｄ：Tsukiyo
 
 #label a
 #next b01h top

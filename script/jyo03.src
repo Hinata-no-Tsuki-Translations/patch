@@ -3,7 +3,10 @@
 ;ヒナタ表示はまだナナシ
 ;
 
-;アイチャッチ表示 BG:BG31_1
+;※アイキャッチ表示 BG:BG31_1
+
+;スキップ禁止
+#waitcancel disabled
 
 #mes off fade
 #system off fade
@@ -26,6 +29,9 @@
 #system on flash
 ;インターバル
 
+;スキップ禁止解除
+#waitcancel enabled
+
 ;BGMch2 amb003 小屋内（昼） 再生
 #bgvoice amb003
 
@@ -45,18 +51,18 @@
 
 ;ヒナタ
 #voice hina0178
-【ナナシ】「おってつだい、おってつだい！」
+【Nanashi】「Helping, helping!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0109
-【コノミ】「うわぁ〜上手上手〜」
+【Konomi】「Uwaah〜, you're so good at this〜」
 
-「こらこらこら、そんなところに釘を打ちつけて何をやってるんだ！」
+「Hey! Hey! What are you doing! That's not where you're supposed to hammer the nails!」
 
-屋根の修理を終えて、梯子を下りてきた俺は壁に木片を打ちつけていたナナシを見とがめて声をかけた。
+Finally finished fixing the roof, I climbed down the ladder, to find Nanashi happily hammering nails into a board that I'm going to use for my wall.
 
 ;CHR H01F2 L
 #cg ヒナタ hin_1_01f2 左
@@ -66,18 +72,18 @@
 
 ;ヒナタ
 #voice hina0179
-【ナナシ】「おてつだいしてるの！」
+【Nanashi】「I'm helping!」
 
 #voice kona0110
-【コノミ】「ナナシ、ニンゲンくんみたいに上手に釘打てるんだよぉ〜」
+【Konomi】「Nanashi, you're as good at hitting nails in as Human-kun〜」
 
-穴も開いていないところに、小さな木片を打ちつけて胸を張るナナシと、手を叩いてそれを応援しているコノミ。
+Nanashi puffs his chest out with pride at his accomplishment of pounding nails into my wall, and Konomi applauds in celebration.
 
-これが本物の釘と金づち、ついでに住むつもりの小屋の話じゃなければ実に微笑ましい光景ではあるんだけどさ。
+If that wasn't a real hammer, real nails, and I needed to actually use these materials to make a house for me to live in, it'd be an absolutely adorable sight.
 
-放っておいたら、何をやらかすかわからないなこの子たちは。
+If I leave them alone I never know what they'll get up to.
 
-「そんなところには釘打たなくていいの！　まったく、後で抜かなくちゃならないじゃないか」
+「That's not where you're supposed to hammer the nails! Honestly, now I'll have to try to get them all out later.」
 
 ;CHR H02F2 L
 #cg ヒナタ hin_1_02f2 左
@@ -85,9 +91,9 @@
 
 ;ヒナタ
 #voice hina0180
-【ナナシ】「えぇっ！　ぬいちゃうの？　いっしょうけんめいぼくコンコンしたのに！」
+【Nanashi】「Eeeh!? You'll take them out!? But I worked so hard to pound them in!」
 
-「いらないとこまで釘打ちつけなくていいの。それに無駄に使ったら、釘がすぐになくなっちゃうし、壁が穴だらけになるだろ」
+「Don't use nails where they aren't needed. If you waste them like that, I'll soon run out of nails, and never fix my walls. I'll have to take them out later.」
 
 ;CHR H04F1 L
 #cg ヒナタ hin_1_04f1 左
@@ -95,24 +101,24 @@
 
 ;ヒナタ
 #voice hina0181
-【ナナシ】「そかぁ〜」
+【Nanashi】「I see〜」
 
-ナナシがしょんぼりしていると、コノミが嬉しそうに釘抜きを掲げた。
+Nanashi looks saddened, but Konomi cheerfully grabs the pliers and moves to start pulling nails out.
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0111
-【コノミ】「じゃあ、こっちはボクが抜いてあげるねぇ〜」
+【Konomi】「Then, leave taking them out to meee〜」
 
-そう言ってコノミが手をかけようとしたのは、塞いだばかりの、壁にどでかく開いた穴のところだ。
+Konomi starts ripping the nails out, leaving huge holes in my walls-to-be.
 
-「あぁっ！　そっちは抜かなくていいんだってば！」
+「Aah!　You don't pull them out like that!」
 
-せっかく直したところの板を剥がしてどうするんだよ、まったく。
+I worked so hard to get those boards ready!
 
-けれど、ふたりにはその違いがわからないようで、ぷくっと頬を膨らませた。
+However, the two of them don't seem to understand the difference, and look at me, their cheeks puffed.
 
 ;CHR H03F2 L
 #cg ヒナタ hin_1_03f2 左
@@ -122,14 +128,14 @@
 
 ;ヒナタ
 #voice hina0182
-【ナナシ】「ぬかなきゃいけないの？　ぬいちゃいけないの？　どっち？」
+【Nanashi】「First the nails have to come out, and now they can't come out? Which is it?」
 
 #voice kona0112
-【コノミ】「どっちぃ〜？」
+【Konomi】「Whiiich〜?」
 
-「釘を打つのは俺がやるから、ふたりとも大人しくしててよ。もう……」
+「Leave the nails to me. Just sit there and be good, you two. For crying out loud...」
 
-俺はさっとナナシからも、コノミからも大工道具を取り上げると、箱にしまった。
+I take all of my carpentry tools away from Nanashi and Konomi, and put them in my toolbox.
 
 ;CHR H06F1 L
 #cg ヒナタ hin_1_06f1 左
@@ -137,19 +143,19 @@
 
 ;ヒナタ
 #voice hina0183
-【ナナシ】「あぁっ！　なんでしまっちゃうの？　おてつだいしてるのにっ！」
+【Nanashi】「Aah!　Why'd you pet them away? We were helping!」
 
 #voice kona0113
-【コノミ】「ん〜、お手伝いしなくていいのぉ〜？」
+【Konomi】「Mnn〜, should we not heeeeelp〜?」
 
-「……いいよ、もう。邪魔するぐらいだったら二人で遊んでて。お願いだから」
+「...It's fine. You two will just be a nuisance, so go play somewhere. Please.」
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice kona0114
-【コノミ】「邪魔なんかしてないのにね〜？」
+【Konomi】「We haven't done anything to be a nuisance, riight〜?」
 
 ;CHR H03F2 L
 #cg ヒナタ hin_1_03f2 左
@@ -157,13 +163,13 @@
 
 ;ヒナタ
 #voice hina0184
-【ナナシ】「ねー？」
+【Nanashi】「Riiight?」
 
-まったく……手伝いたいって言うから、いい労働力になるかと思ったら、ひとりでやった方が早かったな。
+Honestly...I know I asked them to help, but the way things are going, it'd be faster to do everything by myself.
 
-……ま、退屈せずに済むのだけが救いではあるけど。
+...Well, when it comes to relieving boredom, they are definitely of use.
 
-「はいはい。何でもいいから大人しくしてて」
+「Yeah, yeah. I don't care what you do, just, please, don't interfere.」
 
 ;CHR H02F2 L
 #cg ヒナタ hin_1_02f2 左
@@ -171,18 +177,18 @@
 
 ;ヒナタ
 #voice hina0185
-【ナナシ】「えーっ！？　おてつだいするんだよっ！？」
+【Nanashi】「Eeeh!?　But we were helping!?」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0115
-【コノミ】「そだよ〜お手伝いするんだよ〜」
+【Konomi】「That's right〜, we're helping〜」
 
-「お手伝いはしてほしいことがあったら俺から頼むから、邪魔だけはしないでくれよ……」
+「I did say I wanted you to help, but, please, I'm begging you, just don't get in the way...」
 
-いらない仕事をやたらに増やすのは勘弁して欲しいけど、別にコノミもナナシも悪気があるわけじゃないんだよな。
+I know Konomi and Nanashi don't mean any harm, but I don't want them to add to the work I need to finish.
 
 ;CHR H01F2 L
 #cg ヒナタ hin_1_01f2 左
@@ -190,20 +196,20 @@
 
 ;ヒナタ
 #voice hina0186
-【ナナシ】「じゃ、ニンゲンさんのしてほしいことなにっ！？」
+【Nanashi】「Then what do you want, Human-san!?」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice kona0116
-【コノミ】「言ってくれなきゃわかんないよ〜」
+【Konomi】「If you don't tell us, we won't get iiit〜」
 
-手持ち無沙汰にさせておいて、またなんかやらかされたら困るな。……えーっと……。
+If I just leave them up to their own devices, they'll probably cause more problems, so I need to think of something...um....
 
-「そうだ。部屋の中をよく見て、変な傷がないか探してみてくれるかな？」
+「I know. Would you mind inspecting the building to see what damage you can find?」
 
-……多少邪魔にはなるかもしれないけど、調べるだけなら被害も少なそうだし。
+...If they're just looking, and not doing anything, they surely cannot cause too much harm.
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -211,14 +217,14 @@
 
 ;ヒナタ
 #voice hina0187
-【ナナシ】「うん、わかったよっ！」
+【Nanashi】「OK, got it!」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0117
-【コノミ】「よしじゃあ、ヒナタはそっち側から探してね〜？　僕はこっちから探すよ〜」
+【Konomi】「Then, Hinata, you look over there, okaaay〜?　I'll search over hereee〜」
 
 ;CHR H07F L
 #cg ヒナタ hin_1_07f 左
@@ -226,9 +232,9 @@
 
 ;ヒナタ
 #voice hina0188
-【ナナシ】「はーいっ！」
+【Nanashi】「Riiiiight!」
 
-ふたりはしゃがむと、床や壁を丹念に眺め始めた。
+The two of them crouch down and begin to carefully inspect the walls and floor.
 
 ;CHR OFF
 #cg all clear
@@ -240,20 +246,20 @@
 
 ;ヒナタ
 #voice hina0189
-【ナナシ】「ここ、キズあるよっ！　あっ、ここにもあった！　ここにもっ！」
+【Nanashi】「Oh, there's a hole here! Ah, and here too! And here!!」
 
-荒れ放題の室内には無数の傷がある。
+Considering the state of disrepair of the building, it's no surprise there's got countless defects.
 
-もちろん目立った奴は直さなきゃダメだけど、傷を探してる間は修理の方には手を出してこないだろう。
+Of course, I'm focusing on fixing the biggest problems with the building for now, but I might as well put them to work locating smaller problems while I'm at it, and this will keep them busy and from doing any more harm.
 
-たまに様子を見ながら室内の修理を進めていると、二人が同じところにしゃがみこんだ。
+I keep working on my repairs, every now and then glancing over to confirm they're still at it.
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice kona0118
-【コノミ】「おぉ〜？　ここなんか模様あるよ〜？」
+【Konomi】「Ooh〜?　There's a pattern hereee〜?」
 
 ;FACE H06F2
 #face f_hin_0_06f2 94 466
@@ -261,15 +267,15 @@
 
 ;ヒナタ
 #voice hina0190
-【ナナシ】「ほんとだっ！　ニンゲンさん！　だいはっけん！　ここなんかもようあるっ」
+【Nanashi】「It's true! Human-san! Big news! There's a pattern here!」
 
-「模様〜？」
+「Pattern〜?」
 
-ふたりが指さすところを覗き込むと、そこには何かを測ったような刻みがつけられていた。
+When I take a look at where they're pointing, I see something carved into the wood.
 
-その刻みにはある程度の規則性がある。
+The notches in the wood have too much regularity to be random...
 
-「模様……じゃないな、これ何か測ったあとだろ」
+「A pattern...no, something was etched here.」
 
 ;CHR ON
 ;#cg on
@@ -280,15 +286,15 @@
 #wipe fade
 
 #voice kona0119
-【コノミ】「そなの〜？　何か色々彫ってあるよ〜？」
+【Konomi】「Really〜?　Is it some kind of marking〜?」
 
-「うん。だってこれ数字だ……多分日にちだな。獲物の大きさでも、測ってたのかな？」
+「Yeah. These markings...probably represent days. Were they recording the size of their daily hunt?」
 
 ;ヒナタ
 #voice hina0191
-【ナナシ】「ここからきゅうにはばせまくなってるね。おっきいエモノとれなくなったかな？」
+【Nanashi】「The  markings get a lot smaller here. Maybe they couldn't catch anything big?」
 
-「ここなんて何度も同じところに傷つけたみたいな……後でまた見てみるから、傷増やすなよ？」
+「There's one spot they marked several times...I'll have to take a closer look later. Make sure you don't do any more damage, okay?」
 
 ;CHR H06F2 L
 #cg ヒナタ hin_1_06f2 左
@@ -296,9 +302,9 @@
 
 ;ヒナタ
 #voice hina0192
-【ナナシ】「はわっ！？　ぼくもシルシつけとこうとおもったのに！」
+【Nanashi】「Hawaah!?　But I wanna add my own marks too!」
 
-「それじゃ、何がなんだか分かんなくなっちゃうだろ。ったく……今、ナナシが印つけたとこはココ。これでいい？　もう傷増やしちゃダメだぞ」
+「If you add your own marks, it'll be impossible to figure out what the old markings mean....Alright, fine. Here, Nanashi, you can make just this one spot, alright? Only that one, no more.」
 
 ;CHR H07F L
 #cg ヒナタ hin_1_07f 左
@@ -306,32 +312,32 @@
 
 ;ヒナタ
 #voice hina0193
-【ナナシ】「はーいっ！」
+【Nanashi】「Okaaaaayyy!」
 
-新しくナナシが付けた傷には、あとで他の傷と判別がつくように今日の日付を彫っておく。
+Later, I'll add today's date next to Nanashi's scratch so I can tell it apart from the others.
 
-順番に日付が付いてるってことは、多分前のより大きな獲物が取れるたびに記録をつけてたんだろうな。
+The way the marks increase in size...maybe, as the days passed, the resident was able to catch larger and larger prey?
 
-前の住人はマメだったんだろうな。
+Was the previous inhabitant a hunter? It seems likely.
 
-「って、そんなものに気を取られてる暇はないな。早く片付けないと……」
+「Hey, I don't have the time to wonder about these things. I have to get my home repaired...」
 
-早いところ穴だけでも塞いでしまわなきゃ、雨が降る日でもきたら事だ。
+I have to fix all the holes in this place up as fast as possible, before it rains
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice kona0120
-【コノミ】「ね〜ね〜、ニンゲンく〜ん」
+【Konomi】「Hey〜, hey〜, Human-kun〜.」
 
-「今度は何。頼むからふたりで遊んでてってば……」
+「What is it this time? Please, just play together and let me work, you two...」
 
-……小屋の片付け及び修理は、エルフふたりに邪魔されてなかなか作業が進まない。
+...I try to go back to my repair-work, but the two elves keep interfering, making progress difficult.
 
-やはり一緒にいていいなんて言ったのは、あさはかだったかな。
+Maybe telling them they could stay with me was poorly thought out after all.
 
-まぁ、次から次に興味が移っていくから、適当にあしらっても大丈夫ではあるんだけど。
+Well, I'm sure they will move on to whatever catches their interest next in time. I can put up with the until then.
 
 ;暗転
 ;#face off
@@ -353,37 +359,37 @@
 
 ;ヒナタ
 #voice hina0194
-【ナナシ】「ね、ね、みてみてっ！　こんなにおっきくなった！」
+【Nanashi】「Hey, hey, look! It got this big!」
 
 #voice kona0121
-【コノミ】「おお〜、すっごーい！」
+【Konomi】「Oooh〜, woooow!」
 
-今度は木片を積み上げて遊び始めたふたりを横目に、俺は特大級のため息をついた。
+Now, they're playing a game where they stack up woodchips. I sigh in relief.
 
-一応、雨くらいはしのげるようにはなったはずだけど、小屋の内側の修理はまだまだだ。
+I've managed to reach the point where it should keep out rain, but there is still much work to be done on the interior.
 
-小屋の修復に思ったより手間がかかるな。
+I didn't think restoration of my new home would take this much time and effort.
 
-こんなことじゃ、いつこの小屋が住める状態になるかどうか……いっそ最初から建てたほうが楽なんじゃないか。
+I'm unsure of how long it will take until this hut is liveable again...it honestly may have been easier to simply build a place of my own.
 
-そんなことを考えてしまうぐらいには、やることがたくさんある。ま、実際にはあるだけ助かってるんだけど。
+The more I think about it, the more I realize just how much I have to do.
 
-この小屋を直すだけでもちょっとした大仕事だな、本当に。
+Just fixing this cabin is a mammoth task in itself, truly.
 
 ;ヒナタ
 #voice hina0195
-【ナナシ】「ねーねー、ここのじめんキーキーってなるよ」
+【Nanashi】「Hey, hey, over here the ground is all creaky.」
 
 #voice kona0122
-【コノミ】「ほんとだぁ〜。こっちはぎーぎーって鳴るねぇ〜」
+【Konomi】「It's trueee〜. Over here, it's all squeeaaky〜」
 
-落ち着きのないふたりのエルフは、積み木にもすぐに飽きてしまい、今度は室内の方々に動きまわっている。
+The two elves, ever restless, soon grow bored of playing with wood and have now started to wander around my new home.
 
-キーキー鳴るってことは、床板が浮いてるってことだから、あっちもこっちも直さなきゃな。
+The creaks are the floorboards underneath them. I'll have to fix those, too.
 
-見えてる所だけじゃなくてあっちこっち確認しておかないと、ある日突然床を踏みぬいたりしそうだ。
+I'll have to check to make sure they're all safe, even the ones that look fine, so I don't suddenly fall through the floor one day.
 
-「気をつけろよ、ここはところどころ床も腐って……」
+「Be careful, the floorboards have rotted through in some spots...」
 
 ;CHR OFF
 #cg all clear
@@ -398,15 +404,15 @@
 
 ;ヒナタ
 #voice hina0196
-【ナナシ】「あっ、ここなんかもつとこみたいの、ある！」
+【Nanashi】「Oh, this one's rotten too!」
 
 ;SE 
 
-メリメリメリィッ
+*snap*
 
-声をかけた端から、何かが盛大に破損した音がした。
+I hear the sound of something being destroyed.
 
-「お前ら何やった！？」
+「What did you do!?」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -415,23 +421,23 @@
 #wipe fade
 
 #voice kona0123
-【コノミ】「おぉ〜、とれちゃったぁ〜」
+【Konomi】「Ooh〜, it brokeee〜」
 
 ;ヒナタ
 #voice hina0197
-【ナナシ】「とれちゃったっ！」
+【Nanashi】「It broke!」
 
-慌てて振り返った俺の目に入ったのは、戸の残骸のようなものを掲げているナナシの姿だった。
+I turn around, concerned, to see Nanashi cheerfully holding up two halves of a floorboard.
 
-途中からばっきりと折れた穴から、下に空間が覗いている。
+The floor has collapsed, revealing what looks like a hole beneath.
 
-「わー、一体どこを壊したんだっ！？」
+「Gaah, how did you even manage to do that much damage!?」
 
-慌ててそこに近付くと、そこには地下へと続く倉庫のようなものがあった。
+When I approach, I realize that it looks like Nanashi's stumbled across what looks like the entrance to an underground storehouse.
 
-床を踏み抜いたわけじゃないみたいだから、まだ良かったけど……。
+I'm glad he didn't discover it by falling into it, but..
 
-「怪我はしてないか？」
+「Are you alright?」
 
 ;CHR H08F2 L
 #cg ヒナタ hin_1_08f2 左
@@ -439,11 +445,11 @@
 
 ;ヒナタ
 #voice hina0198
-【ナナシ】「うん、だいじょぶっ」
+【Nanashi】「I'm fiiine.」
 
-とりあえず確認をしてから、俺はその穴を覗きこんだ。
+After checking that he's okay, I look down into the hole.
 
-「……こんなところに、物置？　っていうか、倉庫？」
+「...Is this a bunker? Or...some kind of underground storage?」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
@@ -451,36 +457,36 @@
 
 ;ヒナタ
 #voice hina0199
-【ナナシ】「これ、と、くさってたよっ」
+【Nanashi】「They're all rotten!」
 
-ナナシの手にある板を見れば、壊したと言うより、虫も食っているし、いつ折れていても不思議はなかったようだ。
+When I look at where Nanashi pointed, the floorboards are so rotten and worm-eaten that it's a miracle they hadn't already collapsed.
 
-非力なナナシが引っ張って壊れたぐらいだから、俺が踏んでいたら間違いなく踏み抜いていたな。
+If the tiny Nanashi was enough to break them, I definitely would have made them collapse with a step.
 
-「あ、あぁ……それはいいんだけど」
+「Y-Yeah...they are...」
 
-俺の目は地下倉庫の中にあるものに釘づけになっていた。
+My eyes are glued to the newfound discovery of this storage room.
 
-空間自体はそれほど広くない。
+It's not that large a room.
 
-その中にあったのは無数の本、本、本。
+However, it's filled with countless books. An unimaginable number of books.
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice kona0124
-【コノミ】「本がたぁくさんあるねぇ〜」
+【Konomi】「So many booooks〜」
 
-どれもこれも古めかしいものだが、本なんて貴重なものが、こんなところになんでこんなにたくさん？
+They all look quite old, but books are so valuable. Why would there be so many in a place like this?
 
-個人が所有しているにしてはずいぶん数があるし、何より高価な本をこんな仮小屋に置いておくなんてどういうことだろう。
+Anyone who can own this many books must be incredibly rich. So why would they keep them in this ramshackle hut?
 
-この山小屋の所有者はもうだいぶ前に亡くなって村の所有になっているはずだけど、こんなものがあるなんて話聞いたことがない。
+The person who lived in this hut died a long time ago. If somebody dies without heirs, their possessions normally go to the village, but I've never heard anyone in the village mention this incredible treasure.
 
-見つからないように隠してあったのか？
+Maybe the previous owner wanted to keep their collection a secret?
 
-俺はその中にある比較的新しそうな一冊を取りだした。
+I reach out and grab one of the newer-looking books.
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -488,79 +494,79 @@
 
 ;ヒナタ
 #voice hina0200
-【ナナシ】「なになぁに、それなぁにっ！？」
+【Nanashi】「What, whaaat, what's thaaat!?」
 
-「……あぁ、これは本と言うか、日記、かな？」
+「...Oh, this is a book. To be more precise, it seems to be a diary?」
 
-俺がたまたま手にした本には、印刷ではなく手書きの字が記されていた。字が汚くて読みづらい。
+The book I happened to grab contained handwritten characters, not printed ones. The hand was untidy and hard to decipher.
 
-えーっと、何が書いてあるんだろう。
+Now, just what did they write?
 
-ただの日記だとしたら、前の山小屋の所有者って言うのはずいぶん風流な人だったということだろう。
+If it is a diary, the previous owner was probably a rather fastidious person.
 
-適当に開いてみると、地図のようなものが俺の目に飛び込んできた。
+I opened it to another random page, and what looked like a map appeared.
 
-……この地図みたいなのはここの地形……？
+...Is it a map of this area...?
 
-ぱらぱらとめくってみると、この小屋を中心にこのあたりのことについて記してあるようだ。
+Flipping through the pages, it seems to be a diary recording events occurring in the area near the mountain hut.
 
-俺が出会ったときにナナシが捕まっていた蔦の魔物についても書いてあるようだ。
+It even has a description of that vine demon that captured Nanashi, when we first met.
 
-その他にも、食べられる果物が自生している場所、魔物が潜む場所……これが本当なら相当便利だぞ。
+It also has places where you can find edible fruit, places where monsters live...if what is written here is accurate, this is incredibly useful.
 
-「ちょっと面白そうだな」
+「This is a rather intriguing find.」
 
-こういう、蓄積された知識には大いに興味がある。
+I'm really interested in repositories of knowledge like these.
 
-癖のある字だから解読には手間取りそうだけど、ざっと見た感じではこの山小屋暮らしに、かなり役に立ってくれそうだ。
+The poor handwriting makes it rather difficult to decipher, but since it all seems to be about the area around this cabin, it will probably make life around here a lot easier.
 
 ;ヒナタ
 #voice hina0201
-【ナナシ】「おもしろい？　おもしろいの？」
+【Nanashi】「Intriguing? What's intriguing?」
 
-「まぁ、俺にとってはね」
+「Well, maybe just to me.」
 
-後でじっくり読むにしても、面白いものを見つけたなぁ。
+What fantastic luck to stumble across this. I'll peruse it more thoroughly later.
 
-この数ある本の中から、最初に手にしたのがこの本だというあたりには、どことなく運命的なものを感じる。
+I just happened to pick this book first, at random, out of this entire king's hoard. It feels almost like fate.
 
-それにこんなに本があったら、しばらくは読みふけることができそうだ。
+And if there are this many books here, looks like I won't run out of reading material for a while.
 
-俺にとっては宝の山だな。
+To me, this hoard of books is worth more than a hoard of treasure.
 
 ;CHR K05F R
 #cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice kona0125
-【コノミ】「ところで、ニンゲンくん。雨が降りそうだけど、いいのぉ〜？　朝から、雨が降る前にって、言ってたよね〜？」
+【Konomi】「By the way, human-kun. Apparently, it's going to rain soon, you know〜?　This morning, you were saying 'I've gotta finish before it rains', riiight〜?」
 
-「え？　雨が降るの？」
+「Eh? It's going to rain?」
 
 #voice kona0126
-【コノミ】「暗くなったら降るんじゃないかなぁ〜、さっき鳥たちがそう言ってたよぉ〜」
+【Konomi】「It'll rain when it gets dark oouuut〜, the birdies were all saying iiiit〜」
 
-コノミに声をかけられ、俺は我に返った。
+Konomi's words returned me back to reality.
 
-いけない、興味があるものを目にするとつい没頭してしまうのは、俺の悪い癖だ。
+Not good. I have a bad habit of spacing out when I'm distracted by something I find interesting.
 
-「暗くなったら、ならまだ結構時間あるけど、それは拙いな。雨に濡れたら資材はしばらく使いものにならないし」
+「If that's true, that's quite unlucky, although we do have some time until it gets dark. However, a lot of my materials will be unusable for a little while if they get soaked.」
 
-とりあえず、もう少し木とかを拾ってくるか。
+I suppose my next step should be more wood-gathering?
 
-内側の床や壁を直すのにまだまだ必要になるだろうし。余るようなら焚付にもなる。
+I need much more wood to fix the walls and floor from the inside. Anything I have extra I can use as firewood.
 
-ついでに、何か食べられるものがあればそれも少し取ってきたいところだ。
+Also, if I can, I'd like to find something to eat.
 
-携帯食料はなるべく保存用に取っておきたいしな。
+I want to keep the food I carried here stored in reserve for as long as possible.
 
-今朝、エルフは特に何も食べなくてもいいらしいことは分かったけど、俺ひとりだってそれなりに食料は消費する。
+While I ate this morning, I learned that the elves apparently don't need to eat, but I still require food.
 
-しばらくここで暮らすことを考えたら、どこに食べられる果物や何かがあるかは把握しておきたい。
+If I'm going to be living here for a while, I need to figure out where the best places to find food are, whether plants, fruit, or otherwise.
 
-ちょうど、ここにそれらの手がかりとなりそうな本もあることだし……。
+Fortunately, I just found a book that should help with that...
 
-「それじゃ、少しこのあたりを探索するか」
+「In that case, I should spend a while searching the area.」
 
 ;CHR H08F2 L
 #cg ヒナタ hin_1_08f2 左
@@ -570,16 +576,16 @@
 
 ;ヒナタ
 #voice hina0202
-【ナナシ】「うん、たんさくしよっ！」
+【Nanashi】「Yeah, let's search!」
 
 #voice kona0127
-【コノミ】「何か面白いものが見つかるといいねぇ〜」
+【Konomi】「It'd be nice if we find something interestiiiing〜」
 
-ナナシもコノミも出かけることに異存はないようだ。
+Nanashi and Konomi don't seem to have any objections to taking a trip.
 
-早速この本を頼りに少し歩いてみるか。
+Let's see just how reliable this journal really is.
 
-俺たちは森に出かけることにした。
+The three of us went out into the forest.
 
 ;CHR OFF
 #cg all clear
@@ -603,30 +609,30 @@
 
 ;ヒナタ
 #voice hina0203
-【ナナシ】「ねぇねぇ、このキノコたべてもいいよっ♪」
+【Nanashi】「Hey, hey, you can eat this mushroom♪」
 
-そういってナナシが持ってきたのは目も覚めるような赤に、毒々しい紫の斑点がついたド派手なキノコだった。
+Nanashi held up an eye-poppingly red mushroom, covered in poisonous-looking purple spots.
 
-「そんな派手な色柄のキノコは食べたくないぞ」
+「I'm not going to eat a mushroom that color.」
 
-全力で毒キノコって自己主張してるだろ、それ。見てるだけでもぶっ飛べそうな毒々しさだ。
+Every single part of it is screaming out how dangerous it is. Just looking at it makes me worry I might be getting poisoned.
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice kona0128
-【コノミ】「駄目なのぉ？　可愛いのにねぇ〜」
+【Konomi】「You wooon't? But it's so cuuuuute〜」
 
-「人間にはね、食べられるものと食べられないものがあるんだよ……」
+「You know, not everything is edible for humans...」
 
-可愛いか？　可愛いという評価も受け入れがたいものがある。エルフの美的センスってどうなっているんだろう。
+Cute? Just because it's cute doesn't mean it's valuable. What is wrong with the aesthetic sense of these elves?
 
 ;ヒナタ
 #voice hina0204
-【ナナシ】「たべてみなよ、たべたらおいしいかもしれないよ？」
+【Nanashi】「Just try it, it might be really tasty, right?」
 
-「口に押し付けるな。食べられるキノコだって、生じゃ食べないよ」
+「Don't try to force it in my mouth. Even if it was an edible mushroom, I couldn't eat it raw.」
 
 ;CHR H02F2 L
 #cg ヒナタ hin_1_02f2 左
@@ -634,24 +640,24 @@
 
 ;ヒナタ
 #voice hina0205
-【ナナシ】「そうなのか」
+【Nanashi】「Really?」
 
-大人しくひっこめてくれたからいいようなものの、粘液で皮膚がただれるような毒だったらどうするんだ。
+He obediently pulls it away, but some of the mucus covering the mushroom got on my skin. Hopefully I don't actually get poisoned just from that.
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice kona0129
-【コノミ】「ねぇねぇ〜、じゃあこっちはぁ〜？」
+【Konomi】「Hey, heeey〜, then what about thiiiis〜?」
 
-コノミが手にしているのは今度は目に染みるような黄色いキノコだ。
+This time, Konomi's brought an eye-searingly yellow mushroom.
 
-それも食べるには抵抗がありすぎるぞ。
+I'm absolutely not eating that.
 
-「……キノコは当たると怖いから、わからないのに手を出すのはやめておこう。ね？」
+「...I'm too scared to touch that mushroom. How about, if you don't know what it is, don't touch it, okay?」
 
-大体食べるの、俺だけなんだし。
+After all, I'm the only one here who will actually be eating.
 
 ;CHR H01F2 L
 #cg ヒナタ hin_1_01f2 左
@@ -659,63 +665,65 @@
 
 ;ヒナタ
 #voice hina0206
-【ナナシ】「キノコって、アタリとかハズレとかあるの！？　じゃあ、アタリさがさなきゃ！」
+【Nanashi】「You only want mushrooms you know!? Okay, this one's a mushroom!」
 
-「……キノコだけは取ってきても、絶対俺食べないからな！？」
+「...No matter how many mushrooms you bring, I'm not eating any, okay!?」
 
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice kona0130
-【コノミ】「もう、ニンゲンくんはわがままだなぁ〜」
+【Konomi】「Honestly, human-kun, you're so selfiiish〜」
 
-「わがままって……命に関わることだから。ね！？」
+「Selfish...my life it at stake here, okay!?」
 
-こいつらに任せておくと、どんなものを喰わされるかわからない。
+If I leave it to those two, I don't know what I'll end up eating.
 
-頼りにしないで自分で探すとしよう。
+I'll search myself and not rely on them.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……今日見つけたこの本を手がかりにに、食べられる木の実の在りかを探すとするか。
+...I flip through the book I found today, trying to use it as a guide to see if I can find anything to eat.
 
-えーっと……本当に読みにくいな、この字。
+Hmmm...these characters really are hard to read.
 
-小屋に戻ったらこの日記を改めて解読して、しばらくどのぐらい信用できそうか調べてみることにしようか。
+Perhaps it would be better to go back to the cabin and spend some time deciphering the book, to see whether it's actually reliable?
 
-俺はそんなことを考えながら、木に果物でも生っていないかと、上を見上げた。
+Considering it, I glance up, hoping to at least see some edible fruit.
 
-;SE
+;se018	パシンとおしりを叩く
+#se 1 se018
 
-ひゅるるる〜ぽすっ
+*whoosh*
 
-「え？」
+「Eh?」
 
-なんだか、木の枝みたいなのが落ちてきた。
+Something like a tree branch is falling towards me.
 
-いや、飛んで来たと言った方がいいだろうか。
+No, not falling. Maybe I should say 'flying'?
 
-;SE
+;se018	パシンとおしりを叩く
+#se 1 se018
 
-ひゅるるる〜ぽすっ
+*whoooooosh*〜 *thwack*
 
-「あいたっ……くない……」
+「Ow! Hold on...it doesn't hurt...」
 
-ささったというか、当たって驚いたけど、別に痛さはまったくなかった。
+The branch hits me, but I'm only a bit surprised, not injured in the slightest.
 
-……これ、矢か？
+...Wait, this is an arrow?
 
-かろうじて葉っぱで矢羽のようなものが付いているから矢だとわかるような気はするものの、これじゃ飛んだのが奇跡みたいなものだ。
+There's a few leaves haphazardly stuck to it in a way that suggests they might be intended to be fletchings. It's something of a miracle this even flew.
 
-よく飛んできたな、これ。
+Where on earth did this even come from?
 
-どこから飛んできたのかと、その方向に顔を向けると、きりっとした顔で少年が矢をつがえていた。
+When I look over in the direction the arrow came from, I see a young boy with an attractive face.
 
-;BGM ch1 bgm008 イバラ 再生
-;#bgm 0 bgm008
+;BGM ch1 bgm009 イバラ 再生 -> 16へ変更
+#bgm 0 16
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
@@ -724,13 +732,13 @@
 ;エルフ狩人（エルフハンター）
 ;イバラ
 #voice ibaa0003
-【？？？】「この卑しいエルフ狩人めっ」
+【???】「You vile elf hunter.」
 
-真っ白な肌に、長い耳。驚くほどに整った容姿。
+White skin, long ears. Surprisingly well-dressed.
 
-……この子もどう見ても、エルフだ。
+...This boy is definitely another elf.
 
-「エルフ狩人？　それ、俺のこと？」
+「Elf hunter? you mean me?」
 
 ;FACE ON
 #face on
@@ -742,22 +750,22 @@
 
 ;ヒナタ
 #voice hina0207
-【ナナシ】「えぇ！？　ニンゲンさんエルフハンターだったの！？」
+【Nanashi】「Eeh!?　Human-san, you're an elf hunter!?」
 
-言われた俺よりも、ナナシの方がびっくりしている。
+Nanashi seems even more shocked than I am.
 
-「そんな訳ないだろう。それだったら、きみらを見つけた時点で売りに行くよ」
+「Of course not. If I was, I would've captured and sold you the moment we first met.」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0131
-【コノミ】「そうだよねぇ〜。ニンゲンくんはそんなんじゃないよねぇ〜」
+【Konomi】「That's riiiight〜. Human-kun isn't an elf hunteeer〜」
 
-ま、会って間もない人間をそんなにあっさり信用するのもどうかと思うけど、俺がエルフ狩人じゃないのは確かだ。
+Well, leaving aside how easily they trust someone they barely know, I really am not an elf hunter.
 
-今だってどう見たって狩りをするような格好じゃないしな。
+In fact, it seems to me that right now I'm the one being hunted.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -765,9 +773,9 @@
 
 ;ヒナタ
 #voice hina0208
-【ナナシ】「そだね、じゃあニンゲンさんはいいニンゲンさんだよって、おしえてあげなくちゃ」
+【Nanashi】「That's right! Human-san, you're a good human-san, I have to tell him!」
 
-ナナシはまるでそれが自分の使命だとでもいうように、張り切って新たなエルフに向かって手を振った。
+Nanashi runs towards this new elf, frantically waving his hands, like he's taken it upon himself to deliver that message.
 
 ;FACE H07F
 #face f_hin_0_07f 94 466
@@ -775,9 +783,9 @@
 
 ;ヒナタ
 #voice hina0209
-【ナナシ】「だいじょぶだよっ！、ニンゲンさんはエルフハンターなんかじゃないよっ！」
+【Nanashi】「It's okaaaaay!　Human-san isn't an elf hunteeeeeer!」
 
-ぶんぶんと親しげに手を振るナナシに、新しく現れたエルフは弓を下ろし苛立たしそうに言った。
+When Nanashi runs towards him, positively vibrating with vigour, the new elf lowers his bow, and speaks, sounding disgusted.
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
@@ -785,30 +793,30 @@
 
 ;イバラ
 #voice ibaa0004
-【？？？】「ハーフエルフのくせに馴れ馴れしくするなっ。お前は半分人間だから、その人間の肩を持つんだろ！」
+【???】「Do not act so familiar, you filthy half-elf. Half your tainted blood is human, of course you would defend him!」
 
-「ハーフエルフ？」
+「Half-elf?」
 
-ハーフエルフというのはエルフ以外の種族との間に生まれるエルフのことだ。
+Half-elf, meaning that he's a combination of an elf and another race.
 
-半分人間、ということはナナシは人間とエルフの間に生まれたのだろう。
+He said 'half your blood is human', so Nanashi must be a human-elf child.
 
-そういえば、ナナシの耳は他のふたりに比べて短く、人間に近い。
+That reminds me, Nanashi's ears are much shorter than the other two elves, and look much more similar to a human's, relatively speaking.
 
-それにコノミにはへそが無かったけど、ナナシには間違いなくあった。
+And Konomi doesn't have a belly-button, but Nanashi definitely does.
 
-なるほど、ナナシはハーフエルフだったとは。
+I see. So Nanashi's a half-elf?
 
-ナナシとコノミは何故こんなにも違うのかと思っていたけど、そういうことだったのか。
+I had wondered why Nanashi and Konomi were so different. That explains it.
 
-俺が一人納得していると、コノミも弓を持つエルフに手を振った。
+While I was considering this new revelation, Konomi had also started to wave at the bow-wielding elf.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice kona0132
-【コノミ】「イバラ〜、ボクもニンゲンくんはそんなんじゃないと思うけどなぁ〜」
+【Konomi】「Ibaraaa〜, I don't think human-kun is that bad eitheeeeer〜」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
@@ -816,84 +824,90 @@
 
 ;イバラ
 #voice ibaa0005
-【？？？】「イバラ？」
+【???】「Ibara?」
 
-突然呼びかけられたエルフはキョトンとした顔になった。
+The elf seems baffled by Konomi suddenly addressing him.
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice kona0133
-【コノミ】「君の名前だよ〜。エルフ語だと人間には聞き取れないからねぇ〜」
+【Konomi】「It's your nameee〜. Humans can't hear elf languaaage〜」
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
 
 #voice ibaa0006
-【イバラ】「名前？　名前なんて、人間ごときに教えてやる必要ないだろ！」
+【Ibara】「Name?　There's no need for an inferior human to have a means to address me!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
-
 #voice kona0134
-【コノミ】「ほらぁ〜でも、名前、無いと不便じゃな〜い〜？　だからぁ〜、ボクはコノミ、でこっちはナナシ、ね〜？」
+【Konomi】「Aw come oooon〜, it's inconvenient to not have a name, riiiight〜〜?　Soooo〜, I'm Konomi, he's Nanashi, okaaay〜?」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0007
-【イバラ】「おい、人間！　汚らわしいハーフエルフはともかく、コノミまでたぶらかすとは言語道断！　ボクが成敗してやる！」
+【Ibara】「Oi, Human!　That unsightly half-elf aside, how dare you have the audacity to deceive Konomi! You will face my retribution for that!」
 
-否定したわりにはちゃんと、コノミのことをコノミと呼んでいる。
+Despite his rejection of the idea of names, he still addressed Konomi by his.
 
-どうやら、根はずいぶん素直な子なのらしい。
+It seems that, at heart, he's a very nice boy.
 
 #voice ibaa0008
-【イバラ】「そこを動くなよ、人間！」
+【Ibara】「Stay right there, human!」
 
-イバラは弓に新たに矢らしきものをつがえると、俺を狙ってきた。
+Ibara strings another arrow and takes aim at me.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「……あ、ちょっとあぶな……」
+「...Hey, that's dangerous...」
 
-俺が制止する間もなく、その弓は放たれ……。
+Before I can stop him, he takes aim again, and fires...
 
-へろへろ〜ぽてん
+;se018	パシンとおしりを叩く
+#se 1 se018
 
-何というか、届いたのがすごいと言うか、何というか。よくここまで飛んできたな、今の勢いで。
+*whooooosh*〜 *thud*
 
-これじゃ攻撃どころか、威嚇にすらならない。
+How do I put this...Considering how terribly made the arrows are, I'm amazed that it managed to fly far enough to even come close to me.
 
-「すごいな、よく届いたな」
+You couldn't even call it an attack. It's not threatening in the least.
 
-俺は飛んできた矢を拾い上げて呟いた。飛ばないわな、これじゃ。
+「Wow, that went quite far.」
 
-軽いわ、ちゃんと重りはついてないわで殺傷能力どころか、どうやったら飛ばせるのかという代物だ。
+I bend over and pick up the arrow. Just look at this thing, it's so poorly made.
 
-これでどうやったらここまで飛ばすことができるんだ。
+The arrow itself is so light, and it doesn't have anything on the end to pierce or bludgeon. It's barely aerodynamic, and certainly not a good weapon.
+
+It's astounding that he even manages to get these arrows to fly all the way over here.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaa0009
-【イバラ】「どうだ、人間！　降伏するなら今のうちだぞ！　コノミとついでにナナシを解放しろ！」
+【Ibara】「Take that, human! I will give you one chance to surrender! Release Konomi! And also Nanashi, I suppose!」
 
-俺の感心をどうとったものか、イバラは自信ありげに薄い胸を逸らしてみせる。
+My admiration for his ability to actually get the arrow over me seems to get to Ibara's head. He puffs his small chest up with pride.
 
-「……あのさぁ」
+「...Hey.」
 
-何でこのエルフがこんなにも好戦的なのかはよくわからないけど、とりあえず説明くらいはした方がよさそうだ。
+I don't know why this elf is so hostile, but for now, I should at least try to explain things.
 
 #voice ibaa0010
-【イバラ】「なんだ！　言い訳なんか聞かないぞ！」
+【Ibara】「What!　I refuse to listen to your excuses!」
 
-「とりあえず、武器は持ってないのだけ確認してくれるかな」
+「I'm just letting you confirm that I'm not carrying any weapons.」
 
-俺は手を上げて、ついでにくるっと回って、エルフたちを拘束するようなものは何一つ持っていないことを示して見せる。
+I hold up my hands, and then turn on the spot, showing him that I don't have anything to threaten the other two elves with.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -901,88 +915,88 @@
 
 ;ヒナタ
 #voice hina0210
-【ナナシ】「ぼくもっ」
+【Nanashi】「Me tooo!」
 
-思った通り、一緒になってナナシがくるくると回り始めた。
+As expected, Nanashi immediately starts to imitate me, spinning around over and over again.
 
-こんな動き、縛ったりなんだりしていたらまず絶対できない。
+His movements demonstrate that I haven't tied him up or bound him in any way.
 
-「ほら、ね？　解放するも何も、拘束してるわけじゃないのわかっただろ？」
+「See? I can't free them, because I haven't captured them in the first place, right?」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibaa0011
-【イバラ】「そ、そんなの……わかんないだろっ！　人間はずるくて卑怯だから、何か変な術でもかけてるのかもしれないし！」
+【Ibara】「I-I...I can't be sure!　Humans are dishonest, deceitful creatures, you could have employed some sort of wicked technique or spell!」
 
-エルフが想像する人間て、どれだけすごいやつなんだろう。
+Just how incredible are humans in this elf's imagination?
 
-野蛮で、変な術が使えるなんて、それ魔王とかそういうのじゃないんだろうか。
+Wicked techniques or spells and the like, does he think that I'm some sort of demon lord?
 
-「そんな術なんて使える人間はそうそういないよ。少なくとも、俺は今まで会ったこともない」
+「Humans can't do things like that. At least, I've never met anyone who can.」
 
 #voice ibaa0012
-【イバラ】「えーっと、えーっと、でもっでもっ！」
+【Ibara】「Um, um...but, but!」
 
-まだ、どうにか俺をエルフ狩人だと言い張ろうと頑張るイバラに、俺は手を差し伸べた。
+I reach out towards Ibara, who is trying his hardest to think of another way that I could be an elf hunter.
 
-「そんなに疑うなら、こっちに来て気が済むまで調べて、この子たちを連れて帰ればいい」
+「If you're that suspicious, you just have to come over here and check. If you want to take the other two, I won't stop you.」
 
 #voice ibaa0013
-【イバラ】「そんなこと言って、ボクを騙す気だな！」
+【Ibara】「Hah! As if I'd fall for such an obvious trick!」
 
-「騙したりしないって……そんなに疑うんなら、こうして手を上げたままにしておくよ」
+「I'm not trying to trick you...look, my hands are up, I've surrendered, you don't need to be so suspicious.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-俺が手を上げたまま立っていると、イバラは疑り深く近づいてきた。
+I stand up, my hands raised. Ibara approaches, slowly, carefully, full of suspicion.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibaa0014
-【イバラ】「罠なんて仕掛けてないだろうなっ！？」
+【Ibara】「Perhaps you set up some traps in advance!?」
 
-「仕掛けてないってば」
+「I haven't set any traps.」
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibaa0015
-【イバラ】「ふ、ふんっ！　人間の言うことなんて信用してないからな！」
+【Ibara】「H-Hmph! As if I could trust a human on their word!」
 
-こんなに近付いてきたら、何も罠なんてなくてもちょっと手を伸ばすだけですぐ捕まえられる。……疑り深いくせに抜けているなぁ。
+He's so close that I could just reach out and grab him without any traps, capturing him in an instant...He's so suspicious, but he's not very good at it.
+
+That said, if I did grab him and go "gotcha" he'd probably be very angry with me.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
-ここで「ほーら、捕まえた」とかやったらさぞかし怒るんだろうな。
-
-イバラは俺の周りをじろじろ見て、それからコノミやナナシを一通り確認して、やっと納得したようだった。
+Ibara carefully examines me, the nearby area, and both Nanashi and Konomi, before finally giving up.
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibaa0016
-【イバラ】「……う、うん。お前が捕まえてるわけじゃないのは認めてやってもいい」
+【Ibara】「...H-Hmph. I shall admit that you did not capture them, at least.」
 
-「手を下ろしても構わない？」
+「I can put my hands down now?」
 
 #voice ibaa0017
-【イバラ】「しょうがない。いいぞ」
+【Ibara】「Whatever. Fine.」
 
-ようやくお許しが出て手を下す。
+Finally, permission granted, I lower my hands.
 
-しかし、近くで見たらますます気になるな。
+However, as he was tramping around, my curiosity about something kept increasing.
 
-「……その弓じゃ、何も射れないだろ。よかったら、見せてよ」
+「...You don't have any arrows for that bow. Let me take a look at it, if you don't mind.」
 
 ;ＥＶ絵――EV006『手元を覗きこむイバラ』
 
@@ -995,57 +1009,57 @@
 #cg イベント ev006a1 背景
 #wipe fade
 
-「本当によくこんな弓で、矢を飛ばせたなぁ」
+「I'm amazed you were able to shoot anything with a bow like this.」
 
-イバラが持っていた弓は曲げやすい柔らかな木を加工したもので、あまり強く弦は張られていない。
+Ibara's bow was made of soft, pliable wood, and the bowstring wasn't anywhere near tight enough.
 
-そこに来て、真っ直ぐじゃなくて、矢羽もろくに付いていない矢の組み合わせで、矢を飛ばせたのは凄すぎる。
+The fact that he was able to hit me with arrows - arrows that weren't even fletched or made properly - with a bow like this boggles my mind..
 
 ;CHR I05F C
 ;#cg イバラ iba_1_05f 中
 ;#wipe fade
 
 #voice ibaa0018
-【イバラ】「エルフが弓を使う技には、人間など及びもつかないんだ」
+【Ibara】「The bow-making techniques of elves vastly outstrip any poor human handiwork.」
 
-自慢げにイバラがふんぞり返った。
+Ibara proudly stuck his chin up.
 
-確かにこの弓矢で矢を飛ばせる技術はすごいけど、それって何の役に立つんだろう？
+Certainly, he could shoot arrows quite far with this bow, but to what end? They wouldn't do anything when they hit.
 
-「本当は弓から作った方がいいんだろうけど……これ、自分で作ったの？」
+「Can you even call this 'making a bow', though...did you make this yourself?」
 
 #voice ibaa0019
-【イバラ】「そうだ。まだ教わる時期が来ていないから、見たのを真似しただけだけどさ」
+【Ibara】「Yes. My time to be instructed in bowcraft has not come yet, so I watched what the others did and imitated.」
 
-なるほど見よう見まねで作ったか。俺も小さい頃にやったなぁ、そういうの。
+Oh, so this is a copy he made. I get it, I did something like that when I was a kid, too.
 
-「誰にも教わらないで、これだけ作ったのはすごいね」
+「It's amazing that you actually made this on your own without any teaching.」
 
-本当は、この弓でも何とか矢を飛ばせたのが一番すごいんだけど、何とか矢が飛ばせるからかえってこの程度で満足しちゃったのかもな。
+The truth is, the best you could hope for with a bow like this is to - if you were lucky - shoot an arrow and hope. But then again, maybe he doesn't know any better so he's perfectly pleased with that.
 
 #cg イベント ev006a2 背景
 #wipe fade
 
 #voice ibaa0020
-【イバラ】「ふ、ふふん。そうだろう。もっと褒めてもいいぞ」
+【Ibara】「H-Hmph. That's correct. You may praise me more, if you wish.」
 
-イバラは褒められて嬉しそうに、さらにひっくり返りそうにふんぞり返っている。
+Ibara seems so pleased by the confident that his chest puffs out, almost becoming even haughtier.
 
-……いきなり弓で射られてびっくりしたけど、なんか可愛いなこの子も。
+...I was a bit shocked at first when he tried to shoot me, but now I've realized he's a rather cute kid.
 
-「とりあえず、もう少ししっかり弦を張って……矢の方をもうちょっと重量見て……」
+「For now, you need your bowstring a bit tighter...and your arrows need more weight...」
 
-殺傷能力があるほどにはどうやってもならないけど、少し精度を上げるくらいなら何とかなりそうだ。
+I make a few adjustments to improve the accuracy of his shooting, although I don't do anything to make his arrows any more dangerous.
 
-あんまり殺傷能力の高い弓を与えて、本気で射られても困るしとりあえずこれでいいか。
+As he intended to use this bow and arrow on me, I don't want to actually make it lethal, just in case.
 
 #cg イベント ev006a1 背景
 #wipe fade
 
 #voice ibaa0021
-【イバラ】「……器用だな、人間」
+【Ibara】「...You are rather dextrous, human.」
 
-「そうかな。それほどでもないけど……ほら、これでどうかな」
+「You think so? I don't think it's that impressive...here, how's this?」
 
 #cg all clear
 
@@ -1055,16 +1069,16 @@
 
 ;SE 
 
-ぴゅうんっ
+*WHOOOSH*
 
-弓から放たれた矢が音を立てて飛んだ。
+The arrow makes a noise as it flies from the bow.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibaa0022
-【イバラ】「お！　すごい飛ぶようになった！」
+【Ibara】「Oh! It flew wonderfully!」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
@@ -1072,60 +1086,58 @@
 
 ;ヒナタ
 #voice hina0211
-【ナナシ】「わぁ、すごいすごい！」
+【Nanashi】「Wooow, amazing, amaziiing!」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice kona0135
-【コノミ】「おぉ〜」
+【Konomi】「Oooh〜」
 
-「うん、すごく弓が上手なんだね」
+「Yes, this is quite a good bow.」
 
-いくら手直ししたとはいえ、この弓でこれだけ矢を飛ばせるのはすごいぞ。
+This bow is quite impressive, it only took a few adjustments to get the arrow to fly that well.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibaa0023
-【イバラ】「ふふん、ボクの実力からしたらこんなの当然だ」
+【Ibara】「Fufufu, 'tis only natural, I made it myself.」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
-
 ;ヒナタ
 #voice hina0212
-【ナナシ】「すごい！　つよそう！　かっこいい！」
+【Nanashi】「Amazing! So strong! So cool!」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
-
 #voice kona0136
-【コノミ】「おっきなエルフみたいだね〜」
+【Konomi】「Just like a big elf〜」
 
-ぱちぱちとナナシもコノミを手を叩き、イバラは自慢げに胸を張った。
+Ibara puffs out his chest in pride, as Konomi and Nanashi applaud.
 
-「弓はそんなものでいいかい？」
+「Is your bow alright like this?」
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibaa0024
-【イバラ】「ありがとうっ」
+【Ibara】「My sincere thanks.」
+
+Ibara turns towards me, smiling, then realizes what he's doing, coughs, and stops.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
-イバラはこちらを向いてにこっと笑ってから、はっとしたように咳払いをした。
-
 #voice ibaa0025
-【イバラ】「人間のクセに、なかなかやるな。今はこれに免じて見逃してやる。有難くとっととこの森から立ち去れ！」
+【Ibara】「For an inferior human, you did well. For your help, I will be lenient on you, this one time. Show your gratitude by leaving this forest at once!」
 
 ;CHR OFF
 #cg all clear
@@ -1134,19 +1146,19 @@
 ;SMODE 004 STOP
 #endscene
 
-イバラはそう言ってから、立ち去って行った。
+Ibara says that, then leaves.
 
-思わずぽかんとその背中を見送ってしまう。
+I stare at his back as he walks away, a bit bewildered.
 
-「この森から立ち去れって言われても……」
+「He says to leave, but...」
 
-確かに村人はあまり立ち入らない場所ではあるけれど、別に立ち入ることが禁忌になったりはしていないはずだ。
+While vlilagers certainly try to avoid coming to this forest, it's not as if entering it is trespassing or forbidden.
 
-大体、一応村の地図には記載されていたわけだし、昔からこのあたりまでは多少なりとも人間が入り込んできたのは間違いない。
+Besides, according to the maps of the village, humans have been entering this area of the forest for generations.
 
-それともエルフ的には、ここはエルフの領土だったりするのだろうか？
+But, perhaps the elves view this area of the forest as part of their dominion?
 
-「……この森に君たちが出てこられるようになったのって、最近のことなんだよね？」
+「...You said that none of you were able to come to this forest until quite recently, correct?」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -1156,34 +1168,34 @@
 
 ;ヒナタ
 #voice hina0213
-【ナナシ】「うん、そだよ」
+【Nanashi】「Yep. That's right.」
 
 #voice kona0137
-【コノミ】「だねぇ〜」
+【Konomi】「That's riiight〜」
 
-「イバラは、もう門とやらから出る許可みたいなの、貰ってたりしたのか、知ってる？」
+「Do you know if Ibara had permission to go through the gate and come here, or something like that?」
 
 #voice kona0138
-【コノミ】「うぅん〜、イバラも、門がなくなったから出てこられるようになったんだと思うけどぉ〜」
+【Konomi】「Noo〜, I don't think Ibara was ever able to come here until the gate disappeared, eitheeer〜」
 
-「それじゃ、何でこの森から立ち去れ、なんて言ってきたんだろう」
+「Then what right does he have to tell me to leave this forest!」
 
 ;ヒナタ
 #voice hina0214
-【ナナシ】「いじわるさんだねっ」
+【Nanashi】「He's a bully.」
 
 #voice kona0139
-【コノミ】「ケチんぼなんじゃない〜？」
+【Konomi】「Very stingy, riiight〜?」
 
-「……別にそういうことじゃないと思うけど」
+「...I'm not sure that's correct, though...」
 
-どうにも、コノミやナナシの言うことは要領がつかめない。
+There's a few points that just don't make sense to me from the description of the two young elves.
 
-会えるかどうかはわからないけど、またイバラに会った時にでも聞くしかなさそうだ。
+I'll just have to ask Ibara the next time I see him.
 
-「……次に射られたら、痛いかもしれないなぁ」
+「...Next time, if he shoots me, it'll probably hurt pretty bad.」
 
-死ぬ心配はないけど、そのぐらいの威力はあるだろうな、あの弓。
+It probably couldn't kill, but I made that bow strong enough to hurt.
 
 ;CHR OFF
 #cg all clear
