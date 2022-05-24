@@ -46,7 +46,7 @@ The wind blew.
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【？？？】「Wow wow, here is the world of humans」
+【???】「Wow wow, here is the world of humans」
 
 A timid rabbit was shocked and its ears perked up to listen.
 
@@ -130,7 +130,7 @@ The worlds separated by boundaries since a long time ago, was trying to become o
 ;茨のエルフ
 ;イバラ
 #voice ibaa0001
-【？？？】「……」
+【???】「……」
 
 ;イズミ
 
@@ -140,7 +140,7 @@ The worlds separated by boundaries since a long time ago, was trying to become o
 ;茨のエルフ
 ;イバラ
 #voice ibaa0002
-【？？？】「Yes, ani-ue.……just now, the barrier--」
+【???】「Yes, ani-ue.……just now, the barrier--」
 
 ;CHR OFF
 #cg all clear
@@ -167,7 +167,7 @@ The worlds separated by boundaries since a long time ago, was trying to become o
 ;文字数制限のため変更
 ;コノミ
 #voice kona0001
-【？？？】「Uwaa〜、this is the first time I've seen such a huge spring〜」
+【???】「Uwaa〜、this is the first time I've seen such a huge spring〜」
 
 The elf who stepped into the unknown world let out an exclaimation of admiration.
 
@@ -196,7 +196,7 @@ A life that knew no fear jumped out of the world of limits, and boldly set foot 
 ;ダークエルフ
 ;ツキヨ
 #voice tuka0001
-【？？？】「……」
+【???】「……」
 
 The expectations from the world seen for the first time was to satisfaction of curiosity and new stimuli.
 
@@ -220,14 +220,14 @@ That was no exception to this cowardly dark elf, whom the elves regarded as shou
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【？？？】「Wow wow, this is the world of humans」
+【???】「Wow wow, this is the world of humans」
 
 The nameless elf celebrated in joy, spread his little arms as if clasping the sky of the human world.
 
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0002
-【？？？】「Waa‾！　Will I meet humans？　I really want to meet humans quickly--」
+【???】「Waa‾！　Will I meet humans？　I really want to meet humans quickly--」
 
 The world is wide.
 
