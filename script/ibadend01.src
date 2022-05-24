@@ -31,7 +31,7 @@
 #wipe fade
 
 #voice konc0054
-【コノミ】「そっか〜、ニンゲンくんは一緒に行かないか〜、ボクはそれでいいと思うよ〜」
+【Konomi】「そっか〜、ニンゲンくんは一緒に行かないか〜、ボクはそれでいいと思うよ〜」
 
 ;CHR H02F1_A R
 #cg ヒナタ hin_1_02f1_a 右
@@ -118,7 +118,7 @@
 #wipe fade
 
 #voice konc0055
-【コノミ】「さよなら」
+【Konomi】「さよなら」
 
 ;CHR OFF
 #cg all clear

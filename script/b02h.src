@@ -242,7 +242,7 @@
 
 
 #voice konb0121
-【コノミ】「何を占うの〜？」
+【Konomi】「何を占うの〜？」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
@@ -293,7 +293,7 @@
 
 
 #voice konb0122
-【コノミ】「おぉ〜……」
+【Konomi】「おぉ〜……」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
@@ -334,7 +334,7 @@
 
 
 #voice konb0123
-【コノミ】「ボクもー」
+【Konomi】「ボクもー」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
@@ -363,7 +363,7 @@
 
 
 #voice konb0124
-【コノミ】「ん〜と〜、ニンゲンくんは〜」
+【Konomi】「ん〜と〜、ニンゲンくんは〜」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
