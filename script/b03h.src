@@ -186,7 +186,7 @@
 #wipe fade
 
 #voice tikb0209
-【ツキヨ】「いい匂い、です」
+【Tsukiyo】「いい匂い、です」
 
 ;CHR OFF
 #cg all clear
@@ -241,7 +241,7 @@
 「え？」
 
 #voice tikb0210
-【ツキヨ】「おさら、だけです。茶色い粉がお菓子です？」
+【Tsukiyo】「おさら、だけです。茶色い粉がお菓子です？」
 
 「えぇ！？」
 
@@ -288,7 +288,7 @@
 #face f_tuk_0_05f_l 94 466
 
 #voice tikb0211
-【ツキヨ】「ないのに、どうやって食べるのかと思ったです」
+【Tsukiyo】「ないのに、どうやって食べるのかと思ったです」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
@@ -357,7 +357,7 @@
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0212
-【ツキヨ】「甘くて、サクサクです」
+【Tsukiyo】「甘くて、サクサクです」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
@@ -437,7 +437,7 @@
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0213
-【ツキヨ】「喉渇く、です」
+【Tsukiyo】「喉渇く、です」
 
 「口の中の水分とられるもんな。それをそんなにいっぺんに食べたら喉も乾くさ」
 
@@ -465,7 +465,7 @@
 #wipe fade
 
 #voice tikb0214
-【ツキヨ】「イバラ、何で怒ってるです？」
+【Tsukiyo】「イバラ、何で怒ってるです？」
 
 ;CHR OFF
 #cg all clear
@@ -515,7 +515,7 @@
 #wipe fade
 
 #voice tikb0215
-【ツキヨ】「おなかいっぱい、です」
+【Tsukiyo】「おなかいっぱい、です」
 
 #voice konb0244
 【Konomi】「ボクも〜もう食べられないよ〜」
@@ -531,7 +531,7 @@
 #wipe fade
 
 #voice tikb0216
-【ツキヨ】「あとで、食べる、です」
+【Tsukiyo】「あとで、食べる、です」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右

@@ -874,7 +874,7 @@
 #face f_tuk_0_04f 94 466
 
 #voice tukc46
-【ツキヨ】「いいです……」
+【Tsukiyo】「いいです……」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
@@ -934,7 +934,7 @@
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #voice tukc47
-【ツキヨ】「もう起きる時間です」
+【Tsukiyo】「もう起きる時間です」
 
 ;CHR OFF
 #cg all clear
@@ -960,7 +960,7 @@
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
 #voice tukc48
-【ツキヨ】「おなかに精液出されて、とっても気持ちよさそうだったです」
+【Tsukiyo】「おなかに精液出されて、とっても気持ちよさそうだったです」
 
 ;CHR OFF
 #cg ヒナタ clear
@@ -1010,7 +1010,7 @@
 #face f_tuk_0_01f_l 94 466
 
 #voice tukc49
-【ツキヨ】「知ってる、です」
+【Tsukiyo】「知ってる、です」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
@@ -1059,7 +1059,7 @@
 #face f_tuk_0_04f 94 466
 
 #voice tukc50
-【ツキヨ】「かなわない、です」
+【Tsukiyo】「かなわない、です」
 
 ;FACE K04F
 #face f_kon_0_04f 94 466
@@ -1085,7 +1085,7 @@
 #wipe fade
 
 #voice tukc51
-【ツキヨ】「それに悪い人間来ちゃうです」
+【Tsukiyo】「それに悪い人間来ちゃうです」
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
@@ -1147,7 +1147,7 @@
 #wipe fade
 
 #voice tukc52
-【ツキヨ】「ずっと一緒居られる、です？」
+【Tsukiyo】「ずっと一緒居られる、です？」
 
 ヒナタたちは楽しそうに期待を込めた目で俺を見上げた。
 
@@ -1192,7 +1192,7 @@
 #face f_tuk_0_01f_l 94 466
 
 #voice tukc53
-【ツキヨ】「怪我しても誰も治癒してくれないです。ここに来て初めて治癒してもらったです」
+【Tsukiyo】「怪我しても誰も治癒してくれないです。ここに来て初めて治癒してもらったです」
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
@@ -1211,7 +1211,7 @@
 #face f_tuk_0_04f 94 466
 
 #voice tukc54
-【ツキヨ】「いるです！」
+【Tsukiyo】「いるです！」
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
@@ -1224,7 +1224,7 @@
 #face f_tuk_0_01f_l 94 466
 
 #voice tukc55
-【ツキヨ】「こっちと同じものあんまりないです。食べるものないかもです。でも一緒に調べるです！」
+【Tsukiyo】「こっちと同じものあんまりないです。食べるものないかもです。でも一緒に調べるです！」
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
