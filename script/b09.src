@@ -180,7 +180,7 @@
 ふと見やると、俺だけじゃなくみんな昼寝をしていたようだった。
 
 #voice hinb0575
-【ヒナタ】「ん、むにゅ……」
+【Hinata】「ん、むにゅ……」
 
 #voice ibab0703
 【イバラ】「う〜ん……」
@@ -270,7 +270,7 @@
 #wipe fade
 
 #voice hinb0576
-【ヒナタ】「むにゃ？」
+【Hinata】「むにゃ？」
 
 「あ、起きたか」
 
@@ -312,7 +312,7 @@
 #wipe fade
 
 #voice hinb0577
-【ヒナタ】「まぞくっ！？」
+【Hinata】「まぞくっ！？」
 
 ;CHR OFF
 #cg all clear
@@ -331,7 +331,7 @@
 ;FACE H06F1_A
 
 #voice hinb0578
-【ヒナタ】「も……もごもご……」
+【Hinata】「も……もごもご……」
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
@@ -486,7 +486,7 @@
 
 
 #voice hinb0579
-【ヒナタ】「はわっ！？」
+【Hinata】「はわっ！？」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466

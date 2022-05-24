@@ -25,7 +25,7 @@
 #wipe fade
 
 #voice hinb0544
-【ヒナタ】「ふぉおおおおおお！　ひろいね、くだものいっぱいとれちゃうねっ」
+【Hinata】「ふぉおおおおおお！　ひろいね、くだものいっぱいとれちゃうねっ」
 
 ;CHR OFF
 #cg all clear
@@ -94,7 +94,7 @@
 #wipe fade
 
 #voice hinb0545
-【ヒナタ】「ふわわわわわ……ふぉおおおおお〜！！！」
+【Hinata】「ふわわわわわ……ふぉおおおおお〜！！！」
 
 ;CHR OFF
 #cg all clear
@@ -173,7 +173,7 @@
 #wipe fade
 
 #voice hinb0546
-【ヒナタ】「わぁっ！　ヒナタいっぱいつんじゃうぞっ！　きょうそうだっ！」
+【Hinata】「わぁっ！　ヒナタいっぱいつんじゃうぞっ！　きょうそうだっ！」
 
 ;CHR OFF
 #cg all clear
@@ -196,7 +196,7 @@
 
 
 #voice hinb0547
-【ヒナタ】「きっとニンゲンさんよろこぶよっ！」
+【Hinata】「きっとニンゲンさんよろこぶよっ！」
 
 #voice tikb0588
 【ツキヨ】「……！　はい、です！」
@@ -251,7 +251,7 @@
 
 
 #voice hinb0548
-【ヒナタ】「わーい！　きょうそうだっきょうそうだっ！」
+【Hinata】「わーい！　きょうそうだっきょうそうだっ！」
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
@@ -279,7 +279,7 @@
 #wipe fade
 
 #voice hinb0549
-【ヒナタ】「ほぇっ！？」
+【Hinata】「ほぇっ！？」
 
 ;CHR OFF
 #cg all clear
@@ -328,7 +328,7 @@
 
 
 #voice hinb0550
-【ヒナタ】「ひゃわっ！？」
+【Hinata】「ひゃわっ！？」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
@@ -389,7 +389,7 @@
 #wipe fade
 
 #voice hinb0551
-【ヒナタ】「ニンゲンさん、こんなにつんだのにたべられないの？」
+【Hinata】「ニンゲンさん、こんなにつんだのにたべられないの？」
 
 ;CHR OFF
 #cg all clear
@@ -434,7 +434,7 @@
 #wipe fade
 
 #voice hinb0552
-【ヒナタ】「おぉお？　そうするとおいしくなるの？」
+【Hinata】「おぉお？　そうするとおいしくなるの？」
 
 「わからないけど……」
 
@@ -483,7 +483,7 @@
 
 
 #voice hinb0553
-【ヒナタ】「はーい！」
+【Hinata】「はーい！」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
