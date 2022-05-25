@@ -46,33 +46,33 @@ The wind blew.
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【???】「Wow wow, here is the world of humans」
+【???】「Wow, amazing! So this is the human world!」
 
-A timid rabbit was shocked and its ears perked up to listen.
+A timid rabbit twitched, its ears perked up to listen.
 
-Small animals jumped into the burrow in flock.
+Small animals jumped into their burrow in flock.
 
-The first to notice, was weak animals with no way to protect themselves.
+The first to notice it, were weak creatures who had no way to protect themselves.
 
-The animals went into their burrow in this manner with no choice but to wait trembling until the irregular occurence passes through.
+Trembling in their warm nests, they were unable to do anything but wait for the irregular phenomenon to pass.
 
 ;SE
 
-【Troll】「GuururururuuoOOO……？」
+【Troll】「Grooooorr...?」
 
-The next to realise, were those with no intellect.
+The next to notice it, were those without any intellect whatsoever.
 
-Since that is in a sense, weakness.
+Since that could be said to be their weakness, in a way.
 
-A slight feeling of amiss informed only those with sharp senses.
+Those with keen senses felt a slight sense of amiss.
 
-In the instant the world tried to change, there might have been a sound of something breaking.
+Perhaps, in the instant the world was about to change, it was possible to catch the sound of it breaking.
 
-――In other words, vibration as soundless as a veil coming undone.
+――Or perhaps, it was as soundless as a veil fluttering in the wind.
 
-Two worlds in different dimensions overlap, melt, and intersect.
+Two worlds of different planes overlapped, melded, and became one.
 
-The worlds separated by boundaries since a long time ago, was trying to become one again――。
+The two worlds cast apart a long time ago, was trying to become one again――。
 
 ;BGMch1 bgm001 再生
 #bgm 0 bgm001
@@ -130,17 +130,17 @@ The worlds separated by boundaries since a long time ago, was trying to become o
 ;茨のエルフ
 ;イバラ
 #voice ibaa0001
-【???】「……」
+【???】「...」
 
 ;イズミ
 
 #voice izua0001
-【Fountain Elf】『Have you awaken, Thorn Elf』
+【Fountain Elf】『Have you noticed it, Elf of Thorns』
 
 ;茨のエルフ
 ;イバラ
 #voice ibaa0002
-【???】「Yes, ani-ue.……just now, the barrier--」
+【???】「Yes, Ani-ue... Just now, the barrier...」
 
 ;CHR OFF
 #cg all clear
@@ -167,9 +167,9 @@ The worlds separated by boundaries since a long time ago, was trying to become o
 ;文字数制限のため変更
 ;コノミ
 #voice kona0001
-【???】「Uwaa〜、this is the first time I've seen such a huge spring〜」
+【???】「Uwaaah‾, I've never seen a spring this big beforeee‾」
 
-The elf who stepped into the unknown world let out an exclaimation of admiration.
+The elf stepped into the unknown world, and could not help but exclaim in admiration.
 
 ;CHR OFF
 #cg all clear
@@ -181,13 +181,13 @@ The elf who stepped into the unknown world let out an exclaimation of admiration
 #bg bg04_3
 #wipe fade
 
-The presence of the irregularity that the small beings noticed, was also known as is by the elves who lived there.
+The phenomenon that the small creatures felt, was something long-known by the elves who lived there.
 
-For an elf having lived many years, this happening was not the first, but had forgotten after a long while.
+For the long-lived elves, this happening was not the first, but had been nearly forgotten over the long span of time.
 
-Some felt anxious as something new was born. Some felt delight in seeing this world for the first time.
+Some felt anxious as something new was born. Others delighted in seeing a new world for the first time.
 
-A life that knew no fear jumped out of the world of limits, and boldly set foot in the unfamiliar land.
+Lives that knew no fear, crossed the boundary and boldly set foot into the unfamiliar land.
 
 ;CHR T10F4 C
 #cg ツキヨ tuk_1_10f4 中
@@ -196,11 +196,11 @@ A life that knew no fear jumped out of the world of limits, and boldly set foot 
 ;ダークエルフ
 ;ツキヨ
 #voice tuka0001
-【???】「……」
+【???】「...」
 
-The expectations from the world seen for the first time was to satisfaction of curiosity and new stimuli.
+What they hope to find, was a fulfillment of their curiosity and new thrills.
 
-That was no exception to this cowardly dark elf, whom the elves regarded as should be detested.
+That was no exception to this timid dark elf, of a race detested by other elves.
 
 ;CHR OFF
 #cg all clear
@@ -220,22 +220,22 @@ That was no exception to this cowardly dark elf, whom the elves regarded as shou
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
-【???】「Wow wow, this is the world of humans」
+【???】「Wow, amazing! So this is the human world!」
 
-The nameless elf celebrated in joy, spread his little arms as if clasping the sky of the human world.
+The nameless elf rejoiced, and spread his little arms as if embracing the sky.
 
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0002
-【???】「Waa‾！　Will I meet humans？　I really want to meet humans quickly--」
+【???】「Waa‾! Will I be able to meet humans? I hope I'll meet humans soon!」
 
-The world is wide.
+The world is vast.
 
-But, I am little.
+In comparison, we are small.
 
-Small little one, be happy.
+O, ye small creatures, live blissfully.
 
-Just, be happy.
+Simply, be happy.
 
 ;BGMch1 FO停止
 #bgm 0 stop 1000
