@@ -42,7 +42,7 @@
 
 #face on
 
-「Hmm?　It's supposed to be here...but the slime was off by about this much, so calculating that distance in too...maybe about here?」
+「Hmm? It's supposed to be here...but the slime was off by about this much, so calculating that distance in too...maybe about here?」
 
 I tilt my head, studying the maps inside the open book before me.
 
@@ -62,7 +62,7 @@ I tilt my head, studying the maps inside the open book before me.
 #wipe fade
 
 #voice hinb0081
-【Hinata】「That's right!　Ibara, he's calcoolating!　For the ecosistem!」
+【Hinata】「That's right! Ibara, he's calcoolating! For the ecosistem!」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
@@ -90,7 +90,7 @@ I tilt my head, studying the maps inside the open book before me.
 #wipe fade
 
 #voice konb0115
-【Konomi】「Ibara, you knew Hinata had no idea, didn't yooou〜?」
+【Konomi】「Ibara, you knew Hinata had no idea, didn't yooou ‾?」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
@@ -100,7 +100,7 @@ I tilt my head, studying the maps inside the open book before me.
 【Ibara】「Of course. After all, despite how much confidence he speaks with, he almost never understands anything, does he not?」
 
 #voice konb0116
-【Konomi】「Theeen〜, you don't need to check every tiiimeee〜」
+【Konomi】「Theeen ‾, you don't need to check every tiiimeee ‾」
 
 ;CHR ONのまま
 ;#cg onのまま
@@ -134,14 +134,14 @@ I tilt my head, studying the maps inside the open book before me.
 #wipe fade
 
 #voice konb0117
-【Konomi】「Right, right〜. Ibara has a bad habit of getting upset whenever somebody tells him the truth, you knooow〜?」
+【Konomi】「Right, right ‾. Ibara has a bad habit of getting upset whenever somebody tells him the truth, you knooow ‾?」
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0070
-【Ibara】「Konomi!　Do you actually want to have a fight!?」
+【Ibara】「Konomi! Do you actually want to have a fight!?」
 
 ;FACE H08F2
 #face f_hin_0_08f2 94 466
@@ -164,48 +164,48 @@ While I do intend to live a life of solitude, having something pretty near the c
 
 And, if there are any rare flowers, I could sell them for money in the village.
 
-俺の村の言い伝えでは,山小屋より奥はもう魔物の住処だと信じられているからこのあたりまではさすがに村人も入ってこない。
+According to my village's legend, it is believed that beyond the mountain hut is where demon's reside, so no villagers dare venture in.
 
-いくら徒党を組んでいても,俺の小屋が見えるあたりまで来たら引き返すのがお約束になっている。
+No matter how many people in a group, it's definite that they will return once they can see my hut.
 
-だから,あんなところに居を構えようと思ったんだけど。
+That's why I wanted to set it up in that place.
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0072
-【Ibara】「大体花だったら,さっきも咲いてるところあっただろう?」
+【Ibara】「If it was a flower, wouldn't it be blooming a while ago?」
 
-「あれは普通の花だったからなぁ...」
+「If that was a normal flower...」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0070
-【Tsukiyo】「お花,綺麗だったです」
+【Tsukiyo】「The flowers were beautiful.」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0118
-【Konomi】「お花が見たいなら,お花の近くに引っ越すのはどうかなぁ〜」
+【Konomi】「If you want to see flowers, why not move closer? ‾」
 
-皆でワイワイ騒いでいたところで,急にヒナタがぴたりと動きを止めた。
+At the moment when everyone was making cheery noises, Hinata suddenly stopped moving.
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 #voice hinb0085
-【Hinata】「んっ!?　ふんふん...あっ!」
+【Hinata】「Nn!? Hmm hmm...Ah!」
 
-たっと,我先にヒナタが駆け出していく。
+Then, Hinata rushes ahead of me.
 
-「あ,おい!　いきなり走り出したりしたら...」
+「Ah, oi! If you suddenly run out like that...」
 
-その先には...。
+Beyond that was...
 
 ;SMODE 010 PLAY
 #label replay010
@@ -228,9 +228,9 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #wipe fade
 
 #voice hinb0086
-【Hinata】「あった!　あったよ,ニンゲンさん!」
+【Hinata】「Here! Here it is, Human-san!」
 
-森を抜けた先に,ぽっかりと色とりどりの花が咲き乱れる花畑があった。
+Before the edge of the forest, there was a flower garden where colorful flowers bloom.
 
 ;EVCG EV012A1
 ;#face off
@@ -244,43 +244,43 @@ And, if there are any rare flowers, I could sell them for money in the village.
 
 
 #voice tikb0071
-【Tsukiyo】「キレイ,です」
+【Tsukiyo】「It's pretty.」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0119
-【Konomi】「わぁ〜,すご〜い!　お花の絨毯だぁ〜」
+【Konomi】「Waa‾, amazing‾! It's a carpet of flowers‾」
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0073
-【Ibara】「すごい,いっぱい花が咲いてる!」
+【Ibara】「Awesome, a lot of flowers are blooming!」
 
-エルフたちははじかれたように勢いよく駆け出していく。
+The elf and others run out vigorously as if compelled by an unknown force.
 
 ;FACE OFF
 ;#face off
 
-思い切り寝転んだり,しゃがみこんで花を揺らしたりと思い思いにはしゃぎ始めた。
+I felt tempted to squat down and fall asleep to the shake of the flowers.
 
-「な,なんだ,ここは...」
+「What, what, this is...」
 
-だけど,俺はいざ花畑を目の前にしても信じられない思いでいた。
+But I found something incredible in front of the flower garden.
 
-何だ,ここは?
-少なくとも人間の常識では考えられない。
+What is this here?
+At least it cannot be comprehended with human common sense.
 
-ウィスプノトモシビはもっと寒くならないと花をつけないはずだし,それと同じ時期に初夏に花開くウスゴロモが咲いているのもありえない。
+Wisp no Tomoshibi can only bloom when it is colder, and it's impossible for summer-blooming Usugoromo to bloom in the same period.
 
-ハマビシャクはその名のとおり,砂地にしか咲かないのが特徴だし,真っ赤な綿帽子のようなクラウンパフは灼熱の太陽を必要とする南国の特産品だったはずだ。
+Hamabi Shrub, as its name suggests, is characterized by only blooming in sandy ground, bright red cotton-hat like Crown Puff requires the scorching sun that is a specialty of the Sounthern regions.
 
-この花畑は季節感も気候も無視して咲き乱れていた。
+This flower garden was blooming whilst ignoring the season and climate.
 
-本にはそういう場所があるとは書かれていたけど,実際目にしてみると常識ではありえない光景に目眩がした。
+The book stated that there was such a place, but I felt dazzled when I saw first-hand such an impossible scene.
 
 ;背景：花畑（昼）
 ;BG BG11_1
@@ -290,31 +290,31 @@ And, if there are any rare flowers, I could sell them for money in the village.
 
 #face on
 
-意味がわからなくて,俺はイバラを捕まえて聞いてみた。
+I didn't understand why, so I caught Ibara and asked.
 
-「お,おい。この花畑は一体どうなってるんだ?」
+「O, Oi. What's going on with this flower garden?」
 
-それこそ生態系とかどうなってるんだろう。
+What is going on with this ecosystem?
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0074
-【Ibara】「おかしなことを聞くな,ニンゲン。花が咲いてるから花畑というのだろう?　ニンゲンはここを探してたんじゃないのか?」
+【Ibara】「Don't ask strange things, human. It's a flower garden because flowers are blooming, right? Weren't you looking for this place?」
 
-「あ, aah...それはそうだけど...少なくとも俺が知ってる限りじゃ,ありえない咲き方をしてるんだ」
+「A, ah... While that's the case... as far as I know, it should be impossible to bloom」
 
 #voice ibab0075
-【Ibara】「ありえない?　人間というのはすぐにありえないと現実から目をつぶる生き物らしいが,ニンゲンお前もそうなのか?」
+【Ibara】「Impossible? Humans are so quick to insist it impossible and shut their eyes from reality, are you like that too?」
 
 #voice ibab0076
-【Ibara】「花なんて,咲きたいから咲いている。咲きたくなかったら咲かない。そういうものだろう?」
+【Ibara】「The flowers themselves, bloom because they want to. If they don't want to, they won't. It's like that, isn't it?」
 
-「...エルフの世界じゃ知らないけど,人間の世界じゃ花が咲くのには季節や気候なんかが関係あるんだよ」
+「...I don't know about the elf world, but in the human world, flowers bloom in relation to season and climate.」
 
 #voice ibab0077
-【Ibara】「じゃ,花は人間の世界じゃ咲きたくないのかもな。ここはエルフの里に近いからエルフの世界と同じに咲いてるんだ,きっと」
+【Ibara】「Then, maybe the flowers do not want to bloom in the human world. This is close to the elf village, so it blooms in the same way as the elf's world.」
 
 #cg all clear
 
@@ -322,27 +322,27 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #cg イベント ev012a1 背景
 #wipe fade
 
-イバラはそう言って,再び花畑に飛び込んでいった。
+Ibara said that, and jumped into the flower garden again.
 
-取り残された俺は,ぽかんと皆がはしゃぐのをしばらく眺めていた。
+Left behind, I gazed at the boys frolicking in the flowers, stunned.
 
-咲きたいから,咲く...?
-咲きたくないから,咲かない...?
+It wants to bloom, so it blooms ...?
+It don't want to bloom, so it doesn't bloom ...?
 
-なんだ,それは。
-そんな状態でどうやって繁殖してるんだ。
+What, what's that.
+How do they breed in such a state?
 
-「...って,せっかく来たのに見とれてるだけじゃもったいないよな」
+「...It's a waste to be so taken in by the flowers, I forget the purpose of my trip」
 
-この花たちがエルフのチカラで咲いているんじゃ,小屋の近くに植え替えても根付かないかもしれないけど...一日ぐらいなら持つだろう。
+If these flowers are blooming from the power of the elves, even if replanted near my hut,they may not take root... But it should last for a day.
 
-うまく村まで運べれば,園芸好きの連中なんかに売りつけるといい金になるだろうし。
+If I carry it to the village, I can make good money from selling to those who like gardening.
 
-それに,村近辺で見たことがないような株なら,少し生息地を広げてやったほうが繁殖しやすいかもしれない。
+And for species that are never seen in the village, it may be easier for the flowers to breed if their growing grounds are expanded a little.
 
-持たなかったとしても,この不思議な花畑の謎を解明する手がかりの一端にはなるかもしれない。
+Even if it isn't known as a mystery, it give a clue to solve the mystery of this mysterious flower garden.
 
-俺はしゃがみ込むと,掘り起こせそうな株を探し始めた。
+I squat down, and started searching for stumps that could be dug up.
 
 ;背景：花畑（昼）
 ;BG BG11_1
@@ -350,21 +350,21 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #bg bg11_1
 #wipe fade
 
-「うーん」
+「Un」
 
-珍しい花を,と思ったが,つい手入れのことを考えると,馴染み深い花の方にばかり目が行く。
+I thought to take the rare flowers, but considering the care needed for the flowers, I  took only the familiar flowers.
 
-熱帯で咲く花なんか,村に持ち帰っても咲くものだろうか。
+Will a tropical flower bloom even if you take it back to the village?
 
-見たこともない花なんかそもそもどうやって手入れしたらいいかわかんないしな。
+I don't know how to care for flowers that I have never seen.
 
-綺麗だけど毒草なんていうのも混ざっていないとも限らない。
+The rare flowers are beautiful, but there could be poisonous plants mixed within it.
 
-馴染みのある花にしたって,小屋の方に持っていった段階で一旦様子を見たほうがいいのか,枯れてしまう前に早々に売り抜けるか。
+Should I see the situation once I bring it to the hut, and sell it quickly before it withers?
 
-いっそ乾かして持っていったほうがいいかもしれないな。
+Or it might be better to bring it dried.
 
-思案しながら,いくつかの株を丁寧に掘り返し,持ち運べるように土ごと根をぼろ布でくるんでいく。
+While thinking, I carefully dig several stumps and wrap the roots with ragged cloth so that they can be carried.
 
 ;CHR H01F2 C
 #cg all clear
@@ -372,19 +372,19 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #wipe fade
 
 #voice hinb0087
-【Hinata】「ねー,ニンゲンさんなにしてるの?」
+【Hinata】「Hey, Human-san, what are you doing?」
 
-「来るときに説明しただろう?　小屋の周りに少し花でも植えようと思ってるって」
+「I explained it to you earlier, didn't I? I'm thinking of planting some flowers around the hut.」
 
 #voice hinb0088
-【Hinata】「おー,いってた」
+【Hinata】「Oh, you did」
 
-「だから,持って帰る準備をしてるんだ」
+「So, prepare to take these back.」
 
 #voice hinb0089
-【Hinata】「おー,それってむずかしい?」
+【Hinata】「Ooー, is it hard?」
 
-「難しいってこともないけど」
+「It won't be difficult」
 
 ;CHR I01F C
 #cg all clear
@@ -392,7 +392,7 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #wipe fade
 
 #voice ibab0078
-【Ibara】「ニンゲンが必要だと思うなら,手伝ってやってもいいぞ」
+【Ibara】「If Human-san needs help, I can help too」
 
 ;CHR K01F1A C
 #cg all clear
@@ -400,7 +400,7 @@ And, if there are any rare flowers, I could sell them for money in the village.
 #wipe fade
 
 #voice konb0120
-【Konomi】「うん,お手伝いしてあげる〜」
+【Konomi】「Yes, I'll come help too‾」
 
 ;CHR T05F_L C
 #cg all clear
@@ -410,11 +410,11 @@ And, if there are any rare flowers, I could sell them for money in the village.
 ;TKface
 
 #voice tikb0072
-【Tsukiyo】「お手伝い?　何してる,です?」
+【Tsukiyo】「Helping out? What are you doing?」
 
-ヒナタが寄ってきた途端に,わらわらと皆が集まってきて手伝いに名乗りを上げる。
+As soon as Hinata stopped by, everyone gathers and volunteers to help.
 
-「とりあえず今日のところはまだ試しに,って段階だから,そんなに手伝ってもらうことはないんだけど...」
+「For the time being, I'm still trying it out today, so I don't need that much help...」
 
 ;CHR OFF
 #cg all clear
@@ -423,7 +423,7 @@ And, if there are any rare flowers, I could sell them for money in the village.
 ;SMODE 010 STOP
 #endscene
 
-さて,誰に手伝ってもらおうかな。
+Well, who should I get to help?
 
 ;▼選択肢：４択
 
@@ -435,10 +435,10 @@ And, if there are any rare flowers, I could sell them for money in the village.
 ;選択肢発生
 
 #select b02_1a b02_1b b02_1c b02_1d
-Ａ：ヒナタ
-Ｂ：イバラ
-Ｃ：コノミ
-Ｄ：ツキヨ
+Ａ：Hinata
+Ｂ：Ibara
+Ｃ：Konomi
+Ｄ：Tsukiyo
 
 
 #label b02_1a
