@@ -6,7 +6,7 @@
 #cg イベント ev002a1 背景
 #wipe fade
 
-「Yaa……Taa……Too……Gununu、it's quite tough」
+「Yaa... Taa... Too... Gununu, it's quite tough」
 
 #voice hina0020
 【???】「Go, go, Onii-san」
@@ -26,10 +26,10 @@ With a knife, it's more likely to escape before being strangled.
 
 With this, it would be possible to help this child.
 
-After that, if I move while thinking about where it is efficient to cut……
+After that, if I move while thinking about where it is efficient to cut...
 
 #voice hina0021
-【???】「……Oo？　Ooo〜……」
+【???】「...Oo? Ooo‾...」
 
 The hanging child gets much closer to the ground.
 
@@ -51,7 +51,7 @@ Butsun! The hanging child dropped to the ground with one good cut.
 
 The child who fell with a slamming noise sat up and cried.
 
-;※立ち表示　ファイル　位置（L:C:R）フェイス指定がない場合は立ち表示と同じフェイス
+;※立ち表示 ファイル 位置（L:C:R）フェイス指定がない場合は立ち表示と同じフェイス
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
@@ -59,7 +59,7 @@ The child who fell with a slamming noise sat up and cried.
 #face f_hin_0_03f1 94 466
 
 #voice hina0022
-【???】「Aa、ah oww oww……fueeen, I fell. Hit against the groundー」
+【???】「Aa, ah oww oww...fueeen, I fell. Hit against the groundー」
 
 「Bakaa! Save your crying for later, run! Do you want to be caught again!?」
 
@@ -70,9 +70,9 @@ The child who fell with a slamming noise sat up and cried.
 #face f_hin_0_06f1 94 466
 
 #voice hina0023
-【???】「……Oo？　Oooo〜……」
+【???】「...Oo? Oooo‾...」
 
-I held my luggage, grabbed the hanging child's nape, and fled from the ivy monster.
+I grab my things, grab the girl by the scruff of her neck, and quickly flee from the monster.
 
 ;背景：森A（昼）
 ;BG BG04_1
@@ -88,9 +88,9 @@ I held my luggage, grabbed the hanging child's nape, and fled from the ivy monst
 #voice hina0024
 【???】「Gyahahahahahaー, faster, faster!」
 
-Why are you happy to be hanging, this kid.
+For whatever reason, the girl I'm carrying seems to be really enjoying this.
 
-As the monster faded into the distance, I involuntarily weakened and let go.
+A little while after the vine-monster vanishes from sight, I drop the girl, exhausted.
 
 ;SE se016 ドスン 再生
 #se 1 se016
@@ -115,7 +115,7 @@ Keeping away from my hands, the child who was rolling around screamed in protest
 #face f_hin_0_04f1 94 466
 
 #voice hina0026
-【???】「Unyuuu？」
+【???】「Unyuuu?」
 
 The child tilted her head with a face that said she didn't know what he was saying.
 
@@ -126,13 +126,13 @@ The child tilted her head with a face that said she didn't know what he was sayi
 #face f_hin_0_08f1 94 466
 
 #voice hina0027
-【???】「But it was fast fast, and it was very fun!? Onii-san's legs are fast, Onii-san is a strong person, aren't you」
+【???】「But it was fast fast, and it was very fun!? Onii-san's legs are fast, Onii-san is a strong person, aren't you!」
 
-「……Well, thanks」
+「...Well, thanks」
 
-I'm probably being complimented, but I'm not sure why "but".
+I'm probably being complimented, but I'm not sure.
 
-Thanks weak child.
+She is a very carefree girl, apparently.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -141,7 +141,7 @@ Thanks weak child.
 #face f_hin_0_01f1 94 466
 
 #voice hina0028
-【???】「Oh right, is Onii-san human?」
+【???】「Oh hey, hey, is Onii-san human?」
 
 「Do I look like a monster to you?」
 
@@ -150,9 +150,9 @@ At my response to the extraordinary question, the captured child shook her head.
 #face f_hin_0_01f1 94 466
 
 #voice hina0029
-【???】「But, if I don't ask I won't know right!」
+【???】「But I won't know if I don't ask, right!」
 
-That's right…… but I think it's easy to understand without asking that.
+That's right... but I think it's easy to understand without asking that.
 
 「But, if an evil monster tries to deceive humans, it'll say that it's human」
 
@@ -167,9 +167,9 @@ That's right…… but I think it's easy to understand without asking that.
 
 I'm stuck having been asked something strange again.
 
-「Then, is it that you're not human……」
+「Then, is it that you're not human...」
 
-I was tired of talking, and when I listened with a sigh――。
+I was tired of talking, and when I listened with a sigh――.
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -180,9 +180,9 @@ I was tired of talking, and when I listened with a sigh――。
 #voice hina0031
 【???】「Yep! I'm not human!」
 
-……she replied with full of energy.
+...she replied with full of energy.
 
-「It can't be……」
+「It can't be...」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -209,39 +209,39 @@ I don't want to make her feel grateful, but I don't think a savior should be mad
 #face f_hin_0_06f1 94 466
 
 #voice hina0034
-【???】「Ooo, that's right! Then, humans are kind people!?　There are kind humans too」
+【???】「Ooo, that's right! Then, humans are kind people!? There are kind humans too」
 
 The self-proclaimed-non-human child started running circles around me, smiling with a face brimming with curiosity.
 
-「Savage and scary……That is not wrong for some humans……」
+「Savage and scary...That is not wrong for some humans...」
 
-I wonder if she'll say she's an elf or something. Well, she looks so beautiful it's difficult to believe she's human……
+I wonder if she'll say she's an elf or something. Well, she looks so beautiful it's difficult to believe she's human...
 
 Also her ears are an odd shape, a little pointed, but might be explainable by individual differences, I feel.
 
-……It can't be, that I've met an elf, when I have only heard of elves in rumours?
+...It can't be, that I've met an elf, when I have only heard of elves in rumours?
 
 Moreover, I have never heard of anyone meeting a child elf.
 
 Elves aren't easy to meet unless they wish to interact with humans, which is unthought of.
 
-How do you catch such a creature……. It can't be anything but the story of a faraway world.
+How do you catch such a creature.... It can't be anything but the story of a faraway world.
 
 Putting it's beauty aside, it's not something that you'll come across easily, so it's a story to make prices high in the city, right?
 
 If so, I wouldn't be able to meet any by chance like this.
 
-……The most likely possibility is that a daydreamy child is play-pretending to be an elf.
+...The most likely possibility is that a daydreamy child is play-pretending to be an elf.
 
 I think she's a little big to play pretend, but I don't really understand what children think.
 
-……Her appearance is simple, but I wonder if she's a rich child.
+...Her appearance is simple, but I wonder if she's a rich child.
 
-If so, I can understand this crazy attitude somewhat……eh？
+If so, I can understand this crazy attitude somewhat...eh?
 
-A rich child would be told 『strangers are scary』 so as not to follow strange people……
+A rich child would be told "strangers are scary" so as not to follow strange people...
 
-Will they go to the extent of teaching them「You're not human」?
+Will they go to the extent of teaching them "You're not human"?
 
 Wait, such a cute child even if she's not rich, wouldn't she be afraid of being kidnapped?
 
@@ -258,7 +258,7 @@ It seems that if you give her sweets, she will follow you easily.
 #voice hina0035
 【???】「Over there!」
 
-He pointed vigorously in the direction of the dark forest, which is deeper than here and cannot be entered by even a skilled hunter.
+She pointed vigorously in the direction of the dark forest, which is deeper than here and cannot be entered by even a skilled hunter.
 
 「Over there?」
 
@@ -274,7 +274,7 @@ Or did this child have a wrong sense of direction?
 
 How troublesome, because it seems to be the latter.
 
-「……from over there, you came here? Really?」
+「...from over there, you came here? Really?」
 
 #face f_hin_0_07f 94 466
 
@@ -290,7 +290,7 @@ While spinning around so much that my eyes seemed to turn, she answered cheerful
 
 I see, she was coming out of the mansion in the depths of the forest and caught by the ivy monster.
 
-But when faced with a weird question like「Are you human?」, she probably never left the mansion before.
+But asking a weird question like "Are you human?", she probably never left the mansion before.
 
 I didn't know there was a mansion around here that was big enough to have a gate.
 
@@ -300,7 +300,7 @@ Well, I was thinking of leaving the village and living a secluded life, but mayb
 
 The people in the mansion will be worried so she should go home early.
 
-……It's troublesome to have to talk to someone I don't know. I thought after I left the village I could live without interacting with others.
+...It's troublesome to have to talk to someone I don't know. I thought after I left the village I could live without interacting with others.
 
 Life doesn't really go as I want.
 
@@ -311,7 +311,7 @@ Life doesn't really go as I want.
 #face f_hin_0_06f2 94 466
 
 #voice hina0038
-【???】「……Aa、Human-san. You're bleeding」
+【???】「...Aa, Human-san. You're bleeding」
 
 The child, who was spinning around me endlessly, pointed to my back and said astonished.
 
@@ -334,11 +334,11 @@ I'm troubled, even if I try to apply medicine, I can't reach it in such a place.
 
 The child previously caught in the ivy put his hand on the wound in a hurry.
 
-「……Ow-!?」
+「...Ow-!?」
 
 No matter how light the wound, it hurts if the wound is touched directly.
 
-Predicting the pain, I jumped up and tried to shake off the honey-haired child……
+Predicting the pain, I jumped up and tried to shake off the honey-haired child...
 
 I felt a mysterious warmth spread from where she was touching, not pain.
 
@@ -353,11 +353,11 @@ What in the world just happened?!
 #face f_hin_0_01f1 94 466
 
 #voice hina0040
-【???】「Human's injury, get better!〜」
+【???】「Human's injury, get better!‾」
 
 The slightly shining hand touching my shoulder enters the corner of my field of vision.
 
-Wha- What is this……。
+Wha- What is this....
 
 I've never seen a strange human whose hand shines.
 
@@ -365,13 +365,13 @@ But that definitely happened in front of my eyes, so clearly that I couldn't hav
 
 This kind of thing, it cannot be done by human skill alone without tricks or gimmicks.
 
-However, this child does not have anything else with them, and to see it so clearly so closely……。
+However, this child does not have anything else with them, and to see it so clearly so closely....
 
-C-could this child, truly be an elf……?
+C-could this child, truly be an elf...?
 
-The wound heals at an unbelievable speed…… No, it is healed by a mysterious force.
+The wound heals at an unbelievable speed... No, it is healed by a mysterious force.
 
-No pain has completely disappeared。
+No pain has completely disappeared.
 
 Eventually, the red line faded in color, and finally when the elf child stroked it, the remaining scabs peeled off and the scratches disappeared without a trace.
 
@@ -381,7 +381,7 @@ Eventually, the red line faded in color, and finally when the elf child stroked 
 
 ;ヒナタ
 #voice hina0041
-【Elf】「Treatmentー finishedー！」
+【Elf】「Treatmentー finishedー!」
 
 The elf raises both hands with a smile.
 
@@ -393,9 +393,9 @@ The elf raises both hands with a smile.
 
 ;ヒナタ
 #voice hina0042
-【Elf】「Thank you!? A human said 『Thank you』? Yay! I've been thanked!」
+【Elf】「Thank you!? A human said "Thank you"? Yay! I've been thanked!」
 
-「……But that's an amazing power」
+「...But that's an amazing power」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
@@ -403,11 +403,11 @@ The elf raises both hands with a smile.
 
 ;ヒナタ
 #voice hina0043
-【Elf】「Amazing!? Amazing!? Waー！　I've been praised!　I'm amazing!」
+【Elf】「Amazing!? Amazing!? Waー! I've been praised! I'm amazing!」
 
 The elf jumps happily and expresses joy with his whole body.
 
-「Aa、it's amazing. To heal my injuries so quickly……」
+「Aa, it's amazing. To heal my injuries so quickly...」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -435,9 +435,9 @@ I've never seen this kind of power in my life.
 
 I noticed when the elf turned around, this child also has a lot of small scratches.
 
-……until just now she was caught in the ivy.
+...until just now she was caught in the ivy.
 
-「……You're injured a lot too」
+「...You're injured a lot too」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
@@ -445,19 +445,19 @@ I noticed when the elf turned around, this child also has a lot of small scratch
 
 ;ヒナタ
 #voice hina0046
-【Elf】「Nnー？　Oooh, that's truee」
+【Elf】「Nnー? Oooh, that's truee」
 
-The elf looked around his body and exclaimed in a surprised voice.
+The elf looked around her body and exclaimed in a surprised voice.
 
-「You don't have to cure it？」
+「You don't have to cure it?」
 
-The elf tilted his head to my question.
+The elf tilted her head to my question.
 
 ;ヒナタ
 #voice hina0047
 【Elf】「But human, cannot heal it right?」
 
-「Aaa, yeah……Well, that's true but……aa、aa……that's right, I have medicine though, will it work on elves……」
+「Aaa, yeah...Well, that's true but...aa, aa...that's right, I have medicine though, will it work on elves...」
 
 I'm sure human medicine doesn't work for elves.
 
@@ -477,17 +477,17 @@ I'm sure human medicine doesn't work for elves.
 
 ;ヒナタ
 #voice hina0049
-【Elf】「Fufufuu、I see！　Thank you！」
+【Elf】「Fufufuu, I see! Thank you!」
 
 The elf jumped happily as if I had done it already.
 
 To live in the forest alone, medicines are a must. Although since I didn't expect to be injured, I only have a little.
 
-But……if this was the case, I should have brought more……。
+But...if this was the case, I should have brought more....
 
 If I treat this elf, even if there's no effect, she'll still be happy.
 
-「Hey……Is it really okay？」
+「Hey...Is it really okay?」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
@@ -503,7 +503,7 @@ The elf licked their arms and hands.
 #voice hina0051
 【Elf】「I can't lick my tummy and my butt, so I have to wait until they heal」
 
-「……You can't cure yourself？」
+「...You can't cure yourself?」
 
 ;CHR H11F C
 #cg ヒナタ hin_1_11f 中
@@ -511,15 +511,15 @@ The elf licked their arms and hands.
 
 ;ヒナタ
 #voice hina0052
-【Elf】「Yep. I can't cure myself！　If amongst elves, we'll heal each other, but I'll lick it to healー」
+【Elf】「Yep. I can't cure myself! If amongst elves, we'll heal each other, but I'll lick it to healー」
 
 The elf turned around again, and the hem of the clothes fluttered haphazardly.
 
 The white skin peeking from the hem is as smooth as possible, except for the red scratches made earlier that look like an accent.
 
-Swallow……I swallowed unknowingly。
+Swallow...I swallowed unknowingly.
 
-「……L-let's apply the medicine？　If applied after licking, the injury may heal faster even if the medicine does not work……」
+「...L-let's apply the medicine? If applied after licking, the injury may heal faster even if the medicine does not work...」
 
 That's stupid, I thought, but I wanted to do something for this elf.
 
@@ -529,7 +529,7 @@ That's stupid, I thought, but I wanted to do something for this elf.
 
 ;ヒナタ
 #voice hina0053
-【Elf】「Fuee？」
+【Elf】「Fuee?」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
@@ -541,7 +541,7 @@ The elf was stunned for a moment before laughing like a flower blooming.
 #voice hina0054
 【Elf】「My injury, (human-san) you'll lick it for me?」
 
-「Aaa……Aaa」
+「Aaa...Aaa」
 
 A licked wound heals. Even humans often say that too.
 
@@ -555,15 +555,15 @@ How pleasant would it be to crawl your hands and tongue on this smooth skin?
 
 ;ヒナタ
 #voice hina0055
-【Elf】「Yay！　Human-san is kind！　I'll leave it to you」
+【Elf】「Yay! Human-san is kind! I'll leave it to you」
 
 The elf turned his back on me without any doubt.
 
-「Aaa……well then, first, from here……」
+「Aaa...well then, first, from here...」
 
-I brushed her hair up and put my face to her nape.……dizzily。
+I brushed her hair up and put my face to her nape....dizzily.
 
-……What is this good smell。It's like mixing the scent of sugar confectionery with the hay that was often exposed to the sun.……。
+...What is this good smell.It's like mixing the scent of sugar confectionery with the hay that was often exposed to the sun.....
 
 A sweet and fragrant scent enters through the nose and numbs my head.
 
@@ -575,15 +575,15 @@ The slightly salty taste robbed me of my thoughts, and I was absorbed in draggin
 
 ;ヒナタ
 #voice hina0056
-【Elf】「Uhyaan！　It tickles！　Uhyahyahyahyahya」
+【Elf】「Uhyaan! It tickles! Uhyahyahyahyahya」
 
 As soon as the tongue crawled over her skin, the elf jumps up and runs away.
 
 ;FACE H08N2
 
-「Aa……hey, you shouldn't run away」
+「Aa...hey, you shouldn't run away」
 
-;SE se017 草むらへ倒れる　再生
+;SE se017 草むらへ倒れる 再生
 #se 1 se017
 
 I inadvertently caught the elf and pushed it down into the grass.
@@ -603,21 +603,21 @@ I inadvertently caught the elf and pushed it down into the grass.
 
 ;ヒナタ
 #voice hina0057
-【Elf】「Ahaha、Sorryy。But、it's my first time being licked by another person, it tickles。Ahahahahahaha」
+【Elf】「Ahaha, Sorryy.But, it's my first time being licked by another person, it tickles.Ahahahahahaha」
 
 Whether it was because it was that ticklish to be licked, or that it was fun to be licked, the elf could not stop laughing. 
 
 While my medicine-coated fingers and tongue crawled his skin, I stared seriously at the elf's body.
 
-White skin, thin and delicate limbs……。
+White skin, thin and delicate limbs....
 
 「Hey look here, your butt is also injured」
 
-When I lifted up the hem of the clothes, over there was ...
+When I lifted up the hem of the clothes, over there was...
 
 Purun, there was a cute penis, appropriate for the elf's appearance.
 
-「……！？　You are a boy？」
+「...!? You are a boy?」
 
 ;EVCG EV003A2
 #cg all clear
@@ -626,19 +626,19 @@ Purun, there was a cute penis, appropriate for the elf's appearance.
 
 ;ヒナタ
 #voice hina0058
-【Elf】「Fueeeee？　That's right, I'm a boy？」
+【Elf】「Fueeeee? That's right, I'm a boy?」
 
 The elf smiles innocently, not seeming to know what's being done to him.
 
 Maybe he doesn't feel it is particularly embarrassing to be seen, and doesn't make an attempt to hide his penis.
 
-……Not ashamed because he doesn't know anything.
+...Not ashamed because he doesn't know anything.
 
 ;ヒナタ
 #voice hina0059
-【Elf】「Did you think I was a girl？」
+【Elf】「Did you think I was a girl?」
 
-「Aaa、yep……being so cute」
+「Aaa, yep...being so cute」
 
 ;EVCG EV003A1
 #cg all clear
@@ -647,7 +647,7 @@ Maybe he doesn't feel it is particularly embarrassing to be seen, and doesn't ma
 
 ;ヒナタ
 #voice hina0060
-【Elf】「Cute！？　I'm cute！？」
+【Elf】「Cute!? I'm cute!?」
 
 The elf's face brightens up at the word cute.
 
@@ -655,11 +655,11 @@ The elf's face brightens up at the word cute.
 
 ;ヒナタ
 #voice hina0061
-【Elf】「Ufufu、that's the first time a human has said that to me! I've received a lot of firsts from you (human) ♪」
+【Elf】「Ufufu, that's the first time a human has said that to me! I've received a lot of firsts from you (human) ♪」
 
-The happy elf who was laughing looked very cute……Being this cute, it's ok even if it's a boy. I cannot stop feeling aroused。
+The happy elf who was laughing looked very cute...Being this cute, it's ok even if it's a boy. I cannot stop feeling aroused.
 
-……Besides, I touch his body to apply medicine, and lick his wounds to heal them. Isn't that right?
+...Besides, I touch his body to apply medicine, and lick his wounds to heal them. Isn't that right?
 
 I put my lips to the abrasion on his inner thigh and gently lick it.
 
@@ -670,13 +670,13 @@ I put my lips to the abrasion on his inner thigh and gently lick it.
 
 ;ヒナタ
 #voice hina0062
-【Elf】「Funyaaa……Nyahahahaha、ku、it tickles……」
+【Elf】「Funyaaa...Nyahahahaha, ku, it tickles...」
 
 Perhaps because he was scolded for escaping a while ago, the elf holds my hand tightly and trembles while bearing the ticklishness.
 
 In tune with the shaking of his body, the elf's penis shook in front of me, but I did not feel strangeness or disgust.
 
-……On the contrary――。
+...On the contrary――.
 
 ;EVCG EV003A3
 #cg all clear
@@ -685,31 +685,31 @@ In tune with the shaking of his body, the elf's penis shook in front of me, but 
 
 ;ヒナタ
 #voice hina0063
-【Elf】「Hyaan……！？」
+【Elf】「Hyaan...!?」
 
 On flicking my fingertips, the elf cried out loud.
 
-「How is it, does it feel good？」
+「How is it, does it feel good?」
 
 If you pinch a cute penis with your fingertips, you can tell that there is a soft core.
 
-If you lick the thin tightly-stretched skin on the waist(? 足の付け根), and knead it lightly, it will become erected even if it is small.
+I slide my tongue over the thin tightly-stretched skin at the base, applying the slightest pressure, and I feel his penis become erected even if it is small.
 
 Regardless if the injury was there, I focused my tongue on those thin parts of skin.
 
 ;ヒナタ
 #voice hina0064
-【Elf】「Yaa……！？　Wha, what！？　What are you doing！？　Human-san……」
+【Elf】「Yaa...!? Wha, what!? What are you doing!? Human-san...」
 
-「Haha……It's not peeled back yet, but it's getting harder」
+「Haha... It's not peeled back yet, but it's getting harder」
 
 THe elf's penis within the foreskin responds elastically at my touch.
 
-「Look, it feels good doesn't it？　I have no power to heal, but I can at least make you feel good」
+「Look, it feels good doesn't it? I have no power to heal, but I can at least make you feel good」
 
 ;ヒナタ
 #voice hina0065
-【Elf】「Ku……Kufuun……What is this、it feels good……Human-san touching is making me feel good！？」
+【Elf】「Ku... Kufuun... What is this, it feels good... Human-san touching is making me feel good!?」
 
 ;EVCG EV003A4
 #cg all clear
@@ -718,17 +718,17 @@ THe elf's penis within the foreskin responds elastically at my touch.
 
 ;ヒナタ
 #voice hina0066
-【Elf】「Hyaaan！？」
+【Elf】「Hyaaan!?」
 
 When I gave it a squeeze from the base to the tip, maybe because the stimulus was too strong, his eyes fluttered open and close.
 
-「Have you tried touching yourself？」
+「Have you tried touching yourself?」
 
 ;ヒナタ
 #voice hina0067
-【Elf】「H、Have……But, I didn't know it could feel this good……」
+【Elf】「H, Have...But, I didn't know it could feel this good...」
 
-「I see、then、you haven't done it on your own yet」
+「I see, then, you haven't done it on your own yet」
 
 ;EVCG EV003A3
 #cg all clear
@@ -737,29 +737,29 @@ When I gave it a squeeze from the base to the tip, maybe because the stimulus wa
 
 ;ヒナタ
 #voice hina0068
-【Elf】「On my own……？　What, what are you doing……？」
+【Elf】「On my own...? What, what are you doing...?」
 
 The elf's wide upturned eyes that remembered pleasure causes an excitement mixed with a sense of immorality to well up.
 
 I'm about to teach a child that doesn't know masturbation about sexual pleasure.
 
-「That felt good……。But, from here on, I'm going to teach you something that feels even better……」
+「That felt good....But, from here on, I'm going to teach you something that feels even better...」
 
 While not letting him climax immediately, I leisurely increased the pace of jerking. The elf wriggled his hips in frustration.
 
 ;ヒナタ
 #voice hina0069
-【Elf】「Yaan……！？　Stop shaking it kucha kucha……I'll feel goodd」
+【Elf】「Yaan...!? Stop shaking it kucha kucha...I'll feel goodd」
 
 The cute penis pulsed in pleasure, and the elf raised his hips in the air.
 
-「Is it no good？　You like feeling good, don't you？」
+「Is it no good? You like feeling good, don't you?」
 
 ;ヒナタ
 #voice hina0070
-【Elf】「Y、Yes……I love it！　B、But I don't know this……Hauun！　If you lick it, it becomes hot and slimy！」
+【Elf】「Y, Yes...I love it! B, But I don't know this...Hauun! If you lick it, it becomes hot and slimy!」
 
-Ahー……Oh no、I'm licking it。I ended up licking a boy's penis。
+Ahー...Oh no, I'm licking it.I ended up licking a boy's penis.
 
 My tongue had crawled to his groin. Although it was always trembling in front of me, I thought I would be hesitant to put this young penis in my mouth.
 
@@ -767,11 +767,11 @@ No matter what a cute guy the beautiful elf is, I could do it with unexpectedly 
 
 ;ヒナタ
 #voice hina0071
-【Elf】「You ate it！？　Am I being eaten！？」
+【Elf】「You ate it!? Am I being eaten!?」
 
 Perhaps because he was scared, his fully erected penis softened for a moment. It seems I can take it fully into my mouth easily.
 
-「Haha……I can do it without problem」
+「Haha... I can do it without problem」
 
 While sucking lightly, rubbing against my tongue and the roof of my mouth, the elf's penis quickly regained liveliness.
 
@@ -779,7 +779,7 @@ The erection mades the foreskin stretched, and the smooth texture feels good.
 
 ;ヒナタ
 #voice hina0072
-【Elf】「Aaaa……don't suck me……don't lick me……it feels so good my penis is going to melt」
+【Elf】「Aaaa... don't suck me... don't lick me... it feels so good my penis is going to melt!」
 
 Rather than seeming fine while being licked, I find it endearing that the elf becomes harder and more erected.
 
@@ -789,31 +789,31 @@ My tongue dug into the extra skin and licks in circles in the gap between the fo
 
 ;ヒナタ
 #voice hina0073
-【Elf】「Hiuuuuu……！？　That, over there！　……It feels too good！」
+【Elf】「Hiuuuuu...!? That, over there! ...It feels too good!」
 
-「You don't hate it right？」
+「You don't hate it right?」
 
 When licked relentlessly, the elf's waist shook upwards repeatedly in small convulsions.
 
 ;ヒナタ
 #voice hina0074
-【Elf】「U、Un……Yaa……Yaa……being lickedd……meltting……I'll melt……！」
+【Elf】「U, Un... Yaa... Yaa... being lickedd... meltting... I'll melt...!」
 
 The elf is shaking his head, perhaps because he is scared of the pleasure that is too strong.
 
 When I released the elf's penis from my mouth, I looked down at the face that was drooling in pleasure.
 
-「Does it feel that good？」
+「Does it feel that good?」
 
 ;ヒナタ
 #voice hina0075
-【Elf】「Y、Yes……it feels good…… when my penis is rubbed、it feels goodd……」
+【Elf】「Y, Yes... it feels good... when my penis is rubbed, it feels goodd...」
 
 When I moved my finger up and down, rubbing the insides with the outer skin, the elf bounced his hips again.
 
 ;ヒナタ
 #voice hina0076
-【Elf】「Aaaa……something's coming……Hyaaaaaaaaaaaaaaaaaaaaaa」
+【Elf】「Aaaa... something's coming... Hyaaaaaaaaaaaaaaaaaaaaaa」
 
 In between my fingers, a lovely penis pulsed and ejaculated.
 
@@ -824,29 +824,29 @@ In between my fingers, a lovely penis pulsed and ejaculated.
 
 ;ヒナタ
 #voice hina0077
-【Elf】「Aaaa！　Aaaaa！　Aaaa！　Aaaa！　Aaaaa！」
+【Elf】「Aaaa! Aaaaa! Aaaa! Aaaa! Aaaaa!」
 
 Even his panting appearance is adorable, as the elf sprinkled cloudy liquid from the squeezed tip of penis onto his own body .
 
 ;ヒナタ
 #voice hina0078
-【Elf】「Wha、Something came out……Something came out from my penis……Nnyaa！？　Coming out！　It's coming out！」
+【Elf】「Wha, Something came out... Something came out from my penis... Nnyaa!? Coming out! It's coming out!」
 
-「hha ha……It's your first ejaculation？　Good job」
+「hha ha... It's your first ejaculation? Good job」
 
 ;ヒナタ
 #voice hina0079
-【Elf】「Nyaaaaaa！　Aaaaaaa！　It felt too good！　White stuff byuto byuto shot out！」
+【Elf】「Nyaaaaaa! Aaaaaaa! It felt too good! White stuff byuto byuto shot out!」
 
 When I squeezed the still ejaculating penis in a milking manner, the elf's body shivered as if convulsing.
 
-「Does it feel that good？」
+「Does it feel that good?」
 
 ;ヒナタ
 #voice hina0080
-【Elf】「Y……Yes、Yes……Very、Super、good……」
+【Elf】「Y...Yes, Yes... Very, Super, good...」
 
-「I see。That's good……Then, let's do more」
+「I see. That's good... Then, let's do more」
 
 ;EVCG EV003A3
 #cg all clear
@@ -855,27 +855,27 @@ When I squeezed the still ejaculating penis in a milking manner, the elf's body 
 
 ;ヒナタ
 #voice hina0081
-【Elf】「Hhaa Hhaa……we're still doing more……？」
+【Elf】「Hhaa Hhaa... we're still doing more...?」
 
 The elf who just finished his first ejaculation, asked dazely.
 
-「Since、you felt good、but I haven't felt good at all yet, you know？」
+「Since, you felt good, but I haven't felt good at all yet, you know?」
 
 ;ヒナタ
 #voice hina0082
-【Elf】「I see……」
+【Elf】「I see...」
 
 When you persuaded with that unreasonable reason, the elf accepted it meekly.
 
-「Besides……I'm going to teach you something that feels better than just now」
+「Besides... I'm going to teach you something that feels better than just now」
 
 ;ヒナタ
 #voice hina0083
-【Elf】「Better……than just now……？」
+【Elf】「Better... than just now...?」
 
 The elf's small body shivered in what could be expectation.
 
-「Yes、it's something that feels even better……」
+「Yes, it's something that feels even better...」
 
 When I stole the elf's lips, the elf happily imitated my gesture and returned the kiss.
 
@@ -888,7 +888,7 @@ It doesn't seem he hated it.
 
 ;ヒナタ
 #voice hina0084
-【Elf】「Nmuu……Ehehe……I've been kissed……Nfuaa……Chu……Churu……」
+【Elf】「Nmuu... Ehehe... I've been kissed... Nfuaa... Chu... Churu...」
 
 The movement of the tongue was unskilful, but the happily-done gesture was more than enough to arouse me to erection.
 
@@ -896,7 +896,7 @@ The pleasure of being desired made my 'thing' accumulate strength once more.
 
 I put medicine on my finger in place of of a lubricant, and slid my finger below the testicles that had just ejaculated and was squirming like another creature, towards the shrunken bud underneath.
 
-「Aaa、there it is。This hole, elves also have it too」
+「Aaa, there it is. This hole, elves also have it too」
 
 ;EVCG EV003A3
 #cg all clear
@@ -905,25 +905,25 @@ I put medicine on my finger in place of of a lubricant, and slid my finger below
 
 ;ヒナタ
 #voice hina0085
-【Elf】「HYaaaaa……over there……tickles……」
+【Elf】「HYaaaaa...over there...tickles...」
 
-「Things that tickles will feel good, didn't you learn？」
+「Things that tickles will feel good, didn't you learn?」
 
 ;ヒナタ
 #voice hina0086
-【Elf】「Y、Yes……」
+【Elf】「Y, Yes...」
 
 His body has been a little stiff. To relief his nervousness, I gently blow on his ears.
 
 ;ヒナタ
 #voice hina0087
-【Elf】「Hyaaa！」
+【Elf】「Hyaaa!」
 
-「If we use here、you and I can feel good together」
+「If we use here, you and I can feel good together」
 
 ;ヒナタ
 #voice hina0088
-【Elf】「……To feel good, together？」
+【Elf】「...To feel good, together?」
 
 「That's right, together」
 
@@ -934,11 +934,11 @@ His body has been a little stiff. To relief his nervousness, I gently blow on hi
 
 ;ヒナタ
 #voice hina0089
-【Elf】「I seeー……Together……」
+【Elf】「I seeー...Together...」
 
 Happy at something, the elf immediately broke into a smile.
 
-「Yes yes……let's feel good together……okay」
+「Yes yes...let's feel good together...okay」
 
 My lower abdomen that had begun to grow rigid on its own was stiff and pulsing, unwilling to listen to anymore excuses.
 
@@ -953,11 +953,11 @@ I pushed my finger into the elf's butthole.
 
 ;ヒナタ
 #voice hina0090
-【Elf】「Iii……It's……coming in……！？」
+【Elf】「Iii...It's...coming in...!?」
 
 Surprised at my finger going in, the elf clung to me in panic.
 
-「It's okay、it's all good。It doesn't hurt、it doesn't hurt」
+「It's okay, it's all good.It doesn't hurt, it doesn't hurt」
 
 While soothing the elf, I forcefully pushed the hole with my finger (くじっていく).
 
@@ -965,7 +965,7 @@ The hole that had tensed at the sudden insertion, was relaxed by the circular mo
 
 ;ヒナタ
 #voice hina0091
-【Elf】「Aaaaa……Hyaaaa……guri guri stirred up……！？」
+【Elf】「Aaaaa...Hyaaaa...guri guri stirred up...!?」
 
 As long as there is no vagina, here is the only place to put it in.
 
@@ -973,13 +973,13 @@ It seems that even some women prefer anal, so it should be possible to have sex 
 
 ;ヒナタ
 #voice hina0092
-【Elf】「B、Butthole……it's being spreadd」
+【Elf】「B, Butthole...it's being spreadd」
 
-「I'm spreading it。So it doesn't hurt when I put mine in」
+「I'm spreading it.So it doesn't hurt when I put mine in」
 
 It was pleasant just to plunge my finger in his soft insides that was as warm as his body temperature.
 
-……I'm going to plunge in here.
+...I'm going to plunge in here.
 
 ;EVCG EV003B2
 #cg all clear
@@ -988,7 +988,7 @@ It was pleasant just to plunge my finger in his soft insides that was as warm as
 
 ;ヒナタ
 #voice hina0093
-【Elf】「M、My……？　Human-san's？　Aa……something is……finger……it's moving……」
+【Elf】「M, My...? Human-san's? Aa...something is...finger...it's moving...」
 
 As I pushed in slowly, it was unexpectedly not too difficult to put my finger in fully.
 
@@ -996,29 +996,29 @@ Only the entrance was very tight, the insides seem soft or rather, happy to acce
 
 While bending and stretching my finger inside, I spread the entrance by pushing my finger out against the rim.
 
-「Look、Does it hurt……if I use more force？」
+「Look, Does it hurt...if I use more force?」
 
 ;ヒナタ
 #voice hina0094
-【Elf】「N、No……it doesn't hurt、but it gives a weird feeling……」
+【Elf】「N, No...it doesn't hurt, but it gives a weird feeling...」
 
-「I see……then、how about this？」
+「I see...then, how about this?」
 
 I increased my fingers, bent my fingers, and the elf's hip jerked up.
 
 ;ヒナタ
 #voice hina0095
-【Elf】「NyAaAaa！　My butthole、spread more……weird feeling……」
+【Elf】「NyAaAaa! My butthole, spread more...weird feeling...」
 
-「Is it only a weird feeling？　You don't hate it？」
+「Is it only a weird feeling? You don't hate it?」
 
 ;ヒナタ
 #voice hina0096
-【Elf】「I、I don't hate it but……Aa……Auunn……It's spread……It's being spread!……」
+【Elf】「I, I don't hate it but...Aa...Auunn...It's spread...It's being spread!...」
 
 The elf seemed to feel pleasure, even with two fingers aligned together and inserted, spread, and rubbed.
 
-Is it ready……？
+Is it ready...?
 
 My thing is much thicker than my fingers. I want to spread it until three fingers can be inserted, but my self-control is at its limit.
 
@@ -1031,7 +1031,7 @@ When I put my hand in my underwear, I grabbed a raging cock.
 
 ;ヒナタ
 #voice hina0097
-【Elf】「Waaa！　……Human-san's penis is amazing、it's huge、it's a completely different shape from mine」
+【Elf】「Waaa! ...Human-san's penis is amazing, it's huge, it's a completely different shape from mine」
 
 Maybe the first time he has seen an erected adult cock, the elf widened his round eyes.
 
@@ -1046,9 +1046,9 @@ With a little pride, as I said anything suitable, I pressed the tip against the 
 
 ;ヒナタ
 #voice hina0098
-【Elf】「Ehh……？　Human-san's thing is this penis！？　Impossible！　Something so big can't fit！」
+【Elf】「Ehh...? Human-san's thing is this penis!? Impossible! Something so big can't fit!」
 
-「tsuu……as I thought、it's still impossible？」
+「tsuu...as I thought, it's still impossible?」
 
 It may have been too suddenly inserted. As soon as my finger pulled out, the hole closed tightly shut, and it would not easily accept my treasured rod.
 
@@ -1061,21 +1061,21 @@ Just from grinding the tip, it felt so good that it made me dizzy.
 
 ;ヒナタ
 #voice hina0099
-【Elf】「Iii……When……Yaann……！　Impossible……！　It won't fit！」
+【Elf】「Iii...When...Yaann...! Impossible...! It won't fit!」
 
 The face that was smiling until now completely changed and the elf shook his head at the cock that was forcibly trying to invade.
 
-「It'll be okay to go in。Didn't the finger go in？ Relax」
+「It'll be okay to go in.Didn't the finger go in? Relax」
 
 ;ヒナタ
 #voice hina0100
-【Elf】「F、finger……went in but……penis、is so much bigger than a finger……」
+【Elf】「F, finger...went in but...penis, is so much bigger than a finger...」
 
 「It'll spread so it'll be fine」
 
 While soothing his protests, I forced my waist forward.
 
-「I wonder if there's enough lubricant……」
+「I wonder if there's enough lubricant...」
 
 I applied the remaining medicine, making it slimy, and pressed against it strongly.
 
@@ -1083,43 +1083,43 @@ Although the resistance of the hole was strong, I felt like it was progressing l
 
 ;ヒナタ
 #voice hina0101
-【Elf】「YaAaAaっ！　……My butt's going to break……！　It hurts……！　It doesn't feel good！」
+【Elf】「YaAaAaっ! ...My butt's going to break...! It hurts...! It doesn't feel good!」
 
 Pressing down the madly struggling elf, and as he moved his hips, there was remarkably strong resistance, then it fit inside at once.
 
-「ほら……」
+「ほら...」
 
 ;ヒナタ
 #voice hina0102
-【Elf】「U、uuu……Human-san's penis fit in completely……Take it out……Butt's going to split……It'll split I said!……」
+【Elf】「U, uuu...Human-san's penis fit in completely...Take it out...Butt's going to split...It'll split I said!...」
 
 The elf, who was deeply pierced by the meat wedge and became unable to move, shook his head in protest.
 
-「It'll be fine because I entered once。It's going to feel good from now on.」
+「It'll be fine because I entered once.It's going to feel good from now on.」
 
 After achieving insertion, a strange patience budded in me, and I gently pat the elf's head.
 
 ;ヒナタ
 #voice hina0103
-【Elf】「……Really……？」
+【Elf】「...Really...?」
 
 Under the pleasant pats, the elf stopped resisting and narrowed his eyes.
 
-「Aaa、tt's true。If it tears, I'll take responsibility and lick it for you」
+「Aaa, tt's true.If it tears, I'll take responsibility and lick it for you」
 
 ;ヒナタ
 #voice hina0104
-【Elf】「Th……Then……I'll bear it……if it's licked it'll heal right？」
+【Elf】「Th...Then...I'll bear it...if it's licked it'll heal right?」
 
 The elf courageously shut his mouth with the conviction to bear it and tensed his body.
 
-「Hey、if you tense up like that, it'll hurt even more」
+「Hey, if you tense up like that, it'll hurt even more」
 
 I stroked the elf's hair and started moving very gradually.
 
 ;ヒナタ
 #voice hina0105
-【Elf】「Uwaa……AaaAaa……It's sliding inside……me……」
+【Elf】「Uwaa...AaaAaa...It's sliding inside...me...」
 
 The cock reaches much deeper in than the finger.
 
@@ -1131,53 +1131,53 @@ It feels better that anything I've done till now.
 
 ;ヒナタ
 #voice hina0106
-【Elf】「Haaa……It's hot inside my butt……」
+【Elf】「Haaa...It's hot inside my butt...」
 
 The elf let out a painful sigh.
 
 ;ヒナタ
 #voice hina0107
-【Elf】「Unyuuu……My butt has been spread……weird feeling, it seems the penis has gone completely inside my tummy……」
+【Elf】「Unyuuu...My butt has been spread...weird feeling, it seems the penis has gone completely inside my tummy...」
 
 Body squirming in frustration, the elf's cute thing that shrunk from insertion pain, was beginning to show signs of rising again.
 
-「……If I do this here, maybe you won't feel bothered by your butt？」
+「...If I do this here, maybe you won't feel bothered by your butt?」
 
 ;ヒナタ
 #voice hina0108
-【Elf】「Auu!?　Don't touch my penis while you're in my butt!?　It feels too good……」
+【Elf】「Auu!? Don't touch my penis while you're in my butt!? It feels too good...」
 
-「……It's okay to feel very good」
+「...It's okay to feel very good」
 
 ;ヒナタ
 #voice hina0109
-【Elf】「Uu、Yes……My penis underneath……Human-san's penis is poking……」
+【Elf】「Uu, Yes...My penis underneath...Human-san's penis is poking...」
 
 As I made slow repeated movements, I was gradually feeling the need to ejaculate.
 
 ;ヒナタ
 #voice hina0110
-【Elf】「Aaaa！？　Huh！？　Human-san's movement、it's too forceful！　My tummy is vibrating quickly！？」
+【Elf】「Aaaa!? Huh!? Human-san's movement, it's too forceful! My tummy is vibrating quickly!?」
 
-「……Kuu、I can't hold on any longer。I'm already going to go……」
+「...Kuu, I can't hold on any longer.I'm already going to go...」
 
 ;ヒナタ
 #voice hina0111
-【Elf】「……Go？　Go……？　Where are you going？」
+【Elf】「...Go? Go...? Where are you going?」
 
-「……Just now、when the white stuff came out、it felt good, right? Now, white stuff is going to come out from my penis」
+「...Just now, when the white stuff came out, it felt good, right? Now, white stuff is going to come out from my penis」
 
 ;ヒナタ
 #voice hina0112
-【Elf】「……That means 'to go'?」
+【Elf】「...That means 'to go'?」
 
-「Yes……The white stuff that comes out is called 'semen', and the thing feels good at that time is 'to go'」
+「Yes...The white stuff that comes out is called 'semen', and the thing feels good at that time is 'to go'」
 
 ;ヒナタ
 #voice hina0113
-【Elf】「……Then、Then……I、me too……is about to go again……white stuff feels like it's going to come out again」
+【Elf】「...Then, Then...I, me too...is about to go again...white stuff feels like it's going to come out again」
 
-「……Yes、let's 'go'。I'll let out a lot of semen for you, so let's 'go' together」
+「...Yes, let's 'go'.I'll let out a lot of semen for you, so let's 'go' together」
 
 ;EVCG EV003C4
 #cg all clear
@@ -1186,21 +1186,21 @@ As I made slow repeated movements, I was gradually feeling the need to ejaculate
 
 ;ヒナタ
 #voice hina0114
-【Elf】「Aaaa……My……insides……Human-san's……penis……is pulsing！」
+【Elf】「Aaaa...My...insides...Human-san's...penis...is pulsing!」
 
 The narrow entrance stretched to the limits and strongly sucked in my enlarged and stiff rod.
 
-「I'm coming……」
+「I'm coming...」
 
 ;ヒナタ
 #voice hina0115
-【Elf】「Me too……I'm also coming！」
+【Elf】「Me too...I'm also coming!」
 
 The feeling was similar to being tightly squeezed, leaving me tingling as if my semen had been emptied from my seminal duct.
 
 ;ヒナタ
 #voice hina0116
-【Elf】「Ah kuu……！？　Uuuu！？　The insides of my tummy feel hot！？　Something hot is hitting my stomach！？」
+【Elf】「Ah kuu...!? Uuuu!? The insides of my tummy feel hot!? Something hot is hitting my stomach!?」
 
 ;SE se023 射精音1 再生
 #se 1 se023
