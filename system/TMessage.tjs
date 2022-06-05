@@ -1,7 +1,7 @@
 //==============================================================
 //	TMessage
 //==============================================================
-var DefaultMessageSize=5.2;
+var DefaultMessageSize=4.8;
 //var DefaultMessageColor=0xffffff;
 var DefaultMessageColor=tSettings.fontColor;
 //var DefaultMessageShadowColor=0x000000;
