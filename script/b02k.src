@@ -9,204 +9,204 @@
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
-「じゃ、コノミ手伝ってよ」
+「Then, let's have Konomi help me」
 
 #voice konb0135
-【Konomi】「うん、いいよぉ〜？」
+【Konomi】「Okay, sure‾」
 
-コノミは笑顔でそう答えてくれたけど……――。
+Although Konomi seemed to holding in a smile...――
 
-「じゃあ、まずはこの花がいいかな？　つぼみが多めのやつを探して」
+「So, how about starting from this flower first? Look for those with a lot of buds」
 
 #voice konb0136
-【Konomi】「は〜い、わかったんだよぉ〜」
+【Konomi】「Okay, I got it‾」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-つぼみの多いやつの方が、うまく植え替えられたら長く花が続くからな。
+Since those with more buds will last longer when replanted successfully.
 
-さて、なるべく大きな株で、つぼみが多く付いた奴が……。
+Now let's find one with a lot of buds and as large stalk as possible ....
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0137
-【Konomi】「ニンゲンくん。これはどうかな？」
+【Konomi】「Human-kun. How's this?」
 
-「あ、いいな。それを持って帰ろう」
+「Oh, that's good. We can bring that back」
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0138
-【Konomi】「持って帰るんだね〜？　わかった〜。うーんしょ〜、てやぁ〜」
+【Konomi】「Bring that back‾? Understood‾. Heave-ho‾, yaa‾」
 
-「へ？」
+「Eh?」
 
-コノミは指差していた花を思い切りよく引っこ抜いたというか、引きちぎってしまう。
+Konomi tugs at the flower he was pointing at just now with all his might, and tears it off.
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0139
-【Konomi】「あれぇ〜？　いまぶちぃ〜ってぇ〜。しょーがないなぁ〜、じゃあ隣の……」
+【Konomi】「Oh what‾? It broke‾. It can't be helped‾, how about another one...」
 
-「あー！　こらこらちょっと待って！」
+「Ahー! Hey, wait a minute!」
 
 #voice konb0140
-【Konomi】「え〜？」
+【Konomi】「Eh‾?」
 
-俺の制止も虚しく、新しい花がぶちぶちと無残に引き抜かれていく。
+My words were too late, as more flowers were mercilessly ripped out.
 
-「無理やり引っこ抜いたりしちゃダメだよ、お花がかわいそうだろう？」
+「Don't forcefully pull it out, don't you feel bad for the flowers?」
 
 #voice konb0141
-【Konomi】「え〜？　だって持って帰るんでしょ〜？」
+【Konomi】「Ehh‾? But aren't you taking them home‾?」
 
-「そうだけど、根っこが切れちゃったら植え替えられないの」
+「Even so, if the roots are torn off, we can't replant them」
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0142
-【Konomi】「植え替え〜？」
+【Konomi】「Replant‾?」
 
-……案の定話を聞いていなかったか。
+...He didn't hear my plan from earlier.
 
-「それにこんなふうに乱暴に引きちぎったりしたら、切花としても売れないよ」
+「And if you pull it out so violently, we can't sell if as a flower either」
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0143
-【Konomi】「ぷぅう〜ボクせっかくお手伝いしてるのに〜、ニンゲンくんは文句ばっかり言うんだから〜も〜」
+【Konomi】「Puu‾ Even though I'm helping‾, Human-kun complains so much‾ Geez‾」
 
-コノミはすっかりふくれっ面になってしまった。
+Konomi pouts with utmost displeasure.
 
-「はぁ、もう。最初に説明しておかなかった俺が悪かったよ」
+「Haa, geez. My fault that I didn't explain it earlier」
 
-俺はしゃがみこんで、つぼみや株の大きさはともかく、掘り返しやすそうな花で説明することにした。
+I crouched down and explained again, this time to look for flowers that seem easy to dig, never mind the size of buds and stalk.
 
-「ほら、花っていうのは、根っこが付いてるだろ？　草木は根っこから地面の栄養を吸い上げてるんだよ」
+「Look here, flowers have these roots attached. The flower absorb nutrients from the soil through these roots.」
 
 #voice konb0144
-【Konomi】「根っこは大事ってこと〜？」
+【Konomi】「The roots are important‾?」
 
-「そう。だからなるべく根っこを傷つけないように、根っこの形がわからないものは少しづつ根っこの位置を探りながら掘り返すんだ」
+「Yes. So as not to hurt the roots, slowly dig to figure out the shape of the roots if you do not know where the roots are」
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0145
-【Konomi】「ふぅーん」
+【Konomi】「Fuuーn」
 
-こんなの興味ないかと思ったけど、意外やコノミは楽しそうにしゃがんで、俺の手元を覗き込んでくる。
+I thought he wouldn't be interested in this, but surprisingly, Konomi squatted down happily and peered at my palm.
 
-「本当は土ごと持って帰りたいとこだけど……ほら、こうやって土を払ってやると、根っこってすごく広がったりしてるのがわかるだろ」
+「I actually wanted to bring some soil home... See, if you shake off the soil, you can see that the roots expand very deeply」
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0146
-【Konomi】「おぉ〜、根っこってながーいねぇ」
+【Konomi】「Ohh‾, the roots are really long」
 
-「そう、こうやって長ーく根を張って、頑張って地面から栄養を吸い上げてるんだ」
+「Yes, they grow out vast, working hard to take in nutrients from the ground」
 
 #voice konb0147
-【Konomi】「おぉ、お花って頑張って生きてるんだねぇ〜」
+【Konomi】「Ohh, flowers work hard to live huh‾」
 
-「そう。だからむやみに引きちぎったりしちゃかわいそうだろ？」
+「Yes. So isn't sad to rip them off unnecessarily?」
 
 #voice konb0148
-【Konomi】「おぉ〜」
+【Konomi】「Ohh‾」
 
-……本当にわかってるのかな？
+...Does he really understand?
 
-「だから、持って帰りたい花はこうやって、土ごと掘り返して持っていこうね」
+「That's why, for the flowers I want you to bring back, dig up the surrounding soil and bring that back as well」
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0149
-【Konomi】「わかった〜」
+【Konomi】「Understood‾」
 
-「それから、植え替えても根付くかはわからないから、持って帰るのは一種類につき一株か二株、もしくは２〜３本にするんだぞ」
+「Also, I don't know if it will take root if I replant, so I will take home 1-2 flowers per species or even 2-3 flowers per species」
 
 #voice konb0150
-【Konomi】「はーい。ニンゲンくんはお花好きなんだねぇ〜」
+【Konomi】「Okay. Doesn't Human-kun like flowers‾」
 
-「まぁ、好きってほどじゃないけどさ。嫌いなわけでもないな」
+「Well, I don't love it, but I don't hate it either.」
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0151
-【Konomi】「でも、お花が売れるってどうして〜？　売るってお金ととっかえっこってことでしょ〜？　お金って人間の大事なものでしょ〜？」
+【Konomi】「But, why can flowers be sold‾? To sell is to exchange for money‾? Isn't money important to humans‾?」
 
-「うん。まぁ大事なものだね」
+「Yep. Well flowers are important too」
 
 #voice konb0152
-【Konomi】「お花は、ここに来たら見られるよ〜？　なのに、大事なものととっかえっこするの？」
+【Konomi】「Although flowers can be seen by coming to this place‾? Why do people exchange money for them?」
 
-「……あぁ。はは……」
+「...Oh. Haha...」
 
-そのままそこにあるものを全力で楽しんでるエルフにしたら、花を買う人間て不思議かもしれないな。
+To an elf who fully enjoys what is present around them, humans who buy flowers must seem strange.
 
-「人間はさ、大事なものや好きなものは自分ひとりのものにしたくなるんだよ」
+「Humans want to make important things or whatever they like theirs and theirs alone」
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0153
-【Konomi】「ふ〜ん、人間て欲張りさんなんだねぇ〜」
+【Konomi】「Fuu‾n, Humans are greedy creatures‾」
 
-「……あぁ、そうだな」
+「...Ahh, that's correct」
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0154
-【Konomi】「でも、大事にするんだ〜？　うふふふふ〜」
+【Konomi】「But they treasure it‾? Ufufufufu‾」
 
-「え？」
+「Eh?」
 
 #voice konb0155
-【Konomi】「大事なものととっかえっこするんなら〜、きっととっかえっこしたお花は大事にするよね〜」
+【Konomi】「If they exchange something important for flowers‾, they will definitely take care of the flowers as something important‾」
 
-「…………」
+「......」
 
-はっきり『そうだ』とは答えられない。大金を出して買ったものだって、一旦手に入れれば大事になんてしない連中も少なくはない。
+I can't answer "Yes" for sure. There are many people who don't take care of it even if they pay for it.
 
-でも、そんなことを言えばきっとコノミのことを失望させてしまうことだろう。
+But if I say that, it'll surely disappoint with Konomi.
 
-だから、せめて嘘にならないように……。
+So, so as not to lie....
 
-「……あぁ、そうだな。大事に花を育ててる人間はたくさんいるんだぞ。そんな人がこの花を手に入れたらきっと大事に育てるだろうな」
+「...Ahh, that's right. There are many humans who grow flowers carefully, those people would definitely take good care of flowers when they get them.」
 
 #voice konb0156
-【Konomi】「じゃあ、そういう人にこのお花も買ってもらえるといいねぇ〜」
+【Konomi】「In that case, it'll be great if those people can buy these flowers‾」
 
-「あぁ、そうだな」
+「Ahh, that's right」
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0157
-【Konomi】「大事に育ててもらうんだぞ〜？」
+【Konomi】「Grow up carefully, okay‾?」
 
 ;CHR ON
 ;#cg on
@@ -216,35 +216,35 @@
 
 
 #voice ibab0127
-【Ibara】「なにしてるんだ？」
+【Ibara】「What are you two doing?」
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0158
-【Konomi】「ん〜？　買った人に大事にしてもらってね〜って話しかけてたんだよ〜？」
+【Konomi】「Nn‾? That the people who buy the flowers will take care of them‾?」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 
 #voice hinb0130
-【Hinata】「え？　コノミはおはなとおはなしできるの！？」
+【Hinata】「Eh? Konomi can talk to flowers!?」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0128
-【Ibara】「それとそのお花はお話するのか？　まさか、魔物か！？」
+【Ibara】「Or can that flower speak? Could it be, a monster!?」
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0159
-【Konomi】「ちが〜うよぉ〜。こんな綺麗なお花が魔物なわけないじゃな〜い」
+【Konomi】「No it's not‾. Such a beautiful flower can't be a monster」
 
 ;CHR ON
 ;#cg on
@@ -254,72 +254,72 @@
 
 
 #voice ibab0129
-【Ibara】「そんなのわからないだろ！　おい、お花、お前は魔物なのか！？」
+【Ibara】「You can't know that! Oi, flower, are you a monster!?」
 
-コノミが花と話をしているのをそのままの意味でとったのか、イバラがしゃがみこんで花に話しかける。
+Assuming that Konomi was talking to the flowers, Ibara squatted and talked to the flowers in the same way.
 
-ワクワクとした様子でヒナタもツキヨも、花に注目している。
+Both Hinata and Tsukiyo are focused their eyes excitedly on the flowers.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0131
-【Hinata】「おはなとおはなしできるかなっ！？」
+【Hinata】「I wonder if we can talk with the flowers!?」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0086
-【Tsukiyo】「お話してみたいです……」
+【Tsukiyo】「I want to try talking to the flower...」
 
-「おい……」
+「Oi...」
 
-別に言葉を話したわけじゃないよ、と教えてやろうとすると、コノミが俺の袖をそっと引いた。
+When I tried to tell them that Konomi wasn't trying to talk to the flowers, he gently tugged on my sleeve.
 
 ;CHR K03F C
 #cg コノミ kon_1_03f 中
 #wipe fade
 
 #voice konb0160
-【Konomi】「むかーし、ずっとむかーし、エルフも人間も草や木や動物たちとお話できたんだって〜」
+【Konomi】「A long, long time ago, it's said that elves, humans, grass, wood and animals could all speak with one another‾」
 
-「へ？」
+「Eh?」
 
 #voice konb0161
-【Konomi】「どうしてお話できなくなっちゃったんだろうね〜？」
+【Konomi】「I wonder why we became unable to communicate with one another‾?」
 
-「あ、あぁ……そうだな。なんでだろうな」
+「A, Ahh... That's true. I wonder why」
 
 #voice konb0162
-【Konomi】「ぼくね〜、時々思うんだ〜。またお話してくれるとしたら、イバラとか、ヒナタみたいな子にだけ、こっそりお話してくれるのかな〜って」
+【Konomi】「I sometimes think about it‾. If they could still speak, they may secretly speak to children like Ibara, or Hinata」
 
-そう言って、イバラたちを見つめるコノミの顔はどことなく大人びて見えた。
+As he said that, Ibara looked somewhat mature as he watched Ibara and the rest.
 
-「……」
+「...」
 
 #voice konb0163
-【Konomi】「ボクもね〜、お話できたらいいなーとは思ってるんだけど〜」
+【Konomi】「I also believe‾, it'll be good if with could talk with them‾」
 
 #voice konb0164
-【Konomi】「誰かお話できるようになったら、ボクのことも紹介してくれるかなぁ〜？」
+【Konomi】「If you could talk with anyone of them, will you introduce me too‾?」
 
-「あぁ、きっとしてくれるさ」
+「Ahh, I will, definitely」
 
 #voice konb0165
-【Konomi】「そっかぁ〜。えへへへへ〜」
+【Konomi】「I see‾. Ehehehehe‾」
 
-「そしたら、俺も紹介して。俺も花と話してみたいしさ」
+「If that happens, introduce me too. I want to talk to flowers too」
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0166
-【Konomi】「うん、いいよ〜」
+【Konomi】「Yep, sure‾」
 
-コノミはいつものようにのんびりとした笑顔で笑った。
+On Konomi's face, was his usual leisurely smile.
 
 ;コノミ好感度+1
 #set f3 f3+1
