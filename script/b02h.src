@@ -5,227 +5,227 @@
 #bg BG11_1
 #wipe fade
 
-「ヒナタ、お手伝いしてくれるかな？」
+「Hinata, will you help me?」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0090
-【Hinata】「おー！　いいよっ！」
+【Hinata】「Oh! Sure!」
 
-ヒナタは嬉々として俺の頼みに頷いてくれる。
+Hinata nods happily at my request.
 
-「この花をとるから、隣の花を押さえておいて」
+「Hold down the surrounding flowers so that I can take out this flower」
 
 #voice hinb0091
-【Hinata】「このおはなとるんだね！　わかったー！」
+【Hinata】「You're taking this flower! I got itー!」
 
-「あっ……」
+「Ah...」
 
-ヒナタは止める間もなく、ぶちぶちと掘り取ろうとしていた花を引っこ抜いてしまった。
+Without a moment of pause, Hinata violently plucked out the flowers that I was trying to dig.
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0092
-【Hinata】「とれたよ、ニンゲンさん！」
+【Hinata】「I took it out, Human-san!」
 
-「……引っこ抜いちゃダメだよ、ヒナタ」
+「...Don't pull it out, Hinata」
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0093
-【Hinata】「え？　ダメだったの？」
+【Hinata】「Eh? This is no good?」
 
-「うん。根っこがちぎれちゃったら植え替えできないから、丁寧に根っこから掘り返さないと」
+「Yeah. If the root is torn off, we can't replant it. That's why we have to dig it up with the roots carefully.」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0094
-【Hinata】「おぉ、そっか！　ヒナタまちがえちゃった！」
+【Hinata】「Oh, I see! Hinata was wrong!」
 
-ヒナタは元気いっぱいに応えた。けど……。
+Hinata responded energetically, but....
 
 #voice hinb0095
-【Hinata】「ニンゲンさん、みてみて！　このおはなキレイだよ！」
+【Hinata】「Human-san, look here look here! This flower is so pretty!」
 
-「……あぁ、うん。綺麗だね。でもちぎる前に見せて欲しかったかな」
+「...Aah, yes. It's pretty. But I'd rather see it before you tear off the petals.」
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0096
-【Hinata】「あれー？　ヒナタまたまちがえた？」
+【Hinata】「Oh dearー? Did Hinata make a mistake again?」
 
-「いや、多分間違えたのは俺だ」
+「Not at all, perhaps I'm the one who made a mistake.」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0097
-【Hinata】「そかー、もうまちがえちゃダメだよ！　ニンゲンさん！」
+【Hinata】「Oh jeezー, it's bad to make mistakes! Human-san」
 
-「あぁ、うん」
+「Ah, yep」
 
-……人選間違えた。
+...My mistake in choosing Hinata.
 
-だいたい植え替えなんて細やかな神経の必要な作業、絶対にヒナタには向いてないのに、なぜヒナタに手伝わせようと思ったんだ、俺。
+In the first place, why did I ask Hinata to help in such meticulous work? It's absolutely not suitable for Hinata.
 
 #voice hinb0098
-【Hinata】「このおはなも、このおはなもキレイ！　きてよかったね、ニンゲンさん！」
+【Hinata】「This flower, and this flower is pretty too! It's great that we came here, Human-san!」
 
-「……そうだな」
+「...That's true」
 
-きてよかったというヒナタの言葉には異論がない。
+I had no objection to Hinata's words. It's great that we came here.
 
-「まぁ、いいか」
+「Ah well, nevermind」
 
-ヒナタは俺の反省など我関せず、他のエルフたちと同じように、楽しそうに花畑で遊んでいる。
+Without a care for my introspective thoughts, Hinata plays in the flower garden happily, just like the other elves.
 
 #voice hinb0099
-【Hinata】「ほら、このおはなをおそらにほうりなげると、くるくるってまわりながらおちてくるんだよ！　すごいよ、ニンゲンさん！」
+【Hinata】「Hey, if I toss this flower in the air, it spins in circles as it falls! That's amazing, Human-san!」
 
 ;CHR H11F C
 #cg ヒナタ hin_1_11f 中
 #wipe fade
 
 #voice hinb0100
-【Hinata】「わぁ！　はなびらがひらひらおちてくるのもキレイだよ！」
+【Hinata】「Wow! The petals fluttering down are so beautiful!」
 
-風に舞う花びらを追って、ヒナタが走り回る。
+Hinata runs around, chasing the petals dancing in the wind.
 
-その姿を眺めていると、疲れがどこかに飛んでいくような気がして、俺はそれ以上は手伝えなどと言わずに黙々と花を掘り返した。
+As I watched him, my fatigue seemingly dissipated, and I dug the flowers silently without asking for any more help.
 
-腰を伸ばしたりするのに顔を上げると、ヒナタはそれは楽しそうに笑っていた。
+When I stretched my waist and looked up, Hinata was there, laughing happily.
 
-結局は、ヒナタといると俺も楽しいんだよな。
+In the end, it's fun to be with Hinata.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-時折そちらに目を向けながら、めぼしい花を掘り返し、植え替えのための始末をしたところで、ヒナタがいなくなっているのに気がついた。
+After a while, when I looked up while digging up a distinctive flower for replanting, I noticed that Hinata was gone.
 
-「……ってあれ、ヒナタどこに行った？」
+「...eh, where did Hinata go?」
 
 #voice hinb0101
-【Hinata】「ここだよー」
+【Hinata】「I'm over hereー」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
-花畑の中から、それもまるで新種の花か何かみたいにヒナタの手が上がる。
+In the middle of the field of flowers, Hinata's hand rises up almost as if he was a new kind of flower.
 
-散々花を撒き散らした後、ねっころがって空を見上げていたらしい。
+After scattering the flower petals, he seemed to be lying down looking up at the sky.
 
-「おーい、俺を手伝ってくれるんじゃなかったのか」
+「Oiー, aren't you supposed to be helping me」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0102
-【Hinata】「あ、そだった！」
+【Hinata】「Oh, oh right!」
 
-びっくり箱みたいな勢いでヒナタが起き上がる。
+Hinata bounced up like the spring in a surprise box.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0103
-【Hinata】「ヒナタ、おてつだいするよ！」
+【Hinata】「Hinata's coming to help you!」
 
-そして猛然と花を摘み始めた。
+And he began to pick flowers furiously.
 
-「あーあー、花、折っちゃダメだってば。もう作業は終わってるから」
+「UhーUhー, you're not supposed to pluck the flowers. I'm done with that already」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0104
-【Hinata】「え？　そなの！？　ヒナタ、おてつだいしたいのに」
+【Hinata】「Eh? You're done!? Hinata wanted to help...」
 
-ヒナタは腕いっぱいに花を抱えたまま、目に見えてしょんぼりと落ち込んでしまった。
+Hugging his armful of flowers, Hinata's eyes fell downheartedly.
 
-ったく、気持ちだけは誰よりも手伝う気満々なのにな。
+Geez, even though he's really more eager to help than anyone else.
 
-「そんなに花折ってどうするの。根っこがなかったら植え替えできないって教えただろ」
+「What are you going to do with all that flowers you picked? I told you that if there's no roots, we cannot replant them」
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0105
-【Hinata】「そだったー」
+【Hinata】「Oh rightー」
 
-ヒナタは途方にくれた顔で俺を見上げてきた。
+Hinata looked up at me with a lost face.
 
 #voice hinb0106
-【Hinata】「このおはな、もってかえる？」
+【Hinata】「Should I bring these flowers back?」
 
-「いや、途中から折っちゃったら持って帰ってももうどうにもならないだろうな」
+「No, we can't do anything we flowers that are broken from the stem」
 
-うまく処理してやれば、部屋に飾るぐらいできるかもしれないけど、俺にもどうすればいいのかわからない。
+If the flowers are cleaned and prepared well, it may be used to decorate the rooms, but I'm not sure how to do that.
 
 #voice hinb0107
-【Hinata】「どうにもならない！？」
+【Hinata】「Can't we do something about it!?」
 
-がーん、と、ヒナタは大げさによろよろ後ずさった。
+G-an, Hinata stepped back dramatically.
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0108
-【Hinata】「おっちゃったおはなはなにかにつかえたりしないの？」
+【Hinata】「Can't the picked flowers be used for something?」
 
-「使うったってなー」
+「Use the flowers... for somethingー」
 
-ヒナタが折りとった花は、こういってはなんだが乱雑でやたら茎が長いのもあれば、首だけみたいなのもある。
+The flowers picked by Hinata is such a mess, some of the stems are long, or some without stem at all.
 
-ヒナタにそんなつもりはないのだろうけど、無残に引きむしったような感じだ。
+Though Hinata didn't intend to do that, but it feels like they were plucked off brutally.
 
-「あ、そうだ。花占いって知ってる？」
+「Ah. Do you know flower fortune telling?」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0109
-【Hinata】「はなうらない？」
+【Hinata】「Flower fortune telling?」
 
-「こうやって占うんだ」
+「This is how you do it.」
 
-俺はヒナタが持ってる花の中から、５枚花弁のものを抜き出した。
+I pull out a flower with 5 petals from the flowers that Hinata held.
 
-「ヒナタは俺のことが、好き、嫌い、好き、嫌い、好き。好き、で終わったからヒナタは俺のことが好き」
+「Hinata likes me, hates me, likes me, hates me, likes me. I end on "likes me", so Hinata likes me.」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0110
-【Hinata】「おー！　あったりー！　すごい、うらないだ！」
+【Hinata】「Ohー! Perfectー! That's so cool, it became fortune telling!」
 
-……って、５枚花弁で２択なら、当たるも当たらないもなく絶対に好きで終わるんだけど。
+...though, with 2 choices and 5 petals, it'll definitely end on "like me".
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0111
-【Hinata】「ヒナタも、ヒナタも、うらなうー！」
+【Hinata】「Hinata too, Hinata wants to do it too, fortune tellingー!」
 
 ;CHR ON
 ;#cg on
@@ -235,47 +235,47 @@
 
 
 #voice ibab0079
-【Ibara】「占い？」
+【Ibara】「Fortune telling?」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0121
-【Konomi】「何を占うの〜？」
+【Konomi】「What are you divining?」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0073
-【Tsukiyo】「占い、です？」
+【Tsukiyo】「That is fortune telling?」
 
-ヒナタが大騒ぎしたものだから、他のエルフたちもわらわらやってきた。
+Because Hinata made a huge fuss, the other elves crowded around.
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0112
-【Hinata】「ニンゲンさん、もっかいやってあげて！」
+【Hinata】「Human-san, do it for them again!」
 
-「あ、あぁ……もう一回やるの？」
+「O-Okay... I'll do it once more?」
 
-ヒナタの勢いに押されて頷いたけど、あんなしょぼいタネしかない占いなんて、二度やるのは恥ずかしい。
+I nodded at Hinata's energetic request, but it is embarrassing to do such a modest trick again.
 
-一応、再び５枚花弁のものを選んで、みんなに見せる。
+In any case, I choose a flower with 5 petals again and show it to everyone.
 
-「では、これからこの花にヒナタが俺をどう思ってるのかを教えてもらいます。好き、嫌い、好き、嫌い、好き。はい、好きで終わったのでヒナタは俺のことが好き」
+「Now then, I will tell you what Hinata thinks of me with this flower. He likes me, hates me, likes me, hates me, likes me. There, it ends on "likes me" so Hinata likes me」
 
-うわー、恥ずかしいぞ、これ！
+Uwaー, this is so embarrassing!
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0113
-【Hinata】「すごーい！　またまたあったりー！」
+【Hinata】「Amazing! It's spot on againー!」
 
 ;CHR ON
 ;#cg on
@@ -286,27 +286,27 @@
 
 
 #voice ibab0080
-【Ibara】「な……」
+【Ibara】「Wha...」
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 
 #voice konb0122
-【Konomi】「おぉ〜……」
+【Konomi】「Oooh〜...」
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0074
-【Tsukiyo】「す、すごいです」
+【Tsukiyo】「I-It is amazing.」
 
-イバラあたりからツッコミが入るかと思ったのに、意外やみんな感心してる？
+I thought Ibara would retort, but he seems impressed, surprisingly?
 
-いや、いくらなんでも呆れてるだけだろう。
+Or not, maybe he's just dumbfounded.
 
-「……とまぁ、そんな風に花びらに託して気持ちとかを調べる占いなんだけど……」
+「...So that's how it is, it's a fortune telling that tells our feelings from flower petals...」
 
 ;CHR I01F C
 #cg all clear
@@ -314,9 +314,9 @@
 #wipe fade
 
 #voice ibab0081
-【Ibara】「ニンゲンは占いまでするのか……」
+【Ibara】「Humans even do fortune telling...」
 
-「あ、いや。これは子供の頃からやってるほんの遊びみたいな物っていうか……」
+「Ah, no. It's just something to play with for children...」
 
 ;CHR I02F C
 #cg all clear
@@ -324,7 +324,7 @@
 #wipe fade
 
 #voice ibab0082
-【Ibara】「ぼ、ボクも占ってみる！」
+【Ibara】「I, I'll also have my fortune told!」
 
 ;CHR ON
 ;#cg on
@@ -334,18 +334,18 @@
 
 
 #voice konb0123
-【Konomi】「ボクもー」
+【Konomi】「Me tooー」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 
 #voice tikb0075
-【Tsukiyo】「お、お花……」
+【Tsukiyo】「F-flowers...」
 
-「あ、あぁ。どうぞ」
+「Ah, okay. Go ahead」
 
-ヒナタが引っこ抜いてしまった花を分け与えると、皆楽しそうに『占い』を始めた。
+After I gave out the flowers that Hinata had plucked, everyone started "fortune-telling" happily.
 
 ;CHR I06F C
 #cg all clear
@@ -353,7 +353,7 @@
 #wipe fade
 
 #voice ibab0083
-【Ibara】「ボクはキレイ、一番キレイ、すごい……」
+【Ibara】「I'm pretty, the prettiest. Amazing...」
 
 ;CHR ON
 ;#cg on
@@ -363,14 +363,14 @@
 
 
 #voice konb0124
-【Konomi】「ん〜と〜、ニンゲンくんは〜」
+【Konomi】「Nnn〜hm〜, Human-kun is〜...」
 
 ;FACE T09F
 #face f_tuk_0_09f 94 466
 
 
 #voice tikb0076
-【Tsukiyo】「えと、えと……何占おうかなです」
+【Tsukiyo】「Umm, ummm... What should I predict?」
 
 ;CHR I06F L
 #cg イバラ iba_1_06f 左
@@ -379,36 +379,36 @@
 #wipe fade
 
 #voice hinb0114
-【Hinata】「ヒナタも！　ヒナタも、やってみるよ！」
+【Hinata】「Hinata too! Hinata wants to try too!」
 
-そう言ってヒナタが選んだ花は、一見５枚花弁のように見えて、それが全部繋がっている花。
+As he said that, the flower Hinata chose was a flower with 5 petals, but with all petals connected together.
 
 #voice hinb0115
-【Hinata】「ヒナタはニンゲンさんが……スキ！」
+【Hinata】「Hinata... likes Human-san!」
 
-すぽん、と軽い抵抗のあと、花弁がすっぽ抜ける。
+Without much resistance, the petals come apart.
 
 ;CHR H06F1 R
 #cg ヒナタ hin_1_06f1 右
 #wipe fade
 
 #voice hinb0116
-【Hinata】「あ……あ……あ……」
+【Hinata】「Ah... Ah... Ah...」
 
-ヒナタは感激したように手元の花に見入った。
+Hinata looked at the flower in his hand, impressed.
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0117
-【Hinata】「また当たったよ、ニンゲンさん！」
+【Hinata】「It was correct again, Human-san!」
 
-「そうか、よかったね」
+「I see, that's great」
 
-自分の気持ちを占うも何もないように思うけど……。
+I think there's no point in predicting your own feelings of another, though...
 
-まぁ、それでヒナタが喜んでるならいいか。
+Well, it's fine as long as Hinata is happy.
 
 ;ヒナタ好感度+1
 #set f1 f1+1
