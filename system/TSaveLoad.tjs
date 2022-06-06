@@ -484,7 +484,7 @@ class TSaveLoad{
 		}else if(param.tag=="base"){
 			if(page==PageSave){
 				//	セーブ
-				if(askYesNo("セーブしますか？")){
+				if(askYesNo("Save your progress in this slot?")){
 					tLocalData.save(param.tag2);
 					setSaveData(param.tag2,tLocalData.data);
 					phase=PShowPage;
@@ -492,7 +492,7 @@ class TSaveLoad{
 				}
 			}else if(page==PageLoad){
 				//	ロード
-				if(askYesNo("ロードしますか？")){
+				if(askYesNo("Load this saved game?")){
 					tExBGM.nowPlaying='';	//シーン回想以外でゲームスクリプトを再生する際は、初期化する
 					tCanvas.initialize();
 					tLocalData.load(param.tag2);
@@ -505,7 +505,7 @@ class TSaveLoad{
 			}
 		}else if(param.tag=="return"){
 			close();
-		}else if(param.tag=="title" && askYesNo(tScript.script.scene?"メニューに戻りますか？":"タイトルに戻りますか？")){
+		}else if(param.tag=="title" && askYesNo(tScript.script.scene?"Return to the Menu?":"Return to the Title screen?")){
 			tScript.initialize();
 			close();
 			tScript.startFinish();

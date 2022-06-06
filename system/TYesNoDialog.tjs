@@ -183,7 +183,7 @@ class TYesNoDialog extends Window{
 }
 
 // Yes Ç© No Ç©ÇÕÇ¡Ç´ÇËÇ≥ÇπÇÈä÷êî
-function askYesNo(message,caption="ämîF"){
+function askYesNo(message,caption="Confirmation"){
 	var win=new TYesNoDialog(message,caption);
 	win.showModal();
 	var res=win.result;

@@ -135,7 +135,7 @@ class TWindow extends Window{
 		System.onActivate=void;
 		System.onDeactivate=void;
 
-		var result=askYesNo("èIóπÇµÇ‹Ç∑Ç©ÅH");
+		var result=askYesNo("Exit the game?");
 		closeFlag=result;
 		tMain.timer.enabled=true;
 		System.onActivate=onSystemActivate;

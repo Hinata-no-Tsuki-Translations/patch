@@ -129,7 +129,7 @@ class TGameSystem{
 			//★クイックロード拡張（ロード画面へ変遷せずに直接最新のデータをロードする）
 			tLocalData.quickLoad();
 //		}else{
-//			if(askYesNo("クイックロードしますか？")){
+//			if(askYesNo("You will lose your current progress. Quickload?")){
 //				//★クイックロード拡張（ロード画面へ変遷せずに直接最新のデータをロードする）
 //				tLocalData.quickLoad();
 //			}
@@ -145,14 +145,14 @@ class TGameSystem{
 	}
 
 	function eventNext(param){
-		var result=askYesNo("選択肢までスキップしますか？");
+		var result=askYesNo("Skip to the next Choice?");
 		if(result){
 			tScript.startNext();
 		}
 	}
 
 	function eventTitle(param){
-		var result=askYesNo(tScript.script.scene?"メニューに戻りますか？":"タイトルに戻りますか？");
+		var result=askYesNo(tScript.script.scene?"Return to the Menu?":"Return to the Title screen?");
 		if(result){
 			tScript.startFinish();
 //			tTitle.start();

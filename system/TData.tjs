@@ -866,7 +866,7 @@ class TLocalData{
 
 		tMain.timer.enabled=false;
 
-		if(askYesNo("クイックロードしますか？")){
+		if(askYesNo("You will lose your current progress. Quickload?")){
 			tMain.timer.enabled=true;
 			tCanvas.initialize();
 			tMap.initialize();	//マップ画面からマップ画面をロードした際の不具合対応

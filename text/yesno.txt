@@ -6,24 +6,24 @@
 //各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
 //【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
 //	クイックロードしますか		「クイックロード」確認ダイアログ
-//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
-//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
-//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	Skip to the next Choice?	「選択肢までスキップ」確認ダイアログ
+//	Return to the Menu?		「メニューに戻る」確認ダイアログ
+//	Return to the Title screen?		「タイトルに戻る」確認ダイアログ
 //	セーブしますか			「セーブ」確認ダイアログ
 //	ロードしますか			「ロード」確認ダイアログ
-//	終了しますか？			「ゲーム終了」確認ダイアログ
+//	Exit the game?			「ゲーム終了」確認ダイアログ
 //【image】背景画像
 //【width】ダイアログ全体の横幅(0を設定すると自動で背景画像に合わせます)
 //【height】ダイアログ全体の縦幅(0を設定すると自動で背景画像に合わせます)
 
 //image:【caption】	【image】	【width】	【height】
-image:クイックロードしますか？		dialogimage	0	0
-image:選択肢までスキップしますか？	dialogimage	0	0
-image:メニューに戻りますか？		dialogimage	0	0
-image:タイトルに戻りますか？		dialogimage	0	0
-image:セーブしますか？			dialogimage	0	0
-image:ロードしますか？			dialogimage	0	0
-image:終了しますか？			dialogimage	0	0
+image:You will lose your current progress. Quickload?		dialogimage	0	0
+image:Skip to the next Choice?	dialogimage	0	0
+image:Return to the Menu?		dialogimage	0	0
+image:Return to the Title screen?		dialogimage	0	0
+image:Save your progress in this slot?			dialogimage	0	0
+image:Load this saved game?			dialogimage	0	0
+image:Exit the game?			dialogimage	0	0
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //◆背景（デフォルト）※必須
@@ -39,25 +39,25 @@ image:	dialogimage	0	0
 //各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
 //【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
 //	クイックロードしますか		「クイックロード」確認ダイアログ
-//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
-//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
-//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	Skip to the next Choice?	「選択肢までスキップ」確認ダイアログ
+//	Return to the Menu?		「メニューに戻る」確認ダイアログ
+//	Return to the Title screen?		「タイトルに戻る」確認ダイアログ
 //	セーブしますか			「セーブ」確認ダイアログ
 //	ロードしますか			「ロード」確認ダイアログ
-//	終了しますか？			「ゲーム終了」確認ダイアログ
+//	Exit the game?			「ゲーム終了」確認ダイアログ
 //【y】ダイアログ内におけるキャプション表示位置(y座標　センタリング表示されるので、x座標は必要ありません)
 //【color】キャプション文字色　透過情報つきカラー指定　16進数8ケタ
 //【fontsize】キャプション文字サイズ
 //【visible】キャプションを表示するかどうか(true=表示する、false=表示しない)
 
 //caption:【caption】	【y】	【color】	【fontsize】	【visible】
-caption:クイックロードしますか？	40	0x603813	20	true
-caption:選択肢までスキップしますか？	40	0x603813	20	true
-caption:メニューに戻りますか？		40	0x603813	20	true
-caption:タイトルに戻りますか？		40	0x603813	20	true
-caption:セーブしますか？		40	0x603813	20	true
-caption:ロードしますか？		40	0x603813	20	true
-caption:終了しますか？			40	0x603813	20	true
+caption:You will lose your current progress. Quickload?	40	0x603813	20	true
+caption:Skip to the next Choice?	40	0x603813	20	true
+caption:Return to the Menu?		40	0x603813	20	true
+caption:Return to the Title screen?		40	0x603813	20	true
+caption:Save your progress in this slot?		40	0x603813	20	true
+caption:Load this saved game?		40	0x603813	20	true
+caption:Exit the game?			40	0x603813	20	true
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //◆キャプション（デフォルト）※必須
@@ -73,12 +73,12 @@ caption:		0x603813	20	true
 //各ダイアログ別にカスタマイズしたい場合は当項目を設定してください
 //【caption】この文字に対応したダイアログをカスタマイズできます（ダイアログに表示する文字を設定するのではありません）
 //	クイックロードしますか		「クイックロード」確認ダイアログ
-//	選択肢までスキップしますか？	「選択肢までスキップ」確認ダイアログ
-//	メニューに戻りますか？		「メニューに戻る」確認ダイアログ
-//	タイトルに戻りますか？		「タイトルに戻る」確認ダイアログ
+//	Skip to the next Choice?	「選択肢までスキップ」確認ダイアログ
+//	Return to the Menu?		「メニューに戻る」確認ダイアログ
+//	Return to the Title screen?		「タイトルに戻る」確認ダイアログ
 //	セーブしますか			「セーブ」確認ダイアログ
 //	ロードしますか			「ロード」確認ダイアログ
-//	終了しますか？			「ゲーム終了」確認ダイアログ
+//	Exit the game?			「ゲーム終了」確認ダイアログ
 //【tag】ボタンの種類
 //	yes	「はい」選択ボタンとして設定します
 //	no	「いいえ」選択ボタンとして設定します
@@ -93,20 +93,20 @@ caption:		0x603813	20	true
 //※【overSE】【downSE】【cursor】の項目は、voidを指定するとsetting.txtで指定したデフォルト設定になります
 
 //button:【caption】	【tag】	【image】	【x】	【y】	【overSE】	【downSE】	【cursor】
-button:クイックロードしますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:クイックロードしますか？		no		dialogbutton_no		230	94	void	void	void
-button:選択肢までスキップしますか？	yes		dialogbutton_yes	62	94	void	void	void
-button:選択肢までスキップしますか？	no		dialogbutton_no		230	94	void	void	void
-button:メニューに戻りますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:メニューに戻りますか？		no		dialogbutton_no		230	94	void	void	void
-button:タイトルに戻りますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:タイトルに戻りますか？		no		dialogbutton_no		230	94	void	void	void
-button:セーブしますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:セーブしますか？		no		dialogbutton_no		230	94	void	void	void
-button:ロードしますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:ロードしますか？		no		dialogbutton_no		230	94	void	void	void
-button:終了しますか？		yes		dialogbutton_yes	62	94	void	void	void
-button:終了しますか？		no		dialogbutton_no		230	94	void	void	void
+button:You will lose your current progress. Quickload?		yes		dialogbutton_yes	62	94	void	void	void
+button:You will lose your current progress. Quickload?		no		dialogbutton_no		230	94	void	void	void
+button:Skip to the next Choice?	yes		dialogbutton_yes	62	94	void	void	void
+button:Skip to the next Choice?	no		dialogbutton_no		230	94	void	void	void
+button:Return to the Menu?		yes		dialogbutton_yes	62	94	void	void	void
+button:Return to the Menu?		no		dialogbutton_no		230	94	void	void	void
+button:Return to the Title screen?		yes		dialogbutton_yes	62	94	void	void	void
+button:Return to the Title screen?		no		dialogbutton_no		230	94	void	void	void
+button:Save your progress in this slot?		yes		dialogbutton_yes	62	94	void	void	void
+button:Save your progress in this slot?		no		dialogbutton_no		230	94	void	void	void
+button:Load this saved game?		yes		dialogbutton_yes	62	94	void	void	void
+button:Load this saved game?		no		dialogbutton_no		230	94	void	void	void
+button:Exit the game?		yes		dialogbutton_yes	62	94	void	void	void
+button:Exit the game?		no		dialogbutton_no		230	94	void	void	void
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //◆ボタン（デフォルト）※必須

@@ -444,7 +444,7 @@ class TConfig{
 			showPage(page);
 		}else if(param.tag==TagSystemReturn||param.tag==TagSoundReturn){
 			close();
-		}else if(param.tag==TagSystemTitle && askYesNo(tScript.script.scene?"メニューに戻りますか？":"タイトルに戻りますか？")){
+		}else if(param.tag==TagSystemTitle && askYesNo(tScript.script.scene?"Return to the Menu?":"Return to the Title screen?")){
 			if(!tScript.script.scene){
 				tScript.initialize();
 			}
