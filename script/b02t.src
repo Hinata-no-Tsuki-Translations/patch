@@ -5,172 +5,172 @@
 #bg bg11_1
 #wipe fade
 
-「それじゃ、ツキヨにお手伝いしてもらおうかな」
+「Well then, let's have Tsukiyo help out」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0087
-【Tsukiyo】「は、はい。頑張る、です」
+【Tsukiyo】「Ok. I'll work hard.」
 
-そう言って、ツキヨは俺の傍らにしゃがみこんだ。
+As he said that, Tsukiyo crouched beside me.
 
-だけど……。
+However...
 
-ザクッ
+Zakuu
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
 #wipe fade
 
 #voice tikb0088
-【Tsukiyo】「ひっ……」
+【Tsukiyo】「Hee...」
 
-ザクッ
+Zakuu
 
 #voice tikb0089
-【Tsukiyo】「ふ、ふわっ……」
+【Tsukiyo】「F-Fuwaa...」
 
-花の周りを掘り返そうとするたびに、ツキヨはおかしな声を上げ、ビクビクと怯えている。
+Every time I try to dig up a flower, Tsukiyo raises his voice in a frightened cry.
 
-ザクッ
+Zakuu
 
 #voice tikb0090
-【Tsukiyo】「ひゃあんっ……」
+【Tsukiyo】「Hyaaa...」
 
-「……どうしたの？」
+「...What's wrong?」
 
-ツキヨはまるで怖いものを見ているような目で俺を見ている。
+Tsukiyo looks at me with frightened eyes.
 
 #voice tikb0091
-【Tsukiyo】「ふ、ふぇ……お、お花……嫌いです？」
+【Tsukiyo】「F-fue... D-do you dislike flowers?」
 
-「ツキヨは、お花嫌いなの？」
+「Tsukiyo doesn't like flowers?」
 
-俺の方こそ聞き返してしまう。
+I returned the question.
 
-花が嫌いなんてそうとう珍しい部類に入るけど、いたって別におかしくない。
+It is a rare thing to dislike, but it's not strange if there were people who did.
 
-ともかく何かがいっぱいあるのが苦手、とか、尖ったものを見ただけで震えるとか、思いもよらないものを苦手としてる奴なんて実はよくいるもんだ。
+Anyway, there are people who are not good at handling all kinds of things, such as trembling at anything sharp, or bad at dealing with the unexpected.
 
-さっきまでは楽しそうに見えたけど……俺の気のせいだったとか。
+He seemed like he was enjoying himself until just now... was that my imagination I wonder.
 
-ツキヨは俺の問い返しに、一瞬びっくりした顔をして、それからふるふると首を振った。
+Tsukiyo let out a surprised face and then shook his head.
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
 #wipe fade
 
 #voice tikb0092
-【Tsukiyo】「エルフは……ダークエルフも、大体お花好き……です。人間は、嫌いです？」
+【Tsukiyo】「Elves... and dark elves too, generally like flowers... Do humans hate them?」
 
-「いや、人間も花は好きな人の方が多いと思うけど」
+「No, I think there are many humans who like flowers too」
 
 #voice tikb0093
-【Tsukiyo】「嫌い、です？」
+【Tsukiyo】「Do you hate them?」
 
-「え？　あぁ、俺が花が嫌いかって聞いてたってことか」
+「Eh? Oh, you're asking me?」
 
-こくん、とツキヨは頷いた。
+Tsukiyo nodded yes.
 
-なるほど、思いもよらない質問すぎて俺が聞かれていたとはつゆとも気がつかなかった。
+I see, I didn't even notice that I was being asked because it was such an unexpected question.
 
-「いや、嫌いじゃないけど……むしろ、好きかなぁ。でなきゃ、わざわざ花畑にまで来ないだろ？　それに住んでるとこの周りに植えたいなんて思わないんじゃない」
+「No, I don't hate them... Actually, I like them. If not, I wouldn't have come all the way to this flower field, you know? And if that was the case, I wouldn't think to plant them around the hut」
 
 #voice tikb0094
-【Tsukiyo】「好き、なのに、どうして意地悪するです？」
+【Tsukiyo】「If you like them, why are you being mean to them?」
 
-「意地悪？」
+「Being mean?」
 
 #voice tikb0095
-【Tsukiyo】「地面から離れて、かわいそうです……」
+【Tsukiyo】「To separate them from the ground, so sad...」
 
-地面から抜かれて……あぁ、掘り出してるのがかわいそうで花に意地悪をしていると思ったのか。
+To separate from the ground... Oh, he thought I was being mean to the flowers by digging them out.
 
-「へ……？　そういわれればそうだけど、どうしたって抜かなきゃ運べないしなぁ」
+「Eh...? Now that you say it's sad, but there's no other way to bring them back」
 
 #voice tikb0096
-【Tsukiyo】「お花、死んじゃうです」
+【Tsukiyo】「The flowers will die!」
 
-「うーん、出来れば小屋までぐらいは生きてて欲しいなぁ」
+「Hmm, I want them to be alive at least until we get back to the hut, if possible」
 
 #voice tikb0097
-【Tsukiyo】「持っていくです？」
+【Tsukiyo】「You're bringing them back?」
 
-「あぁ、小屋の周りに植えてみようかと思って」
+「Yep, I thought to plant them around the hut」
 
 #voice tikb0098
-【Tsukiyo】「この花畑、全部です？」
+【Tsukiyo】「This entire field of flowers?」
 
-「いや、さすがにそれは無理だよ。だから、気に入ったのだけ、少し持っていくつもりなんだけど」
+「No, that's definitely impossible. So, I'll just bring back a little of those that I find interesting」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tikb0099
-【Tsukiyo】「ほ……」
+【Tsukiyo】「Ha...」
 
-ツキヨは俺の言葉に胸を撫で下ろした。
+Tsukiyo was relieved at my words.
 
 #voice tikb0100
-【Tsukiyo】「お花、全部抜いて、殺しちゃうのかと思ったです」
+【Tsukiyo】「I thought you were going to pick all the flowers, you'll kill them all」
 
-……殺すとはまた穏やかじゃない表現が出てきたな。
+...Tsukiyo uses the word "kill", again with a violent choice of words.
 
-「それって、俺がこの花畑を抜き絶やしちゃおうとしてるのかって思ってたってこと？」
+「Does that mean, you thought I was trying to pluck all the flowers till there were none left?」
 
 #voice tikb0101
-【Tsukiyo】「ん……です」
+【Tsukiyo】「Nn... that's what I thought」
 
-そっか、ヒナタに植え替えの説明をしてたときはツキヨは聞いてなかったんだな。
+I see, Tsukiyo did not hear when I was explaining the replanting process to Hinata.
 
-「そんなことしないよ。せっかく綺麗なお花なのにもったいない」
+「I won't do that. It's such a waste of these beautiful flowers」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0102
-【Tsukiyo】「よかったです」
+【Tsukiyo】「That's a relief」
 
-俺はツキヨに植え替えの説明をした。
+I explained the replanting process to Tsukiyo.
 
-「こうやって、根っこの周りの土も一緒に丁寧に掘り起こして持っていけば、根っこも痛みにくいだろう？」
+「In this way, if I dig up the flower and the surrounding soil, it won't hurt the roots easily」
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 
 #voice tikb0103
-【Tsukiyo】「ほう、ほう」
+【Tsukiyo】「Ho, ho」
 
-「後はこの土ごと、地面に植えるんだ」
+「After that, plant the roots with the soil in new ground」
 
 #voice tikb0104
-【Tsukiyo】「なるほどです」
+【Tsukiyo】「I understand now」
 
-「もしかしたら植え替えても根付かないかもしれないけど、やってみないことにはわからないからね」
+「The flowers may not take root into the new soil, but I won't know until I try」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 
 #voice tikb0105
-【Tsukiyo】「全部、持って行かないなら、大丈夫です。種族、残るから」
+【Tsukiyo】「It's fine, as long, as you don't take it all. The species of flowers, remain.」
 
-「そうだね、念のために持っていくのは一種類一株か二株だけにしておこうか」
+「That's correct. To be safer, maybe we'll just bring back one or two of each type of flower.」
 
 #voice tikb0106
-【Tsukiyo】「はいです。ちゃんと、根付くといいです」
+【Tsukiyo】「Yes. It'll be good, if they take root again」
 
-「ツキヨはどの花が好き？　ツキヨが気に入ったのも持っていこう」
+「Which flower do you like? Let's bring back a flower that Tsukiyo is interested in」
 
 #voice tikb0107
-【Tsukiyo】「この、青色のお花がいいです」
+【Tsukiyo】「This, this blue flower is good.」
 
-「じゃ、これも小屋の前に植えようか」
+「Let's plant this in front of the hut too」
 
 ;CHR ON
 ;#cg on
@@ -180,27 +180,27 @@
 
 
 #voice ibab0130
-【Ibara】「ボクはこれだな」
+【Ibara】「This is for me」
 
-ツキヨと俺が相談しながら花を選んでいると、イバラも花を突き出してきた。
+While Tsukiyo and I were choosing flowers, Ibara stuck a flower in our direction.
 
-イバラが持ってきたのは小さな花が鈴のようにぶら下がった可憐な花だ。
+Ibara held a lovely small flower that hung down like a bell.
 
-……へぇ、イバラにしては可愛らしいのを選んだな。てっきりもっと華やかで派手な花の方が好きなのかと思ってたけど……。
+...Ehh, Ibara chose a cute one. I thought he would prefer more gorgeous and flashy flowers...
 
-「折ってきちゃったら植え替えは出来ないよ。その花どこに咲いてた？　掘ってこようか」
+「If you break it at the stem, we can't replant it. Where was the flower blooming? Let's go dig it up」
 
 #voice ibab0131
-【Ibara】「あそこ。ほら、いっぱい咲いてる」
+【Ibara】「Over there. Look, a lot of them are blooming over them」
 
-「じゃ、行こうか。ツキヨ」
+「Okay, let's go, Tsukiyo」
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 
 #voice tikb0108
-【Tsukiyo】「はい」
+【Tsukiyo】「Yes」
 
 ;CHR ON
 ;#cg on
@@ -210,16 +210,16 @@
 
 
 #voice hinb0132
-【Hinata】「ヒナタもおてつだいするー！」
+【Hinata】「Hinata also wants to helpー!」
 
-「わわっ、急に飛び出してきて足にまとわりつくな。転ぶだろ？」
+「Wa wa, don't suddenly jump at me and cling to my legs. You might fall.」
 
 ;FACE H08F2
 #face f_hin_0_08f2 94 466
 
 
 #voice hinb0133
-【Hinata】「あれー？　おこられちゃった！　えへへへ」
+【Hinata】「Ohー? I was scolded! Ehehe」
 
 ;CHR T06F_L L
 #cg ツキヨ tuk_1_06f_l 左
@@ -228,31 +228,31 @@
 #wipe fade
 
 #voice konb0167
-【Konomi】「ボクも〜、好きなお花とってきたよ、ほら！」
+【Konomi】「Me too‾, I brought my favourite flower, look!」
 
-コノミは自慢げに高々ととってきた花を掲げて見せたけど……。
+Konomi showed off the flowers that he picked from above proudly, but....
 
-「コノミ、それじゃ根っこもないし、多すぎ。持って行くのは一株。じゃなかったら２本か３本。植え替えても根付けなかったら花がかわいそうだろ」
+「Konomi, there's no roots attached to those flowers, and too many of them. We'll only take back one flower. Or at most two or three. If the flowers don't take root, it'll be a pity」
 
 ;CHR K06F R
 #cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0168
-【Konomi】「ニンゲンくん欲張りだから、いっぱいあったほうがいいかと思った〜」
+【Konomi】「Human-kun is greedy, so I thought it would be better to take a lot‾」
 
-「保存できる食料とかならね。どこに生えてたの、この花」
+「If it was preservable foods. Where were those flowers growing?」
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0169
-【Konomi】「ほら〜そこ〜」
+【Konomi】「Look‾ Over there‾」
 
-「……これだけ群生してるなら、少し掘ってっても大丈夫かな。その折っちゃったのは、小屋で花瓶にでも活けておくか」
+「...If it's grown so much, it should be fine to dig a bit more. Those picked flowers, maybe I'll use it for flower vases back in the hut」
 
-「ヒナタは？　小屋の周りに植えたい花はないの？」
+「What about Hinata's? Do you have any flowers you want to grow around the hut?」
 
 ;CHR ON
 ;#cg on
@@ -262,25 +262,25 @@
 
 
 #voice hinb0134
-【Hinata】「このおはながいい！」
+【Hinata】「This flower is good!」
 
-「わ、だめだよ。引っ張ったらちぎれちゃうだろ？」
+「Wa, this cannot do. If you tug on them, they'll tear off」
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
 
 
 #voice hinb0135
-【Hinata】「そかぁ」
+【Hinata】「I see」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0170
-【Konomi】「え〜？　引っ張っちゃダメなのぉ？」
+【Konomi】「Eh‾? We can't pluck them?」
 
-「無駄に引っこ抜くのはお花がかわいそうだから、やめてあげて……」
+「It's sad for the flower to plucked without rhyme or reason, let's not do that...」
 
 ;CHR ON
 ;#cg on
@@ -290,29 +290,29 @@
 
 
 #voice ibab0132
-【Ibara】「抜いちゃダメならどうやって持って帰るんだ？」
+【Ibara】「If we can't pull them out, how do we bring them back?」
 
-……そもそも、植え替えから説明しなきゃダメか。
+...It's about time for my replanting explaination.
 
-「あのね、植え替えっていうのはね」
+「Listen up, replanting is...」
 
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tikb0109
-【Tsukiyo】「土も、一緒に持って帰るです。それで、土ごと埋めるです」
+【Tsukiyo】「The soil is, brought back together too. After that, bury the entire thing in new soil」
 
-ツキヨは俺はやっていたように少し離れたところから、根の位置を確かめるようにして恐る恐る土を掘っていく。
+Tsukiyo mimics me a little distance away from me, nervously digging at the soil to determine the location of the roots.
 
-「お、よく俺がやってたこと覚えてたな。そうそう、根っこを傷つけないように気をつけて掘るんだぞ」
+「Oh, you remembered. That's exactly it, dig while careful not to damage the roots」
 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
 
 #voice tikb0110
-【Tsukiyo】「え、えへへ……」
+【Tsukiyo】「E-Ehehe...」
 
 ;CHR ON
 ;#cg on
@@ -322,65 +322,65 @@
 
 
 #voice ibab0133
-【Ibara】「そ、そんなのボクだって知ってた！」
+【Ibara】「Even I know that too!」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0136
-【Hinata】「ヒナタも！　ヒナタもできるよ！」
+【Hinata】「Hinata too! Hinata can do it too!」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0171
-【Konomi】「ほわわ〜たーいへんだぁ〜。みんな〜頑張ってね〜」
+【Konomi】「Howawa‾ that's tough‾. Everyone‾, work hard‾」
 
-「イバラ、そんなに近くからじゃ根が傷ついちゃうってば。ヒナタ、そんな遠くからじゃどれだけ掘るつもりなの」
+「Ibara, if you dig that close, the roots will be damaged. Hinata, if you dig from that distance, how much soil are you going to dig up」
 
-きゃっきゃっと楽しそうに土をほじくり出したけど、どうもイバラもヒナタもコノミも役に立ちそうもない。
+Ibara, Hinata and Konomi dug at the soil happily, but it is unlikely that any of them will be useful.
 
 #voice tikb0111
-【Tsukiyo】「これでいいです？　布で巻くです？」
+【Tsukiyo】「Is this alright? Wrap it in cloth?」
 
-「あぁ、うん。だんだん手際が良くなったじゃないか。……手伝うって言うけど頼りになるのはツキヨだけだな」
+「Aa, yep. You're getting skilled at this... The others said they'll help but you're the only one that I can rely on」
 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
 
 #voice tikb0112
-【Tsukiyo】「え、えへへ……」
+【Tsukiyo】「E-Ehehe...」
 
-褒められたツキヨは嬉しそうに顔をほころばせた。
+Happy to be praised, Tsukiyo broke into a wide smile.
 
 #voice tikb0113
-【Tsukiyo】「ニンゲンさん、やっぱり優しいです……」
+【Tsukiyo】「Human-san is kind, after all...」
 
-「ん？　急に何？」
+「Nn? Why all of a sudden?」
 
 #voice tikb0114
-【Tsukiyo】「お花折っちゃったのとか見て、かわいそうって言ってたです。平気でお花ちぎっちゃうエルフよりずっとずっと優しいかもです」
+【Tsukiyo】「To say that it's a pity to pick flowers. You're so much much kinder than elves who pick flowers without a care for them」
 
-「はは……そんなことないよ」
+「Haha...that's not the case at all」
 
 #voice tikb0115
-【Tsukiyo】「それに褒めてくれるです。もっとツキヨもお役に立つです」
+【Tsukiyo】「Also, you gave me compliments. I want to be of more help to you」
 
-「あんまり無理はしなくていいよ」
+「Don't push yourself too hard」
 
-俺の言葉にツキヨは首を振った。
+Tsukiyo shook his head at my words.
 
 #voice tikb0116
-【Tsukiyo】「褒めてもらうの、嬉しいです」
+【Tsukiyo】「I'm really happy, to be praised.」
 
-「……そっか」
+「...I see」
 
-ぽんぽん、と頭を撫でるとツキヨはまた嬉しそうに笑った。
+Pon pon, Tsukiyo smiled happily when I pat his head.
 #voice tikb0117
-【Tsukiyo】「えへへ……」
+【Tsukiyo】「Ehehe...」
 
 ;ツキヨ好感度+1
 #set f4 f4+1
