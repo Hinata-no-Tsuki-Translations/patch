@@ -2,13 +2,18 @@ import pandas as pd
 import os
 import xlsxwriter       # need to pip install xlsxwriter
 import glob
+import sys
 
 jpn_folder = "jpn"
 eng_folder = "eng"
 out_folder = 'out'
 same_length = True
 
-files = os.listdir(jpn_folder)
+if len(sys.argv) > 1:
+    if sys.argv[1] == 'all':
+        files = os.listdir(jpn_folder)
+else:
+    files = os.listdir(eng_folder)
 
 for file in files:
     print(file)
