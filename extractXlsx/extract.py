@@ -56,6 +56,7 @@ for file in files:
                         eng_line_pointer += 1
                     else:
                         d['Eng'].append(eng_line.strip())
+                        eng_line_pointer += 1
                         break
             else:
                 d['Eng'].append('')  # machine translate
