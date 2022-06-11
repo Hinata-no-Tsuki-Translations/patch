@@ -5,15 +5,15 @@
 #bg bg11_1
 #wipe fade
 
-やっぱり、手伝ってもらうとしたらイバラかな。
+I should ask Ibara for help after all.
 
-なんだかんだ言って一番話が通じるからな。
+After all that's said and done, he'll understand the best.
 
-「じゃ、イバラ手伝っ……って、あれぇ？」
+「Ibara, could you help me out..., eh?」
 
-ほんの少し考え込んだだけなのに、顔を上げると誰もいなかった。
+I was deep in thought for a short while, but when I looked up, no one was there.
 
-なんだ、気が変わるの早いな。
+Huh, their minds change so quickly.
 
 ;EVCG EV012A1
 ;#face off
@@ -21,29 +21,29 @@
 #cg イベント ev012a1 背景
 #wipe fade
 
-みんな花畑で好き勝手に遊んでいる。
+Everyone is playing in the flower bed as they like.
 
-「……手伝ってくれるって言っておいて、舌の根も乾かぬうちどころじゃないぞ、おまえら」
+「...Although they say that they'll help out, they don't keep their words」
 
-少し呆れながらも、俺もすぐに意識を切り替えた。
+I was a little stunned, but I came back to my senses.
 
-「ま、仕方ないか」
+「Ah, it can't be helped」
 
-この数日の付き合いで、エルフとはそんなものらしいというのは理解した。
+After the last few days with them, I understand that elves are simply like that.
 
-気まぐれでいい加減で、すぐにつまらないことに夢中になれるけど、次の瞬間には違う事に興味を移している……そういう生き物なんだ。
+Whimsical and carefree, silly things catch their attention and lose their interest as easily... such creatures they are.
 
-「つまり、労働力としては全くあてにできない、と」
+「In other words, they can't be relied on to do any physical work at all」
 
-むしろ自覚なく邪魔をしたり、まとわりついてきたりで当てにするどころか、余計に労力がかかる。
+Rather, they'll cling on me and hinder my work without being aware of it, and cost me extra effort.
 
-だから、お手伝いなんてできればしてもらわない方がむしろ効率よく作業できたりすることのほうが多い。
+Therefore, it's actually more efficient to work on my own without their help.
 
-それなのに、俺が彼らといることを心地よく感じているのもまた事実だった。
+Nonetheless, it's true that I feel comfortable when I'm with them.
 
-「ま、いるだけで幸せってやつかな」
+「Maybe I just feel happy to be around them」
 
-俺はエルフたちの助力を諦めて、自力で花を掘り起こし始めた。
+I gave up on borrowing their help and started digging flowers on my own.
 
 ;暗転
 ;#face off
@@ -60,228 +60,228 @@
 
 #face on
 
-「ふー……とりあえず、試しに植えるならこんなものかな」
+「Fuー...for the time being, this amount is enough to try replanting」
 
-エルフたちが花畑に夢中だったおかげで、邪魔が入らず順調に仕事は進んだ。
+Thanks to the fact that the elves were absorbed in the flower bed, my work went smoothly without any hindrances.
 
-「むしろ、手伝いいらなかったな」
+「Actually, I didn't need help at all」
 
-そういえば、連中が手伝うって言い出すとろくなことにならなかったような気がする。多分今回もそうなっていただろう。
+Speaking of which, nothing bad happened after they offered to help. Maybe it's a lucky charm.
 
-顔を上げると、まだ皆てんでに好きなところで遊んでいるのが目に入った。
+When I raised my head, I saw that everyone was still playing whereever they wanted.
 
-「あれ、なんであんな顔してるんだろう」
+「Oh, why're you making that face」
 
-ただひとりイバラだけが難しい顔をしてしゃがみこんでいた。
+Ibara was squatting there and making a difficult face.
 
 ;CHR I10F2 C
 #cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0084
-【Ibara】「うーん、どうしよう……」
+【Ibara】「Oh no, what to do...」
 
-「何を悩んでるの？」
+「What are you worrying about?」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0085
-【Ibara】「わ、な、なんだ、ニンゲン！？」
+【Ibara】「W-w-what, Human!?」
 
-声をかけたことに驚いて飛び退ったイバラの手からは色とりどりの花がこぼれ落ちた。
+When I called out to Ibara, he jumped back in surprise. Colorful flowers scattered from Ibara's hand.
 
-「ずいぶんいろいろ集めたね。すごいじゃないか」
+「That's a lot of flowers you've collected. That's amazing」
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0086
-【Ibara】「ふふん、どの花も素晴らしく綺麗だろう？」
+【Ibara】「Ffufun, isn't each of these flowers brilliant and beautiful?」
 
-「あぁ。真剣な表情で眺めてたけど、これをどうするの？」
+「Aah. You were looking at them with such a serious expression, what are you going to do with them?」
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0087
-【Ibara】「このボクに一番似合う花はどれかと悩んでいたんだ」
+【Ibara】「I was struggling to decide which flower suits me the best」
 
-「イバラに似合う花？」
+「A flower that suits Ibara?」
 
 #voice ibab0088
-【Ibara】「こんなに綺麗な花なら、髪に飾ってもいいし、帯につけてもいいからな」
+【Ibara】「With such a beautiful flower, I could use it to decorate my hair or attach it to my obi」
 
 #voice ibab0089
-【Ibara】「で、ニンゲン。お前にも聞いてやるから光栄に思え！　ぼ、ボクにはどれが似合うと思う」
+【Ibara】「So, Human. Be honoured that I'm asking you! Which do you think suits me the most?」
 
-「えー？」
+「Ehー?」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0090
-【Ibara】「さぁ、どれだっ！？」
+【Ibara】「Come on, which one!?」
 
-どれがいいかと問われても、どの花も綺麗だし、どんな花をまとうのでもきっとイバラには似合うことだろう。
+Though I was asked which is best, every flower is beautiful, and any of them will surely look good on Ibara.
 
-それを考えたら、これという花を選ぶのも難しい気がして、俺はしばらく考え込んでから答えた。
+With that said, it's difficult to choose a flower, so I thought for a while before answering.
 
-「……どれでもいいよ」
+「...any of them」
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0091
-【Ibara】「なっ……！？」
+【Ibara】「Wha...!?」
 
-俺の言葉にイバラは二、三歩後ずさってしまう。
+At my words, Ibara took two to three steps back.
 
-しまった。どうやら言い方を間違えたらしい。
+Oh no. Looks like I made a mistake.
 
 #voice ibab0092
-【Ibara】「どっ……どれでもいい、だと！？」
+【Ibara】「Any...any of them, you said!?」
 
-イバラは俺の言葉を悪いようにとったのか凄まじく落ち込んでしまったようだ。
+Ibara took my words poorly and became incredibly depressed.
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0093
-【Ibara】「ふ、ふんっ！　おまえなんかに聞いたボクが愚かだった。ニンゲンごときに、審美眼を求めるなんて無駄なことだった！」
+【Ibara】「Hmph! I was stupid to ask you. It's impossible for humans to have a sense of aesthetic!」
 
-イバラは必死に虚勢を張っているけど、大きな目からは今にも涙がこぼれ落ちてしまいそうだ。
+Ibara desperately acts tough, but tears seem about to spill from large eyes.
 
-「ご、ごめん。そう言う意味じゃなくて、どの花でも似合いそうだったから……」
+「S-sorry. I didn't mean it that way, it's because you'll look good with any flower...」
 
 #voice ibab0094
-【Ibara】「ふんっ！　そんなごまかしがボクに通じると思うな！　ニンゲンは花なんか興味がないんだ。だからどれが一番美しいか聞かれても答えられないんだ」
+【Ibara】「Fuun! You won't deceive me! Human have no interest in flowers. So you can't answer which is most beautiful!」
 
-すっかりご機嫌を損ねてしまったイバラは、そっぽを向いたまま落とした花を拾い集め始めた。
+Having lost his good mood, Ibara began to pick up the flowers that he dropped while facing away.
 
-「ごめんごめん。全部似合うと思うよ。だから全部つければいいじゃないか」
+「Sorry, sorry. I thought all would look good. So you could use all the flowers」
 
-しゃがんで拾うのを手伝いながら言葉を付け足すと、イバラは馬鹿にするように笑った。
+When I squat down and helped to pick up, Ibara laughed mockingly.
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0095
-【Ibara】「全部ぅ〜？　そんなにたくさんは髪に刺さらないし、帯に刺してもかっこ悪いし、ニンゲンはやっぱり趣味が悪いな」
+【Ibara】「All of them‾? With so many I can't stick them in my hair, it's silly to attach all of them to my obi, Human has really bad taste」
 
-「花冠にすればいいだろ？」
+「How about making a flower wreath?」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0096
-【Ibara】「カンムリ！？」
+【Ibara】「A wreath!?」
 
-イバラの顔がぱっと明るくなる。
+Ibara's face lighted up.
 
 #voice ibab0097
-【Ibara】「か、冠ならつけてやってもいいけど……」
+【Ibara】「It'll be fine if I wear a flower crown, but...」
 
-「花冠、作ったことない？」
+「You've not made one before?」
 
 #voice ibab0098
-【Ibara】「うん……」
+【Ibara】「Yeah...」
 
-「花冠には、このたくさん生えてるヨウセイノワタボウシみたいな、細くて折れにくい茎の花が向いてるんだ」
+「For a wreath, it's appropriate to use the Fairy's Cotton Hat, or other thin and not easily broken stems」
 
-華やかな花の下でひっそり絨毯のように咲いている、白くて小ぶりな羽が身を寄せ集めたような花を何本か摘むと、イバラは少し嫌な顔になった。
+Ibara made a face when I picked white furry flowers that were blooming quietly like a carpet under the gorgeous flowers.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0099
-【Ibara】「そんな地味な花の冠なんて、やだ！」
+【Ibara】「I don't want a crown made from such plain flowers!」
 
-地味って……これはこれで可憐だと思うんだけど。
+Plain... I thought it was lovely though.
 
-「まぁ、待ってって。コイツをこうやって編んでやって……こっちの花を差し込んでやると……」
+「Well, hold on a bit. Tying this like that... And inserting the flower here...」
 
-ヨウセイノワタボウシを編みながら、華やかな色合いを持つクラウンパフや目の醒めるような青のウスゴロモを編みこんでやる。
+Weaving together the Fairy's Cotton Hat, I add Crown Puff for its gorgeous and fitting colour and Blue Veil as highlights.
 
-「ほら、あんまり茎が太いのは無理だけど、細めの茎の奴なら、編みこめるでしょ？」
+「See, it's impossible to use thick stems, it's only possible to weave with thin stems」
 
-簡単に編んだ小さな花冠を、そっと手のひらにのせて見せる。
+The easily weaved small wreath lay in the palm of my hand.
 
-この大きさだと、冠と呼ぶには少し小さい。それこそイバラの手首に巻くのに丁度いいくらいだろうか。
+It's a bit small to call this a crown. Maybe it's just right to wrap it on Ibara's wrist?
 
-「もう少し大きく編んだら、冠になるよ」
+「If I weave a bigger one, it'll become a crown」
 
-そう言って、それを膝に乗せたまま、俺は新しく冠を編み始める。
+Saying that, I rest it on my knees and started to knit a new crown.
 
-イバラが集めた花を使えば、とんでもなく華やかな花冠ができそうだ。
+If I use the flowers collected by Ibara, it appears I'll be able to make a ridiculously gorgeous wreath.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0100
-【Ibara】「おぉ！　ボクも作る！　最初の一本を軸にして……間通して、くるっと……そんで、違うお花も……うぅ、難しいな……」
+【Ibara】「Oo! I'll make it too! With the first flower perpendicular... through it, and around it... and then, with a different flower too... Uuu, it's difficult...」
 
-イバラも俺に触発されたのか、ヨウセイノワタボウシを摘みながら、冠を編み始めた。
+Perhaps inspired by me, Ibara picked Fairy's Cotton Hat and began to knit the crown.
 
-「ヨウセイノワタボウシだけで作っても清楚で可愛いと思うけどね」
+「I think it looks cute and tidy even with only Fairy's Cotton Hat」
 
-そう言いながらも、俺は手元の花冠に、艶やかな色彩の花々を織り込んでいく。
+While saying that that, I weave the glistening flowers in my palm into a wreath.
 
-ふむ。加減がなかなか難しいな。
+Hmm. It's very difficult to adjust.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0101
-【Ibara】「でも、綺麗な方がいいじゃないか」
+【Ibara】「But, isn't it good if it looks beautiful」
 
-イバラはあれもこれもと花を挿したいみたいで、数本のヨウセイノワタボウシだけではとても支えきれないほどの花を編みこもうとしていた。
+Ibara tried to weave in so many flowers that it could not be supported only by a few stems of Fairy's Cotton Hat.
 
-「あぁ、欲張りすぎ。ぎちぎちに詰めたらかえって窮屈そうで可愛くないよ」
+「Ahh, you're too greedy. If you pack it tightly, it doesn't look cute」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0102
-【Ibara】「……そうか？」
+【Ibara】「...Oh?」
 
-「それに、そんなにたくさん硬い茎を編み込んだら、輪にならないよ」
+「Also, if you weave so many thick stems, it won't curve into a crown」
 
-ヨウセイノワタボウシだけで花冠を編むならいいけど、硬い茎を持つ他の花を挿し込むのなら、途中で望んだ大きさの輪になるように調整してやらなきゃいけない。
+A wreath made only of Fairy's Cotton Hat would be fine, but if you insert other flowers with hard stems, you'll have to adjust it such that it can bend and become a wreath of the size that you want.
 
-ところが、イバラはあれもこれもと編みこもうとするあまり、軸となる部分をずいぶん太くしてしまっていた。
+However, Ibara tried to weave in too many flowers, the parts that should curve became much thicker.
 
-「……それ、曲げられる？」
+「...Can that bend?」
 
-俺の言葉でようやく気がついたのか、イバラは編んでいたものを曲げようと試みて唇を尖らせた。
+At last heeding my words, Ibara tried to bend what he was knitting and pursed his lips.
 
 #voice ibab0103
-【Ibara】「花で出来た棍棒みたいになっちゃった」
+【Ibara】「It became a mace made of flowers」
 
-自分の編んだものがどうやら輪にならないらしい、と気がついたイバラは、その花の塊を放り捨ててしまう。
+Ibara notices the mass of flowers he knitted seems not a circle and throws it aside.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0104
-【Ibara】「ふ、ふんっ！　花で出来た冠なんてちっとも欲しくない！」
+【Ibara】「H-hmph! It's not like I want a crown of flowers at all!」
 
-「あーあー、花に当たるなよ。かわいそうだろ？」
+「Ahー Ahー, don't take it out on the flowers. Poor flowers」
 
-苛立ち紛れなのか、そのあたりの花をちぎり始めたイバラの頭にそっと俺が編んだ花冠を乗せてあげた。
+I gently placed the wreath I've done on Ibara, who had begun to tear the flowers around in frustration.
 
 #cg all clear
 
@@ -295,38 +295,38 @@
 #wipe fade
 
 #voice ibab0105
-【Ibara】「ふぇ……？」
+【Ibara】「Fue...?」
 
-「はい、これも」
+「Yes, and this too」
 
-ついでにさっき編んでいた小さな花冠は腕に通してあげる。
+I passed the smaller wreath through his hand.
 
-「うん、よく似合う」
+「Yep, it looks good on you」
 
 #voice ibab0106
-【Ibara】「な……ニンゲン、何でボクに？」
+【Ibara】「Wha... Why did you give it to me?」
 
-イバラは自分の頭に乗った花冠を一旦下ろして確認する。
+Ibara took down the wreath on his head to check it.
 
-少し驚いているような顔だ。
+He looks a little surprised.
 
-「そりゃ、俺がするよりイバラの方が似合いそうだから、かな」
+「Well, it might look better if Ibara wears it, maybe」
 
 #voice ibab0107
-【Ibara】「そ、そんなの当たり前だろ！　出来上がるまでわからなかったなんて、本当にニンゲンはバカだな！」
+【Ibara】「O-of course, that's natural! Not knowing that before you put it on me, Human is really stupid!」
 
-イバラは文句を言いながらも上機嫌で、俺に花冠を返してきた。
+Ibara returned the crown while complaining good-naturedly.
 
-「いらないの？」
+「You don't want it?」
 
 #voice ibab0108
-【Ibara】「ふん！　かぶってやるから、もう一度ボクの頭に乗せていいんだぞ」
+【Ibara】「Hmph! If you want me to wear it, put it on me again!」
 
-「はいはい」
+「Okay okay」
 
-イバラのお許しを頂いたので、俺は再び花冠をイバラの頭に乗せてあげた。
+With Ibara's permission, I placed the wreath on the Ibara's head again.
 
-まるで戴冠式だな。
+As if it was a coronation.
 
 #cg all clear
 
@@ -339,56 +339,56 @@
 
 
 #voice ibab0109
-【Ibara】「どうだ！？　似合うか、ニンゲン！？」
+【Ibara】「How's it!? Does it look good, Human!?」
 
-「とってもよくお似合いですよ」
+「It looks exceedingly good, your highness」
 
-俺も悪乗りして従者風に膝を折って見せると、イバラは自慢げに笑った。
+When I played along and got on one knee, Ibara laughed proudly.
 
-花冠を頭上に掲げたイバラは、お世辞抜きで花の国の王子様か何かに見えた。
+Wearing the wreath, it was no exaggeration to say that Ibara looked like a prince of a land of flowers.
 
-元から、エルフたちの中でも高飛車だし、少し身分が高そうな感じはするもんな。冠が似合うわけだ。
+In the first place, he was the highest race of the elves and carried himself with high status. No wonder the crown looks fitting.
 
-そういえば、イバラは花の紋章を持つエルフなんだっけ？
+Speaking of which, Ibara is an elf with the flower emblem?
 
-そりゃ、花がピッタリ似合うわけだ。
+Of course, flowers would fit him perfectly.
 
 #voice ibab0110
-【Ibara】「当たり前のことを言われても嬉しくなんてないけど、ニンゲンがわざわざ編んだものだからな。ニンゲンにしては悪くない出来だし」
+【Ibara】「I don't feel happy in the slightest to be told something so obvious, it is something that Human took the time to make. It's not bad for a human.」
 
-「これはお褒めに預かり恐悦至極」
+「It is my utmost pleasure to receive your compliment」
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 
 #voice ibab0111
-【Ibara】「ふふん」
+【Ibara】「Fufun」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 
 #voice hinb0118
-【Hinata】「ふわわわっ！　イバラがおうさまになってるっ！？」
+【Hinata】「Fuwawawa! Ibara has become a king!?」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0125
-【Konomi】「おぉ〜本当だ〜」
+【Konomi】「Oh‾ Really‾」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0077
-【Tsukiyo】「戴冠式です？　王様？　王子様？　どこの国を治めることになったです？」
+【Tsukiyo】「Coronation? King? Prince? Which country will you rule?」
 
-集まってきたエルフたちがうらやましそうに、イバラを見ている。
+The elves gathered and are looking at Ibara enviously.
 
-冠の効果なのか、少しばかり遠巻きにしているのが笑える。
+It's funny that they crowded around from a respectful distance, perhaps because of the crown.
 
 #cg all clear
 
@@ -401,60 +401,60 @@
 
 
 #voice ibab0112
-【Ibara】「この冠は、ボクのためにニンゲンが編んだんだ！」
+【Ibara】「Human made this crown for me!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0078
-【Tsukiyo】「ニンゲンさん、作ったです？」
+【Tsukiyo】「Human-san made it?」
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 
 #voice hinb0119
-【Hinata】「わわっ！　スゴーいねぇ、ニンゲンさん！」
+【Hinata】「Wawaa! That's amazing, Human-san!」
 
 ;FACE I10F2
 #face f_iba_0_10f2 94 466
 
 
 #voice ibab0113
-【Ibara】「別にこんなの欲しくなかったけど、あぁ。ボクに似合うだろうと貢がれてはつけてやらないわけにいかないだろ？」
+【Ibara】「It's not like I wanted this kind of thing. But I can't not wear it, can I? Since Human tributed it to me in awe of my greatness」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0126
-【Konomi】「え〜、イバラは欲しくなかったの〜？　じゃあ、ボクにちょ〜だい？」
+【Konomi】「Eh‾, Ibara doesn't want it‾? Then, give it to me‾?」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0120
-【Hinata】「ヒナタも！　ヒナタも、ほしい！」
+【Hinata】「Hinata too! Hinata wants it too!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0079
-【Tsukiyo】「欲しい、です」
+【Tsukiyo】「I want it.」
 
-あーあー、いつものつもりでイバラの奴うっかりした発言したな。
+Ahー ahー, Ibara made a careless remark as usual.
 
-そんなことを言えば、皆が欲しがるのはわかりきったことだろうに。
+Saying that sort of thing, of course everyone else would ask for it.
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0114
-【Ibara】「うわっ！　バカっ！　これはボクのだっ！」
+【Ibara】「Uwaa! Baka! This is mine!」
 
 ;背景：花畑（昼）
 ;BG BG11_1
@@ -462,18 +462,18 @@
 #bg bg11_1
 #wipe fade
 
-威張っているところに手が伸びて、イバラは慌てて逃げる。
+The haughty Ibara tried to flee in a hurry from the outreaching hands.
 
-その拍子に冠は落ちて、壊れてしまった。
+In that moment, the crown fell and broke.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0115
-【Ibara】「あぁっ！？」
+【Ibara】「Aaaa!?」
 
-「あ〜あ、変な自慢するから」
+「Aa‾Aa‾, because you boasted」
 
 ;FACE ON
 ;#face on
@@ -482,66 +482,66 @@
 #face f_hin_0_02f2 94 466
 
 #voice hinb0121
-【Hinata】「はやややややや、こわれちゃった」
+【Hinata】「Hayayayayayaya, it broke」
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0116
-【Ibara】「よ、よくも壊したなっ！　せっかくニンゲンがくれたのに！」
+【Ibara】「How dare you break it! Even though Human specially gave it to me!」
 
-イバラは欲しくなかったなんていってたくせに泣きそうな顔で怒り出した。
+Despite all he said about not wanting it, Ibara scolded in a face that was about to cry.
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0080
-【Tsukiyo】「ご、ごめんなさいです」
+【Tsukiyo】「I am sorry.」
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0127
-【Konomi】「ごめーんね〜？」
+【Konomi】「Sor‾ry‾?」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0117
-【Ibara】「あ、謝っても……」
+【Ibara】「Aa, even if you apologize...」
 
-イバラが癇癪を起こしそうになっているのを見て、俺は慌てて割って入った。
+Seeing Ibara was about to throw a tantrum, I interrupted in in a hurry.
 
-「そこまで。怒るほどのことじゃないよ。花冠は頑丈に留めて作るものじゃないから、壊れやすいんだ。その代わりすぐ直せるから」
+「That's enough. It's not something to be angry about. The wreath is easily broken because it is not firmly fastened. On the other hand, it is easily fixed」
 
-今にも泣き出しそうなイバラの頭をぽんと叩いて、俺は花冠を拾い上げた。
+Hitting Ibara's head with a 'pon', I picked up the wreath.
 
-さっきイバラが編んでいた花の塊があるし、ここは花畑だし、材料や補強には事欠かない。
+There is the mass of flowers that Ibara was knitting earlier, and since this is a flower garden, there is no shortage of materials.
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0118
-【Ibara】「本当！？　直せるのか？」
+【Ibara】「Really!? It can be fixed?」
 
-「うん、直せるよ。だからこんなことで怒らないの。誰が悪いわけでもなく、落っこちちゃっただけなんだし」
+「Yep, it can be fixed. So don't be angry at this. No one is at fault here, it just fell to the ground」
 
 #voice ibab0119
-【Ibara】「う、うん」
+【Ibara】「O-Okay」
 
-「よし、いい子だ。さっきよりもかっこよくなるようにするからね」
+「Good, good boy. I'm make it even cooler than before」
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0120
-【Ibara】「ん……なら許してやる」
+【Ibara】「Nn... then I'll forgive you」
 
 ;SMODE 011 STOP
 #endscene
@@ -550,67 +550,67 @@
 #cg all clear
 #wipe fade
 
-ぐしぐしと腕で目元を拭うイバラの頭をもう一度撫でてやりながら、俺はエルフたちを見渡した。
+While I was stroking his head, Ibara wiped his eyes with his arms, and I looked over to the other elves.
 
-「ヒナタも、コノミも、ツキヨも、花冠欲しい？」
+「Hinata, Konomi, Tsukiyo, do you want wreaths too?」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 
 #voice tikb0081
-【Tsukiyo】「ほしい、です」
+【Tsukiyo】「I want.」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0122
-【Hinata】「ほしい！　ほしい！」
+【Hinata】「I want! I want!」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0128
-【Konomi】「ボクもね〜、ないとずるいな〜、と、思うんだよ〜？」
+【Konomi】「Me too‾, I'll think it's unfair if I don't get one too‾, you know‾?」
 
-「それじゃ、作り方を教えてあげるからみんなで作ろうか」
+「In that case, I'll tell you how to make it, so let's make it together. 」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0123
-【Hinata】「ほほぅ！　つくりますかっ！」
+【Hinata】「Hoho! Let's make it!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0082
-【Tsukiyo】「が、がんばるです！」
+【Tsukiyo】「I'll work hard!」
 
 ;CHR K09F2 C
 #cg コノミ kon_1_09f2 中
 #wipe fade
 
 #voice konb0129
-【Konomi】「みんな、がんばってね〜」
+【Konomi】「Everyone, work hard‾」
 
-「ほら、コノミも作るの」
+「Hey, Konomi help out too」
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0130
-【Konomi】「え〜？　ボクも作るの〜？」
+【Konomi】「Eh‾? I have to make it too‾?」
 
-「嫌なの？」
+「You don't want to?」
 
 #voice konb0131
-【Konomi】「嫌じゃないよ〜？　そういう考え方もあるのか〜、と思っただけぇ〜」
+【Konomi】「I don't mind‾? I can make one too‾, I think‾」
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
@@ -619,16 +619,16 @@
 #wipe fade
 
 #voice ibab0121
-【Ibara】「ぼ、ボクも作るのか！？」
+【Ibara】「I-I'll make one too!?」
 
-「イバラはさっきも作ったから、さっきよりずっと上手に作れると思うよ。だから、みんなにも教えてあげてね」
+「Since Ibara made one before, I think you can make it better than ever. So help teach everyone too, okay」
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0122
-【Ibara】「む……そうだな、先生がニンゲンだけじゃ心もとないからな。仕方ない、ボクもこいつらの先生になるぞ」
+【Ibara】「Mu... that's right, it's not assuring to only have a Human teacher. It can't be helped, I'll also be a teacher to these kids」
 
 ;CHR ON
 ;#cg on
@@ -638,25 +638,25 @@
 
 
 #voice hinb0124
-【Hinata】「おぉ！　イバラ、せんせい？」
+【Hinata】「Oo! Ibara, sensei?」
 
-「そうだぞー、イバラも先生になってくれるからな」
+「That's rightー, Ibara will also be a teacher」
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0123
-【Ibara】「ふん！　ありがたく思え！」
+【Ibara】「Hmph! Be thankful!」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0132
-【Konomi】「うん、ありがとぉ〜」
+【Konomi】「Okay, thank you‾」
 
-「はいはい。じゃ、材料はこのたくさん生えてるヨウセイノワタボウシを主に使います」
+「Okay okay. Now, I use the widely growing Fairy's Cotton Hat as the main material」
 
 ;CHR ON
 ;#cg on
@@ -666,30 +666,30 @@
 
 
 #voice hinb0125
-【Hinata】「おぉ！　ヨウセイノワタボウシ！」
+【Hinata】「Oh! Fairy's Cotton Hat!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0083
-【Tsukiyo】「この赤いのでもいいです？」
+【Tsukiyo】「Is this red one ok too?」
 
-「あぁ、赤いのでも白いのでも、要は曲げた時に折れにくくて細いやつがいいんだ」
+「Oh, red or white, it's more important that it's thin yet doesn't break when it's bent」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0126
-【Hinata】「じゃ、このせいたかのっぽのおはなではつくれないんだね！」
+【Hinata】「Then, this tall and huge flower can't be used!」
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0133
-【Konomi】「自分の顔よりお〜きなお花、頭にのっけたら重いんじゃないかな〜？」
+【Konomi】「A flower bigger than your face‾, won't it be heavy on your head‾?」
 
 ;CHR ON
 ;#cg on
@@ -699,14 +699,14 @@
 
 
 #voice hinb0127
-【Hinata】「そかー」
+【Hinata】「I seeー」
 
 ;CHR I02F2 L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0124
-【Ibara】「そうだぞ！　欲張ると、せっかく編んでも輪っかにならないんだぞ」
+【Ibara】「Exactly! If you're greedy, it won't form a loop even after all your weaving」
 
 ;CHR ON
 ;#cg on
@@ -716,35 +716,35 @@
 
 
 #voice hinb0128
-【Hinata】「おぉ、イバラせんせいっぽい……」
+【Hinata】「Oo, Ibara's like a teacher...」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0084
-【Tsukiyo】「すごい、です」
+【Tsukiyo】「That's cool.」
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0125
-【Ibara】「ふ、ふふん！　なんでもボクに聞いていいんだぞ！　こうやって、お花のとこでくるんてしていくんだ」
+【Ibara】「Fu, fuun! You can ask me anything! In this way, I twist this flower around the others」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0134
-【Konomi】「ほぉ〜う〜？」
+【Konomi】「Ho‾o‾?」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0126
-【Ibara】「さぁ、お前たちもやってみろ！」
+【Ibara】「Come on, you guys try it too!」
 
 ;CHR ON
 ;#cg on
@@ -754,18 +754,18 @@
 
 
 #voice hinb0129
-【Hinata】「わーい！　おーさま！　おーさまっ！」
+【Hinata】「Yay! King! Kingg!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0085
-【Tsukiyo】「がんばる、です」
+【Tsukiyo】「I will work hard」
 
-エルフたちはイバラの指揮の下、楽しそうに花冠を作り始めた。
+Under the Ibara's guidance, the elves began to make their wreaths happily.
 
-俺はそんな彼らの様子をしばらくの間、微笑ましく眺めていたのだった。
+At that spectacle, I smiled slightly.
 
 ;イバラ好感度+1
 #set f2 f2+1
