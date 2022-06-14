@@ -43,19 +43,19 @@
 #bg BG06_2
 #wipe fade
 
-村からの帰り道、歩きながら俺は売上を確認した。
+On the way back from the village, I checked my earnings while walking.
 
-「思ったより、いい値で売れたな」
+「It sold for a better price than I expected」
 
-エルフの里近くの花畑からとってきた花の中には、様子を見たところ一日ぐらいで枯れるわけでもなさそうなものもいくつかあった。
+Amongst the flowers from the flower bed near the elf village, there were some that seemed unlikely to wither within a day.
 
-季節も違うのに、あの花畑で育ったというだけで何か特別な力があるらしい。
+It seems the flower bed has a special power that allows flowers to grow in a different season.
 
-だから、改めて採ってきた花と細工物を村に売りに行ったのだけど、娯楽に飢えた村の連中は我先にと買ってくれた。
+When I went to the village to sell flowers that I went to pick again and crafts, the entertainment-starved villagers fought to buy from me first.
 
-もちろん金を出せるような裕福なものばかりじゃないから、そこは物々交換だったりと色々だ。
+Of course, they're not so wealthy to have money on hand, so it took a lot of bartering.
 
-粉、卵、蜜に菓子なんかも手に入ったから、これでしばらくは食生活が豊かになりそうだ。
+Since I received flour, eggs, and honeyed sweets, I will be eating luxuriously for a while.
 
 ;BGMch2 amb004  再生
 #bgvoice amb004 
@@ -66,7 +66,7 @@
 #bg BG07b_1
 #wipe fade
 
-「はい、手を出して」
+「Here, hold out your hands」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
@@ -75,10 +75,10 @@
 #wipe fade
 
 #voice ibab0184
-【Ibara】「なんだ、この綺麗なの！？」
+【Ibara】「What, what is this beautiful thing!?」
 
 #voice hinb0203
-【Hinata】「ふわっ、キラキラしてるよ！？」
+【Hinata】「Fuwaa, it's sparkling!?」
 
 ;CHR OFF
 #cg all clear
@@ -91,20 +91,20 @@
 #wipe fade
 
 #voice konb0224
-【Konomi】「遊ぶもの〜？」
+【Konomi】「Is it a toy‾?」
 
 #voice tikb0195
-【Tsukiyo】「……ちょっと、ぺとぺとしてるです」
+【Tsukiyo】「...it's a little sticky」
 
-食事を済ませた後、エルフたちが遊びに来たので、今日手に入れた飴を振舞うことにした。
+After finishing a meal, the elves came to play, so I decided to entertain them with the candy I got today.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-エルフたちは基本的に飲食はしないらしいけど、お茶みたいな嗜好品なら少しは口にするからな。
+The elves basically do not eat or drink, but if it's luxury items like tea, they'll consume a little.
 
-肉や魚はともかく、お菓子の類なら食べるかもしれない。
+Aside from meat and fish, they might eat sweets.
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
@@ -112,7 +112,7 @@
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
-エルフたちは飴を見たことがないのか、不思議そうな顔で眺めている。
+The elves look at the candy with puzzled faces, having not seen candy before.
 
 「口に入れてごらん」
 
@@ -121,28 +121,28 @@
 #wipe fade
 
 #voice ibab0185
-【Ibara】「えー？　ニンゲンがもってきたものなんだから、毒かも！？」
+【Ibara】「Ehー? It's something that Human brought, is it poison!?」
 
-「毒なんかじゃないってば」x
+「It can't be poison」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0225
-【Konomi】「口に入れると〜気持ちいい〜？」
+【Konomi】「If I put it in my mouth‾ Will it feel good‾?」
 
-あまりよろしくない期待に溢れた顔でコノミが見上げてくる。
+Konomi looks up with a face brimming with immoral expectation.
 
-「玩具でもないよ。いいから食べてみなって」
+「It's not a toy either. Anyhow, try eating it」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0196
-【Tsukiyo】「食べる、です？」
+【Tsukiyo】「To eat it?」
 
-食べる、という言葉に反応したのかイバラが頬を膨らませた。
+Ibara puffed his cheeks at the word 'eat'.
 
 ;CHR OFF
 #cg all clear
@@ -153,24 +153,24 @@
 #wipe fade
 
 #voice ibab0186
-【Ibara】「エルフは完全な生き物だから、他の命を奪うようなことをしなくても生きていけるんだぞ。だから、何かを食べる必要なんかない」
+【Ibara】「Elves are perfect creatures, we don't have to take other lives to live. So there is no need for us to eat」
 
-「だからって、何も食べられないってわけでもないんだろ？」
+「Even if that's so, it's not as if you can't eat anything at all, right?」
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0226
-【Konomi】「まぁ、ねぇ〜。ボクも〜果物なんかは〜好きだよ〜？　でもぉ〜これぇ〜透明だけど種みたいに硬いよぉ〜？」
+【Konomi】「Well, that's true‾. I also like eating fruits‾. But this thing is transparent and as hard as a seed‾?」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0197
-【Tsukiyo】「甘いの、美味しいです……でも、硬いの、渋いです」
+【Tsukiyo】「It's sweet and delicious... But it's hard and numbs the tongue」
 
-「果物ならそうだけど。甘いのが好きなら、喜んでもらえると思うんだけどなぁ」
+「That's the case with fruits. If you like sweets, I think you'll be delighted with this」
 
 ;CHR OFF
 #cg all clear
@@ -181,54 +181,54 @@
 #wipe fade
 
 #voice hinb0204
-【Hinata】「んー、でもぉ……」
+【Hinata】「Nnnー, still...」
 
-見慣れないものを口にするのに抵抗があるのか、戸惑いながら手にした飴を眺めている皆の中でヒナタが最初に行動に出た。
+While they stared at the candy in their hands confused, feeling resistant to putting something unfamiliar in their mouths, Hinata was the first to act.
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0205
-【Hinata】「ニンゲンさんがくれたんなら、ヒナタたべてみる！　えいっ！」
+【Hinata】「If it's something Human-san gave me, Hinata will try eating it! Eii!」
 
-勢いよく口に放り込むものだから、俺の方が慌ててしまう。
+Hinata tosses it entirely into his mouth and I panic instead.
 
-「ひ、ヒナタ？　飲むんじゃないぞ。口の中で転がすんだ」
+「H-Hinata? Don't swallow it. Roll it in your mouth」
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
-;「口の中で転がす？」
+;「口の中で転がす?」
 #voice hinb0206
-【Hinata】「くひのなふぁでろろがふぅ……？」
+【Hinata】「Roll it in my mouth (muffled)...?」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0187
-【Ibara】「だ、大丈夫か、ヒナタ……」
+【Ibara】「A-are you okay, Hinata...」
 
 #voice hinb0207
-【Hinata】「もごもご……」
+【Hinata】「Mogo mogo (candy sounds)...」
 
-ヒナタが口に放り込んだのをイバラたちが心配そうに見つめている。
+Ibara and the rest watched Hinata worriedly.
 
-しかし、そんなイバラたちの心配とは裏腹に、ヒナタはぱっと明るい笑みを浮かべた。
+However, contrary to their worries, a bright smile appeared on Hinata's face.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0208
-【Hinata】「ほぉおおおおお！？　なにこれ！？　あまぁーいっ！」
+【Hinata】「Hooooooooooo!? What's this!? SWEEEEET!」
 
-やはり飴はエルフの口に合うようだ。気に入ってくれたのか、ヒナタはぴょんぴょん飛び跳ねている。
+As I thought, it's to the elves' liking. Seeming to like the taste, Hinata hops like a rabbit.
 
-俺はほっと胸をなでおろしながら説明した。
+Relieved, I started to explain.
 
-「花とか、木とかで、甘い汁が出るのがあるだろ？　それをよーく煮詰めたものだよ」
+「Don't flowers and wood have sweet sap? This is something that has been heated under strong flame」
 
 ;CHR OFF
 #cg all clear
@@ -241,70 +241,70 @@
 #wipe fade
 
 #voice ibab0188
-【Ibara】「煮詰めただけでこんなに硬く種みたいになるのか！？」
+【Ibara】「After heating, it becomes so hard!?」
 
-「煮詰めるって言っても、焦がさないように気をつけながら、じっくり時間をかけて練り上げていくらしいけど……」
+「Though I say heated, it seems to be made through slow and careful kneading while being careful not to burn it...」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0189
-【Ibara】「むむむ、人間はそんな技術を持っているのか」
+【Ibara】「Mumumu, humans have such technology?」
 
-イバラはむしろ製法に興味がいったみたいで難しい顔になって飴を睨んでいる。
+Ibara stares at the candy with a thoughtful face, more interested in the manufacturing method instead.
 
 ;CHR H06F1 L
 #cg ヒナタ hin_1_06f1 左
 #wipe fade
 
 #voice hinb0209
-【Hinata】「むずかしいおはなしはあとにしてたべなよ、すっごくおいしいんだよ！」
+【Hinata】「Leave the difficult talk for later, try eating it, it's really delicious!」
 
 ;CHR I08F R
 #cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibab0190
-【Ibara】「で、でも……」
+【Ibara】「B-but...」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0210
-【Hinata】「たべないんなら、ヒナタのだよ！」
+【Hinata】「If you're not eating it, it's Hinata's!」
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0191
-【Ibara】「ダメ！　こんなにキレイなもの、ボクのほうが似合うに決まってるだろ！　紐をつけて飾りにする！」
+【Ibara】「No! Such a beautiful thing definitely looks better with me! I'll tie it to a string for decoration!」
 
-「うーん、飾りにすると、もっとべたべたになっちゃうと思うよ。虫も寄ってきそう」
+「Mmm, if you use it as decoration, it'll become more sticky. It'll also attract insects」
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0192
-【Ibara】「えぇ！？　む、虫が！？」
+【Ibara】「Ehh!? I-insects!?」
 
-「虫って甘いのが好きなんだよ。美味しい蜜がある花は虫に大人気だろ」
+「Insects like sweet things. Flowers with delicious honey are especially popular among insects」
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0193
-【Ibara】「う、うぅ……こんなに綺麗なのに」
+【Ibara】「Uuuu... although it's so pretty」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-イバラが嫌そうに飴を持った手を身体から遠くに離したりしてる間に、ツキヨは覚悟を決めたようだ。
+When Ibara was about to drop the candy a distance away from himself in aversion, Tsukiyo seems to have made a decision.
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
@@ -313,59 +313,59 @@
 #wipe fade
 
 #voice tikb0198
-【Tsukiyo】「……えいっ」
+【Tsukiyo】「...Eii」
 
 #voice konb0227
-【Konomi】「ぱく」
+【Konomi】「Chomp」
 
-ツキヨに続いてコノミも飴を口に放り込んだ。
+Following after Tsukiyo, Konomi also threw the candy into their mouth.
 
-たかが飴を食べるのに、そんなに決死の覚悟をしなくても……。
+It's just eating candy, you don't have to be prepared to die....
 
-そしてふたりの緊張した表情は驚愕へと塗り替えられる。
+And the two nervous expressions are replaced by astonished ones.
 
 ;CHR T06F_L L
 #cg ツキヨ tuk_1_06f_l 左
 #wipe fade
 
 #voice tikb0199
-【Tsukiyo】「ふ、ふわわわわわわ！」
+【Tsukiyo】「Fu, fuwawawaawawa!」
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0228
-【Konomi】「おぉ〜う……」
+【Konomi】「Oou‾...」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0211
-【Hinata】「ね？　ね？　あまーいでしょ！？」
+【Hinata】「Ne? Ne? It's sweet isn't it!?」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0229
-【Konomi】「うん、あまーいね〜」
+【Konomi】「Yep, sweet‾」
 
-ツキヨもコノミも、蕩けたような顔で、幸せそうに頬に手を当てている。
+Tsukiyo and Konomi happily clasped their cheeks with a blissful face.
 
-そして、視線はやがて飴を持ったイバラの手へと向く。
+And their gaze turns towards the candy in Ibara's hand.
 
 #voice konb0230
-【Konomi】「ねぇ、イバラ〜。食べないなら、ボクにちょうだい〜」
+【Konomi】「Ne, Ibara‾. If you're not eating it, give it to me‾」
 
 ;CHR T09F L
 #cg ツキヨ tuk_1_09f 左
 #wipe fade
 
 #voice tikb0200
-【Tsukiyo】「……」
+【Tsukiyo】「...」
 
-ツキヨも何も言わないが、ちらちらと羨ましそうにイバラとその手を見ている。
+Tsukiyo doesn't say anything, but he peers at Ibara's hands enviously.
 
 ;CHR OFF
 #cg all clear
@@ -376,20 +376,20 @@
 #wipe fade
 
 #voice ibab0194
-【Ibara】「ダメ！　これはボクがもらったんだからな！　う、うぅ……はむっ……んんっ！？」
+【Ibara】「No! This is something I got! Uuuu... Hamu...Nnnnn!?」
 
-「美味しい？」
+「Is it delicious?」
 
-俺が声をかけると、ぼうっと甘味に酔いしれていたイバラが慌てたように唇を尖らせた。
+At my voice, Ibara, who was drunk on the candy's sweetness, pursed her lips in a hurry.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0195
-【Ibara】「おい、ニンゲン。こんなに美味しいもの、今までなんで隠していた！？」
+【Ibara】「Oi, Human. Why have you been hiding such a delicious thing!?」
 
-「隠してたわけじゃないってば」
+「It's not like I was hiding it」
 
 ;CHR OFF
 #cg all clear
@@ -400,7 +400,7 @@
 #wipe fade
 
 #voice tikb0201
-【Tsukiyo】「こんな美味しいもの、あったんです？」
+【Tsukiyo】「There was such a delicious thing?」
 
 ;CHR OFF
 #cg all clear
@@ -411,7 +411,7 @@
 #wipe fade
 
 #voice konb0231
-【Konomi】「残りの飴は、誰にあげるの〜？」
+【Konomi】「Who are you giving those remaining candy‾?」
 
 ;CHR OFF
 #cg all clear
@@ -422,25 +422,25 @@
 #wipe fade
 
 #voice hinb0212
-【Hinata】「ヒナタもうたべちゃったよ！」
+【Hinata】「Hinata has already eaten his!」
 
-残りの飴を見て、もっと欲しそうにエルフたちがまとわりついてくる。
+Looking at the rest of the candy, the elves clamour around me for more.
 
-「あぁ、ほら。俺にもふたつ、お前たちにもあとひとつづつ、これでおしまい」
+「Aaa, hey. I'll take two, and each of you take one more, and that's all there is」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-俺は飴を配ると、残りが奪い合いにならないようにふたつまとめて口に放り込んだ。
+After I distribted the candy, I put the remaining two in my mouth so that the rest would not fight over it.
 
-危ない危ない。蜜は隠しておいて正解だった。
+Dangerous, dangerous. I was correct to hide the honey.
 
-きっとあったらなくなるまで舐めちゃうぞ、この子達。
+If they knew where it was they'll be sure to lick till it's gone, these children.
 
-しかし、こうやって喜んでる顔を見るとこっちまで幸せになるな……。
+But, they made such happy faces that even I felt blissful....
 
-村で手に入れてきた帳面とインクを取り出すと、それにエルフたちは飴を好むと書き付けておいた。
+I took out the notebook and ink I got from the village, and wrote that the elves liked candy.
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
@@ -449,68 +449,68 @@
 #wipe fade
 
 #voice tikb0202
-【Tsukiyo】「何してるです？」
+【Tsukiyo】「What are you doing?」
 
-「あぁ、大事な発見があったから書き留めたんだよ」
+「Aaa, I made a huge discovery, so I jotting it down」
 
 #voice tikb0203
-【Tsukiyo】「大事な発見、です？」
+【Tsukiyo】「A huge discovery?」
 
-「エルフは飴が好きなことがわかったから、それを記しておいたんだ」
+「I found out that elves like candy, so I recording that down」
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0196
-【Ibara】「それが大事なことか？」
+【Ibara】「Is that something important?」
 
-「大事なことだよ。書いておけば忘れることもないし、この本をほかの人間が読んだら、エルフは飴が好きだって知ることができるだろう？」
+「It is. If I write it down I won't forget, other people can read this book to learn that elves like candy」
 
 ;CHR I11F1 R
 #cg イバラ iba_1_11f1 右
 #wipe fade
 
 #voice ibab0197
-【Ibara】「……はっ！？　そうやって、ニンゲンはエルフに罠を仕掛ける気なんだな！？」
+【Ibara】「...Huh!? You intend to set a trap for elves!?」
 
-「そんなことしないよ。ただ、俺の他にもエルフと仲良くなりたい人間が出てきた時に役に立つかもしれないだろ？」
+「I won't do that. But it might be useful for other people who want to get along with elves」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0213
-【Hinata】「こんなおいしいのくれるのは、きっといいにんげんさんだけとおもうなっ！」
+【Hinata】「Only good humans will give me something so good to eat!」
 
 ;CHR I11F2 R
 #cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0198
-【Ibara】「それはそうかもしれないけど……」
+【Ibara】「That may not be true...」
 
-……いや、その結論もどうかとは思うけど、ここで突っ込んだりすると説明がめんどくさいしなぁ……。
+...No, that's difficult to conclude, I thought, but if I interject here, it'll be troublesome to explain....
 
-「ここに沢山の本があるけど、本ていうのは生きてる人が他の人に大事なことを伝えるために色んなことを書き記しておくものなんだよ」
+「There are a lot of books here, but a book is something that a living person writes down in order to tell others of important things」
 
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tikb0204
-【Tsukiyo】「すごい、です」
+【Tsukiyo】「That's amazing」
 
-「俺もね、大事なことを沢山書き記しておかなくちゃと思ってさ」
+「I should write down a lot of important things too」
 
-この小屋に残された書物や日記を見る限り、前に住んでいたものはエルフなどの研究をしていたようだ。
+As far as the books and diaries left in this hut go, the previous resident seemed to have been researching elves.
 
-俺もそれに触発されて、エルフたちとの生活を書き記しておこうと思う。
+Inspired by that, I thought to write of my life with the elves.
 
-一緒に過ごせる時間が限られているというなら、なおさらこの不思議な時間を後世に伝えておきたい。
+If our time together have is limited, even more so that I wish to pass on this strange tale to future generations to consume. 
 
-もっとも、俺のようなものが記した記録がどれだけ残るかはわからないけど。
+Even though, I don't know how much of my records will remains.
 
-それでも、いずれなにかの役に立つかもしれないと思うと愉快だ。
+Even so, I'm happy to think that it might be useful the future.
 
 ;CHR OFF
 #cg all clear
@@ -521,27 +521,27 @@
 #wipe fade
 
 #voice konb0232
-【Konomi】「他にはどんなこと書いてるの〜？」
+【Konomi】「What other things are you writing‾?」
 
-「残されてた本から変わってたこととか、新しく見つけた草木や、動物なんかも書き留めてるよ」
+「I'm writing down what has changed compared to the previous books, new plants and animals I found.」
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0233
-【Konomi】「へ〜？　でも、草も木も動物も、時間が経つといるところ変わっちゃったりするよ〜？」
+【Konomi】「Eh‾? But the grass, trees and animals will change as time passes‾?」
 
-「それもそれで、どうしてそんな変化が起きたのか知るための手がかりになるからさ。ここにあった印を残しておくのも大事なことなんだよ」
+「Even if that's the case, it could become a clue to why that change occured. It's also important to leave a mark that it happened in this time.」
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0234
-【Konomi】「ふぅ〜ん？　ニンゲンくんて不思議なことするんだね〜？　新しく見つけても昔にあっても、今なければないものはないのに……」
+【Konomi】「Fuun? Human-san is doing something strange‾? Whether it's something new or something from the past, there's nothing that will stop existing if it is not here...」
 
-コノミは心底不思議そうに首をかしげた。
+Konomi tilts his head with curiosity bubbling from the bottom of his heart.
 
 ;CHR OFF
 #cg all clear
@@ -554,14 +554,14 @@
 #wipe fade
 
 #voice hinb0214
-【Hinata】「あめおいしかったのはかわんないとおもうなっ！　また、あめかってきてね、ニンゲンさん！」
+【Hinata】「That deliciousness will not change! Please buy sweets again okay, Human-san!」
 
-「あぁ」
+「Aaa」
 
 #voice ibab0199
-【Ibara】「約束だぞ！」
+【Ibara】「It's a promise!」
 
-楽しそうに騒ぐエルフたちを眺めながら、俺は帳面を閉じた。
+While looking at the elves who were making noise, I close the notebook.
 
 ;CHR OFF
 #cg all clear
@@ -587,31 +587,31 @@
 #bg BG07b_1
 #wipe fade
 
-「ふわぁああああああ〜」
+「Fuwaaaaaaaaaaa‾」
 
-翌朝目覚めると、エルフたちの姿はなかった。
+When I woke up the next morning, I did not see any elves.
 
-夜はここで寝なかったのか、もう起き出して遊びにいったのか。
+Perhaps they did not sleep here at night, perhaps they went out to play?
 
-半分どころかほとんど同居しているようなものなのに、いまだエルフたちの生態はようとして知れない。
+Although it's almost as if I'm living together with the elves, the elf's ecology is still unclear.
 
-この数日で確実にわかったことといえば、エルフとは気まぐれで突然現れるものであるということぐらいだ。
+One of few things I've found out from the past few days is that an elf suddenly appears on a whim.
 
-「しかし、今日は奴らが居なくて好都合、かな？」
+「But it might just be convenient not to have them here today」
 
-俺は身支度を済ませると、村から買って来た粉類を取り出しながら呟いた。
+After I got dressed, I mumble while taking out the flour.
 
-――昨日の飴からもわかるように、エルフも嗜好品なら多少は口にする。
+As you can tell from yesterday's candy, if it's a luxury item, even elves will eat a little.
 
-しかし、飴は蜜を煮詰めたもので、ようするに濃い蜜に過ぎない。
+However, the candy is formed by thickening honey, in other words it's just concentrated honey.
 
-基本的に肉や魚は食べないようだが、それは単に好き嫌いの問題なのか、穀物は食べるのか、卵ならどうか？
+Basically they don't seem to eat meat or fish, but is it simply a matter of likes and dislikes? Do they eat cereals, what about eggs?
 
-そのあたりの疑問は尽きない。
+These questions are endless.
 
-そこで今日は焼き菓子をこしらえることにしたのだ。
+So today we decided to make baked sweets.
 
-……単にお菓子なら食べそうだっていうだけの思いつきなんだけど。
+...The thought that the elves will simply eat them all up if we make sweets arises in me.
 
 ;暗転
 ;#face off
@@ -626,17 +626,17 @@
 #bg BG07b_1
 #wipe fade
 
-「しかし本当に連中がいなくてよかったよ。こういう作業は邪魔が入るとやりづらいからな……」
+「But I'm really glad that they're not here. It's hard to do this kind of work if they interfere...」
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 #voice hinb0215
-【Hinata】「じゃまー？」
+【Hinata】「Interfereー?」
 
-「うっ」
+「Uu」
 
-木の実を砕き終わり、粉を出して山にしたところで、ヒナタが飛び込んできた。
+After grinding the nuts, pouring the flour out into a miniature hill, Hinata jumped in.
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
@@ -645,10 +645,10 @@
 #wipe fade
 
 #voice hinb0216
-【Hinata】「おぉっ！？　またニンゲンさん、おもしろいことする！？」
+【Hinata】「Oooo!? Human-san is doing something interesting again!?」
 
 #voice konb0235
-【Konomi】「面白いこと〜？　なになに〜？」
+【Konomi】「Something interesting? What's it what's it‾?」
 
 ;CHR OFF
 #cg all clear
@@ -661,76 +661,76 @@
 #wipe fade
 
 #voice ibab0200
-【Ibara】「何をやらかす気だ！」
+【Ibara】「What are you planning to do!」
 
 #voice tikb0205
-【Tsukiyo】「また、何かするです？」
+【Tsukiyo】「Again, what are you doing?」
 
-しまった、コノミにイバラ、ツキヨまで来ちゃったよ。
+Oh no, Konomi, Ibara and even Tsukiyo have arrived.
 
-集まる前に作業を済ませてしまいたかったのにな。
+Even though I wanted to finish my work before they gathered.
 
-「何でもないから」
+「It's nothing」
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0201
-【Ibara】「むー！　ニンゲンの行動が怪しいとボクの勘が告げている！」
+【Ibara】「Muー! My instinct is telling me Human is doing something suspicious!」
 
-「本当に何でもないって。人間はご飯食べなきゃいけないだろ？　その支度をしてるだけ」
+「It's really nothing. Don't humans have to eat? I'm just preparing that」
 
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 
 #voice tikb0206
-【Tsukiyo】「ごはん、です？」
+【Tsukiyo】「Food?」
 
-「そうそう、ご飯作るときの匂いは苦手だろ？　外で遊んでおいで」
+「Yes yes, aren't you bad with the smell of cooking food? Go outside to play」
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0207
-【Tsukiyo】「……いつもと違うことしてて、気になるです」
+【Tsukiyo】「...You're doing something different than usual, I am curious」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0236
-【Konomi】「そだね〜。いつもだったら、お鍋出して〜くさいの煮るんだよね〜？　でも、今日はくさいのないよ〜？」
+【Konomi】「That's right‾. Usually, you'll take out the pot‾ and boil something smelly‾? But today there's nothing smelly‾?」
 
-くっ……どうやら興味を引いてしまっているらしい。
+Kuu...it seems I've caught their interest.
 
-「そ、そう？　人間なら別に珍しくもないことをしてるだけなんだけどなぁ」
+「I-is that right? I'm doing something not unusual for humans.」
 
-俺はなるべくめんどくさそうに、粉に卵と油、蜜、それに砕いた木の実などを加えて捏ね上げていく。
+I add eggs, oil, honey, and crushed nuts to the flour and knead it with as little motivation as possible.
 
-楽しそうに作業をすると、途端に手出ししてくるからなぁ……。
+If I work happily, I'll show my hand immediately....
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-作り方は粉屋の奥さんに聞いてきたが、俺自身お菓子なんて作るのは初めてだ。
+I asked the wife of the flour shop about how to make it, but this is my first time making sweets.
 
-なんでもお菓子の方が麺麭よりは作るのは簡単らしい。
+In any case, it seems easier to make sweets than noodles.
 
-卵や蜜や油の水分を吸った粉はあっという間にまとまってぽろぽろした塊になっていく。
+The flour that absorbs the moisture of eggs, honey, and oil quickly becomes a grainy mass.
 
-しかしこの粉を練るときのネットリした感触は、なんというか、その……気持ちいいような……。
+However, the gummy feeling when kneading the flour somewhat feels good...
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0217
-【Hinata】「ほぉおおおお！？　こながどろんこみたくなった！？」
+【Hinata】「Hoooooooo!? The powder has dissolved!?」
 
-「こら！　食べるものなんだから、汚い手で触るなって。触りたければ手を洗ってきてよ」
+「Hey! It's food, don't touch it with dirty hands. If you want to touch it, wash your hands first」
 
 ;CHR OFF
 #cg all clear
@@ -741,9 +741,9 @@
 #wipe fade
 
 #voice tikb0208
-【Tsukiyo】「洗ってきたら、触っていいです？」
+【Tsukiyo】「If I wash my hands, can I touch it?」
 
-「あ、しまっ……」
+「Ah, Oh no...」
 
 ;CHR OFF
 #cg all clear
@@ -754,7 +754,7 @@
 #wipe fade
 
 #voice konb0237
-【Konomi】「わーい、じゃあ洗ってこよ〜？」
+【Konomi】「Yay, I'll go wash my hands‾?」
 
 ;CHR OFF
 #cg all clear
@@ -765,11 +765,11 @@
 #wipe fade
 
 #voice hinb0218
-【Hinata】「おー！」
+【Hinata】「Yeah!」
 
-しまった……すっかり手を出す気マンマンにさせてしまった……。
+Oh no... now they have full intent on touching it....
 
-俺はがっくりと肩を落としながら、せめて被害が最小限になるように急いで作業を進めたのだった。
+While dropping my shoulders in disappointment, I rushed my work to at least minimize the damage.
 
 ;CHR OFF
 #cg all clear
@@ -793,62 +793,62 @@
 #bg BG07b_1
 #wipe fade
 
-「焼けた……かな？」
+「Is it done baking...?」
 
-作り始めにヒナタたちの『お手伝い』が入るという事態は発生したものの、なんとか形になりそうだ。
+Although Hinata's and the others' "help" intervened near the beginning, the sweet seems to have somehow taken form.
 
-途中までは上手くいってたんだよ、途中までは……。
+It was going so well halfway, only up till halfway....
 
-ちなみに小さく丸めていくあたりまではヒナタたちも手伝ってくれていたんだけど、今はすっかり飽きてしまってどこかに遊びに出てしまっている。
+By the way, Hinata was helping me shape it into a small rounded ball, but he became tired of it and went out to play elsewhere.
 
-「まさか、火加減でここまで苦戦するとはなー」
+「I did not think that controlling the heat would be this challenging」
 
-お菓子ってやつは蜜が入っているせいか、ひどく焦げやすい。
+The sweets are very easy to burn, probably because they contain honey.
 
-同じぐらいの大きさに揃えるのが必要になるわけだ。
+It became necessary to adjust them to the same size.
 
-かといって、あまり火から遠ざけるとでろっと広がってくっつきあってしまい、よくわからないものになる。
+Even then, if I keep it too far from the heat, it will expand and stick together, it's something I do not really understand.
 
-早めに引き上げれば、中は生焼けのもちゃもちゃした粉っぽい塊になってしまう。
+If I take it out early, the center will be a raw and mushy powdery lump.
 
-こんなもの、粉屋の奥さんとかよく器用につくるものだ。
+This is something that the wife of the flour shop skillfully makes.
 
-これより難しいって麺麭を作るのってどれだけ特殊な技術が必要なんだよ。
+How specialized a technique is required in making noodles, which is more difficult than this.
 
-「ははは、朝からやってたのにもう日が傾いちゃってるよ」
+「Hahaha, I've been doing it since morning, but the sun has already set.」
 
-初めて作るものだから、多少の苦戦は覚悟してたけど、ここまで苦労させられるとは思わなかった。
+It's my first time making it, so I was prepared for a little challenge, but I didn't think it would be so hard.
 
-俺は焼きあがったばかりの、色だけはいいきつね色のそれを、恐る恐る口に運んだ。
+The ones I just baked, are a nice golden color. I bring it to my mouth fearfully.
 
-とたんにほろりと崩れていく。
+It breaks easily with a crumble.
 
-「ん……これは」
+「Nn... this is」
 
-ちゃんと火が通っていて香ばしいけど、なおかつ真っ黒には焦げていない。
+It's cooked properly and it's fragrant, moreover, it's not burnt black.
 
-「おぉ、なかなか……」
+「Oo, not bad...」
 
-そりゃ、昔、子供の頃に母親が焼いてくれた菓子や、村の女たちが分けてくれた菓子なんかと比べたらはるかに不格好だし味も劣るかもしれないけど。
+Of course, it is clearly misshapen and inferior in taste to those that my mother baked when I was a child and given out by the village women in the past.
 
-十分、美味しく焼けている。
+But this is delicious enough.
 
-コツは掴んだし、残りの生地はそれほど苦労なく焼き上げられるだろう。
+I've grasped the knack for it, and the remaining ingredients can be baked without much difficulty.
 
-かなり無駄にしてしまったが、とてつもない達成感だ。
+A lot have gone to waste, but it's an incredible sense of accomplishment.
 
-「こんな時に限って、どうして誰もいないかな……」
+「I've spent this much time, but why is there no one here...」
 
-なるほど、美味しく作れると他人にも食べさせたくなるものだ。特にこれだけ苦労した結果ともなれば。
+Indeed, upon making delicious food, one'll want to feed others. Especially if it's the result of such gruelling hard work.
 
-綺麗に焼けたものを皿に乗せながら俺が一番に思い浮かべたのは……。
+The person that first came to mind while putting my beautifully baked sweets on a plate...
 
 ;・選択肢発生
 #select a b c d
-Ａ：ヒナタ
-Ｂ：イバラ
-Ｃ：コノミ
-Ｄ：ツキヨ
+Ａ：Hinata
+Ｂ：Ibara
+Ｃ：Konomi
+Ｄ：Tsukiyo
 
 #label a
 #next b03h top
