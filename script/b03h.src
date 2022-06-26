@@ -3,17 +3,17 @@
 ;背景：山小屋（昼）
 ;b03引き続き
 
-やっぱり一番派手に反応してくれそうなヒナタに食べさせてみたいな。
+I want Hinata to try it, after all he seems he'll give the most exaggerated reaction.
 
-気に入ったら、いい表情も見せてくれそうだ。
+If he likes it, I'll get to see a great expression on his face.
 
-ヒナタは楽しい時は楽しいって全身で表現してくれるから、一緒にいて気持ちがいい。
+Hinata expresses his joy excessively through his body, so I feel happy when I'm with him too.
 
-飴玉も最初に口に入れていたし、比較的人間の食べ物に一番抵抗なそうなのは、半分人間の血を継いでいるからなんだろうか。
+He was also the first to put the candy in his mouth, and seems to be the least resistant to human food. Maybe because he has half-human blood.
 
-……ふむ。だとすると、やはりエルフが食べられるものを調べるのには、最初にヒナタに頼むのが適切なのかもしれないな。
+...Fumu. If that's the case, it may be appropriate to have Hinata try it first to find out what the elf can eat.
 
-そんなことを考えながら、次のお菓子を焼こうと準備をしていると、ヒナタが戻ってきた。
+While I thought that, Hinata returned as I was about to bake the next batch of sweets.
 
 ;FACE ON
 #face on
@@ -23,159 +23,159 @@
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
-「お、おかえりー。丁度今、お菓子を焼くのに成功したところなんだ」
+「Oh, welcome back. Just in time, I've successfully finished baking these sweets」
 
 #voice hinb0219
-【Hinata】「せいこうしたの！？　くんくん、くんくん……おぉお、なんかいいにおいするね！　おぉ！　まっくろこげこげじゃないおかしがやけてる！」
+【Hinata】「Successfully!? Sniff, sniff... Ohh, it smells good! Ohh! It's not black or burnt!」
 
-「さっきまでは火加減とか時間とか良くわからなかったからなー。これで感じは掴めたから残りの生地はちゃんと焼けると思う。いや勉強になったよ」
+「That's because I wasn't sure how to control the heat until a while ago. I've gotten a feel of it, so the remaining sweets should turn out fine. It's been a learning experience」
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0220
-【Hinata】「ニンゲンさん、ものしりなのにまだおべんきょうするの！？」
+【Hinata】「Human-san is a knowledgable person, but is still learning!?」
 
-「物知りってこともないよ。お菓子の作り方もそうだし、知らないことは勉強しないとね」
+「I don't know everything. Just like this method to make sweets, I have to learn what I don't know.」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0221
-【Hinata】「そかー、ニンゲンさんはがんばりやさんだ！　いろんなことしってるのに、もっとおべんきょうするんだもん！」
+【Hinata】「I get it, Human-san is doing his best! Even after doing a lot of things, Human-san is going to learn more!」
 
-「よせよ、そんなになんのてらいもなく褒められると恥ずかしいよ」
+「Oh stop it, your unassuming praise is making me embarrassed.」
 
 ;CHR H08F2 C
 #cg ヒナタ hin_1_08f2 中
 #wipe fade
 
 #voice hinb0222
-【Hinata】「ニンゲンさんほめられたらはずかしいの？　ヒナタはほめてもらったらうれしいよっ！？」
+【Hinata】「Human-san is embarrassed when praised? But Hinata will be happy if Hinata is praised!?」
 
-「大人は……っていうか、人間ていうのは複雑なの」
+「Adults are... actually, humans are complicated.」
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0223
-【Hinata】「そかー、ふくざつ、かぁ！」
+【Hinata】「I see, complicated, huh!」
 
-ヒナタはニコニコ顔で、興味深そうにお菓子をそっとつついた。
+Grinning, Hinata gently poked at the sweets with interest.
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0224
-【Hinata】「これでおかしできあがりかー。このおかし、どうするの？」
+【Hinata】「So this is how sweets are made... This sweet, what are you going to do with it?」
 
-「そりゃ食べるんだけど、よかったらヒナタもひとつ食べてみない？」
+「Of course I'm gonna eat it, but why don't you try one too?」
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0225
-【Hinata】「ヒナタもたべるの！？　たべていいの！？」
+【Hinata】「Hinata will eat it too!? Is it okay to eat it!?」
 
-嬉しそうにヒナタは目を輝かせた。
+Hinata's eyes sparkled happily.
 
-うーん、この反応だよ。
+Yep, it's this reaction.
 
-「嫌な匂いがするとか、食べられないんなら無理にはすすめないけど、昨日の飴は甘くて美味しかっただろ？　お菓子も甘いよ」
+「If it smells bad or you can't eat it, I don't recommend you force it. But yesterday's candy was sweet and delicious right? This candy is also sweet.」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0226
-【Hinata】「ほほぅ！　あまいのかっ！」
+【Hinata】「Hoho! It's sweet!」
 
-俺がすすめると、ヒナタは興味を引かれた様子だ。
+My recommendation seems to have caught Hinata's interest.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0227
-【Hinata】「ニンゲンさんのだいじなしょくりょーなのに、ヒナタもたべていいんだねっ」
+【Hinata】「But Human-san's precious food, is it okay for Hinata to eat it too?」
 
-「せっかく上手に出来たから、誰かに食べさせたくってさ」
+「Since I made it so well, I wanted to have someone eat them.」
 
-もともと、エルフがお菓子を食べるかどうかが気になって作ったものだけど、思いのほか上手に作れたから他人の評価が欲しくなったのも事実だ。
+Originally, I was curious whether elves would eat sweets, but it was also true that I wanted others' assessment of it since it turned out better than I expected.
 
-さて、ヒナタはどんな評価を下すのか……。
+Now, what kind of evaluation would Hinata make?
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0228
-【Hinata】「じゃあ、ヒナタたべてあげるっ！　はむっほむっ」
+【Hinata】「Then, Hinata will eat it for you! Munch munch」
 
-ヒナタは威勢よくお菓子を口に放り込むと、大仰に噛み締めて、それから目を丸くした。
+Hinata throws the sweets into his mouths, takes a huge bite, and widens his eyes.
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0229
-【Hinata】「ほぉおおおおおおおおおおお！？　あ、あまーい！　おいしーい！」
+【Hinata】「Hooooooooo!? S-sweet! Delicious!」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-叫んでから崩れ落ちたかと思うと、頬を押さえてごろんごろんと床でのた打ち回っている。
+I thought he had screamed and collapsed, but he presses his hands to his cheeks and rolls on the floor.
 
-「い、いや……そこまでは、どうだろう？」
+「N-no... to react so extremely, how was it?」
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0230
-【Hinata】「おかし、おいしいよニンゲンさん！　あまーくてサクサクしてて、かりかりしてて、ヒナタもっとたべたいよ！」
+【Hinata】「The sweet is delicious! It's sweet, crispy and crunchy, Hinata wants more!」
 
-がばっと起き上がったヒナタに真剣な顔でお願いされて、もうあげないなんて言えるわけがない。
+Hinata sat up and begged with a serious face, at which I could not say I wouldn't give anymore.
 
-っていうか、こんなに喜んでくれるんなら、進んで食べさせたくなるのが人情ってものだろう。
+I mean, if he's so happy eating it, it would be human nature to want to feed him.
 
-「あぁ、いいよ。もっと食べなよ。好きなだけ食べていいから」
+「Ahh, okay. Have some more. Eat as much as you want.」
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0231
-【Hinata】「す、すきなだけ……！？」
+【Hinata】「A-as much as I want...!?」
 
-ヒナタは感激しているのか、皿を見つめてプルプルと震えると、両手でお菓子を食べ始めた。
+Hinata became emotional. He looks at the plate while trembling, then begins to eat the sweet with both hands.
 
-「おーい、あんまりがっついて食べると喉に詰まっちゃうぞ。って聞こえてないな」
+「Oi, If you eat so much at once, it'll get stuck in your throat... You're not listening huh」
 
-俺は少し呆れながらも、新たに焼きあがったお菓子を皿にのせ、残りの生地をまた準備した。
+While a little stunned, I plate the newly baked sweets and prepare the remaining dough.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-うーん、初めてのこととはいえ、少し生地を作りすぎたな。あんなに黒焦げにして無駄にしたのに、まだこんなにあるのか。
+Well, though it's the first time, I might have made a little too much batter. Although I wasted some by charring them like that, but there's still so much left.
 
-いちいち焼くのが面倒くさい。
+It is troublesome to bake each of them one at a time.
 
-丸めるのも面倒だったけど、並べるのがまた面倒なんだよなー。丸めたまま置きっぱなしにしてたから、くっついちゃってたりもするし。
+It's troublesome to form them into round shapes, and also troublesome to line them up. They also start sticking together after I leave them aside.
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0238
-【Konomi】「あれ〜？　まっくろこげこげの匂いじゃなくなったね〜？」
+【Konomi】「Oh‾? It no longer smells like burnt charcoal‾?」
 
 ;CHR OFF
 #cg all clear
@@ -186,7 +186,7 @@
 #wipe fade
 
 #voice tikb0209
-【Tsukiyo】「いい匂い、です」
+【Tsukiyo】「It smells good.」
 
 ;CHR OFF
 #cg all clear
@@ -197,11 +197,11 @@
 #wipe fade
 
 #voice ibab0202
-【Ibara】「まだ、お菓子作ってるのか？」
+【Ibara】「Are you still making sweets?」
 
-遊びつかれたのか、それともお菓子作りの結果が気になったのか、他のエルフたちも戻ってきた。
+Maybe they grew tired of playing, or they were interested in the outcome of the sweets making, the other elves returned.
 
-「やっと上手に焼けてね。ヒナタに味見してもらってたとこなんだよ」
+「It's finally baked well. I'm having Hinata taste it now.」
 
 ;CHR OFF
 #cg all clear
@@ -212,18 +212,18 @@
 #wipe fade
 
 #voice hinb0232
-【Hinata】「おかし、おいしかったよ！」
+【Hinata】「The sweets were delicious!」
 
-「よかったらみんなも味見してみてよ」
+「Why don't you all taste them too?」
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0239
-【Konomi】「味見〜？」
+【Konomi】「Taste‾?」
 
-「ん？　コノミはいや？」
+「Nn? Konomi doesn't want to?」
 
 ;CHR OFF
 #cg all clear
@@ -236,82 +236,82 @@
 #wipe fade
 
 #voice ibab0203
-【Ibara】「お菓子っていうのは上手に焼けると見えなくなるものなのか？」
+【Ibara】「Do sweets become invisible after baking them?」
 
-「え？」
+「Eh?」
 
 #voice tikb0210
-【Tsukiyo】「おさら、だけです。茶色い粉がお菓子です？」
+【Tsukiyo】「It is just a plate. Is this brown powder the sweet?」
 
-「えぇ！？」
+「Ehhh!?」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-驚いて振り返ると、お皿の上はついさっき焼けた分も含めてすっからかんだった。
+When I turned aorund in shock, the plate which previously sat a portion of the sweets, was empty.
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
-「ヒナタ、まさかとは思うけど全部食べちゃったの？」
+「Hinata, it can't be, did you eat it all?」
 
 #voice hinb0233
-【Hinata】「うん！　がんばってたべたよ！」
+【Hinata】「Yep! I ate with all my might!」
 
-「えぇえええええ〜！？」
+「EHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH‾!?」
 
-ヒナタはとても自慢そうに答えた。
+Hinata replied proudly.
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0234
-【Hinata】「ニンゲンさんがたべてほしいっていってたから、ヒナタがんばったの！」
+【Hinata】「Human-san wanted Hinata to eat them, so Hinata did Hinata's best!」
 
-「あぁ〜……そっかぁ……」
+「Ahh‾... Is that so...」
 
-ヒナタなりの好意なんだろうな。そう理解すると、怒る気にもなれない。
+That's probably Hinata's way of reciprocating. If I understand it that way, I can't possibly be angry.
 
-「あのね、ヒナタ。別に全部食べなくてもよかったんだよ」
+「Did you know, Hinata. It was fine even if you didn't eat everything.」
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0235
-【Hinata】「ほぇっ！？」
+【Hinata】「Huee!?」
 
 ;FACE T05F_L
 #face f_tuk_0_05f_l 94 466
 
 #voice tikb0211
-【Tsukiyo】「ないのに、どうやって食べるのかと思ったです」
+【Tsukiyo】「If there's none, how can we have a taste I wonder.」
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0240
-【Konomi】「成功したお菓子は、ヒナタが全部食べちゃったんだねぇ〜」
+【Konomi】「Hinata ate up all the successfully baked sweets‾」
 
-そんな話をしている間にも、次のお菓子が焼けた。
+While they were talking, I baked the next batch of sweets.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「ほら、次が焼けたから皆も……」
+「Here, let's have everyone try the next batch...」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0236
-【Hinata】「わーい！」
+【Hinata】「Yay!」
 
-皆に勧めようとすると、一番にヒナタが飛びついてきた。
+When I tried to give it to everyone, Hinata flew at it first.
 
 ;CHR OFF
 #cg all clear
@@ -324,137 +324,137 @@
 #wipe fade
 
 #voice ibab0204
-【Ibara】「ヒナタはもういっぱい食べただろ！？」
+【Ibara】「Hinata has already eaten a lot hasn't he!?」
 
 ;CHR H06F1 L
 #cg ヒナタ hin_1_06f1 左
 #wipe fade
 
 #voice hinb0237
-【Hinata】「ほぇ！？　イバラもたべるの！？」
+【Hinata】「Huee!? Ibara also wants to eat!?」
 
 ;CHR I11F2 R
 #cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0205
-【Ibara】「ボ、ボクは別にニンゲンが作ったものなんてどうでもいいけど……」
+【Ibara】「No, i-it's not like I care for something made by humans...」
 
 ;FACE K01F2A
 #face f_kon_0_01f2a 94 466
 
 #voice konb0241
-【Konomi】「もぐもぐ……うん、ほんとだ〜。おいし〜ねぇ〜」
+【Konomi】「Munch munch... Yep, it's true‾. This is delicious‾」
 
 ;CHR H01F1 L
 #cg ヒナタ hin_1_01f1 左
 #wipe fade
 
 #voice hinb0238
-【Hinata】「でしょ！　おいしいよね！」
+【Hinata】「Right?! It's delicious!」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0212
-【Tsukiyo】「甘くて、サクサクです」
+【Tsukiyo】「It's sweet and crispy.」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
 #wipe fade
 
 #voice hinb0239
-【Hinata】「サクサクするのたのしいよね！」
+【Hinata】「The crispiness makes it fun to eat!」
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0206
-【Ibara】「ボ、ボクも食べる！」
+【Ibara】「I-I'll also have some!」
 
 ;CHR H04F2 L
 #cg ヒナタ hin_1_04f2 左
 #wipe fade
 
 #voice hinb0240
-【Hinata】「ほえ？」
+【Hinata】「Huee?」
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0207
-【Ibara】「む……むぐ……なっ！？」
+【Ibara】「Munch... Wha-!?」
 
 #voice ibab0208
-【Ibara】「ヒナタ！　こんな美味しいもの、独り占めしてたのか！？」
+【Ibara】「Hinata! How could you try to keep such a delicious thing to yourself!?」
 
 ;CHR H08F1 L
 #cg ヒナタ hin_1_08f1 左
 #wipe fade
 
 #voice hinb0241
-【Hinata】「ひとりじめ？　してないよ〜。あるのたべただけだよ〜」
+【Hinata】「Keep for myself? I'm not‾. I just ate what was there‾」
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0209
-【Ibara】「それを独り占めっていうんだ！」
+【Ibara】「That's called monopolizing!」
 
 ;CHR H04F2 L
 #cg ヒナタ hin_1_04f2 左
 #wipe fade
 
 #voice hinb0242
-【Hinata】「ほえ〜？」
+【Hinata】「Huee‾?」
 
-ヒナタとイバラが言い争って（？）いる間に、コノミとツキヨはせっせとお菓子を口に運んでいる。
+While Hinata and Ibara are arguing (?), Konomi and Tsukiyo shove sweets in their mouths heartily.
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0210
-【Ibara】「こんなに美味しいものなら、ボクだって食べてやっても……って、もうない！　ヒナタ、お前！」
+【Ibara】「Such a delicious thing, even I would want to try... Huh it's all gone! Hinata, you!」
 
 ;CHR H06F1 L
 #cg ヒナタ hin_1_06f1 左
 #wipe fade
 
 #voice hinb0243
-【Hinata】「ヒナタじゃないよっ！」
+【Hinata】「It's not Hinata!」
 
 ;FACE K01F2A
 #face f_kon_0_01f2a 94 466
 
 #voice konb0242
-【Konomi】「もぐもぐ……ニンゲンくん、飲み物ほしいな〜」
+【Konomi】「Munch munch... Human-kun, I want a drink‾」
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0213
-【Tsukiyo】「喉渇く、です」
+【Tsukiyo】「I'm thirsty too.」
 
-「口の中の水分とられるもんな。それをそんなにいっぺんに食べたら喉も乾くさ」
+「The moisture in your mouth is being taken away. If you eat so much at once, your throats will dry out.」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-お茶の用意をしたあたりで、また次が焼きあがった。
+Just after I prepared tea, the next batch was ready.
 
-「ほら、イバラ。次が焼けたし、お茶も入ったぞ」
+「Hey, Ibara. The next batch is ready and I've prepared tea.」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0211
-【Ibara】「何でボクにだけいうんだ！　ボクだけくいしんぼみたいじゃないか！　ボクだってそんなの見ればわかる！」
+【Ibara】「Why do you say it to me! Almost as if I'm the only glutton! Even I can tell that just by looking!」
 
 ;CHR OFF
 #cg all clear
@@ -465,7 +465,7 @@
 #wipe fade
 
 #voice tikb0214
-【Tsukiyo】「イバラ、何で怒ってるです？」
+【Tsukiyo】「Ibara, why are you angry?」
 
 ;CHR OFF
 #cg all clear
@@ -476,7 +476,7 @@
 #wipe fade
 
 #voice konb0243
-【Konomi】「イバラは〜、怒ってる間に食べちゃえばいいのにね〜？」
+【Konomi】「Is it okay if I eat it up while Ibara's angry‾?」
 
 ;CHR OFF
 #cg all clear
@@ -487,7 +487,7 @@
 #wipe fade
 
 #voice hinb0244
-【Hinata】「おかし、おいしーねっ！」
+【Hinata】「The sweet is delicious!」
 
 ;CHR OFF
 #cg all clear
@@ -498,11 +498,11 @@
 #wipe fade
 
 #voice ibab0212
-【Ibara】「あー、またもうちょっとしかなくなってるっ！　うぅうううううう〜全部、ニンゲンが悪いっ！」
+【Ibara】「Ah, there's only a little bit left already! Uuuuuuuuuu‾ it's all Human's fault!」
 
-「えーっ！？」
+「Ehhh!?」
 
-……残ったら、俺の食事にするつもりだったけど、この調子じゃ残りそうもないな。
+...I had intended for it to be my meal if any remained, but at this rate it's unlikely.
 
 ;CHR OFF
 #cg all clear
@@ -515,30 +515,30 @@
 #wipe fade
 
 #voice tikb0215
-【Tsukiyo】「おなかいっぱい、です」
+【Tsukiyo】「My tummy is full」
 
 #voice konb0244
-【Konomi】「ボクも〜もう食べられないよ〜」
+【Konomi】「Me too‾ I can't eat anymore‾」
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0213
-【Ibara】「何でそう言いながら、まだ手に持ってるんだよ！」
+【Ibara】「Why do you still take more sweets while saying that!」
 
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 
 #voice tikb0216
-【Tsukiyo】「あとで、食べる、です」
+【Tsukiyo】「It's for later.」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0245
-【Konomi】「ボクも〜」
+【Konomi】「Me too‾」
 
 ;CHR OFF
 #cg all clear
@@ -551,12 +551,12 @@
 #wipe fade
 
 #voice ibab0214
-【Ibara】「ボクは、今食べたいのにっ！」
+【Ibara】「But I want to eat them today!」
 
 #voice hinb0245
-【Hinata】「ヒナタ、おなかいたいよ！」
+【Hinata】「Hinata's tummy hurts!」
 
-「あー、それは食べすぎかな。しばらくしたら落ち着くんじゃないかな」
+「Ah, that's because you ate too much. It'll probably settle after a while.」
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
@@ -565,21 +565,21 @@
 #wipe fade
 
 #voice hinb0246
-【Hinata】「そっかー！　たべすぎかっ！　ヒナタ、たべすぎははじめてだなっ！」
+【Hinata】「Okay! I ate too much huh! It's the first time Hinata overate!」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0215
-【Ibara】「何でおなか痛くなるぐらい食べちゃうんだよ、もうっ！」
+【Ibara】「Why would you eat until your stomach hurts, c'mon!」
 
-「まったく、また作るから……」
+「Jeez, even though I'll make it another time...」
 
 #voice ibab0216
-【Ibara】「ほんとだな！？　約束だぞ、ニンゲン！」
+【Ibara】「Really!? It's a promise, Human!」
 
-何はともあれ、俺のはじめてのお菓子作りは大成功だったようだ。
+Anyway, my first sweet-making seemed to be a great success.
 
 ;CHR OFF
 #cg all clear
@@ -611,13 +611,13 @@
 
 ;立ち絵なし
 #voice hinb0247
-【Hinata】「んーしょ、よいしょ！　はぁっくしょーい！」
+【Hinata】「Nnn-sho, Yoi-sho! Haakusho!」
 
-「……ん？　ふぇっ……ふぁっ……ふぁっくしょいぃ！」
+「...Nn? Fuee... Fuaaa...Fuaakushoii!」
 
-翌朝、ヒナタの声と、くしゃみで目が覚めた。
+The next morning, I woke up to Hinata's voice and sneezing.
 
-どうも何かしてるみたいだけど……なんだ？　何でこんな、煙たいというか何かが宙を舞ってるんだ！？。
+It looks like he's doing something... what is it? It's smoky and it looks like something is flying in the air!?.
 
 ;ＥＶ絵――EV016『粉まみれヒナタ』
 
@@ -633,96 +633,96 @@
 #wipe fade
 
 #voice hinb0248
-【Hinata】「けほっ……こほっ……んーしょっ！　んーしょっ！」
+【Hinata】「Cough... cough... Nn-sho! Nn-sho!」
 
-「って、あぁっ！？　何やってるんだ！？」
+「Eh, Aaaah!? What are you doing!?」
 
 ;EVCG EV016A2
 #cg イベント ev016a2 背景
 #wipe fade
 
 #voice hinb0249
-【Hinata】「ほえっ？　ニンゲンさん、おはよー」
+【Hinata】「Huee? Good morning, Human-san」
 
-目を開くと、ヒナタが粉まみれになって練り粉と格闘しているのが見えた。
+When I opened my eyes, I could see Hinata covered in powdered flour and grappling with it.
 
 #voice hinb0250
-【Hinata】「んとね、ヒナタ、おかしつくってるの！」
+【Hinata】「Nto-ne, Hinata is making sweets!」
 
-元気よく答えるのはいいけど、ヒナタは上から下まで粉まみれ、小屋中あちこちが汚れ放題に汚れている。
+It's good that he can answer cheerfully, but Hinata is covered in powder from top to bottom, as was the hut.
 
-小屋の中もたいがいひどいが、ヒナタときたら油で揚げたらからっと揚がりそうな勢いで粉まみれだ。
+The hut is generally untidy, but since Hinata came, it has become covered with fine powder in a manner worse than oil splattering out from deep frying.
 
-「ヒナタ、食べ物は悪戯しちゃダメって前にも言っただろ？」
+「Hinata, didn't I say before it's bad to play with food?」
 
-とりあえず眼前の粉塵を払う。
+For the time being, I'll wipe the dust that I can see.
 
-あーぁ、これ、後で布団から何から外ではたかないと、夜は寝られそうもないな。
+Ah, this bad. If I don't go outside to hit it out of my futon later, I likely won't be able to sleep at night.
 
 #voice hinb0251
-【Hinata】「ほえ？　ヒナタ、いたずらしてないよ！　おかしつくってただけだよ！」
+【Hinata】「Huee? Hinata is not playing a prank! Hinata is trying to make sweets!」
 
-「そんなに食べたかったんなら、また作ってあげるって約束したのに……」
+「Since you ate so much, I promised to make them again...」
 
-俺の言葉にますますヒナタはきょとんとした。
+Hinata becomes more confused at my words.
 
 #voice hinb0252
-【Hinata】「んとね、ヒナタはニンゲンさんにつくってあげるんだよ。きのうニンゲンさん、あんまりたべられなかったもんね！」
+【Hinata】「Nto-ne, Hinata wants to make sweets for Human-san. Yesterday, Human-san didn't get to eat much!」
 
-「そ、そっか……」
+「I-I see...」
 
-びっくりした。
+I'm surpised.
 
-ヒナタはそんなところを見ていたんだな。
+Hinata noticed that.
 
 #voice hinb0253
-【Hinata】「おいしかったから、ヒナタいっぱいたべちゃったんだ。ごめんねー？」
+【Hinata】「It was delicious, so Hinata ate too much. I'm sorry」
 
-「ん？　そういえば、もう材料が足りなかったような……」
+「Nn? Come to think of it, there isn't enough ingredients left...」
 
-しおらしいことを言うヒナタの手元では、にちゃーと粉がありえない粘りを見せていた。
+The meek Hinata showed me the powder in his hand that had impossible stickiness.
 
-「……それ、何と何が入ってる？」
+「...That, what is it made of?」
 
 #voice hinb0254
-【Hinata】「んとね。きのうニンゲンさんがとうめいでとろっとしたのいれてたから、おそとできとかからあつめてきたの！」
+【Hinata】「Nnto-ne. Yesterday Human-san put in something transparent and thick, so I gathered some from the tree outside!」
 
-透明でとろって蜜のことか、油のことか……。
+Something transparent and viscous, is it honey, or is it oil....
 
-「どの木？」
+「Which tree?」
 
 #voice hinb0255
-【Hinata】「ぐにゃーんってなってるやつ！」
+【Hinata】「The one that's squishy!」
 
-……それ、蜜でも油でもなくてヤニじゃないか。
+...That is not honey or oil, isn't it tree sap.
 
-「ヒナタ……悪いけど、それ食べられないよ」
+「Hinata... it's too bad, that can't be eaten」
 
 #voice hinb0256
-【Hinata】「ほえぇえええ！？」
+【Hinata】「Hueeeeeeeeee!?」
 
-「昨日俺が入れたのは、花や木の蜜を煮詰めたものと、アブラマメからとった油で、木からとったヤニじゃないんだ」
+「What I put in yesterday was boiled nectar from flowers and oil extracted from Oil Beans, and not the sap from a tree」
 
 #voice hinb0257
-【Hinata】「ヒナタまちがえちゃったの！？」
+【Hinata】「Hinata made a mistake?」
 
-「うん。人間はエルフよりずっと色んなものを食べるみたいだけど、食べられないものも沢山あるからね」
+「Yep. Humans seem to eat more kinds of things than elves,, but there are many things that we can't eat.」
 
 #voice hinb0258
-【Hinata】「ヒナタせっかくつくったのにー」
+【Hinata】「Although Hinata took the effort to make it-」
 
-ヒナタは唇を尖らせるけど、そんな恐ろしいものは食べられない。
+Even if Hinata sulks, I can't eat such a terrifying thing.
 
 ;EVCG EV016A1
 #cg イベント ev016a1 背景
 #wipe fade
 
 #voice hinb0259
-【Hinata】「わわっ、てにいっぱいくっついちゃってるよ！」
+【Hinata】「Wawaa, a lot of it is stuck to my hand!」
 
-「そりゃ、ヤニだしな」
+「Of course, it's tree sap」
 
-やれやれ、やっかいなことになったな。
+Good grief, it's become difficult to handle.
 
 ;暗転
 ;#face off
@@ -740,82 +740,82 @@
 #bg BG07b_1
 #wipe fade
 
-なんとかヒナタの手を綺麗にしてやり、小屋の中も一通り片付けると、ヒナタはションボリと肩を落とした。
+After I managed to somehow get Hinata's hands cleaned, and tidied up the hut briefly, Hinata droops his shoulders in disapppointment.
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0260
-【Hinata】「ヒナタ、ニンゲンさんにもおいしいのたべてもらいたかったの」
+【Hinata】「Hinata wanted Human-san to eat something delicious」
 
-「気持ちは嬉しいよ」
+「Just your feelings is enough」
 
-俺は心からそう言ってヒナタの頭を撫でてやった。
+I say sincerely and pat Hinata's head.
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0261
-【Hinata】「えへへー」
+【Hinata】「Eheheー」
 
-ヒナタは頭を撫でられながら眼を細めた。
+Hinata's eyes narrowed as I stroke his head.
 
-「でも食料は貴重なんだから、今度から勝手に触らないでね。頼むからさ」
+「But food is precious, so please don't touch it from now on. I'm counting on you.」
 
 #voice hinb0262
-【Hinata】「うん！　ヒナタね、ニンゲンさんにびっくりしてほしかったんだ」
+【Hinata】「Okay! Hinata wanted to surprise Human-san」
 
-「びっくりはしたよ。したけどさ……」
+「I was surprised indeed. Surprised in a different meaning...」
 
-自分が基本的にものを食べないから、食べられるものと食べられないものの区別がつかないんだな、きっと。
+Elves fundamentally don't eat, so they can't distinguish between the edible and inedible, surely.
 
-「さっきも言ったけど、人間には食べられるものと食べられないものがあるから、それをちゃんと覚えてくれると嬉しいな」
+「I've said it before, but humans have things that can be eaten and things that cannot, I'll be glad if you can remember that well」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0263
-【Hinata】「うん、わかった！」
+【Hinata】「Okay, I understand!」
 
-返事だけは元気いいけど、はてさて……。
+At least his reply is energetic, but anyway...
 
-「それじゃ、今度このシバグルミを見つけたら集めておいてくれないか？　昨日の焼き菓子にはたっぷり入ってたんだけど集めるのが大変だから」
+「In that case, could you help me collect Shibagurumi next time? I added a lot in yesterday's pastries but it's hard to gather them.」
 
-昨日の分は買ってきたものだけど、この小屋にあった本によればこの辺にも少し生えてるはずなんだよな。
+Yesterday's portion was bought, but according to the book left in this hut, there should be a little growing around here.
 
 #voice hinb0264
-【Hinata】「シバグルミ、だね！　わかったー！　いーっぱいあつめるよっ！」
+【Hinata】「Shibagurumi! I got it! I'll try to collect lots!」
 
-「よし、頼んだよ。木の実は日持ちがするから、たくさんあると助かるな」
+「Good boy, I'm counting on you. Since the nuts last a long time, it'll be helpful if you can collect more.」
 
 ;CHR H05F C
 #cg ヒナタ hin_1_05f 中
 #wipe fade
 
 #voice hinb0265
-【Hinata】「ニンゲンさんたすかるの？　うれしいの？」
-「あぁ」
+【Hinata】「It'll help Human-san? Human-san will be happy?」
+「Yeah」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0266
-【Hinata】「ヒナタすっごくがんばる！」
+【Hinata】「Hinata will do his bestest!」
 
-「じゃ、ヒナタがまた食べたいのなら近々村に帰って、またお菓子の材料を仕入れてくるか」
+「And Hinata, if you want to eat sweets again, could you head to the nearest village and stock up on the ingredients for sweets again?」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0267
-【Hinata】「おー！」
+【Hinata】「Yesー!」
 
-ま、ヒナタは俺を喜ばせたかったんだよな。その気持ちだけは素直に嬉しかった。
+Well, it seems Hinata wanted to please me. His feelings alone made me genuinely happy.
 
 ;ヒナタ好感度+1
 #set f1 f1+1
