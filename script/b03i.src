@@ -4,301 +4,301 @@
 ;b03引き続き
 
 
-このお菓子をイバラに食べさせたらどんな顔をするだろう。
+What kind of face would Ibara make if he eats this sweet?
 
-……けど、食べさせるまでが大変かもしれないな。
+...but maybe it's difficult to even get him to eat it.
 
-イバラはいつだってまず俺の言うこと、することなすこと、否定から入るから、素直にこのお菓子を口にしてくれることはないだろう。
+Ibara always rebuffs anything I do or say, so it's unlikely that he'll eat this sweet obediently.
 
-だけど、どうも人一倍好奇心は強いみたいだから、本当は気になって仕方なくて……。
+However, it seems that my curiosity for his reaction is stronger than anyone else, so I can't take it off on my mind...
 
-ちらちらお菓子を見ながら「仕方ないから食べてやる」というイバラが目に浮かぶようだ。
+The image of Ibara saying "It can't be helped, I'll eat it for you" while stealing glances at the sweets comes to mind.
 
-……そういうところがまた可愛いんだよな。
+...That part of him is really cute.
 
-かたりと人が入ってきた気配に振り向くと、戸口にイバラが立っていた。
+When I turned around at the presence that came in, Ibara stood at the doorway.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
-「あ、おかえり」
+「Ah, welcome back」
 
-入ってくるなりイバラはひいた顔であとずさった。
+As soon as he came in, Ibara made a disgusted face.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0217
-【Ibara】「おい、ニンゲン。なんて気持ち悪い顔をしてるんだ？」
+【Ibara】「Oi, Human. Why are you making such a disgusting face?」
 
-「気持ち悪いってひどいな」
+「How terrible to say that」
 
-開口一番に罵るなんて、流石に俺でもちょっと傷つく。
+To hurl abuse from his first words, even I would feel a little hurt.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0218
-【Ibara】「いつも気持ち悪い顔をしているけど、さっきはニヤニヤしまりがなくていつもよりずっと気持ち悪かったぞ」
+【Ibara】「Though you always make a disgusting face, your face that was grinning sloppily was beyond worse than usual.」
 
-……そんなにニヤニヤしてたかな。
+...Was I really grinning that much.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0219
-【Ibara】「はっ！？　何か悪いことを考えてたな！　白状しろ、ニンゲンめ！」
+【Ibara】「Huh!? You were thinking of something bad! Confess, Human!」
 
-「別に悪いことなんて考えてないよ」
+「I wasn't thinking of anything bad in particular」
 
 #voice ibab0220
-【Ibara】「嘘だ！　アレは悪いことを考えてた顔だ！」
+【Ibara】「That's a lie! That was a face that seems to be scheming something!」
 
-「違うって……」
+「No...」
 
-さすがにイバラのことを考えてにやにやしてたとは言いづらい。それだって、イバラにしてみたら「悪いことを考えてた」内に入るだろうしな。
+As expected, it is difficult to say that I was thinking about Ibara. Even if I did, it's likely to be categorised under "Thinking bad things" to Ibara.
 
-「えーっと、お菓子が上手に焼けたんでそれが嬉しかったんだよ。ニヤついてたんならそのせいじゃないかな」
+「Uhh well, I was happy because the sweets turned out well. If I was grinning it's probably because of that.」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
-そういいながら、焼きあがったお菓子の皿を差し出すと、イバラは一瞬でそれに目を奪われてくれた。
+While saying that, I held out a plate of baked sweets, and Ibara was instantly fascinated by it.
 
-お菓子の甘い香りはエルフの気をもひけるものらしい。
+The sweet scent of sweets seems to appeal to the elven spirit.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0221
-【Ibara】「成功したのか」
+【Ibara】「Was it a success?」
 
-「うん。味見してみたら結構美味しかった」
+「Yep. It's pretty delicious if you taste it.」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0222
-【Ibara】「そうか、やっと成功したのか。人間は不器用だな！」
+【Ibara】「I see, you've finally succeeded. Humans sure are incompetent!」
 
-いつものように憎まれ口を叩こうとしているが、イバラの視線はずっとお菓子に惹きつけられたままだ。
+Ibara hits me with impertinent words as usual, but his gaze remains caught by the sweets.
 
-「イバラもよければ、味を見てくれない？」
+「Ibara, if you'd like, won't you have a taste?」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0223
-【Ibara】「え？　ボ、ボクが？」
+【Ibara】「Eh? M-me?」
 
-イバラは一瞬きょとんとして、それから、お菓子と俺の顔を見比べた。
+Ibara was stunned for a moment, then looked between the sweets and my face.
 
-「あ、もちろん、無理にとは言わないけど」
+「Ah, of course, it's fine otherwise」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0224
-【Ibara】「昨日も言ったけど、エルフはできそこないの人間と違って、食べ物なんか食べる必要はないんだぞ！？　完成された生き物だからな」
+【Ibara】「I've said yesterday, but unlike defective humans, elves have no need to eat food, you know!? Because we are complete creatures.」
 
-「でも、食べられないってわけじゃないんだろ？」
+「But it's not as if you cannot eat, right?」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0225
-【Ibara】「うん、まぁ……」
+【Ibara】「Yeah, well...」
 
-「まぁ、俺が作ったものだから、昨日の飴ほどは美味しくないかもしれないけどさ」
+「Well, since I made it, it might not be as delicious as yesterday's candy.」
 
 #voice ibab0226
-【Ibara】「……」
+【Ibara】「...」
 
-イバラはしばらくお菓子を見つめてから、意を決したように宣言した。
+Ibara stared at the sweets for a while, made his decision and declared.
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0227
-【Ibara】「し、仕方ないから食べてやる」
+【Ibara】「I-it can't be helped, I'll eat it for you」
 
-「……っぷ。んっ……ごほんごほん」
+「...pu. Nn...Sputter wheeze」
 
-先ほど想像していた通りの言葉に思わず吹き出してしまって慌てて咳払いで誤魔化した。
+I cleared my throat in a hurry to keep myself from laughing. Ibara had spat out the exact words I had imagined earlier.
 
-ずっと食べてみたいって顔してたのに。
+His face looks as if he had always wanted to eat it.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0228
-【Ibara】「どうしたニンゲン？　具合悪いのか？」
+【Ibara】「What's wrong, Human? Are you feeling unwell?」
 
-突然咳き込み始めた俺をイバラは心配そうに見上げてきた。
+At my sudden coughing, Ibara looked up at me in concern.
 
-「い、いや大丈夫。ちょっとむせただけだから」
+「No, it's nothing. Just choked a little.」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0229
-【Ibara】「そうか。ちゃんと気をつけるんだぞ？」
+【Ibara】「I see. Take care of yourself properly, okay?」
 
-心配そうにイバラは言って、それからハッとしたように偉そうに言い直す。
+Ibara says worriedly, then hurriedly corrects himself in a bossy tone.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0230
-【Ibara】「ニンゲンはよわっちぃからな！　身体を大事にしないとすぐ死んじゃうんだぞ！」
+【Ibara】「It's because Humans are weak! If you don't take care of your body, you'll die easily!」
 
-「わかった。気をつけるよ、ありがとう」
+「I got it. I'll take care, thank you.」
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0231
-【Ibara】「うん、わかればいい」
+【Ibara】「Un, it's good you understand.」
 
-イバラは大威張りしながら、改めてお菓子を口に運んだ。
+Carrying himself as if he was an impressive ruler, Ibara brings the sweet to his mouth once again.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0232
-【Ibara】「もぐもぐ……ん！？」
+【Ibara】「Nom nom...Nn!?」
 
-口にした途端、イバラの目が大きく見開かれる。
+As soon as it went in, Ibara's eyes opened wide.
 
-「どう？　口に合わなかった？」
+「How's it? It didn't suit your taste?」
 
-俺が心配になって聞くと、イバラはものも言わずに２個３個とさらに口の中に押し込んだ。
+At my worried questioning, Ibara pushed two three pieces into his mouth without saying anything.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 #voice ibab0233
-【Ibara】「んーっ！」
+【Ibara】「Mmmm!」
 
-そして、どんどんと苦しそうに胸を叩いている。
+And he hits against his chest in pain.
 
-「いっぺんに食べすぎだよ。ほら、水」
+「You ate too much at once. Here, water」
 
 ;CHR I10F2 C
 #cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0234
-【Ibara】「あー、苦しかった」
+【Ibara】「Ahh, that was painful」
 
-「そんなに気に入ったの？」
+「Did you like it that much?」
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0235
-【Ibara】「ベ、別に気にいったわけじゃ……人間の食べ物もまぁまぁだな。こんなのならまた食べてやってもいいぞ」
+【Ibara】「I-it's not like I've taken a liking... human food is so-so. This food, I could eat this again」
 
-ふん、とそっぽを向くイバラはどう考えても素直じゃなくて、でも実にわかりやすい。
+With a "Hmph!" Ibara turns away, not being straightforward in the slightest, though being easy to understand in actuality.
 
-「わかった。じゃあ、また作ってあげるね」
+「I got it. I'll make it for you again, okay」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0236
-【Ibara】「ベ、別に……作ってくれなんて……」
+【Ibara】「I-It's not... to make it for me...」
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-イバラが口の傍につけた食べかすを指先で拭っていたら、ひょいっとコノミが顔を出した。
+When Ibara was scooping up the crumbs around his mouth with his fingertips, Konomi appeared.
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0246
-【Konomi】「また作るの〜？」
+【Konomi】「You'll make it again‾?」
 
-「わっ」
+「Good lord」
 
 ;CHR H01F1 R
 #cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0268
-【Hinata】「これ、おかしできたの！？　おいしーねっ！　おいしーねっ？」
+【Hinata】「Oh, you made sweets!? Is it delicious! It's delicious isn't it?」
 
-ヒナタは入ってくるなり、お菓子をぱくつき、あまつさえツキヨにも差し出している。
+As soon as Hinata comes in, he crunches vigorously on sweets and even hands one out to Tsukiyo.
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0217
-【Tsukiyo】「美味しい、です」
+【Tsukiyo】「It tastes good.」
 
 ;CHR K01F2B L
 #cg コノミ kon_1_01f2b 左
 #wipe fade
 
 #voice konb0247
-【Konomi】「ヒナタ〜、ボクも食べる〜よ〜」
+【Konomi】「Hinata‾, let me have one too‾」
 
 ;CHR H01F2 R
 #cg ヒナタ hin_1_01f2 右
 #wipe fade
 
 #voice hinb0269
-【Hinata】「うん！　おいしいよ！」
+【Hinata】「Yep! It's delicious!」
 
 ;CHR K02F2 L
 #cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0248
-【Konomi】「ほほ〜、お菓子ってこんな味か〜。お茶が欲しくなるね〜」
+【Konomi】「Hoho‾, Sweets taste like that huh‾. It makes one crave tea‾」
 
-「あぁ、そうだな。お茶、今入れるよ」
+「Ahh, that's true. I'll go prepare the tea now」
 
-焼き菓子は水気がないから、喉に詰まりやすい。がっついているヒナタなんて、さっきのイバラみたいに喉に詰まらせそうだ。
+Because baked goods have no water, it's easy to choke on them. It gets stuck in the throat like it did for Hinata and Ibara previously.
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice konb0249
-【Konomi】「ありがと〜、ニンゲンくんも食べてもいいからね〜」
+【Konomi】「Thank you‾, it's okay if Human-kun eats some too‾」
 
-「食べてもいい、って作ったの俺だよ」
+「'It's okay to eat', I'm the one who made it」
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0250
-【Konomi】「あ、そだった〜」
+【Konomi】「Ah, that's right‾」
 
 ;CHR OFF
 #cg all clear
@@ -309,25 +309,25 @@
 #wipe fade
 
 #voice ibab0237
-【Ibara】「あっ……ちょっ……おまえたち……」
+【Ibara】「Ah... Wait... You all...」
 
-焼きあがっていたお菓子は瞬く間にヒナタたちに平らげられていく。
+The pile of baked sweets were flattened by Hinata and the other elves in a blink of an eye.
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0238
-【Ibara】「あぁ……ボクまだ、ちょっとしか食べてない……」
+【Ibara】「Aghhh... I've, I've only eaten a little...」
 
-完全に不意を突かれた形になったイバラは、なす術もなく食い荒らされていく様を呆然と眺めていた。
+Ibara, who was completely taken by surprise, stared helplessly as the sweets were devoured.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0239
-【Ibara】「ヒナタ、コノミ、ツキヨ！　そんなにバクバク食べるんじゃない！　ボ、ボクの分も考えろ！」
+【Ibara】「Hinata, Konomi, Tsukiyo! Don't eat so much! Leave some for me!」
 
 ;CHR OFF
 #cg all clear
@@ -340,10 +340,10 @@
 #wipe fade
 
 #voice hinb0270
-【Hinata】「ほぇ！？」
+【Hinata】「Huee!?」
 
 #voice konb0251
-【Konomi】「イバラも食べたかった〜？」
+【Konomi】「Ibara also wanted to eat‾?」
 
 ;CHR OFF
 #cg all clear
@@ -356,68 +356,68 @@
 #wipe fade
 
 #voice ibab0240
-【Ibara】「そ、そういうわけじゃ……に、ニンゲンの食べ物なんて別に食べたくないけど……」
+【Ibara】「T-that's not exactly... I-It's not like I really want to eat human food...」
 
 #voice tikb0218
-【Tsukiyo】「イバラの分、いっぱいいるです？」
+【Tsukiyo】「There's still a lot for Ibara's portion?」
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0241
-【Ibara】「い、いらない！」
+【Ibara】「I don't need it!」
 
-あーあ、むきになって臍を曲げちゃった。
+Ah ah, he became defensive and stubborn.
 
-「ほら、次も焼きあがったし、まだ生の生地も残ってるから」
+「Hey, the next batch is ready, and there's still raw batter left.」
 
 #voice ibab0242
-【Ibara】「ふんっ！」
+【Ibara】「Hmph!」
 
-俺がなだめるように言っても、イバラは決まり悪げに唇を尖らせてそっぽを向いてしまう。
+Even as I say soothingly, Ibara who is set on being resentful, sulks and turns away.
 
 ;FACE H01F1
 #face f_hin_0_01f1 94 466
 
 
 #voice hinb0271
-【Hinata】「はい、はーい！　ヒナタ、いっぱいたべるよ！　おかしはいっぱいたべられる！」
+【Hinata】「Yes, YES! Hinata will eat lots! Because I can eat lots!」
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 
 #voice tikb0219
-【Tsukiyo】「おいしい、です」
+【Tsukiyo】「Delicious.」
 
-イバラは楽しそうなヒナタたちに腹を立てているらしく、ちらちらとそっちを見ているが、自分も食べるとは言い出せないようだ。
+Ibara seems to be angry at the elves having fun and peers at them from time to time, but can't seem to himself to say that he wants to eat too.
 
-もうしょうがないなー。
+There's no other choice.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「本当にイバラはもういらないの？」
+「Ibara, you really don't want any more?」
 
 ;CHR I10F2 C
 #cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0243
-【Ibara】「う……うぅ〜」
+【Ibara】「U...Uuu‾」
 
-「残念だなぁ。俺はイバラにも食べて欲しかったのに」
+「What a pity. Even though I wanted Ibara to eat it」
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0244
-【Ibara】「じゃあ、食べてやる。いいか、ニンゲンが頼むから、仕方なくなんだぞ！」
+【Ibara】「Then, I'll eat it for you. Look here, it's Human's request, so I have no choice!」
 
-イバラはそういってから、ヒナタたちに負けないようにお菓子に手を伸ばした。
+After saying that, Ibara reached out to the sweets so as not to lose to Hinata.
 
 ;暗転
 ;#face off
@@ -435,136 +435,136 @@
 
 ;立ち絵なし
 #voice ibab0245
-【Ibara】「おい、ニンゲン！　起きてるか？　開けろ！」
+【Ibara】「Oi, Human! Are you awake? Open up!」
 
-朝早く、イバラの大きな声で起された。
+Early in the morning, I woke up to the Ibara's loud voice.
 
-「なに？　自分で開ければいいじゃないか」
+「What's up? You could just come on in」
 
-眠い目を擦りながら扉を開けると、イバラは両手で何かを持ったまま、そっと中に入ってきた。
+When I opened the door while rubbing my sleepy eyes, Ibara entered while holding something within both hands.
 
-あぁ、両手がふさがっていたから扉が開けられなかったのか。
+Ah, he couldn't open the door because his hands were occupied.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0245-01
-【Ibara】「ほら！　飲め、ニンゲン！」
+【Ibara】「Here! Drink this, Human!」
 
-満面の笑みで差し出されたのは、葉っぱで作った器のようなものだった。
+What was presented to me with a full smile was like a vessel made of leaves.
 
 #voice ibab0245-02
-【Ibara】「昨日のお菓子は美味しかったからな。そのお礼だから、遠慮はいらないぞ」
+【Ibara】「Yesterday's sweets were delicious. Have this in return, don't hold back.」
 
-「……？　ありがとう？」
+「...? Thank you?」
 
-中には水みたいなものが、ほんの半分にも満たないくらい入っている。
+It looks like there's water inside, but it's not even half-filled.
 
-俺は何の気もなく、一気に飲み干した。
+Without much care, I drink it all at once.
 
-……うん、水だ。
+...Yep, it's water.
 
 #voice ibab0246
-【Ibara】「美味しかったか？」
+【Ibara】「Was it delicious?」
 
-「あ、あぁ。うん、美味しかったよ」
+「Ah, aah. Yep, it was good」
 
-起き抜けの水は確かに美味しいけど、一体なんなんだろう。
+Drinking water upon waking up is definitely delicious, but what exactly is going on, I wonder.
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0247
-【Ibara】「ふふん、ニンゲンなんかにはもったいないような代物だが、昨日のお菓子は頑張って作ってたから、ねぎらってやるんだぞ」
+【Ibara】「Fufun, it's wasted on Humans, but you did your best to make yesterday's sweets, so it's thanks for your hard work.」
 
-「……一体なんだったの？」
+「...What was it?」
 
-ただの水にしてはあまりにもイバラが勿体を付けるので、ふと不安になった。
+I grow worried when Ibara says it's too good for humans, when it seems to be simply water.
 
-エルフの特別な薬か何かだったのだろうか。
+Was it a special elven medicine or something?
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0248
-【Ibara】「人間が今飲んだのはな、……んと、人間の言葉じゃ表すものが……ないな」
+【Ibara】「What human just drank, ...Nn, in human language... there's no words for it」
 
-ますます不安になってきた。
+I'm getting more and more anxious.
 
-「ただの水みたいだったけど……」
+「It seemed to be just water...」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0249
-【Ibara】「ただの水なんて失礼なこと言うな！　あれは朝露を一滴一滴集めたものなんだぞ！？」
+【Ibara】「How rude to say that! That's morning dew collected drop by drop, you know!?」
 
-「朝露を一滴一滴？」
+「Morning dew, a drop at a time?」
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0250
-【Ibara】「そうだ。朝一番の光を浴びた花に溜まった朝露は、太陽の祝福を受ける。その水を集めたものは水の中でも純粋で花の加護がある水なんだ」
+【Ibara】「Yes. Yes, the morning dew accumulated in flowers bathed in the first ray of light, receives the blessing of the sun. That water is the purest and has the protection of flowers.」
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0251
-【Ibara】「その水を好んで飲むのはエルフの中でも高貴である、ボクのような花の紋章を持つ者だけなんだぞ」
+【Ibara】「Those who like to drink this water are the nobles amongst the elves. Only those who have a flower emblem like me.」
 
-イバラはまるでそっくり返りそうに誇らしげに説明した。
+Ibara explained proudly, as if answering my question squarely.
 
-「……」
+「...」
 
-俺は思わず手にある葉っぱに目をやった。
+I looked at the leaves in my hand without thinking.
 
 #voice ibab0252
-【Ibara】「暗いうちにあの花畑に行って、太陽が昇るなり集めてきたんだ」
+【Ibara】「I went to the flower field while it was dark, and gathered it as soon as the sun rose」
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0253
-【Ibara】「朝露を集めるのは大変だから特別なご馳走なんだけど、ニンゲンはそんなもの飲んだことがないだろうから特別に飲ませてやったんだ」
+【Ibara】「It's a special delicacy because it's hard to collect morning dew, but Human would have never drunk it before, so I wanted you to drink it especially.」
 
-……そうだよなぁ。朝露なんて、集めようとすればほんのぽっちりの水滴だ。
+...That's right. If you try to collect morning dew, it's just a few water droplets.
 
-そんなものを軽く飲み干せるほどとは言え、集めるのにはどんなに大変だったことだろう。
+How easy it was to to drink such a thing lightheartedly, yet how hard it must have been to collect.
 
-「ご、ごめんイバラ。そんなに大変なものだとは知らずに、味わいもせずに一気飲みしちゃったよ」
+「S-sorry, Ibara. I drank it all at once without tasting it, not knowing it was so difficult to gather.」
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0254
-【Ibara】「ん？　なんで謝るんだ？」
+【Ibara】「Nn? Why do you apologise?」
 
-俺が頭を下げると、イバラはキョトンとした。
+When I bowed my head, Ibara was shocked.
 
-「もっと大事に飲むべきだったんじゃないかと思って。ほんと、ごめん」
+「I think I should have drank it more carefully. Truly, sorry.」
 
-申し訳なさに謝罪を繰り返す俺に、イバラはにいっと満面の笑みを浮かべた。
+A big smile formed on his face at my repeated apologies.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0255
-【Ibara】「ふふん。なんだかわからないけど、あの飲み物の貴重さがニンゲンにもわかったようだな。大事にしようというのはいい心がけだ。ははははは」
+【Ibara】「Fufun. I don't really know exactly what it is, but it seems that Human understands the preciousness of that drink. It's a good mentality to cherish it. Hahahahaha」
 
-自分の苦労を顧みず、俺があの水の価値を認めたことを喜んでいるのか、イバラは胸を張って嬉しそうに高らかな笑い声を上げた。
+Without regard for his own hard work, or pleased that I recognized the worth of that water, Ibara puffed his chest out and let out a loud happy laugh.
 
 #voice ibab0256
-【Ibara】「ちょっと集めるのは大変だったけど、ニンゲンが気に入ったのならば、また持ってきてやってもいいぞ」
+【Ibara】「It was a little difficult to collect, but if Human likes it, I could bring it again.」
 
 ;イバラ好感度+1
 #set f2 f2+1
