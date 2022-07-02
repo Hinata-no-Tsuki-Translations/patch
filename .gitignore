@@ -3,3 +3,6 @@ extractXlsx/**/**
 
 insertXlsx/**/**
 !insertXlsx/*.py
+
+patch_update/**/**
+!patch_update/*.py
