@@ -10,6 +10,8 @@
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0087
 【Tsukiyo】「Ok. I'll work hard.」
@@ -23,6 +25,8 @@ Zakuu
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0088
 【Tsukiyo】「Hee...」
@@ -61,6 +65,8 @@ Tsukiyo let out a surprised face and then shook his head.
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0092
 【Tsukiyo】「Elves... and dark elves too, generally like flowers... Do humans hate them?」
@@ -108,6 +114,8 @@ To separate from the ground... Oh, he thought I was being mean to the flowers by
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0099
 【Tsukiyo】「Ha...」
@@ -131,6 +139,8 @@ I see, Tsukiyo did not hear when I was explaining the replanting process to Hina
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0102
 【Tsukiyo】「That's a relief」
@@ -142,6 +152,8 @@ I explained the replanting process to Tsukiyo.
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0103
 【Tsukiyo】「Ho, ho」
@@ -156,6 +168,8 @@ I explained the replanting process to Tsukiyo.
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0105
 【Tsukiyo】「It's fine, as long, as you don't take it all. The species of flowers, remain.」
@@ -198,6 +212,8 @@ Ibara held a lovely small flower that hung down like a bell.
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0108
 【Tsukiyo】「Yes」
@@ -223,6 +239,7 @@ Ibara held a lovely small flower that hung down like a bell.
 
 ;CHR T06F_L L
 #cg ツキヨ tuk_1_06f_l 左
+
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
@@ -299,6 +316,8 @@ Konomi showed off the flowers that he picked from above proudly, but....
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0109
 【Tsukiyo】「The soil is, brought back together too. After that, bury the entire thing in new soil」
@@ -310,6 +329,8 @@ Tsukiyo mimics me a little distance away from me, nervously digging at the soil 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0110
 【Tsukiyo】「E-Ehehe...」
@@ -350,6 +371,8 @@ Ibara, Hinata and Konomi dug at the soil happily, but it is unlikely that any of
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0112
 【Tsukiyo】「E-Ehehe...」

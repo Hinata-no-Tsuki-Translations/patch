@@ -43,7 +43,7 @@ A scene beyond imagination made me speechless.
 #bg bg04_1
 
 ;BGMch1 bgm003 ヒナタ 再生
-#bgm 0 bgm003
+#bgm 0 03
 
 ;EVCG EV002A1
 #cg all clear
@@ -378,7 +378,7 @@ I felt like I could clearly hear the words calling for help, and for a moment I 
 #cg イベント ev002a1 背景
 #wipe fade
 ;BGMch1 bgm003 ヒナタ 再生
-#bgm 0 bgm003
+#bgm 0 03
 
 「What is this...」
 

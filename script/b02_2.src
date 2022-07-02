@@ -3,6 +3,11 @@
 ;暗転
 ;#face off
 
+;FACE ON DBG1023
+#face on
+
+#mes clear
+
 #cg all clear
 #bg black
 #wipe fade
@@ -516,6 +521,8 @@ At that moment, someone called out from behind and I almost shouted out.
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice hinb0138
 【Hinata】「Human-san, what are you doing?」
@@ -533,6 +540,8 @@ Unexpectedly, upon gesturing with my finger in front of my lips to quieten him, 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0120
 【Tsukiyo】「To be quiet?」
@@ -558,6 +567,8 @@ He copies me and whispers, but sure enough, doesn't understand it.
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0121
 【Tsukiyo】「What is that?」
@@ -588,6 +599,8 @@ Once again, when I tried to leave the place, my shirt was pulled from behind.
 ;CHR T09F R
 #cg ツキヨ tuk_1_09f 右
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0124
 【Tsukiyo】「Uuー...」
@@ -597,6 +610,8 @@ Once again, when I tried to leave the place, my shirt was pulled from behind.
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0125
 【Tsukiyo】「Yes, please」
@@ -803,6 +818,8 @@ Perhaps because they were so absorbed in it, they didn't seem to notice us peeki
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0132
 【Tsukiyo】「Ha, Haa...」
@@ -827,6 +844,8 @@ Hinata is also excited, even as he holds down his crotch in a fidgety manner.
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0134
 【Tsukiyo】「D-does a penis fit in the butt?」
@@ -845,6 +864,8 @@ Tsukiyo is taken aback by Hinata's words.
 ;CHR T09F R
 #cg ツキヨ tuk_1_09f 右
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0135
 【Tsukiyo】「The penis being eaten?」
@@ -856,6 +877,8 @@ Tsukiyo stepped back, afraid.
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0136
 【Tsukiyo】「Nn!? Was the penis hurt?」
@@ -881,6 +904,8 @@ When Hinata asked innocently, Tsukiyo nodded with Ko -kun.
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0137
 【Tsukiyo】「To lick many places? ...I'm sure it's dirty, that's why I couldn't have it done for me」
@@ -892,6 +917,8 @@ Downheartedly, Tsukiyo drooped his shoulders even more at Hinata's recommendatio
 ;CHR T04F R
 #cg ツキヨ tuk_1_04f 右
 #wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
 
 #voice tikb0138
 【Tsukiyo】「All elves say that different skin color, dark elves are dirty. So you don't have to worry about it.」
@@ -907,6 +934,8 @@ On the contrary, the smile tells me just how much misery he has experienced.
 ;CHR T09F R
 #cg ツキヨ tuk_1_09f 右
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0139
 【Tsukiyo】「Thank you very much, I am happy from just being told that.」
@@ -934,6 +963,8 @@ Or perhaps it was the fact that he did not experience what the other elves did, 
 ;CHR T02F R
 #cg ツキヨ tuk_1_02f 右
 #wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
 
 #voice tikb0141
 【Tsukiyo】「Must I put a penis in my butt, after all? It feels somewhat scary. So, never mind that」
@@ -974,6 +1005,8 @@ As Hinata said that, he held his legs up on his own to reveal his private parts,
 ;CHR T09F R
 #cg ツキヨ tuk_1_09f 右
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0143
 【Tsukiyo】「Ha, Hauuuuuuuuuuu...」
@@ -1492,14 +1525,17 @@ I did not hesitate to scrape my glans against his warm folds, pushing myself to 
 #wipe fade 300
 
 ;SE se024 射精音2（エルフ）
+#se 1 se024
 
 Doppopururubyu (ejaculation)
 
 ;SE se023 射精音1（ニンゲン）
+#se 1 se023
 
 At almost the same time, the three penises expelled semen energetically.
 
 ;SE se024 射精音2（エルフ）
+#se 1 se024
 
 #voice tikb0192
 【Tsukiyo】「Aaaaa... My tummy has become so full... Aa, it's going to spill if you pull out...」
@@ -1518,6 +1554,8 @@ The two mumbled dazedly as they immersed in the afterglow.
 
 ;SMODE 013 STOP
 #endscene
+
+#face f_iba_0_01f 94 466
 
 #voice ibab0179
 【Ibara】「Oh? That's good for you」

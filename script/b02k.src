@@ -65,14 +65,14 @@ My words were too late, as more flowers were mercilessly ripped out.
 
 「Don't forcefully pull it out, don't you feel bad for the flowers?」
 
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
 #voice konb0141
 【Konomi】「Ehh‾? But aren't you taking them home‾?」
 
 「Even so, if the roots are torn off, we can't replant them」
-
-;CHR K02F2 C
-#cg コノミ kon_1_02f2 中
-#wipe fade
 
 #voice konb0142
 【Konomi】「Replant‾?」
@@ -81,8 +81,8 @@ My words were too late, as more flowers were mercilessly ripped out.
 
 「And if you pull it out so violently, we can't sell if as a flower either」
 
-;CHR K02F1 C
-#cg コノミ kon_1_02f1 中
+;CHR K06F C
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0143
@@ -96,14 +96,14 @@ I crouched down and explained again, this time to look for flowers that seem eas
 
 「Look here, flowers have these roots attached. The flower absorb nutrients from the soil through these roots.」
 
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
 #voice konb0144
 【Konomi】「The roots are important‾?」
 
 「Yes. So as not to hurt the roots, slowly dig to figure out the shape of the roots if you do not know where the roots are」
-
-;CHR K05F C
-#cg コノミ kon_1_05f 中
-#wipe fade
 
 #voice konb0145
 【Konomi】「Fuuーn」
@@ -112,8 +112,8 @@ I thought he wouldn't be interested in this, but surprisingly, Konomi squatted d
 
 「I actually wanted to bring some soil home... See, if you shake off the soil, you can see that the roots expand very deeply」
 
-;CHR K02F1 C
-#cg コノミ kon_1_02f1 中
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0146
@@ -126,6 +126,10 @@ I thought he wouldn't be interested in this, but surprisingly, Konomi squatted d
 
 「Yes. So isn't sad to rip them off unnecessarily?」
 
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
 #voice konb0148
 【Konomi】「Ohh‾」
 
@@ -133,14 +137,18 @@ I thought he wouldn't be interested in this, but surprisingly, Konomi squatted d
 
 「That's why, for the flowers I want you to bring back, dig up the surrounding soil and bring that back as well」
 
-;CHR K01F1B C
-#cg コノミ kon_1_01f1b 中
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0149
 【Konomi】「Understood‾」
 
 「Also, I don't know if it will take root if I replant, so I will take home 1-2 flowers per species or even 2-3 flowers per species」
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
 
 #voice konb0150
 【Konomi】「Okay. Doesn't Human-kun like flowers‾」
@@ -196,14 +204,14 @@ So, so as not to lie....
 
 「...Ahh, that's right. There are many humans who grow flowers carefully, those people would definitely take good care of flowers when they get them.」
 
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
 #voice konb0156
 【Konomi】「In that case, it'll be great if those people can buy these flowers‾」
 
 「Ahh, that's right」
-
-;CHR K01F1B C
-#cg コノミ kon_1_01f1b 中
-#wipe fade
 
 #voice konb0157
 【Konomi】「Grow up carefully, okay‾?」
@@ -213,7 +221,6 @@ So, so as not to lie....
 ;#wipe fade
 ;FACE I01F
 #face f_iba_0_01f 94 466
-
 
 #voice ibab0127
 【Ibara】「What are you two doing?」
@@ -228,13 +235,11 @@ So, so as not to lie....
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
-
 #voice hinb0130
 【Hinata】「Eh? Konomi can talk to flowers!?」
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
-
 
 #voice ibab0128
 【Ibara】「Or can that flower speak? Could it be, a monster!?」
@@ -251,7 +256,6 @@ So, so as not to lie....
 ;#wipe fade
 ;FACE I02F
 #face f_iba_0_02f 94 466
-
 
 #voice ibab0129
 【Ibara】「You can't know that! Oi, flower, are you a monster!?」
@@ -301,6 +305,10 @@ As he said that, Ibara looked somewhat mature as he watched Ibara and the rest.
 
 #voice konb0163
 【Konomi】「I also believe‾, it'll be good if with could talk with them‾」
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
 
 #voice konb0164
 【Konomi】「If you could talk with anyone of them, will you introduce me too‾?」

@@ -42,7 +42,6 @@
 
 The wind blew.
 
-
 ;名も無きエルフ
 ;ヒナタ
 #voice hina0001
@@ -75,7 +74,7 @@ Two worlds of different planes overlapped, melded, and became one.
 The two worlds cast apart a long time ago, was trying to become one again――。
 
 ;BGMch1 bgm001 再生
-#bgm 0 bgm001
+#bgm 0 01
 
 ;アニメーション：満月から月食、再び満月へ
 ;9/25暫定：BGのみでの処理
@@ -87,7 +86,7 @@ The two worlds cast apart a long time ago, was trying to become one again――�
 
 ;MC
 ;スキップ禁止
-#wipecancel disabled
+#waitcancel disabled
 
 #cg イベント ev001b2 背景
 #wipe fade 3000
@@ -108,7 +107,7 @@ The two worlds cast apart a long time ago, was trying to become one again――�
 
 ;MC
 ;スキップ禁止解除
-#wipecancel enabled
+#waitcancel enabled
 
 ;暗転
 ;#face off
@@ -192,6 +191,8 @@ Lives that knew no fear, crossed the boundary and boldly set foot into the unfam
 ;CHR T10F4 C
 #cg ツキヨ tuk_1_10f4 中
 #wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
 
 ;ダークエルフ
 ;ツキヨ

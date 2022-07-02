@@ -354,6 +354,8 @@ Ibara, who was completely taken by surprise, stared helplessly as the sweets wer
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice ibab0240
 【Ibara】「T-that's not exactly... I-It's not like I really want to eat human food...」
@@ -387,6 +389,8 @@ Even as I say soothingly, Ibara who is set on being resentful, sulks and turns a
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0219
 【Tsukiyo】「Delicious.」
@@ -565,6 +569,12 @@ Without regard for his own hard work, or pleased that I recognized the worth of 
 
 #voice ibab0256
 【Ibara】「It was a little difficult to collect, but if Human likes it, I could bring it again.」
+
+;MCK1023
+#face off
+#mes clear
+#mes off flash
+#system off flash
 
 ;イバラ好感度+1
 #set f2 f2+1

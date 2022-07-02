@@ -8,6 +8,9 @@
 ;※アイキャッチ表示
 ;BG:BG36_1
 
+;スキップ禁止
+#waitcancel disabled
+
 #mes off fade
 #system off fade
 
@@ -29,6 +32,10 @@
 #system on flash
 
 ;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
 
 ;FACE ON
 #face on
@@ -89,9 +96,16 @@ Since I received flour, eggs, and honeyed sweets, I will be eating luxuriously f
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice konb0224
 【Konomi】「Is it a toy‾?」
+
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0195
 【Tsukiyo】「...it's a little sticky」
@@ -200,7 +214,7 @@ Hinata tosses it entirely into his mouth and I panic instead.
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
-;「口の中で転がす?」
+;「口の中で転がす？」
 #voice hinb0206
 【Hinata】「Roll it in my mouth (muffled)...?」
 
@@ -308,12 +322,19 @@ When Ibara was about to drop the candy a distance away from himself in aversion,
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
+
 ;CHR K06F R
 #cg コノミ kon_1_06f 右
 #wipe fade
 
+#face f_tuk_0_05f_l 94 466
+;ssdelete
+
 #voice tikb0198
 【Tsukiyo】「...Eii」
+
+#cg コノミ kon_1_06f 右
+#wipe fade
 
 #voice konb0227
 【Konomi】「Chomp」
@@ -327,6 +348,8 @@ And the two nervous expressions are replaced by astonished ones.
 ;CHR T06F_L L
 #cg ツキヨ tuk_1_06f_l 左
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0199
 【Tsukiyo】「Fu, fuwawawaawawa!」
@@ -361,6 +384,8 @@ And their gaze turns towards the candy in Ibara's hand.
 ;CHR T09F L
 #cg ツキヨ tuk_1_09f 左
 #wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
 
 #voice tikb0200
 【Tsukiyo】「...」
@@ -398,6 +423,8 @@ At my voice, Ibara, who was drunk on the candy's sweetness, pursed her lips in a
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
 #wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
 
 #voice tikb0201
 【Tsukiyo】「There was such a delicious thing?」
@@ -444,9 +471,13 @@ I took out the notebook and ink I got from the village, and wrote that the elves
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
+
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
+
+#face f_tuk_0_05f_l 94 466
+;ssdelete
 
 #voice tikb0202
 【Tsukiyo】「What are you doing?」
@@ -496,6 +527,8 @@ I took out the notebook and ink I got from the village, and wrote that the elves
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0204
 【Tsukiyo】「That's amazing」
@@ -659,9 +692,16 @@ After grinding the nuts, pouring the flour out into a miniature hill, Hinata jum
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice ibab0200
 【Ibara】「What are you planning to do!」
+
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0205
 【Tsukiyo】「Again, what are you doing?」
@@ -684,6 +724,8 @@ Even though I wanted to finish my work before they gathered.
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0206
 【Tsukiyo】「Food?」
@@ -693,6 +735,8 @@ Even though I wanted to finish my work before they gathered.
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0207
 【Tsukiyo】「...You're doing something different than usual, I am curious」
@@ -739,6 +783,8 @@ However, the gummy feeling when kneading the flour somewhat feels good...
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0208
 【Tsukiyo】「If I wash my hands, can I touch it?」

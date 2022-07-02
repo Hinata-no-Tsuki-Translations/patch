@@ -51,7 +51,7 @@ Butsun! The hanging child dropped to the ground with one good cut.
 
 The child who fell with a slamming noise sat up and cried.
 
-;※立ち表示 ファイル 位置（L:C:R）フェイス指定がない場合は立ち表示と同じフェイス
+;※立ち表示　ファイル　位置（L:C:R）フェイス指定がない場合は立ち表示と同じフェイス
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
@@ -583,7 +583,7 @@ As soon as the tongue crawled over her skin, the elf jumps up and runs away.
 
 「Aa...hey, you shouldn't run away」
 
-;SE se017 草むらへ倒れる 再生
+;SE se017 草むらへ倒れる　再生
 #se 1 se017
 
 I inadvertently caught the elf and pushed it down into the grass.

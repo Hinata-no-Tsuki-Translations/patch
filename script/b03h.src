@@ -184,6 +184,8 @@ It's troublesome to form them into round shapes, and also troublesome to line th
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0209
 【Tsukiyo】「It smells good.」
@@ -234,11 +236,18 @@ Maybe they grew tired of playing, or they were interested in the outcome of the 
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice ibab0203
 【Ibara】「Do sweets become invisible after baking them?」
 
 「Eh?」
+
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0210
 【Tsukiyo】「It is just a plate. Is this brown powder the sweet?」
@@ -463,6 +472,8 @@ Just after I prepared tea, the next batch was ready.
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
 #wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
 
 #voice tikb0214
 【Tsukiyo】「Ibara, why are you angry?」
@@ -510,12 +521,19 @@ Just after I prepared tea, the next batch was ready.
 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
+
 ;CHR K03F R
 #cg コノミ kon_1_03f 右
 #wipe fade
 
+#face f_tuk_0_04f 94 466
+;ssdelete
+
 #voice tikb0215
 【Tsukiyo】「My tummy is full」
+
+#cg コノミ kon_1_03f 右
+#wipe fade
 
 #voice konb0244
 【Konomi】「Me too‾ I can't eat anymore‾」
@@ -529,6 +547,8 @@ Just after I prepared tea, the next batch was ready.
 ;CHR T01F_L L
 #cg ツキヨ tuk_1_01f_l 左
 #wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
 
 #voice tikb0216
 【Tsukiyo】「It's for later.」
@@ -682,47 +702,59 @@ Hinata noticed that.
 
 The meek Hinata showed me the powder in his hand that had impossible stickiness.
 
+;===カット位置 START
+
+;「……それ、何と何が入ってる？」
+
+;#voice hinb0254
+;【ヒナタ】「んとね。きのうニンゲンさんがとうめいでとろっとしたのいれてたから、おそとできとかからあつめてきたの！」
+
+;透明でとろって蜜のことか、油のことか……。
+
+;「どの木？」
+
+;#voice hinb0255
+;【ヒナタ】「ぐにゃーんってなってるやつ！」
+
+;===カット位置 STOP
+
 「...That, what is it made of?」
 
-#voice hinb0254
 【Hinata】「Nnto-ne. Yesterday Human-san put in something transparent and thick, so I gathered some from the tree outside!」
+
+;===カット位置 START
+
+;#voice hinb0256
+;【ヒナタ】「ほえぇえええ！？」
+
+;===カット位置 STOP
 
 Something transparent and viscous, is it honey, or is it oil....
 
-「Which tree?」
+;===カット位置 START
 
-#voice hinb0255
-【Hinata】「The one that's squishy!」
+;#voice hinb0257
+;【ヒナタ】「ヒナタまちがえちゃったの！？」
 
-...That is not honey or oil, isn't it tree sap.
+;「うん。人間はエルフよりずっと色んなものを食べるみたいだけど、食べられないものも沢山あるからね」
 
-「Hinata... it's too bad, that can't be eaten」
-
-#voice hinb0256
-【Hinata】「Hueeeeeeeeee!?」
-
-「What I put in yesterday was boiled nectar from flowers and oil extracted from Oil Beans, and not the sap from a tree」
-
-#voice hinb0257
-【Hinata】「Hinata made a mistake?」
-
-「Yep. Humans seem to eat more kinds of things than elves,, but there are many things that we can't eat.」
+;===カット位置 STOP
 
 #voice hinb0258
-【Hinata】「Although Hinata took the effort to make it-」
+「Which tree?」
 
-Even if Hinata sulks, I can't eat such a terrifying thing.
+【Hinata】「The one that's squishy!」
 
 ;EVCG EV016A1
 #cg イベント ev016a1 背景
 #wipe fade
 
 #voice hinb0259
-【Hinata】「Wawaa, a lot of it is stuck to my hand!」
+...That is not honey or oil, isn't it tree sap.
 
-「Of course, it's tree sap」
+「Hinata... it's too bad, that can't be eaten」
 
-Good grief, it's become difficult to handle.
+【Hinata】「Hueeeeeeeeee!?」
 
 ;暗転
 ;#face off
@@ -740,82 +772,88 @@ Good grief, it's become difficult to handle.
 #bg BG07b_1
 #wipe fade
 
-After I managed to somehow get Hinata's hands cleaned, and tidied up the hut briefly, Hinata droops his shoulders in disapppointment.
+「What I put in yesterday was boiled nectar from flowers and oil extracted from Oil Beans, and not the sap from a tree」
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0260
-【Hinata】「Hinata wanted Human-san to eat something delicious」
+【Hinata】「Hinata made a mistake?」
 
-「Just your feelings is enough」
+「Yep. Humans seem to eat more kinds of things than elves,, but there are many things that we can't eat.」
 
-I say sincerely and pat Hinata's head.
+【Hinata】「Although Hinata took the effort to make it-」
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0261
-【Hinata】「Eheheー」
+Even if Hinata sulks, I can't eat such a terrifying thing.
 
-Hinata's eyes narrowed as I stroke his head.
+【Hinata】「Wawaa, a lot of it is stuck to my hand!」
 
-「But food is precious, so please don't touch it from now on. I'm counting on you.」
+「Of course, it's tree sap」
 
 #voice hinb0262
-【Hinata】「Okay! Hinata wanted to surprise Human-san」
+Good grief, it's become difficult to handle.
 
-「I was surprised indeed. Surprised in a different meaning...」
+After I managed to somehow get Hinata's hands cleaned, and tidied up the hut briefly, Hinata droops his shoulders in disapppointment.
 
-Elves fundamentally don't eat, so they can't distinguish between the edible and inedible, surely.
+【Hinata】「Hinata wanted Human-san to eat something delicious」
 
-「I've said it before, but humans have things that can be eaten and things that cannot, I'll be glad if you can remember that well」
+「Just your feelings is enough」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0263
-【Hinata】「Okay, I understand!」
+I say sincerely and pat Hinata's head.
 
-At least his reply is energetic, but anyway...
+【Hinata】「Eheheー」
 
-「In that case, could you help me collect hazelnuts next time? I added a lot in yesterday's pastries but it's hard to gather them.」
+Hinata's eyes narrowed as I stroke his head.
 
-Yesterday's portion had been bought, but according to the book left in this hut, there should be a little growing around here.
+「But food is precious, so please don't touch it from now on. I'm counting on you.」
 
 #voice hinb0264
-【Hinata】「Hazelnuts! I got it! I'll try to collect lots!」
+【Hinata】「Okay! Hinata wanted to surprise Human-san」
 
-「Good boy, I'm counting on you. Since the nuts last a long time, it'll be helpful if you can collect more.」
+「I was surprised indeed. Surprised in a different meaning...」
 
 ;CHR H05F C
 #cg ヒナタ hin_1_05f 中
 #wipe fade
 
 #voice hinb0265
-【Hinata】「It'll help Human-san? Human-san will be happy?」
-「Yeah」
+Elves fundamentally don't eat, so they can't distinguish between the edible and inedible, surely.
+「I've said it before, but humans have things that can be eaten and things that cannot, I'll be glad if you can remember that well」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0266
-【Hinata】「Hinata will do his bestest!」
+【Hinata】「Okay, I understand!」
 
-「And Hinata, if you want to eat sweets again, could you head to the nearest village and stock up on the ingredients for sweets again?」
+At least his reply is energetic, but anyway...
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0267
-【Hinata】「Yesー!」
+「In that case, could you help me collect hazelnuts next time? I added a lot in yesterday's pastries but it's hard to gather them.」
 
-Well, it seems Hinata wanted to please me. His feelings alone made me genuinely happy.
+Yesterday's portion had been bought, but according to the book left in this hut, there should be a little growing around here.
+
+;MCK1023
+#face off
+#mes clear
+#mes off flash
+#system off flash
 
 ;ヒナタ好感度+1
 #set f1 f1+1
