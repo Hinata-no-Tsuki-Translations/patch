@@ -1,0 +1,513 @@
+
+; * Eye-catching display
+;BG:BG38_1
+
+;Do not skip
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg38_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;Release skip prohibition
+#waitcancel enabled
+
+;FACE ON DBG1023
+#face on
+
+;BGMch2 amb004 hut (night) playback
+;#se 0 amb004
+#bgvoice amb004
+
+;Background: Inside a mountain hut (at night)
+;BG BG07b_3
+#cg all clear
+#bg bg07b_3
+#wipe fade
+
+It came suddenly.
+
+"...I'm tired"
+
+Since he could not sustain himself on vegetables and grains alone, he basically relied on small animals caught nearby or dried meat for protein, but...
+
+I suddenly got bored.
+
+"I want to eat fish..."
+
+Small fish can be caught in the nearby stream, but they are too small to eat.
+
+In that case, I have no choice but to go to the spring and catch fish, or go to the village and buy dried fish or pickled in oil.
+
+“Fishing huh… it’s been a while.”
+
+; blackout
+;# face off
+
+#cg 0 clear
+#bg black
+#wipe fade
+
+;BGMch2 amb003 hut (daytime) playback
+;#se 0 amb003
+#bgvoice amb003
+
+;Background: Mountain hut (daytime)
+;BG BG07b_1
+#cg all clear
+#bg bg07b_1
+#wipe fade
+
+#face on
+
+Elves came when I was preparing for fishing.
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0389
+[Hinata] “Ah!
+
+;CHR H01F1_AL
+#cg Hinata hin_1_01f1_a left
+;CHR I02F R
+#cg Ibara iba_1_02f right
+#wipe fade
+
+#voice ibab0448
+[Ibara] "Hinata is an idiot, that's a fishing rod."
+
+#cg all clear
+
+;CHR I02F L
+#cg Ibara iba_1_02f Left
+;CHR K01F1B R
+#cg Konomi kon_1_01f1b right
+#wipe fade
+
+#voice konb0424
+[Konomi] "Ningen-kun, are you going fishing?"
+
+"Yes. I want to eat fresh fish."
+
+#cg Konomi clear
+
+;CHR T02F R
+#cg Tsukiyo tuk_1_02f right
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0433
+[Tsukiyo] "Fish, food, it smells..."
+
+#voice ibab0449
+[Ibara] "Even though it smells bad, you can't put that kind of thing in your mouth."
+
+"Fresh fish doesn't smell fishy."
+
+#cg Tsukiyo clear
+#wipe fade
+
+;CHR K01F1B R
+#cg Konomi kon_1_01f1b right
+#wipe fade
+
+#voice konb0425
+[Konomi] "Hmm, that may be true for Ningen-kun, but we're a little curious, aren't we?"
+
+"Even though it's delicious to eat"
+
+#voice ibab0450
+[Ibara] "Yeah"
+
+;CHR ON
+;#cg on
+;#wipe fade
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+
+#voice tikb0434
+[Tsukiyo] "Hawa, Hawawa"
+
+#voice konb0426
+[Konomi] "I wonder if I'm a little unreasonable‾"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0390
+[Hinata] "I can't even eat Hinata!"
+
+The elves cover their mouths at will, frown, and express in extremes that they cannot eat fish.
+
+I wish I didn't have to make such a disgusting face...
+
+"I'm not telling you to force yourself to eat. Well then, I'm going fishing today, but won't everyone come with me? To be honest, if I make a noise, the fish will run away, so it's better."
+
+;CHR I04F L
+#cg Ibara iba_1_04f Left
+#wipe fade
+
+#voice ibab0451
+[Ibara] "Noisy!? I'm always quiet!"
+
+;CHR ON
+;#cg on
+;#wipe fade
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0391
+[Hinata] "I don't like the smell, but I want to play with humans!"
+
+;FACE T09F
+#face f_tuk_0_09f 94 466
+
+
+#voice tikb0435
+[Tsukiyo] "Yes..."
+
+#voice konb0427
+[Konomi] "Ningen-kun should be on a different schedule‾?"
+
+"Even if you say that, humans will die if they don't eat, so I'm going fishing as planned. I also want to bathe."
+
+There's a stream nearby, so I don't think it's dirty, but even so, it's a rare opportunity to bathe my whole body.
+
+Even though I thought about it, there was no way I could miss it.
+
+;CHR I09F L
+#cg ibara iba_1_09f left
+#wipe fade
+
+#voice ibab0452
+[Ibara] "Bathing!?"
+
+;CHR ON
+;#cg on
+;#wipe fade
+;FACE H08F1_A
+#face f_hin_0_08f1 94 466
+
+
+#voice hinb0392
+[Hinata] "Wow, I love water play!"
+
+;CHR K01F2B R
+#cg Konomi kon_1_01f2b right
+#wipe fade
+
+#voice konb0428
+[Konomi] "That's good‾"
+
+;CHR ON
+;#cg on
+;#wipe fade
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+
+#voice tikb0436
+[Tsukiyo] "Looks like it's going to be fun."
+
+……Oops. I ignited the spirit that followed me.
+
+Moreover, if you get smashed nearby, you won't be able to fish.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0393
+[Hinata] "Mr. Waningen, hurry up!"
+
+That's why, as usual, I decided to bring the elves with me. and cheeks.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;weight
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bg bg03_1
+#wipe fade
+
+;BGMch2 amb005 Fountain (Daytime) Playback
+;#se 0 amb005
+#bgvoice amb005
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0394
+[Hinata] "Hey!"
+
+;BGMch1 bgm008 Fun Play -> Change to 15
+#bgm 0 15
+
+"Don't make too much noise, the spring is close to the village."
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+
+#voice tikb0437
+[Tsukiyo] "I'll be careful."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+
+#voice ibab0453
+[Ibara] "Is that so? But I've never seen a human around here."
+
+;FACE OFF
+;# face off
+
+“Huh?
+
+After all, it's not that big of a spring.
+
+If you're a little sharp-eyed, even if it's from the opposite bank, these kids aren't human...
+
+"Ah, is that so?"
+
+The location on the opposite bank is deep in the forest.
+
+At the border between the village and this side, there is a land like Dejima that you can't step on due to fallen trees, etc., so it's just a blindfold.
+
+Basically, the villagers don't come here, so there's a high probability that they won't be found if they don't swim very close to the opposite shore.
+
+With this, you can play with peace of mind.
+
+;SMODE 020 PLAY
+#label replay020
+#setscene 19
+#bg bg03_1
+
+;EVCGEV023A1
+#cg event ev023a1 background
+#wipe fade
+
+;MC
+#face on
+
+;FACE H08F1
+#face f_hin_0_08f1 94 466
+
+
+#voice hinb0395
+[Hinata] "Kyaha!"
+
+;SE se027 splash 1 play
+#se 1 se027
+
+"Wow! Idiot!"
+
+;FACE I07F
+#face f_iba_0_07f 94 466
+
+
+#voice ibab0454
+[Ibara] "Oh, this spring is clear and feels good."
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+
+#voice konb0429
+[Konomi] "Ningen-kun, don't you play too? It feels good."
+
+"So did I tell you? I'm a fisherman."
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+
+#voice tikb0438
+[Tsukiyo] "Wow, it feels good..."
+
+"Hey, this one is deeper, so play only in the shallower area over there, okay?"
+
+;EVCGEV023A2
+#cg event ev023a2 background
+#wipe fade
+
+;FACE H08F1
+#face f_hin_0_08f1 94 466
+
+
+#voice hinb0396
+[Hinata] "Kyahahahaha, I found a fish!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+
+#voice ibab0455
+[Ibara] "Oh, hey! Don't let me come over here, it's disgusting!"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0430
+[Konomi] "Fufufu‾ Look, there's a stone turtle‾"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+
+#voice tikb0439
+[Tsukiyo] "Huh... Turtles are cool, too."
+
+"I haven't heard about this at all."
+
+Well, okay If you're this close, you'll be able to go help immediately.
+
+More than that, I wonder if I can catch a fish with this much noise...
+
+; blackout
+;# face off
+
+#cg 0 clear
+#bg black
+#wipe fade
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bg bg03_1
+#wipe fade
+
+#wait 1000
+
+;MC
+
+#cg 0 clear
+#bg black
+#wipe fade
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bg bg03_1
+#wipe fade
+
+;MC
+
+"I can catch fish unexpectedly..."
+
+Perhaps the elves making a fuss had the effect of the drive-in fishing, and the big catch was also good.
+
+It's a catch that I'm in trouble if I don't round it up at an appropriate point.
+
+"... but what should I do even if it's like this?"
+
+;EVCGEV023A1
+#cg event ev023a1 background
+#wipe fade
+
+When I suddenly looked at the elves, they didn't look tired from playing.
+
+It's okay to leave it alone for a while.
+
+;SMODE 020 STOP
+#endscene
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bg bg03_1
+#wipe fade
+
+It's heavy to bring back raw fish, so for the time being, I'll grill what I'll eat, cut up the rest, remove the guts, smoke it, and process it until it's dried.
+
+If you do that, it will last for a while, so it will be helpful.
+
+I took out my knife and began to sharpen it.
+
+; blackout
+;# face off
+
+#cg 0 clear
+#bg black
+#wipe fade
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bg bg03_1
+#wipe fade
+
+“Well, my stomach is full.
+
+After finishing the meal, I finished bathing, and before eating, I turned over the fish that had been dried open and stretched out a lot.
+
+"No, I worked today."
+
+It seems that the elves are already indulging in their own games.
+
+It seems that this area is different from humans, or if there were only this many humans, they would probably play together, but they don't seem to be interested in such things.
+
+They do whatever they please, and if they happen to match, they spend time together, and if that happens, they do whatever they want even when they're together like this.
+
+Ibara looking into the fountain and Konomi enjoying the bath are fine...
+
+Tsukiyo, who has been acting suspiciously back and forth in the forest since a while ago, what is Hinata doing when she is collecting stones?
+
+The thing that worries me the most is...
+
+;・Choice generation
+; Select A ⇒ Jump to "b06h"
+; Select B ⇒ Jump to "b06i"
+; Select C ⇒ Jump to "b06k"
+; Select D ⇒ Jump to "b06t"
+
+#select b06a b06b b06c b06d
+A: Hinata
+B: Thorn
+C: Konomi
+D: Tsukiyo
+
+
+#label b06a
+#next b06h top
+
+#label b06b
+#next b06i top
+
+#label b06c
+#next b06k top
+
+#label b06d
+#next b06t top
+
