@@ -1,3 +1,12 @@
+## Install pandas and xlsxwriter
+```
+pip install pandas
+```
+
+```
+pip install xlsxwriter
+```
+
 ## Extract non-code lines from src file to Excel xlsx file
 
 1. translated src files to `jpn` folder
