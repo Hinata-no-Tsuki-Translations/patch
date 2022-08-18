@@ -12,3 +12,8 @@ Example output:
 | ------------- |-------------| -----|---|
 | 45    |「……ま、こんなもんか」 |「...Well, that should do it.」  ||
 
+
+## Count lines of script files in `jpn` folder
+
+1. src files in `jpn` folder
+2. Prints list of counts of script files in alphabetical order in `count.txt`
