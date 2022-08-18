@@ -1,0 +1,2104 @@
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG37_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg37_1
+#wipe fade 1000
+
+#wait 3000
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;MCK
+;背景：山小屋前（夕）→昼に変更しました（その後買い出しにいくので）
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+#wait 2000
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+#wait 1000
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+;FACE ON
+#face on
+
+Today I was able to read the book in the mountain hut without being disturbed by the elves.
+
+At the time the book here was written, elven research wasn't in the mainstream of academics, so it seems that even in the big cities it wasn't making much progress.
+
+That's because individual elves are difficult to recognize, and even in this nearby area where elven hauntings have been relatively observed, it's no more than a legend.
+
+If so, the situation is probably not much different now.
+
+Even now, I've only heard stories about meeting elves in drunken tales.
+
+No matter how many rich people seem to have elves, I wonder how many rich people are willing to give up those elves for academic purposes.
+
+I don't think there's a lot of curiosity about offering elves treated as jewelry or toys for academic research.
+
+Rich people are stingy, and unless you're a dilettante, you can't ask for help with research that doesn't make money.
+
+There's an elf hunter as a profession, but in this village it's almost like a charlatan or a scammer who's no different from a rogue.
+
+It is said that there are many elf hunters who have never seen an elf.
+
+It is inconceivable that research alone will advance without the appearance of observation targets. Moreover, elves living in nature have never been observed.
+
+Moreover, it shouldn't be possible to observe four elves at once.
+
+Besides, according to the thorns, except for the big elves, they don't go out of the living quarters very often.
+
+If that's the case, the record I'm writing may also play a big role in elven research.
+
+What a little megalomania.
+
+"...But if you're just reading books, you'll feel a little heavy in your head. Let's take a walk around here before it gets dark."
+
+;BGMch2 amb003 停止
+#bgvoice stop
+
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;MCK
+;背景：山小屋外（夕）→昼に変更
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+"Hmm"
+
+When I stretched slowly, my body seemed to be quite stiff, and I felt a pleasant creaking pain.
+
+I moved here hoping to live in a secluded house and enjoy reading quietly, but when it comes to the situation I wanted, it was unexpectedly boring.
+
+Well, thanks to the elves, it was noisy all the time.
+
+"... Well, in the end, the powder that I thought I bought a lot of was gone, so I have to go shopping in the village again tomorrow."
+
+I made a lot of mistakes when I made the sweets, and because of that I became stubborn and ended up making a lot of them, so I ended up consuming more ingredients than planned.
+
+It's nice to leave the village, but it's troublesome to have to work all day just for shopping.
+
+That said, I can say that my reclusive life is off to a reasonably good start.
+
+I never dreamed that I would end up living with an elf, and never thought I would get so many books.
+
+A series of unexpected events enrich my life.
+
+The elves will eventually leave here, and the days that follow will be nothing. I'm sure I'll read all the books here soon.
+
+……Since I was able to meet the elves and get a glimpse of a part of their ecology, it is worth considering whether I can go to the royal capital and sell the records.
+
+I moved here to vaguely leave the human village, but when I think about the future, it might be good to move to the royal capital.
+
+"Hmm?"
+
+As I was walking around thinking about it, I suddenly noticed that the area around the hut was littered with walnuts.
+
+It seems that there is a walnut tree near here, but at least it has been confirmed that it does not grow within the visible range.
+
+"Where did this come from..."
+
+I looked up, but as I thought, there was no Shibaguri tree in sight.
+
+“What do you mean?
+
+#bgm 0 stop
+
+;MCK
+;SE se015	足音１（飛び退く）
+#se 1 se015
+
+#bgvoice stop
+
+;MCK
+;BGMch2 bgm003 再生
+#bgm 0 03
+;ヒナタのテーマ
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0287
+[Hinata] "Wow!? Aitata..."
+
+Hinata hit me from the side with terrifying force, and I fell to my knees.
+
+Since I was looking up, I was completely caught off guard.
+
+;CHR H01F2 C
+#cg ヒナタ hin_1_01f2 中
+#wipe fade
+
+#voice hinb0288
+[Hinata] “Oh!
+
+Hinata smiled unapologetically, but when she noticed that I had fallen, her face became strange.
+
+;CHR H04F2 C
+#cg ヒナタ hin_1_04f2 中
+#wipe fade
+
+#voice hinb0289
+[Hinata] "Oops‾ What's up, human?"
+
+Wow, the hand that was sticking out of my side stabbed me...
+
+"Gefu, goho..."
+
+Hinata worriedly looked into me as I stood up with a coughing fit.
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0290
+[Hinata] "Do you want to be hungry?"
+
+“Hinata hit me and it hurt.
+
+;CHR H01F1 C
+#cg ヒナタ hin_1_01f1 中
+#wipe fade
+
+#voice hinb0291
+[Hinata] "Huh? I'm sorry! Hinata, you found Human-san, so you rushed here!"
+
+Hinata and Nico Nico stick out their hands without feeling sorry for my protest.
+
+"Huh? What?"
+
+#voice hinb0292
+[Hinata] "This is what you use to make sweets! I brought a lot of them, so please make them again!"
+
+There were three shiba walnuts on his hand.
+
+……Full of three, huh?
+
+"...Just in case, what's next for Hinata?"
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0293
+[Hinata] "Huh? Three, isn't it?"
+
+“Oh, I know that.
+
+#voice hinb0294
+[Hinata] "One, two...?"
+
+Hinata finally looked into her own palm. and rolled his eyes.
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0295
+[Hinata] "Hare!? There are only three left!?"
+
+"So you brought more?"
+
+;CHR H07F C
+#cg ヒナタ hin_1_07f 中
+#wipe fade
+
+#voice hinb0296
+[Hinata] “Yeah!
+
+"Oh, hey! Wait a minute!"
+
+Perhaps I was trying to express a heaping amount, but because I waved my hands around, the last three also flew away.
+
+;CHR H05F C
+#cg ヒナタ hin_1_05f 中
+#wipe fade
+
+#voice hinb0297
+[Hinata] “Hurry!?
+
+"...by any chance, were you running around the hut before finding me?"
+
+;CHR H08F1 C
+#cg ヒナタ hin_1_08f1 中
+#wipe fade
+
+#voice hinb0298
+[Hinata] “Yeah!
+
+I see. Are the shiba walnuts that Hinata picked up scattered around the hut?
+
+When I was convinced, Hinata tried to run towards the forest.
+
+"Where are you going?"
+
+;CHR H01F1 C
+#cg ヒナタ hin_1_01f1 中
+#wipe fade
+
+#voice hinb0299
+[Hinata] "Since it's gone, I'm going to get Shibagurumi!"
+
+Hinata's guy, I wonder if I'll go to the forest to get it again.
+
+"Even if you don't go to the forest, it's fallen there. Look."
+
+I picked up the Shibagurumi that Hinata dropped, or rather, threw away.
+
+Not only the three I threw earlier, but also the Shibagumi that I probably dropped while running around are scattered here and there.
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0300
+[Hinata] "Oh!?"
+
+Hinata looked around with a surprised face.
+
+;CHR H06F2 C
+#cg ヒナタ hin_1_06f2 中
+#wipe fade
+
+#voice hinb0301
+[Hinata] "Shiba walnuts have fallen here too! Ah, here too! I didn't pick them up, but it's okay! They're here!"
+
+"That's probably the one Hinata dropped."
+
+I squatted down to help Hinata, who gleefully started picking up Shibagurumi.
+
+;CHR H08F1 C
+#cg ヒナタ hin_1_08f1 中
+#wipe fade
+
+#voice hinb0302
+[Hinata] "Look, I picked up a lot!"
+
+Hinata laughed as she held her hands full of Shibagurumi this time.
+
+"...Yeah, well, it's something Hinata picked up in the forest in the first place. Then, put it on the desk in the hut."
+
+;CHR H07F C
+#cg ヒナタ hin_1_07f 中
+#wipe fade
+
+#voice hinb0303
+[Hinata] "Yes"
+
+It looks like fun, okay?
+
+……Wait. No matter how small Hinata's hands might be, she already had both hands full of Shibagurumi.
+
+So what's the part I picked up and what's still on the ground?
+
+;CHR H01F1 C
+#cg ヒナタ hin_1_01f1 中
+#wipe fade
+
+#voice hinb0304
+[Hinata] "I left it! Wow! If you look closely, there's still a lot left!"
+
+Hinata happily crouched down again.
+
+“Hinata, did you happen to lose a lot of shiba walnuts?”
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0305
+[Hinata] "Huh?"
+
+Hinata tilted her head as if she didn't understand what was being asked.
+
+“You brought Shibagurumi, but it’s gone, haven’t you gone to the forest to get it again and again?”
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0306
+[Hinata] "Oh yeah! You understand well, Ningen-san! If you find a pika, it's gone! When you find a pixie, it's gone."
+
+Because they run around chasing small animals, did they scatter them?
+
+;CHR H06F2 C
+#cg ヒナタ hin_1_06f2 中
+#wipe fade
+
+#voice hinb0307
+[Hinata] "It's Shibagurumi.
+
+That's not true, is it?
+
+"Where did this fruit come from?"
+
+;CHR H07F C
+#cg ヒナタ hin_1_07f 中
+#wipe fade
+
+#voice hinb0308
+[Hinata] "Over there!"
+
+The direction Hinata pointed to was exactly as it was written in the book that there was a swarm of Shibagurumi.
+
+"How many times did you come and go?"
+
+;CHR H05F C
+#cg ヒナタ hin_1_05f 中
+#wipe fade
+
+#voice hinb0309
+[Hinata] "Huh? A lot!"
+
+I'm sure there are fruits falling all the way from the hut as if to guide me to the walnut colony.
+
+"I see. Good work."
+
+;CHR H01F2 C
+#cg ヒナタ hin_1_01f2 中
+#wipe fade
+
+#voice hinb0310
+[Hinata] "Huh? Huh? Are you happy with Shibagurumi?"
+
+"Ah, I'm so happy."
+
+;CHR H01F1 C
+#cg ヒナタ hin_1_01f1 中
+#wipe fade
+
+#voice hinb0311
+[Hinata] "I see. Then Hinata will bring more!"
+
+;SE
+
+Since it's a way of expressing happiness by swinging both hands around, I scattered the Shiba walnuts that I'd taken the trouble to collect.
+
+;CHR H02F1 C
+#cg ヒナタ hin_1_02f1 中
+#wipe fade
+
+#voice hinb0312
+[Hinata] "Huh? I'm out of shiba gurumi again! Shiba gurumi will be gone soon!"
+
+Hinata looked blankly at her empty hand.
+
+"Ah, I see."
+
+;CHR H04F2 C
+#cg ヒナタ hin_1_04f2 中
+#wipe fade
+
+#voice hinb0313
+[Hinata] "What's wrong? Did you find something? Good thing?"
+
+“Yeah.
+
+;CHR H06F1 C
+#cg ヒナタ hin_1_06f1 中
+#wipe fade
+
+#voice hinb0314
+[Hinata] "Oh!? Why? Why?"
+
+"I think it's because Hinata's clothes don't have storage."
+
+#voice hinb0315
+[Hinata] "Shuu no?"
+
+"Simply put, it's a place to store shiba walnuts."
+
+;CHR H04F2 C
+#cg ヒナタ hin_1_04f2 中
+#wipe fade
+
+#voice hinb0316
+[Hinata] "Wow"
+
+I'm nodding my head, but maybe I don't know what you're talking about.
+
+Restless Hinata expresses surprise and joy with her whole body as soon as something happens.
+
+At that time, I would swing my hands around, so I guess I dropped the Shibagurumi that I had collected.
+
+It would be different if it was attached to the place where you put things in your clothes.
+
+“Now then, Hinata went to great lengths to bring us a lot of shiba walnuts.
+
+;CHR H04F1 C
+#cg ヒナタ hin_1_04f1 中
+#wipe fade
+
+#voice hinb0317
+[Hinata] "Yushoku? Rice?"
+
+"Yes. Also, I have to break the shell and prepare it for the next time I make sweets."
+
+;CHR H01F1 C
+#cg ヒナタ hin_1_01f1 中
+#wipe fade
+
+#voice hinb0318
+[Hinata] "Ningen-san, are you going to make something funny again!?
+
+Hinata jumped up and down happily and scattered Shibagurumi again.
+
+……At this rate, in a few decades from now, Hinata will drop the Shibagumi, and the area around this hut will become a Shibagumi forest.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgm 0 stop 2000
+;BGMch2 amb001 停止
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;インターバル
+#mes clear
+#wait 3000
+
+;MCK
+;BGMch2 bgm008 再生
+#bgvoice amb008
+;背景：村（昼のみ）
+
+;背景：主人公の家（昼）
+;BG:BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+"I bought powder and honey... and then... this and this..."
+
+#wait 2000
+
+#mes clear
+#mes off flash
+#system off flash
+
+;MCK
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+#wait 2500
+
+;MCK
+;BGMch2 amb002 再生
+#bgvoice amb002
+;背景：森　夕・夜
+
+;MCK
+;背景：山道（夕）
+;BG:BG06_2
+#cg all clear
+#bg BG06_2
+#wipe fade
+#wait 2000
+
+;BG:BG08b_2
+#cg all clear
+#bg BG08b_2
+#wipe fade
+#wait 2000
+
+;暗転
+;#face off
+
+;#cg all clear
+;#bg black
+;#wipe fade
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+#wait 1000
+#mes on flash
+#system on flash
+
+When I came back from shopping in the village, it seemed like everyone was at the hut today and rushed over.
+
+;CHR H01F2 L
+#cg ヒナタ hin_1_01f2 左
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice hinb0319
+[Hinata] "Oh! How was Mura?"
+
+#voice konb0282
+[Konomi] "Today was boring without Ningen-kun. Hey, Ibara‾?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice ibab0279
+[Ibara] "W-Why did you ask me that! Hmm, I should have just gone back to the village!"
+
+#voice tikb0270
+[Tsukiyo] "Welcome home."
+
+"Yeah, I'm home."
+
+Well, I'm tired because today there were only heavy things like powder and oil, and I greedily brought paper and so on.
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibab0280
+[Ibara] "You just returned to the village the other day, right? What are you doing?"
+
+“The other day, I unexpectedly used powder and oil to make sweets, so I’m replenishing them.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H06F1 L
+#cg ヒナタ hin_1_06f1 左
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice hinb0320
+[Hinata] "Oh, I see."
+
+#voice konb0283
+[Konomi] "You bought a lot, didn't you?"
+
+"Ah well"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Up until now, I thought I would be the only one who would eat it, but when I made the sweets, everyone ate them like they were competing.
+
+With that in mind, I ended up buying a lot more than last time.
+
+Life is quite difficult.
+
+"Hinata, come here for a moment."
+
+;CHR H01F2 C
+#cg ヒナタ hin_1_01f2 中
+#wipe fade
+
+#voice hinb0321
+[Hinata] "Hinata? What is it, Ningen-san?"
+
+I put a cloth bag on my shoulder over my head as Hinata approached me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop 2000
+
+;MCK
+;BGMch2 bgm011 再生
+#bgm 0 11
+;おもちゃ（愉快）テーマ
+
+;CHR H04F2_A C
+#cg ヒナタ hin_1_04f2_a 中
+#wipe fade
+
+#voice hinb0322
+[Hinata] "Huh!?"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0281
+[Ibara] "That's it!?"
+
+"It's a cloth bag. It's what my mother used, but if you don't mind, use it."
+
+;CHR H06F2_A C
+#cg ヒナタ hin_1_06f2_a 中
+#wipe fade
+
+#voice hinb0323
+[Hinata] "Nunobukuro!? Can you give this to Hinata!?"
+
+"Yeah, I'll give it to you."
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibab0282
+[Ibara] "What!?"
+
+This time, I came up with a little idea, and while I was shopping in the village, I returned home and brought out some small items.
+
+It's not something I'll need so much, but there are still things I want to keep in my home in the village, like things that don't make money even if I try to sell them.
+
+I thought about bringing some cloth and adding a place to put things in Hinata's clothes, but that would be troublesome, and I don't use a cloth bag on my shoulder, so it was just right.
+
+The cloth bag on my shoulder is my mother's memento, but if it's put to good use, it's much better than just leaving it.
+
+“When you brought Shibagurumi, you dropped it by hand, didn’t you?
+
+It doesn't hold a lot, but it's more efficient to pick it up than to hold it in both hands and drop it all around.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibab0283
+[Ibara] "... Ugh. Hinata is clumsy and sloppy! You'll soon forget what you were doing, so that's a good idea."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0284
+[Konomi] "That's right. If you don't have it in your hand, you won't fall."
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0324
+[Hinata] "Are you going to put Shibagurumi? Can you put something else!?"
+
+"Put in what you want to carry with you."
+
+;CHR H01F1_A L
+#cg ヒナタ hin_1_01f1_a 左
+#wipe fade
+
+#voice hinb0325
+[Hinata] "Try it in!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata immediately put one of the walnuts on the desk into a cloth bag.
+
+“Then it will be convenient to have your hands free, right?”
+
+;CHR H06F1_A C
+#cg ヒナタ hin_1_06f1_a 中
+#wipe fade
+
+#voice hinb0326
+[Hinata] "Awesome! Even though I have shiba walnuts, Hinata doesn't have anything at the moment!"
+
+Happily, Hinata spun around on the spot.
+
+"Yeah, it looks pretty good, doesn't it?"
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+
+#voice hinb0327
+[Hinata] "Do you agree? Do you agree with Hinata?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0285
+[Konomi] "Yeah, she's cute‾"
+
+#voice hinb0328
+[Hinata] "Hinata is cute!?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata seems to be very happy, she is spinning around in high spirits.
+
+"Hey, if you go round and round too much, you'll get dizzy and feel sick, right?"
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+
+#voice hinb0329
+[Hinata] "Well, I'm so happy that I'm spinning around."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0286
+[Konomi] "Good for you‾, Hinata‾"
+
+;CHR H08F2_A C
+#cg ヒナタ hin_1_08f2_a 中
+#wipe fade
+
+#voice hinb0330
+[Hinata] "Yeah, I'm glad‾"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Then come Tsukiyo."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0271
+[Tsukiyo] "Huh!?"
+
+"I also brought this"
+
+What I took out was an old but beautifully colored ornamental cloth.
+
+"Tsukiyo, turn around and sit here."
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0272
+[Tsukiyo] "Yes?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 016 PLAY
+#label replay016
+#setscene 15
+#bg BG07b_1
+
+;ＥＶ絵――EV018『ツキヨ髪を上げる』
+
+;EVCG EV018A1
+;#face off
+
+
+#cg イベント ev018a1 背景
+#wipe fade
+
+Tsukiyo sat down on the chair as I said, even though he was confused.
+
+#voice tikb0273
+[Tsukiyo] "What are you doing?"
+
+"Your hair always seems to get in the way, so I'll tie it up for you."
+
+I was worried about you being lazy...
+
+#voice tikb0274
+[Tsukiyo] "Fu..."
+
+Tsukiyo stiffened as if frightened.
+
+"It won't hurt anything, so it's okay."
+
+Comb the hair that looks messy and try to put it together properly.
+
+Yeah, I think it would be cool to put it all together.
+
+Tsukiyo's hair looks damaged at first glance, but it's smooth to run your fingers through, and it's quite fun to play with that kind of hair.
+
+#voice tikb0275
+[Tsukiyo] "Huh..."
+
+"Oh, sorry. Did it tickle you?"
+
+;EVCG EV018A2
+#cg イベント ev018a2 背景
+#wipe fade
+
+#voice tikb0276
+[Tsukiyo] "It's fine..."
+
+"What should I do? Do you want me to do something like this? Well, I can't do anything that dexterous either."
+
+#voice tikb0277
+[Tsukiyo] "I don't know."
+
+"I have two ornaments, so I can use them as braids, but I can't braid them."
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibab0284
+[Ibara] "I'm doing it myself. Humans are clumsy."
+
+"Then, can Ibara give Tsukiyo a look?"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0285
+[Ibara] "No!"
+
+"Why are you so mean?"
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0286
+[Ibara] "I hate what I hate!"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0287
+[Konomi] "I understand‾ I can do my own hair, but I can't mess with other girls' hair, right?"
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibab0287
+[Ibara] "There's no such thing!
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+…… Haha, Konomi's point is a star.
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+
+#voice hinb0331
+[Hinata] "Tsukiyo Mitsuami, you'll match with thorns! Round and round‾"
+
+"How long will Hinata keep spinning?"
+
+;CHR H08F2_A C
+#cg ヒナタ hin_1_08f2_a 中
+#wipe fade
+
+#voice hinb0332
+[Hinata] "Until you don't have to go around!
+
+"It's okay to spin, but don't get hurt by rolling your eyes."
+
+;CHR H06F2_A C
+#cg ヒナタ hin_1_06f2_a 中
+#wipe fade
+
+#voice hinb0333
+[Hinata] "It's okay! Uhya!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;MCK
+;SE se015  足音ドスン
+#se 1 se015
+
+“Hinata!?”
+
+Shut up from the side of what I'm saying, Hinata fell down.
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0334
+[Hinata] "Ahaha, my butt is tight."
+
+"Don't threaten me anymore..."
+
+;ＥＶ絵――EV018『ツキヨ髪を上げる』
+
+;EVCG EV018A1
+#cg イベント ev018a1 背景
+#wipe fade
+
+By the way, the fact that I can't borrow the hand of a thorn means that I can only tie it up.
+
+"It's difficult to divide it into two parts to tie it in two."
+
+I roughly divided it into two, but the amount of hair is extremely different.
+
+Besides, I'm not very good at dividing. I thought it would be easy, but it seems impossible to make a double knot.
+
+“Isn’t it easier to tie a single knot?
+
+Decide on a suitable position and try to tie your hair there...
+
+"Oh, you can make a strange bulge."
+
+;EVCG EV018A2
+#cg イベント ev018a2 背景
+#wipe fade
+
+#voice tikb0278
+[Tsukiyo] "What's up?"
+
+"No, it's okay. Leave it to me. I'll clean it up."
+
+#voice tikb0279
+[Tsukiyo] "Yes"
+
+Hmmm... It's surprisingly difficult because I'm not used to it.
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibab0288
+[Ibara] "Mmm...why are you always Tsukiyo?"
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice konb0288
+[Konomi] "What's wrong, thorns? What's going on?"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0289
+[Ibara] "B-You're puffing up..."
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0289
+[Konomi] "Understood. I envy Hinata and Tsukiyo."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibab0290
+[Ibara] "Bah! Who's jealous!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H04F2_A R
+#cg ヒナタ hin_1_04f2_a 右
+#wipe fade
+
+#voice hinb0335
+[Hinata] "Are you envious of Ibara?"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0291
+[Ibara] "There's no way I'm jealous of people who are receiving something like humans!"
+
+;CHR H04F1_A R
+#cg ヒナタ hin_1_04f1_a 右
+#wipe fade
+
+#voice hinb0336
+[Hinata] "I see, aren't you envious?"
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibab0292
+[Ibara] "That's right. I'm just worried about the existence of elves who are happy to receive things from humans and are happy to be dressed."
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hinb0337
+[Hinata] "Are you happy?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0290
+[Konomi] "Hinata ‾ Do you understand the meaning ‾?"
+
+;CHR H08F2_A R
+#cg ヒナタ hin_1_08f2_a 右
+#wipe fade
+
+#voice hinb0338
+[Hinata] "I don't know!"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0293
+[Ibara] "Well, well, in the end Hinata is a half-elf, and Tsukiyo is a dark elf, so I guess they don't have the finesse of a perfect elf like me..."
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hinb0339
+[Hinata] "Are you envious of Konomi?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1A L
+#cg コノミ kon_1_01f1a 左
+#wipe fade
+
+#voice konb0291
+[Konomi] "Hmmm. What do you think? Hinata needs a cloth bag over her shoulder‾, and I think it would be better if Tsukiyo also had her hair tied up‾"
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+
+#voice hinb0340
+[Hinata] "I think Hinata is there too!"
+
+;CHR K01F1B L
+#cg コノミ kon_1_01f1b 左
+#wipe fade
+
+#voice konb0292
+[Konomi] "That's right‾"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0294
+[Ibara] "Unlike humans, elves are perfect beings..."
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hinb0341
+[Hinata] "Look, it's a great bag. You can put anything in it!"
+
+;CHR K02F1 L
+#cg コノミ kon_1_02f1 左
+#wipe fade
+
+#voice konb0293
+[Konomi] "Oh, it's full of treasures."
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0295
+[Ibara] "Listen to me!"
+
+;MCK
+;FACEに変更1023
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+#voice hinb0342
+[Hinata] "Pigyah!"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+#voice konb0294
+[Konomi] "Well, you can hear it even if it's not that loud."
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0296
+[Ibara] "It's absolutely useless to be happy when a human receives something human. It's unbecoming for an elf! That's why I'm not envious!"
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinb0343
+[Hinata] "Well, it's no good."
+
+#voice ibab0297
+[Ibara] "Yes. It's already decided!?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0344
+[Hinata] "But you're happy? Yay, round and round‾"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0298
+[Ibara] "This guy..."
+
+;FACE K02F2
+#face f_kon_0_02f2 94 466
+
+
+#voice konb0295
+[Konomi] "I see. It's not good to be happy when you receive things."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibab0299
+[Ibara] "It's decided!"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0296
+[Konomi] "Then, were you envious of Tsukiyo having her hair tied up?"
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+
+#voice ibab0300
+[Ibara] "What!?"
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konb0297
+[Konomi] "I'll tie your thorny hair instead of Ningen-kun‾"
+
+#voice ibab0301
+[Ibara] "Huh!?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0298
+[Konomi] "Come on, look back!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV018『ツキヨ髪を上げる』
+
+;EVCG EV018A3
+#cg イベント EV018A3 背景
+#wipe fade
+
+"Something like this?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0345
+[Hinata] "Oh! Tsukiyo is cute!"
+
+#voice tikb0280
+[Tsukiyo] "Oh, thank you..."
+
+Tsukiyo looked happy even though his cheeks blushed with embarrassment.
+
+"I'm happy that you're happy with something like this. With this, it won't get in the way when you're playing, right?"
+
+#voice tikb0281
+[Tsukiyo] "Yes."
+
+Tsukiyo smiles shyly.
+
+The expression that tends to be hidden by long hair can be seen well when tied like this.
+
+I feel like my face has become brighter.
+
+"Good, good, cute."
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0346
+[Hinata] "Yeah! It's cute, Ningen-san!"
+
+Even if it was just a simple binding, I am proud of myself that I did a good job.
+
+Ibara and Konomi were playing next to him.
+
+;ＥＶ絵――EV019『ボクがやってあげる』
+
+;EVCG EV019A1
+#cg イベント EV019A1 背景
+#wipe fade
+
+"... Ibara, Konomi, what are you doing?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0299
+[Konomi] "Ibara seems to be envious of Tsukiyo having her hair tied up by Ningen-kun, so I'll tie her hair up‾"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0302
+[Ibara] "Uu‾... I'm not really envious of Tsukiyo."
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konb0300
+[Konomi] "Eh, would it be cool if I went round and round like this?"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+
+#voice ibab0303
+[Ibara] "??? What are you doing?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0301
+[Konomi] "I'll make you look cool."
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibab0304
+[Ibara] "Nothing like that..."
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+
+#voice konb0302
+[Konomi] "You don't have to hold back‾ Fufufufu‾n"
+
+Konomi is humming and playing with Thorn's hair... but frankly, it's a mess.
+
+;FACE K05F
+#face f_kon_0_05f 94 466
+
+
+#voice konb0303
+[Konomi] "Hmmm... Let's do this and make it pointy. Wouldn't it be cool if we stuck some decorations in there?"
+
+#voice ibab0305
+[Ibara] "Hey, it looks like you're doing something amazing."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0304
+[Konomi] "I'll make you stand out!"
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+
+#voice ibab0306
+[Ibara] "I see."
+
+;FACE H04F2_A
+#face f_hin_0_04f2_a 94 466
+
+
+#voice hinb0347
+[Hinata] “Oh?
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+
+#voice tikb0282
+[Tsukiyo] "Fluffy... Fluffy..."
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+
+#voice ibab0307
+[Ibara] "What? Is it that great? Is it cool?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0348
+[Hinata] "Yeah! It's cool! It's really cool!"
+
+Hinata seems to like it very much, and insists with all her might... No, it's cool, but it's cool.
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0308
+[Ibara] "Tsukiyo! How about looking at it from Tsukiyo!?"
+
+;FACE T01F_P
+#face f_tuk_0_01f_p 94 466
+
+
+#voice tikb0283
+[Tsukiyo] "It seems to be strong."
+
+;FACE I05F
+#face f_iba_0_05f 94 466
+
+#voice ibab0309
+[Ibara] "You look strong!? Fu, Fufu!"
+
+Ah, this is a face that is making a terrible misunderstanding.
+
+;FACE I05F
+#face f_iba_0_05f 94 466
+
+#voice ibab0310
+[Ibara] "Fufun. Human, let me ask you a question. How about this form of me?"
+
+"Ah, yeah. It's amazing, isn't it?"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0311
+[Ibara] “Why are you looking away?
+
+I can't... I think I'm going to burst out.
+
+"... Konomi is very dexterous, isn't he?"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konb0305
+[Konomi] "Huh? I guess so?"
+
+"At least, I can't make a thorn like that."
+
+;FACE I05F
+#face f_iba_0_05f 94 466
+
+#voice ibab0312
+[Ibara] "Fufu, Konomi is an elf too. They're no match for me, but they're far more wonderful than humans."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0306
+[Konomi] "Okay, I made it"
+
+As we talked, Konomi seemed satisfied with his job.
+
+;FACE I07F
+#face f_iba_0_07f 94 466
+
+
+#voice ibab0313
+[Ibara] "How's that?"
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+
+#voice hinb0349
+[Hinata] "Ohhhhh!"
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+
+#voice tikb0284
+[Tsukiyo] "Haaaaaaaaaaa..."
+
+"Kuh..."
+
+No, no... I laugh.
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+
+#voice ibab0314
+[Ibara] "Hmm, but I can't see what's going on with my hair. Shouldn't I go to the spring?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0307
+[Konomi] "I wonder if the water bucket outside will turn into a water mirror."
+
+;FACE I07F
+#face f_iba_0_07f 94 466
+
+
+#voice ibab0315
+[Ibara] “Oh!
+
+"Ah...that's it."
+
+#cg all clear
+#bg BG07b_1
+#wipe fade
+;SE se013	戸を閉める
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+
+Ibarra left the hut triumphantly without any time to stop him.
+
+……and.
+
+;立ち絵なし
+#voice ibab0316
+[Ibara] "What the hell is this?!"
+
+A scream of thorns could be heard from the table.
+
+;MCK
+#bgm 0 stop 2000
+
+;SMODE 016 STOP
+#endscene
+
+;暗転
+;#face off
+#cg all clear
+#bg black
+#wipe fade
+;MCK
+#mes clear
+#wait 2000
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+;背景：小屋内　夕・夜
+
+;背景：山小屋内（夕）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+#wait 2000
+
+By the time I returned with a pout, Ibara's hair was completely restored.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konb0308
+[Konomi] "Huh? I did my best, but did you put it back?"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0317
+[Ibara] "Of course! That hairstyle is not beautiful!"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0350
+[Hinata] "It was cool, Ibara!"
+
+;FACE T01F_P
+#face f_tuk_0_01f_p 94 466
+
+
+#voice tikb0285
+[Tsukiyo] "He looked strong."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibab0318
+[Ibara] "You guys have too bad taste."
+
+Perhaps Ibara was angry, and turned away when she took a distance.
+
+"Well, well, well... Please forgive me, Ibara. Konomi, Hinata, and Tsukiyo all had bad intentions..."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibab0319
+[Ibara] “I know that.
+
+Man, you're completely navel bent.
+
+troubled.
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0320
+[Ibara] "Ningen!"
+
+"What?"
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0321
+[Ibara] "It's mostly your fault! Giving Hinata a cloth bag, Tsukiyo a decorative cloth, and even tying it up...because you're flattering me like that!"
+
+……Is it really enviable?
+
+"I'm sorry, Ibarra."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0322
+[Ibara] "What are you apologizing for? Do you really understand what I'm angry about!?"
+
+"No, I don't know if it is..."
+
+Hmm, I'm in a state of getting angry no matter what I say.
+
+If I say that I understand here, I'm sure I'll get more sullen.
+
+Instead, when I approached Ibara, I stroked her head.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0323
+[Ibara] "Even if you do that, you won't be fooled!"
+
+"I'm not trying to deceive you, but..."
+
+I squatted down and tied the remaining drapery around my thorny hair.
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+
+#voice ibab0324
+[Ibara] "Eh!?"
+
+“I can’t give you an elaborate hairstyle, so all I can do is tie a drapery like this.
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR I09F L
+#cg イバラ iba_1_09f 左
+;CHR T01F_P R
+#cg ツキヨ tuk_1_01f_p 右
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0351
+[Hinata] "Wow! Ibara and Tsukiyo are the same!"
+
+#voice tikb0286
+[Tsukiyo] "Together"
+
+#voice ibab0325
+[Ibara] "..."
+
+Ibara didn't get angry, she just pouted her lips and looked away as if it would be bad if she didn't do that.
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibab0326
+[Ibara] "I don't want a human thing, but if a human wants me to get it, I can't help it, so I'll accept it."
+
+"Yes, thank you"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0327
+[Ibara] "Hm..."
+
+After being stroked on the head, Ibara closed her eyes in enchantment.
+
+It would be cute if you were honest like this.
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibab0328
+[Ibara] “Hmm.
+
+Good grief, did you fix your mood?
+
+Apparently, Ibara liked the matching cloth with Tsukiyo.
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0309
+[Konomi] "Good luck ‾ Ibara"
+
+;CHR I06F L
+#cg イバラ iba_1_06f 左
+#wipe fade
+
+#voice ibab0329
+[Ibara] "Be, I'm not particularly happy"
+
+;CHR T05F_P R
+#cg ツキヨ tuk_1_05f_p 右
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0287
+[Tsukiyo] "Aren't you happy?"
+
+;FACE H04F2_A
+#face f_hin_0_04f2_a 94 466
+
+#voice hinb0352
+[Hinata] "But Ibara. Aren't you happy? I'm not happy.
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibab0330
+[Ibara] "Noisy! If you're not happy, you're not happy!"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinb0353
+[Hinata] "I'm happy, but I'm not happy. It's funny!"
+
+#voice ibab0331
+[Ibara] "If you're not happy!"
+
+;なし
+
+;MCK
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hinb0354
+[Hinata] "Kyaa!"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;MCK
+;SE se025 小屋内でドタンバタン
+#se 1 se025
+
+Ibara jumped at Hinata, and Hinata ran away happily, perhaps misunderstanding that she was chasing him.
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+
+#voice hinb0355
+[Hinata] "Kyaa! Then Hinata can catch Tsukiyo!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0288
+[Tsukiyo] "Huh? Huh? Huh? Wow..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;MCK
+;SE se025 小屋内でドタンバタン
+#se 1 se025
+
+For some reason, Tsukiyo also got caught up in it and started running.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0310
+[Konomi] "Ahahahahahahaha‾"
+
+"Hey, you can't chase after me in the hut. Ah, but it's already dark outside."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0311
+[Konomi] "Ahaha‾, is it bad if it's dark outside‾?"
+
+"Because it's dangerous when it's dark, isn't it? What would you do if orcs and goblins appeared?"
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0312
+[Konomi] "Well, that's dangerous, isn't it?"
+
+"Right?"
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0313
+[Konomi] "But we've never been found, so it's fine."
+
+"It's okay, even if it's been okay up until now, it doesn't mean it's going to be okay from now on, right?"
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konb0314
+[Konomi] "Oh‾, I didn't even think of that‾"
+
+"Well, I can't force you to lock me up, but I can't tell you to leave when you're in front of me."
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0315
+[Konomi] "Ningen-kun is a good guy, isn't he?"
+
+"that kind of thing is……"
+
+Being looked up at by Konomi, I suddenly thought it was unfair that only Konomi didn't have any souvenirs.
+
+But there's nothing I can give you...
+
+"that……"
+
+Suddenly, looking down at Konomi, I noticed that the string around my chest was already worn out.
+
+"That string is really painful."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konb0316
+[Konomi] "Huh‾?"
+
+“Is this a dried ivy or something?
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice konb0317
+[Konomi] "Ah, yeah. I'll replace it when the time is right."
+
+"Yes, wait a minute."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konb0318
+[Konomi] "Hmm‾?"
+
+I untied the string that bound the papers together. I brought a certain amount of paper, so it had to be a pretty strong string.
+
+That's why I used the beautiful colored braid that my mother used for the waist cord, which seemed to be the strongest among the cords I had at home in the village.
+
+"I will raise this string for Konomi."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0319
+[Konomi] "I have a gift too!?"
+
+Konomi looked a little surprised and reached out for the braid.
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0320
+[Konomi] "Hey... This cord has a nice pattern, isn't it?"
+
+"It's just right, so let's replace the string on your chest with this string. I'll tie it for you."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0321
+[Konomi] “Yeah.
+
+Konomi raised her head.
+
+"Wait a minute"
+
+Pull out the old string and quickly replace it with the string I brought. Finally, when I tied it into a bow and adjusted its shape, Konomi let out a ticklish laugh.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0322
+[Konomi] "Fufufufu‾"
+
+"what happened?"
+
+#voice konb0323
+[Konomi] "It's fun to have Ningen-kun do something."
+
+"I see. That's good."
+
+I don't know, but if it's fun, it's probably a good thing.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0324
+[Konomi] "You know, I like doing things that feel good with Ningen-kun, but I also like being with him. Maybe Ibara, Hinata, and Tsukiyo, too."
+
+"..."
+
+I felt my face suddenly heat up.
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konb0325
+[Konomi] "Huh, Ningen-kun, your face is bright red? Are you sick?"
+
+"No, no. Because I was happy..."
+
+#voice konb0326
+[Konomi] "I see. Were you happy?"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR K01F2A L
+#cg コノミ kon_1_01f2a 左
+;CHR H01F2_A R
+#cg ヒナタ hin_1_01f2_a 右
+#wipe fade
+
+#voice hinb0356
+[Hinata] "Hello? Konomi and Ningen-san, did you have a fun conversation?"
+
+;CHR K01F2B L
+#cg コノミ kon_1_01f2b 左
+#wipe fade
+
+#voice konb0327
+[Konomi] "Human-kun, you gave me this string, too."
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hinb0357
+[Hinata] "Oh, good job, Konomi!"
+
+……I thought it was annoying to be with someone.
+
+Even though I'm an elf, having fun with four people, and having them even want to be with me...
+
+I may be able to live with a much more human-like feeling than when I was in the village and among humans.
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb003 停止
+#bgvoice stop
+
+;暗転
+;#face off
+
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋内（夜）
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+At night, the elves are lying down in their own place, probably because they are tired of playing.
+
+I decided to sleep in this hut today.
+
+I was more than a little relieved to be within sight of everyone.
+
+"... Everyone was happy with the souvenirs."
+
+There are a lot of things I don't need anymore in my home in the village, so I'll bring them back when I go to the village again.
+
+I would be happy if the elves could take it with them when they returned to the elf village.
+
+And if you remember me even just a little...
+
+Remembering what happened today, I unintentionally leaked a smile to myself.
+
+Hinata is honestly happy with her whole body, Tsukiyo is modest but seems happy, Ibara can't help but be jealous of the souvenir, and Konomi is surprised by the unexpected gift.
+
+The most impressive thing when I handed over the souvenir today was...
+
+;・選択肢発生
+#select a b c d
+A: Hinata
+B: Thorn
+C: Konomi
+D: Tsukiyo
+
+#label a
+#next b04h top
+
+#label b
+#next b04i top
+
+#label c
+#next b04k top
+
+#label d
+#next b04t top
+
+;Ａを選択⇒『b04h』へジャンプ
+;Ｂを選択⇒『b04i』へジャンプ
+;Ｃを選択⇒『b04k』へジャンプ
+;Ｄを選択⇒『b04t』へジャンプ"

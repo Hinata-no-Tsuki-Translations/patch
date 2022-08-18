@@ -1,0 +1,299 @@
+
+;背景：泉（昼）
+;BG BG03_1
+#cg all clear
+#bg BG03_1
+#wipe fade
+
+"How are you, Konomi? Are you enjoying yourself?"
+
+;MC
+#face on
+
+;CHR K01F1A C
+;MC
+#cg コノミ kon_1_01n1a 中
+#wipe fade
+
+#voice konb0431
+[Konomi] "Ningen-kun, have you finished fishing?"
+
+When I approached and called out, Konomi came out of the water.
+
+This area seems to be shallow water up to Konomi's waist.
+
+There are no particularly dangerous fish, and it would be a great playground on a hot day.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi, trembling like a furry animal and dripping with water, quickly moved away from me.
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+
+#voice konb0432
+[Konomi] "Ningen-kun, it smells really bad‾"
+
+Covering his nose and mouth with his hands, he was completely grimacing.
+
+"Huh? Right? After eating, I also took a bath."
+
+I tried smelling it myself, but I don't really understand it myself.
+
+I just don't know because my nose is used to it, but I wonder if it smells so bad.
+
+#voice konb0433
+[Konomi] "The smell of smoke and the smell of blood. You caught a lot of fish. That's great."
+
+Even though I say that, Konomi takes a distant attitude, so I feel like I'm being disliked.
+
+"... don't look so displeased. Humans have to eat to live, so it can't be helped, right?"
+
+#voice konb0434
+[Konomi] "I know it can't be helped‾?
+
+“Even so, it really makes me feel bad when people say it smells weird that many times.”
+
+;FACE K03F
+#face f_kon_0_03f 94 466
+
+
+#voice konb0435
+[Konomi] "I'm sorry‾? I thought I had gotten used to being with Ningen-kun‾"
+
+"Well, it's fine, but..."
+
+For the time being, I squat down for comfort and try washing my hands again in the spring.
+
+… However, I don’t think the smell will go away with something like this.
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice konb0436
+[Konomi] "Ah, that's right‾"
+
+Konomi seemed to have come up with something, and suddenly approached me――
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#voice konb0437
+[Konomi] "Yeah!"
+
+“Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa”
+
+pushed me into a fountain
+
+;SE se029 水に落ちる 再生
+#se 1 se029
+
+Whoa!
+
+With a big splash, I was helplessly pushed into the spring with my clothes on.
+
+"Hey, Conomy..."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0438
+[Konomi] "Yeah. If it's in the water, it doesn't smell weird."
+
+"That's good... not! Because you'll die!? If you suddenly push a human into the spring, you'll be surprised and drown and die!?"
+
+Also, it's a scary place to hit your head if you get pushed into such a shallow place.
+
+Luckily, I only had to hit the surface of the water with my body.
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konb0439
+[Konomi] "Ningen-kun, are you drowning?"
+
+“I wasn’t drowning.
+
+This area is deep enough to touch your feet, so it's fine, but if you get pushed down like that, any great swimmer could drown.
+
+People can drown in puddles.
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice konb0440
+[Konomi] "Huh? I didn't mean to surprise Ningen-kun, did I? I'm sorry‾"
+
+"Also, humans don't swim with their clothes on."
+
+#voice konb0441
+[Konomi] "But, when humans swim, they wear clothes, right?"
+
+"That's a swimsuit! If you leave it on, it will absorb water and it's dangerous if it clings to your body, so I only wear the bare minimum."
+
+I mean, even though swimsuits are customs for people who live in the city, are aristocrats, and are rich, they know something strange.
+
+;CHR K01F2B C
+#cg コノミ kon_1_01f2b 中
+#wipe fade
+
+#voice konb0442
+[Konomi] "I see, so I made a mistake. But my clothes also had a bad smell, so why don't we wash them together?"
+
+Konomi waved her hand with no regrets.
+
+... Somehow, I can't even get angry.
+
+With my clothes on, I jumped into the spring from head to toe, shook my hands and feet, and scrubbed my head and clothes.
+
+The smell that I don't really understand, is this really going down ...?
+
+"Ha ha ha ha ha"
+
+Somehow, the tea becomes cloudy, I get up from the water, and squeeze the hem of my clothes.
+
+The water dripped with a frightening force.
+
+"Uheh, it's disgusting that it sticks to your skin. You shouldn't be swimming while wearing it."
+
+#voice konb0443
+[Konomi] "Then, take off your clothes and go for a swim‾ You should have washed and dried your clothes separately‾"
+
+"If Konomi didn't push me down, I could have done that."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0444
+[Konomi] "I'm sorry‾?
+
+"It's enough, I'm not angry. But if you come up with something from now on, tell me first. I'm begging you."
+
+#voice konb0445
+[Konomi] "I see. If you feel like it, be careful."
+
+Konomi crossed the shallows and came to my side, whistling and circling around me.
+
+"So, what do you think?"
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0446
+[Konomi] "Yeah, it doesn't smell bad anymore, so it's okay‾?"
+
+"Hakushoi"
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konb0447
+[Konomi] "What?
+
+"No, I guess my body got cold because I was hit by the wind while still wet."
+
+I didn't have a runny nose, but I slurped my nose.
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konb0448
+[Konomi] "Oh, man, you're soaking wet."
+
+"Whose fault, whose fault?"
+
+#voice konb0449
+[Konomi] "But hey, it smells bad, don't you hate it?"
+
+"Still say, this!"
+
+When I reached out to catch Konomi, Konomi turned around and avoided it.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SE se027 水しぶき１ 再生
+#se 1 se027
+
+Zappa!
+
+Because of that, the foot that stepped on the tatara makes a big splash.
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0450
+[Konomi] "Kyaa! Ningen-kun, be careful‾. I'll get wet too‾"
+
+Even though I was able to dodge even the splash of water brilliantly, Konomi protested against me.
+
+"Who do you think caused me to get soaked?"
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+
+#voice konb0451
+[Konomi] "Is it my fault? But you said sorry, didn't you?"
+
+"It's here! I'm going to have Konomi get soaked too."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0452
+[Konomi] "Huh? No, it's disgusting to stick to your clothes when you get wet, isn't it?"
+
+"I already feel sick!"
+
+I tried to chase Konomi, but the resistance in the water is strong and I can't run as I want.
+
+Still, as expected of an elf. Konomi is very light and easy to move around freely even in the water.
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+
+#voice konb0453
+[Konomi] "Ahahahahaha, this way‾ Ningen-kun"
+
+"Wait this!"
+
+Like that, Konomi and I chased each other in the water until the sun went down.
+
+;コノミ好感度+1
+#set f3 f3+1
+
+;b07へ
+
+
+#bgm 0 stop
+
+;MC
+#bgvoice stop
+
+;MCS 退避
+;#mes off fade
+;#system off fade
+
+#cg all clear
+#bg black
+#wipe fade
+
+;MC
+#next b07

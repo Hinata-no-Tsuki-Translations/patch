@@ -1,0 +1,382 @@
+
+
+;BGMch2 amb004 停止
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR T10F4 C
+#cg ツキヨ tuk_1_10f4 中
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+#voice tikb0294
+[Tsukiyo] "Hauu‾"
+
+"that?"
+
+;CHR T10F3 C
+#cg ツキヨ tuk_1_10f3 中
+#wipe fade
+#face f_tuk_0_10f3 94 466
+;TKface
+
+#voice tikb0295
+[Tsukiyo] "..."
+
+"What's wrong with that cloth over your head again?"
+
+And it looks kind of down.
+
+"No way, did Ibara do something mean to you?"
+
+Tsukiyo shook his head at my question.
+
+;CHR T10F4 C
+#cg ツキヨ tuk_1_10f4 中
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+#voice tikb0296
+[Tsukiyo] "...I couldn't do it."
+
+"Hmm, what?"
+
+#voice tikb0297
+[Tsukiyo] "I couldn't tie my hair by myself."
+
+"Oh, that's right. I'll do it for you. Come on."
+
+;CHR T10F3 C
+#cg ツキヨ tuk_1_10f3 中
+#wipe fade
+#face f_tuk_0_10f3 94 466
+;TKface
+
+#voice tikb0298
+[Tsukiyo] "Are you sure?"
+
+"There's nothing to worry about"
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+When Tsukiyo's cloth was removed, Tsukiyo's hair was all messed up.
+
+This is probably the result of trying to do something about it myself.
+
+"You should have come to ask me."
+
+#voice tikb0299
+[Tsukiyo] "I'm sorry."
+
+"I don't need to apologize anywhere."
+
+Tsukiyo stiffens his body with a humble expression even as he combs it with a wry smile.
+
+"Yes, I'm a little tangled up."
+
+#voice tikb0300
+[Tsukiyo] "I'm sorry."
+
+"I don't have to apologize, but wasn't this painful?"
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tikb0301
+[Tsukiyo] “Yes.
+
+"I see, so you were wearing a cloth over your head again."
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tikb0302
+[Tsukiyo] "Even though I was given a decorative cloth, I couldn't do it well..."
+
+"It can't be helped if you don't get used to it. If you just want to tie your hair, I'll do it as many times as you want.
+
+#voice tikb0303
+[Tsukiyo] "Yes."
+
+I was completely used to it the second time as well.
+
+"Here you go"
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0304
+[Tsukiyo] "Thank you."
+
+Tsukiyo shook his head lightly like a horse wagging its tail, as if confirming the feeling of being tied up.
+
+When I happened to look at it up close, I wanted to touch its smooth cheeks, so I gently stroked it with the joint of my index finger.
+
+;CHR T06F_P C
+#cg ツキヨ tuk_1_06f_p 中
+#wipe fade
+#face f_tuk_0_06f_p 94 466
+;TKface
+
+#voice tikb0305
+[Tsukiyo] "Hyan!?"
+
+Tsukiyo's cheeks are as smooth as they look.
+
+"But you have beautiful skin."
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0306
+[Tsukiyo] "Ki, it's beautiful... isn't it?"
+
+Tsukiyo's eyes widened at my words.
+
+"Yeah. It's smooth, fine-grained, and has a beautiful brown color."
+
+#voice tikb0307
+[Tsukiyo] "Is it beautiful? Isn't it disgusting?"
+
+"I feel sick? Why?"
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0308
+[Tsukiyo] "Elves have white skin. Humans have pale skin. Dark elves have black skin."
+
+"So you said you were sick?"
+
+#voice tikb0309
+[Tsukiyo] "Yes..."
+
+Kokuri, Tsukiyo nodded.
+
+"Is that so? Even though I'm different from Ibara and Konomi, I think Tsukiyo's skin is also very beautiful."
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0310
+[Tsukiyo] "Huh..."
+
+"Humans too, people in the desert and further south seem to have darker skin. It seems that those people are better suited to a hot climate than we are."
+
+#voice tikb0311
+[Tsukiyo] "Is it a hot climate?"
+
+"Yes. It's hot, but it's strong, isn't it loved by the sun?"
+
+#voice tikb0312
+[Tsukiyo] "Be loved...?"
+
+"The Dark Elves don't seem to know much more than the Elves, but they seem to belong to the darkness."
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0313
+[Tsukiyo] “Yes.
+
+"I see, it's close to demons. That's why it's dirty, huh."
+
+#voice tikb0314
+[Tsukiyo] "Yes"
+
+Tsukiyo nodded with a sad face, as if the painful memory had revived.
+
+"It's dirty because it's close to demons, but dark elves aren't demons, right?"
+
+#voice tikb0315
+[Tsukiyo] "Yes."
+
+"And is darkness really that bad?"
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0316
+[Tsukiyo] "Huh...?"
+
+"If there is no darkness, not only humans but also plants and animals can't rest, right? Even if there is only light, can't they live without darkness?"
+
+#voice tikb0317
+[Tsukiyo] "Without darkness..."
+
+"That's why I don't think things that belong to darkness are necessarily bad."
+
+#voice tikb0318
+[Tsukiyo] "It's not always bad..."
+
+"If you say that Dark Elves belong to darkness, then Tsukiyo's skin color is proof that he is loved by darkness."
+
+#voice tikb0319
+[Tsukiyo] "Darkness...loved..."
+
+"Yeah, I'm sure it is."
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0320
+[Tsukiyo] "That's fine."
+
+#voice tikb0321
+[Tsukiyo] "I was told in the village that I was dirty, even myself. I didn't want to be seen."
+
+"I see. That's why you've been covering your skin with this cloth the whole time."
+
+#voice tikb0322
+[Tsukiyo] “Yes.
+
+"It's a waste"
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0323
+[Tsukiyo] "Isn't it a waste?"
+
+"Yeah, it's a waste. You have such smooth and beautiful skin, but it's a waste to cover it up all the time."
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0324
+[Tsukiyo] "Fufu..."
+
+Tsukiyo smiled happily at my words.
+
+#voice tikb0325
+[Tsukiyo] "It's the first time I've been told that. It's strange to be praised."
+
+"Don't be surprised. Tsukiyo isn't dirty. She's beautiful. She's different from Ibara, Konomi, and Hinata, but just because she's different doesn't mean she's inferior."
+
+#voice tikb0326
+[Tsukiyo] "I'm sure Ibara will get angry."
+
+"Maybe. But I really think so."
+
+#voice tikb0327
+[Tsukiyo] "...Thank you."
+
+“This cloth is well-tailored and well-crafted, so it would be a waste to use it to hide something.”
+
+#voice tikb0328
+[Tsukiyo] "Yes."
+
+"Rather than hiding it, I think it's much more suitable for this cloth to decorate Tsukiyo's lustrous skin. It looks great with your skin tone."
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tikb0329
+[Tsukiyo] "It suits you...is it?"
+
+"Yeah, it really suits you. I think Tsukiyo should be more confident."
+
+#voice tikb0330
+[Tsukiyo] "Confidence...?"
+
+“Yeah, I’m confident.
+
+#voice tikb0331
+[Tsukiyo] "Hawa..."
+
+"So smile with confidence. You'll look much, much better that way."
+
+#voice tikb0332
+[Tsukiyo] "Tsukiyo...is it beautiful?"
+
+"Ahh"
+
+#voice tikb0333
+[Tsukiyo] "Hawa..."
+
+At my words, Tsukiyo took a deep breath, then slowly nodded happily.
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tikb0334
+[Tsukiyo] "I have confidence. I will do my best."
+
+"Yes, that's what I mean."
+
+;CHR T06F_P C
+#cg ツキヨ tuk_1_06f_p 中
+#wipe fade
+#face f_tuk_0_06f_p 94 466
+;TKface
+
+#voice tikb0335
+[Tsukiyo] "Yes!"
+
+With his hair tied up, Tsukiyo's face seemed much brighter than before.
+
+;ツキヨ好感度+1
+#set f4 f4+1
+
+;b05へ
+#next b05
