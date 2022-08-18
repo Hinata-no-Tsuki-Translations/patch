@@ -1,0 +1,307 @@
+
+;
+
+;Background: Fountain (daytime)
+;BG BG03_1
+#cg all clear
+#bgBG03_1
+#wipe fade
+
+I'm too worried about collecting stones.
+
+Moreover, it's dangerous to try to carry a stone as big as your own head.
+
+What the hell is Hinata doing? It's better to stop doing something that looks dangerous...
+
+;MC
+#face on
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0397
+[Hinata] "Hey, let's go!"
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0398
+[Hinata] "Huh, huh?"
+
+;CHR H06F1_A C
+#cg Hinata hin_1_06f1_a Medium
+#wipe fade
+
+#voice hinb0399
+[Hinata] "Oh, this way!"
+
+However, I don't get tired of just looking at the different expressions as I spin around.
+
+"Hey, Hinata. What are you doing?"
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0400
+[Hinata] “Ah!
+
+;CHR OFF
+#cg all clear
+#wipe fade
+;SE se028 drop stone into water play
+#se 1 se028
+
+When I called out to her, Hinata threw the large stone she was holding into the spring and rushed towards me.
+
+"If I had done something, I should have continued."
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0401
+[Hinata] "Huh?"
+
+Hinata looks up at me with a puzzled face.
+
+“Hinata, you were doing something with all your might, weren’t you?
+
+;CHR H01F2_AC
+#cg Hinata hin_1_01f2_a Medium
+#wipe fade
+
+#voice hinb0402
+[Hinata] “Oh!
+
+Saying that, Hinata took my hand.
+
+"Is there something over there?"
+
+#voice hinb0403
+[Hinata] "That's right! Hinata is amazing! Hurry, hurry!"
+
+Hinata proudly puffed out her chest.
+
+Well, it's not as far as running or pulling your arm, but I guess you want to show me your achievements as soon as possible.
+
+Shall I go out with you quietly?
+
+;CHR H07F_A C
+#cg Hinata hin_1_07f_a Medium
+#wipe fade
+
+#voice hinb0404
+[Hinata] "Jah!"
+
+"...?"
+
+What Hinata brought me to was a group of countless stones thrown into the spring, which I could have predicted if I had seen it earlier.
+
+Maybe they made it for some purpose, but I can't see the purpose at all.
+
+"... Um, what is this?"
+
+Listening timidly, Hinata looked into the fountain herself and let out a desperate scream.
+
+;CHR H05F_AC
+#cg Hinata hin_1_05f_a Medium
+#wipe fade
+
+#voice hinb0405
+[Hinata] "Huh!?"
+
+"...In other words, this is not the form Hinata was aiming for."
+
+;CHR H02F2_AC
+#cg Hinata hin_1_02f2_a Medium
+#wipe fade
+
+#voice hinb0406
+[Hinata] "Hey, it's broken! Who!?
+
+“No, no matter how you think about it, when you ran up to me earlier, you threw stones into the fountain with great force, so the stack collapsed, right?”
+
+Originally, the stacking method was probably appropriate, but that is the only reason I can think of.
+
+#voice hinb0407
+[Hinata] "N-Ningen-san broke it!?
+
+"No, wait. It's a false accusation. I just approached it a while ago, so it shouldn't be possible to break it, right?"
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0408
+[Hinata] "Oh, yeah. Then who broke it?"
+
+"..."
+
+If asked who it was, the answer would probably be Hinata herself, but it's clear from looking at the fire that the same question and answer as before will be repeated if the answer is yes.
+
+So I decided to digress.
+
+"Heh, I used to collect a lot of these big stones. Wasn't it hard? Hinata is amazing."
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0409
+[Hinata] "Ehehe. That's right! It was really hard!"
+
+Perhaps because she was praised, Hinata's mood returned in no time.
+
+All right, the question of who destroyed it will forever be buried in darkness.
+
+#voice hinb0410
+[Hinata] "Unsho, unsho! It's a big deal because there aren't many good big stones!"
+
+"Just right? Did you make something?"
+
+#voice hinb0411
+[Hinata] “Yeah!
+
+"Fish? And what about that fish?"
+
+;CHR H02F1_AC
+#cg Hinata hin_1_02f1_a Medium
+#wipe fade
+
+#voice hinb0412
+[Hinata] "It looks like you ran away...?"
+
+Hinata looked into the fountain again and tilted her head.
+
+"That was a pity."
+
+#voice hinb0413
+[Hinata] “You caught a fish, didn’t you?
+
+"... that's... if it breaks or doesn't break, I feel like the fish would have already escaped in that order."
+
+#voice hinb0414
+[Hinata] "Well, why did you stay outside the river, so you made a wall there?"
+
+"Yeah, so it's not locked up."
+
+Because there are a lot of fish swimming in this spring.
+
+The fish must have been swimming nearby while Hinata was trying to build a fish tank.
+
+While I was thinking about such things, a shadow of a fish passed by near the wreckage of the fish tank.
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0415
+[Hinata] "Ah, Mr. Ningen is a fish! Let's catch it and lock it up!"
+
+"Is it the wrong order? I think it's better to build an enclosure first and then catch the fish."
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0416
+[Hinata] “Oh? Why?
+
+"Ah, yeah. That's..."
+
+Since it's so simple, it's difficult to convince Hinata.
+
+"Well, it's fine. I understand that you were building an enclosure, but why? Hinata doesn't eat fish, right?"
+
+#voice hinb0417
+[Hinata] "I don't eat Hinata. Fish food is smelly."
+
+"And there's no point in catching fish, right?"
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0418
+[Hinata] "You know, I was thinking of giving it to Ningen-san!"
+
+"e?"
+
+Being caught off guard, I involuntarily stopped moving.
+
+#voice hinb0419
+[Hinata] “Ningen-san, you can eat fish, right?
+
+"Hinata..."
+
+Unknowingly, the head of the eye becomes hot.
+
+That Hinata guy was struggling to make a fish tank for me... You were just playing, weren't you?
+
+;CHR H03F1_A C
+#cg Hinata hin_1_03f1_a Medium
+#wipe fade
+
+#voice hinb0420
+[Hinata] "That's why Hinata did her best to catch the fish, and she tried hard to lock it in, but she escaped and was disappointed."
+
+"Thank you, Hinata."
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0421
+[Hinata] "Huh!?"
+
+When I roughly stroked Hinata's head, Hinata looked up at me in surprise.
+
+#voice hinb0422
+[Hinata] "Why are you thanking me!? Hinata hasn't given fish to Ningen yet. It's strange!
+
+"Thank you for your willingness to give me the fish, what is it? So thank you."
+
+#voice hinb0423
+[Hinata] “Is that so?
+
+"Ah, no. I'm not crying, it's okay."
+
+I wiped my tears with my arms and rolled up my sleeves.
+
+“Well, building an enclosure is fun.
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0424
+[Hinata] "! Yeah! We can catch fish together!"
+
+Hinata jumped in joy at my suggestion.
+
+And Hinata and I chased the fish until the sun went down, soaking wet.
+
+;Hinata favorability +1
+#set f1 f1+1
+
+; to b07
+
+
+#bgm 0 stop
+
+;MC
+#bgvoice stop
+
+;MCS save
+;#mes off fade
+;#system off fade
+
+#cg all clear
+#bg black
+#wipe fade
+
+;MC
+#next b07

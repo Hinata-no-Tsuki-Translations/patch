@@ -1,0 +1,543 @@
+
+
+;BGMch2 amb003 停止
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;BG:BG08b_2
+#cg all clear
+#bg bg08b_2
+#wipe fade
+
+;背景：山小屋（夕）->夜
+;BG:BG07b_3
+#cg all clear
+#bg bg07b_3
+#wipe fade
+
+Even after I was left alone, I was overwhelmed by the fever, and for a long time I couldn't tell if I had slept or not.
+
+Even so, it seems that a fragmented fainting sleep is coming, and one dream after another has no connection.
+
+It feels like a lot of time has passed, but I don't feel like I'm sleeping at all.
+
+After a while, I felt a cool breeze blow through the hut.
+
+Maybe I was dreaming of my childhood because I was so lonely. I felt like my mother was right next to me taking care of me.
+
+"mother……"
+
+I woke up to the hoarseness of my own voice leaking from my thirsty, feverish throat.
+
+Mother is no more. Didn't he just die the other day?
+
+"Mother..."
+
+Feeling absurdly lonely, I forced my sluggish body up and covered my face.
+
+;立ち絵なし
+
+#voice konb0471
+[Konomi] "Are you crying‾?"
+
+"What?"
+
+When I turned my face to the unexpected voice, Konomi was sitting there.
+
+;BGMch1 bgm004 再生
+#bgm 0 04
+
+;ＥＶ絵――EV026『果物を剥く』
+
+;SMODE 023 PLAY
+#label replay023
+#setscene 22
+#bg bg07b_3
+
+;EVCG EV026A2
+;#face off
+
+
+#cg イベント ev026a2 背景
+#wipe fade
+
+Konomi carefully peeled off the skin of the fruit.
+
+The embarrassment and frustration of being seen when I was about to cry mixed together, and for a moment I didn't know what to say.
+
+For the time being, ask what you see.
+
+"that is?"
+
+;EVCG EV026A1
+#cg イベント ev026a1 背景
+#wipe fade
+
+#voice konb0472
+[Konomi] "Hmm? Is it Mitsubanto?"
+
+"what are you doing?"
+
+#voice konb0473
+[Konomi] "I'm peeling my skin‾"
+
+Konomi took a deep breath as she tugged at the skin that had been slightly peeled off, and the skin seemed to come off as she wanted.
+
+#voice konb0474
+[Konomi] "In the book Tsukiyo read, it said to lower your fever when you have a cold‾Ningen-kun, why don't you eat‾?"
+
+"Huh? Are you peeling it for me?"
+
+#voice konb0475
+[Konomi] "Yeah. Before, Ningen-kun said that Mitsubanto has the effect of lowering fever, right? That's why I picked it."
+
+"That's... did you go out of your way to pick it up?"
+
+#voice konb0475-01
+[Konomi] "Yeah, I picked it up‾"
+
+I never thought Konomi would do something like that.
+
+Moreover, it was a fresh surprise that he remembered what I said before.
+
+I think I talked about that when I found a book in this hut that said that there is a place where Mitsubanto can be harvested.
+
+I also learned that for the first time from the book here, so it shouldn't have been such a serious conversation.
+
+I can't believe Konomi remembered a light conversation that I myself don't remember much.
+
+With my fever-stricken head, I feel a double joy in addition to collecting the honeysuckle for myself.
+
+Konomi cut the peeled Mitsubanto into small pieces, stabbed it with a spoon and protruded it toward me.
+
+;EVCG EV026A2
+#cg イベント ev026a2 背景
+#wipe fade
+
+#voice konb0476
+[Konomi] "Ah, I wasn't very good at peeling it off, but I did it for Ningen-kun's sake."
+
+“Ah, ah…thank you.”
+
+After saying thank you, I ate Mitsubanto thankfully.
+
+Mitsubanto fruit is soft and juicy, so it is difficult to peel and cut it well.
+
+It looks crushed and crushed, but the fresh sweetness will moisten your dry throat.
+
+Perhaps because it was hot, the dripping juice felt cool and surprisingly delicious.
+
+#voice konb0477
+[Konomi] "Delicious?"
+
+"Yeah. It's really delicious."
+
+#voice konb0478
+[Konomi] "Eat a lot"
+
+Konomi waited for me to swallow and handed me the next piece.
+
+The soft, well-ripened fruit filled my mouth with refreshing, fragrant juice just by squeezing it with my lower and upper jaw without chewing.
+
+Slowly chew and swallow the pulp, which has almost no resistance to chewing.
+
+It was as if the life of Mitsubanto permeated every corner of my heat-dried body.
+
+"What about the others?"
+
+;EVCG EV026A3
+#cg イベント ev026a3 背景
+#wipe fade
+
+#voice konb0479
+[Konomi] "I don't know. Tsukiyo said that sleeping is the best thing, so maybe he's holding back?"
+
+“Even the elves used to say refrain…”
+
+I didn't know you had that kind of consideration because you always stepped into it.
+
+#voice konb0480
+[Konomi] "Hmm, animals around here stay still when they're not feeling well, so why don't they poke them? That's a pity, isn't it?"
+
+Even the elves, who look rude and outrageous, had a certain amount of compassion.
+
+;EVCG EV026A2
+#cg イベント ev026a2 背景
+#wipe fade
+
+#voice konb0481
+[Konomi] "Eat more‾? I caught a lot‾"
+
+"Ah, yes. Can I ask you something?"
+
+#voice konb0481-01
+[Konomi] "Yeah, that's fine‾ Fufufu‾n, fufu‾n♪"
+
+Konomi hummed happily as she picked up another Mitsubanto and began peeling the skin.
+
+It seems that he was concentrating on peeling the skin for a while, but suddenly remembered and asked.
+
+;EVCG EV026A3
+#cg イベント ev026a3 背景
+#wipe fade
+
+#voice konb0482
+[Konomi] "Why were you crying‾?"
+
+I was startled.
+
+I felt like I was feeling lonely, or that I was dreaming about my mother, or that all of those things had been seen through.
+
+"Crying separately..."
+
+#voice konb0483
+[Konomi] "You were about to cry, did you endure it?"
+
+Instead of mocking me for trying to be strong, Konomi asked me.
+
+It's true that I felt like crying.
+
+"You must have been lonely."
+
+I answered honestly.
+
+;EVCG EV026A2
+#cg イベント ev026a2 背景
+#wipe fade
+
+#voice konb0484
+[Konomi] “Aren’t you lonely?
+
+Konomi said impressed. No, maybe I'm really impressed.
+
+#voice konb0485
+[Konomi] "Mother, do you mean mother? Did Ningen-kun dream of his mother?"
+
+"Ah, yeah..."
+
+With Konomi's soft voice, my desire to make up for it disappeared before I knew it.
+
+#voice konb0486
+[Konomi] "I see. Ningen-kun is human, so he has a mother."
+
+Come to think of it, when I caught a cold when I was a child, my mother used to peel fruit from my bedside like this, and change the wet cloth on my forehead.
+
+"Ah, that...?"
+
+Even though I was just remembering the old days, my eyes felt hot because I was weak with a cold.
+
+#voice konb0487
+[Konomi] "Huh? My stomach hurts‾?"
+
+"No, no... when Konomi peeled off the skin, I remembered my mother..."
+
+#voice konb0488
+[Konomi] "Did you hate your mother?"
+
+"... I didn't hate it."
+
+;EVCG EV026A1
+#cg イベント ev026a1 背景
+#wipe fade
+
+#voice konb0489
+[Konomi] "Well, you didn't want to peel it? You can eat it with the skin on, but it tastes better with the skin on, right?"
+
+"... No, I was happy to have the skin peeled off."
+
+;EVCG EV026A2
+#cg イベント ev026a2 背景
+#wipe fade
+
+#voice konb0490
+[Konomi] "Do you cry when you're happy?"
+
+"I don't understand," Konomi tilted her head.
+
+“Human beings are creatures that shed tears even when they are happy.”
+
+I told him to deceive me and wiped my tears with my arm.
+
+#voice konb0491
+[Konomi] "I see. Then, if you want to cry, it's fine to cry. The reason why you have a fever and tears is because you need your body."
+
+"……yes"
+
+I wept silently.
+
+Come to think of it, I feel like it's the first time I've cried for my mother since she died.
+
+In a village like that, where I was considered a heretic for being able to read a little, my mother praised me for reading books.
+
+My mother tried to make me study because I was smart.
+
+My mother desperately raised me single-handedly...
+
+"... ugh... ugh... uuu..."
+
+At first I kept my voice down, but soon I started crying.
+
+"Mother... Mother..."
+
+The stubbornness of not wanting to show Konomi an ugly appearance melted away before I knew it.
+
+Konomi isn't human, she's an elf. That's why, no matter how embarrassing I become, I won't look down on you.
+
+I was strangely convinced that I would be accepted as I was, whether it was ugly or ugly.
+
+Next to me, who kept crying, Konomi silently peeled off the skin of Mitsubanto and cut it into bite-sized pieces.
+
+After a while, the sobs turned into sobs, and Konomi held out a plate.
+
+;EVCG EV026A3
+#cg イベント ev026a3 背景
+#wipe fade
+
+#voice konb0492
+[Konomi] "You've peeled off the honeysuckle‾? Crying makes you thirsty‾? You should eat a lot‾"
+
+"Yes Yes……"
+
+I shoved the handed out Mitsubanto into my mouth and ate it up.
+
+I cried and had the fruits peeled, and laughter welled up at me, thinking that I was just like a child.
+
+As expected, today's Mitsubanto was exceptionally delicious.
+
+;BGMch1 bgm004 FO停止
+#bgm 0 stop
+
+;SMODE 023 STOP
+#endscene
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;背景：山小屋（夕）=>明かり（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0493
+[Konomi] "Are you calm?"
+
+When my hand stopped, Konomi put the plate on the desk.
+
+“…Yeah.
+
+#voice konb0494
+[Konomi] "Huh‾? I don't really understand, but if Ningen-kun is refreshed, wouldn't it be nice?"
+
+"It's refreshing... I guess I wanted to cry the whole time."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0495
+[Konomi] "I see. Ningen-kun knows a lot of things, but he doesn't know much about himself."
+
+"Ah, maybe it was."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0496
+[Konomi] "You called a lot about your mother, didn't you?"
+
+"Oh... was that so?"
+
+It's embarrassing to be pointed out.
+
+Konomi asked me in confusion.
+
+;CHR K01F2A C
+#cg コノミ kon_1_01f2a 中
+#wipe fade
+
+#voice konb0497
+[Konomi] "Is a mother that important to a human?
+
+Oh yeah Did I mention that elves aren't basically born from their parents?
+
+Then it makes sense that I don't understand the feeling of yearning for my mother.
+
+"Maybe not everyone does, but I think a lot of people have a special place in their mothers."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0498
+[Konomi] "What's special?"
+
+“It’s like they’ll spoil me unconditionally, or rather, they’ll forgive me in the end no matter what I do…”
+
+I don't think that's the case in reality, but my imaginary mother is like that.
+
+#voice konb0499
+[Konomi] "Mom is such a nice thing‾"
+
+"Ah well"
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konb0500
+[Konomi] "Ningen-kun, do you want to see your mother?"
+
+"I want to see you."
+
+Unexpectedly, the words came out smoothly and honestly.
+
+#voice konb0501
+[Konomi] "Then why don't we go see her when she gets better?"
+
+"I can't see you, because I'm dead."
+
+That's it. No matter how much I remember my mother, I will never see her again.
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0502
+[Konomi] "Okay‾"
+
+I almost cried again.
+
+The heat must be why I'm so prone to tears.
+
+I'm sure your mind is as weak as your body.
+
+I gave up and put my back on the bed.
+
+If you're weak anyway, let's stay weak until the end.
+
+Once you get over your cold, you should be fine.
+
+;CHR K01F2B C
+#cg コノミ kon_1_01f2b 中
+#wipe fade
+
+#voice konb0503
+[Konomi] "Oh, how about something like this?"
+
+Konomi approached my bed and gently combed the hair on my forehead.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konb0504
+[Konomi] "Today, I'll be Ningen's mother‾"
+
+"What?"
+
+#voice konb0505
+[Konomi] "Come on, good girl, close your eyes. I'll stay by your side until your fever goes down."
+
+Close your eyes as instructed.
+
+Konomi's hand on her forehead feels cool, perhaps because it's hot, and it feels great.
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice konb0506
+[Konomi] "Hmm, so what are you going to do with your mother?"
+
+"Sing a lullaby or something, I guess."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konb0507
+[Konomi] "Lullaby‾?"
+
+"It's like adding a verse to a word like sleep‾ and singing it."
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice konb0508
+[Konomi] “I see.
+
+"……mother"
+
+Konomi's lullaby, with its peculiar melody, was somehow so comforting that I felt sleepy as soon as I closed my eyes.
+
+#voice konb0509
+[Konomi] "Good night, Ningen-kun"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+After that, I slept well without being disappointed.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;背景：山小屋（夜）
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+When I fell asleep and opened my eyes, Konomi was gone.
+
+Since it's about Konomi, he may have gotten tired of "playing with his mother" when his fever subsided and he felt relieved.
+
+On the desk there was a little dried mitsubantou skin and seeds left behind.
+
+Next to it is a honeysuckle that hasn't been peeled yet.
+
+I bit into Mitsubanto with my skin and healed the thirst when I woke up.
+
+Even though I had a fever, I cried and yelled in front of Konomi, and even missed my mother.
+
+Feeling weak is scary.
+
+However, by exposing my stomach, I felt much lighter.
+
+"If you catch a cold, it's no good."
+
+I mumbled to myself and went back to bed.
+
+Sleeping is the only way to cure a cold.
+
+I closed my eyes on the floor to get over my cold as soon as possible so that I could return to my usual self from tomorrow.
+
+;コノミ好感度+1
+#set f3 f3+1
+
+;b08へ
+#next b08

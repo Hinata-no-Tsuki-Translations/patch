@@ -1,0 +1,571 @@
+
+
+
+;背景：山小屋（昼）
+;変更なし
+
+「ツキヨが知ってる場所って、ここから近い？」
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0601
+【ツキヨ】「はわっ……」
+
+ツキヨは一瞬自分が聞かれたことがわからないのか、きょろきょろと辺りを見回して、それから俺を見上げ、おそるおそる自分を指差す。
+
+#voice tikb0602
+【ツキヨ】「聞いてる……です？」
+
+「そう、ツキヨに聞いてるんだよ」
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tikb0603
+【ツキヨ】「……そ、そんなに……遠くない、です」
+
+そして顔を伏せると、消え入りそうに身をちぢこめて、ツキヨはようやく答えてくれた。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice ibab0683
+【イバラ】「ん？　ツキヨ何か言ったか？」
+
+#voice hinb0564
+【ヒナタ】「ツキヨがしってるワナバはそんなにとおくないんだって！」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0560
+【コノミ】「ワナバ〜？　罠場？　ツキヨ、罠仕掛けてるの〜？」
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibab0684
+【イバラ】「何？　罠だと！？　ツキヨはそんなに高度な戦術を使えるのか！？　誰と戦うんだ！？　ニンゲンか！？」
+
+「何で俺が罠を仕掛けられなきゃならないんだよ」
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibab0685
+【イバラ】「ニンゲンが悪い奴だからだ！」
+
+しかも、俺に罠を仕掛けてるんなら、それを今教えちゃってどうするんだよ……。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0604
+【ツキヨ】「悪い奴じゃ、ないです」
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibab0686
+【イバラ】「じゃ、誰と戦うんだ？」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hinb0565
+【ヒナタ】「わかった！　くだものとたたかうんだよ！」
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibab0687
+【イバラ】「果物が襲ってくるのか！？　それ果物じゃなくて魔物じゃないのか！？」
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+
+#voice hinb0566
+【ヒナタ】「すっぱいしるかけてくるよ！」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice konb0561
+【コノミ】「きゃ〜、酸っぱい汁なんてきっとおめめに染みるね〜」
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibab0688
+【イバラ】「おぉ……恐ろしいな」
+
+……どんな果物だ、それ。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0605
+【ツキヨ】「罠なんか、仕掛けてない、です」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H02F2_A L
+#cg ヒナタ hin_1_02f2_a 左
+;CHR K06F R
+#cg コノミ kon_1_06f 右
+#wipe fade
+
+#voice hinb0567
+【ヒナタ】「あれれ〜？　じゃ、だれがワナしかけてるの？」
+
+;CHR K05F R
+#cg コノミ kon_1_05f 右
+#wipe fade
+
+#voice konb0562
+【コノミ】「罠場、って罠仕掛けてないの？」
+
+「あの〜いいか？」
+
+#voice konb0563
+【コノミ】「なに〜、ニンゲンくん」
+
+「罠場、じゃなくて、穴場の聞き間違いじゃないか？」
+
+;CHR H04F2_A L
+#cg ヒナタ hin_1_04f2_a 左
+#wipe fade
+
+#voice hinb0568
+【ヒナタ】「あれ、ヒナタ、ワナバだとおもったよ？」
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibab0689
+【イバラ】「ワナバ、だろ」
+
+;CHR K01F2B R
+#cg コノミ kon_1_01f2b 右
+#wipe fade
+
+#voice konb0564
+【コノミ】「わかった〜。美味しいものでおびき寄せるんだ〜」
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibab0690
+【イバラ】「頭いいな、それはすごい罠だ」
+
+;CHR H06F2_A L
+#cg ヒナタ hin_1_06f2_a 左
+#wipe fade
+
+#voice hinb0569
+【ヒナタ】「おいしいものってなに、ツキヨっ！？」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0606
+【ツキヨ】「知らないです。罠、仕掛けてないです」
+
+ツキヨは困惑して、俺にすがるような目を向けてくる。
+
+「穴場、っていうのは、自分しか知らないような場所、とかあんまり人が来ない場所って意味だよ」
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konb0565
+【コノミ】「ほう、ほぉ〜」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+;CHR H04F2_A R
+#cg ヒナタ hin_1_04f2_a 右
+#wipe fade
+
+#voice ibab0691
+【イバラ】「あんまり人が来ない場所に罠を仕掛けておびき寄せたら、罠を仕掛けたのがばれなくて殲滅戦向きだな！　ツキヨ、策士だったんだな！」
+
+#voice hinb0570
+【ヒナタ】「さくし？　なんていみ？」
+
+;CHR I07F L
+#cg イバラ iba_1_07f 左
+#wipe fade
+
+#voice ibab0692
+【イバラ】「頭がいいってことだ、ほめ言葉だぞ」
+
+;CHR H08F2_A R
+#cg ヒナタ hin_1_08f2_a 右
+#wipe fade
+
+#voice hinb0571
+【ヒナタ】「あたまいい！　ツキヨ、あたまいいのか！　すごいね、ツキヨ！」
+
+すっかりもう『罠場』だと思い込んでいるイバラにはなんと説明しても、ツキヨが罠を仕掛けたことになっているみたいだ。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice konb0566
+【コノミ】「こうなったら説明しても無駄だと思うよ〜？」
+
+こそっと、コノミがツキヨと俺に話しかけてくる。
+
+「あぁ、そうかもね」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0607
+【ツキヨ】「はうぅ〜罠なんかないです……」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;BGMch2 amb003 停止
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+そんなわけで、『罠場』だと思い込んでいる、イバラとヒナタの誤解を解くのはあきらめて、ツキヨに案内してもらうことになった。
+
+ツキヨがつれてきてくれた『穴場』には、真っ赤なクレナイノミや、黄色のコガネノミ、青紫のシンカイノミなんかがたわわに実っている。
+
+それはかなり見事な光景だった。
+
+;CHR H06F2_A L
+#cg ヒナタ hin_1_06f2_a 左
+#wipe fade
+
+#voice hinb0572
+【ヒナタ】「ほぉおおおおおお！　すごい！　くだものいっぱい！」
+
+;CHR I02F R
+#cg イバラ iba_1_02f 右
+#wipe fade
+
+#voice ibab0693
+【イバラ】「あ、待て、ヒナタ！　どこに罠が仕掛けてあるかわからないんだぞ！？」
+
+たくさん果物が生ってるのを見たヒナタが飛び込むように駆け寄っていくのを慌ててイバラが止めようとする。
+
+しかし、興奮したヒナタには制止の声など届いていないみたいだった。
+
+;CHR H06F1_A L
+#cg ヒナタ hin_1_06f1_a 左
+#wipe fade
+
+#voice hinb0573
+【ヒナタ】「すごーい、まっかなのとか、きいろいのとか、キレイなみがいっぱいなってるよ！」
+
+;CHR I10F2 R
+#cg イバラ iba_1_10f2 右
+#wipe fade
+
+#voice ibab0694
+【イバラ】「う、うぅ……綺麗な実……」
+
+;CHR H06F2_A L
+#cg ヒナタ hin_1_06f2_a 左
+#wipe fade
+
+#voice hinb0574
+【ヒナタ】「おぉ！？　いっぽんにすっごくいっぱいなってるやつみつけた！」
+
+「おぉ、すごいなヒナタ」
+
+;CHR I02F R
+#cg イバラ iba_1_02f 右
+#wipe fade
+
+#voice ibab0695
+【イバラ】「ぼ、ボクもっ！　綺麗な実を捜す！」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+イバラも我慢しきれなくなったのか、果物が生っている茂みに足を踏み出していく。
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice konb0567
+【コノミ】「あはははは〜、綺麗なのたくさんて、確かにイバラにとったら罠かもね〜」
+
+「ははは、そうかもな」
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice konb0568
+【コノミ】「じゃあ、ボクも遊んでこよ〜っと」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+コノミも駆け出していくが、ツキヨは不安そうに俺を見上げている。
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0608
+【ツキヨ】「ここにきてよかったです？」
+
+俺はしゃがんでツキヨに目を合わせた。
+
+#voice tikb0609
+【ツキヨ】「はわ……」
+
+「ツキヨ、こんなすごい場所教えてくれてありがとう」
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tikb0610
+【ツキヨ】「嬉しい、です？」
+
+「あぁ、すごく嬉しいよ」
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tikb0611
+【ツキヨ】「よかったです」
+
+「しかし、どの実もよく熟してて美味しそうだな」
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+俺も手を伸ばせるところの真っ赤なクレナイノミをもいで、さっそく口に運んだ。
+
+爽やかな歯ざわりと共に甘酸っぱい果汁が口いっぱいに溢れて目も醒めるほどに美味かった。
+
+病み上がりの弱った身体に、新鮮な生命の息吹が染み渡っていくのが実感できる。
+
+一口食べるごとに力が湧いてくるみたいだった。
+
+「おぉ、しかも美味いな」
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tikb0612
+【ツキヨ】「おいしい、です？」
+
+「あぁ、こんなに美味しいクレナイノミはなかなかないぞ。よっぽど育った環境がよかったんだな」
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tikb0613
+【ツキヨ】「えへへへ……」
+
+ツキヨはまるで自分自身が褒められでもしたように嬉しそうに笑った。
+
+「ほら、ツキヨも食べてみたら？」
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0614
+【ツキヨ】「はい、です」
+
+俺が取ってあげた大き目のクレナイノミを受け取ると、大事そうに両手で持ってそっと小さく歯を立てて目を見開いた。
+
+「どう？」
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0615
+【ツキヨ】「ふわ……おいしい、です」
+
+「だろ？」
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0616
+【ツキヨ】「はいです」
+
+クレナイノミを食べて元気が出てくると欲も湧いた。
+
+「せっかくだし、少し摘んで帰ろうかな？」
+
+とりあえず今日と明日食べる分だけにするつもりだったけど、少しぐらい多めに持って帰ってもバチは当たらないだろう。
+
+クレナイノミなんか、甘く煮ておけばしばらく楽しめるしな。
+
+#voice tikb0617
+【ツキヨ】「お手伝い、するです」
+
+「あんまりたくさん摘んでも、持って帰れないからな？」
+
+念のためにツキヨに注意すると、ツキヨは力こぶを作るみたいにして、力を誇示した。
+
+#voice tikb0618
+【ツキヨ】「それも、お手伝いするです」
+
+「それは心強いな。ありがとうなツキヨ」
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tikb0619
+【ツキヨ】「えへへ……」
+
+ツキヨは礼を言われて照れて笑った。
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;背景：山小屋（夕）
+;BG:BG08b_2
+#cg all clear
+#bg BG08b_2
+#wipe fade
+
+ツキヨは俺を手伝って、赤いのやら青いのやらたくさんの果物を摘んでくれた。
+
+大量に積んだそれらの果物は小屋に持ち帰り砂糖漬けやらなにやらの保存食になった。
+
+しばらくは俺の食生活も豊かになりそうだな。
+
+せっかくだから、この砂糖漬けを使ってまたお菓子でも作ってあげよう。
+
+そのときには一番にツキヨにあげなくちゃな。
+
+;ツキヨ好感度+1
+#set f4 f4+1
+
+;b09へ
+#next b09
