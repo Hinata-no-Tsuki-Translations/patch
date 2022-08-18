@@ -1,8 +1,8 @@
 import os
 import glob
 
-old_folder = 'old'      # old scripts with english translations
-new_folder = 'new'      # new scripts with japanese
+old_folder = 'old'      # script with english translations of text
+new_folder = 'new'      # script with function calls that are correct
 out_folder = 'out'
 
 def is_text(line):
