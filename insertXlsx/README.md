@@ -1,4 +1,4 @@
-N.B: Install pandas and openpyxl
+## Install pandas and openpyxl
 
 ```
 pip install pandas
