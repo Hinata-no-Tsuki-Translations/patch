@@ -11,10 +11,11 @@ for file in files:
         print(file)
 
         with open(file, encoding='shift_jis', mode='r') as f:
-            text = f.read()
+            text = f.read().splitlines()
 
         document = Document()
 
-        document.add_paragraph(text)
+        for line in text:
+            document.add_paragraph(line)
 
         document.save(file+'.docx')
