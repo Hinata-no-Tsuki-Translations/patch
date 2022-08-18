@@ -1,3 +1,8 @@
+## Install python-docx
+```
+pip install python-docx
+```
+
 ## Translate with Google translate Document upload
 
 1. Convert all src files to docx file by placing in `to_docx` folder and running `to_docx.py`
