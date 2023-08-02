@@ -2,9 +2,9 @@
 ;背景：山小屋（夕）=>（昼）
 ;b03から変更なし
 
-The first thing that came to my mind was Konomi's face.
+The first thing that came to mind was Konomi's face.
 
-You said you like fruits, and I'm sure you like sweets.
+He said he liked fruits, and would surely like sweets.
 
 ……That's right, I have to prepare some tea because I don't want to choke on it.
 
@@ -31,29 +31,29 @@ You said you like fruits, and I'm sure you like sweets.
 #wipe fade
 
 #voice konb0252
-[Konomi] "Oh‾, you did it‾"
+[Konomi] "Oh‾, it's ready‾"
 
 The rest of the dough was baked, the tea was perfectly prepared, and Konomi showed up just in time.
 
-"... Konomi has something like that. I think someone is watching me."
+"... The way you showed up at the perfect time, has me wondering if you were spying on me this whole time."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0253
-[Konomi] "Huh‾? Surveillance‾? Fufufu, you didn't do that, did you? But it looks a little interesting‾"
+[Konomi] "Huh‾? Spying‾? Fufufu, I didn't do that‾ Though that sounds a little interesting‾"
 
-Fufufu, Konomi quietly sat down in front of the table while laughing.
+Fufufu, Konomi chuckled as he sat down in front of the table.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0254
-[Konomi] "Since I was baking something black and charred, I thought that it would be completed after making charcoal, but I was wrong."
+[Konomi] "Since you were baking something that was completely black and charred, I thought you were making charcoal, but I was wrong‾"
 
-“Yeah, I was making food for the time being.
+"Um, well, I was actually making food. Want a bite?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
@@ -62,7 +62,7 @@ Fufufu, Konomi quietly sat down in front of the table while laughing.
 #voice konb0255
 [Konomi] "Huh? Are you asking me?"
 
-"He doesn't seem to eat meat or fish, but I was wondering if it's something sweet. It contains eggs, but..."
+"Although you don't seem to eat meat or fish, I was wondering if you'll have something sweet. But, it contains eggs..."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
@@ -71,7 +71,7 @@ Fufufu, Konomi quietly sat down in front of the table while laughing.
 #voice konb0256
 [Konomi] "I saw that‾"
 
-When I casually put the baked sweets on the plate on the desk, I completely changed from yesterday's candy and obediently reached out my hand.
+When I casually put the baked sweets on the plate on the desk, completely contrary to yesterday's attitude, he obediently reached out his hand.
 
 "Are you eating!?"
 
@@ -80,11 +80,11 @@ When I casually put the baked sweets on the plate on the desk, I completely chan
 #wipe fade
 
 #voice konb0257
-[Konomi] "Huh‾? You shouldn't eat‾?"
+[Konomi] "Huh‾? I shouldn't eat this‾?"
 
-"Ah, no. That's why..."
+"Ah, no. That's not..."
 
-Konomi chewed the crispy baked goods with her pearly teeth.
+Konomi chewed the crispy baked goods with his pearly teeth.
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
@@ -95,7 +95,7 @@ Konomi chewed the crispy baked goods with her pearly teeth.
 
 Taking the first bite, Konomi smiled.
 
-"You'll want tea after eating that. Look."
+"You'll want tea after eating that. Here."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
@@ -104,7 +104,7 @@ Taking the first bite, Konomi smiled.
 #voice konb0259
 [Konomi] "Yeah, thank you‾"
 
-For some reason I feel relieved and recommend the tea.
+For some reason, I felt relieved and offered him some tea.
 
 ;CHR OFF
 #cg all clear
@@ -115,7 +115,7 @@ For some reason I feel relieved and recommend the tea.
 #wipe fade
 
 #voice hinb0272
-[Hinata] "Oh? The burning smell is gone!"
+[Hinata] "Oh? The burnt smell is gone!"
 
 ;CHR OFF
 #cg all clear
@@ -126,7 +126,7 @@ For some reason I feel relieved and recommend the tea.
 #wipe fade
 
 #voice ibab0257
-[Ibara] "Hmm, it smells sweet instead."
+[Ibara] "Hmph, instead, there's a sweet fragrance."
 
 ;CHR OFF
 #cg all clear
@@ -145,14 +145,14 @@ For some reason I feel relieved and recommend the tea.
 #cg all clear
 #wipe fade
 
-"Oh, did Hinata and the others come back too?"
+"Oh, Hinata and the others have come back too"
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice konb0260
-[Konomi] "You can eat this. It's sweet and delicious."
+[Konomi] "You can try this. It's sweet and delicious."
 
 With a big smile on her face, Konomi recommended Hinata and the others some baked sweets.
 
@@ -161,17 +161,17 @@ With a big smile on her face, Konomi recommended Hinata and the others some bake
 #wipe fade
 
 #voice ibab0258
-[Ibara] "Delicious... have you eaten Konomi yet?"
+[Ibara] "Delicious... Konomi has already tried it?"
 
 ;CHR K01F2A L
 #cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konb0261
-Konomi ] “Yeah.
+[Konomi] "Yes, it goes well with tea‾ It's a bit dry, so it's better to have with tea."
 
 #voice ibab0259
-[Ibara] "Were you eaten..."
+[Ibara] "You've tried it already, huh..."
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
@@ -189,26 +189,26 @@ Konomi ] “Yeah.
 #wipe fade
 
 #voice hinb0273
-[Hinata] "Hey, Konomi. Can I eat Hinata too?"
+[Hinata] "Hey, hey, Konomi. Can Hinata have some too?"
 
 #voice konb0263
-[Konomi] "It's okay. Eat a lot of Hinata and Tsukiyo. There's a lot of them."
+[Konomi] "Sure‾. Hinata and Tsukiyo, have as much as you want‾. There's plenty of it‾."
 
 ;CHR H07F R
 #cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hinb0274
-[Hinata] "Wow!"
+[Hinata] "Yay!"
 
-"Wait a minute. Why does Konomi allow it?"
+"Wait a minute. Why is Konomi giving permission for this?"
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0264
-[Konomi] "Huh‾? Can't everyone eat‾? Is it just me‾?"
+[Konomi] "Huh‾? Is it not for everyone to eat‾? Is it only for me‾?"
 
 ;CHR OFF
 #cg all clear
@@ -221,7 +221,7 @@ Konomi ] “Yeah.
 ;TKface
 
 #voice tikb0221
-[Tsukiyo] "I'm sorry, I touched my mouth."
+[Tsukiyo] "I-I'm sorry, I accidentally put my mouth on it"
 
 "No, no... I made it with the intention of having everyone eat it, so I don't mind."
 
@@ -235,11 +235,11 @@ Konomi ] “Yeah.
 [Tsukiyo] "Huh... that was great."
 
 #voice konb0265
-[Konomi] "That's right, let's eat janjan‾"
+[Konomi] "That's right, go ahead and eat a lot‾!"
 
-……Well, okay.
+……Well, I guess it's fine.
 
-It just means that he liked the sweets I baked.
+That just means that he liked the sweets I baked for him.
 
 ;CHR OFF
 #cg all clear
@@ -250,7 +250,7 @@ It just means that he liked the sweets I baked.
 #wipe fade
 
 #voice hinb0275
-[Hinata] "Whoa! It's sweet! I'm going to collapse inside my kandarakuchi!"
+[Hinata] "Wow! It's sweet! When I bite into it, it crumbles in my mouth!!"
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
@@ -259,7 +259,7 @@ It just means that he liked the sweets I baked.
 ;TKface
 
 #voice tikb0223
-[Tsukiyo] "It's crispy, it's fun."
+[Tsukiyo] "The crispiness is enjoyable."
 
 ;CHR OFF
 #cg all clear
@@ -270,7 +270,7 @@ It just means that he liked the sweets I baked.
 #wipe fade
 
 #voice ibab0260
-[Ibara] "Hmm... Konomi asked for it, so I'll eat it, but this... this... Oh, hey, Hinata took too many at once!"
+[Ibara] "Hmm... Konomi offered, so I'll eat it, take this... this... Oh, hey, Hinata that's too many at once!"
 
 ;CHR H04F1 L
 #cg ヒナタ hin_1_04f1 左
@@ -278,12 +278,12 @@ It just means that he liked the sweets I baked.
 
 ;おいしいからとまらないの
 #voice hinb0276
-[Hinata] "Hmm?
+[Hinata] "Hmm? Sorry, it's so delicious that I can't stop."
 
 #voice ibab0261
-[Ibara] "I'm going to eat more, so I'm a cheater if I only eat Hinata!"
+[Ibara] "E-even I want to eat more, so it's not fair that only Hinata gets to eat!"
 
-"Oh look, if you eat too quickly, your throat will choke."
+"Hey, if you eat this quickly, you'll choke."
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
@@ -292,12 +292,12 @@ It just means that he liked the sweets I baked.
 #voice ibab0262
 [Ibara] "Because, Hinata... Ngu..."
 
-"Oh, look. Have a drink."
+"Ah, here. Have a drink."
 
 #voice hinb0277
-[Hinata] "Mumbling mumbling..."
+[Hinata] "Munch munch munch..."
 
-"I can't put Hinata in my mouth so much that I can't swallow it."
+"Hinata don't put so much in your mouth that you can't swallow it."
 
 ;CHR OFF
 #cg all clear
@@ -312,9 +312,9 @@ It just means that he liked the sweets I baked.
 #voice tikb0224
 [Tsukiyo] "Ah, ahhhhh"
 
-I'm happy that he seems to be happy, but Ibara and Hinata eat like they're competing, so Tsukiyo can't get his hands on it.
+I'm glad they seem to be enjoying it, but because Ibara and Hinata are eating like it's a competition, Tsukiyo can't get any.
 
-"Is this enough?"
+"Is this much enough?"
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -325,24 +325,24 @@ I'm happy that he seems to be happy, but Ibara and Hinata eat like they're compe
 #voice tikb0225
 [Tsukiyo] "Oh, thank you."
 
-Tsukiyo's cheeks blushed happily when I set aside a portion for Tsukiyo.
+Tsukiyo's cheeks blushed happily when I set aside a portion for him.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Hey, are you eating Konomi?"
+"Wait, is Konomi eating too?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0266
-[Konomi] "Hmm? I ate first, didn't I?"
+[Konomi] "Hmm‾? I already ate some‾ didn't I‾?"
 
-There was a lot of sweets in his hand.
+In his hand lay quite a few cookies.
 
-I see, did you shrewdly secure your share?
+I see, you slyly made sure to secure your portion, huh?
 
 ;CHR OFF
 #cg all clear
@@ -355,9 +355,9 @@ I see, did you shrewdly secure your share?
 #voice hinb0278
 [Hinata] "Kepuu..."
 
-"Have you already eaten it all! Ahhh, I was thinking of having it for my meal for a while."
+"Wait, you already ate all of them! Oh well, I was planning to use them for my meals for a while."
 
-Tohoho…… Up until now, elves don't eat, so I've let my guard down.
+Oh dear... I let my guard down because elves don't need food, but it seems they eat quite a lot when they do.
 
 ;CHR OFF
 #cg all clear
@@ -368,16 +368,16 @@ Tohoho…… Up until now, elves don't eat, so I've let my guard down.
 #wipe fade
 
 #voice ibab0263
-Gefu ... Hmm, I feel like I have a stomach ache!?
+[Ibara] "Ugh... I-I feel a stomachache! Could it be, Human poisoned the sweets!"
 
-"No! That's just eating too much! Don't eat until your stomach hurts! Adjust yourself a little!"
+"That's not it! That's definitely symptoms of overeating! Don't eat until your stomach hurts! Control yourself a little!"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0264
-[Ibara] "Ugh! My stomach hurts because of humans, so why should I be scolded!"
+[Ibara] "Mmm! Why do I have to be scolded when it's Human's fault that my stomach hurts!"
 
 ;CHR OFF
 #cg all clear
@@ -406,7 +406,7 @@ Gefu ... Hmm, I feel like I have a stomach ache!?
 ;TKface
 
 #voice tikb0227
-[Tsukiyo] "Huh..."
+[Tsukiyo] "Ugh..."
 
 ;CHR OFF
 #cg all clear
@@ -417,7 +417,7 @@ Gefu ... Hmm, I feel like I have a stomach ache!?
 #wipe fade
 
 #voice hinb0279
-[Hinata] "Huh!? My stomach is pompom!? Ahahaha, what is this?"
+[Hinata] "Huh!? My stomach feels all bouncy!? Ahahaha, what is this!"
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
@@ -426,13 +426,13 @@ Gefu ... Hmm, I feel like I have a stomach ache!?
 ;TKface
 
 #voice tikb0228
-[Tsukiyo] "My stomach is like a frog."
+[Tsukiyo] "My stomach looks like a frog's."
 
-Hinata's stomach is completely swollen because she ate too much.
+Hinata's stomach has become completely swollen from overeating.
 
 When Tsukiyo timidly patted Hinata's stomach, it made a terrible sound.
 
-“Hahaha, Hinata is eating too much too.”
+"Hahaha, Hinata ate too much too."
 
 ;CHR H08F2 R
 #cg ヒナタ hin_1_08f2 右
@@ -441,7 +441,7 @@ When Tsukiyo timidly patted Hinata's stomach, it made a terrible sound.
 #voice hinb0280
 [Hinata] "Ningen-san, it's amazing that you can make something so delicious!"
 
-The praise I got for my first sweets making was not bad at all.
+The praise I got for my first sweets-making was not bad at all.
 
 ;CHR OFF
 #cg all clear
@@ -471,7 +471,7 @@ The praise I got for my first sweets making was not bad at all.
 
 ;SE　薪割り
 
-The next day, when I was chopping firewood to replenish the energy I used to make sweets, Konomi approached me with something.
+The next day, I was chopping firewood to replenish what I had used for making sweets when Konomi approached me.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
@@ -480,46 +480,46 @@ The next day, when I was chopping firewood to replenish the energy I used to mak
 #voice konb0268
 [Konomi] "Ningen-kun, I'll give you this"
 
-What Konomi presented was a fruit that you don't see very often around here.
+Konomi presented a fruit that I don't see very often in this area.
 
-"Oh, thank you. What is this, unusual, where did it grow?
+"Oh, thank you. This is rare, where did was it growing?
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0269
-[Konomi] "Huh‾? Secret‾"
+[Konomi] "Nn‾? Secret‾"
 
-"Is that so? Is it a secret? Could it be in the elf village?"
+"A secret? Could it be from the elf village?"
 
-It's just right, let's take a break for a while.
+Just as well, I'll take a short break.
 
-When I sat down there, I lightly wiped the fruit that Konomi had brought with me on my sleeve and bit into it.
+I sat myself on the ground, lightly wiped the fruit on my sleeve and bit into it.
 
-"Nn, it's good. This."
+"Mmm, this is delicious."
 
-Konomi also sat down next to me and bit her teeth into the pale red fruit.
+Konomi also sat down next to me and bit his teeth into the pale red fruit.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0270
-[Konomi] "You know, I really like this fruit now."
+[Konomi] "You know, of all the fruits that are ripe, I like this fruit the most."
 
-Contrary to the impression of a taut skin, the soft flesh is full of juice, and the moderate acidity is comfortable for a tired body.
+Contrary to the taut skin, the soft flesh is full of juice, and the refreshing acidity feels pleasant for a tired body.
 
-When I glanced at Konomi, the way she slurped the overflowing juice while biting into the juicy fruit was somewhat distasteful.
+Glancing at Konomi, I couldn't help but find his actions, as he took big bites of the juicy fruit and slurped the overflowing juice, somewhat alluring.
 
-… I don't think Konomi has that kind of intention, but what am I thinking?
+… I don't think Konomi has that kind of intention, whatever am I thinking?
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0271
-[Konomi] "Fufufu, yesterday's sweets were delicious, so please make them again‾"
+[Konomi] "Fufufu, yesterday's sweets were delicious, please make them again‾"
 
 "Oh, that's fine. It's troublesome, so I might not be able to make it that often."
 
@@ -528,9 +528,9 @@ When I glanced at Konomi, the way she slurped the overflowing juice while biting
 #wipe fade
 
 #voice konb0272
-[Konomi] "I'll only give it to Ningen-kun. That's why, right?"
+[Konomi] "That's something I only give to Ningen-kun. So, you know?"
 
-“…Okay, I’ll bake sweets for Konomi.”
+"…Fine, I'll bake sweets for you."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
@@ -539,18 +539,18 @@ When I glanced at Konomi, the way she slurped the overflowing juice while biting
 #voice konb0273
 [Konomi] "Fufufu"
 
-Konomi smiled shyly.
+Konomi smiled bashfully.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0274
-[Konomi] "Actually, I was happy when I thought that maybe I'm the only one who could eat it. So, next time, just me, please?"
+[Konomi] "To be honest, I was happy when I thought it was all for me‾. So, next time, could you make it just for me?"
 
 "Hmm, that seems difficult..."
 
-If I bake sweets, everyone will definitely smell it, and it seems difficult to make it in secret.
+If I bake sweets, everyone will definitely smell it, and it would be difficult to make it in secret.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
@@ -559,15 +559,15 @@ If I bake sweets, everyone will definitely smell it, and it seems difficult to m
 #voice konb0275
 [Konomi] "That's right. Then I'll share it with everyone, so please bake me some sweets."
 
-Konomi simply gave up on the exclusive contract for sweets.
+Konomi gave up on his exclusive contract for sweets.
 
-I give up pretty easily.
+Easily.
 
-……Why do I feel guilty somehow about that?
+……Why do I somehow feel a little guilty about that?
 
-"Ah, if that's the case, it's cheap. Next time I return to the village, I'll get the ingredients again."
+"Ah, if that's the case, consider it done. Next time I return to the village, I'll get the ingredients again."
 
-For some reason, I smiled to cover up the tingling in my chest.
+I smiled, trying to conceal the slight prickling sensation in my chest.
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
