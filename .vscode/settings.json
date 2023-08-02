@@ -1,3 +1,4 @@
 {
-    "files.encoding": "shiftjis"
+    "files.encoding": "shiftjis",
+    "files.autoGuessEncoding": false
 }
