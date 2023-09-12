@@ -1,0 +1,501 @@
+
+
+;Background: In front of the mountain hut (night)
+;No change
+
+Seeing an orc so close to me made me barely hold back the urge to scream.
+
+The orcs I saw for the first time looked extremely ugly.
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0580
+[Hinata] “Ningen-san!”
+
+"...!?"
+
+Just when I was nervous, I heard a voice from behind me and almost jumped.
+
+#voice hinb0581
+[Hinata] "Ningen-san, was there an orc?"
+
+“Bah… If you make too much noise, you’ll be found, right?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#voice hinb0582
+[Hinata] "Fnya!? Mogomogomogo..."
+
+I quickly covered Hinata's mouth and hid behind something.
+
+Then, when I quietly tried to check on the oak...
+
+#voice hinb0583
+[Hinata] "Oh...!? Mogo!"
+
+“So please be quiet.”
+
+
+[Orc 1] "Hmm? Did you say something?"
+
+
+[Oak 2] “No, nothing.”
+
+
+[Oak 3] “Isn’t it an insect or a bird?”
+
+An orc passes so close that I can almost touch it if I reach out.
+
+I desperately held Hinata's mouth and held my breath as I waited until they were out of sight.
+
+Fortunately, the orc didn't seem to notice us and disappeared deep into the dark forest.
+
+;MCK
+#bgm 0 stop 2000
+
+"Hmm...did you go?"
+
+As I was breathing a deep sigh of relief, Hinata suddenly started acting up.
+
+#voice hinb0584
+[Hinata] "Mogo! Mogo mogo mogo!"
+
+"Ah, ah, that's bad. It's okay now."
+
+;CHR H02F1_A C
+#cg Hinata hin_1_02f1_a Medium
+#wipe fade
+
+#voice hinb0585
+[Hinata] "Phaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! That's so cool!"
+
+Hinata exhaled loudly and took a deep breath.
+
+;CHR H02F2_A C
+#cg Hinata hin_1_02f2_a Medium
+#wipe fade
+
+#voice hinb0586
+[Hinata] "Already! Human-san, if you hold your mouth, you'll get sick, right?"
+
+"That's because Hinata is making a fuss!"
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0587
+[Hinata] "Hinata is feeling happy... hmm? I wonder if she's feeling happy?"
+
+"...Well, I'm glad the orcs didn't find me."
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0588
+[Hinata] "Oh!? Well, there was an orc! It was really scary!"
+
+"That's right... There's no guarantee that he won't come back again, so let's go inside the cabin and be quiet for today."
+
+;CHR H01F2_A C
+#cg Hinata hin_1_01f2_a Medium
+#wipe fade
+
+#voice hinb0589
+[Hinata] “Oh, that’s scary!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+...Hinata seems to lack a sense of tension.
+
+;BGMch2 amb002 stop
+#bgvoice stop
+
+;BGMch2 amb004 play
+#bgvoice amb004
+
+;Background: Inside the mountain hut (night)
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+When we entered the hut, elves came running towards us.
+
+;CHR I02F L
+#cg Ibara iba_1_02f left
+;CHR T05F_L R
+#cg Tsukiyo tuk_1_05f_l right
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice ibab0711
+[Ibara] “W-were you okay!?”
+
+;CHR T06F_L R
+#cg Tsukiyo tuk_1_06f_l right
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0626
+[Tsukiyo] “Are you okay?”
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0590
+[Hinata] "It's okay! Orc, where did it go?"
+
+"I think it's okay since we went deep into the forest, but I'm going to refrain from turning on any more lights today just in case."
+
+;CHR I08F L
+#cg Ibara iba_1_08f left
+#wipe fade
+
+#voice ibab0712
+[Ibara] "Oh, that's right..."
+
+#voice tikb0627
+[Tsukiyo] "Did you see the orc? Was it scary?"
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+
+#voice hinb0591
+[Hinata] "Yeah! I was scared! Don't ask me, I was making a scene like this."
+
+Hinata said, making a strange face by crushing her nose and pulling her cheeks.
+
+;CHR I11F2 L
+#cg Ibara iba_1_11f2 left
+#wipe fade
+
+#voice ibab0713
+[Ibara] “I-I’m not really scared.”
+
+;CHR T02F R
+#cg Tsukiyo tuk_1_02f right
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0628
+[Tsukiyo] “Foooooooooooooo... that’s scary.”
+
+"...buh"
+
+Hinata's weird face isn't scary at all, but Tsukiyo and Ibara are terrified.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H04F2_A C
+#cg Hinata hin_1_04f2_a Medium
+#wipe fade
+
+#voice hinb0592
+[Hinata] "Huh? Was it wrong? It could have been this, this kind of crazy!"
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+
+#voice ibab0714
+[Ibara] “Hyaaaaaaaaaaaa!”
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+
+#voice tikb0629
+[Tsukiyo] "Hauuuuuuuuu..."
+
+;CHR H01F2_A C
+#cg Hinata hin_1_01f2_a Medium
+#wipe fade
+
+#voice hinb0593
+[Hinata] "That's it, that's it, just walk this close!"
+
+Hinata uses her entire body to give an explanation with a sense of realism.
+
+Hmm, I guess I should be impressed with his amazing expressiveness.
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0594
+[Hinata] "Ningen-san was holding Hinata's mouth so she could come! She's struggling..."
+
+He even reenacted the scene where he covered his own mouth and fluttered.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T02F L
+#cg Tsukiyo tuk_1_02f left
+
+;CHR I02F R
+#cg Ibara iba_1_02f right
+#wipe fade
+
+#face f_tuk_0_02f 94 466
+;ssdelete
+
+#voice tikb0630
+[Tsukiyo] “Fuwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...it was tough.”
+
+#voice ibab0715
+[Ibara] "I should have gone too! If I had gone, I could have defeated the orcs!"
+
+"No, no, it's dangerous at times like that, so just hide or run away."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Just as I was about to pat my chest, thinking that I was glad the brambles didn't come out, a question suddenly occurred to me.
+
+"By the way, why did Hinata come out?"
+
+;CHR H04F2_A C
+#cg Hinata hin_1_04f2_a Medium
+#wipe fade
+
+#voice hinb0595
+[Hinata] "Huh? Why?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konb0577
+[Konomi] "Hinata didn't ask me if I was going to see Human-kun even though I stopped her."
+
+;CHR H01F2_A C
+#cg Hinata hin_1_01f2_a Medium
+#wipe fade
+
+#voice hinb0596
+[Hinata] “So, so!”
+
+“I guess you stopped me for the time being…”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0716
+[Ibara] "Well. Because human beings are lazy, if something happens, I'll be the one to escape, so I'll do my best, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0577-01
+[Konomi] "If Hinata were there, she would get in the way. But she was making a fuss about wanting to be with Human-kun, which was a big deal."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0631
+[Tsukiyo] “If you make too much noise, the orcs will find you.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H06F1_A C
+#cg Hinata hin_1_06f1_a Medium
+#wipe fade
+
+#voice hinb0597
+[Hinata] "Hinata, you're not getting in the way!? The orcs didn't even find you!?"
+
+"...Well, I did my best to cover my mouth so I wouldn't make a fuss."
+
+;CHR H02F1_A C
+#cg Hinata hin_1_02f1_a medium
+#wipe fade
+
+#voice hinb0598
+[Hinata] "Soda! Because Human-san was holding her mouth, Hinata was getting really stiff!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0717
+[Ibara] "Isn't that because Hinata was about to make a fuss?"
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0599
+[Hinata] “Yeah, that’s right!”
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibab0718
+[Ibara] “In that case, Human’s judgment is correct.”
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0600
+[Hinata] “Sonano!?”
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tikb0632
+[Tsukiyo] "If I had been a good girl, I don't think they would have stopped me."
+
+;CHR H01F1_A C
+#cg Hinata hin_1_01f1_a Medium
+#wipe fade
+
+#voice hinb0601
+[Hinata] “Sonaka‾, then, the orcs will come and attack us!”
+
+“No, it would be better if the orcs didn’t come, and I would be grateful if they didn’t come out instead of being careful…”
+
+...But I guess that means that Hinata was worried about me in her own way.
+
+Somehow, my chest felt warm.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;BGMch2 amb004 stop
+#bgvoice stop
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;Date change
+
+;BGMch2 amb001 play
+#bgvoice amb001
+
+;Background: In front of the mountain hut (daytime)
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+He happened to pass by yesterday, but that doesn't mean he'll pass by next time.
+
+Therefore, I decided to cast a spell on the hut to ward off orcs.
+
+...Yeah, well, I don't know how effective it is, but it's much better than nothing at all.
+
+;CHR H06F2_A C
+#cg Hinata hin_1_06f2_a Medium
+#wipe fade
+
+#voice hinb0602
+[Hinata] "Whew!? Human-san, are you drawing on this guy!? Hinata is doing it too!"
+
+"No, this is not a drawing, it's a spell."
+
+;CHR H04F2_A C
+#cg Hinata hin_1_04f2_a Medium
+#wipe fade
+
+#voice hinb0603
+[Hinata] “Is there a spell?”
+
+"I hope the orcs don't come."
+
+;CHR H04F1_A C
+#cg Hinata hin_1_04f1_a Medium
+#wipe fade
+
+#voice hinb0604
+[Hinata] "Huh... that's right, it's better not to come here orcs. If they come, they won't do it!?"
+
+"Yeah. Besides, I don't want Hinata and the others to get involved."
+
+;CHR H04F2_A C
+#cg Hinata hin_1_04f2_a Medium
+#wipe fade
+
+#voice hinb0605
+[Hinata] “Hinata and the others...!?”
+
+Hinata blinked at my words.
+
+“The reason Hinata came out wanting to be with me that evening was because she was worried about me, right?”
+
+When asked what she had been thinking about since yesterday, Hinata laughed.
+
+;CHR H08F1_A C
+#cg Hinata hin_1_08f1_a Medium
+#wipe fade
+
+#voice hinb0606
+[Hinata] "Well, I was nervous at times. I don't want to be alone."
+
+"All alone...? Even though Ibara and the others were there?"
+
+#voice hinb0607
+[Hinata] "Well, Hinata is always with Human-san, right? So, if Human-san disappears, Hanbun will be all alone."
+
+I felt a throbbing pain, like a thorn stuck somewhere in my chest.
+
+Perhaps Hinata felt alone ever since she was in the elf village...
+
+;CHR H11F_A C
+#cg Hinata hin_1_11f_a medium
+#wipe fade
+
+#voice hinb0608
+[Hinata] "Then, I thought that Human-san was going to be alone. So, Hinata, I decided to come with you."
+
+Hinata laughed as she said that, but there was a sad look in her eyes.
+
+#voice hinb0609
+[Hinata] "I don't want to be alone, it's lonely."
+
+"Ah... ah, that's right."
+
+At this moment, I felt like I was touching Hinata's real face, and I couldn't help but feel a strange emotion.
+
+;To Hinata route dh01
+#next dh01_1

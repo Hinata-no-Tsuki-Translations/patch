@@ -1,0 +1,44 @@
+
+;EVCG EV036A1
+;#face off
+
+
+;#cg event ev036a1 background
+;#wipe fade
+
+;Hinata face is not displayed during this event
+
+"Wait, Hinata! I understand how you feel, but you can't jump in!"
+
+#voice hinf0326
+[Hinata] "Oh no! Speak to me, Human-san! I'm going to go get the Kiroku that my father gave me!"
+
+“So, are you going to tear up the floor and cut down the pillars in this situation? I’m sure that’s impossible!”
+
+#voice hinf0327
+[Hinata] "You won't know unless you try it!? Even if you get hurt, Hinata will just be fine, but she's an elf, so it's okay!"
+
+“No matter how much an elf gets hurt, it hurts, right? I don’t like it when Hinata hurts!”
+
+#voice hinf0328
+[Hinata] "Because I can't help but feel sorry for my father! Even though I really like Hinata!"
+
+I hugged Hinata tightly as she tried to shake me off and jump into the fire.
+
+#voice hinf0329
+[Hinata] "Oh no! Speak, speak! If you don't hurry, you'll burn!"
+
+"I'm sure your father did this too. Because what's important isn't the record. Hinata is important, so I wanted to record it."
+
+"Even so, if you're going to make Hinata feel bad for the sake of a record, then you should just burn it down. I'll never let Hinata go."
+
+#voice hinf0330
+[Hinata] "...Because, because..."
+
+Hinata leaned limply against me and trembled as if sobbing.
+
+;Hinata likeability +1
+#set f1 f1+1
+
+;dh04_2
+#next dh04_2

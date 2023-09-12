@@ -1,0 +1,739 @@
+
+
+
+;Background: Mountain hut (evening) => noon
+;b03Continue
+
+The first thing that came to mind was Tsukiyo.
+
+That surprised and happy look on his face when he ate the candy. Even thinking about it now makes me feel happy.
+
+If I can make that kind of face with the sweets I made, I think I'll feel even happier.
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0229
+[Tsukiyo] “Smile, I’m doing it.”
+
+Just as I was thinking about Tsukiyo, Tsukiyo appeared.
+
+"Oh, you're back?"
+
+#voice tikb0230
+[Tsukiyo] “Yes, it is.”
+
+“Then, if you don’t mind, would you like to try one of these?”
+
+I immediately picked up some baked sweets and handed them to her, and Tsukiyo hesitated for a moment before closing her eyes and opening her mouth. Double teeth that look like fangs peek out.
+
+;CHR T06F_L C
+#cg Tsukiyo tuk_1_06f_l medium
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0231
+[Tsukiyo] "Ah, ah..."
+
+It would probably take a tremendous amount of courage for Tsukiyo to talk about something unknown.
+
+Even so, the fact that you opened your mouth probably means that you trust me that much.
+
+A joy that warms my heart wells up.
+
+I fed Tsukiyo some sweets.
+
+;CHR T05F_L C
+#cg Tsukiyo tuk_1_05f_l medium
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0232
+[Tsukiyo] "Haku... Mogu... Mogu..."
+
+Tsukiyo is chewing with a serious look on her face. His expression changed to one of astonishment, then to one of enchantment.
+
+"What do you think? I thought I did pretty well."
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0233
+[Tsukiyo] “It’s delicious.”
+
+After letting out a small purr, Tsukiyo smiled happily. He seemed to like it very much.
+
+"I see. Good."
+
+;CHR T05F_L C
+#cg Tsukiyo tuk_1_05f_l medium
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0234
+[Tsukiyo] "But..."
+
+Tsukiyo looked at the baked sweets with regret.
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0235
+[Tsukiyo] "It's a shame that I only have one. I want to eat more."
+
+"Huh? Why? You can eat more."
+
+;CHR T05F_L C
+#cg Tsukiyo tuk_1_05f_l medium
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0236
+[Tsukiyo] "Really? I said, ``Why don't you try one, Human?'' That's why I thought Tsukiyo would only have one."
+
+……I see.
+
+"That's not what I meant. You can eat as much as you want if you like."
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0237
+[Tsukiyo] “I’m happy.”
+
+Tsukiyo smiled very happily, put the candy in her mouth, and then reached out her hand.
+
+;MCK
+;SE se013 Door slamming sound
+#se 1 se013
+#wait 1000
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibab0265
+[Ibara] “Ah!”
+
+Ibara came back and looked at him.
+
+;CHR T02F C
+#cg Tsukiyo tuk_1_02f medium
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+Tsukiyo was startled by that voice and withdrew his next hand.
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0266
+[Ibara] "Is that now something you can eat? Why is Tsukiyo the only one eating it!?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara slowly approached us and began questioning us with furious force.
+
+"It's because Tsukiyo came back first. If you don't mind, don't eat Ibara either."
+
+;CHR I11F2 C
+#cg Ibara iba_1_11f2 medium
+#wipe fade
+
+#voice ibab0267
+[Ibara] “I’m not like this…”
+
+As Ibara pouted as usual, Hinata and Konomi returned one after another.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1 L
+#cg Hinata hin_1_01f1 left
+;CHR K02F1 R
+#cg Konomi kon_1_02f1 Right
+#wipe fade
+
+#voice hinb0281
+[Hinata] “Did you make something?”
+
+#voice konb0277
+[Konomi] "Oh, it's not black and white."
+
+"It's still cooking, so everyone eat it too."
+
+While Hinata and the others were just looking at them with interest, Tsukiyo timidly recommended them.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0238
+[Tsukiyo] "It's delicious. I ate it. It was delicious."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F L
+#cg Ibara iba_1_01f left
+;CHR H01F1 R
+#cg Hinata hin_1_01f1 right
+#wipe fade
+
+#voice ibab0268
+[Ibara] “Hmm, if Tsukiyo says so, I can eat it too.”
+
+#voice hinb0282
+[Hinata] “Hinata eats too!”
+
+;No voice below
+;Konomi: "Me too‾"
+
+Ibara reached out his hand first, and the other hands also reached out as if competing to take the lead.
+
+"Oh, wait a minute. I'm getting thirsty after eating that much, so let's make some tea."
+
+;CHR I02F L
+#cg Ibara iba_1_02f left
+#wipe fade
+
+#voice ibab0269
+[Ibara] “Hurry up!”
+
+"Yes, yes"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Even while making tea for everyone, there was a big fuss over who took the tea and who didn't.
+
+;CHR H08F1 R
+#cg Hinata hin_1_08f1 right
+#wipe fade
+
+#voice hinb0283
+[Hinata] "Amu... so sweet! Delicious! If it's funny, Hinata can eat a lot! Hug, hag..."
+
+;CHR I01F L
+#cg Ibara iba_1_01f left
+#wipe fade
+
+#voice ibab0270
+[Ibara] "Hagyu... Mogu... Konomi and Tsukiyo are also eating, so it won't be good if Hinata only eats that much! Hug..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K04F R
+#cg Konomi kon_1_04f Right
+#wipe fade
+
+#voice konb0278
+[Konomi] “Hehehe, you eat a lot of those kinds of thorns.”
+
+;CHR I11F2 L
+#cg Ibara iba_1_11f2 left
+#wipe fade
+
+#voice ibab0271
+[Ibara] "T-this... it would be cheating if I only ate Hinata, so I'm going along with her too!"
+
+#voice konb0279
+[Konomi] "Then, let's eat a lot too‾Paku...Nfufu‾"
+
+;CHR I04F L
+#cg Ibara iba_1_04f left
+#wipe fade
+
+#voice ibab0272
+[Ibara] "Ah...why, why do you have so many hands full!"
+
+;CHR K02F1 R
+#cg Konomi kon_1_02f1 Right
+#wipe fade
+
+#voice konb0280
+[Konomi] "Because, both Ibara and Hinata eat quickly. I'll eat slowly, okay?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1 R
+#cg Hinata hin_1_01f1 right
+#wipe fade
+
+#voice hinb0284
+[Hinata] "Yeah! Hinata can eat faster!"
+
+"...Be nice. Also, if you eat that quickly, you'll choke."
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+#voice tikb0239
+[Tsukiyo] "Wow... ah, it was taken."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+While Hinata and Ibara are making a fuss as if they are competing for something, Tsukiyo is also boldly reaching out, but it seems like he is having a hard time securing his share.
+
+;CHR I02F L
+#cg Ibara iba_1_02f left
+#wipe fade
+
+#voice ibab0273
+[Ibara] "That's what the tea is for, right? Here, another helping!"
+
+;CHR H07F R
+#cg Hinata hin_1_07f right
+#wipe fade
+
+#voice hinb0285
+[Hinata] “Hinata, Omizu!”
+
+However, as the creator, I'm happy that Hinata and the others are eating well, but I wonder if it's okay for them to suddenly start eating even though they don't normally eat anything.
+
+``I don't usually eat much, but if I eat it all of a sudden, I'll get a stomach ache.''
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F L
+#cg Ibara iba_1_04f left
+#wipe fade
+
+#voice ibab0274
+[Ibara] “I’m not that stupid!”
+
+;CHR K02F2 R
+#cg Konomi kon_1_02f2 Right
+#wipe fade
+
+#voice konb0281
+[Konomi] “Ibara‾ Is there food crumbs at the corner of your mouth?”
+
+;CHR I09F L
+#cg Ibara iba_1_09f left
+#wipe fade
+
+#voice ibab0275
+[Ibara] "Huh...?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T02F C
+#cg Tsukiyo tuk_1_02f medium
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0240
+[Tsukiyo] "Ah... ah, I want to eat it. But they'll take it first."
+
+"I was thinking of using whatever was left as food for a while, but it looks like things aren't going well like this."
+
+In the meantime, the extra portion of the remaining dough that I had baked was starting to take on a nice color.
+
+I didn't burn it because I got the hang of it earlier.
+
+I gently pulled on Tsukiyo's clothes without the others noticing.
+
+"Here, be quiet."
+
+;CHR T06F_L C
+#cg Tsukiyo tuk_1_06f_l medium
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0241
+[Tsukiyo] “Ah, sweets.”
+
+Let's give Tsukiyo priority and secure the portion that is baked later.
+
+"You'd better stay first."
+
+If it becomes a battle for Tsukiyo, he will lose to Hinata and Ibara's momentum.
+
+Considering that, it seems like a wise strategy to secure it separately like Konomi.
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0242
+[Tsukiyo] “I want to keep this.”
+
+"Ah, then I need to hide it so other people don't take it."
+
+I guess I'll eat it little by little. If you want to have enough for tomorrow, it would be better to save a little more.
+
+I quietly set aside the baked portion for Tsukiyo so that Hinata, Ibara, and the others wouldn't notice, and started baking the rest of the dough.
+
+Fortunately, she doesn't seem to be paying attention to what she's baking right now because she's distracted by the sweets on the desk.
+
+"Are you going to have it as a snack tomorrow too? Be careful not to leave it hidden and forget it."
+
+Tsukiyo shook her head at my words.
+
+;CHR T10F2 C
+#cg Tsukiyo tuk_1_10f2 medium
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tikb0243
+[Tsukiyo] “I want to keep it forever. I want to treasure it.”
+
+"Huh? You don't mean tomorrow's snack, you mean forever?"
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0244
+[Tsukiyo] “Yes.”
+
+Tsukiyo nods, her eyes serious.
+
+"Hmm, I guess that's difficult. I don't know much about it, but if it's pickled in salt or sugar, it seems like it'll last a long time, but if it's made with noodles, it'll get hard, and the same might be true of sweets."
+
+I've never thought about saving sweets, so I don't know, but they might get moldy or rot.
+
+;CHR T05F_L C
+#cg Tsukiyo tuk_1_05f_l medium
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tikb0245
+[Tsukiyo] “Can’t take it?”
+
+"Yeah, I guess it's better to eat sweets while they're still delicious."
+
+;CHR T02F C
+#cg Tsukiyo tuk_1_02f medium
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0246
+[Tsukiyo] “Sokka?”
+
+Tsukiyo's shoulders slumped dejectedly.
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibab0276
+[Ibara] “Ah!”
+
+#voice tikb0247
+[Tsukiyo] “W-what?”
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibab0277
+[Ibara] “Why is Tsukiyo hogging those sweets!?”
+
+“Ah, I found it.”
+
+#voice tikb0248
+[Tsukiyo] “I-I’m sorry!”
+
+I gently protected Tsukiyo with my back as she lowered her head reflexively.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+“Here, see, the next one was baked, and we still have raw dough, so we can bake even more.”
+
+;FACE H06F1
+#face f_hin_0_06f1 94 466
+
+#voice hinb0286
+[Hinata] "Oh! So many sweets!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibab0278
+[Ibara] "Ah! You said you'd eat me too!"
+
+Ibara and the others' attention immediately turned to the sweets, and they seemed to forget that Tsukiyo had kept them to himself for a while.
+
+I called out to Tsukiyo, who was still bowing her head.
+
+;CHR T05F_L C
+#cg Tsukiyo tuk_1_05f_l medium
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+"That's for Tsukiyo, so eat slowly."
+
+#voice tikb0249
+[Tsukiyo] “That’s for Tsukiyo?”
+
+"Ah. Even if we don't have to fight, it's Tsukiyo's share. So don't worry. Konomi does the same, right?"
+
+;CHR T01F_L C
+#cg Tsukiyo tuk_1_01f_l medium
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0250
+[Tsukiyo] “Yes, it is.”
+
+Tsukiyo was about to bring the sweets to her mouth, but stopped halfway and looked up at me.
+
+"Hmm? What?"
+
+;CHR T09F C
+#cg Tsukiyo tuk_1_09f medium
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tikb0251
+[Tsukiyo] “Thank you.”
+
+"I can't thank you enough. Wouldn't it be unfair if I couldn't just eat Tsukiyo?"
+
+#voice tikb0252
+[Tsukiyo] "Thank you for that, too. This is the first time I've had someone say something about Tsukiyo."
+
+Tsukiyo smiled and slowly ate the sweets I baked, as if they were important.
+
+;BGMch2 amb003 stop
+#bgvoice stop
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+;Date change
+
+;BGMch2 amb003 Play
+#bgvoice amb003
+
+;Background: Mountain hut (morning) => noon
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;SMODE 015 PLAY
+#label replay015
+#setscene 14
+#bg BG07b_1
+
+#cg event ev017a1 background
+#wipe fade
+
+The next day, I went out for a while and when I came back, I found Tsukiyo in the hut.
+
+"I-I was surprised."
+
+Tsukiyo seemed to be doing something in the notebook where I always write about elves.
+
+#voice tikb0253
+[Tsukiyo] "Hmm..."
+
+Even though he raised his voice, he seemed so enthusiastic that he didn't even notice that I had left.
+
+"troubled……"
+
+Writing materials, including paper, are not cheap.
+
+I tell the elves not to play pranks on it because it's something important, but I never expected Tsukiyo, a quiet person, to play pranks on me.
+
+While I was wondering what to say, I peeked behind me and saw that what I was drawing was a mountain emitting strange rays of light, and something small and round...?
+
+Ibara and Hinata are probably human-like. I know this because they are somehow similar.
+
+#cg event ev017a2 background
+#wipe fade
+
+#voice tikb0254
+[Tsukiyo] "Ah..."
+
+Tsukiyo finally noticed me as if I was being looked into, and without any ado, she handed me the ledger.
+
+#voice tikb0255
+[Tsukiyo] “I drew it.”
+
+"Ah, ah...yeah"
+
+The fact that he had a serious face didn't seem to mean that he was having fun.
+
+If that happens, I can't just get angry...
+
+#voice tikb0256
+[Tsukiyo] "I wanted to write, but I can't write. So I drew a picture."
+
+#cg event ev017a1 background
+#wipe fade
+
+#voice tikb0257
+[Tsukiyo] "I said I would write down important things in a book. But I haven't written them down yet. So, I wrote them down."
+
+...Do you mean that you added something because you found something important that wasn't written in the book? In other words, you're imitating me.
+
+"What did you draw this?"
+
+#cg event ev017a2 background
+#wipe fade
+
+#voice tikb0258
+[Tsukiyo] "It's sweets. I'm making this. This is sweets. I was drawing something that makes people happy when they eat it."
+
+"I see. This is me mixing the powder with my hands."
+
+#voice tikb0259
+[Tsukiyo] “Yes.”
+
+The light that appeared to be coming from the mountain seemed to indicate that I was putting my hand into the powder that had been picked up.
+
+Then, is this round thing candy?
+
+#voice tikb0260
+[Tsukiyo] "The sweets were delicious. I'm sure it's very important. But I didn't write it down."
+
+"I see. Is that why you decided to write it down?"
+
+#voice tikb0261
+[Tsukiyo] “Yes.”
+
+Tsukiyo nodded with a serious face.
+
+If that's the case, I shouldn't have thought it was a prank and suddenly gotten angry.
+
+"...I see. Well then, I'll write the letters."
+
+#cg event ev017a2 background
+#wipe fade
+
+#voice tikb0262
+[Tsukiyo] “Yes!”
+
+Also, if you write down the quantities when making sweets, you won't forget them when you want to make them again.
+
+Next to my hands kneading the flour, I wrote down the quantities for making sweets, the precautions to take when baking next to a picture of the sweets, and next to Ibara and Hinata, I wrote ``Elves like sweets.''
+
+#voice tikb0263
+[Tsukiyo] “Now I was able to write something important.”
+
+Tsukiyo looks happy as she looks over her notebook over and over again.
+
+"Tsukiyo is good at drawing. Come to think of it, I think he's also quite skillful at making handicrafts."
+
+#cg event ev017a1 background
+#wipe fade
+
+#voice tikb0264
+[Tsukiyo] “Are you good at it?”
+
+Tsukiyo wriggled around, feeling embarrassed at the praise.
+
+"Ah, you're good at it. But paper and other things you write on are precious, so if you think there's something you need to write down, why don't you ask me first?"
+
+#voice tikb0265
+[Tsukiyo] “Yes.”
+
+I felt shocked as if I had just been scolded.
+
+Ah, I didn't mean to make you feel depressed.
+
+"So, I have a request for you, Tsukiyo... I might ask you to draw a picture for me, is that okay?"
+
+#cg event ev017a2 background
+#wipe fade
+
+#voice tikb0266
+[Tsukiyo] “…!?”
+
+"I'm pretty good at crafts, but Tsukiyo seems to be better at drawing. Wouldn't it be easier to understand if there were pictures in the book?"
+
+#cg event ev017a1 background
+#wipe fade
+
+#voice tikb0267
+[Tsukiyo] “Yes, it is!”
+
+Tsukiyo's face suddenly lit up at my request.
+
+"But if I let Tsukiyo touch books and writing utensils all the time, Ibara and Hinata would be jealous, so this is a secret just for us."
+
+Even if the people in question are serious, they can't let this go to waste.
+
+It would be a problem if they were used in competition.
+
+#cg event ev017a3 background
+#wipe fade
+
+#voice tikb0268
+[Tsukiyo] “It’s a secret.”
+
+I put my finger in front of my lips and made a secret gesture, and Tsukiyo imitated it with a nervous look on her face, then laughed.
+
+#voice tikb0269
+[Tsukiyo] “It’s a secret just for the two of us.”
+
+;SMODE 015 STOP
+#endscene
+
+;Tsukiyo favorability +1
+#set f4 f4+1
+
+;b04
+#next b04

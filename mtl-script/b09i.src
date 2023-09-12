@@ -1,0 +1,437 @@
+
+
+;Background: In front of the mountain hut (night)
+;No change
+
+Just as I was barely holding back the urge to scream at the prospect of seeing an orc so close, I was suddenly slapped on the back from behind.
+
+"...!?"
+
+When I desperately swallowed a scream and turned around, Ibara was there.
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0719
+[Ibara] "Shh..."
+
+Ibara puts his finger on his lips to tell me to be quiet, but if Ibara hadn't threatened me in the first place, I wouldn't have raised my voice.
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0720
+[Ibara] “What about orcs?”
+
+"I'm right nearby."
+
+In a muffled voice, I pointed in the direction of the orc, and Ibara also looked in that direction.
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0721
+[Ibara] "Wow... there's so many of them."
+
+"Ah, I hope you go without noticing..."
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0722
+[Ibara] “I thought most human beings were ugly, but oh, orcs are even more ugly than that.”
+
+Ibara said as he carried the familiar bow and arrow on his shoulder.
+
+"Oh, hey. What are you planning to do, Ibara?"
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0723
+[Ibara] “Defeat them and restore peace!”
+
+"Well, wait! Just wait!"
+
+I hurriedly grabbed Ibara.
+
+It's hard to imagine that something that would hurt even a human would be effective against a monster.
+
+There's no way you can defeat an orc with a thorny bow and arrow.
+
+;CHR I04F C
+#cg Ibara iba_1_04f Medium
+#wipe fade
+
+#voice ibab0724
+[Ibara] "Why are you stopping me!? Huh!? Now, human, you're teaming up with the orcs..."
+
+"Oh, you idiot! Shh! Shh! If you make a noise, the orcs will find you, right?"
+
+;CHR I09F C
+#cg Ibara iba_1_09f Medium
+#wipe fade
+
+#voice ibab0725
+[Ibara] “Huh!?”
+
+Ibara also seemed panicked and shut his mouth.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+
+[Orc 1] "Hmm? Did you say something?"
+
+
+[Oak 2] “No, nothing.”
+
+
+[Oak 3] “Isn’t it an insect or a bird?”
+
+;Background: In front of the mountain hut (night)
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+Fortunately, the orcs don't seem to notice our presence.
+
+"...phew"
+
+I wiped my cold sweat and turned to Ibara.
+
+"You know, there are so many orcs. There's no way we can fight them without a strategy."
+
+Before that, I don't think that the thorny bow and arrow, which has the ability to kill even humans, would be able to pass through the hard skin of orcs...
+
+What if Ibara rebelled against me for admonishing me like that?
+
+I chose my words so as not to provoke Ibara as much as possible.
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0726
+[Ibara] “Then, what should we do?”
+
+"Um... for now, we'll make sure the orcs don't get near here. If we're going to fight... then we'll do it."
+
+If the lunar eclipse had something to do with the appearance of the orcs, I don't know if ``after'' will be a hundred or two hundred years from now, and I probably won't be around at that time.
+
+I think it's a sloppy plan, but I'm just an ordinary person and I can't take that much responsibility.
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0727
+[Ibara] “Does Human have any strategy?”
+
+"...Ah, there is. There is, there is. Um..."
+
+If I say no, Ibara might go after the orcs.
+
+I racked my brain, struggling to somehow squeeze out what little wisdom I had.
+
+I hope the orcs move away while I hold back the thorns.
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0728
+[Ibara] "What? If you have a plan, let me know quickly."
+
+"Um, uh...it's hard to explain."
+
+Even as I managed to buy some time, the orcs continued to move away. That's right, just go somewhere else.
+
+"Well, what can I say..."
+
+;CHR I04F C
+#cg Ibara iba_1_04f Medium
+#wipe fade
+
+#voice ibab0729
+[Ibara] "Okay! If they don't give us an explanation, I'll start chasing them right now!"
+
+"W-wait, wait! I have a plan! And Ibara's power is needed."
+
+;CHR I09F C
+#cg Ibara iba_1_09f Medium
+#wipe fade
+
+#voice ibab0730
+[Ibara] "Do you need my help!? Huh, huh. You can ask me and do it for me."
+
+Ibara seems to have succeeded in stimulating his self-esteem, as he flops back.
+
+I have to quickly convince Ibara while I'm in a good mood.
+
+As I was thinking about this in the corner of my vision, I finally realized which direction the orc was heading.
+
+...That direction.
+
+"...I'll go alone."
+
+#voice ibab0731
+[Ibara] "Huh? Why!? I can fight too!?"
+
+"I told you, we're not fighting this time. There's something I want you to do later."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I followed the orcs and sneaked into the forest.
+
+;MCK
+#bgm 0 stop 2000
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+;No portrait
+
+#voice ibab0732
+[Ibara] “Hey, what are you doing?”
+
+“You said you were alone, but you followed me?”
+
+;CHR I11F2 C
+#cg Ibara iba_1_11f2 medium
+#wipe fade
+
+#voice ibab0733
+[Ibara] “Ni-humans can’t be trusted, so we have to keep an eye on them, right!?”
+
+If I didn't show them the scene, Ibara wouldn't be convinced even if I told them I chased them away, so I guess I'm glad I followed them...
+
+"Then don't leave me now. Stay by my side, otherwise you'll be in danger."
+
+;CHR I10F2 C
+#cg Ibara iba_1_10f2 medium
+#wipe fade
+
+#voice ibab0734
+[Ibara] "Uh...yeah"
+
+Ibara anxiously grabbed the hem of my clothes.
+
+"Ho!"
+
+;SE se014 Bird calls
+#se 1 se014
+
+I raise my voice and then throw pebbles to shake the tree to make it look like a bird or something has taken off.
+
+
+[Orc 1] "What's that voice?"
+
+
+[Oak 2] "It's probably a bird or something."
+
+
+[Orc 1] "Now that I think about it, I'm hungry. If there's a bird, I'll catch it and eat it."
+
+
+[Oak 3] “Ah, shall we?”
+
+Okay, you've caught on nicely.
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0735
+[Ibara] “W-what, what’s that strange voice now!?”
+
+"It's an imitation of a mole's cry. I mean, we're in the middle of a mission, so please stay quiet, Ibara."
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0736
+[Ibara] "Ah, ah...what, I thought the human had gone crazy out of fear."
+
+"I'm scared. It's scary, but you can't say that now that you've come this far, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+There are parts of this forest where when you move a little deeper, it feels like there are other living things around, perhaps because the undergrowth is so deep.
+
+I hope the orcs will be able to catch on to it...
+
+;SE rustling sound
+
+
+[Orc 3] "Buhyahyahya, looks like there's something here. This guy is huge."
+
+An orc smiles happily and steps in the direction he had in mind.
+
+"Okay."
+
+I made a small fist and watched what happened.
+
+
+[Oak 2] “I don’t think you’re planning on keeping it all to yourself.”
+
+As one of them moved forward, the other orcs followed behind.
+
+After a while, a loud scream came from the front.
+
+
+[Oak 3] "Buhya!? What is this?"
+
+
+[Oak 2] “Buhyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!?”
+
+
+[Orc 1] “Fugo, the enemy is attacking!?”
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0737
+[Ibara] "W-what!? What's happening!?"
+
+Ibara looked up at me as if he wanted to know the reason.
+
+"...There's an ivy monster over there."
+
+It's the monster I encountered when I met Hinata for the first time.
+
+It's not that strong, but it should be enough to threaten you.
+
+If orcs are as simple as they seem, they'll have a hard time breaking out.
+
+"Perhaps the orcs are hanging upside down by now. If they experience something like that, they won't want to go near the forest around here, right?"
+
+;CHR I08F C
+#cg Ibara iba_1_08f Medium
+#wipe fade
+
+#voice ibab0738
+[Ibara] "Oh... oh, the ivy monster?"
+
+;CHR I11F2 C
+#cg Ibara iba_1_11f2 medium
+#wipe fade
+
+#voice ibab0739
+[Ibara] "I-I even thought of that! I'm not that smart!?"
+
+"Yes, yes"
+
+...But I'm glad it went well.
+
+"Let's get out of here before the orcs come back."
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0740
+[Ibara] “Hmm, that’s right.”
+
+We quickly ran away from the forest, where we could still hear the orcs' cries.
+
+#voice ibab0741
+[Ibara] “So, what was it that you wanted to ask me?”
+
+...Ah, that's right. Did I say that?
+
+"Eh, um... With this plan, I don't know if it's going to work out, so I thought I'd let everyone know if I messed up."
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0742
+[Ibara] “You didn’t say that!?”
+
+“Ah, ahahaha… I think I was too scared and confused.”
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0743
+[Ibara] “Besides, wouldn’t that be like asking me to give up on humans?”
+
+"N-no...umm, I didn't mean to die either, right?"
+
+Ibara tightly grabbed the hem of my clothes as I tried to cover up.
+
+;CHR I02F C
+#cg Ibara iba_1_02f Medium
+#wipe fade
+
+#voice ibab0744
+[Ibara] "I'm glad I followed you. If that was the case, I wouldn't have done what you asked me to do!"
+
+"Ah, ahahaha...thank you. Just to be sure, I'll have to cast a charm on the hut to prevent orcs tomorrow morning."
+
+;CHR I04F C
+#cg Ibara iba_1_04f Medium
+#wipe fade
+
+#voice ibab0745
+[Ibara] "Why!? I have to go and defeat the orcs after all! I guess I should have defeated the orcs that were captured by the vine monsters."
+
+I hurriedly caught Ibara, who was about to turn back, and admonished him in a low voice.
+
+"If we were to be captured by the vine monsters, we wouldn't have any children, right? Also, no matter how many orcs we fight against, I don't think we should just fight without thinking."
+
+...There's no way we can fight on our own.
+
+“Fights only lead to more battles in the end. Hatred only breeds hatred.”
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0746
+[Ibara] “…I feel like that makes sense.”
+
+I was glad that Ibara seemed to understand when I said something like that.
+
+;CHR I08F C
+#cg Ibara iba_1_08f Medium
+#wipe fade
+
+#voice ibab0747
+[Ibara] "Hate is nothing but hatred... huh? Human, you..."
+
+Ibara looked up at me with a confused look on his face.
+
+"...Hmm? What happened?"
+
+#voice ibab0748
+[Ibara] “…It’s nothing.”
+
+Ibarra bit his lip and looked down.
+
+;Go to Ibara route di01
+#next di01

@@ -1,0 +1,530 @@
+
+;Background: Mountain hut (daytime)
+;No change
+
+"Is Konomi's secret location far away?"
+
+;CHR K06F C
+#cg Konomi kon_1_06f Medium
+#wipe fade
+
+#voice konb0540
+[Konomi] “Hmm, when you say far, it’s far away, and when you say close, it’s close.”
+
+...Also, things that I don't understand even though I think I understand them.
+
+"I'm hungry and if it's not too far away, I think we'll go somewhere else today."
+
+;CHR K05F C
+#cg Konomi kon_1_05f Medium
+#wipe fade
+
+#voice konb0541
+[Konomi] "It's not that far away, right? But you won't get there just by walking a few steps."
+
+“So, is it close after all?”
+
+;CHR K04F C
+#cg Konomi kon_1_04f Medium
+#wipe fade
+
+#voice konb0542
+[Konomi] "You'll understand if you go, right?"
+
+"Well, that's true, but..."
+
+;CHR K01F2B C
+#cg Konomi kon_1_01f2b Medium
+#wipe fade
+
+#voice konb0543
+[Konomi] “Then, shall we go?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F2A L
+#cg Konomi kon_1_01f2a left
+;CHR I02F R
+#cg Ibara iba_1_02f right
+#wipe fade
+
+#voice ibab0670
+[Ibara] “Hey, wait a minute! Why are we talking about listening to Konomi!?”
+
+"Because I'm curious. It's Konomi's secret place, isn't it?"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+
+#voice tikb0594
+[Tsukiyo] “Konomi’s secret place.”
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+
+#voice hinb0554
+[Hinata] "Oh!? Come on!?"
+
+"I feel like if I miss this opportunity, I won't be able to teach you anything."
+
+;CHR I11F2 R
+#cg Ibara iba_1_11f2 right
+#wipe fade
+
+#voice ibab0671
+[Ibara] "Uh...but"
+
+;CHR K01F2B L
+#cg Konomi kon_1_01f2b left
+#wipe fade
+
+#voice konb0544
+[Konomi] “I have no intention of not telling you, but if I say next time, I might forget.”
+
+#voice ibab0672
+[Ibara] “…Gah”
+
+“Look, you’re curious, aren’t you?”
+
+;CHR I02F R
+#cg Ibara iba_1_02f right
+#wipe fade
+
+#voice ibab0673
+[Ibara] "I-I can't help it...I'm not forgetful like Konomi, so you can give me another chance."
+
+"Yeah, can you tell me another time?"
+
+;CHR I01F R
+#cg Ibara iba_1_01f right
+#wipe fade
+
+#voice ibab0674
+[Ibara] "If you asked me to do that, I'm not a demon either. I'll give it to Konomi this time!"
+
+;CHR K09F1 L
+#cg Konomi kon_1_09f1 left
+#wipe fade
+
+#voice konb0545
+[Konomi] “Thank you ‾Ibara‾”
+
+;CHR I07F R
+#cg Ibara iba_1_07f right
+#wipe fade
+
+#voice ibab0675
+[Ibara] "Yes. Be grateful, flatter, and honor!"
+
+;CHR K02F1 L
+#cg Konomi kon_1_02f1 left
+#wipe fade
+
+#voice konb0546
+[Konomi] "Hmm? So, what exactly did I get?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0555
+[Hinata] “Konomi, did Ibara give you something!?”
+
+;CHR K02F2 L
+#cg Konomi kon_1_02f2 left
+#wipe fade
+
+#voice konb0547
+[Konomi] "It seems so‾? He's willing to give me something‾"
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+
+#voice hinb0556
+[Hinata] "Oh! What did you get? Something good? Something good?"
+
+;CHR I04F R
+#cg Ibara iba_1_04f right
+#wipe fade
+
+#voice ibab0676
+[Ibara] "No! I'm giving up the opportunity, not giving anything away!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;BGMch2 amb003 stop
+#bgvoice stop
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BGMch2 amb001 play
+#bgvoice amb001
+
+;Background: Forest (daytime)
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"...What is this place?"
+
+;CHR K09F1 C
+#cg Konomi kon_1_09f1 Medium
+#wipe fade
+
+#voice konb0548
+[Konomi] "Huh? It's amazing, isn't it?"
+
+There were certainly a lot of fruits growing in the place Konomi had brought me to.
+
+However, none of them were familiar to me.
+
+What is this light purple fruit? It's my first time seeing it...
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H06F2_A C
+#cg Hinata hin_1_06f2_a Medium
+#wipe fade
+
+#voice hinb0557
+[Hinata] "Wooooooooo! There are a lot of weird shaped fruits!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F L
+#cg Ibara iba_1_02f left
+#wipe fade
+
+#voice ibab0677
+[Ibara] "What is this place? I've never seen anything like this anywhere else."
+
+;CHR T06F_L R
+#cg Tsukiyo tuk_1_06f_l right
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0595
+[Tsukiyo] “Wow, this long thing is squishy.”
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+
+#voice hinb0558
+[Hinata] "It looks like a snake!"
+
+#voice ibab0678
+[Ibara] "A snake!? Don't say anything unpleasant, it's starting to look like a snake hanging from a tree, right?"
+
+;CHR T01F_L R
+#cg Tsukiyo tuk_1_01f_l right
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0596
+[Tsukiyo] "If there were so many snakes, I wouldn't be able to tell even if they were mixed together."
+
+;CHR I04F L
+#cg Ibara iba_1_04f left
+#wipe fade
+
+#voice ibab0679
+[Ibara] "Hyaaah!? I-I won't go near where that tree grows!"
+
+Hinata and Tsukiyo are making a fuss around a tree where a large, long and thin scrubber chisel hangs down like a ghost.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Judging from the shape of the leaves and the way the fruit grows, I think it's definitely a scrubber flea, but it's still a strange shape.
+
+I was looking up at a tree with slightly rounder fruit growing on it.
+
+"What is this? It looks like Ishinashi or Marukaido, but it's a strangely lumpy fruit..."
+
+It doesn't seem to be poisonous as there are insects and birds pecked on it...
+
+;CHR K01F1B C
+#cg Konomi kon_1_01f1b Medium
+#wipe fade
+
+#voice konb0549
+[Konomi] "If you don't know, why don't you try it?"
+
+“Wow!?”
+
+At Konomi's idea, I couldn't help but let out a voice that sounded like a crushed wood frog.
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0550
+[Konomi] “If you try it, it might be surprisingly delicious!”
+
+“Surprisingly, that means Konomi probably thinks it doesn’t taste good either.”
+
+;CHR K09F2 C
+#cg Konomi kon_1_09f2 Medium
+#wipe fade
+
+#voice konb0551
+[Konomi] "Ahaha‾. I don't want to eat it. But you won't know if you can eat it until you try it, right?"
+
+“What is that?”
+
+Even as I complained, I took a bite of the lumpy fruit.
+
+The sticky sweetness that instantly spreads in your mouth, and the astringent and harsh taste that sticks to your tongue or teeth...
+
+"Pepepepe... it's sweet, but I can't eat this raw."
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0552
+[Konomi] "Yes, that's a shame. So, how about this?"
+
+What Konomi held out was a fruit I had never seen before, shaped like a long, purple egg that had been broken open.
+
+I crack open the surprisingly soft fruit and gingerly place my tongue in the center.
+
+"Ah, this is delicious."
+
+The soft center part had a light sweetness that I couldn't imagine from the outside, so I slurped just that part. I also tried to see if I could eat the skin.
+
+"Bah, the skin is hard and bitter, so it's not edible."
+
+Try picking up another one and sipping only the center.
+
+Yeah. It's not bad if it's just the contents.
+
+However, even though the skin is thick and soft, it feels like a waste to only eat the inside.
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0553
+[Konomi] "Oh‾? Doesn't this one look like the one written in the book that Human-kun was looking at the other day?"
+
+Konomi held out a branch that looked like a bunch of small, glossy red fruits...
+
+"So, isn't this a highly poisonous dwarf knot? If you eat just one bite, you'll writhe in agony and die from the pain as if a dwarf was punching a hole in your skull...!"
+
+It's supposed to be a rare poisonous plant that only grows in cold regions, but why is it growing here? ?
+
+;CHR K06F C
+#cg Konomi kon_1_06f Medium
+#wipe fade
+
+#voice konb0554
+[Konomi] "Hmm, will I die if I eat this? Then, don't let Human-kun eat it. Hey."
+
+"Even if it doesn't kill me, I won't eat anything that will upset my stomach. And it'll taste bad too!"
+
+...Maybe you should stop accidentally eating something you've never seen before.
+
+;CHR K05F C
+#cg Konomi kon_1_05f Medium
+#wipe fade
+
+#voice konb0555
+[Konomi] “Ningen-kun is so picky about what he likes.”
+
+"It's not too noisy. I'm sure no one wants to eat poison."
+
+;CHR K06F C
+#cg Konomi kon_1_06f Medium
+#wipe fade
+
+#voice konb0556
+[Konomi] "Look, the taste is different between me and Human-kun, and you won't know unless you try it, right?"
+
+“While saying that, you offer me a poisonous fruit that looks poisonous to me.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Is Konomi planning to kill me?
+
+;CHR I01F C
+#cg Ibara iba_1_01f Medium
+#wipe fade
+
+#voice ibab0680
+[Ibara] "...I see, I understand. Konomi brought you with the intention of defeating Human, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T06F_L L
+#cg Tsukiyo tuk_1_06f_l left
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0597
+[Tsukiyo] "Haw!? Is that so?"
+
+;CHR H06F2_A R
+#cg Hinata hin_1_06f2_a right
+#wipe fade
+
+#voice hinb0559
+[Hinata] "Huh? Human-san, this isn't a bad guy after all!?"
+
+“What do you mean, even this?”
+
+;CHR H01F2_A R
+#cg Hinata hin_1_01f2_a right
+#wipe fade
+
+#voice hinb0560
+[Hinata] "Then maybe he's a good guy?"
+
+"Maybe!? Maybe!?"
+
+;CHR T01F_L L
+#cg Tsukiyo tuk_1_01f_l left
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tikb0598
+[Tsukiyo] "Ningen-san, you're not good enough to do bad things."
+
+“It also feels like something terrible is being said...”
+
+Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Konomi was somehow being blamed...
+
+"...Ah, but poison can also be used as an insect repellent and is useful for humans. In that sense, there are a lot of interesting things here."
+
+;CHR H04F2_A R
+#cg Hinata hin_1_04f2_a right
+#wipe fade
+
+#voice hinb0561
+[Hinata] “Huh?”
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+
+#voice ibab0681
+[Ibara] “Insect repellent!?”
+
+;CHR T02F L
+#cg Tsukiyo tuk_1_02f left
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0599
+[Tsukiyo] "I'll get rid of bugs...?"
+
+“The horned beetles are cool, but you don’t want the Japanese beetles to come, right?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F C
+#cg Ibara iba_1_04f Medium
+#wipe fade
+
+#voice ibab0682
+[Ibara] "Gyaa!? Absolutely not! It's disgusting!"
+
+"Here. So, thank you for bringing me here, Konomi."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K09F1 C
+#cg Konomi kon_1_09f1 Medium
+#wipe fade
+
+#voice konb0557
+[Konomi] "You're welcome"
+
+"I need to bring some plants I've never seen before and find out what kind of plants they are."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L L
+#cg Tsukiyo tuk_1_01f_l left
+
+;CHR H06F1_A R
+#cg Hinata hin_1_06f1_a right
+#wipe fade
+
+#face f_tuk_0_01f_l 94 466
+;ssdelete
+
+#voice tikb0600
+[Tsukiyo] “Research?”
+
+#voice hinb0562
+[Hinata] “Wow!?”
+
+"Okay, I'll be here for a little while, so everyone come play."
+
+;CHR H07F_A R
+#cg Hinata hin_1_07f_a right
+#wipe fade
+
+#voice hinb0563
+[Hinata] "Yes!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata and the others ran away, but only Konomi remained by my side.
+
+;CHR K03F C
+#cg Konomi kon_1_03f Medium
+#wipe fade
+
+#voice konb0558
+[Konomi] "Ningen-kun..."
+
+"what?"
+
+#voice konb0559
+[Konomi] “It’s no wonder, hehehe.”
+
+Konomi looked up at me and smiled meaningfully.
+
+;Konomi favorability +1
+#set f3 f3+1
+
+;b09k
+#next b09

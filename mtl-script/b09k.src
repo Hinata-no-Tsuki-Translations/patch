@@ -1,0 +1,445 @@
+
+
+;Background: Yamakomae (night)
+;No change
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0578
+[Konomi] “Oh, there are a lot of orcs.”
+
+"Huh!?"
+
+Konomi was silently standing behind me, and I was so surprised that my heart almost jumped out of my mouth.
+
+"Bah... I told you to stay inside."
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0579
+[Konomi] “Hmm, so was it?”
+
+Konomi tilted her head and peered at Oak again.
+
+;CHR K01F1A C
+#cg Konomi kon_1_01f1a Medium
+#wipe fade
+
+#voice konb0580
+[Konomi] “Oh, you sure do look ferocious.”
+
+"I don't feel nervous..."
+
+Even I feel let down when Konomi is around. There are orcs within reach if you raise your voice, so this isn't the time to be calm.
+
+;CHR K01F1B C
+#cg Konomi kon_1_01f1b Medium
+#wipe fade
+
+#voice konb0581
+[Konomi] "Orcs are rough and ferocious. If they like you, they get rough with you, and if they don't like you, they beat you up. They eat your head off."
+
+"Oh, stop it...it's scary, isn't it?"
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0582
+[Konomi] “You’re going to get eaten either way.”
+
+"Stop..."
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0583
+[Konomi] "They're strong, so they can easily destroy this hut. I hope they don't have any interest in this hut. They'll destroy it just for fun, right?"
+
+"Shh..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+An orc sneaks past while they are talking.
+
+I hold my breath as a strange monster passes by so close that I can almost touch it if I reach out.
+
+;MCK1023
+#bgm 0 stop 2000
+
+"...Huh, did you pass by?"
+
+Once the orcs were far away, I finally took a breath.
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0584
+[Konomi] “I didn’t go there today.”
+
+Konomi took a peek at me as I sat down, feeling relieved.
+
+;CHR K06F C
+#cg Konomi kon_1_06f Medium
+#wipe fade
+
+#voice konb0585
+[Konomi] “We’re in trouble.”
+
+"Huh? What? You just passed by."
+
+;CHR K05F C
+#cg Konomi kon_1_05f Medium
+#wipe fade
+
+#voice konb0586
+[Konomi] "Huh? Well, it's the orc's habit to come again. It seems like they didn't pay any attention to the hut today."
+
+"..."
+
+;CHR K06F C
+#cg Konomi kon_1_06f Medium
+#wipe fade
+
+#voice konb0587
+[Konomi] “Besides, he probably went hunting, so he might pass by again on his way home.”
+
+"...Ah, ah, that's right. I guess I'll come back today, or maybe tomorrow..."
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0588
+[Konomi] "If you pass, a road will be formed, right? You can make roads that you can see, but you can also make roads that you can't see. It's easier to pass where there is a road, right?"
+
+"picture……?"
+
+Konomi's words, spoken leisurely in her usual tone, stir in my head.
+
+An invisible road...?
+
+Does that mean that it becomes a habit? Once the orcs passed through this place, it became their path...
+
+"...Well, it's bad, it's bad!"
+
+;CHR K01F1B C
+#cg Konomi kon_1_01f1b Medium
+#wipe fade
+
+#voice konb0589
+[Konomi] "It's bad‾ It's going to be very bad‾"
+
+"I-I have to do something..."
+
+That's why, even though I'm safe today, I don't know what will happen if orcs appear again.
+
+;CHR K01F1A C
+#cg Konomi kon_1_01f1a Medium
+#wipe fade
+
+#voice konb0590
+[Konomi] “Hmm, maybe we should do something about it.”
+
+"...I have no choice but to wait here, Konomi, okay?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I decided to secretly follow the orc.
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+;SE
+
+The sound I had made carelessly scared me and my legs stopped moving.
+
+
+[Orc 1] "Hmm? Did you say something?"
+
+
+[Oak 2] “No, nothing.”
+
+
+[Oak 3] “Isn’t it an insect or a bird?”
+
+The orcs seemed to have noticed too, but they didn't bother to check, so I breathed a sigh of relief.
+
+"...phew"
+
+;CHR K01F1B C
+#cg Konomi kon_1_01f1b Medium
+#wipe fade
+
+#voice konb0591
+[Konomi] “It was another careless thing to make footsteps‾Ningen-kun is really careless‾”
+
+"...You... I told you to wait in the cabin, right?"
+
+...Why are you following me?
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0592
+[Konomi] "Huh? That's it‾? I'll be careful not to be found, so it's okay‾"
+
+Well, I didn't expect Konomi to wait quietly...
+
+"Then I have a favor to ask of you."
+
+;CHR K01F1A C
+#cg Konomi kon_1_01f1a Medium
+#wipe fade
+
+#voice konb0593
+[Konomi] “What?”
+
+"Can you help me threaten the orcs?"
+
+;CHR K01F1B C
+#cg Konomi kon_1_01f1b Medium
+#wipe fade
+
+#voice konb0594
+[Konomi] “Ahaha‾, it looks interesting‾? Is it okay‾?”
+
+"Then..."
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+;SE rustling sound
+
+
+[Orc 1] “What, there are so many animals awake today.”
+
+
+[Orc 2] “You must be scared when you see us.”
+
+
+[Oak 3] "It's nice that it's so noisy that it's easy to find. Buhihihihi."
+
+
+[Orc 4] "Okay. I'm hungry, so I guess I'll just catch something and eat it."
+
+;SE
+
+The orcs rustle into the thicket of the forest.
+
+In the direction where Konomi threw the stone.
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+“I don’t know if it would fall into such a simple trap, but I wonder if we could throw stones in there and make it look like there are animals there?”
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0595
+[Konomi] "Orcs are simple, so I think they'll get caught up in it, right? So, what are you going to do to buy time?"
+
+"That's... gonyo gonyo."
+
+;CHR K05F C
+#cg Konomi kon_1_05f Medium
+#wipe fade
+
+#voice konb0596
+[Konomi] “Hmph, I see.”
+
+;blackout
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;Background: Forest (night)
+;BG BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+
+[Orc 1] "What? There's nothing here."
+
+
+[Oak 2] "You're running really fast. Is it a pika or a bird?"
+
+
+[Orc 3] "Hey, I'm hungry now. Whatever you want, just grab me."
+
+
+[Orc 4] “If you keep complaining like that, you should catch me!”
+
+The orcs became impatient as they heard noises but did not catch any prey, and began to argue.
+
+It was Konomi who had been making noises for a while.
+
+They throw stones into the grass to confuse the orcs.
+
+Okay, okay, you're definitely being misled by Konomi's disturbance.
+
+I took that opportunity....
+
+;SE
+
+“What are you guys doing here in my forest?”
+
+
+[Orc 1] "Wow!? What? A troll? A dryad!?"
+
+
+[Oak 2] “Wow, it’s a stupid big monster!?”
+
+The orcs looked up at the large figure and sat down.
+
+It wasn't anything, it was just a shadow made of bending trees grouped together into a large humanoid shape.
+
+The voice uses the hollow trees to make it resonate in an unearthly low tone, but if it's daytime, it's a good place to have a false impression.
+
+However, because of the surprise attack and the darkness of the new moon, it seems that in the eyes of the orcs, he is quite a monster.
+
+I clung to a very bendy tree and used it to counteract the attack, allowing the bend to punch through the middle of the orcs.
+
+;SE
+
+
+[Oak 3] “Hiii!?”
+
+
+[Oak 4] “W-what is that now!?”
+
+"If you don't leave quickly, I'll crush you!"
+
+
+[Orc 1] “Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiveive 3- 4 faces!"
+
+
+[Oak 2] “Hey, don’t run away first!”
+
+
+[Oak 3] “Don’t leave me behind!”
+
+The orcs scattered and fled.
+
+;CHR K09F1 C
+#cg Konomi kon_1_09f1 Medium
+#wipe fade
+
+#voice konb0597
+[Konomi] “Aha! Ahahaha‾That was interesting‾”
+
+Konomi, who seemed to have held back until the orc ran away, started laughing.
+
+#voice konb0598
+[Konomi] "I'll do it, Human-kun. It's the first time I've seen something so interesting. Ah, I'm so hungry."
+
+Konomi was laughing so hard that she even had tears in her eyes, but I was already on the verge of giving out and my arms and legs were shaking.
+
+He was often able to make the orcs believe that he was a monster.
+
+"I was saved thanks to Konomi, thank you."
+
+Now the orcs will no longer want to come near this side of the forest.
+
+I hope so...
+
+"Now, when we return to the hut, we need to cast a spell to ward off orcs."
+
+The strategy worked, but I wasn't sure how effective the spell really was, and what if it didn't give me any relief.
+
+Anxiety will come later.
+
+I'm sorry to have to feel so scared.
+
+;CHR K04F C
+#cg Konomi kon_1_04f Medium
+#wipe fade
+
+#voice konb0599
+[Konomi] “Good luck, Human-kun.”
+
+Konomi laughed happily, as if it were someone else's problem.
+
+As I looked at his face, I suddenly felt something resembling anxiety in my heart.
+
+"You helped me do something dangerous, but... weren't you scared of Konomi?"
+
+;CHR K02F2 C
+#cg Konomi kon_1_02f2 Medium
+#wipe fade
+
+#voice konb0600
+[Konomi] “Scary‾? Why‾?”
+
+Konomi tilted her head curiously.
+
+...Come to think of it, when Konomi met me, she went into the hut without any fear.
+
+It feels completely different from Hinata's friendly nature and Ibara's stubbornness.
+
+;CHR K02F1 C
+#cg Konomi kon_1_02f1 Medium
+#wipe fade
+
+#voice konb0601
+[Konomi] "What's wrong with you, human beings? You're staring at my face, but you're not going back to the hut."
+
+"Ah, no, let's go back. Everyone must be worried too."
+
+;CHR K04F C
+#cg Konomi kon_1_04f Medium
+#wipe fade
+
+#voice konb0602
+[Konomi] “Sodane‾fufufu”
+
+Konomi's impression of being groundless... I felt like I was being told somewhere that humans and elves are different after all.
+
+;Go to Konomi route dk01
+#next dk01_1
