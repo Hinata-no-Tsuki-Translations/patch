@@ -1,0 +1,867 @@
+
+;CHR H01F2_A C
+#cg ヒナタ hin_1_01f2_a 中
+#wipe fade
+#voice hinf0114
+[Hinata] "The other elves don't really care about Hinata. That's why I had to smile at Hinata."
+
+#bgm 0 stop 1000
+
+"picture?"
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0115
+[Hinata] "If you're smiling, it's like we're friends even if you can't join us, right? It looks like you don't feel lonely even when you're all alone!"
+
+Hinata said as if they were having a fun conversation.
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0116
+[Hinata] "Elves don't play lonely or sad stories. That's why Hinata doesn't play lonely or sad stories either."
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+#voice hinf0117
+[Hinata] "When you get lonely, it's hard to do normal things, so just smile and laugh."
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0118
+[Hinata] "You smile even when you're being teased. Also, since you're with other elves, it's like you're playing together, right?"
+
+"Hinata..."
+
+I couldn't help but gasp.
+
+Seeing Hinata smiling makes my heart tighten even more.
+
+...Did Hinata live with such feelings in the elf village?
+
+Did she swallow her sadness and loneliness and always smile and look at the other elves?
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+#voice hinf0119
+[Hinata] "Even if you freak out or get hurt, no one will help you. If Ohana gets upset, just smile and bear it."
+
+"..."
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+#voice hinf0120
+[Hinata] "Then, it's okay if no one helps you. After all, even though you're smiling, there's nothing you need to help."
+
+I instinctively hugged Hinata.
+
+;CHR H03F1_A C
+#cg ヒナタ hin_1_03f1_a 中
+#wipe fade
+#voice hinf0121
+[Hinata] "What? I wish I could be that tight, Human-san."
+
+"Ah, ah...sorry..."
+
+Hinata didn't seem to understand why she was being hugged, but she seemed happy.
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0122
+[Hinata] "Ah! I understand, you're going to do something creepy, right!?"
+
+"picture?"
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0123
+[Hinata] “I love how tight and warm Hinata is!”
+
+Hinata jumped up and took off her clothes.
+
+#bgm 0 03
+
+;CHR H04N2 C
+#cg ヒナタ hin_1_04n2 中
+#wipe fade
+#voice hinf0124
+[Hinata] "Huh? Don't you have a Fukunu-san? Hinata, I think it would be more comfortable if you used a Fukunu-nu."
+
+;CHR H11N C
+#cg ヒナタ hin_1_11n 中
+#wipe fade
+#voice hinf0125
+[Hinata] “When our bodies touch each other, it feels warm and fluffy!”
+
+"Hinata..."
+
+I also took off my clothes and opened my arms to Hinata.
+
+"I understand...come on."
+
+;CHR H07N C
+#cg ヒナタ hin_1_07n 中
+#wipe fade
+
+#voice hinf0126
+[Hinata] "Wow! You're doing something creepy after all!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV???『ヒナタ対面座位』
+;EVCG EV033
+;#face off
+
+;SMODE 029 PLAY
+#label replay029
+#setscene 28
+#bg bg09_1
+
+#cg イベント ev033a1 背景
+#wipe fade
+
+#voice hinf0127
+[Hinata] “Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+When I inserted it into Hinata, who jumped into my chest, Hinata let out a mesmerizing voice and clung to me.
+
+#voice hinf0128
+[Hinata] "Hooray! Isn't it more comfortable to be naked!? When they're stuck together like this, it's even more comfortable!"
+
+"Yeah, that's right. It feels really good for me too."
+
+I will hug that delicate body tightly.
+
+As Hinata said, the slightly sweaty skin seemed to stick to me and felt good.
+
+The more we hug each other, the more our heat transfers to each other, and the more we melt...
+
+#voice hinf0129
+[Hinata] "Huh... It feels so good to be squeezed by Human-san... It's just as nice as having your head stroked..."
+
+"I'll do anything for you any time, as long as you squeeze me."
+
+#voice hinf0130
+[Hinata] "Hehehe, when you squeeze me tight, my whole body starts to throb and my whole body feels fluffy."
+
+Hinata gently placed her hand on her chest.
+
+#voice hinf0131
+[Hinata] "It's so fluffy, and it's starting to feel warm... It makes me feel like I've rolled into the softest part of a freshly starched grass!"
+
+"That feels good."
+
+#voice hinf0132
+[Hinata] "Isn't it? That's why you should squeeze it as much as you can!"
+
+“Then you have to squeeze harder.”
+
+#voice hinf0133
+[Hinata] "Ehehehehe"
+
+When he hugged her tightly, Hinata let out a happy laugh.
+
+"When I hug Hinata, my heart feels warm and makes me happy."
+
+#voice hinf0134
+[Hinata] "Yeah! Ehehe, it's the same thing! Ah... But, there's one thing that bothers me when I'm around Human-san!"
+
+"What's the problem?"
+
+#voice hinf0135
+[Hinata] “My stomach gets tighter and I want to have sex.”
+
+“Does it make you feel naughty?”
+
+#voice hinf0136
+[Hinata] “I feel like my stomach is throbbing, and I want Human-san to touch me a lot.”
+
+#voice hinf0137
+[Hinata] "My penis is getting bigger. Ehehe, it's going to be a pain, isn't it?"
+
+"Why bother? It feels good and you're getting bigger, so it's okay."
+
+#voice hinf0138
+[Hinata] "I see... hiyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa To it it's going to get even more disgusting if you touch it."
+
+"I'm touching you because I want you to feel better."
+It stands up completely and squeezes the trembling young stem with my fingertips.
+
+When I applied light pressure to only knead the tip with my fingertips, Hinata's body trembled.
+
+#voice hinf0139
+[Hinata] "Hmm...faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+
+“Can I just stop saying no?”
+
+#voice hinf0140
+[Hinata] "Don't stop...I want you to touch me more...Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+
+Hinata presses her lips against my skin, seeking further connection.
+
+Every time I squeeze Hinata, Hinata's flesh wall wriggles and sends pleasure to mine as well.
+
+#voice hinf0141
+[Hinata] "Why does your penis get bigger when you jerk it? Your butt is expanding! Huh! Again!?"
+
+"No, it's just that Hinata's butt hole is getting so tight that I feel like mine is getting bigger."
+
+#voice hinf0142
+[Hinata] "You're lying!? Because it's getting bigger again... Hiuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu...
+
+As Hinata moans and bounces her hips, the ring of flesh tightens, and the rhythmic movement inside encourages an even greater erection.
+
+The movement of the intestinal wall to evacuate helps the body's lower back rise, and then succumbs to gravity and falls down.
+
+#voice hinf0143
+[Hinata] "Aaaah... if you move around inside, you're going to get sore all over again! Ahhh... Hinata, Hinata, you're going to get so excited!?"
+
+"It's okay. Don't cum with me in your mouth. I'll love you even more."
+
+#voice hinf0144
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... my dick is getting harder and harder! I'm going to cum and cum!"
+
+#voice hinf0145
+[Hinata] "Hiyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhh..."
+
+;SE
+
+#cg イベント ev033a2 背景
+#wipe fade
+
+Cloudy white mucus was spewed out from Hinata's young stem with such force that it almost made a thumping sound.
+
+"You started moving your hips on your own from the middle. It felt so good."
+
+#voice hinf0146
+[Hinata] "Huh...? I-I don't know... Ahhh... Hinata came first..."
+
+"it was good?"
+
+#voice hinf0147
+[Hinata] "Yeah! But, wouldn't it have been better if Human-san also came with me?"
+
+Hinata begged innocently.
+
+#voice hinf0148
+[Hinata] “Hinata, I like it when you make me feel good, but I like it even more when we get all comfortable together!”
+
+"Then, I guess Hinata's butt will make me feel good too."
+
+#voice hinf0149
+[Hinata] "Aha... Human-san, you're moving around inside me... Aah... I'm rubbing all the hard parts of my mouth... Hinata's getting so irritated again."
+
+When I push up from below, Hinata's inner walls tighten around me with pleasure.
+
+#voice hinf0150
+[Hinata] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, mate sssssss!
+
+
+When I thrust upwards in small increments, Hinata let out an obedient moan in time.
+
+#voice hinf0151
+[Hinata] "I'm going to keep going! You're making me feel so good... I'm starting to feel the tightness coming from inside my stomach again! Hyaaan! My penis is getting bigger again."
+
+#voice hinf0152
+[Hinata] “Ningen-san, Ningen-san, Ningen-san, are you so emotional? Hinata is so emotional that I feel like I’m going to melt.”
+
+"Ah, me too... it feels good."
+
+Ignoring the fact that my back rubbed against the rock, I ran my cock inside Hinata and savored it.
+
+The soft flesh wall swallows my cock as if inviting it all the way.
+
+#voice hinf0153
+[Hinata] "My dick is stuck in my stomach... it's making me tingle... huh... ah... I'm going to cum again."
+
+"It feels so good inside Hinata that I feel like I'm going to cum too."
+
+#voice hinf0154
+[Hinata] "Wow, Human-san's hot springs are going to fill your stomach...I love that! Hinata. Okay, hurry up!"
+
+#voice hinf0155
+[Hinata] "Ah, ah... My cock is squirting as it's being fucked in the back! Give me a lot of it! Fill me up!"
+
+Hinata wiggles her hips as if begging, and my movements accelerate accordingly.
+
+#cg イベント ev033a3 背景
+#wipe fade
+
+#voice hinf0156
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!It's hot!
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#bg bg09_1
+#cg イベント ev033a3 背景
+#wipe fade 300
+
+As soon as I reached inside Hinata, Hinata also reached inside.
+
+#voice hinf0157
+[Hinata] "Huh... fuuuu... inside... it's pounding, relaxing... nkuuu..."
+
+;SMODE 029 STOP
+#endscene
+
+;背景：洞穴
+;立ち絵裸使えなければイベントCGままで
+;BG:BG09
+#cg all clear
+#bg bg09_1
+#wipe fade
+
+Hinata entrusted her feverish body to me and wriggled around.
+
+;CHR H01N1 C
+#cg ヒナタ hin_1_01n1 中
+#wipe fade
+#voice hinf0158
+[Hinata] "It's so nice to be together after all."
+Hinata's hands were soaked in blood and turned bright red as she smiled happily.
+
+"Hey, that hand..."
+
+;CHR H06N2 C
+#cg ヒナタ hin_1_06n2 中
+#wipe fade
+#voice hinf0159
+[Hinata] "Hyaaah!? Did you get hurt when you hit me!?"
+
+"Ah, that's bad! Are you okay!?"
+
+Without thinking, he took Hinata's finger into his mouth.
+
+The taste of salty, iron-smelling blood spread through my mouth, but strangely, my tongue didn't catch the wound.
+
+;CHR H08N1 C
+#cg ヒナタ hin_1_08n1 中
+#wipe fade
+#voice hinf0160
+[Hinata] "Kyafu... it tickled me... ahahahaha"
+
+"Has the bleeding stopped yet?"
+
+When Hinata removed her mouth, there was not a single scratch on Hinata's fingertips, even though they were covered in blood.
+
+"...It's kind of strange."
+
+When Hinata wiped her hand with the edge of her clothes, she couldn't find any scars.
+
+;CHR H06N2 C
+#cg ヒナタ hin_1_06n2 中
+#wipe fade
+#voice hinf0161
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+If you lived with the elves, did your healing ability become contagious?
+
+“No, it’s not supposed to be like that…!?”
+
+The moment I relaxed, a sharp pain ran down my back.
+
+;CHR H05N C
+#cg ヒナタ hin_1_05n 中
+#wipe fade
+#voice hinf0162
+[Hinata] "Whoa!? Human-san, are you okay!?"
+
+"...The blood from earlier might not have been Hinata's."
+
+;CHR H02N1 C
+#cg ヒナタ hin_1_02n1 中
+#wipe fade
+#voice hinf0163
+[Hinata] "Ningen-san was injured!? Show me your clothes!"
+
+"Ah, yeah. Just take a look."
+
+When I showed my back to her, Hinata let out a sharp sound.
+
+;CHR H06N2 C
+#cg ヒナタ hin_1_06n2 中
+#wipe fade
+#voice hinf0164
+[Hinata] "Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+"It's like..."
+
+When I turned my attention to my back, I noticed a widespread tingling sensation.
+
+It seems like he had a lot of scratches because he was carrying Hinata's weight and because he was so absorbed in it.
+
+;CHR H11N C
+#cg ヒナタ hin_1_11n 中
+#wipe fade
+#voice hinf0165
+[Hinata] "It's a big deal! I'll heal Hinata!"
+
+Hinata's warm hand gently traces his back.
+
+Along with a slight tingling sensation, a gentle warmth heals my wounds.
+
+"I got too carried away in a place full of pebbles like this. Sorry, thank you."
+
+;CHR H02N1 C
+#cg ヒナタ hin_1_02n1 中
+#wipe fade
+#voice hinf0166
+[Hinata] “Well, you have to keep a close eye on people!”
+
+"That's right. Sorry. But if it's like this, it's not a big deal."
+
+Hinata said this lightly, trying not to worry too much, and Hinata puffed out her cheeks.
+
+;CHR H03N1 C
+#cg ヒナタ hin_1_03n1 中
+#wipe fade
+#voice hinf0167
+[Hinata] “Hinata is also important to Human-san!? That’s why Human-san has to be human-san important too!”
+
+"picture……?"
+
+;CHR H02N2 C
+#cg ヒナタ hin_1_02n2 中
+#wipe fade
+#voice hinf0168
+[Hinata] “Ningen-san is Hinata’s key!”
+
+"...Hinata. Come here."
+
+I hugged Hinata at the unexpected words.
+
+Is it okay to think that Hinata is obsessed with me?
+
+;CHR H08N1 C
+#cg ヒナタ hin_1_08n1 中
+#wipe fade
+#voice hinf0169
+[Hinata] "Wow...I like it when you squeeze me even if I don't do anything creepy. It's creepy."
+
+Hinata smiles happily in my arms.
+
+;CHR H01N1 C
+#cg ヒナタ hin_1_01n1 中
+#wipe fade
+#voice hinf0170
+[Hinata] "Ningen-san does a lot of nice things for Hinata. Hehehe. I want Hinata to do some nice things for Hinata too."
+
+When he rubbed his soft cheek against my chest, my body bulged even though I had just reached him.
+
+"When Hinata said that, it made me want to do it even more."
+
+;CHR H07N C
+#cg ヒナタ hin_1_07n 中
+#wipe fade
+#voice hinf0171
+[Hinata] "Sonano!? Wow! Let's do something even more creepy!"
+
+Hinata squatted down, and this time she rubbed her soft cheek against the cock.
+
+"Ah, here..."
+
+My body swells with heat from that pleasant touch.
+
+;CHR H01N1 C
+#cg ヒナタ hin_1_01n1 中
+#wipe fade
+#voice hinf0172
+[Hinata] "Wow, it's getting hot and hard! How are you going to do it this time!?"
+
+Hinata happily rubbed his cheeks even more, and then her eyes lit up as if to say she had come up with a good idea.
+
+;CHR H07N C
+#cg ヒナタ hin_1_07n 中
+#wipe fade
+#voice hinf0173
+[Hinata] "Okay! If you're going to eat my dick, I'll make you a human too!"
+
+#cg all clear
+#wipe fade
+
+;SMODE 030 PLAY
+#label replay030
+#setscene 29
+#bg BG09_1
+
+;ＥＶ絵――EV034『ヒナタフェラ』
+;EVCG EV034
+#cg イベント ev034a1 背景
+#wipe fade
+
+#voice hinf0174
+[Hinata] "Should I just lick it? It's so hard... it's hard in the butt, but it's so soft! Pechuppechu... flat... fufufu..."
+
+Hinata's oral skills were clumsy, but the mere fact that she was servicing me with that small mouth made me aroused.
+
+#voice hinf0175
+[Hinata] "When we first met, Mr. Human, you grabbed Hinata's penis, right? I thought you were going to eat me, but it felt so good!"
+
+#voice hinf0176
+[Hinata] "That's why Hinata is so sensitive about Human-san too! Ehehe... Perot... Chumu... Please tell me how to make you feel better."
+
+"Okay. Well, first, please lick the whole thing carefully."
+
+#cg イベント ev034a2 背景
+#wipe fade
+
+#voice hinf0177
+[Hinata] "Hehehe... That's what your penis looks like... Pechu... Pechu... Wow, it's so full of drool when you cum."
+
+"Drop all that drool on me, rub it with your hands and lick it."
+
+#voice hinf0178
+[Hinata] "Nn... Kuchukuchu... Ere... flattened... like this?"
+
+"Yes, you're good at it. I want you to lick the streaks on the back of it carefully."
+
+#voice hinf0179
+[Hinata] "Here? Ehehe, human-san, when you talk about Hinata, you lick Hinata, right? Hinata also imitates... lick... lick..."
+
+#voice hinf0180
+[Hinata] "Nmph... Juru... Is it the same as when Mr. Fluffy's mother licks her baby? Chumu... licking is something important, isn't it?"
+
+#voice hinf0181
+[Hinata] "...Pechopecho... Human's twitching... salty butt is coming out... Churu..."
+
+A tingling sensation of pleasure runs through my lower back as I slurp up the precum that has begun to seep out.
+
+#voice hinf0182
+[Hinata] "Aha... something tastes delicious... I can smell Human-san from inside my mouth... I'm so happy... it's so mellow..."
+
+Perhaps it was instinct, but Hinata eagerly sucked on Suzuguchi.
+
+“Are you ready to suck it now?”
+
+#voice hinf0183
+[Hinata] "It's a big deal! I don't need it in Hinata's big mouth!? But I'll do my best! Ahmmm"
+
+#cg イベント ev034b1 背景
+#wipe fade
+
+Hinata put my object in her mouth and then looked up at me, as if asking me what she should do.
+
+"Hinata, how did it feel to be treated? Do it for me too."
+
+#voice hinf0184
+[Hinata] "Wow! Nugh... Nggu... Juru... Uh... I don't need all of your stuff in my mouth after all..."
+
+"Hahaha, you don't have to force yourself to take it all in your mouth. Just as much as you can."
+
+#voice hinf0185
+[Hinata] "Umm... But, Hinata, I want to get all excited about Human-san... Amu... Fuguu... Nkuu... Hmm... Nguuu..."
+
+Naturally, with her mouth full of mine, Hinata couldn't swallow all the way to the base, so she desperately swallowed my cock, using it all the way down to her throat.
+
+#voice hinf0186
+[Hinata] "Nuuuuuu...uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu...
+
+“I think it would be better for you to just move your face up and down, just the tip, rather than force yourself to take it all the way in.”
+
+#voice hinf0187
+[Hinata] "Huh... I wonder if this is it... Jupujupuujuruuu... Zuzuzuzuzu... Nuku..."
+
+"...Yeah, that's right. She's a good kid. She's very good at it."
+
+#voice hinf0188
+[Hinata] "Eheheh, Hinata is so happy‾? Npp... nchu... I also like doing it in my mouth. It's so good in my mouth... it's so smooth..."
+
+Hinata eagerly bobbed her head up and down. The seemingly monotonous movements quickly pushed me to climax.
+
+"Ah...wait a minute. If you fuck me that hard, I'll come out right away."
+
+#voice hinf0189
+[Hinata] "Puff...Okay, if you want it to feel good, put it in your mouth. It's disgusting to suck it up. Chuppu... Juruchumu..."
+
+"Ah...here..."
+
+#voice hinf0190
+[Hinata] "Ehehe... Nggum... Nchuu... Chururururu... Jupakyuppup... Mr. Human is twitching... Jupupjuppu"
+
+Hinata seemed amused by my slight stillness and became even more furious in her movements.
+
+"Ah...already...de..."
+
+#voice hinf0191
+[Hinata] "Hmm!? Nggh..."
+
+#cg イベント ev034b2 背景
+#wipe fade
+
+Unable to withstand the regular stimulation that was applied to his glans, his testicles contracted and squirted out new semen.
+
+It was released with a thud, but Hinata caught it with her mouth.
+
+#voice hinf0192
+[Hinata] "Huh... it's so thick... it filled my mouth?"
+
+Hinata opened her mouth and showed me.
+
+A lump-like cloudy mucus was clinging to Hinata's pale pink tongue.
+
+"Haha... that's amazing... that's naughty."
+
+#voice hinf0193
+[Hinata] "It was so muddy I couldn't swallow it...haha...huh...it's a weird horse mackerel that looks blue and like a shell...but..."
+
+Hinata kept her mouth open and swallowed the semen on her tongue little by little.
+
+#cg イベント ev034c1 背景
+#wipe fade
+
+#voice hinf0194
+[Hinata] "Human-san's mackerel... Hinata doesn't like it, right? Hinata's stomach is filled with Human-san even in her mouth..."
+
+"Will you drink? I don't have to force you to drink..."
+
+#voice hinf0195
+[Hinata] "Yeah...see, everything was done."
+
+Hinata showed off the inside of her mouth as if wanting to be praised.
+
+"Wow wow"
+
+#voice hinf0196
+[Hinata] "Ningen-san complimented me. Ehehehehe."
+
+Hinata blushed with embarrassment as she rubbed her thighs together inquisitively.
+
+The cock that had just reached that gesture raised its sickle neck again.
+
+...There's no end to it.
+
+;SMODE 030 STOP
+#endscene
+
+#voice hinf0197
+[Hinata] "Wow!? I'm getting bigger again."
+
+"I mean, Hinata would have wanted to do it with her mouth, right?"
+
+#voice hinf0198
+[Hinata] "Wow... how did you know!?"
+
+"How about I pet you again? It makes you feel better, I think it's better when we're together."
+
+#voice hinf0199
+[Hinata] "Yeah...but, you're going to get hurt again, Human-san, right? I don't want you to get hurt, okay?"
+
+"Then just dress in a way that won't hurt you. Here, stand up."
+
+#voice hinf0200
+[Hinata] "Uh, yeah..."
+
+...I think the height difference is a bit harsh.
+
+"Stand there on a slightly elevated spot. Do you want to put your hands on your sides?"
+
+"like this?"
+
+;SMODE 031 PLAY
+#label replay031
+#setscene 30
+#bg BG09_1
+
+;ＥＶ絵――EV035『ヒナタ立ちバック』
+;EVCG EV035
+#cg イベント ev035a1 背景
+#wipe fade
+
+I made Hinata stick out her butt and inserted it from behind.
+
+#voice hinf0201
+[Hinata] "Yes...Ningen-san's here..."
+
+Her bottom, which still retains its softness from before, easily swallows my stiffness without any foreplay.
+
+"Does your palm hurt? I'm careful not to put any weight on it."
+
+#voice hinf0202
+[Hinata] "No, it's okay! Ah... when I'm standing here, it's different from usual... Hmm... Anh... I'm leaving..."
+
+"Hinata, you like the interior, don't you? Does this look also feel good to you?"
+
+Grabbing her waist firmly, I press her down and dig deep into her.
+
+#cg イベント ev035a2 背景
+#wipe fade
+
+#voice hinf0203
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+
+"It's true. You're feeling really good."
+
+#voice hinf0204
+[Hinata] "Hyaan! Don't let your dick get wet! Aaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+
+"It's nice to be able to touch many places in this position."
+
+#voice hinf0205
+[Hinata] "Huh...hey, my legs are tickling too and I'm getting a tingle."
+
+"Hinata is smooth everywhere and feels good when I touch her."
+
+#cg イベント ev035a3 背景
+#wipe fade
+
+#voice hinf0206
+[Hinata] "Ningen-san's warm and cozy warmer is so nice...Aan...Aaaan..."
+
+Move your hips as if to scrape out the semen inside.
+
+With an obscene sound, it stirs inside Hinata until it bubbles.
+
+#voice hinf0207
+[Hinata] "Ah... ah... Everyone is going to see the voice of Mr. Human inside Hinata..."
+
+#voice hinf0208
+[Hinata] "When I'm standing there...it's going to be really hard...fuwah...ah...it's going to be sloppy again..."
+
+Even though Hinata's insides are already melting to the depths, she starts sucking on my cock.
+
+Even though I've already released my sperm twice today, that soft, smooth feeling makes me want to finish off right away.
+
+"...damn"
+
+#voice hinf0209
+[Hinata] "Ahhhhhhhhh!
+
+"You can feel me... feel me to the fullest."
+
+#voice hinf0210
+[Hinata] "Yeah... yeah... huh... ah... don't mess with my breasts... it's too uncomfortable to be with my dick!"
+
+Traveling up her smooth belly, she pinched the nipples that stood out on her chest and handled them with her fingertips.
+
+Like the young stems, the nipples stand out, and the way they assert themselves against the smooth skin makes them even more energetic.
+
+#voice hinf0211
+[Hinata] "I don't know where I'm uncomfortable when I get teased in so many places! I don't know...I'm so uncomfortable that I'm going to break Hinata!"
+
+Every time I pinch her nipples hard, her inner walls tremble and she squeezes mine.
+
+#voice hinf0212
+[Hinata] "Oh no! If you get too angry, Hinata won't be able to stand up to you!"
+
+"It's okay, I'll support you properly."
+
+He supported Hinata's waist as she became unsteady on her feet, and increased the speed of her thrusts.
+
+Hinata gradually stood on her tiptoes, perhaps because of the pleasure, or perhaps due to the force of his thrusts.
+
+#voice hinf0213
+[Hinata] "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh ...
+
+Hinata's young stem spilled out pre-cum mixed with semen, like when a juicy fruit is squeezed, forming a puddle at her feet.
+
+As if he was cumming in small bursts, semen was dripping out, and his flesh walls were twitching intermittently.
+
+"You can cum first."
+
+#voice hinf0214
+[Hinata] "Uh...yeah, Hinata...already...I'm cumming...my head is so fluffy...humph...hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+In time with Hinata's climax, he slammed his hips hard and pried the depths of Hinata's aperture, and the semen spewed out as if Hinata's young stem had burst.
+
+;SE
+#se 1 se024
+
+#cg イベント ev035b1 背景
+#wipe fade
+
+#voice hinf0215
+[Hinata] "Aku... yeah... butt... it's hot..."
+
+"You went first. I'll be there in a little while."
+
+#voice hinf0216
+[Hinata] "Ahyan... Hinata is cumming!? I'm cumming! I'm cumming... I can't! My butt... I'm turning the edge of my butt over..."
+
+Hinata unconsciously pulled her hips back, trying to escape the intense pleasure, and as a result, my object slipped out of her.
+
+"Ugh..."
+
+Kari's neck caught on Hinata's edge and bounced.
+
+With that impact, I ejaculated a lot onto Hinata's ass.
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+#cg イベント ev035b2 背景
+#wipe fade
+
+#voice hinf0217
+[Hinata] "Hiyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan!
+
+Semen rains down on Hinata's smooth white butt.
+
+As expected, it was his third ejaculation, and the watery ejaculation rolled down Hinata's white skin as if it were being bounced off.
+
+#voice hinf0218
+[Hinata] "Huh... that was nice, but... it's sad that I can't see Human-san's face..."
+
+"I see. Then, turn this way."
+
+He placed his lips on Hinata's, who was facing towards him.
+
+#voice hinf0219
+[Hinata] "Hmm... fuha... chuu... I love to chuu..."
+
+Hinata smiled, feeling weak as if she was about to collapse at any moment.
+
+;SMODE 031 STOP
+#endscene
+
+;背景：洞穴
+;BG:BG09
+#cg all clear
+#bg BG09_1
+#wipe fade
+
+“…Let’s go home soon.”
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0220
+[Hinata] "That's right! Let's go home!"
+
+Hinata, who had put on her clothes, clung to my chest as if she were jumping into it.
+
+;CHR H01F2_A C
+#cg ヒナタ hin_1_01f2_a 中
+#wipe fade
+#voice hinf0221
+[Hinata] "Hmm, but I think it's better to stick them together! You can hear all the excitement of human beings, and it's fun!"
+
+"I see. Then, how about we hang out together more when we get back to the mountain hut? Then I'll pet you even more."
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0222
+[Hinata] "Yeah! Hurry up!"
+
+"Ah, I see. I promise."
+
+#bgm 0 stop 2000
+
+;dh03へ
+#next dh03

@@ -1,8 +1,0 @@
-extractXlsx/**/**
-!extractXlsx/*.py
-
-insertXlsx/**/**
-!insertXlsx/*.py
-
-patch_update/**/**
-!patch_update/*.py

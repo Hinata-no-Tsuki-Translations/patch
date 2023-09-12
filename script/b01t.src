@@ -171,7 +171,7 @@ I suppose he does want to make it as realistic as he can, after all.
 #voice tikb0054
 【Tsukiyo】「I see...So if you attach the legs, they won't break.」
 
-「そうそう,細くすると折れちゃうから,ここのくびれも模様みたいに彫るだけにしてさ」
+「That's right, if it's too thin, it will break. So simply carve the torso in this pattern to attach the legs.」
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -180,7 +180,7 @@ I suppose he does want to make it as realistic as he can, after all.
 ;TKface
 
 #voice tikb0055
-【Tsukiyo】「それだったら,作れるです」
+【Tsukiyo】「If that's the case, I can make it.」
 
 Tsukiyo's face is dead serious, as he stares at the wood.
 

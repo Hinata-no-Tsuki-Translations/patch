@@ -1,0 +1,51 @@
+
+;EVCG EV036A1
+;#face off
+
+
+;#cg イベント ev036a1 背景
+;#wipe fade
+
+;このイベント中、ヒナタフェイス表示なし
+
+"I can't help it. There's nothing I can do about this. Let's give up."
+
+#voice hinf0331
+[Hinata] "No! Tell me! Hinata is coming, so you should stay here!!"
+
+"Even if you say that, if you jump into a fire like this, you'll get burned and die!"
+
+#voice hinf0332
+[Hinata] "Just talk to me! I'm sure you won't get burned!"
+
+“You’ve never been seriously injured like that, have you?”
+
+#voice hinf0333
+[Hinata] "I've never done it, but it's okay!"
+"Ah, already! There's no point!"
+
+Hinata tried to shake me off and jump into the fire, but I grabbed her arm tightly so she wouldn't let go.
+
+#voice hinf0334
+[Hinata] "Ningen-san! Itaitteba! Tell me! Tell me!"
+
+"If you jump into something like this, you'll be in so much pain that nothing can compare to this pain! Do you understand?"
+
+#voice hinf0335
+[Hinata] "...But, but!"
+
+I grabbed Hinata tightly to my chest so she wouldn't jump into the hut.
+
+``No matter how hard you try to keep a record, when you lose it, you lose it. You can't get back what's been destroyed in a fire, so you give up.''
+
+#voice hinf0336
+[Hinata] "Because... it's really gone."
+"Then that's what happened up until then, I can't help it."
+
+#voice hinf0337
+[Hinata] "Why do you say that Human-san is like an elf? That's weird."
+
+Hinata weakly entrusted herself to me.
+
+;dh04_2へ
+#next dh04_2

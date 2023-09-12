@@ -52,37 +52,37 @@
 ;FACE ON
 #face on
 
-今日は珍しくエルフたちに邪魔されることなく、山小屋の本を読みふけることができた。
+Today I was able to read the book that was found in the mountain hut without any disturbances.
 
-ここにある本が記された当時、エルフの研究は学術の本流ではないために大きな街に行ってもそれほど進んでいなかったらしい。
+At the time this book was written, it seems there was little progress in elven research. Even in big cities, elven research wasn't mainstream.
 
-それはエルフの個体を認識することが難しく、比較的エルフの出没が観測されているこの近隣の地域においても、もはや伝説でしかないからだ。
+That's because it is difficult to perceive individual elves, even in areas where elven sightings are relatively common. At this point, it's almost a myth.
 
-だとすれば、おそらく状況的には今だってそれほど変わりないだろう。
+If so, the situation has not changed much from today.
 
-今だってエルフに会った、という話は酒飲みの与太話でぐらいしか聞いたことがない。
+Even to this day, I've only heard stories about meeting elves in drunken tales.
 
-いくら金持ちがエルフを飼っているらしいといっても、そのエルフを学術のために差し出す気のある金持ちがどれだけいるのかどうか。
+No matter how wealthy someone may be, it's questionable how many of these wealthy individuals would be willing to offer their elves for academic purposes, even if they are rumored to keep elves as pets.
 
-宝飾品や玩具扱いのエルフを学術研究に差し出す物好きなんてそうそういないだろう。
+Indeed, it's highly unlikely that enthusiasts who treat elves as jewelry or toys would readily provide them for academic research.
 
-金持ちなんてケチなものだし、金儲けにならない研究なんてよっぽどの好事家でもない限り援助なんて望めない。
+Rich people are often stingy. Unless they're a highly generous philanthropist, they won't contribute to research that would not profit.
 
-エルフ狩人なんて職業もあるが、あれはここいらの村ではほとんどごろつきと変わらない山師か詐欺師みたいな存在だ。
+Elf hunter is a profession, but in this village it's almost no different from swindler or con artists.
 
-エルフを見たこともないエルフ狩人なんてのもざらにいるって話だし。
+It also means many elf hunters have never seen an elf.
 
-観察対象が現れないのに、研究だけが進むということは考えられない。まして、自然に生息しているエルフなんて観察されたことはないだろう。
+Research can't possibly advance without subjects to observe. Let alone elves have never been observed in nature.
 
-しかも４体ものエルフをいっぺんに観察できるなんて、そうはないはずだ。
+Moreover, it shouldn't be possible to observe four elves at once.
 
-それに、イバラたちによれば大きいエルフ以外は居住区の外へはそうは出歩かないものらしい。
+Besides, according to Ibara, except for the big elves, the elves almost never take a foot out of their living quarters.
 
-だとすると、俺が記している記録もエルフ研究の大きな一翼となるのかもしれない。
+If that's the case, the records I'm making may play a big role in elven research.
 
-なんて、ちょっとした誇大妄想か。
+Just kidding, getting ahead of myself.
 
-「……しかし本ばかり読んでいたら、少し頭が重いような感じがするな。暗くなる前に少しこの辺を散歩でもするか」
+"...However, after reading so much, I feel a bit drained. Maybe I'll take a walk around here before it gets dark."
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -97,43 +97,43 @@
 #bg BG08b_1
 #wipe fade
 
-「んー」
+"Hmm"
 
-ゆっくり伸びをすると、ずいぶん体がこわばっていたようで、きしんだような痛みが心地よく感じられた。
+As I stretched slowly, my body seemed to be quite stiff, and I felt a pleasant creaking pain.
 
-人里離れた家屋に住まいを移し、静かに読書なんかに興じることを望んでここに移り住んだわけだが、いざ望んだ状況になってみると案外退屈なものだ。
+I moved here hoping to live in recluse and enjoy reading quietly, but now that I have my desired situation, it is unexpectedly boring.
 
-ま、ずっとエルフたちのおかげで騒がしかったからな。
+Well, thanks to the elves, it gets noisy all the time.
 
-「……やれやれ、結局多めに買い付けたつもりの粉なんかもなくなってしまったし、明日はまた村に買い物に行かなくちゃな」
+"...Oh boy, I thought I bought a lot, but I'm out of flour. I'll have to go shopping in the village again tomorrow."
 
-お菓子を作ったときにずいぶん失敗したのと、その分意地になって大量に作ってしまったから、予定よりも材料を消費してしまった。
+I made a lot of mistakes when I made the sweets, and out of stubbornness to get it right, I ended up using more ingredients than expected.
 
-村を離れたのはいいけど、買い物だけでも一日仕事になってしまうのだけは面倒だ。
+It's nice to leave the village, but it's troublesome to have to take all day just for shopping.
 
-とはいえ、俺の隠遁生活の滑り出しはまずまず順調だと言えるだろう。
+That said, I can say that my reclusive life is off to a reasonably good start.
 
-まさかエルフと暮らすことになるとは夢にも思わなかったし、たくさんの本を得られるとも思わなかったけど。
+I never dreamed that I would end up living with an elf, and never thought I would get so many books.
 
-思いがけないことの連続が俺の生活を豊かなものにしてくれている。
+A series of unexpected events has enriched my life in ways I could never have imagined.
 
-いずれエルフたちもここを去るのだし、そのあとに続くのはそれこそ何もない日々だ。ここにある本だってそのうち読みつくしてしまうだろう。
+Eventually, the elves will leave this place, and the days that follow will be nothing but ordinary. I'm sure I'll finish reading all the books here.
 
-……せっかくエルフと出会い、その生態の一端を垣間見ることができたのだし、王都へ出てその記録を売ることができないかは一考の価値があるな。
+……Since I had the opportunity to meet the elves and catch a glimpse of their way of life, it might be worth considering whether I can go to the royal capital to sell my notes of it.
 
-漠然と人里を離れようとここに移り住んだけど、今後のことを考えると王都に出るのもいいかもしれない。
+I moved here with a vague idea of living far from humans, but considering the future, it might be good option to move to the royal capital as well.
 
-「ん？」
+"Hmm?"
 
-考えながら歩き回っていると、ふと小屋の周辺に点々とシバグルミが落ちてるのに気がついた。
+As I was walking around thinking about it, I suddenly noticed that the area around the hut was littered with hazelnuts.
 
-この近くにシバグルミの木はあるらしいが、少なくとも見える範囲には生えていないのも確認済みだ。
+It seems that there are hazelnut trees nearby, but they do not grow within the immediate area.
 
-「一体、これはどこから……」
+"Where did these come from..."
 
-上を見上げてみたけど、やはり目に入る範囲にシバグルミの木なんてない。
+I looked up and around, but as I thought, there was not a single hazelnut tree in sight.
 
-「どういうことだ？　……ぐげっ」
+"What's going on? ....Ugeh"
 
 #bgm 0 stop
 
@@ -153,332 +153,331 @@
 #wipe fade
 
 #voice hinb0287
-【ヒナタ】「はわっ！？　あいたたた……」
+[Hinata] "Ahh!? Oww..."
 
-恐ろしい勢いで脇からヒナタに体当たりをくらって、俺はしたたかにすっころんだ。
+Hinata's body slammed into me with terrifying force, and I fell down hard.
 
-上を見上げていたので完全に不意打ちを喰らった形だ。
+Since I was looking up, I was completely caught off guard.
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0288
-【ヒナタ】「おぉ〜！　ニンゲンさん、シバグルミいっぱいあげる！」
+[Hinata] "Oh‾! Ningen-san, these hazelnuts are for you!"
 
-ヒナタは悪びれることなくニコニコと笑っていたが、俺が転んでしまったのに気がつくと不思議そうな顔になった。
+Hinata smiled unapologetically, but when he noticed that I had fallen, he gave a puzzled expression.
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0289
-【ヒナタ】「およよ〜？　ニンゲンさんどしたの？」
+[Hinata] "Oops‾ What's wrong, Ningen-san?"
 
-わ、わきっぱらに突き出されてた手が突き刺さった……。
+The hand that had pushed me indifferently poked at me...
 
-「げふっ、ごほっ……」
+"Gefu, goho..."
 
-咳き込みながらよれよれと立ち上がる俺をヒナタは心配そうに覗き込んだ。
+Hinata worriedly looked at me as I stood up with a coughing fit.
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0290
-【ヒナタ】「おなかいたい？　びょーき？」
+[Hinata] "Your stomach hurts? You're sick?"
 
-「ヒナタにぶつかられたのが痛かったの。急にぶつかってきたら怪我するだろ」
+"It hurt because Hinata collided into me. Anyone would be injured if you suddenly rammed into me."
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0291
-【ヒナタ】「ありゃー？　ごめーん！　ヒナタね、ニンゲンさんみつけたからいそいできたの！」
+[Hinata] "Oh? I'm sorry! Hinata found Ningen-san, so I rushed here!"
 
-俺の抗議にも悪びれない様子でニコニコとヒナタは両手を突き出した。
+Hinata stuck out both his hands unapologetically to my complaints.
 
-「え？　なに？」
+"Huh? What?"
 
 #voice hinb0292
-【ヒナタ】「おかしつくるのにコレつかうんだよね！　いっぱいもってきたからまたつくってね！」
+[Hinata] "This is what you use to make sweets! I brought a lot of them, so please make them again!"
 
-その手の上にはシバグルミが３個載っていた。
+There were three hazelnuts on his hand.
 
-……３個でいっぱい、か。
+……Three is a lot, huh?
 
-「……念の為に聞くけど、ヒナタにとって１、２、の次は？」
+"...Just in case, what's after one and two?"
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0293
-【ヒナタ】「ほぇ？　３つ、じゃないかな？」
+[Hinata] "Eh? Three, isn't it?"
 
-「あ、それはわかってるんだ。１、２、いっぱい……ってわけじゃないんだ」
-
+"I know that. One, two, a lot... that can't be right."
 #voice hinb0294
-【ヒナタ】「１、２……？」
+[Hinata] "One, two...?"
 
-ヒナタは言われてようやく自分の手のひらを覗き込んだ。そして目を丸くした。
+Hinata finally looked into his palms and widened his eyes.
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0295
-【ヒナタ】「はれっ！？　３つしかなくなってる！？」
+[Hinata] "Eh!? There are only three left!?"
 
-「ってことはもっとたくさん持ってきてたの？」
+"So you had brought more?"
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0296
-【ヒナタ】「うん！　こーんなにたくさんひろったんだよ！」
+[Hinata] "Yeah! I picked thiiiis much!"
 
-「あ、おい！　ちょっと！」
+"Hey! Wait a minute!"
 
-山盛りたくさんを表現しようとしたのか、両手をぶんぶん振り回したものだから、最後の３つもどこかに飛んでいってしまった。
+Perhaps he was trying to express a huge amount, but because he waved both hands around, the last three hazelnuts flew away.
 
 ;CHR H05F C
 #cg ヒナタ hin_1_05f 中
 #wipe fade
 
 #voice hinb0297
-【ヒナタ】「はりゃっ！？　いっこもなくなった！？」
+[Hinata] "Eh!? There's not one left!?"
 
-「……ひょっとして、俺を見つける前に小屋の周りを走り回ってた？」
+"...By any chance, were you running around the hut before you found me?"
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0298
-【ヒナタ】「うん！　ナキウサギがいたからね、おっかけっこしたの！」
+[Hinata] "Yeah! There was a hare, so I chased it!"
 
-なるほど。小屋の周りに散らばってるのはヒナタが拾ってきたシバグルミか。
+I see. The hazelnuts that are scattered around the hut were the ones Hinata picked up.
 
-俺が納得していると、ヒナタは森の方に走っていこうとした。
+As I deduced that, Hinata tried to run towards the forest.
 
-「あれ、どこに行くんだ？」
+"Where are you going?"
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0299
-【ヒナタ】「なくなっちゃったから、シバグルミとってくるのー！」
+[Hinata] "Since it's all gone, I'm going to get more hazelnuts!"
 
-ヒナタのやつ、また森の中まで取りに行くつもりかな。
+That Hinata, I wonder if he'll go to the forest to get it again.
 
-「森まで行かなくても、そのへんに落ちてるよ。ほら」
+"You don't have to go to the forest, it's on the ground there. Look."
 
-俺はヒナタが落とした、というか投げ捨てたシバグルミを拾い上げた。
+I picked up the hazelnut that Hinata dropped, or rather, threw away.
 
-さっき投げた３個だけでなく、走り回って落としたのだろうシバグルミはそこかしこに散らばっている。
+Not only the three I threw earlier, but also the hazelnut that I probably dropped while running around are scattered here and there.
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0300
-【ヒナタ】「おぉ！？」
+[Hinata] "Oh!?"
 
-ヒナタは驚いた顔できょろきょろと周囲を見渡した。
+Hinata looked around with a surprised face.
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0301
-【ヒナタ】「ここにもシバグルミがおちてる！　あっ、こっちにも！　ひろってきたのなくなっちゃったけどだいじょーぶっ！　ここにおちてる！」
+[Hinata] "Hazelnuts have fallen here too! Ah, here too! I didn't pick them, but it's okay! They're here!"
 
-「それ、多分ヒナタが落としたやつだよ」
+"They're probably the ones Hinata dropped."
 
-嬉々としてシバグルミを拾い始めたヒナタを手伝うために俺もしゃがみこんだ。
+I squatted down to help Hinata, who gleefully started picking up the hazelnuts.
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0302
-【ヒナタ】「ほら、いっぱいひろえたよ！」
+[Hinata] "Look, I picked up a lot!"
 
-ヒナタは、今度こそ両手いっぱいのシバグルミを抱えて笑った。
+Hinata laughed as he held his hands full of hazelnuts this time.
 
-「……うん、まぁそもそもヒナタが森で拾ったものだけどね。じゃ、小屋の中の机の上に置いてきて」
+"...Yeah, well, it's something Hinata picked up in the forest in the first place. Well then, put it on the desk in the hut."
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0303
-【ヒナタ】「はーい」
+[Hinata] "Okayy"
 
-楽しそうだし、まぁいいか。
+It looks like he's having fun, I guess it's fine.
 
-……待てよ。ヒナタはいくら小さな手だといっても既に両手いっぱいにシバグルミを拾っていた。
+……Wait. No matter how small Hinata's hands might be, he already had both hands full of hazelnuts.
 
-じゃ、俺が拾った分と、まだ落ちてる分は一体何だ？
+So how much of it was hazelnuts that I picked and hazelnuts Hinata dropped?
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0304
-【ヒナタ】「おいてきたよっ！　わぁっ！　よくみたらまだたくさんおちてるね！」
+[Hinata] "I left it there! Wow! If you look closely, there's still a lot left!"
 
-ヒナタは嬉しそうにまたしゃがみ込んだ。
+Hinata happily crouched down again.
 
-「ヒナタ、ひょっとしてシバグルミいっぱい無くした？」
+"Hinata, did you happen to lose a lot of hazelnuts?”
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0305
-【ヒナタ】「ほえぇ？」
+[Hinata] "Huh?"
 
-ヒナタは何を聞かれているのかわからないみたいで首をかしげる。
+Hinata tilted his head as if he didn't understand what was being asked.
 
-「シバグルミ、持ってきたけどなくなっちゃって、また何度も森まで取りに行ったりしてない？」
+"You brought hazelnut, but when you realised it was gone, you went in the forest to get it again and again?”
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0306
-【ヒナタ】「ほえぇ！　ニンゲンさんよくわかったね！　ナキウサギとかみつけるとなくなっちゃうんだ！　ピクシーみつけたときもなくなっちゃった」
+[Hinata] "Oh yeah! You understand well, Ningen-san! When I find a hare, it's gone! When I find a pixie, it's gone."
 
-小動物を追っかけて走り回るから、ばら撒いちゃったのか。
+Did he scatter the hazelnuts because he ran around chasing small animals?
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0307
-【ヒナタ】「シバグルミってねー、かってになくなっちゃうんだよー」
+[Hinata] "The hazelnuts just up and disappeared."
 
-そんなわけないじゃないか。
+That's not possible, isn't it?
 
-「この実はどこから？」
+"Where did this nut come from?"
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0308
-【ヒナタ】「あっち！」
+[Hinata] "Over there!"
 
-ヒナタが指さした方角は、本の記録でシバグルミが群生していると書いてあったとおりだ。
+The direction Hinata pointed towards was where hazelnuts could be found, as written in the book.
 
-「何回ぐらい行ったり来たりしたの？」
+"How many trips did you make to and fro?"
 
 ;CHR H05F C
 #cg ヒナタ hin_1_05f 中
 #wipe fade
 
 #voice hinb0309
-【ヒナタ】「んー？　たくさん！」
+[Hinata] "Huh? A lot!"
 
-きっと、シバグルミの群生地まで案内するように小屋からずっと実が落ちているんだろうな。
+I'm sure there is a trail of nuts to guide me to the hazelnut trees.
 
-「そうか、おつかれさま」
+"I see. Good work."
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0310
-【ヒナタ】「ね？　ね？　ニンゲンさんは、シバグルミうれしい？」
+[Hinata] "Hey hey, are you happy with the hazelnuts?"
 
-「あぁ、嬉しいよ」
+"Yea, I'm happy."
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0311
-【ヒナタ】「そっか。それじゃ、ヒナタもーっといっぱいもってくるよ！」
+[Hinata] "I see. Then Hinata will bring more!"
 
 ;SE
 
-嬉しそうに両手を振り回していっぱいを表現するものだから、またせっかく集めたシバグルミをばら撒いた。
+Since he swings both hands around when happy, he scattered the hazelnuts that he had just collected.
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0312
-【ヒナタ】「はりゃ？　またシバグルミなくなっちゃった！　シバグルミってすぐなくなっちゃうね！」
+[Hinata] "Huh? I'm out of hazelnuts again! Hazelnuts disappeared again!"
 
-ヒナタはきょとんとして、何もなくなった自分の手を見ている。
+Hinata stared blankly at his empty palms.
 
-「あぁ、そっか」
+"No wonder..."
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0313
-【ヒナタ】「どしたの？　なんかみつけた？　いいこと？」
+[Hinata] "What's wrong? Did you discover something?"
 
-「うん。なんで、ヒナタがせっかく拾ったシバグルミを無くしちゃうのかわかったよ」
+"Yep. I figured out why your hazelnuts go missing."
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0314
-【ヒナタ】「おぉ！？　なんで？　なんで？」
+[Hinata] "Oh!? Why? Why?"
 
-「それは、ヒナタの服に収納がないからだと思うんだ」
+"I think it's because your clothes don't have any pockets."
 
 #voice hinb0315
-【ヒナタ】「しゅーのー？」
+[Hinata] "Pock-kets?"
 
-「簡単に言うと、シバグルミをしまっておくところ」
+"Simply put, a place to store hazelnuts that you collect."
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0316
-【ヒナタ】「ほぉーう」
+[Hinata] "Ohh‾"
 
-うんうんと頷いてはいるけど、多分何のことだかわかってないな、これは。
+He's nodding his head, but he probably doesn't know what I'm talking about.
 
-落ち着きのないヒナタは、何かがあるとすぐ全身で驚きや喜びを表現する。
+Energetic and restless as he is, Hinata can't possibly contain his excitement.
 
-その時に両手を振り回したりするから、集めてきたシバグルミを落としたのだろう。
+So when he swung his hands around, he dropped the hazelnuts that he collected.
 
-服に物を入れるところでもついていればまた違うんだろうけど。
+It would be different if it had a place in his clothes to keep them.
 
-「さて、せっかくヒナタがたくさんシバグルミをとってきてくれたし、今日はこれを使って夕食にするか」
+"Now then, since Hinata went to great lengths to get us lots of hazelnuts, let's use them for dinner."
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0317
-【ヒナタ】「ゆーしょく？　ごはん？」
+[Hinata] "Dinner? Food?"
 
-「そう。ついでに今度お菓子を作るときのために殻を割って準備しておかなくちゃな」
+"Yes. At the same time, I'll crack the shells to prepare for the next time I make sweets."
 
 ;CHR H01F1 C
 #cg ヒナタ hin_1_01f1 中
 #wipe fade
 
 #voice hinb0318
-【ヒナタ】「ニンゲンさん、またおかしつくるの！？　わーいやったー！」
+[Hinata] "Ningen-san, are you going to make sweets again!? Yay!"
 
-ヒナタは嬉しそうにぴょんぴょん飛び跳ねて、またシバグルミをばら撒いた。
+Hinata jumped up and down happily, and scattered his hazelnuts again.
 
-……この様子じゃ、あと何十年かしたらヒナタが落としたシバグルミで、この小屋の周りはシバグルミの森になりそうだな。
+……At this rate, the area around here will become a hazelnut forest in a few decades.
 
 ;CHR OFF
 #cg all clear
@@ -509,7 +508,7 @@
 #bg BG05_1
 #wipe fade
 
-「粉と蜜は買った……あとは……これと、これと……」
+"I bought flour and honey... and this... and this..."
 
 #wait 2000
 
@@ -564,7 +563,7 @@
 #mes on flash
 #system on flash
 
-村への買出しから戻ってくると、今日はちょうどよく皆小屋にいたみたいで駆け寄ってきた。
+The elves rushed over just as I returned from shopping in the village. It seemed like everyone was at the hut today.
 
 ;CHR H01F2 L
 #cg ヒナタ hin_1_01f2 左
@@ -573,10 +572,10 @@
 #wipe fade
 
 #voice hinb0319
-【ヒナタ】「おー！　むら、どうだった？」
+[Hinata] "Oh! How was the village?"
 
 #voice konb0282
-【コノミ】「今日は〜ニンゲンくんいなくてつまんなかったな〜。ね〜、イバラ〜？」
+[Konomi] "Today was boring without you. Right, Ibara‾?"
 
 ;CHR OFF
 #cg all clear
@@ -591,23 +590,23 @@
 ;TKface
 
 #voice ibab0279
-【イバラ】「な、なんでボクにそんな事きくんだ！　ふん、そのまま村に帰ればよかったのに！」
+[Ibara] "W-Why did you ask me that! Hmmph, you should have just moved back to the village!"
 
 #voice tikb0270
-【ツキヨ】「おかえりなさい、です」
+[Tsukiyo] "Welcome home."
 
-「うん、ただいま」
+"Yeah, I'm home."
 
-やれやれ、今日は粉に油にと重いものばかりだったし、紙やらなにやらも欲張って持ってきたから疲れたな。
+Oh my, I'm exhausted because although I had to get heavy things like flour and oil, I greedily brought back paper as well.
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0280
-【イバラ】「この間も村に帰ったばかりだろ？　そんなに何しに行ってるんだ？」
+[Ibara] "You just returned to the village the other day, didn't you? Why did you have to go again?"
 
-「こないだお菓子作るのに、予想外に粉や油を使っちゃったからその補充だよ」
+"The other day, I unexpectedly used flour and oil to make sweets, so I’m replenishing them.”
 
 ;CHR OFF
 #cg all clear
@@ -620,33 +619,33 @@
 #wipe fade
 
 #voice hinb0320
-【ヒナタ】「おぉ、なるほどー」
+[Hinata] "Oh, I see‾"
 
 #voice konb0283
-【コノミ】「いっぱい買ってきたんだね〜」
+[Konomi] "You bought a lot, didn't you‾"
 
-「まぁね」
+"That's about right"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-今までは自分ひとりしか食べないつもりだったけど、お菓子を作ったときは皆競うみたいに食べてたからなぁ。
+Up until now, I thought I would be the only one who needed to eat, but when I made the sweets, everyone ate them as if there was no tomorrow.
 
-それを考えて前回よりもずっとたくさん買い込むことになった。
+With that in mind, I ended up buying a lot more than last time.
 
-なかなか生活っていうのは難しいものだ。
+It's quite difficult to make a living, isn't it.
 
-「ヒナタ。ちょっとこっちに来て」
+"Hinata, come here for a moment."
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0321
-【ヒナタ】「ヒナタ？　なになに、ニンゲンさん」
+[Hinata] "Hinata? What is it, Ningen-san?"
 
-てててっと近寄ってきたヒナタに、頭から肩掛けの布袋をかけた。
+I took down the sling bag on my shoulder as Hinata trotted over.
 
 ;CHR OFF
 #cg all clear
@@ -664,42 +663,42 @@
 #wipe fade
 
 #voice hinb0322
-【ヒナタ】「ふぉっ！？」
+[Hinata] "Huh!?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0281
-【イバラ】「それなんだ！？」
+[Ibara] "What's that!?"
 
-「布袋だよ。母さんが使ってたものだけど、よかったら使いなよ」
+"It's a bag. It's what my mother made, here, use it."
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0323
-【ヒナタ】「ぬのぶくろ！？　これ、ヒナタにくれるの！？」
+[Hinata] "A bag!? Are you giving this to Hinata!?"
 
-「うん、あげる」
+"Yeah, I'll give it to you."
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibab0282
-【イバラ】「なっ！？」
+[Ibara] "Eh!?"
 
-今回はちょっと思いついて、村に買いだしに行くついでに自宅に戻っていくつかの小物を持ち出してきたんだ。
+I had an idea while I was shopping in the village and brought back some small items.
 
-そう必要になるって物ではないけど、売ろうにも金にならないとか、思い出に残しておきたいものは、まだ村の自宅に残っている。
+These are not things I need or things I can sell for much, but items with memories that I had left in my village home.
 
-布を持ってきて、ヒナタの服に物を入れられるところを付けてあげようかともおもったけどそれも面倒だし、俺は肩掛けの布袋なんて使わないし、ちょうどよかった。
+I thought about bringing some cloth to sew a pocket in Hinata's clothes, but that would be troublesome. Since I don't use a sling bag, it's perfect for him.
 
-肩掛けの布袋は母さんの形見だけど、有効に使われるならただ置いておくのよりずっといいだろう。
+The sling bag was my mother's memento, but it's much better put to good use, than just leaving it.
 
-「シバグルミを持ってくるとき、手で持ってくるから落としちゃってただろ？　今度は集めたらこれに入れて運ぶといいよ」
+"When you picked hazelnuts, you carried them by hand, didn’t you? Next time put them in the bag."
 
-そんなにたくさん入るわけじゃないけど、両手に持って全部落っことして回るよりは拾う効率もいいだろう。
+It doesn't hold a lot, but it's more efficient than holding them in his hands and having them drop all around.
 
 ;CHR OFF
 #cg all clear
@@ -710,7 +709,7 @@
 #wipe fade
 
 #voice ibab0283
-【イバラ】「……うー。ヒナタはドジでおっちょこちょいだからな！　すぐ自分が何してたのか忘れちゃうから、それはいい考えだな」
+[Ibara] "... Ugh. It's cuz Hinata is so clumsy and sloppy! Always forgetting what you were just doing... I think that's a good idea."
 
 ;CHR OFF
 #cg all clear
@@ -721,92 +720,92 @@
 #wipe fade
 
 #voice konb0284
-【コノミ】「そだね〜。手に持ってなかったら落っことさないもんね〜」
+[Konomi] "Exactly‾ If you don't have hold them in your hand, you can't drop them‾"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0324
-【ヒナタ】「シバグルミいれるのか。ほかにもいれていいの！？」
+[Hinata] "Is it for hazelnuts only? Can I put something else!?"
 
-「持って歩きたいものを入れなよ」
+"Put in what you want to carry with you."
 
 ;CHR H01F1_A L
 #cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinb0325
-【ヒナタ】「いれてみる！」
+[Hinata] "I'll try!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-ヒナタはさっそく机の上にあったシバグルミをひとつ布袋に入れた。
+Hinata immediately put one of the hazelnuts on the desk into a cloth bag.
 
-「それなら、手も自由になるし便利だろ？」
+"With this, it's more convenient to have your hands free, right?”
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0326
-【ヒナタ】「おぉべんり！　シバグルミもってるのに、いまヒナタおててになにももってないよ！」
+[Hinata] "Awesome! Even though I have hazelnuts, Hinata doesn't have anything on his hands!"
 
-嬉しそうにヒナタはその場でくるりと回った。
+Happily, Hinata spun around on the spot.
 
-「うん、なかなか似合うじゃないか」
+"Yeah, it looks good on you, doesn't it?"
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinb0327
-【ヒナタ】「にあう？　ヒナタにあう？」
+[Hinata] "It suits me? It looks good on me?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0285
-【コノミ】「うん、かわいいよ〜」
+[Konomi] "Yea, you're cute‾"
 
 #voice hinb0328
-【ヒナタ】「ヒナタかわいい！？」
+[Hinata] "Hinata is cute!?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-ヒナタはよほど嬉しいのか、はしゃいでぐるぐる回っている。
+Hinata seems to be very happy, he spins around in high spirits.
 
-「おーい、あんまりぐるぐる回ってると目が回って気持ち悪くなるぞ？」
+"Heey, if you go round and round too much, you'll get dizzy and feel sick"
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinb0329
-【ヒナタ】「だってねー、うれしくてぐるぐるしちゃうんだよー」
+[Hinata] "But, I'm so happy I can't help spinning around."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0286
-【コノミ】「よかったね〜、ヒナタ〜」
+[Konomi] "Good for you‾, Hinata‾"
 
 ;CHR H08F2_A C
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 
 #voice hinb0330
-【ヒナタ】「うん、よかったの〜」
+[Hinata] "Yeah, it's so awesome‾"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「それから、ツキヨおいで」
+"Ok next, Tsukiyo."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -815,13 +814,13 @@
 ;TKface
 
 #voice tikb0271
-【ツキヨ】「っ！？」
+[Tsukiyo] "Huh!?"
 
-「こんなのも持ってきてみた」
+"I also brought this back."
 
-俺が取り出したのは、古いけれど色の綺麗な飾り布だ。
+What I took out was an old but beautifully colored ornamental cloth.
 
-「ツキヨ、後ろ向いて、ここに座って」
+"Tsukiyo, turn around and sit here."
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -830,7 +829,7 @@
 ;TKface
 
 #voice tikb0272
-【ツキヨ】「はい、です？」
+[Tsukiyo] "Yes?"
 
 ;CHR OFF
 #cg all clear
@@ -850,46 +849,46 @@
 #cg イベント ev018a1 背景
 #wipe fade
 
-ツキヨはオドオドしながらも、俺が言う通りに椅子に腰掛けた。
+Tsukiyo sat down on the chair as instructed, even though he was confused.
 
 #voice tikb0273
-【ツキヨ】「何する、です？」
+[Tsukiyo] "What are you doing?"
 
-「いつも髪が邪魔そうだから、結んであげるよ」
+"Your hair always seems to get in the way, so I'll tie it up for you."
 
-ぼさぼさにしてるの、気になってたんだよな……。
+It's always so messy...
 
 #voice tikb0274
-【ツキヨ】「ふぇ……」
+[Tsukiyo] "Fu..."
 
-ツキヨは怯えたように身を硬くした。
+Tsukiyo stiffened as if frightened.
 
-「別に痛いことはしないから、大丈夫」
+"It won't hurt or anything, relax."
 
-ぼさぼさに見える髪をくしけずり、一旦適当にまとめてみる。
+I try to comb the messy hair and tie it together properly.
 
-うん、まとめてしまえばすっきりしそうだな。
+Yeah, I think it looks much better tied up together.
 
-ツキヨの髪はぱっと見傷んでいるように見えたけど、指通りは滑らかで、そんな髪を弄っているのはなかなか楽しい。
+Tsukiyo's hair looks damaged at first glance, but it's smooth to run your fingers through, and it's quite fun to play with that kind of hair.
 
 #voice tikb0275
-【ツキヨ】「ふぁ……」
+[Tsukiyo] "Fue..."
 
-「あ、悪い。くすぐったかったかな？」
+"Oh, my bad. Did it tickle you?"
 
 ;EVCG EV018A2
 #cg イベント ev018a2 背景
 #wipe fade
 
 #voice tikb0276
-【ツキヨ】「だ、大丈夫……です」
+[Tsukiyo] "It's fine..."
 
-「どうしようか？　こんなふうにしてほしいとかある？　まぁ、俺もそんなに器用なことはできないけど」
+"How should I do it up? How's something like this? Well, I can't do anything that amazing either."
 
 #voice tikb0277
-【ツキヨ】「わから、ないです」
+[Tsukiyo] "I don't know."
 
-「一応飾り布は二本あるから、お下げとかにも出来るけど、俺みつあみできないんだよなー」
+"I have two ornaments, so I can use them as braids, but I don't know how to braid."
 
 ;背景：山小屋内（夕）
 ;BG:BG07b_1
@@ -902,70 +901,70 @@
 #wipe fade
 
 #voice ibab0284
-【イバラ】「ボクは自分でしてるぞ。ニンゲンは不器用だな」
+[Ibara] "I've been braiding my hair myself. Humans are clumsy afterall."
 
-「じゃあ、イバラがツキヨにみつあみしてあげてくれる？」
+"Then, can Ibara try braiding for Tsukiyo?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0285
-【イバラ】「やだ！」
+[Ibara] "No!"
 
-「何でそんな意地悪いうのさ」
+"Why are you so mean?"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0286
-【イバラ】「なんだって嫌なものは嫌だ！」
+[Ibara] "I hate what I hate!"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0287
-【コノミ】「わかった〜自分のは出来るけど、他の子の髪をいじるのはできないんじゃな〜い？」
+[Konomi] "I understand‾ you can do your own hair, but you don't want to tie up others' hair, right?"
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0287
-【イバラ】「そ、そんなことあるもんか！　けど、ぜったいやってなんかやらないからな！」
+[Ibara] "I-it's not that! But I won't do as you tell me!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-……ははぁ、コノミの指摘が図星か。
+……Sigh, Konomi hit bull's eye.
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinb0331
-【ヒナタ】「ツキヨもみつあみしたら、イバラとおそろいだね！　ぐるぐる〜」
+[Hinata] "If Tsukiyo braids his hair, you'll match with Ibara! Spin spin‾"
 
-「ヒナタはいつまで回ってるの？」
+"How long will Hinata keep spinning?"
 
 ;CHR H08F2_A C
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 
 #voice hinb0332
-【ヒナタ】「まわんなくてよくなるまで！　あははー！」
+[Hinata] "Until I stop spinning! Ahaha!"
 
-「回っててもいいけど、目を回して怪我するなよー？」
+"It's okay to spin, but don't get hurt."
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0333
-【ヒナタ】「だいじょぶー！　うひゃっ！」
+[Hinata] "I'll be okay! Uhya!"
 
 ;CHR OFF
 #cg all clear
@@ -975,18 +974,18 @@
 ;SE se015  足音ドスン
 #se 1 se015
 
-「ヒナタ！？」
+"Hinata!?"
 
-言ってる傍からすってん、とヒナタがすっ転んだ。
+In the middle of his sentence, Hinata fell down.
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0334
-【ヒナタ】「あははー、しりもちついたー」
+[Hinata] "Ahaha, I bruised my butt."
 
-「ったくもう、脅かさないでよ……」
+"You... Don't frighten me..."
 
 ;ＥＶ絵――EV018『ツキヨ髪を上げる』
 
@@ -994,33 +993,33 @@
 #cg イベント ev018a1 背景
 #wipe fade
 
-さて、イバラの手が借りられないってことは、単純に縛るくらいしかできないってことか。
+Anyway, the fact that I can't borrow Ibara's help means that only I can tie it up.
 
-「ふたつ結びに……するのには、ふたつ分けにするのがまず難しいな」
+"It's difficult to know how to divide the hair into two parts."
 
-ざっくりとふたつに分けてみたが、どうも極端に髪の量が違ってしまう。
+I tried to roughly divide it into two, but the amount of hair on each side is extremely different.
 
-それに、分け目のところがどうも上手にいかない。簡単に考えていたけど、ふたつ結びにするのは無理みたいだな。
+Besides, I'm not very good at dividing. I thought it would be easy, but it seems impossible to make a double knot.
 
-「やっぱりひとつ結びのほうが簡単か。それにしても結ぶ位置とかもあるしなー」
+"Isn’t it easier to tie a single braid? Then the braiding area is clear"
 
-適当に位置を決め、そこで髪を結ぼうとして……。
+Decide on a random position and try to braid the hair there...
 
-「あれ、変なふくらみが出来るな」
+"Oh, I made a strange bulge."
 
 ;EVCG EV018A2
 #cg イベント ev018a2 背景
 #wipe fade
 
 #voice tikb0278
-【ツキヨ】「どしたです？」
+[Tsukiyo] "What's wrong?"
 
-「いや、大丈夫。まかせて。綺麗にしてあげるから」
+"No, it's okay. Leave it to me. I'll make it pretty."
 
 #voice tikb0279
-【ツキヨ】「はいです」
+[Tsukiyo] "Yes"
 
-むむむ……やりなれてないから案外難しいな。
+Hmmm... It's surprisingly difficult because I'm not used to it.
 
 ;背景：山小屋内（夕）
 ;BG:BG07b_1
@@ -1033,35 +1032,35 @@
 #wipe fade
 
 #voice ibab0288
-【イバラ】「むー……なんでツキヨばっかり」
+[Ibara] "Mmm...why always Tsukiyo?"
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0288
-【コノミ】「あれ〜どうしたの、イバラ〜？　なんかふくれっつら〜」
+[Konomi] "What's wrong, Ibara? Why're you pouting?"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0289
-【イバラ】「べ、べつにふくれてなんか……」
+[Ibara] "I-It's not like I'm pouting..."
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0289
-【コノミ】「わかった〜。ヒナタとツキヨがうらやましいんだ〜」
+[Konomi] "I know‾ You're envious of Hinata and Tsukiyo."
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0290
-【イバラ】「ばっ！　だっ、誰が羨ましくなんかっ！」
+[Ibara] "Bah! W-Who's jealous!"
 
 ;CHR OFF
 #cg all clear
@@ -1072,62 +1071,62 @@
 #wipe fade
 
 #voice hinb0335
-【ヒナタ】「イバラ、うらやまし？」
+[Hinata] "Ibara, are you jealous?"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0291
-【イバラ】「この高貴なボクがニンゲンごときのものをもらってる奴らを羨ましがるなんてこと、あるわけないだろ！」
+[Ibara] "There's no way I'm jealous of people who are receiving help from humans!"
 
 ;CHR H04F1_A R
 #cg ヒナタ hin_1_04f1_a 右
 #wipe fade
 
 #voice hinb0336
-【ヒナタ】「そか、うらやましいじゃないのか」
+[Hinata] "I see, you're not envious"
 
 ;CHR I11F1 L
 #cg イバラ iba_1_11f1 左
 #wipe fade
 
 #voice ibab0292
-【イバラ】「そうだ。ボクはニンゲンに物をもらって喜んだり、身支度をされて喜んでいるエルフの存在を憂えているだけだ」
+[Ibara] "That's right. I'm just concerned about the existence of elves who are happy to receive things and be dressed by humans."
 
 ;CHR H06F2_A R
 #cg ヒナタ hin_1_06f2_a 右
 #wipe fade
 
 #voice hinb0337
-【ヒナタ】「そかーうれえているのかー」
+[Hinata] "I see, you're concerned"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0290
-【コノミ】「ヒナタ〜意味わかる〜？」
+[Konomi] "Hinata‾ Do you understand what that means‾?"
 
 ;CHR H08F2_A R
 #cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hinb0338
-【ヒナタ】「わかんない！」
+[Hinata] "I don't know!"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0293
-【イバラ】「ま、まぁ、所詮ヒナタはハーフエルフだし、ツキヨはダークエルフだし、ボクみたいな完璧なエルフのような細やかさなんてないんだろうな……」
+[Ibara] "Well, well, in the end Hinata is a half-elf, and Tsukiyo is a dark elf, so I guess they don't have the finesse of a perfect elf like me..."
 
 ;CHR H06F2_A R
 #cg ヒナタ hin_1_06f2_a 右
 #wipe fade
 
 #voice hinb0339
-【ヒナタ】「コノミは、うらやまし？」
+[Hinata] "Konomi, are you envious?"
 
 ;CHR OFF
 #cg all clear
@@ -1138,41 +1137,41 @@
 #wipe fade
 
 #voice konb0291
-【コノミ】「ん〜。どうだろ〜？　ヒナタに肩掛け布袋はいるものだし〜、ツキヨも髪縛った方がよさそうとは思うな〜」
+[Konomi] "Hmmm‾ I wonder? Hinata needs a cloth bag over his shoulder‾, and I think it would be better if Tsukiyo had his hair tied up‾"
 
 ;CHR H07F_A R
 #cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hinb0340
-【ヒナタ】「ヒナタもいるものとおもう！」
+[Hinata] "I think I need it too!"
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0292
-【コノミ】「だよね〜」
+[Konomi] "That's right‾"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0294
-【イバラ】「エルフは人間なんかと違って完全な存在だから……」
+[Ibara] "Unlike humans, elves are perfect beings..."
 
 ;CHR H01F1_A R
 #cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hinb0341
-【ヒナタ】「ほら、すごいよぬのぶくろ。なんでもはいるよ！」
+[Hinata] "See, it's a great bag. You can put anything in it!"
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0293
-【コノミ】「おぉ〜宝物いっぱい入るね」
+[Konomi] "Oh, it's full of treasures."
 
 ;修正 MCS
 ;CHR OFF 
@@ -1184,7 +1183,7 @@
 #wipe fade
 
 #voice ibab0295
-【イバラ】「ボクの話を聞けーーーーーー！」
+[Ibara] "Listen to me!!!"
 
 ;MCK
 ;FACEに変更1023
@@ -1192,84 +1191,84 @@
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 #voice hinb0342
-【ヒナタ】「ぴぎゃっ！」
+[Hinata] "Pigyah!"
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 #voice konb0294
-【コノミ】「も〜そんなにおっきい声じゃなくても聞こえるよ〜」
+[Konomi] "Well‾ Don't need to so loud, we can hear you."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0296
-【イバラ】「ニンゲンに人間のものをもらって喜んでるなんて、絶対ダメなんだ。エルフにあるまじきことだ！　だからボクはうらやましくなんてない！」
+[Ibara] "It's absolutely useless to be happy when a human receives something human. It's unbecoming for an elf! That's why I'm not envious!"
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hinb0343
-【ヒナタ】「そか、ダメなんだ」
+[Hinata] "Oh, we can't do that?"
 
 #voice ibab0297
-【イバラ】「そうだ。決まってるだろ！？」
+[Ibara] "Yes. Obviously!?"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0344
-【ヒナタ】「でもうれしいよ？　わーい、ぐるぐる〜」
+[Hinata] "But you're happy aren't you? Yay, spin spin‾"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0298
-【イバラ】「こ、こいつ……」
+[Ibara] "This guy..."
 
 ;FACE K02F2
 #face f_kon_0_02f2 94 466
 
 
 #voice konb0295
-【コノミ】「そっか〜物をもらって喜んじゃダメなんだね〜」
+[Konomi] "I see. It's not good to be happy when you receive things."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0299
-【イバラ】「決まってる！」
+[Ibara] "Obviously!"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0296
-【コノミ】「じゃあ、ツキヨが髪結んでもらってるのが羨ましかったのか〜」
+[Konomi] "Then, were you envious of Tsukiyo having his hair tied up?"
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0300
-【イバラ】「なっ！？」
+[Ibara] "What!?"
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice konb0297
-【コノミ】「ボクがニンゲンくんの代わりにイバラの髪を結んであげるよ〜」
+[Konomi] "I'll tie Ibara's hair in Ningen-kun's place‾"
 
 #voice ibab0301
-【イバラ】「ふぇっ！？」
+[Ibara] "Huh!?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0298
-【コノミ】「ほらほらさぁさぁ、後ろ向いて〜」
+[Konomi] "Come on, turn around!"
 
 ;CHR OFF
 #cg all clear
@@ -1281,41 +1280,41 @@
 #cg イベント EV018A3 背景
 #wipe fade
 
-「こんなものかな」
+"Something like this?"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0345
-【ヒナタ】「おぉっ！　ツキヨかわいいよ！」
+[Hinata] "Oh! Tsukiyo is cute!"
 
 #voice tikb0280
-【ツキヨ】「あ、ありがと……です」
+[Tsukiyo] "Oh, thank you..."
 
-恥ずかしがって頬を染めながらも、ツキヨは嬉しそうだった。
+Tsukiyo looked happy even though his cheeks blushed with embarrassment.
 
-「この程度のことで喜んでもらえて、俺も嬉しいよ。これなら、遊ぶときに邪魔にならないだろ？」
+"I'm glad you're happy with something like this. With this, it won't get in the way when you're playing, right?"
 
 #voice tikb0281
-【ツキヨ】「はい、です」
+[Tsukiyo] "Yes."
 
-はにかんでツキヨが微笑む。
+Tsukiyo smiles shyly.
 
-長い髪に隠れがちだった表情も、こうやって結んであるとよく見える。
+The expression that tends to be hidden by long hair can be seen well when tied like this.
 
-それに表情自体明るくなったような気がする。
+I feel like his face has become brighter.
 
-「よしよしかわいく出来たな」
+"Good, good boy, you look cute."
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0346
-【ヒナタ】「うん！　かわいくできたよ、ニンゲンさん！」
+[Hinata] "Yeah! It's cute, Ningen-san!"
 
-我ながら、簡単にくくっただけとはいえいい仕事をしたものだと自画自賛してしまう。
+Even if it was just a simple binding, I am proud of myself that I did a good job.
 
-その横でイバラとコノミがなにやら遊んでいた。
+Ibara and Konomi were playing next to him.
 
 ;ＥＶ絵――EV019『ボクがやってあげる』
 
@@ -1323,217 +1322,217 @@
 #cg イベント EV019A1 背景
 #wipe fade
 
-「……イバラ、コノミ、なにしてるの？」
+"... Ibara, Konomi, what are you doing?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0299
-【コノミ】「イバラはツキヨがニンゲンくんに髪の毛を結んでもらってたのが羨ましいみたいだから、ボクがイバラの髪を結んであげるんだよ〜」
+[Konomi] "Ibara seems to be envious of Tsukiyo having his hair tied up by Ningen-kun, so I'll tie his hair up‾"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0302
-【イバラ】「うぅ〜……別にボクは本当にツキヨが羨ましかったりはしないんだぞ」
+[Ibara] "Uu‾... I'm not really envious of Tsukiyo."
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice konb0300
-【コノミ】「え〜と、こうやってぐるぐるってしたらかっこいいかな〜？」
+[Konomi] "Eh, would it be cool if I spun it around like this?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0303
-【イバラ】「？？？　なにしてるんだ？」
+[Ibara] "??? What are you doing?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0301
-【コノミ】「かっこよくしてあげるね」
+[Konomi] "I'll make you look cool."
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibab0304
-【イバラ】「別に、そんなの……」
+[Ibara] "Nothing like that..."
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0302
-【コノミ】「遠慮しなくていいよ〜ふふふふ〜ん」
+[Konomi] "You don't have to hold back‾ Fufufufu‾n"
 
-コノミは鼻歌を歌いながらイバラの髪を弄り回しているが……はっきりいってむちゃくちゃだ。
+Konomi is humming and playing with Ibara's hair... but frankly, it's a mess.
 
 ;FACE K05F
 #face f_kon_0_05f 94 466
 
 
 #voice konb0303
-【コノミ】「んー……こ〜やってとんがらせて〜、そこに飾りを刺したらかっこいいかな〜」
+[Konomi] "Hmmm... Let's do this and make it pointy. Wouldn't it be cool if we stuck some decorations in there?"
 
 #voice ibab0305
-【イバラ】「な、なんかすごいことをやってそうだな」
+[Ibara] "Hey, it looks like you're doing something frightful."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0304
-【コノミ】「すっごい目立つようにしてあげるよ〜」
+[Konomi] "It'll make you stand out!"
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0306
-【イバラ】「そ、そうか」
+[Ibara] "I see."
 
 ;FACE H04F2_A
 #face f_hin_0_04f2_a 94 466
 
 
 #voice hinb0347
-【ヒナタ】「お？　おぉおおおおおお……」
+[Hinata] "Oh?
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 
 #voice tikb0282
-【ツキヨ】「ふわっ……ふわわわわわわわ……」
+[Tsukiyo] "Fluffy... Fluffy..."
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 
 #voice ibab0307
-【イバラ】「な、なんだ？　そんなにすごいのか？　カッコいいのか？」
+[Ibara] "What? Is it that great? Is it cool?"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0348
-【ヒナタ】「うん！　かっこいい！　すっごいかっこいいよ！」
+[Hinata] "Yeah! It's cool! It's really cool!"
 
-ヒナタはよほど気に入ったのか、力いっぱい力説している……いや、まぁかっこいいっちゃかっこいいけど。
+Hinata seems to like it very much, and insists with all his might... Hmm, well it can be considered cool.
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0308
-【イバラ】「ツキヨ！　ツキヨから見たらどうだ！？」
+[Ibara] "Tsukiyo! How about looking at it Tsukiyo!?"
 
 ;FACE T01F_P
 #face f_tuk_0_01f_p 94 466
 
 
 #voice tikb0283
-【ツキヨ】「強そう、です」
+[Tsukiyo] "You look strong."
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibab0309
-【イバラ】「強そう！？　ふ、ふふん！」
+[Ibara] "I look strong!? Fu, Fufu!"
 
-あぁ、これは何かものすごい勘違いをしてる顔だな。
+Ah, Ibara's had a terrible misunderstanding.
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibab0310
-【イバラ】「ふふん。ニンゲン、お前にも聞いてやろう。どうだ、ボクのこの姿は」
+[Ibara] "Fufun. Human, let me ask you a question. How's this image of me?"
 
-「あぁ、うん。すごいといえばすごい、かな？」
+"Ah, yeah. It's amazing, isn't it?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0311
-【イバラ】「なんで目をそらすんだ？　はっ！　ニンゲンごとき、直視するのももったいないということだな！？」
+[Ibara] "Why are you looking away? Huh! You think I'm not worth looking at!?"
 
-い、いけない……吹き出しそうだ。
+I can't... I think I'm going to burst out laughing.
 
-「……コノミって、すごく器用だよね」
+"... Konomi is very dexterous, isn't he?"
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 #voice konb0305
-【コノミ】「え〜？　そうかなぁ〜？」
+[Konomi] "Huh? I guess so?"
 
-「少なくとも、俺にはイバラをそんな髪型にできないな」
+"At least, I can't make a Ibara hairstyle like that."
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 #voice ibab0312
-【イバラ】「ふふん、コノミだってエルフだからな。ボクにはかなわないけど、ニンゲンよりずっと素晴らしい存在なんだ」
+[Ibara] "Fufu, Konomi is an elf too. He's no match for me, but he's far more wonderful than humans."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0306
-【コノミ】「よぉ〜し、できた」
+[Konomi] "Okay, I made it"
 
-そんな話をしている間に、コノミは自分の仕事に満足したみたいだった。
+As we talked, Konomi seemed satisfied with his job.
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0313
-【イバラ】「どうだ！」
+[Ibara] "How's that?"
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 
 #voice hinb0349
-【ヒナタ】「ふぉおおおおおおお！」
+[Hinata] "Ohhhhh!"
 
 ;FACE T06F_P
 #face f_tuk_0_06f_p 94 466
 
 
 #voice tikb0284
-【ツキヨ】「はぁあああああああ……」
+[Tsukiyo] "Haaaaaaaaaaa..."
 
-「っく……」
+"Kuh..."
 
-だ、だめだ……笑ってしまう。
+No, no... I'm gonna laugh.
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 
 #voice ibab0314
-【イバラ】「んー、でもボクの髪がどうなってるかは自分じゃ見られないなぁ。泉まで行かなきゃダメかなぁ？」
+[Ibara] "Hmm, but I can't see what's going on with my hair. Shouldn't I go to the spring?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0307
-【コノミ】「お外にある水桶が水鏡になるんじゃないかなぁ〜」
+[Konomi] "I wonder if the water bucket outside will serve as a water mirror."
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0315
-【イバラ】「おぉ！　そうか。じゃあ見てくる！」
+[Ibara] "Oh! Right. I'll go have a look!"
 
-「あっ……それは」
+"Ah...Oh no."
 
 #cg all clear
 #bg BG07b_1
@@ -1543,15 +1542,15 @@
 ;背景：山小屋内（夕）
 ;BG:BG07b_1
 
-引き止める間もなく、意気揚々とイバラは小屋を出て行った。
+Ibara left the hut triumphantly without before I could stop him.
 
-……そして。
+And...
 
 ;立ち絵なし
 #voice ibab0316
-【イバラ】「なんじゃあ、こりゃああああああ！」
+[Ibara] "What the hell is this?!"
 
-表からはイバラの絶叫が聞こえてきたのだった。
+Ibara scream could be heard from the table.
 
 ;MCK
 #bgm 0 stop 2000
@@ -1579,7 +1578,7 @@
 #wipe fade
 #wait 2000
 
-ぷんすかしながら戻ってきた時には、イバラの髪型はすっかり元通りになっていた。
+Ibara returned pouting, his hair completely restored.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
@@ -1589,104 +1588,104 @@
 #face f_kon_0_02f1 94 466
 
 #voice konb0308
-【コノミ】「あれぇ〜？　せっかくボク頑張ったのに、元に戻しちゃったの〜？」
+[Konomi] "Huh? I did my best, but why did you put it back?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0317
-【イバラ】「当たり前だ！　あんな髪型なんて美しくない！」
+[Ibara] "Of course! That hairstyle was not beautiful at all!"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0350
-【ヒナタ】「かっこよかったよ、イバラ！」
+[Hinata] "It was cool, Ibara!"
 
 ;FACE T01F_P
 #face f_tuk_0_01f_p 94 466
 
 
 #voice tikb0285
-【ツキヨ】「強そうだったです」
+[Tsukiyo] "You looked strong."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0318
-【イバラ】「お前たちは趣味が悪すぎるんだ」
+[Ibara] "You guys have such bad taste."
 
-イバラは腹を立てているのか、ひとり距離をとったところでそっぽを向いてしまった。
+Perhaps Ibara was angry, he turned away from them.
 
-「ま、まぁまぁ……許してあげてよ、イバラ。コノミも、ヒナタもツキヨも悪気があったわけじゃ……」
+"Hey... Please forgive them, Ibara. Konomi, Hinata, and Tsukiyo all didn't have bad intentions..."
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0319
-【イバラ】「そんなのわかってる。けど、あんなの美しくない！　あんな格好を喜んでしちゃったなんて……」
+[Ibara] "I know that. But that wasn't pretty at all! And I got all happy over that..."
 
-やれやれ、完全にへそを曲げちゃってる。
+Man, I'm about to bust my stomach laughing.
 
-困ったな。
+How troubling.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0320
-【イバラ】「ニンゲン！」
+[Ibara] "Ningen!"
 
-「な、なに？」
+"What?"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0321
-【イバラ】「だいたいお前が悪いんだ！　ヒナタには布袋をあげたり、ツキヨには飾り布を、しかも結んであげたり……お前がそんなふうに媚びてるから！」
+[Ibara] "It's mostly your fault! Giving Hinata a cloth bag, Tsukiyo a decorative cloth, and even tying it up...because you're flattering them like that!"
 
-……やっぱり羨ましかったのかな？
+……Is it really that enviable?
 
-「ごめんね、イバラ」
+"I'm sorry, Ibara."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0322
-【イバラ】「何を謝ってるんだ。ボクが何に怒ってるのか、本当に理解してるのか！？」
+[Ibara] "Why are you apologizing? Do you really understand what I'm angry about!?"
 
-「いや、それはどうかわからないけど……」
+"No, I don't know what it is..."
 
-うーん、すっかり何を言っても腹を立てる状態になってるな。
+Hmm, I'm getting scolded no matter what I say.
 
-ここでわかるよ、なんて言ったらきっともっと拗ねてしまうだろう。
+If I say that I understand here, I'm sure he'll get more sullen.
 
-代りにイバラに近づくと頭を撫でた。
+Instead, I approached Ibara and stroked his head.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0323
-【イバラ】「そんなことしてもごまかされないぞ！」
+[Ibara] "Even if you do that, I won't be fooled!"
 
-「誤魔化すわけじゃないけどさ……」
+"I'm not trying to deceive you, but..."
 
-俺はしゃがむと、一本残った飾り布をイバラの髪に結んだ。
+I squatted down and tied the remaining drapery around Ibara's hair.
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0324
-【イバラ】「えっ！？」
+[Ibara] "Eh!?"
 
-「凝った髪型なんかしてやれないから、こうやって飾り布を結ぶくらいしかできないけど。余りものでごめんな」
+"I can’t give you an elaborate hairstyle, so all I can do is tie a drapery like this.
 
 ;修正 MCS
 ;CHR OFF 
@@ -1705,59 +1704,59 @@
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0351
-【ヒナタ】「わー！　イバラ、ツキヨとおそろいだ！」
+[Hinata] "Wow! Ibara and Tsukiyo are the same!"
 
 #voice tikb0286
-【ツキヨ】「一緒、です」
+[Tsukiyo] "The same."
 
 #voice ibab0325
-【イバラ】「……」
+[Ibara] "..."
 
-イバラは怒ったわけでもなく、ただそうしないと決まりが悪いのか唇を尖らせて、そっぽを向いた。
+Ibara didn't get angry, he just pouted his lips and looked away as if it would be bad if he didn't do that.
 
 ;CHR I11F1 L
 #cg イバラ iba_1_11f1 左
 #wipe fade
 
 #voice ibab0326
-【イバラ】「ニンゲンのものなんて欲しくないけど、ニンゲンがボクにもらって欲しいのなら、仕方ないから受け取ってやる」
+[Ibara] "I don't want a human thing, but if a human wants me to have it, I can't help it, so I'll accept it."
 
-「うん。ありがとう」
+"Yes, thank you"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0327
-【イバラ】「ん……」
+[Ibara] "Hm..."
 
-頭を撫でられて、イバラはうっとりしたみたいに目を閉じた。
+After being stroked on the head, Ibara closed his eyes enchanted.
 
-こうやって素直でいればかわいいのにな。
+He's cute when he's honest like this.
 
 ;CHR I05F L
 #cg イバラ iba_1_05f 左
 #wipe fade
 
 #voice ibab0328
-【イバラ】「ふ、ふん。よく見ると、なかなか凝った織り方になってるし、色使いも品がいいじゃないか。これならもらってやってもかまわない」
+[Ibara] "Hmm. Now that I look closely, the weaving is quite elaborate, and the coloring is also very classy. I don't mind getting this."
 
-やれやれ、機嫌を直してくれたか。
+Good grief, his mood has improved.
 
-どうやらツキヨとお揃いの飾り布はイバラのお気に召したようだ。
+Apparently, Ibara liked the matching cloth with Tsukiyo.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0309
-【コノミ】「よかったね〜イバラ」
+[Konomi] "Good for you ‾ Ibara"
 
 ;CHR I06F L
 #cg イバラ iba_1_06f 左
 #wipe fade
 
 #voice ibab0329
-【イバラ】「べ、別にボクは嬉しくなんかないぞ」
+[Ibara] "I-It's not like I'm particularly happy"
 
 ;CHR T05F_P R
 #cg ツキヨ tuk_1_05f_p 右
@@ -1766,29 +1765,29 @@
 ;TKface
 
 #voice tikb0287
-【ツキヨ】「嬉しくないです？」
+[Tsukiyo] "You aren't?"
 
 ;FACE H04F2_A
 #face f_hin_0_04f2_a 94 466
 
 #voice hinb0352
-【ヒナタ】「でも、イバラ。うれしくないの？　うれしくないのハンタイみたいなおかおしてるけど……」
+[Hinata] "But Ibara. You're not happy? But your face... you looks so happy..."
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0330
-【イバラ】「うるさい！　嬉しくないったら嬉しくない！」
+[Ibara] "Noisy! If I say I'm not happy, I'm not!"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0353
-【ヒナタ】「うれしいおかおだけど、うれしくないんだ。おもしろいね！」
+[Hinata] "He looks happy, but is not happy. How funny!"
 
 #voice ibab0331
-【イバラ】「嬉しくなんかないったら！」
+[Ibara] "I said I'm not happy!"
 
 ;なし
 
@@ -1797,7 +1796,7 @@
 #face f_hin_0_06f2_a 94 466
 
 #voice hinb0354
-【ヒナタ】「きゃーっ！」
+[Hinata] "Kyaa!"
 
 ;修正 MCS
 ;CHR OFF 
@@ -1808,14 +1807,14 @@
 ;SE se025 小屋内でドタンバタン
 #se 1 se025
 
-イバラがヒナタに飛びかかり、ヒナタは追いかけっこと勘違いしているのか、嬉しそうに逃げ出した。
+Ibara jumped at Hinata, and Hinata ran away happily, perhaps misunderstanding that he was chasing him.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0355
-【ヒナタ】「きゃーっ！　じゃあ、ヒナタはツキヨをつかまえるね！」
+[Hinata] "Kyaa! Then Hinata will catch Tsukiyo!"
 
 ;CHR OFF
 #cg all clear
@@ -1828,7 +1827,7 @@
 ;TKface
 
 #voice tikb0288
-【ツキヨ】「え？　え？　え？　あわわわわ……」
+[Tsukiyo] "Huh? Huh? Huh? Awawawawa..."
 
 ;CHR OFF
 #cg all clear
@@ -1838,172 +1837,172 @@
 ;SE se025 小屋内でドタンバタン
 #se 1 se025
 
-なぜかツキヨも巻き込まれ、とたたたたと走り出す。
+For some reason, Tsukiyo also got caught up in it and started running.
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0310
-【コノミ】「あははははははは〜」
+[Konomi] "Ahahahahahahaha‾"
 
-「こーら、小屋の中で追いかけっこはダメだろ。あ、でも、もう外も暗いか」
+"Hey, stop chasing each other around in the hut. Ah, but it's already dark outside."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0311
-【コノミ】「あはは〜、外が暗いとダメなの〜？」
+[Konomi] "Ahaha‾, is it bad if it's dark outside‾?"
 
-「だって暗いと危ないだろ？　それこそ、オークやゴブリンが出たらどうするんだ？」
+"Because it's dangerous when it's dark, isn't it? What would you do if orcs and goblins appeared?"
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0312
-【コノミ】「そだね〜、それは危ないね〜」
+[Konomi] "Hmm, that's dangerous, isn't it?"
 
-「だろ？」
+"Right?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0313
-【コノミ】「でも、ボクらは〜、見つかったことないから大丈夫〜」
+[Konomi] "But we've never been spotted, so it's fine."
 
-「大丈夫、って今までが大丈夫でも、これからも大丈夫とは限らないだろ？」
+"Even if it's been okay up until now, it doesn't mean it's going to be okay from now on, right?"
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0314
-【コノミ】「おぉ〜、そんなの考えもしなかった〜」
+[Konomi] "Oh‾, I didn't think of that‾"
 
-「ま、そりゃ無理に閉じ込めとくわけにもいかないけど、目の前にいるときに出て行けなんて言えないよ」
+"Well, I can't force you to stay, but I can't tell you to leave when you're in front of me."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0315
-【コノミ】「ニンゲンくんは、いいやつだよね〜ふふふ」
+[Konomi] "Ningen-kun is a good guy, isn't he?"
 
-「そんなことは……」
+"That's……"
 
-コノミに見上げられて、ふとコノミにだけ何もお土産がなかったのは不公平だなと思った。
+As Konomi looked up at me, I suddenly thought it was unfair that only Konomi didn't receive anything.
 
-けど、もうあげられるようなものなんて……。
+But there's nothing left I can give you...
 
-「あれ……」
+"Wait..."
 
-ふと、コノミを見下ろしていて、胸元をくくる紐がもうぼろぼろなのに気がついた。
+Looking down at Konomi, I noticed that the string around his chest was worn out.
 
-「そっちの紐はずいぶん痛んでるね」
+"That string looks quite damaged."
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0316
-【コノミ】「ん〜？」
+[Konomi] "Huh‾?"
 
-「これ、蔦か何かを干したものかな。もうすぐ切れちゃいそうだよ」
+"Is this dried ivy or something? It looks about to break"
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0317
-【コノミ】「あぁ、うん。適当なときに取り替えるんだ」
+[Konomi] "Ah, yeah. I'll replace it when I feel like it."
 
-「そうだ、ちょっと待ってて」
+"I see, wait a minute."
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0318
-【コノミ】「んんん〜？」
+[Konomi] "Hmm‾?"
 
-俺は、紙を束ねてきた紐を解いた。ある程度の量の紙を持ってきたから、かなり丈夫な紐じゃなきゃいけなかったんだ。
+I untied the string that bound the papers together. I brought a certain amount of paper, so it had to be pretty strong.
 
-それで、村の自宅にあった紐で一番丈夫そうだった、多分母が腰紐に使っていた綺麗な色の組紐を使ったんだった。
+That's why I used the beautiful colored braid that my mother used for the waist cord, which seemed to be the strongest among the cords I had at home in the village.
 
-「コノミには、この紐を上げるよ」
+"I will give this string to Konomi."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0319
-【コノミ】「ボクにも贈り物があるんだ〜！？」
+[Konomi] "I have a gift too!?"
 
-コノミはちょっと驚いた様子で組紐に手を伸ばした。
+Konomi looked a little surprised and reached out for the braid.
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0320
-【コノミ】「へぇ……この紐、上手に模様になってるね〜きれーい」
+[Konomi] "Hey... This cord has a nice pattern, isn't it?"
 
-「ちょうどいいから、胸元の紐、この紐と取り替えようか。俺が結んであげる」
+"It's just right, so let's replace the string on your chest with this string. I'll tie it for you."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0321
-【コノミ】「うん。じゃあお願いしようかな〜」
+[Konomi] "Yeah.
 
-コノミが、ん、と首をあげた。
+Konomi lifted his neck.
 
-「ちょっと待ってて」
+"Wait a minute"
 
-古い紐を抜いて、さっさと俺が持ってきた紐に付け替える。最後に蝶結びにして形を整えてやると、コノミはくすぐったそうな笑い声を上げた。
+I pulled out the old string and quickly replaced it with the string I brought. Finally, when I tied it into a bow and adjusted its shape, Konomi let out a ticklish laugh.
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0322
-【コノミ】「ふふふふ〜」
+[Konomi] "Fufufufu‾"
 
-「どうしたの？」
+"what happened?"
 
 #voice konb0323
-【コノミ】「ニンゲンくんに何かしてもらうのって、たのし〜い」
+[Konomi] "It's fun to have Ningen-kun do something for me."
 
-「そっか。それはよかった」
+"I see. That's good."
 
-よくわからないけど、楽しいなら多分いいことなんだろう。
+I don't know, but if it's fun, it's probably a good thing.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0324
-【コノミ】「あのね〜ボクね〜、ニンゲンくんと気持ちいいことするのも好きだけど、一緒にいるのも好きだよ〜。たぶん、イバラやヒナタ、ツキヨもね〜」
+[Konomi] "You know, I like doing things that feel good with Ningen-kun, but I also like simply being around you. Maybe Ibara, Hinata, and Tsukiyo, too."
 
-「……」
+"..."
 
-顔が急に熱くなるのを感じた。
+I felt my face suddenly heat up.
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0325
-【コノミ】「あれれ、ニンゲンくん顔真っ赤だよ〜？　ご病気〜？」
+[Konomi] "Huh, Ningen-kun, your face is bright red? Are you sick?"
 
-「い、いや。嬉しかったから……」
+"No, no. Because I felt happy..."
 
 #voice konb0326
-【コノミ】「そか〜。嬉しかったのか〜」
+[Konomi] "I see. You're happy‾"
 
 ;修正 MCS
 ;CHR OFF 
@@ -2017,27 +2016,27 @@
 #wipe fade
 
 #voice hinb0356
-【ヒナタ】「はれ〜？　コノミとニンゲンさん、なんかたのしいおはなししてたの？」
+[Hinata] "Hello? Konomi and Ningen-san, did you have a fun conversation?"
 
 ;CHR K01F2B L
 #cg コノミ kon_1_01f2b 左
 #wipe fade
 
 #voice konb0327
-【コノミ】「ニンゲンくんね〜、ボクにもこの紐くれたんだよ〜」
+[Konomi] "Human-kun gave me this string, too."
 
 ;CHR H01F1_A R
 #cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hinb0357
-【ヒナタ】「おぉ〜、よかったねコノミ！」
+[Hinata] "Oh, good for you, Konomi!"
 
-……誰かと一緒にいるのは、煩わしいと思っていた。
+……I had thought it was annoying to be with someone.
 
-そんな俺がエルフとはいえ、４人もの連中と楽しく過ごし、あまつさえ一緒にいたいと思ってもらえるなんて……。
+That me, is now living happily with four elves, to the point they want to be with me...
 
-村にいて人間の中にいたときよりも、ずっと人間らしい気持ちで俺は暮らせているのかもしれない。
+I may be able to live here feeling more human-like than when I was in the village.
 
 #cg all clear
 #bg black
@@ -2059,32 +2058,32 @@
 #bg BG07b_3
 #wipe fade
 
-夜になると、遊びつかれたのかエルフたちは思い思いの場所でねっころがっている。
+At night, the elves are lying about as they like, probably tired from playing.
 
-……今日は、この小屋で寝ることにしたんだな。
+I decided to sleep in this hut today.
 
-皆が目に届くところにいることに、少なからず俺はほっとしていた。
+I was more than a little relieved that everyone was in sight.
 
-「……みんな、お土産喜んでたな」
+"... Everyone was happy with the souvenirs."
 
-村の自宅にあるものは、もう俺にはいらないものも沢山あるんだし、また村に行ったら持ってきてやろう。
+There are a lot of things I don't need anymore in my home in the village, so I'll bring those back when I go there again.
 
-エルフたちがエルフの里に帰るときにも持っていってもらえたら、嬉しい。
+I would be happy if the elves could take it with them when they returned to the elf village.
 
-そして少しでも俺のことを思い出してくれたら……。
+And if they could think of me even just a little...
 
-今日のことを思い出して、俺は思わずひとりで笑みを漏らした。
+Remembering what happened today, I unintentionally let out a smile to myself.
 
-素直に全身で喜ぶヒナタ、控えめながらも嬉しそうだったツキヨ、本当はお土産が羨ましくて仕方なかったイバラ、そして思いがけないお土産に驚いたコノミ。
+Hinata who became uncontrollably happy, Tsukiyo who was reserved but happy, Ibara who couldn't help but become jealous, and Konomi who was surprised by the unexpected gift.
 
-今日お土産を渡した時に一番印象深かったのは……。
+The person who left the biggest impression today was...
 
 ;・選択肢発生
 #select a b c d
-Ａ：ヒナタ
-Ｂ：イバラ
-Ｃ：コノミ
-Ｄ：ツキヨ
+A: Hinata
+B: Ibara
+C: Konomi
+D: Tsukiyo
 
 #label a
 #next b04h top

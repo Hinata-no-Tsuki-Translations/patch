@@ -2,11 +2,11 @@
 ;背景：山小屋（夕）=>（昼）
 ;b03から変更なし
 
-俺が最初に思い浮かべたのはコノミの顔だった。
+The first thing that came to mind was Konomi's face.
 
-果物は好きだと言っていたし、甘いものはきっと好きだろう。
+He said he liked fruits, and would surely like sweets.
 
-……そうだ、喉に詰まらせるといけないから、お茶も用意しなくちゃな。
+……That's right, I have to prepare some tea because I don't want to choke on it.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -31,80 +31,80 @@
 #wipe fade
 
 #voice konb0252
-【コノミ】「おぉ〜、出来たんだね〜」
+[Konomi] "Oh‾, it's ready‾"
 
-残りの生地も焼き上げて、お茶の準備も万全、全て整ったところでタイミングよくコノミが顔を出した。
+The rest of the dough was baked, the tea was perfectly prepared, and Konomi showed up just in time.
 
-「……コノミってそういうところあるよな。どっかで俺のことを監視してるんじゃないかと思うよ」
+"... The way you showed up at the perfect time, has me wondering if you were spying on me this whole time."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0253
-【コノミ】「ん〜？　監視〜？　ふふふ、そんなことしてないよ？　でも、ちょっと面白そう〜」
+[Konomi] "Huh‾? Spying‾? Fufufu, I didn't do that‾ Though that sounds a little interesting‾"
 
-ふふふ、と笑いながらコノミはちょこんとテーブルの前に腰掛けた。
+Fufufu, Konomi chuckled as he sat down in front of the table.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0254
-【コノミ】「まっくろこげこげの何かを焼いてたから、炭を作ったら完成なのかなって思ったら、違ったんだね〜」
+[Konomi] "Since you were baking something that was completely black and charred, I thought you were making charcoal, but I was wrong‾"
 
-「うんまぁ、一応作ってたのは食べ物だからね。……食べる？」
+"Um, well, I was actually making food. Want a bite?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0255
-【コノミ】「ん〜？　ボクに聞いてる？」
+[Konomi] "Huh? Are you asking me?"
 
-「肉や魚は食べないみたいだけど、甘いものならどうかと思ってさ。卵は入ってるけど……」
+"Although you don't seem to eat meat or fish, I was wondering if you'll have something sweet. But, it contains eggs..."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0256
-【コノミ】「それは見てた〜」
+[Konomi] "I saw that‾"
 
-さりげなく皿にのせた焼き菓子を机の上に出すと、昨日の飴とはうって変わって、素直に手を伸ばした。
+When I casually put the baked sweets on the plate on the desk, completely contrary to yesterday's attitude, he obediently reached out his hand.
 
-「食べるの！？」
+"Are you eating!?"
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0257
-【コノミ】「ん〜？　食べちゃダメだった〜？」
+[Konomi] "Huh‾? I shouldn't eat this‾?"
 
-「あ、いや。そういうわけじゃ……」
+"Ah, no. That's not..."
 
-コノミは真珠のような歯でサクサクとした焼き菓子を咀嚼した。
+Konomi chewed the crispy baked goods with his pearly teeth.
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0258
-【コノミ】「甘くて、カリカリしてるとこもあって、いい匂いで……美味しいね〜。ボク、これ好きかも〜」
+[Konomi] "It's sweet and crunchy, and it smells good. It's delicious. I might like it."
 
-最初の一口を飲み込んで、コノミは微笑んだ。
+Taking the first bite, Konomi smiled.
 
-「それ、食べるとお茶欲しくなるだろ。ほら」
+"You'll want tea after eating that. Here."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0259
-【コノミ】「うん、ありがと〜」
+[Konomi] "Yeah, thank you‾"
 
-俺はなぜかホッとして、お茶をすすめる。
+For some reason, I felt relieved and offered him some tea.
 
 ;CHR OFF
 #cg all clear
@@ -115,7 +115,7 @@
 #wipe fade
 
 #voice hinb0272
-【ヒナタ】「おぉ？　こげこげのにおいなくなったっ！」
+[Hinata] "Oh? The burnt smell is gone!"
 
 ;CHR OFF
 #cg all clear
@@ -126,7 +126,7 @@
 #wipe fade
 
 #voice ibab0257
-【イバラ】「ふん、代わりに甘い匂いがするな」
+[Ibara] "Hmph, instead, there's a sweet fragrance."
 
 ;CHR OFF
 #cg all clear
@@ -139,46 +139,46 @@
 ;TKface
 
 #voice tikb0220
-【ツキヨ】「いい匂い、です」
+[Tsukiyo] "It smells good."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「あぁ、ヒナタたちも戻ってきたのか」
+"Oh, Hinata and the others have come back too"
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice konb0260
-【コノミ】「これ、食べてもいいよ〜。甘くておいしいよ〜」
+[Konomi] "You can try this. It's sweet and delicious."
 
-コノミは満面の笑顔でヒナタたちに焼き菓子を勧めた。
+With a big smile on her face, Konomi recommended Hinata and the others some baked sweets.
 
 ;CHR I08F R
 #cg イバラ iba_1_08f 右
 #wipe fade
 
 #voice ibab0258
-【イバラ】「美味しいって……もうコノミは食べたのか」
+[Ibara] "Delicious... Konomi has already tried it?"
 
 ;CHR K01F2A L
 #cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konb0261
-【コノミ】「うん。お茶がね、あうよ〜。ちょっと口パサパサするから、お茶飲みながら食べるといいよ〜」
+[Konomi] "Yes, it goes well with tea‾ It's a bit dry, so it's better to have with tea."
 
 #voice ibab0259
-【イバラ】「食べられたのか……」
+[Ibara] "You've tried it already, huh..."
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice konb0262
-【コノミ】「うん。美味しかったよ〜」
+[Konomi] "Yeah. It was delicious‾"
 
 ;CHR OFF
 #cg all clear
@@ -189,26 +189,26 @@
 #wipe fade
 
 #voice hinb0273
-【ヒナタ】「ねーねー、コノミ。ヒナタもたべていい？」
+[Hinata] "Hey, hey, Konomi. Can Hinata have some too?"
 
 #voice konb0263
-【コノミ】「いいよ〜。ヒナタもツキヨもいっぱい食べなよ〜。たくさんあるからね〜」
+[Konomi] "Sure‾. Hinata and Tsukiyo, have as much as you want‾. There's plenty of it‾."
 
 ;CHR H07F R
 #cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hinb0274
-【ヒナタ】「わーい！」
+[Hinata] "Yay!"
 
-「ちょ、ちょっと。なんでコノミが許可してるのさ」
+"Wait a minute. Why is Konomi giving permission for this?"
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0264
-【コノミ】「ん〜？　みんなは食べちゃダメなの〜？　ボクだけいいの〜？」
+[Konomi] "Huh‾? Is it not for everyone to eat‾? Is it only for me‾?"
 
 ;CHR OFF
 #cg all clear
@@ -221,9 +221,9 @@
 ;TKface
 
 #voice tikb0221
-【ツキヨ】「ご、ごめんなさい、口、つけちゃったです」
+[Tsukiyo] "I-I'm sorry, I accidentally put my mouth on it"
 
-「い、いや……みんなに食べてもらおうと思って作ったから、別に構わないんだけどさ」
+"No, no... I made it with the intention of having everyone eat it, so I don't mind."
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -232,14 +232,14 @@
 ;TKface
 
 #voice tikb0222
-【ツキヨ】「ほ……よかったです」
+[Tsukiyo] "Huh... that was great."
 
 #voice konb0265
-【コノミ】「そうそう、じゃんじゃん食べなよ〜」
+[Konomi] "That's right, go ahead and eat a lot‾!"
 
-……まぁ、いいか。
+……Well, I guess it's fine.
 
-それだけ俺が焼いた菓子を気に入ってくれたって事だ。
+That just means that he liked the sweets I baked for him.
 
 ;CHR OFF
 #cg all clear
@@ -250,7 +250,7 @@
 #wipe fade
 
 #voice hinb0275
-【ヒナタ】「ほぉうっ！　あまいねっ！　かんだらくちのなかでくずれていくよ！」
+[Hinata] "Wow! It's sweet! When I bite into it, it crumbles in my mouth!!"
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
@@ -259,7 +259,7 @@
 ;TKface
 
 #voice tikb0223
-【ツキヨ】「サクサクするの、楽しいです」
+[Tsukiyo] "The crispiness is enjoyable."
 
 ;CHR OFF
 #cg all clear
@@ -270,7 +270,7 @@
 #wipe fade
 
 #voice ibab0260
-【イバラ】「むぅ……コノミが頼むから食べてやるけど、こんなの……こんなの……あ、おい、ヒナタいっぺんにいっぱい取りすぎだろ！」
+[Ibara] "Hmm... Konomi offered, so I'll eat it, take this... this... Oh, hey, Hinata that's too many at once!"
 
 ;CHR H04F1 L
 #cg ヒナタ hin_1_04f1 左
@@ -278,26 +278,26 @@
 
 ;おいしいからとまらないの
 #voice hinb0276
-【ヒナタ】「んう？　ごめーん、ほいひいふぁらほままらいの」
+[Hinata] "Hmm? Sorry, it's so delicious that I can't stop."
 
 #voice ibab0261
-【イバラ】「ぼ、ボクだって、もっと食べるんだからなっ、ヒナタだけ食べるのはずるっこなんだぞ！」
+[Ibara] "E-even I want to eat more, so it's not fair that only Hinata gets to eat!"
 
-「あーほら、あんまり焦って食べると喉に詰まらすよ」
+"Hey, if you eat this quickly, you'll choke."
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0262
-【イバラ】「だって、ヒナタがっ……んぐっ……」
+[Ibara] "Because, Hinata... Ngu..."
 
-「あー、ほら。飲み物飲んで」
+"Ah, here. Have a drink."
 
 #voice hinb0277
-【ヒナタ】「もごもごもごもご……」
+[Hinata] "Munch munch munch..."
 
-「ヒナタも飲み込めないほど口に入れないの」
+"Hinata don't put so much in your mouth that you can't swallow it."
 
 ;CHR OFF
 #cg all clear
@@ -310,11 +310,11 @@
 ;TKface
 
 #voice tikb0224
-【ツキヨ】「あ、あうぅううううう」
+[Tsukiyo] "Ah, ahhhhh"
 
-喜んでくれてるみたいなのは嬉しいけど、イバラとヒナタが競争みたいに食べるせいで、ツキヨが手を出せなくなってしまっている。
+I'm glad they seem to be enjoying it, but because Ibara and Hinata are eating like it's a competition, Tsukiyo can't get any.
 
-「このぐらいでいいかな？」
+"Is this much enough?"
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -323,26 +323,26 @@
 ;TKface
 
 #voice tikb0225
-【ツキヨ】「あ、ありがとです」
+[Tsukiyo] "Oh, thank you."
 
-ツキヨの分を取り分けてあげると、ツキヨは嬉しそうに頬を染めた。
+Tsukiyo's cheeks blushed happily when I set aside a portion for him.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「って、コノミは食べてる？」
+"Wait, is Konomi eating too?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0266
-【コノミ】「ん〜？　ボクは、先に食べたし〜ね〜？」
+[Konomi] "Hmm‾? I already ate some‾ didn't I‾?"
 
-その手にはけして少なくはないお菓子があった。
+In his hand lay quite a few cookies.
 
-なるほど、ちゃっかり自分の分は確保してたのか。
+I see, you slyly made sure to secure your portion, huh?
 
 ;CHR OFF
 #cg all clear
@@ -353,11 +353,11 @@
 #wipe fade
 
 #voice hinb0278
-【ヒナタ】「けぷぅ……」
+[Hinata] "Kepuu..."
 
-「ってもう全部食べちゃったのかよ！　あーあー、しばらく俺の食事にもしようと思ってたのに」
+"Wait, you already ate all of them! Oh well, I was planning to use them for my meals for a while."
 
-とほほ……今までエルフは物を食べないから油断してたのに、いざ食べるとなると結構食べるんじゃないか。
+Oh dear... I let my guard down because elves don't need food, but it seems they eat quite a lot when they do.
 
 ;CHR OFF
 #cg all clear
@@ -368,16 +368,16 @@
 #wipe fade
 
 #voice ibab0263
-【イバラ】「げふっ……ん、お腹痛い気がする！？　まさか、ニンゲンこのお菓子に毒を！」
+[Ibara] "Ugh... I-I feel a stomachache! Could it be, Human poisoned the sweets!"
 
-「違う！　それ絶対ただの食べ過ぎだから！　お腹痛くなるまで食べるなよ！　少しは自分で加減しろよ！」
+"That's not it! That's definitely symptoms of overeating! Don't eat until your stomach hurts! Control yourself a little!"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0264
-【イバラ】「うー！　ニンゲンのせいでお腹痛いのに、なんでボクが怒られなきゃいけないんだ！」
+[Ibara] "Mmm! Why do I have to be scolded when it's Human's fault that my stomach hurts!"
 
 ;CHR OFF
 #cg all clear
@@ -390,14 +390,14 @@
 ;TKface
 
 #voice tikb0226
-【ツキヨ】「お腹、痛いです？」
+[Tsukiyo] "Does your stomach hurt?"
 
 ;CHR K06F R
 #cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0267
-【コノミ】「う〜ん、お腹がいっぱいなら、治癒しても意味ないんじゃないかなぁ〜？」
+[Konomi] "Well, if you're full, there's no point in healing, right?"
 
 ;CHR T02F L
 #cg ツキヨ tuk_1_02f 左
@@ -406,7 +406,7 @@
 ;TKface
 
 #voice tikb0227
-【ツキヨ】「はうっ……」
+[Tsukiyo] "Ugh..."
 
 ;CHR OFF
 #cg all clear
@@ -417,7 +417,7 @@
 #wipe fade
 
 #voice hinb0279
-【ヒナタ】「はりゃっ！？　おなかがポンポンになってるっ！？　あははは、なんだこれっ」
+[Hinata] "Huh!? My stomach feels all bouncy!? Ahahaha, what is this!"
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
@@ -426,22 +426,22 @@
 ;TKface
 
 #voice tikb0228
-【ツキヨ】「お腹、カエルさんみたいになってるです」
+[Tsukiyo] "My stomach looks like a frog's."
 
-ヒナタも食べ過ぎたせいでお腹がすっかり膨らんでいる。
+Hinata's stomach has become completely swollen from overeating.
 
-ツキヨが恐る恐るヒナタのお腹をポンポン叩くとやけにいい音がした。
+When Tsukiyo timidly patted Hinata's stomach, it made a terrible sound.
 
-「ははは、ヒナタも食べ過ぎだな」
+"Hahaha, Hinata ate too much too."
 
 ;CHR H08F2 R
 #cg ヒナタ hin_1_08f2 右
 #wipe fade
 
 #voice hinb0280
-【ヒナタ】「ニンゲンさん、こんなにおいしいものつくれるなんてすごいね！」
+[Hinata] "Ningen-san, it's amazing that you can make something so delicious!"
 
-初めてのお菓子作りで得られた賞賛はなかなかに悪いものじゃなかった。
+The praise I got for my first sweets-making was not bad at all.
 
 ;CHR OFF
 #cg all clear
@@ -471,112 +471,112 @@
 
 ;SE　薪割り
 
-翌日、思いのほかお菓子作りで消費してしまったので補充するために薪を割っていると、コノミが何かを持って近づいてきた。
+The next day, I was chopping firewood to replenish what I had used for making sweets when Konomi approached me.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0268
-【コノミ】「ニンゲンくん、これあげる」
+[Konomi] "Ningen-kun, I'll give you this"
 
-コノミが差し出してきたのは、このあたりだとあまり見かけない果物だった。
+Konomi presented a fruit that I don't see very often in this area.
 
-「お、ありがとう。何これ、珍しいね、どこに生えてたの？」
+"Oh, thank you. This is rare, where did was it growing?
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0269
-【コノミ】「ん〜？　秘密〜」
+[Konomi] "Nn‾? Secret‾"
 
-「そうか、秘密か。ひょっとしてエルフの里の？」
+"A secret? Could it be from the elf village?"
 
-ちょうどいいし、少し休憩にするか。
+Just as well, I'll take a short break.
 
-俺はそのあたりに腰掛けると、コノミが持ってきてくれた果物を軽く袖で拭って、かぶりついた。
+I sat myself on the ground, lightly wiped the fruit on my sleeve and bit into it.
 
-「ん、うまいな。これ」
+"Mmm, this is delicious."
 
-コノミも俺の横に腰掛けて、うす赤い果物に歯を立てた。
+Konomi also sat down next to me and bit his teeth into the pale red fruit.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0270
-【コノミ】「ボクね〜、今なってる果物だと、これがいっとう好き〜」
+[Konomi] "You know, of all the fruits that are ripe, I like this fruit the most."
 
-ピンと張った表皮からの印象に反して、柔らかな果肉には汁気がたっぷりしていて、適度な酸味が疲れた体に心地いい。
+Contrary to the taut skin, the soft flesh is full of juice, and the refreshing acidity feels pleasant for a tired body.
 
-ちらりとコノミに目をやると、汁気の多い果物にかじりつきながら、溢れる果汁をすする仕草はどことなくいやらしかった。
+Glancing at Konomi, I couldn't help but find his actions, as he took big bites of the juicy fruit and slurped the overflowing juice, somewhat alluring.
 
-……って、コノミにはそんなつもりないだろうに何を考えてるんだ俺。
+… I don't think Konomi has that kind of intention, whatever am I thinking?
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0271
-【コノミ】「ふふふ、昨日のお菓子美味しかったから〜また、作ってね〜」
+[Konomi] "Fufufu, yesterday's sweets were delicious, please make them again‾"
 
-「あぁ、いいよ。面倒だから、そんなにしょっちゅうは作れないかもしれないけど」
+"Oh, that's fine. It's troublesome, so I might not be able to make it that often."
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0272
-【コノミ】「それ、ニンゲンくんにだけあげるの〜。だから、ね？」
+[Konomi] "That's something I only give to Ningen-kun. So, you know?"
 
-「……わかった、コノミのためにお菓子を焼くよ」
+"…Fine, I'll bake sweets for you."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0273
-【コノミ】「ふふふ」
+[Konomi] "Fufufu"
 
-コノミははにかむように笑った。
+Konomi smiled bashfully.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0274
-【コノミ】「本当はね〜、食べていいのボクだけかも〜って思った時、嬉しかったんだ〜。だから、次はボクだけにちょうだい？」
+[Konomi] "To be honest, I was happy when I thought it was all for me‾. So, next time, could you make it just for me?"
 
-「んー、それは難しそうだな……」
+"Hmm, that seems difficult..."
 
-お菓子なんて焼いてたら、絶対にみんな嗅ぎつけてくるだろうし、秘密で作るのなんて難しそうだ。
+If I bake sweets, everyone will definitely smell it, and it would be difficult to make it in secret.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0275
-【コノミ】「そうだね〜。じゃあ、みんなにも分けてあげるから、ボクにお菓子焼いてね〜」
+[Konomi] "That's right. Then I'll share it with everyone, so please bake me some sweets."
 
-コノミはあっさりとお菓子の独占契約を諦めた。
+Konomi gave up on his exclusive contract for sweets.
 
-ずいぶん簡単に諦めるんだな。
+Easily.
 
-……どうして、そのことに俺はなんとなく罪悪感を覚えているんだろう。
+……Why do I somehow feel a little guilty about that?
 
-「あぁ、それなら、お安い御用だよ。今度村に戻ったら、また材料を手に入れてくるよ」
+"Ah, if that's the case, consider it done. Next time I return to the village, I'll get the ingredients again."
 
-俺はなんとなく胸がチクチクするのをごまかすように笑ってみせた。
+I smiled, trying to conceal the slight prickling sensation in my chest.
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0276
-【コノミ】「ふふふ、楽しみだなぁ〜」
+[Konomi] "Fufufu, I'm looking forward to it‾"
 
-コノミは嬉しそうに空を見上げた。
+Konomi looked up at the sky happily.
 
 ;コノミ好感度+1
 #set f3 f3+1

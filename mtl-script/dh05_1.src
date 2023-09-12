@@ -1,0 +1,361 @@
+
+;※アイキャッチ
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG44_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg44_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+;BGMch2 amb002 再生
+#bgvoice amb002
+
+;背景：森（夜）
+;BG:BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+"I'm glad it's not raining anyway."
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+#voice hinf0338
+[Hinata] "I'm glad the candy wasn't falling!"
+
+Hinata seemed to be back to her usual self, and happily returned the parrot.
+
+"But how are we going to sleep here? It's a field, right? There's nowhere to hide."
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0339
+[Hinata] "It's okay, look!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata lay down on the meadow, resting her body on her back.
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hinf0340
+[Hinata] “Try moving a little further away!”
+
+"Ah, ah..."
+
+When I look a little further away, Hinata's figure is obscured by the tall grass and disappears from view.
+
+"Oh, you can't see much just by lying down."
+
+;CHR H08F2_A C
+#cg ヒナタ hin_1_08f2_a 中
+#wipe fade
+#voice hinf0341
+[Hinata] "Right? That's why it's okay!"
+
+Hinata got up and hugged me.
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0342
+[Hinata] "Where should I put it? I like a place where the grass is soft."
+
+"Yeah, that's right."
+
+;CHR H08F2_A C
+#cg ヒナタ hin_1_08f2_a 中
+#wipe fade
+#voice hinf0343
+[Hinata] "Hinata, I'll do my best and find you! Hmph ♪ Hmph ♪"
+
+Hinata is happily checking the grass around her.
+
+I don't know the difference, but maybe Hinata has her own selection criteria.
+
+;CHR H01F2_A C
+#cg ヒナタ hin_1_01f2_a 中
+#wipe fade
+#voice hinf0344
+[Hinata] "Here! This place is good! Humans should hang out too!"
+
+“Yeah, here?”
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0345
+[Hinata] "That's it! It feels so good!"
+
+Hinata's smile returned and she looked happy.
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;BG:BG15_3がないので代用
+#cg all clear
+#bg BG12_3
+#wipe fade
+
+"...Oh, this is it."
+
+When you lie down and look up at the sky, the stars seem to be looming right next to you.
+
+Come to think of it, it may be the first time I've looked up at the sky like this since I was a child.
+
+;FACE H01F2_A
+#face f_hin_0_01f2_a 94 466
+
+#voice hinf0346
+[Hinata] “Ohoshi-sama, you’re beautiful!”
+
+"That's right..."
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;BG:BG15_3がないので代用
+#cg all clear
+#bg BG12_3
+#wipe fade
+
+I lay down and closed my eyes for a while, but I couldn't seem to fall asleep, perhaps because I was out in the open, or perhaps from the shock of witnessing the hut being set on fire.
+
+;FACE H04F1_A
+#face f_hin_0_04f1_a 94 466
+
+#voice hinf0347
+[Hinata] "Ningen-san...?"
+
+I rolled over in my sleep and Hinata called out to me.
+
+"Oh, my bad. Did I wake you up?"
+
+
+;FACE H02F1_A
+#face f_hin_0_02f1_a 94 466
+
+#voice hinf0348
+[Hinata] "No. I'm not awake. Hinata isn't sleeping."
+
+"Hinata can't sleep either?"
+
+;FACE H04F1_A
+#face f_hin_0_04f1_a 94 466
+
+#voice hinf0349
+[Hinata] "...Yeah. I can't sleep...hafu‾"
+
+Hinata takes a deep breath.
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinf0350
+[Hinata] "Hey, Human-san. I guess it's Hinata's fault after all."
+
+"...What?"
+
+;FACE H02F1_A
+#face f_hin_0_02f1_a 94 466
+
+#voice hinf0351
+[Hinata] "Hinata, you've always been telling me to go there. That's probably why the people at Mr. Ningen's village also thought Hinata could go there."
+
+"...That's not true. Absolutely not."
+
+Go over there, huh?
+
+I have heard stories from Hinata from time to time about how she was oppressed because she was a half-elf in the elf village.
+
+The wound is so deep that he probably thinks that even humans hate him.
+
+It wasn't Hinata's fault that the mountain hut was set on fire.
+
+;BG:BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+;CHR H02F2_A C
+#cg ヒナタ hin_1_02f2_a 中
+#wipe fade
+#voice hinf0352
+[Hinata] "Hinata, the people in the village think you should go there, and I guess they think you're there because there's Koya."
+
+"...There's no one else who thinks like that about Hinata. If anyone thinks like that, it's me."
+
+;CHR H05F_A C
+#cg ヒナタ hin_1_05f_a 中
+#wipe fade
+#voice hinf0353
+[Hinata] "Eh? Because human beings are human beings, aren't they? They're not different from Hanbun like Hinata, are they? But you still hate them?"
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+#voice hinf0354
+[Hinata] "Or, Human-san, are you just lying about being a human and are you really a half-elf?"
+
+Hinata seemed a little happy when she heard that.
+
+Oh, I really wish that was the case.
+If that were the case, Hinata wouldn't be alone.
+
+"Unfortunately, I'm not a half-elf."
+
+;CHR H03F2_A C
+#cg ヒナタ hin_1_03f2_a 中
+#wipe fade
+#voice hinf0355
+[Hinata] "I see...is that different?"
+
+"I... I couldn't get along with the people in the village. That's why the mountain hut was set on fire. I was the one who made the people in the village think they should go away."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I am vaguely aware that they don't really think I should go away.
+
+They just don't like that I don't do the same things as other people.
+
+Even if you don't have a mountain hut, if you go back to your village you will still have the house where you were born and raised, and you can still live there.
+
+In reality, it's not like he hates me enough to set the hut on fire, it's just a result of his bad mood.
+
+The underlying idea is that even if the hut is gone, it's okay to go back to the village and live a normal, normal life like everyone else.
+
+They think that no matter how much they abuse and despise things that are foreign to them, they can be forgiven. So you can do that.
+
+;FACE H05F_A
+#face f_hin_0_05f_a 94 466
+
+#voice hinf0356
+[Hinata] "Hinata is disliked because the Shuzoku are so different, but the human beings are the same human beings, so I hope they can get along well."
+
+"Yeah. But I'm good friends with Hinata now, so that's fine."
+
+When I said that, Hinata rolled towards me with a happy look on her face.
+
+;FACE H08F1_A
+#face f_hin_0_08f1_a 94 466
+
+#voice hinf0357
+[Hinata] "That's right! Hinata is good friends with Human-san, so she doesn't feel lonely anymore! Ehehe..."
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinf0358
+[Hinata] "Because of my father's memories...I'm gone, but Human-san has been good friends with me, and Ibara and the others have become good friends."
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hinf0359
+[Hinata] "That Koya was definitely a good Koya. Hinata received a lot of good things from Mr. Human and that Koya."
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hinf0360
+[Hinata] "So, you don't have to think about being lonely or sad! Hinata, Nanashi is no longer all alone!"
+
+"Yeah, that's right."
+
+I gently patted Hinata's head.
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hinf0361
+[Hinata] "Hehehe, it's so warm to have someone caress your head. Hinata, I love being stroked!"
+
+;FACE H01F2_A
+#face f_hin_0_01f2_a 94 466
+
+#voice hinf0362
+[Hinata] "Hey? Can I sleep on your back? Hinata, I want to touch Human-san."
+
+"Ah, okay."
+
+Hinata's small hand and fingers intertwine and connect.
+
+Tokun, tokun, it felt like my hand was beating like my heart.
+
+The full moon is coming soon.
+
+Will I be able to let go of this hand then?
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinf0363
+[Hinata] "Hey, Human-san. Did you sleep?"
+
+"What? I haven't slept yet."
+
+Hinata said fidgeting as she turned to face me.
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinf0364
+[Hinata] "You know...I want you to hug me tightly, not just hold me up."
+
+;選択肢発生
+#select a b
+A: Come on.
+B: I can't sleep.
+
+#label a
+#next dh05a top
+
+#label b
+#next dh05b top
+
+;Ａを選択⇒『dh05a』へジャンプ
+;Ｂを選択⇒『dh05b』へジャンプ

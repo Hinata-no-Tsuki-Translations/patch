@@ -1,0 +1,300 @@
+
+;※アイキャッチ
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG43_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg43_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+;背景：花畑（昼）
+;BG:BG11_1
+#cg all clear
+#bg BG11_1
+#wipe fade
+
+"...I see, there doesn't seem to be any regularity, but are there actually fruits? Flowers of the same species grow in clusters."
+
+;CHR H04F1_A C
+#cg ヒナタ hin_1_04f1_a 中
+#wipe fade
+#voice hinf0292
+[Hinata] "Oh, I see..."
+
+"Hmm? Did Hinata find out something too?"
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0293
+[Hinata] “I now know that Ohana is beautiful!”
+
+"Haha, that might be the most important thing."
+
+;CHR H05F_A C
+#cg ヒナタ hin_1_05f_a 中
+#wipe fade
+#voice hinf0294
+[Hinata] “Also, there are some types of honey that are delicious and some that are not.”
+
+"Ah, that's right. Come to think of it, there are some types of honey that are delicious and some are not, but I wonder if the species that bees find delicious and the species that humans find delicious are different."
+
+;CHR H04F1_A C
+#cg ヒナタ hin_1_04f1_a 中
+#wipe fade
+#voice hinf0295
+[Hinata] "Huh? Hinata is telling the story of Ohana no Mitsuno."
+
+“Ah, honey is made from the nectar that bees collect from flowers.The reason why it tastes different may be because the flowers it collects are different.”
+
+;CHR H02F2_A C
+#cg ヒナタ hin_1_02f2_a 中
+#wipe fade
+#voice hinf0296
+[Hinata] "Oh, ho... Hachi-san is going to leave behind all the hard work he's done to collect them. It's so cute."
+
+"...Ah, I hadn't thought of that, but maybe that's the case."
+
+;CHR H02F1_A C
+#cg ヒナタ hin_1_02f1_a 中
+#wipe fade
+#voice hinf0297
+[Hinata] "But how do I get honey from Hachi-san? Isn't that what happens when you try to play a prank on Hachi-san? You get pushed!?"
+
+“Well, it’s a lot of things. Things like smoking.”
+
+;CHR H06F1_A C
+#cg ヒナタ hin_1_06f1_a 中
+#wipe fade
+#voice hinf0298
+[Hinata] "Wow!? Hiaburi!? I feel sorry for Hachi!?"
+
+“It seems like they continue to collect honey, so in that case, it wouldn’t necessarily be roasting.”
+
+;CHR H03F2_A C
+#cg ヒナタ hin_1_03f2_a 中
+#wipe fade
+#voice hinf0299
+[Hinata] “Ningen-san is doing a great job.”
+
+"Well, maybe so."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（夕）
+;BG:BG04_2
+#cg all clear
+#bg BG04_2
+#wipe fade
+
+I was spending my days with Hinata while investigating the records left behind by the natives.
+
+...For the time being, I plan to return Hinata to the elf village on the full moon.
+
+No matter how oppressed Hinata was in the elf village, the elf world was probably better for Hinata than being in the human world.
+
+Hinata will probably live much longer than me.
+
+If the barrier opens during the lunar eclipse, I could stay with you until my death approaches, but that's only possible if you know when the lunar eclipse will occur.
+
+Native... When Hinata's father sent Hinata to the elf village, it was written that a lunar eclipse happened to occur.
+
+There's no guarantee that such a coincidence will happen to me.
+
+If I die first while waiting for the lunar eclipse, which I don't know when it will occur, I wonder what will happen to Hinata after that.
+
+If after I die, I'll be found by an elf hunter and sold to a rich man...or there's a possibility that I'll be found by someone who hates elves.
+
+Rich people are all perverts.
+
+There may be people who buy elves to oppress them.
+
+Slaves bought with money will not be treated badly. Similarly, it's hard to imagine that an elf bought with money would be cared for.
+
+Moreover, as you can see from the people in the village where I lived, there are quite a few who abhor anything that resembles humans but is not.
+
+If those people found out about Hinata, they would definitely be treated badly.
+
+If that's the case, I'd better get Hinata back to the elf village before the next full moon, when I know the barrier is still open.
+
+It's a little lonely, but it's better than leaving Hinata behind in the human world, knowing it will hurt her.
+
+Come to think of it, did I mention that the barrier road is getting narrower?
+
+If that's the case, I guess it would be better to get Hinata back as soon as possible, but I couldn't make that kind of decision between me and my feelings of regretting the days we spent together.
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0300
+[Hinata] "Ninegaen-san, your morning was beautiful! Hinata's daily battle with Hanabatake would be great."
+
+Hinata is happily clinging to my arm.
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0301
+[Hinata] "Well then, Hinata, I'll be helping you make food for Mr. Human again!"
+
+"Yes, thank you"
+
+While talking about this, we returned to the mountain hut and what we saw was...
+
+;CHR H04F2_A C
+#cg ヒナタ hin_1_04f2_a 中
+#wipe fade
+#voice hinf0302
+[Hinata] "Huh? It looks like Koya's side is brighter."
+
+#bgm 0 stop
+#bgvoice stop
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 032 PLAY
+#label replay032
+#setscene 31
+#bg BG04_2
+
+;ＥＶ絵――EV???『燃え盛る山小屋』
+;EVCG EV036A1
+;#face off
+
+
+#cg イベント ev036a1 背景
+#wipe fade
+
+;このイベント中、ヒナタフェイス表示なし
+
+We were speechless.
+
+The hut... is on fire! ?
+
+Perhaps the fire had just been started, and the flames rising were still small...but they were gradually beginning to engulf the entire hut.
+
+"...Oh, there's a book. There."
+
+I panicked and tried to jump into the hut, but it was already impossible to get into the hut.
+
+It seems like it will take some time for the hut to burn down, but there is no way I can get inside.
+
+"...W-Water. Water..."
+
+He fetches water from the stream behind him and pours it toward the hut.
+
+However, there was no way the fire could be subdued by that much water, and I stood there dumbfounded.
+
+We are lucky that there are no trees around us and there is no wind today, so it looks like we will manage to avoid a forest fire.
+
+The only thing left to do is to sit back and watch until the hut burns down.
+
+#voice hinf0303
+[Hinata] “Koya is burning, Human-san.”
+
+Hinata, who was stunned, finally muttered.
+
+"That's right..."
+
+#voice hinf0304
+[Hinata] "Why... is it burning?"
+
+Did you fail to put out the fire?
+
+No, it feels like the hut is burning from the outside, not the inside.
+
+...If so, did someone start the fire?
+
+Thinking that far, I was relieved.
+
+They're from the village.
+
+It must be so.
+
+Of course, setting the hut on fire is something that animals cannot do, so there is no doubt that it was the work of humans.
+
+...Damn, it's their doing.
+
+You've come this far.
+
+Books and other things are expensive, and even more valuable than that, but this is why people who don't understand the value of things do...!
+
+There's nothing I can do to regain what is lost even if I grit my teeth.
+
+It was a shame that all I could do was put my finger in my mouth.
+
+Eventually, the flames licked the hut with their red tongues, and the sparks rose high and high.
+
+#voice hinf0305
+[Hinata] "It's going to burn, it's going to burn...Koya's going to burn. Even with my father's memories, everyone's going to burn."
+
+Hinata's face distorted.
+
+#voice hinf0306
+[Hinata] "Oh no! All of Hinata's signs that her father liked her are showing up!"
+
+"Hinata!?"
+
+Suddenly Hinata tried to run towards the still burning hut.
+
+#endscene
+
+I hurriedly grabbed Hinata's arm.
+
+;選択肢発生
+#select a b
+A: Wait
+B: It can't be helped.
+
+#label a
+#next dh04a top
+
+#label b
+#next dh04b top
+
+;Ａを選択⇒『dh04a』へジャンプ
+;Ｂを選択⇒『dh04b』へジャンプ

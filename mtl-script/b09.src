@@ -1,0 +1,623 @@
+
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG39_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg39_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+;MCK1023夜→昼に修正
+;BGMch2 amb003 再生
+#bgvoice amb003
+;背景：山小屋（昼）
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0696
+[Ibara] "Hey, human. Be careful not to let any light leak outside for a while."
+
+“What happened all of a sudden?”
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibab0697
+[Ibara] "Moonless nights will soon begin, right? After the moon is eaten by wolves, the nights in Tsukigakure are dangerous."
+
+"I guess Tsukigakure no Yoru means the new moon?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+The moon is eaten by a wolf. This has been said about lunar eclipses for a long time.
+
+A wolf constantly chases the moon, and when it catches up with the moon, it eats it and turns the night into complete darkness.
+
+It is said that they try to eat humans when it gets dark.
+
+At that time, various monsters other than wolves are aiming to eat humans.
+
+Therefore, since ancient times, humans have tried to make the moon vomit out of it by making noise, praying, and doing various other things.
+
+However, research has now shown that this does not seem to be the case.
+
+Whether there is a lunar eclipse or a solar eclipse, the world's twilight will never come.
+
+Lunar eclipses and solar eclipses are rare, but if the world were to end due to these events, they are so common that the world has already ended many times.
+
+However, for those who don't know this, lunar eclipses are still believed to be when a wolf ate the moon.
+
+The moon is a member of the family of stars, and stars are lumps of ground that seem to be enormous in size. There's no way a wolf that size exists, and if there were, they wouldn't go out of their way to eat humans.
+
+Even if you think about it proportionately, I don't think a creature that big would be satisfied with just eating a human.
+
+There's no way there's a wolf that big.
+
+Come to think of it, it's almost half a month since the lunar eclipse--the day the Elf's barrier was apparently broken.
+
+“What do you mean it’s dangerous?”
+
+If you mean that walking at night without a moon is dangerous, then you don't have to go outside.
+
+However, it seems like something really happened to prevent the light from leaking outside.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibab0698
+[Ibara] "After the moon is eaten by wolves, the boundaries between various things become blurred until a new moon appears. Like an elf barrier."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0699
+[Ibara] "That's why humans and demons and monsters are more likely to come into contact with each other during the new moon. Humans in particular tend to get confused because they live in a place like this and spend time with us."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibab0700
+[Ibara] "Night is originally a descendant of darkness, but the moonlight still protects living things. However, on the night of Tsukigakure, when the moonlight is at its weakest, no light reaches the ground."
+
+"Ibara is worried about me, isn't he?"
+
+Ibara couldn't help but chuckle and blushed brightly.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibab0701
+[Ibara] "No one's worried! I've decided that I will defeat the humans! That means I won't get hurt easily!"
+
+"Thank you, Ibara."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibab0702
+[Ibara] "Don't say thank you! Hmph!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SE se013 扉のバタン音
+#se 1 se013
+
+Ibara must have been embarrassed, so he snorted and left.
+
+#mes clear
+#wait 1000
+
+;暗転
+;#face off
+
+;MCK
+#cg all clear
+#bg black
+#wipe fade
+#bgvoice stop 4000
+#wait 4000
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+;背景：山小屋（夕・夜）
+
+;背景：山小屋（夜）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+#wait 1000
+
+"...Ugh, it got completely dark after I took a nap."
+
+I went out for a walk and came back, and when I went to lie down with the intention of taking a break, it seems that I completely fell asleep.
+
+As Ibara told me, I reinforced the hut so that the light wouldn't leak out at night, so if I wanted to make it dark even during the day, it would be dark.
+
+"However, if I'm sleeping, they might come and wake me up... ah."
+
+
+;ＥＶ絵――EV029『みんなでおやすみ』
+
+;SMODE 026 PLAY
+#label replay026
+#setscene 25
+;#bg BG07b_1
+
+;背景：山小屋（夜）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+When I looked over, it seemed like everyone was taking a nap, not just me.
+
+#wait 1000
+#bgvoice stop 1000
+#mes clear
+
+;MCK
+;BGMch2 bgm013 再生
+#bgm 0 13
+;オルゴール
+
+;EVCG EV029A1『みんなでおやすみ』
+#face off
+#cg all clear
+#cg イベント ev029a1_2 背景
+#wipe fade
+
+#voice hinb0575
+[Hinata] "Hmm, mumble..."
+
+#voice ibab0703
+[Ibara] "Hmm..."
+
+#voice konb0569
+[Konomi] "Hehe... Nyuu..."
+
+#voice tikb0620
+[Tsukiyo] "Soooo..."
+
+Each of them was sleeping comfortably.
+
+It might have been a little cold to see them huddled together.
+
+"I can't help it..."
+
+I wrapped a blanket over the four people who seemed to be sleeping comfortably, but there was no sign of them waking up.
+
+She's really cute when she sleeps.
+
+Well, she's always cute, but it's a peaceful time where the daily frenzy feels like a lie.
+
+When I look at Hinata and the others' sleeping faces, I can't help but feel emotional.
+
+The noisy life that came to me unexpectedly... wasn't so bad. In fact, it was fun.
+
+I had no choice but to be patient and accept these children for a while, but now that I think back on it, I feel like it's a shame that we have until the next full moon.
+
+Today is the new moon. This means that my life with these children has already reached the halfway point.
+
+Even without such a breakup, nothing lasts forever.
+
+However, I feel like the days are too short as I can count down the days until the next full moon.
+
+If the lifespans of elves and humans are different, then once they are separated, they will probably never see each other again.
+
+I felt like I was praying to no one else, I just wish they would let me stay like this for a little while longer.
+
+#bgm 0 stop 2000
+
+;SMODE 026 STOP
+#endscene
+
+;背景：山小屋（夜）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+;背景：山小屋（夕・夜）
+
+#wait 1000
+
+"Well...maybe because I slept at an odd time, my eyes are clearer. Would you like some tea?"
+
+As soon as I sat up to boil the water.
+
+;SE
+
+;オークたち
+
+[? ? ? ] “Voaaaaaaaaaaaaaaa…”
+
+A voice that sounded like a scream could be heard from a distance. Moreover, it sounds like multiple voices are intertwined.
+
+;SE
+
+;？？？
+[? ? ? ] “Gyaun!”
+
+The roar of a wild dog, which resembles a scream, sometimes mixes with the growling sounds.
+
+It was a very harsh sound.
+
+"……what's this"
+
+The voice seemed to be getting closer and closer.
+
+I hurriedly stuck to the wall and searched for any sign outside.
+
+;SE
+
+;オークたち
+
+[? ? ? ] “Vaaaaaaaaaaaaaaa…”
+
+A low, horrifying growl and the sound of a branch being crushed. The sound of something heavy being pulled down.
+
+Something is coming closer.
+
+;CHR H04F2_A C
+#cg ヒナタ hin_1_04f2_a 中
+#wipe fade
+
+#voice hinb0576
+[Hinata] “Munya?”
+
+"Ah, you woke up?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibab0704
+[Ibara] “Huh!?”
+
+;CHR T02F R
+#cg ツキヨ tuk_1_02f 右
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tikb0621
+[Tsukiyo] "This voice..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konb0570
+[Konomi] “Yes, it looks like a demon.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H04F2_A C
+#cg ヒナタ hin_1_04f2_a 中
+#wipe fade
+
+#voice hinb0577
+[Hinata] “Mazoku!?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibab0705
+[Ibara] "Shh! Be quiet!"
+
+Hinata hurriedly covered her mouth at Ibara's scolding.
+
+;立ち絵なし
+;FACE H06F1_A
+
+#voice hinb0578
+[Hinata] "Mo...mogomogo..."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibab0706
+[Ibara] "Don't turn on the lights as much as possible, they'll find you."
+
+"Ah, ah..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;背景　小屋内（夜）
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+I turned off most of the lights in the room, lit only a small candle, and gathered around it.
+
+"A demon...what exactly is it?"
+
+;MCK1023
+;BGMch2 bgm010 再生
+#bgm 0 10
+;オークのテーマ
+
+Orcs, ogres, goblins, trolls, kobolds, dwarves, and Beowolves are just like elves, and are no more than folklore.
+
+There are rumors that people who died suspiciously in the mountains were attacked by orcs, but many of them were probably attacked by wild animals.
+
+The fact that I actually saw it is just a joke at a drinking table.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice ibab0707
+[Ibara] "No matter how much we know about that, we only know a part of it. But I do know that there are people who can understand the story and people who can't understand it."
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konb0571
+[Konomi] "If it's an orc, it's much bigger than Human-kun, and if there were a few of them, this hut would be flattened."
+
+“Pe…!?”
+
+Konomi spoke in a laid-back manner, but I was shocked at what he said.
+
+"W-what should I do?"
+
+;CHR K02F2 R
+#cg コノミ kon_1_02f2 右
+#wipe fade
+
+#voice konb0572
+[Konomi] "If it seems like it's coming near you, you can only hope that it will pass by."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibab0708
+[Ibara] "If this is an orc, they prefer violence and slaughter without any questions asked. In a simple sense, they are much more dangerous than humans."
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+
+#voice tikb0622
+[Tsukiyo] "I-I'm going to die..."
+
+"How do I know if this is an orc or not?"
+
+;CHR K05F R
+#cg コノミ kon_1_05f 右
+#wipe fade
+
+#voice konb0573
+[Konomi] "You'll understand if you look at it, right? It looks just like the one depicted in the book that Human-kun had."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0623
+[Tsukiyo] “This is this book.”
+
+Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Indeed, what was drawn there was a strange monster with a hideous appearance...
+
+"How can I avoid this place?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice konb0574
+[Konomi] "Come on‾"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+
+#voice ibab0709
+[Ibara] “If there was such a method, I would have already tried it.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tikb0624
+[Tsukiyo] “Here, there is a spell written to avoid orcs.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konb0575
+[Konomi] “But I have to go outside to write this on the hut.”
+
+“Besides, it will take quite a while to make something like this...I guess everything will be fine.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Even if I stay in my hut and hold my breath, if they get their way, the hut could be destroyed, right?
+
+Unpleasant sweat is pouring out from all over my body.
+
+"I'll take a look."
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+
+#voice hinb0579
+[Hinata] “Wow!?”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+
+#voice ibab0710
+[Ibara] "Ah, hey! Human!"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+
+#voice konb0576
+[Konomi] "Be careful‾"
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+
+#voice tikb0625
+[Tsukiyo] "Hawawawawa..."
+
+;BGMch2 amb004 停止
+#bgvoice stop
+
+;BGMch2 amb002 再生
+#bgvoice amb002
+
+;背景：山小屋外（夜）
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+I went outside anyway, but the wind was strong today, and I couldn't tell with human ears where that roaring sound was coming from.
+
+It would be fine if I could just hear voices from far away...
+
+In the darkness of the night, where you can't even rely on moonlight, you feel like you'll lose your bearings after taking just a few steps.
+
+...Would you like to turn on the light?
+
+No, it's like asking me to find it from here.
+
+;SE se014 鳥の鳴き声
+#se 1 se014
+
+While I was wondering, I heard the sound of someone stepping on a branch nearby, and a fishy smell wafted in the air.
+
+There is a light trying to pass by the back side of the hut. I could see it from here because of the lights the other side had on.
+
+...It's an orc!
+
+;・好感度判定発生
+;Ａ：ヒナタが好感度3以上で一番高い
+;Ｂ：イバラが好感度3以上で一番高い
+;Ｃ：コノミが好感度3以上で一番高い
+;Ｄ：ツキヨが好感度3以上で一番高い
+;Ｅ：好感度3以上のキャラがいない
+
+;Ａ⇒『b09h』へジャンプ
+;Ｂ⇒『b09i』へジャンプ
+;Ｃ⇒『b09k』へジャンプ
+;Ｄ⇒『b09t』へジャンプ
+;Ｅ⇒『bbadend』へジャンプ"
+
+#if f1>=4 b09h:
+#if f2>=4 b09i:
+#if f3>=4 b09k:
+#if f4>=4 b09t:
+
+#if f1>=3 b09h:
+#if f4>=3 b09t:
+#if f3>=3 b09k:
+#if f2>=3 b09i:
+
+#next bbadend
