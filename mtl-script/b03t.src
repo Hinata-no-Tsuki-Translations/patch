@@ -1,8 +1,8 @@
 
 
 
-;Background: Mountain hut (evening) => noon
-;b03Continue
+;背景：山小屋（夕）=>昼
+;b03引き続き
 
 The first thing that came to mind was Tsukiyo.
 
@@ -11,7 +11,7 @@ That surprised and happy look on his face when he ate the candy. Even thinking a
 If I can make that kind of face with the sweets I made, I think I'll feel even happier.
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -31,7 +31,7 @@ Just as I was thinking about Tsukiyo, Tsukiyo appeared.
 I immediately picked up some baked sweets and handed them to her, and Tsukiyo hesitated for a moment before closing her eyes and opening her mouth. Double teeth that look like fangs peek out.
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -48,7 +48,7 @@ A joy that warms my heart wells up.
 I fed Tsukiyo some sweets.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -61,7 +61,7 @@ Tsukiyo is chewing with a serious look on her face. His expression changed to on
 "What do you think? I thought I did pretty well."
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -74,7 +74,7 @@ After letting out a small purr, Tsukiyo smiled happily. He seemed to like it ver
 "I see. Good."
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -85,7 +85,7 @@ After letting out a small purr, Tsukiyo smiled happily. He seemed to like it ver
 Tsukiyo looked at the baked sweets with regret.
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -96,7 +96,7 @@ Tsukiyo looked at the baked sweets with regret.
 "Huh? Why? You can eat more."
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -109,7 +109,7 @@ Tsukiyo looked at the baked sweets with regret.
 "That's not what I meant. You can eat as much as you want if you like."
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -120,7 +120,7 @@ Tsukiyo looked at the baked sweets with regret.
 Tsukiyo smiled very happily, put the candy in her mouth, and then reached out her hand.
 
 ;MCK
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 #se 1 se013
 #wait 1000
 
@@ -133,7 +133,7 @@ Tsukiyo smiled very happily, put the candy in her mouth, and then reached out he
 Ibara came back and looked at him.
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -155,7 +155,7 @@ Ibara slowly approached us and began questioning us with furious force.
 "It's because Tsukiyo came back first. If you don't mind, don't eat Ibara either."
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0267
@@ -168,9 +168,9 @@ As Ibara pouted as usual, Hinata and Konomi returned one after another.
 #wipe fade
 
 ;CHR H01F1 L
-#cg Hinata hin_1_01f1 left
+#cg ヒナタ hin_1_01f1 左
 ;CHR K02F1 R
-#cg Konomi kon_1_02f1 Right
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice hinb0281
@@ -188,7 +188,7 @@ While Hinata and the others were just looking at them with interest, Tsukiyo tim
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -201,9 +201,9 @@ While Hinata and the others were just looking at them with interest, Tsukiyo tim
 #wipe fade
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 ;CHR H01F1 R
-#cg Hinata hin_1_01f1 right
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice ibab0268
@@ -212,15 +212,15 @@ While Hinata and the others were just looking at them with interest, Tsukiyo tim
 #voice hinb0282
 [Hinata] “Hinata eats too!”
 
-;No voice below
-;Konomi: "Me too‾"
+;下記ボイスなし
+;コノミ:「ボクも〜」
 
 Ibara reached out his hand first, and the other hands also reached out as if competing to take the lead.
 
 "Oh, wait a minute. I'm getting thirsty after eating that much, so let's make some tea."
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0269
@@ -235,14 +235,14 @@ Ibara reached out his hand first, and the other hands also reached out as if com
 Even while making tea for everyone, there was a big fuss over who took the tea and who didn't.
 
 ;CHR H08F1 R
-#cg Hinata hin_1_08f1 right
+#cg ヒナタ hin_1_08f1 右
 #wipe fade
 
 #voice hinb0283
 [Hinata] "Amu... so sweet! Delicious! If it's funny, Hinata can eat a lot! Hug, hag..."
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0270
@@ -253,14 +253,14 @@ Even while making tea for everyone, there was a big fuss over who took the tea a
 #wipe fade
 
 ;CHR K04F R
-#cg Konomi kon_1_04f Right
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0278
 [Konomi] “Hehehe, you eat a lot of those kinds of thorns.”
 
 ;CHR I11F2 L
-#cg Ibara iba_1_11f2 left
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0271
@@ -270,14 +270,14 @@ Even while making tea for everyone, there was a big fuss over who took the tea a
 [Konomi] "Then, let's eat a lot too‾Paku...Nfufu‾"
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0272
 [Ibara] "Ah...why, why do you have so many hands full!"
 
 ;CHR K02F1 R
-#cg Konomi kon_1_02f1 Right
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0280
@@ -288,7 +288,7 @@ Even while making tea for everyone, there was a big fuss over who took the tea a
 #wipe fade
 
 ;CHR H01F1 R
-#cg Hinata hin_1_01f1 right
+#cg ヒナタ hin_1_01f1 右
 #wipe fade
 
 #voice hinb0284
@@ -309,14 +309,14 @@ Even while making tea for everyone, there was a big fuss over who took the tea a
 While Hinata and Ibara are making a fuss as if they are competing for something, Tsukiyo is also boldly reaching out, but it seems like he is having a hard time securing his share.
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0273
 [Ibara] "That's what the tea is for, right? Here, another helping!"
 
 ;CHR H07F R
-#cg Hinata hin_1_07f right
+#cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hinb0285
@@ -331,21 +331,21 @@ However, as the creator, I'm happy that Hinata and the others are eating well, b
 #wipe fade
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0274
 [Ibara] “I’m not that stupid!”
 
 ;CHR K02F2 R
-#cg Konomi kon_1_02f2 Right
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0281
 [Konomi] “Ibara‾ Is there food crumbs at the corner of your mouth?”
 
 ;CHR I09F L
-#cg Ibara iba_1_09f left
+#cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0275
@@ -356,7 +356,7 @@ However, as the creator, I'm happy that Hinata and the others are eating well, b
 #wipe fade
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -375,7 +375,7 @@ I gently pulled on Tsukiyo's clothes without the others noticing.
 "Here, be quiet."
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -392,7 +392,7 @@ If it becomes a battle for Tsukiyo, he will lose to Hinata and Ibara's momentum.
 Considering that, it seems like a wise strategy to secure it separately like Konomi.
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -413,7 +413,7 @@ Fortunately, she doesn't seem to be paying attention to what she's baking right 
 Tsukiyo shook her head at my words.
 
 ;CHR T10F2 C
-#cg Tsukiyo tuk_1_10f2 medium
+#cg ツキヨ tuk_1_10f2 中
 #wipe fade
 #face f_tuk_0_10f2 94 466
 ;TKface
@@ -424,7 +424,7 @@ Tsukiyo shook her head at my words.
 "Huh? You don't mean tomorrow's snack, you mean forever?"
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -439,7 +439,7 @@ Tsukiyo nods, her eyes serious.
 I've never thought about saving sweets, so I don't know, but they might get moldy or rot.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -450,7 +450,7 @@ I've never thought about saving sweets, so I don't know, but they might get mold
 "Yeah, I guess it's better to eat sweets while they're still delicious."
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -505,7 +505,7 @@ Ibara and the others' attention immediately turned to the sweets, and they seeme
 I called out to Tsukiyo, who was still bowing her head.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -518,7 +518,7 @@ I called out to Tsukiyo, who was still bowing her head.
 "Ah. Even if we don't have to fight, it's Tsukiyo's share. So don't worry. Konomi does the same, right?"
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -531,7 +531,7 @@ Tsukiyo was about to bring the sweets to her mouth, but stopped halfway and look
 "Hmm? What?"
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -546,10 +546,10 @@ Tsukiyo was about to bring the sweets to her mouth, but stopped halfway and look
 
 Tsukiyo smiled and slowly ate the sweets I baked, as if they were important.
 
-;BGMch2 amb003 stop
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
@@ -561,12 +561,12 @@ Tsukiyo smiled and slowly ate the sweets I baked, as if they were important.
 #bg BG08b_1
 #wipe fade
 
-;Date change
+;日付変更
 
-;BGMch2 amb003 Play
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;Background: Mountain hut (morning) => noon
+;背景：山小屋（朝）=> 昼
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -577,7 +577,7 @@ Tsukiyo smiled and slowly ate the sweets I baked, as if they were important.
 #setscene 14
 #bg BG07b_1
 
-#cg event ev017a1 background
+#cg イベント ev017a1 背景
 #wipe fade
 
 The next day, I went out for a while and when I came back, I found Tsukiyo in the hut.
@@ -601,7 +601,7 @@ While I was wondering what to say, I peeked behind me and saw that what I was dr
 
 Ibara and Hinata are probably human-like. I know this because they are somehow similar.
 
-#cg event ev017a2 background
+#cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0254
@@ -621,7 +621,7 @@ If that happens, I can't just get angry...
 #voice tikb0256
 [Tsukiyo] "I wanted to write, but I can't write. So I drew a picture."
 
-#cg event ev017a1 background
+#cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0257
@@ -631,7 +631,7 @@ If that happens, I can't just get angry...
 
 "What did you draw this?"
 
-#cg event ev017a2 background
+#cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0258
@@ -660,7 +660,7 @@ If that's the case, I shouldn't have thought it was a prank and suddenly gotten 
 
 "...I see. Well then, I'll write the letters."
 
-#cg event ev017a2 background
+#cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0262
@@ -677,7 +677,7 @@ Tsukiyo looks happy as she looks over her notebook over and over again.
 
 "Tsukiyo is good at drawing. Come to think of it, I think he's also quite skillful at making handicrafts."
 
-#cg event ev017a1 background
+#cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0264
@@ -696,7 +696,7 @@ Ah, I didn't mean to make you feel depressed.
 
 "So, I have a request for you, Tsukiyo... I might ask you to draw a picture for me, is that okay?"
 
-#cg event ev017a2 background
+#cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0266
@@ -704,7 +704,7 @@ Ah, I didn't mean to make you feel depressed.
 
 "I'm pretty good at crafts, but Tsukiyo seems to be better at drawing. Wouldn't it be easier to understand if there were pictures in the book?"
 
-#cg event ev017a1 background
+#cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0267
@@ -718,7 +718,7 @@ Even if the people in question are serious, they can't let this go to waste.
 
 It would be a problem if they were used in competition.
 
-#cg event ev017a3 background
+#cg イベント ev017a3 背景
 #wipe fade
 
 #voice tikb0268
@@ -732,8 +732,8 @@ I put my finger in front of my lips and made a secret gesture, and Tsukiyo imita
 ;SMODE 015 STOP
 #endscene
 
-;Tsukiyo favorability +1
+;ツキヨ好感度+1
 #set f4 f4+1
 
-;b04
+;b04へ
 #next b04
