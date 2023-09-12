@@ -704,57 +704,57 @@ The meek Hinata showed me the powder in his hand that had impossible stickiness.
 
 ;===カット位置 START
 
-;「……それ、何と何が入ってる？」
+;「...That, what is it made of?」
 
 ;#voice hinb0254
-;【ヒナタ】「んとね。きのうニンゲンさんがとうめいでとろっとしたのいれてたから、おそとできとかからあつめてきたの！」
+;【Hinata】「Nnto-ne. Yesterday Human-san put in something transparent and thick, so I gathered some from the tree outside!」
 
-;透明でとろって蜜のことか、油のことか……。
+;Something transparent and viscous, is it honey, or is it oil....
 
-;「どの木？」
+;「Which tree?」
 
 ;#voice hinb0255
-;【ヒナタ】「ぐにゃーんってなってるやつ！」
+;【Hinata】「The one that's squishy!」
 
 ;===カット位置 STOP
 
-「...That, what is it made of?」
+...That is not honey or oil, isn't it tree sap.
 
-【Hinata】「Nnto-ne. Yesterday Human-san put in something transparent and thick, so I gathered some from the tree outside!」
+「Hinata... it's too bad, that can't be eaten」
 
 ;===カット位置 START
 
 ;#voice hinb0256
-;【ヒナタ】「ほえぇえええ！？」
+;【Hinata】「Hueeeeeeeeee!?」
 
 ;===カット位置 STOP
 
-Something transparent and viscous, is it honey, or is it oil....
+「What I put in yesterday was boiled nectar from flowers and oil extracted from Oil Beans, and not the sap from a tree」
 
 ;===カット位置 START
 
 ;#voice hinb0257
-;【ヒナタ】「ヒナタまちがえちゃったの！？」
+;【Hinata】「Hinata made a mistake?」
 
-;「うん。人間はエルフよりずっと色んなものを食べるみたいだけど、食べられないものも沢山あるからね」
+;「Yep. Humans seem to eat more kinds of things than elves,, but there are many things that we can't eat.」
 
 ;===カット位置 STOP
 
 #voice hinb0258
-「Which tree?」
+【Hinata】「Although Hinata took the effort to make it-」
 
-【Hinata】「The one that's squishy!」
+Even if Hinata sulks, I can't eat such a terrifying thing.
 
 ;EVCG EV016A1
 #cg イベント ev016a1 背景
 #wipe fade
 
 #voice hinb0259
-...That is not honey or oil, isn't it tree sap.
+【Hinata】「Wawaa, a lot of it is stuck to my hand!」
 
-「Hinata... it's too bad, that can't be eaten」
+「Of course, it's tree sap」
 
-【Hinata】「Hueeeeeeeeee!?」
+Good grief, it's become difficult to handle.
 
 ;暗転
 ;#face off
@@ -772,82 +772,83 @@ Something transparent and viscous, is it honey, or is it oil....
 #bg BG07b_1
 #wipe fade
 
-「What I put in yesterday was boiled nectar from flowers and oil extracted from Oil Beans, and not the sap from a tree」
+After I managed to somehow get Hinata's hands cleaned, and tidied up the hut briefly, Hinata droops his shoulders in disapppointment.
 
 ;CHR H02F1 C
 #cg ヒナタ hin_1_02f1 中
 #wipe fade
 
 #voice hinb0260
-【Hinata】「Hinata made a mistake?」
+【Hinata】「Hinata wanted Human-san to eat something delicious」
 
-「Yep. Humans seem to eat more kinds of things than elves,, but there are many things that we can't eat.」
+「Just your feelings is enough」
 
-【Hinata】「Although Hinata took the effort to make it-」
+I say sincerely and pat Hinata's head.
 
 ;CHR H01F2 C
 #cg ヒナタ hin_1_01f2 中
 #wipe fade
 
 #voice hinb0261
-Even if Hinata sulks, I can't eat such a terrifying thing.
-
-【Hinata】「Wawaa, a lot of it is stuck to my hand!」
-
-「Of course, it's tree sap」
-
-#voice hinb0262
-Good grief, it's become difficult to handle.
-
-After I managed to somehow get Hinata's hands cleaned, and tidied up the hut briefly, Hinata droops his shoulders in disapppointment.
-
-【Hinata】「Hinata wanted Human-san to eat something delicious」
-
-「Just your feelings is enough」
-
-;CHR H07F C
-#cg ヒナタ hin_1_07f 中
-#wipe fade
-
-#voice hinb0263
-I say sincerely and pat Hinata's head.
-
 【Hinata】「Eheheー」
 
 Hinata's eyes narrowed as I stroke his head.
 
 「But food is precious, so please don't touch it from now on. I'm counting on you.」
 
-#voice hinb0264
+#voice hinb0262
 【Hinata】「Okay! Hinata wanted to surprise Human-san」
 
 「I was surprised indeed. Surprised in a different meaning...」
+
+Elves fundamentally don't eat, so they can't distinguish between the edible and inedible, surely.
+
+「I've said it before, but humans have things that can be eaten and things that cannot, I'll be glad if you can remember that well」
+
+;CHR H07F C
+#cg ヒナタ hin_1_07f 中
+#wipe fade
+
+#voice hinb0263
+【Hinata】「Okay, I understand!」
+
+At least his reply is energetic, but anyway...
+
+「In that case, could you help me collect hazelnuts next time? I added a lot in yesterday's pastries but it's hard to gather them.」
+
+Yesterday's portion had been bought, but according to the book left in this hut, there should be a little growing around here.
+
+#voice hinb0264
+【Hinata】「Hazelnuts! I got it! I'll try to collect lots!」
+
+「Good boy, I'm counting on you. Since the nuts last a long time, it'll be helpful if you can collect more.」
 
 ;CHR H05F C
 #cg ヒナタ hin_1_05f 中
 #wipe fade
 
 #voice hinb0265
-Elves fundamentally don't eat, so they can't distinguish between the edible and inedible, surely.
-「I've said it before, but humans have things that can be eaten and things that cannot, I'll be glad if you can remember that well」
+【Hinata】「It'll help Human-san? Human-san will be happy?」
+「Yeah」
 
 ;CHR H08F1 C
 #cg ヒナタ hin_1_08f1 中
 #wipe fade
 
 #voice hinb0266
-【Hinata】「Okay, I understand!」
+【Hinata】「Hinata will do his bestest!」
 
-At least his reply is energetic, but anyway...
+「And Hinata, if you want to eat sweets again, could you head to the nearest village and stock up on the ingredients for sweets again?」
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
 #voice hinb0267
-「In that case, could you help me collect hazelnuts next time? I added a lot in yesterday's pastries but it's hard to gather them.」
 
-Yesterday's portion had been bought, but according to the book left in this hut, there should be a little growing around here.
+【Hinata】「Yesー!」
+
+Well, it seems Hinata wanted to please me. His feelings alone made me genuinely happy.
 
 ;MCK1023
 #face off
