@@ -19,9 +19,8 @@ Link: [Fuwanovel Forum](https://forums.fuwanovel.net/topic/24935-hinata-no-tsuki
 - script :  text and dialogue of story, code commands begin line with `#` and comments begin line with `;`
 - system :  visual novel engine code files
 - text :  a sort of labelling/reference name for resources
-- update patch :  non-script files from update patch to be released in patch.xp3
-
-Other folders are code snippets to do what I require. With documentation in their respective folders. 
+- update patch :  non-script files from update patch to be released together with translated files in patch.xp3
+- utils: code snippets to do what I require. With documentation in their respective folders. 
 
 ## Changes: 
 - UI images translated
