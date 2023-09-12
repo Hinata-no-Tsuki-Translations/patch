@@ -4,11 +4,11 @@
 ;背景：山小屋（夕）=>昼
 ;b03引き続き
 
-最初に思い浮かんだのはツキヨだった。
+The first thing that came to mind was Tsukiyo.
 
-飴を食べた時の、あの驚き方と幸せそうな顔。今思い出しても幸せな気分になる。
+I recall the surprised and happy look on his face when he tried candy. Even now, that thought makes me blissful.
 
-俺が作ったお菓子であんな顔をさせることが出来たら、もっと幸せな気分が味わえそうだ。
+If he can make that kind of face from the sweets I make, I think I'll feel even happier.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -17,18 +17,18 @@
 ;TKface
 
 #voice tikb0229
-【ツキヨ】「にこにこ、してるです」
+[Tsukiyo] "You're grinning."
 
-ツキヨのことを考えていたら、ちょうどツキヨが顔を出した。
+Just as I was thinking about him, he appeared.
 
-「お、戻ってきたのか」
+"Oh, you're back?"
 
 #voice tikb0230
-【ツキヨ】「はい、です」
+[Tsukiyo] "Yes."
 
-「じゃ、よかったら、これひとつ食べてみない？」
+"Then, if you don’t mind, would you like to try one of these?"
 
-さっそく焼きあがったお菓子をつまんで差し出すと、ツキヨは一瞬躊躇ったあと、目を閉じて口を開いた。かすかに牙みたいな八重歯が覗く。
+I immediately picked up some baked sweets and handed them to him. Tsukiyo hesitated for a moment before closing his eyes and opening his mouth. Teeth that look like fangs peek out. (Yaeba)
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -37,15 +37,15 @@
 ;TKface
 
 #voice tikb0231
-【ツキヨ】「あ、あーん……」
+[Tsukiyo] "Ah, ah..."
 
-おそらく、未知のものを口にするのはツキヨにとってとてつもなく勇気がいるだろう。
+It probably takes a tremendous amount of courage for Tsukiyo to eat something unknown.
 
-それなのに口を開いたということはそれだけ俺を信用してるってことなのかな。
+Even so, the fact that he opened his mouth means that he trusts me that much.
 
-胸が温かくなるような喜びが湧いてくる。
+A warm joy wells up in my chest.
 
-俺はツキヨにお菓子を食べさせてあげた。
+I fed Tsukiyo the sweets.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -54,11 +54,11 @@
 ;TKface
 
 #voice tikb0232
-【ツキヨ】「はくっ……もぐ……もぐ……」
+[Tsukiyo] "Crunch... munch... munch..."
 
-真剣な顔でツキヨは咀嚼している。その表情が驚愕に移り、うっとりしてるようなものに変化していった。
+Tsukiyo is chewing with a serious look on his face. His expression changed to one of astonishment, then to one of enchantment.
 
-「どう？　自分では結構よく出来たつもりなんだけど」
+"What do you think? I thought I did pretty well."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -67,11 +67,11 @@
 ;TKface
 
 #voice tikb0233
-【ツキヨ】「美味しい、です」
+[Tsukiyo] "It’s delicious."
 
-こくりと細い喉を鳴らしてから、ツキヨは幸せそうに笑った。よほど気に入ったらしい。
+After clearing his throat with a small cough, Tsukiyo smiled happily. He seemed to have liked it very much.
 
-「そっか。よかった」
+"I see. That's a relief."
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -80,9 +80,9 @@
 ;TKface
 
 #voice tikb0234
-【ツキヨ】「でも……」
+[Tsukiyo] "But..."
 
-ツキヨは残念そうに焼きあがったお菓子を見つめた。
+Tsukiyo looked at the baked sweets with a longing expression.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -91,9 +91,9 @@
 ;TKface
 
 #voice tikb0235
-【ツキヨ】「ひとつだけなの、残念です。もっと食べたい、です」
+[Tsukiyo] "It's a shame that I only have one. I want to eat more."
 
-「え？　なんで？　もっと食べてもいいよ」
+"Huh? Why? You can eat more."
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -102,11 +102,11 @@
 ;TKface
 
 #voice tikb0236
-【ツキヨ】「ほんと、です？　ニンゲンさんひとつ食べてみない？　っていってたです。だから、ツキヨにはひとつだけかと思ったです」
+[Tsukiyo] "Really? You said to try one of them. That's why, I thought Tsukiyo could only have one."
 
-……なるほど。
+……I see.
 
-「そういう意味じゃないよ。よかったら好きなだけ食べなよ」
+"That's not what I meant. You can eat as much as you like."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -115,9 +115,9 @@
 ;TKface
 
 #voice tikb0237
-【ツキヨ】「嬉しい、です」
+[Tsukiyo] "I’m happy."
 
-ツキヨがとても幸せそうに微笑んで、お菓子を口に入れ、次に手を伸ばそうとした。
+Tsukiyo smiled very happily, put the candy in his mouth, and then reached out his hand.
 
 ;MCK
 ;SE se013 扉のバタン音
@@ -128,9 +128,9 @@
 #face f_iba_0_04f 94 466
 
 #voice ibab0265
-【イバラ】「あーっ！」
+[Ibara] "Ah!"
 
-戻ってきたイバラがそれを見咎めた。
+Ibara came back and looked at him disapprovingly.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -138,30 +138,30 @@
 #face f_tuk_0_02f 94 466
 ;TKface
 
-その声にツキヨはびくっとして次に伸ばす手を引っ込めてしまった。
+Tsukiyo was startled by the voice and withdrew his hand.
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0266
-【イバラ】「それ、食べられるものになったのか！？　なんでツキヨだけ食べてるんだ！？」
+[Ibara] "Is that something to eat? Why is Tsukiyo the only one eating it!?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-イバラはツカツカツカと俺たちに近寄ってくると、怒涛の勢いで俺たちを詰問してきた。
+Ibara slowly approached us and began questioning us with furious force.
 
-「ツキヨが最初に戻ってきたからだよ。よかったら、イバラも食べなって」
+"It's because Tsukiyo came back first. If you want, have a bite."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0267
-【イバラ】「ボクは別にこんなの……」
+[Ibara] "It's not like I want..."
 
-いつものようにイバラが口を尖らせていると、ヒナタとコノミも次々に戻ってきた。
+As Ibara pursed his lips more than usual, Hinata and Konomi returned one after another.
 
 ;CHR OFF
 #cg all clear
@@ -174,14 +174,14 @@
 #wipe fade
 
 #voice hinb0281
-【ヒナタ】「おかしできたのっ？」
+[Hinata] "Did you make something?"
 
 #voice konb0277
-【コノミ】「おぉ〜、まっくろくろこげじゃないね〜」
+[Konomi] "Oh, it's not burnt black‾"
 
-「まだ焼けるから、皆も食べて」
+"I'm still baking more, so everyone come and eat."
 
-興味深そうに覗き込んでいるだけのヒナタたちに、ツキヨがおずおずとすすめてくれる。
+While Hinata and the others looked on with deep interest, Tsukiyo timidly recommended the cookies to them.
 
 ;CHR OFF
 #cg all clear
@@ -194,7 +194,7 @@
 ;TKface
 
 #voice tikb0238
-【ツキヨ】「美味しい、です。食べたです、美味しかったです」
+[Tsukiyo] "It's delicious. I ate it. It was delicious."
 
 ;CHR OFF
 #cg all clear
@@ -207,46 +207,46 @@
 #wipe fade
 
 #voice ibab0268
-【イバラ】「ふーん、ツキヨがそうまでいうなら、ボクも食べてやってもいいぞ」
+[Ibara] "Hmm, if Tsukiyo says so, I can eat it too."
 
 #voice hinb0282
-【ヒナタ】「ヒナタもたべるっ！」
+[Hinata] "Hinata will eat it too!"
 
 ;下記ボイスなし
 ;コノミ:「ボクも〜」
 
-イバラがまず手を伸ばすと、先を争うように他の手も伸びた。
+Ibara reached out his hand first, and the other hands also reached out as if competing to take the lead.
 
-「あ、ちょっと待って。それだけ食べてると喉が渇くからお茶を入れようか」
+"Oh, hold a minute. I'm getting thirsty after eating that much, so I'll make some tea."
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0269
-【イバラ】「早くしろ！」
+[Ibara] "Hurry up!"
 
-「はいはい」
+"Yes, yes"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-皆にお茶を入れている間にも、取ったの取らないのという大騒ぎだ。
+Even while making tea for everyone, there was a big fuss over who has gotten their tea and who hasn't.
 
 ;CHR H08F1 R
 #cg ヒナタ hin_1_08f1 右
 #wipe fade
 
 #voice hinb0283
-【ヒナタ】「あむっ……あまーい！　おいしーい！　おかしならヒナタいっぱいたべられるよっ！　はぐっはぐっ……」
+[Hinata] "Sw... so sweet! Delicious! If it's sweets, Hinata can eat a lot! Crunch crunch..."
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0270
-【イバラ】「はぎゅ……もぐ……コノミやツキヨも食べてるんだから、ヒナタばっかりそんなに食べたらダメだろ！　はぐはぐ……」
+[Ibara] "Crunch... munch... Konomi and Tsukiyo are also eating, so it won't be good if Hinata eats that much! Crunch..."
 
 ;CHR OFF
 #cg all clear
@@ -257,31 +257,31 @@
 #wipe fade
 
 #voice konb0278
-【コノミ】「ふふふ、そういうイバラだっていっぱい食べてるじゃない〜」
+[Konomi] "Hehehe, but Ibara you're eating a lot too‾"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0271
-【イバラ】「こ、これは……ヒナタばっかり食べたらズルだから、ボクも付き合ってやってるんだ！」
+[Ibara] "T-this... it would be unfair if only Hinata ate so much, so I'm matching his pace!"
 
 #voice konb0279
-【コノミ】「じゃあ、ボクもいっぱい食べよ〜ぱくっ……んふふ〜」
+[Konomi] "Then, I'll eat a lot too‾ Crunch...hehe‾"
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0272
-【イバラ】「あ……なんでなんで、そんなに両手いっぱいに持ってっちゃうんだ！」
+[Ibara] "Ah...why, why are you holding two hands full of cookies!"
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0280
-【コノミ】「だってぇ〜、イバラもヒナタも食べるの早いからさ〜。ボクはゆっくり食べるよ〜？」
+[Konomi] "Because both Ibara and Hinata eat quickly‾ And I eat slowly‾"
 
 ;CHR OFF
 #cg all clear
@@ -292,39 +292,39 @@
 #wipe fade
 
 #voice hinb0284
-【ヒナタ】「うん！　ヒナタはもっとはやくたべられるよ！」
+[Hinata] "Yeah! Hinata can eat even faster!"
 
-「……仲良くしなさい。それから、そんなに急いで食べたら喉に詰まっちゃうぞ」
+"...Be nice. Also, if you eat that quickly, you'll choke."
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 #voice tikb0239
-【ツキヨ】「はわ……あ、とられちゃった、です」
+[Tsukiyo] "Awa... ah, it was taken."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-奪い合うようにヒナタやイバラが騒いでいる中、ツキヨもそれなりに果敢に手を伸ばしているが、どうもなかなか自分の分が確保できずにいるようだ。
+While Hinata and Ibara are making a fuss as if they are competing with each other, Tsukiyo is also boldly reaching out for cookies, but it seems like he is having a hard time securing his share.
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0273
-【イバラ】「そのためのお茶だろう？　ほら、おかわり！」
+[Ibara] "That's what the tea is for, right? Hey, another helping!"
 
 ;CHR H07F R
 #cg ヒナタ hin_1_07f 右
 #wipe fade
 
 #voice hinb0285
-【ヒナタ】「ヒナタは、おみずー！」
+[Hinata] "Hinata wants water!"
 
-しかし、ヒナタたちの食べっぷりがいいのは作成者として嬉しいぐらいなんだが、普段何も食べないのに急にがっついて大丈夫なものなのだろうか。
+As the baker, I'm happy that Hinata and the others are eating with such gusto, but I wonder if it's okay for them to suddenly start eating even though they don't normally eat anything.
 
-「普段あんまり食べないのに、そんなに急にがっついたらお腹痛くなっちゃうぞ」
+"You all don't usually eat much, if you eat so much so quickly, you'll get a stomach ache."
 
 ;CHR OFF
 #cg all clear
@@ -335,21 +335,21 @@
 #wipe fade
 
 #voice ibab0274
-【イバラ】「ボクはそんなにお馬鹿じゃないぞ！」
+[Ibara] "I’m not that stupid!"
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0281
-【コノミ】「イバラ〜口の端っこに食べカスついてるよ？」
+[Konomi] "Ibara‾ Is that food crumbs at the corner of your mouth?"
 
 ;CHR I09F L
 #cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0275
-【イバラ】「ふぇっ……？」
+[Ibara] "Huh...?"
 
 ;CHR OFF
 #cg all clear
@@ -362,17 +362,17 @@
 ;TKface
 
 #voice tikb0240
-【ツキヨ】「あ……あぅう、食べたい、です。でも、先に取られちゃう、です」
+[Tsukiyo] "Ah... ah, I want to eat it. But they'll take it first."
 
-「ったく、残ったらしばらく食料にしようと思ってたのに、この調子じゃなくなりそうだな」
+"I was thinking of using whatever was left to last me for a while, but it looks like there won't be any left."
 
-そうこうするうちに残りの生地を焼いていた追加分もいい色合いになってきた。
+In the meantime, the extra portion of the remaining dough that I had baked was starting to take on a nice color.
 
-さっきのでコツをつかめていたから焦がしたりはしない。
+I didn't burn it because I got the hang of it earlier.
 
-俺はそっとほかの連中には気づかれないようにツキヨの服を引っ張った。
+I gently tugged on Tsukiyo's clothes without the others' notice.
 
-「ほら、静かにね」
+"Here, quietly."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -381,15 +381,15 @@
 ;TKface
 
 #voice tikb0241
-【ツキヨ】「あ、お菓子、です」
+[Tsukiyo] "Ah, sweets."
 
-ツキヨには後から焼きあがった分を優先して確保させてあげよう。
+Let's give Tsukiyo his share from the freshly baked treats.
 
-「先にとっといたほうがいいよ」
+"You'd better take it first."
 
-奪い合いになったらツキヨでは、ヒナタやイバラの勢いに負けてしまう。
+If it turns into a competition, he will lose to Hinata and Ibara's enthusiasm.
 
-それを考えるとコノミのように別に確保しておくのが賢い策のように思える。
+Considering that, it seems like a wise strategy to secure it separately like Konomi.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -398,19 +398,19 @@
 ;TKface
 
 #voice tikb0242
-【ツキヨ】「これ、残しておきたいです」
+[Tsukiyo] "I want to keep this for later."
 
-「あぁ、じゃあ、他の連中に取られちゃわないように隠しとかないとな」
+"Ah, then we need to hide it so that the others don't take it."
 
-少しづつ食べるつもりなのかな。明日の分も、というのなら少し多めにとっといたほうがいいだろう。
+I guess he wants to eat it little by little. It's better if he takes more for tomorrow's share tomorrow.
 
-俺はそっと、ヒナタやイバラたちに気がつかれないように、今焼きあがった分はまるまるツキヨ用に別にすることして、残りの生地を焼き始めた。
+I quietly set aside the baked portion for Tsukiyo so that Hinata, Ibara, and the others wouldn't notice, and started baking the rest of the dough.
 
-幸い、机の上のお菓子に気を取られているために、今焼いている分には気がいかないようだ。
+Fortunately, they don't pay any attention to what I'm baking because they're distracted by the sweets on the desk.
 
-「明日もおやつにするのかな？　隠しっぱなしで忘れないように気をつけなよ」
+"Are you going to have it as a snack tomorrow? Be careful not to leave it hidden and forget it."
 
-俺の言葉にツキヨはプルプルと首を振った。
+Tsukiyo shook his head at my words.
 
 ;CHR T10F2 C
 #cg ツキヨ tuk_1_10f2 中
@@ -419,9 +419,9 @@
 ;TKface
 
 #voice tikb0243
-【ツキヨ】「ずーっととっときたいです。宝物にしたいです」
+[Tsukiyo] "I want to keep it forever. As a treasure."
 
-「へ？　それは明日のおやつに、って意味じゃなくてずーっとって事？」
+"Huh? You don't mean keep for tomorrow, but forever?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -430,13 +430,13 @@
 ;TKface
 
 #voice tikb0244
-【ツキヨ】「はいです」
+[Tsukiyo] "Yes."
 
-こくりと頷くツキヨの目は真剣だ。
+Tsukiyo nods, his eyes completely serious.
 
-「う〜ん、それは難しいんじゃないかな。よくわからないけど、塩漬けや砂糖漬けなら日持ちもしそうだけど、麺麭だったら固くなるし、お菓子もそうかも」
+"Hmm, that's difficult. I don't know much about it, but if food is pickled in salt or sugar, it seems like it'll last a long time, but if it's made with noodles, it'll get hard, and the same is probably true of sweets."
 
-お菓子をとっておこうなんて思ったことがないからわからないけど、カビが生えたり腐ったりするかもしれない。
+I've never thought about saving sweets, so I don't know, but they might get moldy or rot.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -445,9 +445,9 @@
 ;TKface
 
 #voice tikb0245
-【ツキヨ】「とっとけないです？」
+[Tsukiyo] "Can’t keep it?"
 
-「うん、お菓子は美味しいうちに食べたほうがいいだろうね」
+"Yeah, I guess it's better to eat sweets while they're still delicious."
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -456,53 +456,53 @@
 ;TKface
 
 #voice tikb0246
-【ツキヨ】「そですかー」
+[Tsukiyo] "I see-"
 
-ツキヨはしょんぼりと肩を落としてしまう。
+Tsukiyo's shoulders slumped dejectedly.
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibab0276
-【イバラ】「あーっ！」
+[Ibara] "Ah!"
 
 #voice tikb0247
-【ツキヨ】「な、な、なんです？」
+[Tsukiyo] "W-what?"
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibab0277
-【イバラ】「なんでツキヨはそのお菓子独り占めしてるんだ！？」
+[Ibara] "Why is Tsukiyo hogging those sweets!?"
 
-「あ、みつかっちゃった」
+"Ah, we've been found out."
 
 #voice tikb0248
-【ツキヨ】「ご、ごめんなさいです！」
+[Tsukiyo] "I-I’m sorry!"
 
-反射的に頭を下げるツキヨを俺はそっと背中でかばった。
+I gently shielded Tsukiyo behind me reflexively as he lowered his head.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-「ほらほら、その次も焼けたし、生の生地はまだあるから、もっと焼けるよ」
+"See, see, the next one was baked, and we still have raw dough, so we can bake even more."
 
 ;FACE H06F1
 #face f_hin_0_06f1 94 466
 
 #voice hinb0286
-【ヒナタ】「おー！　おかしたくさん！」
+[Hinata] "Oh! So many sweets!"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0278
-【イバラ】「あー！　ボクも食べるって言ってるだろ！」
+[Ibara] "Ah! I said I'd eat too!"
 
-すぐにイバラたちの意識はお菓子の方に行ってしまい、ツキヨが少し独り占めしていたことなんて忘れてしまったみたいだ。
+Ibara and the others' attention immediately redirected to the sweets, and they seemed to forget that Tsukiyo had kept a few of them to himself.
 
-俺は頭を下げたままのツキヨにそっと声をかけた。
+I called out to Tsukiyo, still with his head down.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -510,12 +510,12 @@
 #face f_tuk_0_05f_l 94 466
 ;TKface
 
-「それはツキヨの分だから、ゆっくり食べるといいよ」
+"This is for you, so you can eat slowly."
 
 #voice tikb0249
-【ツキヨ】「ツキヨの分、です？」
+[Tsukiyo] "This is for me?"
 
-「あぁ。取り合いなんかしなくても、それはツキヨの分。だから焦らないでいいよ。コノミもそうしてるだろ？」
+"Yea. Even if you don't fight for it, it's your share, so don't worry. Konomi's doing the same too, right?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -524,11 +524,11 @@
 ;TKface
 
 #voice tikb0250
-【ツキヨ】「はい、です」
+[Tsukiyo] "Yes, that's true."
 
-ツキヨはお菓子を口に運ぼうとして、途中で止め、俺の顔を見上げてきた。
+Tsukiyo was about to bring the sweets to his mouth, but stopped halfway and looked up at me.
 
-「ん？　なに？」
+"Hmm? What?"
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -537,14 +537,14 @@
 ;TKface
 
 #voice tikb0251
-【ツキヨ】「ありがとう、です」
+[Tsukiyo] "Thank you."
 
-「お礼なんて。ツキヨばっかり食べられなかったら不公平だろ？」
+"Don't mind it. Wouldn't it be unfair if you couldn't eat any at all?"
 
 #voice tikb0252
-【ツキヨ】「それも、ありがとう、です。ツキヨの分って、言ってもらうの初めてです」
+[Tsukiyo] "Thank you for that, too. This is the first time I've had someone say something is reserved for me."
 
-ツキヨはニコッと笑うと、俺が焼いたお菓子を大事そうにゆっくりと食べたのだった。
+Tsukiyo smiled and slowly ate the sweets I baked carefully.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -580,154 +580,154 @@
 #cg イベント ev017a1 背景
 #wipe fade
 
-翌日、少し外に出かけて戻ってくると、小屋の中にツキヨがいた。
+The next day, I went out for a bit and came back to find Tsukiyo in the hut.
 
-「わ、びっくりした」
+"Woah, that surprised me"
 
-ツキヨは俺がいつもエルフのことを書き付けている帳面に何かしているようだった。
+Tsukiyo seemed to be doing something with the notebook in which I write about elves.
 
 #voice tikb0253
-【ツキヨ】「ん、ん……」
+[Tsukiyo] "Hmm..."
 
-声まで上げたのに、俺が帰ったのにも気がつかないくらいに熱心な様子だ。
+Even though he made a sound, he was so engrossed he didn't even notice that I had returned.
 
-「困ったな……」
+"How troubling……"
 
-紙をはじめとする筆記用具は安いものじゃない。
+Writing materials are not cheap.
 
-大事なものだから絶対に悪戯をしないようにエルフたちには言いつけているんだけど、まさか大人しいツキヨが悪戯するとは思ってもみなかった。
+I've told the elves not to play with it because it's something important, but I never expected the mature Tsukiyo to play with it.
 
-なんと声をかけようか悩みつつ、後ろから覗き込んでみると、描いているのは怪光線を放つ山に、小さな丸いもの……？
+While I was wondering what to say, I peeked behind him and saw that what he was drawing was a mountain emitting strange rays of light, and something small and round...?
 
-人間のようなものはイバラとヒナタだろう。これはなんとなく似ているからわかる。
+Those human-like things are Ibara and Hinata. I can tell because it looks like them somehow.
 
 #cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0254
-【ツキヨ】「あ……」
+[Tsukiyo] "Ah..."
 
-覗き込まれた気配でようやく俺に気がついたツキヨは、悪びれることなく、帳面を俺に差し出してきた。
+Tsukiyo finally noticed me, and without any further ado, handed me the notebook.
 
 #voice tikb0255
-【ツキヨ】「描いた、です」
+[Tsukiyo] "I drew it."
 
-「あ、あぁ……うん」
+"Ah, ah...yeah"
 
-真剣な顔をしているということは、遊んでいたというわけでもないらしい。
+The fact that he had a serious face meant that he wasn't fooling around.
 
-そうなると頭ごなしに怒るわけにもいかないな……。
+If that's the case, I can't lose my temper...
 
 #voice tikb0256
-【ツキヨ】「書こうと思ったけど、字、書けないです。だから、絵、描いたです」
+[Tsukiyo] "I wanted to write, but I can't write. So I drew a picture."
 
 #cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0257
-【ツキヨ】「大事なこと、本に書くって言ったです。でも書いていない。だから、書いたです」
+[Tsukiyo] "I said I would write down important things in the book. But I haven't written them down yet. So, I wrote."
 
-……本に書いてない大事なことを見つけたから書き足した、ということか。つまり俺の真似をしてるんだな。
+...Does he mean that he added something because he found something important that wasn't written in the book? In other words, he's imitating me.
 
-「これは何を描いたの？」
+"What did you draw?"
 
 #cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0258
-【ツキヨ】「お菓子、です。これは作ってる。これは、お菓子。食べて喜ぶ、描いてたです」
+[Tsukiyo] "It's sweets. you're making them. This is sweets. I was drawing something that makes people happy when they eat it."
 
-「なるほど。これは俺の手で、粉を混ぜてるところか」
+"I see. This is me mixing the flour with my hands."
 
 #voice tikb0259
-【ツキヨ】「はいです」
+[Tsukiyo] "Yes."
 
-山から光が出てるように見えたのは、つみあげた粉に俺が手を突っ込んでいるところを示しているものらしい。
+The light that appeared to be coming from the mountain seemed to indicate that I was putting my hand into the flour that had been picked up.
 
-すると、この丸いのはお菓子か。
+Then, is this round thing candy?
 
 #voice tikb0260
-【ツキヨ】「お菓子、美味しかったです。きっととても大事です。でも、書いてなかったです」
+[Tsukiyo] "The sweets were delicious. I'm sure it's very important. But I didn't write it down."
 
-「なるほど、だから、書いておこうと思ったんだ？」
+"I see. Is that why you decided to write it down?"
 
 #voice tikb0261
-【ツキヨ】「はいです」
+[Tsukiyo] "Yes."
 
-ツキヨは真剣な顔で頷いた。
+Tsukiyo nodded with a serious face.
 
-そういうことなら悪戯だと思って、いきなり怒ったりしなくてよかった。
+If that's the case, I shouldn't have thought it was a prank. What a relief I didn't get angry.
 
-「……なるほど。じゃ、俺が字を書いておこう」
+"...I see. Well then, I'll write the letters."
 
 #cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0262
-【ツキヨ】「はいです！」
+[Tsukiyo] "Yes!"
 
-ついでに、菓子を作るときの分量も書き付けておいたら、また作ろうと思った時に忘れずに済むな。
+Also, if I write down the measurements when making sweets, I won't forget them when I want to make them again.
 
-俺は粉をこねる手の横に菓子を作った時の分量、菓子の絵の横に焼くときの注意点、イバラとヒナタの横には『エルフはお菓子を好む』と書き付けた。
+Next to my hands kneading the flour, I wrote down the quantities for making sweets, the precautions to take when baking next to a picture of the sweets, and next to Ibara and Hinata, I wrote 'Elves like sweets.'
 
 #voice tikb0263
-【ツキヨ】「これで、大事なこと書けたです」
+[Tsukiyo] "Now I was able to write something important."
 
-ツキヨは嬉しそうな顔で、何度も帳面を見返している。
+Tsukiyo looks happy as he looks over his notebook over and over again.
 
-「ツキヨは絵が上手だな。そういえば、細工物もずいぶん器用に作っていたっけ」
+"Tsukiyo is good at drawing. Come to think of it, he was also quite skillful at making handicrafts."
 
 #cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0264
-【ツキヨ】「上手、です？」
+[Tsukiyo] "Am I good at it?"
 
-ツキヨは褒められて照れたように身をくねらせた。
+Tsukiyo wriggled in embarrassment at the praise.
 
-「あぁ、上手だ。でも、紙とか書くものは貴重だから、これから書かなきゃいけないことがあると思ったら、まずは俺に聞いてくれないかな」
+"Ah, you're good at it. But paper and writing materials are precious, so if you think there's something you need to write down, why don't you ask me first?"
 
 #voice tikb0265
-【ツキヨ】「はいです」
+[Tsukiyo] "Yes."
 
-とたんに叱られたと思ったのかションボリとしてしまう。
+Immediately he looked downtrodded, as if he had just been scolded.
 
-あぁ、別にしょんぼりさせる気はなかったんだけどな。
+Ah, I didn't mean to make him feel depressed.
 
-「それで、ツキヨにお願いがあるんだけど……俺から絵を書いてとお願いすることがあるかもしれないけど、いいかな？」
+"So, I have a request for you, Tsukiyo... could you draw a picture for me?"
 
 #cg イベント ev017a2 背景
 #wipe fade
 
 #voice tikb0266
-【ツキヨ】「……っ！？」
+[Tsukiyo] "…!?"
 
-「細工物なんかはそれなりに得意だけど、絵はツキヨの方が得意みたいだから。本にも絵があったほうがわかりやすいだろ？」
+"I'm pretty good at crafts, but Tsukiyo seems to be better at drawing. Wouldn't it be easier to understand if there were pictures in the book?"
 
 #cg イベント ev017a1 背景
 #wipe fade
 
 #voice tikb0267
-【ツキヨ】「はい、です！」
+[Tsukiyo] "Yes, it is!"
 
-俺からの頼みにツキヨはパッと顔を輝かせた。
+Tsukiyo's face suddenly lit up at my request.
 
-「でも、ツキヨにばっかり本や筆記用具に触らせたら、イバラやヒナタたちがうらやましがるから、これは俺たちだけの秘密ね」
+"But if I let Tsukiyo touch books and writing materials all the time, Ibara and Hinata would be jealous, so this is a secret just between us."
 
-本人たちは真剣なつもりでも、こればっかりは無駄に消費されちゃかなわないし。
+Even if they were serious, I can't let this paper go to waste.
 
-変に張り合って競争で使われてしまっても困る。
+It would be a problem if they used up the paper in a competition.
 
 #cg イベント ev017a3 背景
 #wipe fade
 
 #voice tikb0268
-【ツキヨ】「秘密、です」
+[Tsukiyo] "It’s a secret."
 
-唇の前に指を立てて、俺がシーっと秘密の仕草をすると、ツキヨも緊張した面持ちでそれを真似て、それから笑った。
+I put my finger in front of my lips and made a "shh" gesture, and Tsukiyo imitated it with a nervous look on his face, then laughed.
 
 #voice tikb0269
-【ツキヨ】「ふたりだけの、秘密、です」
+[Tsukiyo] "It’s a secret just for the two of us."
 
 ;SMODE 015 STOP
 #endscene
