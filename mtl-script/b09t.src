@@ -1,7 +1,7 @@
 
 
-;Background: In front of the mountain hut (night)
-;No change
+;背景：山小屋前（夜）
+;変更なし
 
 It was my first time seeing an orc so close, and it took my breath away.
 
@@ -12,7 +12,7 @@ At that moment, something grabbed the hem of my clothes.
 When I desperately suppressed the scream I was about to let out and turned around, Tsukiyo was standing there.
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -34,7 +34,7 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 "I see, thank you. But the scary orcs have already gone, so it's okay."
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -52,7 +52,7 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 "Is there a road? If it's about this road, it's always been there, right?"
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -66,7 +66,7 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 “So, does that mean that orcs will come and go around here like Tsukiyo and the others?”
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -85,7 +85,7 @@ I can't stop shaking anymore.
 "Then it's going to be bad if we don't do something about it."
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -109,7 +109,7 @@ If you check the map and angle, you'll probably end up in a country with a reput
 "I'll check where the orcs are going."
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -122,7 +122,7 @@ Tsukiyo seemed surprised, but didn't try to stop me.
 Instead, he grips the hem of my clothes tightly.
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -144,7 +144,7 @@ Even though I was trembling, I still looked in the direction where the orc had d
 
 "let's go"
 
-;No standing picture display
+;立ち絵表示なし
 
 #voice tikb0644
 [Tsukiyo] “Yes.”
@@ -164,7 +164,7 @@ Eventually, the orcs arrived at the border.
 "...If we get this far, they're probably from the neighboring country soon."
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -186,7 +186,7 @@ When they became smaller than peas, we finally relaxed and hurried back to the c
 #bgm 0 stop 2000
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -207,22 +207,22 @@ It's not because it's not my country, but if it's a country that is good at war,
 
 I feel sorry for the people in that country, but honestly I was a little relieved.
 
-;BGMch2 amb002 stop
+;BGMch2 amb002 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Date change
+;日付変更
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: In front of the mountain hut (daytime)
+;背景：山小屋前（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
@@ -253,7 +253,7 @@ But it's probably better than not doing it.
 A voice came from behind me as I muttered something.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -268,7 +268,7 @@ The patterns painted on the hut using herbs and water are invisible to the human
 Tsukiyo stared at the hut.
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -299,7 +299,7 @@ The orcs may have the strength to crush a hut, but I feel like they'd be better 
 "picture?"
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -325,7 +325,7 @@ I blinked, feeling like something had disappeared.
 “Did you do something to me just now?”
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -343,7 +343,7 @@ Tsukiyo shook her head at my words.
 "So, does that mean it's the power of the Dark Elf?"
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -362,7 +362,7 @@ This time it was my turn to follow Tsukiyo.
 I didn't know what the person on the road was doing, but I guess he was doing something similar to what happened to me earlier.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -373,7 +373,7 @@ I didn't know what the person on the road was doing, but I guess he was doing so
 After walking around for a while, Tsukiyo took a deep breath.
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -391,7 +391,7 @@ Tsukiyo shook her head in response to my question.
 "That's amazing, Tsukiyo. Dark elves are amazing, aren't they?"
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -409,7 +409,7 @@ When I gave him my heartfelt praise, Tsukiyo blinked in surprise.
 Tsukiyo's eyes widened and quickly filled with relief and joy.
 
 ;CHR T04F C
-#cg Tsukiyo tuk_1_04f medium
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 #face f_tuk_0_04f 94 466
 ;TKface
@@ -424,5 +424,5 @@ Tsukiyo honestly laughed happily.
 
 For some reason, Tsukiyo's smile made my heart hurt.
 
-;To Tsukiyo route dt01
+;ツキヨルートdt01へ
 #next dt01_1

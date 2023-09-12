@@ -1,15 +1,15 @@
 
-;※eye catching
+;※アイキャッチ
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG44_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -32,18 +32,18 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
-;BGMch2 amb002 play
+;BGMch2 amb002 再生
 #bgvoice amb002
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG:BG04_3
 #cg all clear
 #bg BG04_3
@@ -52,7 +52,7 @@
 "I'm glad it's not raining anyway."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0338
 [Hinata] "I'm glad the candy wasn't falling!"
@@ -62,7 +62,7 @@ Hinata seemed to be back to her usual self, and happily returned the parrot.
 "But how are we going to sleep here? It's a field, right? There's nowhere to hide."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0339
 [Hinata] "It's okay, look!"
@@ -86,7 +86,7 @@ When I look a little further away, Hinata's figure is obscured by the tall grass
 "Oh, you can't see much just by lying down."
 
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0341
 [Hinata] "Right? That's why it's okay!"
@@ -94,7 +94,7 @@ When I look a little further away, Hinata's figure is obscured by the tall grass
 Hinata got up and hugged me.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0342
 [Hinata] "Where should I put it? I like a place where the grass is soft."
@@ -102,7 +102,7 @@ Hinata got up and hugged me.
 "Yeah, that's right."
 
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0343
 [Hinata] "Hinata, I'll do my best and find you! Hmph ♪ Hmph ♪"
@@ -112,7 +112,7 @@ Hinata is happily checking the grass around her.
 I don't know the difference, but maybe Hinata has her own selection criteria.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0344
 [Hinata] "Here! This place is good! Humans should hang out too!"
@@ -120,7 +120,7 @@ I don't know the difference, but maybe Hinata has her own selection criteria.
 “Yeah, here?”
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0345
 [Hinata] "That's it! It feels so good!"
@@ -130,7 +130,7 @@ Hinata's smile returned and she looked happy.
 #cg all clear
 #wipe fade
 
-;BG:BG15_3 is not available, so substitute it
+;BG:BG15_3がないので代用
 #cg all clear
 #bg BG12_3
 #wipe fade
@@ -149,14 +149,14 @@ Come to think of it, it may be the first time I've looked up at the sky like thi
 
 "That's right..."
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BG:BG15_3 is not available, so substitute it
+;BG:BG15_3がないので代用
 #cg all clear
 #bg BG12_3
 #wipe fade
@@ -220,7 +220,7 @@ It wasn't Hinata's fault that the mountain hut was set on fire.
 #wipe fade
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0352
 [Hinata] "Hinata, the people in the village think you should go there, and I guess they think you're there because there's Koya."
@@ -228,13 +228,13 @@ It wasn't Hinata's fault that the mountain hut was set on fire.
 "...There's no one else who thinks like that about Hinata. If anyone thinks like that, it's me."
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0353
 [Hinata] "Eh? Because human beings are human beings, aren't they? They're not different from Hanbun like Hinata, are they? But you still hate them?"
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0354
 [Hinata] "Or, Human-san, are you just lying about being a human and are you really a half-elf?"
@@ -247,7 +247,7 @@ If that were the case, Hinata wouldn't be alone.
 "Unfortunately, I'm not a half-elf."
 
 ;CHR H03F2_A C
-#cg Hinata hin_1_03f2_a Medium
+#cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0355
 [Hinata] "I see...is that different?"
@@ -346,8 +346,8 @@ Hinata said fidgeting as she turned to face me.
 #voice hinf0364
 [Hinata] "You know...I want you to hug me tightly, not just hold me up."
 
-;Choice occurs
-#select ab
+;選択肢発生
+#select a b
 A: Come on.
 B: I can't sleep.
 
@@ -357,5 +357,5 @@ B: I can't sleep.
 #label b
 #next dh05b top
 
-;Select A ⇒ Jump to "dh05a"
-;Select B ⇒ Jump to "dh05b"
+;Ａを選択⇒『dh05a』へジャンプ
+;Ｂを選択⇒『dh05b』へジャンプ

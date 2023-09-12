@@ -1,7 +1,7 @@
 
 
-;Background: In front of the mountain hut (night)
-;No change
+;背景：山小屋前（夜）
+;変更なし
 
 Just as I was barely holding back the urge to scream at the prospect of seeing an orc so close, I was suddenly slapped on the back from behind.
 
@@ -10,7 +10,7 @@ Just as I was barely holding back the urge to scream at the prospect of seeing a
 When I desperately swallowed a scream and turned around, Ibara was there.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0719
@@ -19,7 +19,7 @@ When I desperately swallowed a scream and turned around, Ibara was there.
 Ibara puts his finger on his lips to tell me to be quiet, but if Ibara hadn't threatened me in the first place, I wouldn't have raised my voice.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0720
@@ -30,7 +30,7 @@ Ibara puts his finger on his lips to tell me to be quiet, but if Ibara hadn't th
 In a muffled voice, I pointed in the direction of the orc, and Ibara also looked in that direction.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0721
@@ -39,7 +39,7 @@ In a muffled voice, I pointed in the direction of the orc, and Ibara also looked
 "Ah, I hope you go without noticing..."
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0722
@@ -50,7 +50,7 @@ Ibara said as he carried the familiar bow and arrow on his shoulder.
 "Oh, hey. What are you planning to do, Ibara?"
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0723
@@ -65,7 +65,7 @@ It's hard to imagine that something that would hurt even a human would be effect
 There's no way you can defeat an orc with a thorny bow and arrow.
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0724
@@ -74,7 +74,7 @@ There's no way you can defeat an orc with a thorny bow and arrow.
 "Oh, you idiot! Shh! Shh! If you make a noise, the orcs will find you, right?"
 
 ;CHR I09F C
-#cg Ibara iba_1_09f Medium
+#cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0725
@@ -86,7 +86,7 @@ Ibara also seemed panicked and shut his mouth.
 #cg all clear
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -101,7 +101,7 @@ Ibara also seemed panicked and shut his mouth.
 
 [Oak 3] “Isn’t it an insect or a bird?”
 
-;Background: In front of the mountain hut (night)
+;背景：山小屋前（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
@@ -122,7 +122,7 @@ What if Ibara rebelled against me for admonishing me like that?
 I chose my words so as not to provoke Ibara as much as possible.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0726
@@ -135,7 +135,7 @@ If the lunar eclipse had something to do with the appearance of the orcs, I don'
 I think it's a sloppy plan, but I'm just an ordinary person and I can't take that much responsibility.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0727
@@ -150,7 +150,7 @@ I racked my brain, struggling to somehow squeeze out what little wisdom I had.
 I hope the orcs move away while I hold back the thorns.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0728
@@ -163,7 +163,7 @@ Even as I managed to buy some time, the orcs continued to move away. That's righ
 "Well, what can I say..."
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0729
@@ -172,7 +172,7 @@ Even as I managed to buy some time, the orcs continued to move away. That's righ
 "W-wait, wait! I have a plan! And Ibara's power is needed."
 
 ;CHR I09F C
-#cg Ibara iba_1_09f Medium
+#cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0730
@@ -202,13 +202,13 @@ I followed the orcs and sneaked into the forest.
 ;MCK
 #bgm 0 stop 2000
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
 #wipe fade
 
-;No portrait
+;立ち絵なし
 
 #voice ibab0732
 [Ibara] “Hey, what are you doing?”
@@ -216,7 +216,7 @@ I followed the orcs and sneaked into the forest.
 “You said you were alone, but you followed me?”
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0733
@@ -227,7 +227,7 @@ If I didn't show them the scene, Ibara wouldn't be convinced even if I told them
 "Then don't leave me now. Stay by my side, otherwise you'll be in danger."
 
 ;CHR I10F2 C
-#cg Ibara iba_1_10f2 medium
+#cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0734
@@ -237,7 +237,7 @@ Ibara anxiously grabbed the hem of my clothes.
 
 "Ho!"
 
-;SE se014 Bird calls
+;SE se014 鳥の鳴き声
 #se 1 se014
 
 I raise my voice and then throw pebbles to shake the tree to make it look like a bird or something has taken off.
@@ -257,7 +257,7 @@ I raise my voice and then throw pebbles to shake the tree to make it look like a
 Okay, you've caught on nicely.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0735
@@ -266,7 +266,7 @@ Okay, you've caught on nicely.
 "It's an imitation of a mole's cry. I mean, we're in the middle of a mission, so please stay quiet, Ibara."
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0736
@@ -282,7 +282,7 @@ There are parts of this forest where when you move a little deeper, it feels lik
 
 I hope the orcs will be able to catch on to it...
 
-;SE rustling sound
+;SE　ガサガサ音
 
 
 [Orc 3] "Buhyahyahya, looks like there's something here. This guy is huge."
@@ -310,7 +310,7 @@ After a while, a loud scream came from the front.
 [Orc 1] “Fugo, the enemy is attacking!?”
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0737
@@ -329,14 +329,14 @@ If orcs are as simple as they seem, they'll have a hard time breaking out.
 "Perhaps the orcs are hanging upside down by now. If they experience something like that, they won't want to go near the forest around here, right?"
 
 ;CHR I08F C
-#cg Ibara iba_1_08f Medium
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0738
 [Ibara] "Oh... oh, the ivy monster?"
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0739
@@ -349,7 +349,7 @@ If orcs are as simple as they seem, they'll have a hard time breaking out.
 "Let's get out of here before the orcs come back."
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0740
@@ -365,7 +365,7 @@ We quickly ran away from the forest, where we could still hear the orcs' cries.
 "Eh, um... With this plan, I don't know if it's going to work out, so I thought I'd let everyone know if I messed up."
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0742
@@ -374,7 +374,7 @@ We quickly ran away from the forest, where we could still hear the orcs' cries.
 “Ah, ahahaha… I think I was too scared and confused.”
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0743
@@ -385,7 +385,7 @@ We quickly ran away from the forest, where we could still hear the orcs' cries.
 Ibara tightly grabbed the hem of my clothes as I tried to cover up.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0744
@@ -394,7 +394,7 @@ Ibara tightly grabbed the hem of my clothes as I tried to cover up.
 "Ah, ahahaha...thank you. Just to be sure, I'll have to cast a charm on the hut to prevent orcs tomorrow morning."
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0745
@@ -409,7 +409,7 @@ I hurriedly caught Ibara, who was about to turn back, and admonished him in a lo
 “Fights only lead to more battles in the end. Hatred only breeds hatred.”
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0746
@@ -418,7 +418,7 @@ I hurriedly caught Ibara, who was about to turn back, and admonished him in a lo
 I was glad that Ibara seemed to understand when I said something like that.
 
 ;CHR I08F C
-#cg Ibara iba_1_08f Medium
+#cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0747
@@ -433,5 +433,5 @@ Ibara looked up at me with a confused look on his face.
 
 Ibarra bit his lip and looked down.
 
-;Go to Ibara route di01
+;イバラルートdi01へ
 #next di01

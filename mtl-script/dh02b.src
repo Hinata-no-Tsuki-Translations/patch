@@ -4,7 +4,7 @@
 Those words came out of my mouth.
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0228
 [Hinata] “Are you going to meet your mother?”
@@ -14,7 +14,7 @@ Hinata blinked, as if hearing something unexpected.
 "Your father may be dead, but your mother is still alive, right?"
 
 ;CHR H03F2_A C
-#cg Hinata hin_1_03f2_a Medium
+#cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0229
 [Hinata] “Hmm, I don’t know.”
@@ -28,7 +28,7 @@ One of the legends left in the village about an elf appearing in this forest pro
 If you research steadily and follow the footsteps...
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0230
 [Hinata] "Hey, Human-san. Why are you meeting your mother?"
@@ -36,7 +36,7 @@ If you research steadily and follow the footsteps...
 "Why, I'm sure mothers want to meet their children too."
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0231
 [Hinata] "Do you want to meet my mother? Why?"
@@ -44,7 +44,7 @@ If you research steadily and follow the footsteps...
 "...Why are you so surprised?"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0232
 [Hinata] "Hinata doesn't have to meet you, but I was wondering if your mother wants to meet you."
@@ -52,7 +52,7 @@ If you research steadily and follow the footsteps...
 It doesn't seem like he hates her or is forcing himself on her.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0233
 [Hinata] “Mom left Hinata alone, but I wonder if she wants to see me?”
@@ -62,7 +62,7 @@ It doesn't seem like he hates her or is forcing himself on her.
 I had imagined her crying and being torn apart, but she sounded as if that was not the case for her mother either.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0234
 [Hinata] "Elf, I always keep important things to myself, so I don't think it was important to you, Hinata."
@@ -72,12 +72,12 @@ I was the one who felt the pain in my chest when they said it so casually, as if
 "Don't say sad things"
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0235
 [Hinata] "Kanaishi? Why?"
 
 However, Hinata didn't seem to understand that I was hurting.
 
-;dh02_2
+;dh02_2へ
 #next dh02_2

@@ -4,7 +4,7 @@
 When I held out the bowl and the spoon, Ibara changed his face and grabbed Hinata as if snatching her away.
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinf0046
@@ -15,7 +15,7 @@ When I held out the bowl and the spoon, Ibara changed his face and grabbed Hinat
 #wipe fade
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0029
 [Ibara] “What a guy, human! I missed you!?”
@@ -25,7 +25,7 @@ When I held out the bowl and the spoon, Ibara changed his face and grabbed Hinat
 In fact, I think it's kind of him to say that he's willing to share his precious food with him.
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibaf0030
 [Ibara] "Wow, you're a bad guy! You're a bad guy! No matter how much you're a half-elf, it's too bad to force Hinata to eat something that smells like that!"
@@ -33,7 +33,7 @@ In fact, I think it's kind of him to say that he's willing to share his precious
 “I was just trying to share what I was eating because I thought it was delicious, but you’re going to say a lot, aren’t you, me!?”
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0031
 [Ibara] "Isn't that so... Humans are also pretending that it's delicious and are patiently eating it?! And if Hinata eats it, they're going to make fun of it!"
@@ -55,7 +55,7 @@ In fact, I think it's kind of him to say that he's willing to share his precious
 Besides, I don't think I have much to say about the people I'm already talking to.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibaf0032
 [Ibara] “Damn you, you human! What a bad person!”
@@ -63,7 +63,7 @@ Besides, I don't think I have much to say about the people I'm already talking t
 “What, you’re accusing me!? That’s a big false accusation!? I wasn’t trying to force you to eat anything, right?”
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0033
 [Ibara] “I will never forgive you for doing such a bad thing in front of me!?”
@@ -93,7 +93,7 @@ Why does it sound like they're trying to force me to eat poison?
 Ibara is sure to be glaring at me even if I bring it to my mouth and show it to him.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibaf0034
 [Ibara] "I won't be fooled...I will never be fooled"
@@ -105,7 +105,7 @@ Ibara is sure to be glaring at me even if I bring it to my mouth and show it to 
 [Hinata] "Wow...I don't think I'll force it..."
 
 ;CHR I11F1 C
-#cg Ibara iba_1_11f1 medium
+#cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibaf0035
 [Ibara] "Isn't it!? You have to say that you don't like what you don't like, Hinata!"
@@ -123,21 +123,21 @@ Well, it's a truly heartwarming sight.
 "It's okay, I'm not asking you to eat anything."
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0036
 [Ibara] “Are you trying to get attention by showing me how depressed you are!?”
 
 Hehe...I feel like it's more salty than before.
 
-;FACE H01F1_A
-#face f_hin_0_01f1_a 94 466
+;FACE H01F1_A 
+#face f_hin_0_01f1_a  94 466
 
 #voice hinf0049
 [Hinata] "Ibara, Hinata is okay?"
 
 ;CHR I09F C
-#cg Ibara iba_1_09f Medium
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibaf0037
 [Ibara] "Hinata, there's no need to protect humans!?"
@@ -167,13 +167,13 @@ Hehe...I feel like it's more salty than before.
 Hinata untied Ibara's arm and jumped towards me.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0051
 [Hinata] “Besides, I guess Hinata will become a bit of a fan of Human-san’s food after all.”
 
-;Hinata likeability +1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;dh01_2
+;dh01_2へ
 #next dh01_2

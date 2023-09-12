@@ -1,6 +1,6 @@
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 
 #voice hinf0009
@@ -27,7 +27,7 @@
 "Eh!? Eh!? No, I don't really care..."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinf0010
@@ -59,7 +59,7 @@ When I gingerly held out the bowl, everyone except Hinata frowned and stepped ba
 
 Maybe that's the case with elves.
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 
 #voice hinf0011
@@ -74,7 +74,7 @@ Maybe that's the case with elves.
 "Ah. That may be true. I don't mind eating sweets, so I think it's okay, but should I stop eating them?"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinf0012
@@ -89,7 +89,7 @@ I was about to pull the vessel, but Hinata stopped me with an unexpectedly stron
 [Ibara] "B-you idiot! Stop it, Hinata!"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinf0013
@@ -99,7 +99,7 @@ I was about to pull the vessel, but Hinata stopped me with an unexpectedly stron
 #cg all clear
 #wipe fade
 
-;EV picture――EV??? “Delicious soup”
+;ＥＶ絵――EV???『美味しいスープ』
 ;EVCG EV032A1
 ;#face off
 
@@ -108,7 +108,7 @@ I was about to pull the vessel, but Hinata stopped me with an unexpectedly stron
 #setscene 27
 #bg BG07b_3
 
-#cg event ev032a1 background
+#cg イベント ev032a1 背景
 #wipe fade
 
 ;FACE I09F
@@ -189,14 +189,14 @@ Hinata's eyes sparkled unexpectedly as she licked the area around her mouth.
 ;CHR OFF
 #cg all clear
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 #bg BG07b_3
 #wipe fade
 
 "I-Isn't it!? You can do a lot of work, right?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0017
 [Hinata] "Yeah! I can do it!"
@@ -206,7 +206,7 @@ I felt a sigh of relief at Hinata's words, but for the others, the fact that Hin
 Even though they were trying to imitate me and me in other things, they started acting like they were distancing themselves from Hinata and me.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0018
 [Hinata] "Hey, what's wrong with everyone? Why are you acting so scary!?"
@@ -230,7 +230,7 @@ Even though they were trying to imitate me and me in other things, they started 
 [Ibara] "Hinata, do you understand!? You just said that meat is delicious! Are you saying that it was delicious even if you took the life of another person to eat it!?"
 
 ;CHR H02F_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinf0019
@@ -255,7 +255,7 @@ Even though they were trying to imitate me and me in other things, they started 
 [Ibara] "There's no way that's delicious! If you bring that abominable thing any closer to me, we'll have sex!"
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinf0020
@@ -270,7 +270,7 @@ Even though they were trying to imitate me and me in other things, they started 
 "Ibara, that's a bit of an exaggeration..."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 #voice ibaf0020
 [Ibara] "Ningen too! Don't talk to us while breathing out the stinky breath of eating such filthy food!"
@@ -278,12 +278,12 @@ Even though they were trying to imitate me and me in other things, they started 
 ;CHR OFF
 #cg all clear
 #wipe fade
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 
 Ibarra must have been very angry, and he took out his anger on me and left.
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 
 #voice hinf0021
@@ -294,7 +294,7 @@ Ibarra must have been very angry, and he took out his anger on me and left.
 #wipe fade
 
 ;CHR K04F R
-#cg Konomi kon_1_04f Right
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konf0016
@@ -307,7 +307,7 @@ Ibarra must have been very angry, and he took out his anger on me and left.
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -317,7 +317,7 @@ Ibarra must have been very angry, and he took out his anger on me and left.
 “So, Tsukiyo is going too!?”
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -330,10 +330,10 @@ Ibarra must have been very angry, and he took out his anger on me and left.
 
 Tsukiyo nodded and followed Konomi.
 
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinf0022
@@ -356,7 +356,7 @@ I let out a sigh.
 "At least, I was happy that Hinata said it was delicious."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinf0023
@@ -365,7 +365,7 @@ I let out a sigh.
 "It's something I made myself, so I'd be happy if someone complimented me. Besides, it's more fun to eat with someone else."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0024
 [Hinata] "Yes! Human-san, are you happy? Hinata is happy as long as Human-san is happy!"
@@ -382,11 +382,11 @@ The elf's usual temperament probably just happened to lead to a fight.
 
 However, from this day onwards, Hinata and the other elves started to get nervous little by little.
 
-;blackout
+;暗転
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb003 Play
+;BGMch2 amb003 再生
 #bgvoice amb003
 
 #cg all clear
@@ -398,7 +398,7 @@ However, from this day onwards, Hinata and the other elves started to get nervou
 #wipe fade
 
 ;CHR T06F_P C
-#cg Tsukiyo tuk_1_06f_p medium
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 #face f_tuk_0_06f_p 94 466
 ;TKface
@@ -409,7 +409,7 @@ However, from this day onwards, Hinata and the other elves started to get nervou
 "Hmm? Where?"
 
 ;CHR T05F_P C
-#cg Tsukiyo tuk_1_05f_p Medium
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 #face f_tuk_0_05f_p 94 466
 ;TKface
@@ -419,7 +419,7 @@ However, from this day onwards, Hinata and the other elves started to get nervou
 “This… When you spell these words together like this, it means they are very similar.”
 
 ;CHR T06F_P C
-#cg Tsukiyo tuk_1_06f_p medium
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 #face f_tuk_0_06f_p 94 466
 ;TKface
@@ -430,17 +430,17 @@ However, from this day onwards, Hinata and the other elves started to get nervou
 #cg all clear
 #wipe fade
 
-;Sound of door opening
+;扉を開ける音
 
 ;CHR H11F_A R
-#cg Hinata hin_1_11f_a right
+#cg ヒナタ hin_1_11f_a 右
 #wipe fade
 
 #voice hinf0025
 [Hinata] “Tsukiyo, are you asking for help again?”
 
 ;CHR T05F_P L
-#cg Tsukiyo tuk_1_05f_p left
+#cg ツキヨ tuk_1_05f_p 左
 #wipe fade
 #face f_tuk_0_05f_p 94 466
 ;TKface
@@ -450,13 +450,13 @@ However, from this day onwards, Hinata and the other elves started to get nervou
 When Hinata looked into the book, Tsukiyo closed it as if it were a bubble and held her close.
 
 ;CHR H04F2_A R
-#cg Hinata hin_1_04f2_a right
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 #voice hinf0026
 [Hinata] "Ah..."
 
 ;CHR T01F_P L
-#cg Tsukiyo tuk_1_01f_p left
+#cg ツキヨ tuk_1_01f_p 左
 #wipe fade
 #face f_tuk_0_01f_p 94 466
 ;TKface
@@ -466,7 +466,7 @@ When Hinata looked into the book, Tsukiyo closed it as if it were a bubble and h
 Tsukiyo looked like she was about to burst into tears and looked away.
 
 ;CHR H11F_A R
-#cg Hinata hin_1_11f_a right
+#cg ヒナタ hin_1_11f_a 右
 #wipe fade
 #voice hinf0027
 [Hinata] "Aha, why are you sorry? Tsukiyo, did you do something wrong?"
@@ -474,7 +474,7 @@ Tsukiyo looked like she was about to burst into tears and looked away.
 Hinata asked back, looking happy as usual.
 
 ;CHR T05F_P L
-#cg Tsukiyo tuk_1_05f_p left
+#cg ツキヨ tuk_1_05f_p 左
 #wipe fade
 #face f_tuk_0_05f_p 94 466
 ;TKface
@@ -488,13 +488,13 @@ However, Tsukiyo is at a loss for words as if she has been criticized.
 When I interjected, Hinata seemed more relieved for some reason.
 
 ;CHR H07F_A R
-#cg Hinata hin_1_07f_a right
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 #voice hinf0028
 [Hinata] "What! Tsukiyo is saying she's sorry when she's surprised! Hinata, I understand!"
 
 ;CHR T01F_P L
-#cg Tsukiyo tuk_1_01f_p left
+#cg ツキヨ tuk_1_01f_p 左
 #wipe fade
 #face f_tuk_0_01f_p 94 466
 ;TKface
@@ -502,7 +502,7 @@ When I interjected, Hinata seemed more relieved for some reason.
 [Tsukiyo] “…huh?”
 
 ;CHR H01F2_A R
-#cg Hinata hin_1_01f2_a right
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 #voice hinf0029
 [Hinata] “Hinata, I’m going to look for Takara things!”
@@ -510,7 +510,7 @@ When I interjected, Hinata seemed more relieved for some reason.
 ;CHR OFF
 #cg all clear
 #wipe fade
-;Sound of door opening
+;扉を開ける音
 
 "Blue……"
 
@@ -519,7 +519,7 @@ Hinata started to move out of context and ran out of the hut.
 Tsukiyo and I were left behind.
 
 ;CHR T05F_P C
-#cg Tsukiyo tuk_1_05f_p Medium
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 #face f_tuk_0_05f_p 94 466
 ;TKface
@@ -546,7 +546,7 @@ It's frustrating not being able to do anything.
 As if Tsukiyo could see through my conflict, she gave me a sad smile.
 
 ;CHR T01F_P C
-#cg Tsukiyo tuk_1_01f_p medium
+#cg ツキヨ tuk_1_01f_p 中
 #wipe fade
 #face f_tuk_0_01f_p 94 466
 ;TKface
@@ -556,7 +556,7 @@ As if Tsukiyo could see through my conflict, she gave me a sad smile.
 "...Are you scared? That won't change Hinata at all, right? If I say that, what will happen to me, who eats both meat and fish?"
 
 ;CHR T06F_P C
-#cg Tsukiyo tuk_1_06f_p Medium
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 #face f_tuk_0_06f_p 94 466
 ;TKface
@@ -568,7 +568,7 @@ As if Tsukiyo could see through my conflict, she gave me a sad smile.
 Tsukiyo nodded at my words, then tilted her head.
 
 ;CHR T05F_P C
-#cg Tsukiyo tuk_1_05f_p Medium
+#cg ツキヨ tuk_1_05f_p 中
 #wipe fade
 #face f_tuk_0_05f_p 94 466
 ;TKface
@@ -592,7 +592,7 @@ I decided to change the topic for now by talking about the book Tsukiyo had.
 "...Have you started reading that book yet? Well, I also have something to ask you about this elf's description..."
 
 ;CHR T06F_P C
-#cg Tsukiyo tuk_1_06f_p medium
+#cg ツキヨ tuk_1_06f_p 中
 #wipe fade
 #face f_tuk_0_06f_p 94 466
 ;TKface
@@ -602,7 +602,7 @@ I decided to change the topic for now by talking about the book Tsukiyo had.
 ;CHR OFF
 #cg all clear
 #wipe fade
-;Sound of door opening
+;扉を開ける音
 
 While Tsukiyo and I were talking, Ibara came in.
 
@@ -611,15 +611,15 @@ While Tsukiyo and I were talking, Ibara came in.
 Ibara was accompanied by an unfamiliar elf.
 
 ;CHR I01F R
-#cg Ibara iba_1_01f right
+#cg イバラ iba_1_01f 右
 #wipe fade
 #voice ibaf0021
 [Ibara] "Ningen. Today, I came to say goodbye."
 
 "farewell?"
 
-;CHR EL
-#cg other elf_1_01 left
+;CHR E L
+#cg その他 elf_1_01 左
 #wipe fade
 #voice izuf0
 [Fountain Elf] "...The little elves will also return to our realm."
@@ -632,8 +632,8 @@ Ibara was accompanied by an unfamiliar elf.
 
 The elf, who looked much older than Ibara and the others, didn't answer my question, but instead asked one in return.
 
-;CHR EC
-#cg Others elf_1_01 Medium
+;CHR E C
+#cg その他 elf_1_01 中
 #wipe fade
 
 #voice izuf1
@@ -691,13 +691,13 @@ I was curious about what was inside, so I ended up accepting it, but it didn't f
 #wipe fade
 
 ;CHR I07F R
-#cg Ibara iba_1_07f right
+#cg イバラ iba_1_07f 右
 #wipe fade
 #voice ibaf0024
 [Ibara] "Tsukiyo will return to the elf realm too!? The barrier will completely close on the full moon, so Tsukiyo had better return soon!"
 
 ;CHR T05F_L L
-#cg Tsukiyo tuk_1_05f_l left
+#cg ツキヨ tuk_1_05f_l 左
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -705,7 +705,7 @@ I was curious about what was inside, so I ended up accepting it, but it didn't f
 [Tsukiyo] “Even though I’m a dark elf, can I go back?”
 
 ;CHR I11F1 R
-#cg Ibara iba_1_11f1 right
+#cg イバラ iba_1_11f1 右
 #wipe fade
 
 #voice ibaf0025
@@ -717,7 +717,7 @@ I was curious about what was inside, so I ended up accepting it, but it didn't f
 [Big Elf] ``What is Tsukiyo...? ”
 
 ;CHR T01F_L L
-#cg Tsukiyo tuk_1_01f_l left
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -739,7 +739,7 @@ I was curious about what was inside, so I ended up accepting it, but it didn't f
 Tsukiyo smiled and replied to the older elf, then looked at me.
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -749,7 +749,7 @@ Tsukiyo smiled and replied to the older elf, then looked at me.
 "Ah, ah. I don't mind that."
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -767,7 +767,7 @@ Tsukiyo returned the book she was reading to the basement and brought back a pic
 When I asked, curious, Ibara shook his head.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibaf0026
@@ -787,7 +787,7 @@ I heard before that dark elves are the followers of darkness, but even they didn
 "Does that mean we have to go inside first?"
 
 ;CHR I07F C
-#cg Ibara iba_1_07f Medium
+#cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibaf0027
 [Ibara] “That’s what it is.”
@@ -803,7 +803,7 @@ Once I was satisfied, I suddenly noticed something that bothered me.
 #wipe fade
 
 ;CHR I09F C
-#cg Ibara iba_1_09f Medium
+#cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibaf0028
 [Ibara] "..."
@@ -814,8 +814,8 @@ Ibarra gasped.
 #cg all clear
 #wipe fade
 
-;CHR EC
-#cg Others elf_1_01 Medium
+;CHR E C
+#cg その他 elf_1_01 中
 #wipe fade
 
 #voice izuf10
@@ -829,6 +829,8 @@ Ibarra gasped.
 ;CHR OFF
 #cg all clear
 #wipe fade
+;扉がゆっくり閉まる音
+
 the sound of the door closing slowly
 
 The older elf said so and took Ibara and Tsukiyo home.
@@ -841,112 +843,112 @@ I looked around the room, feeling deeply moved.
 
 At first, I was planning on living in the hut alone, but once the elves were gone, it felt much bigger.
 
-I'm sure you'll miss me.
-
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 #se 1 se013
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinf0030
+I'm sure you'll miss me.
+
 [Hinata] "Huh? Human-san, why are you spinning around?"
 
 "Hinata!?"
 
 Hinata jumps at me while I'm standing.
 
-"Where have you been?"
-
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0031
+"Where have you been?"
+
 [Hinata] "Well, I was looking for something Takara to put in the bag that Human-san gave me!"
 
-While saying that, Hinata showed me an ordinary stone.
-
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0032
+While saying that, Hinata showed me an ordinary stone.
+
 [Hinata] "Look, this is where the pika is curled up!? It's amazing!"
 
 Hinata smiles and seems as if the interaction with Tsukiyo before leaving had never happened.
 
 I'll be saying goodbye to this smile soon...
 
-"While Hinata was out, someone came to pick you up. Didn't you meet her when you were coming back?"
-
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0033
+"While Hinata was out, someone came to pick you up. Didn't you meet her when you were coming back?"
+
 [Hinata] "Pyo!? Head over heels!? What's going on?! Hinata, I haven't even looked at you!"
 
 "He's an elf called Ibara no Onii-san. Doesn't Hinata know about it?"
 
 When I asked, Hinata shook her head.
 
-"You do not know"
-
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 
 #voice hinf0034
+"You do not know"
+
 [Hinata] "I don't know! I know! Izumi's elf, right!"
 
 Do you know? Even though they know, they shake their heads or give confusing reactions.
 
 "Is that the emblem of the fountain on him?"
 
-That's probably what was on his forehead. Now that I think about it, I have no idea that the thing on my forehead is a fountain.
-
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinf0035
+That's probably what was on his forehead. Now that I think about it, I have no idea that the thing on my forehead is a fountain.
+
 [Hinata] "Sodayo!? How do you know Human-san!? Did you show it to me!?"
 
-"I was shown it because there was a forehead in a certain place. I just thought it made sense because Hinata said it was a spring elf."
-
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0036
+"I was shown it because there was a forehead in a certain place. I just thought it made sense because Hinata said it was a spring elf."
+
 [Hinata] "Oh!? I see. It's so cool that you can understand everything just from Human-san!"
 
 Hinata jumps up and down, wondering what makes her happy.
 
-"Then, he said something like, ``The road is getting narrower, so we should get back quickly.''
-
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0037
+"Then, he said something like, ``The road is getting narrower, so we should get back quickly.''
+
 [Hinata] "Hohoo! Is the path getting narrower!?"
 
-"No, it's about elves, so I don't know much about them. I wonder if those fountain elves will come looking for Hinata again!?"
-
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinf0038
+"No, it's about elves, so I don't know much about them. I wonder if those fountain elves will come looking for Hinata again!?"
+
 [Hinata] "It's a big deal! It's hide and seek!"
 
 "Why are you playing hide-and-seek with the one who came to pick you up because you were so worried? It's the other way around, right? It makes me a little lonely though..."
 
-Continuing from the tsukkomi I had made without thinking, I was about to say goodbye when Hinata stopped and looked up at me.
-
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinf0039
+Continuing from the tsukkomi I had made without thinking, I was about to say goodbye when Hinata stopped and looked up at me.
+
 [Hinata] "...Goodbye? Mr. Human, should Hinata go back to the elf?"
 
 It's troubling when people look me in the eye and ask me questions like that.
@@ -955,12 +957,12 @@ Well, I also feel like I want to be with everyone a little more...especially Hin
 
 After all, I never get tired of watching Hinata's expression change as she spins around, and I want to keep her by my side forever.
 
-"I can't say it's better to go back. I want to be with Hinata too."
-
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0040
+"I can't say it's better to go back. I want to be with Hinata too."
+
 [Hinata] "So..."
 
 Hinata loosened her clenched fist and let out a sigh of relief.
@@ -969,55 +971,53 @@ Hinata loosened her clenched fist and let out a sigh of relief.
 
 If you're looking for an elf who has left the barrier, it wouldn't be strange for them to come looking for you again before the barrier is completely closed.
 
-At that time, if I say I won't return, won't that mean I won't be able to return to the elf village?
-
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0041
+At that time, if I say I won't return, won't that mean I won't be able to return to the elf village?
+
 [Hinata] "No, I think it's okay."
 
-I wonder why I thought Hinata looked sad when she was smiling.
-
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0042
+I wonder why I thought Hinata looked sad when she was smiling.
+
 [Hinata] "Izumi's elf won't come looking for you if Hinata is the only one missing."
 
 “Is there something else you need to do since you told me to hurry?”
 
-I didn't say that I would come again if you asked me that. If you said you sent a message, I guess that means you should come back by yourself.
-
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0043
+I didn't say that I would come again if you asked me that. If you said you sent a message, I guess that means you should come back by yourself.
+
 [Hinata] "Yes, I'm sure so. Izumi's elf must be busy! I'm sure she won't have time to come looking for Hinata."
 
 Hinata was smiling happily as usual, but for some reason something resembling a thorn scratched inside my chest.
 
-"...Hinata"
-
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0044
+"...Hinata"
+
 [Hinata] “What is it, Human-san?”
 
 “No, it’s nothing.”
 
-I didn't know what to say, so I patted Hinata on the head.
-
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 #voice hinf0045
+I didn't know what to say, so I patted Hinata on the head.
+
 [Hinata] "Wow!? If you crumple up, you'll get stuck in the head!"
 
 ...Are you thinking too much?
 
-At the sound of a cheerful protest, I shook off the cloudy feeling that had formed in my chest.
-
-;dh02_1
+;dh02_1へ
 #next dh02_1

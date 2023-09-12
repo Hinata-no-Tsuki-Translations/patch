@@ -2,7 +2,7 @@
 "You're important to me. That's why."
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0223
 [Hinata] "Haw!? Human-san, what about Hinata...is that important?"
@@ -12,7 +12,7 @@ I was a little embarrassed, but I nodded firmly and repeated.
 "Ah. It's important."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0224
 [Hinata] "I see. Mr. Human is talking about Hinata. Ehehe."
@@ -30,7 +30,7 @@ Maybe it's because I'm a human, but that's probably why I feel so angry at Hinat
 "But Hinata might be someone important to me... so I want to meet her too. I'd like to say a few words of complaint and thanks."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0225
 [Hinata] “Monku and me‾? Why!?”
@@ -38,7 +38,7 @@ Maybe it's because I'm a human, but that's probably why I feel so angry at Hinat
 "I want to be angry at Hinata for making her lonely, but I still want to say thank you for giving birth to Hinata."
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0226
 [Hinata] "Thank you for letting me know..."
@@ -46,13 +46,13 @@ Maybe it's because I'm a human, but that's probably why I feel so angry at Hinat
 "Yeah. Thank you for being born. Also, thank you for coming here. I'm glad I met Hinata."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0227
 [Hinata] "Eh, hehe‾, Hinata was also nice to dare to meet Human-san!"
 
-;Hinata likeability +1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;dh02_2
+;dh02_2へ
 #next dh02_2

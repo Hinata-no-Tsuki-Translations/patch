@@ -1,14 +1,14 @@
 
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG39_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -31,27 +31,27 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
-;MCK1023 Corrected from night to day
-;BGMch2 amb003 Play
+;MCK1023夜→昼に修正
+;BGMch2 amb003 再生
 #bgvoice amb003
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0696
@@ -60,7 +60,7 @@
 “What happened all of a sudden?”
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0697
@@ -105,21 +105,21 @@ If you mean that walking at night without a moon is dangerous, then you don't ha
 However, it seems like something really happened to prevent the light from leaking outside.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0698
 [Ibara] "After the moon is eaten by wolves, the boundaries between various things become blurred until a new moon appears. Like an elf barrier."
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0699
 [Ibara] "That's why humans and demons and monsters are more likely to come into contact with each other during the new moon. Humans in particular tend to get confused because they live in a place like this and spend time with us."
 
 ;CHR I11F1 C
-#cg Ibara iba_1_11f1 medium
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0700
@@ -130,7 +130,7 @@ However, it seems like something really happened to prevent the light from leaki
 Ibara couldn't help but chuckle and blushed brightly.
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0701
@@ -139,7 +139,7 @@ Ibara couldn't help but chuckle and blushed brightly.
 "Thank you, Ibara."
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0702
@@ -149,7 +149,7 @@ Ibara couldn't help but chuckle and blushed brightly.
 #cg all clear
 #wipe fade
 
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 #se 1 se013
 
 Ibara must have been embarrassed, so he snorted and left.
@@ -157,7 +157,7 @@ Ibara must have been embarrassed, so he snorted and left.
 #mes clear
 #wait 1000
 
-;blackout
+;暗転
 ;#face off
 
 ;MCK
@@ -167,11 +167,11 @@ Ibara must have been embarrassed, so he snorted and left.
 #bgvoice stop 4000
 #wait 4000
 
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
-;Background: Mountain hut (evening/night)
+;背景：山小屋（夕・夜）
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -187,14 +187,14 @@ As Ibara told me, I reinforced the hut so that the light wouldn't leak out at ni
 "However, if I'm sleeping, they might come and wake me up... ah."
 
 
-;EV picture - EV029 "Good night everyone"
+;ＥＶ絵――EV029『みんなでおやすみ』
 
 ;SMODE 026 PLAY
 #label replay026
 #setscene 25
 ;#bg BG07b_1
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -207,14 +207,14 @@ When I looked over, it seemed like everyone was taking a nap, not just me.
 #mes clear
 
 ;MCK
-;BGMch2 bgm013 play
+;BGMch2 bgm013 再生
 #bgm 0 13
-;music box
+;オルゴール
 
-;EVCG EV029A1 "Good night everyone"
+;EVCG EV029A1『みんなでおやすみ』
 #face off
 #cg all clear
-#cg event ev029a1_2 background
+#cg イベント ev029a1_2 背景
 #wipe fade
 
 #voice hinb0575
@@ -262,15 +262,15 @@ I felt like I was praying to no one else, I just wish they would let me stay lik
 ;SMODE 026 STOP
 #endscene
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
 #wipe fade
 
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
-;Background: Mountain hut (evening/night)
+;背景：山小屋（夕・夜）
 
 #wait 1000
 
@@ -280,7 +280,7 @@ As soon as I sat up to boil the water.
 
 ;SE
 
-;orcs
+;オークたち
 
 [? ? ? ] “Voaaaaaaaaaaaaaaa…”
 
@@ -288,7 +288,7 @@ A voice that sounded like a scream could be heard from a distance. Moreover, it 
 
 ;SE
 
-;? ? ?
+;？？？
 [? ? ? ] “Gyaun!”
 
 The roar of a wild dog, which resembles a scream, sometimes mixes with the growling sounds.
@@ -303,7 +303,7 @@ I hurriedly stuck to the wall and searched for any sign outside.
 
 ;SE
 
-;orcs
+;オークたち
 
 [? ? ? ] “Vaaaaaaaaaaaaaaa…”
 
@@ -312,7 +312,7 @@ A low, horrifying growl and the sound of a branch being crushed. The sound of so
 Something is coming closer.
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0576
@@ -325,14 +325,14 @@ Something is coming closer.
 #wipe fade
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0704
 [Ibara] “Huh!?”
 
 ;CHR T02F R
-#cg Tsukiyo tuk_1_02f right
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -345,7 +345,7 @@ Something is coming closer.
 #wipe fade
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0570
@@ -356,7 +356,7 @@ Something is coming closer.
 #wipe fade
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0577
@@ -367,7 +367,7 @@ Something is coming closer.
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0705
@@ -375,14 +375,14 @@ Something is coming closer.
 
 Hinata hurriedly covered her mouth at Ibara's scolding.
 
-;No portrait
+;立ち絵なし
 ;FACE H06F1_A
 
 #voice hinb0578
 [Hinata] "Mo...mogomogo..."
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0706
@@ -394,7 +394,7 @@ Hinata hurriedly covered her mouth at Ibara's scolding.
 #cg all clear
 #wipe fade
 
-;Background Inside the hut (night)
+;背景　小屋内（夜）
 ;BG:BG07b_3
 #cg all clear
 #bg BG07b_3
@@ -405,9 +405,9 @@ I turned off most of the lights in the room, lit only a small candle, and gather
 "A demon...what exactly is it?"
 
 ;MCK1023
-;BGMch2 bgm010 play
+;BGMch2 bgm010 再生
 #bgm 0 10
-;orc theme
+;オークのテーマ
 
 Orcs, ogres, goblins, trolls, kobolds, dwarves, and Beowolves are just like elves, and are no more than folklore.
 
@@ -416,16 +416,16 @@ There are rumors that people who died suspiciously in the mountains were attacke
 The fact that I actually saw it is just a joke at a drinking table.
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 ;CHR K01F1A R
-#cg Konomi kon_1_01f1a Right
+#cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice ibab0707
 [Ibara] "No matter how much we know about that, we only know a part of it. But I do know that there are people who can understand the story and people who can't understand it."
 
 ;CHR K01F1B R
-#cg Konomi kon_1_01f1b Right
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0571
@@ -438,14 +438,14 @@ Konomi spoke in a laid-back manner, but I was shocked at what he said.
 "W-what should I do?"
 
 ;CHR K02F2 R
-#cg Konomi kon_1_02f2 Right
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0572
 [Konomi] "If it seems like it's coming near you, you can only hope that it will pass by."
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0708
@@ -461,7 +461,7 @@ Konomi spoke in a laid-back manner, but I was shocked at what he said.
 "How do I know if this is an orc or not?"
 
 ;CHR K05F R
-#cg Konomi kon_1_05f Right
+#cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0573
@@ -472,7 +472,7 @@ Konomi spoke in a laid-back manner, but I was shocked at what he said.
 #wipe fade
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -489,7 +489,7 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 #wipe fade
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0574
@@ -507,7 +507,7 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 #wipe fade
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -520,7 +520,7 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 #wipe fade
 
 ;CHR K05F C
-#cg Konomi kon_1_05f Medium
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0575
@@ -566,13 +566,13 @@ Unpleasant sweat is pouring out from all over my body.
 #voice tikb0625
 [Tsukiyo] "Hawawawawa..."
 
-;BGMch2 amb004 stop
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;BGMch2 amb002 play
+;BGMch2 amb002 再生
 #bgvoice amb002
 
-;Background: Outside the mountain hut (night)
+;背景：山小屋外（夜）
 ;BG:BG08b_3
 #cg all clear
 #bg BG08b_3
@@ -588,7 +588,7 @@ In the darkness of the night, where you can't even rely on moonlight, you feel l
 
 No, it's like asking me to find it from here.
 
-;SE se014 Bird calls
+;SE se014 鳥の鳴き声
 #se 1 se014
 
 While I was wondering, I heard the sound of someone stepping on a branch nearby, and a fishy smell wafted in the air.
@@ -597,18 +597,18 @@ There is a light trying to pass by the back side of the hut. I could see it from
 
 ...It's an orc!
 
-;・Likeability judgment occurs
-;A: Hinata has the highest favorability rating of 3 or higher.
-;B: Ibara has the highest favorability rating of 3 or higher.
-;C: Konomi has the highest favorability rating of 3 or higher
-;D: Tsukiyo has the highest favorability rating of 3 or higher.
-;E: There are no characters with likability rating of 3 or higher.
+;・好感度判定発生
+;Ａ：ヒナタが好感度3以上で一番高い
+;Ｂ：イバラが好感度3以上で一番高い
+;Ｃ：コノミが好感度3以上で一番高い
+;Ｄ：ツキヨが好感度3以上で一番高い
+;Ｅ：好感度3以上のキャラがいない
 
-;A ⇒ Jump to "b09h"
-;B⇒Jump to "b09i"
-;C ⇒ Jump to "b09k"
-;D ⇒ Jump to "b09t"
-;E⇒Jump to "bbadend""
+;Ａ⇒『b09h』へジャンプ
+;Ｂ⇒『b09i』へジャンプ
+;Ｃ⇒『b09k』へジャンプ
+;Ｄ⇒『b09t』へジャンプ
+;Ｅ⇒『bbadend』へジャンプ"
 
 #if f1>=4 b09h:
 #if f2>=4 b09i:

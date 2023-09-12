@@ -2,8 +2,8 @@
 ;FACE ON DBG1023
 #face on
 
-;Background: In front of the mountain hut (night)
-;No change
+;背景：山小屋前（夜）
+;変更なし
 
 I hold my breath, hold my breath, and wait for the orcs to pass by.
 
@@ -17,7 +17,7 @@ Where are the orcs going?
 
 I quietly followed them.
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -52,7 +52,7 @@ Even if the orcs don't find me, I don't know what will happen.
 When I turned around to leave, I saw a familiar face.
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0610
@@ -66,7 +66,7 @@ When I turned around to leave, I saw a familiar face.
 "S-shh!"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0612
@@ -75,7 +75,7 @@ When I turned around to leave, I saw a familiar face.
 "Why did you follow me?"
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinb0613
@@ -84,7 +84,7 @@ When I turned around to leave, I saw a familiar face.
 "So, shush! Be quiet! The orcs will see you, right?"
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0614
@@ -149,7 +149,7 @@ The orc came so close that I could almost stroke his nose, but when he was calle
 "...phew"
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0618
@@ -162,7 +162,7 @@ It seems like the orcs that came near us are complaining because they left the g
 “Let’s run away now.”
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0619
@@ -176,7 +176,7 @@ There's no guarantee that I won't come back on a whim.
 
 I hugged Hinata sideways and slowly backed away, creating some distance between her and then running at full speed.
 
-;MCK (Change the following two to FACE)
+;MCK（下記2つFACEに変更）
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
@@ -197,7 +197,7 @@ I hugged Hinata sideways and slowly backed away, creating some distance between 
 #cg all clear
 #wipe fade
 
-;Background: In front of the mountain hut (night)
+;背景：山小屋前（夜）
 
 ;BG:BG08b_3
 #cg all clear
@@ -209,7 +209,7 @@ When I got back to the hut, I finally took a breather.
 "If you come back here, you'll be fine."
 
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0622
@@ -218,7 +218,7 @@ When I got back to the hut, I finally took a breather.
 "I get really anxious when Hinata gives me the stamp of approval."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0623
@@ -228,13 +228,13 @@ When I got back to the hut, I finally took a breather.
 #cg all clear
 #wipe fade
 
-;BGMch2 amb002 stop
+;BGMch2 amb002 停止
 #bgvoice stop
 
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 
 ;BG:BG07b_3
 #cg all clear
@@ -242,7 +242,7 @@ When I got back to the hut, I finally took a breather.
 #wipe fade
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0603
@@ -253,7 +253,7 @@ When I got back to the hut, I finally took a breather.
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -266,7 +266,7 @@ When I got back to the hut, I finally took a breather.
 #wipe fade
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0749
@@ -281,7 +281,7 @@ When I got back to the hut, I finally took a breather.
 It wasn't until I entered the hut that I finally broke down.
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0604
@@ -292,7 +292,7 @@ It wasn't until I entered the hut that I finally broke down.
 #wipe fade
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0624
@@ -305,7 +305,7 @@ Hinata said, making a strange face by crushing her nose and pulling her cheeks.
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0750
@@ -316,7 +316,7 @@ Hinata said, making a strange face by crushing her nose and pulling her cheeks.
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -335,7 +335,7 @@ Ibara and Tsukiyo are shaking, even though Hinata's weird face isn't scary in th
 Perhaps because the thread of tension was gone, Hinata's weird face was so funny that I couldn't help but notice it.
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0625
@@ -344,7 +344,7 @@ Perhaps because the thread of tension was gone, Hinata's weird face was so funny
 "Stop looking at me with that face."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0626
@@ -355,7 +355,7 @@ Perhaps because the thread of tension was gone, Hinata's weird face was so funny
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0751
@@ -366,7 +366,7 @@ Perhaps because the thread of tension was gone, Hinata's weird face was so funny
 #wipe fade
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 
 #voice hinb0627
@@ -379,7 +379,7 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 #wipe fade
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0605
@@ -392,7 +392,7 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0752
@@ -403,7 +403,7 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -417,14 +417,14 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 
 "Oh yeah, just like this..."
 
-;SE se013 Door slamming sound
+;SE se013 扉のバタン音
 #se 1 se013
 
 Suddenly, a strong, fishy wind came in.
 
 "Hinata! Ibara! Konomi! Tsukiyo!"
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
@@ -432,7 +432,7 @@ Suddenly, a strong, fishy wind came in.
 #wipe fade
 
 ;MCK
-;SE se016
+;SE se016 
 #se 1 se016
 
 Gakon!
@@ -446,10 +446,10 @@ The door was smashed down with a loud bang.
 With a bang, the orc appeared and was struck by something like a club, and sparks flew in front of me.
 
 ;MCK
-;SE se015 Footsteps thump
+;SE se015  足音ドスン
 #se 1 se015
 
-;BGMch2 amb004 stop
+;BGMch2 amb004 停止
 #bgvoice stop
 
 #mes clear
@@ -460,16 +460,16 @@ With a bang, the orc appeared and was struck by something like a club, and spark
 #setscene 26
 #bg black
 
-;BGMch2 amb002 play
+;BGMch2 amb002 再生
 #bgvoice amb002
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
 #wipe fade
 
-;No portrait
+;立ち絵なし
 
 #voice ibab0753
 [Ibara] "Ningen, wake up! Ningen!"
@@ -496,16 +496,16 @@ Was I beaten...?
 
 When I opened my eyes, what met my eyes was an unbelievable sight.
 
-;BGMch1 bgm010 play
+;BGMch1 bgm010 再生
 #bgm 0 10
 
-;EV picture--EV030 "Gangbang by Orc/Hinataibara"
+;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
 ;EVCG EV030A1
 ;#face off
 
 
-#cg event ev030a1 background
+#cg イベント ev030a1 背景
 #wipe fade
 
 #voice hinb0629
@@ -516,10 +516,10 @@ When I opened my eyes, what met my eyes was an unbelievable sight.
 
 "Hinata, Ibara!"
 
-;EV picture--EV031 "Gangbang by Orcs/Konomi Tsukiyo"
+;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
 ;EVCG EV031A1
-#cg event ev031a1 background
+#cg イベント ev031a1 背景
 #wipe fade
 
 #voice konb0607
@@ -530,7 +530,7 @@ When I opened my eyes, what met my eyes was an unbelievable sight.
 
 "Konomi! Tsukiyo!"
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -549,10 +549,10 @@ Some orcs are sitting on top of me, grinning.
 
 "Dammit!"
 
-;EV picture--EV030 "Gangbang by Orc/Hinataibara"
+;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
 ;EVCG EV030A1
-#cg event ev030a2 background
+#cg イベント ev030a2 背景
 #wipe fade
 
 
@@ -586,10 +586,10 @@ The orc's callous, ugly, caterpillar-like fingers crawl over Ibara and Hinata's 
 
 The thorns that were kissed by the orcs were unable to bear the smell and let out sounds similar to sobbing over and over again.
 
-;EV picture--EV031 "Gangbang by Orcs/Konomi Tsukiyo"
+;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
 ;EVCG EV031A1
-#cg event ev031b1 background
+#cg イベント ev031b1 背景
 #wipe fade
 
 
@@ -665,10 +665,10 @@ The orcs laugh vulgarly at the unfunny joke.
 
 Konomi and Tsukiyo, who were impaled from both the front and back, were shaking their hips lewdly while crying.
 
-;EV picture--EV030 "Gangbang by Orc/Hinataibara"
+;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
 ;EVCG EV030A1
-#cg event ev030b1 background
+#cg イベント ev030b1 背景
 #wipe fade
 
 #voice ibab0758
@@ -713,7 +713,7 @@ It may have been an instinctive move, but it was almost comical to see how well-
 
 [Oak] "Your ass is getting thicker. Hey, get your ass together and tighten it."
 
-#cg event ev030c1 background
+#cg イベント ev030c1 背景
 #wipe fade
 
 #voice hinb0635
@@ -763,10 +763,10 @@ It seemed like a pool of semen was forming, resembling a puddle, around the elf 
 #voice hinb0639
 [Hinata] "Even though you're whispering, don't do it! You'll lose your temper if you're so disgusting...!"
 
-;EV picture--EV031 "Gangbang by Orcs/Konomi Tsukiyo"
+;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
 ;EVCG EV031A1
-#cg event ev031c1 background
+#cg イベント ev031c1 背景
 #wipe fade
 
 #voice konb0611
@@ -840,10 +840,10 @@ There was no way that I, a human, could withstand the power of an orc that could
 
 The elves won't be released, and I won't be saved.
 
-;EV picture--EV030 "Gangbang by Orc/Hinataibara"
+;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
 ;EVCG EV030A1
-#cg event ev030c1 background
+#cg イベント ev030c1 背景
 #wipe fade
 
 #voice hinb0640
@@ -852,10 +852,10 @@ The elves won't be released, and I won't be saved.
 #voice ibab0768
 [Ibara] "Ah... I'm ejaculating so much inside me... My stomach is so full... I'm getting full of the orc's semen..."
 
-;EV picture--EV031 "Gangbang by Orcs/Konomi Tsukiyo"
+;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
 ;EVCG EV031A1
-#cg event ev031c1 background
+#cg イベント ev031c1 背景
 #wipe fade
 
 #voice konb0614
@@ -866,20 +866,20 @@ The elves won't be released, and I won't be saved.
 
 My consciousness melted into darkness as I listened to the elves' soothing voices, which were completely sweet and melting.
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
 #wipe fade
 
-;No portrait
+;立ち絵なし
 
 #voice hinb0641
 [Hinata] "Aaaan...aaaan..."
@@ -942,7 +942,7 @@ My consciousness melted into darkness as I listened to the elves' soothing voice
 [Oak] "Hyahahaha, buhihihihihihi"
 
 ;EVCG EV001C2
-#cg event ev001c2 background
+#cg イベント ev001c2 背景
 #wipe fade
 
 On the night of the new moon, the orcs laugh loudly.
@@ -950,20 +950,20 @@ On the night of the new moon, the orcs laugh loudly.
 ;SMODE 027 STOP
 #endscene
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;interval
+;インターバル
 
-;⇒After "BADEND" is displayed, go to the title
+;⇒『BADEND』表示後、タイトルへ
 
-;*End display
+;※エンド表示
 ;BG:BG62_1
 
-;MCK end card picture not appearing
+;MCKエンドカード絵が出てない
 
 #mes off fade
 #system off fade

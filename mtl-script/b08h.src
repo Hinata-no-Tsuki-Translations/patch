@@ -1,12 +1,12 @@
 
 
-;Background: Mountain hut (daytime)
-;No change
+;背景：山小屋（昼）
+;変更なし
 
 "Hinata, where do you think Hinata should go?"
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0522
@@ -21,14 +21,14 @@ In that case, it would be best to let Hinata, who doesn't think anything of it, 
 #wipe fade
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0582
 [Ibara] "Why are you asking Hinata?! I'm the one who said I was going to lead you to the fruit carpet!"
 
 ;CHR K02F2 R
-#cg Konomi kon_1_02f2 Right
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0522
@@ -39,7 +39,7 @@ In that case, it would be best to let Hinata, who doesn't think anything of it, 
 #wipe fade
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -54,7 +54,7 @@ In that case, it would be best to let Hinata, who doesn't think anything of it, 
 Contrary to everyone who looked a little resentful, Hinata looked surprised and nervous.
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0523
@@ -65,9 +65,9 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 #wipe fade
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 ;CHR T09F R
-#cg Tsukiyo tuk_1_09f right
+#cg ツキヨ tuk_1_09f 右
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -79,11 +79,11 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 [Tsukiyo] “Tell me, I want to give it to you…”
 
 ;CHR OFF
-#cg Tsukiyo clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg Konomi kon_1_01f1b Right
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0523
@@ -95,7 +95,7 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 "Ah, yes, yes. I'm asking Hinata now, so we won't fight."
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0585
@@ -104,11 +104,11 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 "Hey, what is Hinata? I'm asking Hinata right now."
 
 ;CHR OFF
-#cg Konomi clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T05F_L R
-#cg Tsukiyo tuk_1_05f_l right
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -117,11 +117,11 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 [Tsukiyo] “Huh, I was left in charge of Hinata.”
 
 ;CHR OFF
-#cg Tsukiyo clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR K01F1B R
-#cg Konomi kon_1_01f1b Right
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0524
@@ -134,7 +134,7 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 #wipe fade
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0524
@@ -143,7 +143,7 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 
 #voice hinb0525
@@ -173,7 +173,7 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 [Konomi] “Ahahaha‾ Don’t try to force them to choose, Ibara‾”
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0526
@@ -182,7 +182,7 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 “Obviously.”
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0527
@@ -193,7 +193,7 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 #wipe fade
 
 ;MCK
-;SE se025 Bang inside the hut
+;SE se025 小屋内でドタンバタン
 #se 1 se025
 
 Hinata ran around holding her ears.
@@ -203,7 +203,7 @@ I wonder why I keep running around when I try to think.
 "Anywhere is fine, but if you don't decide soon, I'm going to get hungry."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0528
@@ -212,7 +212,7 @@ I wonder why I keep running around when I try to think.
 Hinata started running faster and suddenly stopped.
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0529
@@ -232,7 +232,7 @@ I've been adding a lot of new things I've learned recently.
 #wipe fade
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0587
@@ -245,7 +245,7 @@ Ibara clearly looks disgusted.
 #wipe fade
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0531
@@ -258,7 +258,7 @@ If we go to the place shown on the map, it doesn't mean we're going to go where 
 "Yeah, that might be best."
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 
 #voice hinb0532
@@ -266,20 +266,20 @@ If we go to the place shown on the map, it doesn't mean we're going to go where 
 
 Hinata looked content as she held up the book with great care.
 
-;BGMch2 amb003 stop
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest (daytime)
+;背景：森（昼）
 ;BG:BG04_1
 #cg all clear
 #bg BG04_1
@@ -288,7 +288,7 @@ Hinata looked content as she held up the book with great care.
 That's why I came looking for fruit while looking at the map...
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0533
@@ -299,7 +299,7 @@ That's why I came looking for fruit while looking at the map...
 #wipe fade
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0526
@@ -310,7 +310,7 @@ That's why I came looking for fruit while looking at the map...
 #wipe fade
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0588
@@ -322,7 +322,7 @@ That's why I came looking for fruit while looking at the map...
 #wipe fade
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -349,7 +349,7 @@ When I chewed it with my teeth, it tasted sweet.
 "Ah, this is delicious."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0534
@@ -360,7 +360,7 @@ Hinata happily goes around picking various fruits, but all of them are green fru
 "Hinata, I feel happy, but I can't eat that."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0535
@@ -371,7 +371,7 @@ Hinata immediately dropped the fruit she picked.
 "Ah. The purple fruit, the red fruit, and the orange fruit will take a little longer to eat."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0536
@@ -384,7 +384,7 @@ Hinata immediately dropped the fruit she picked.
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -399,7 +399,7 @@ Hinata immediately dropped the fruit she picked.
 #wipe fade
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0537
@@ -410,7 +410,7 @@ Hinata immediately dropped the fruit she picked.
 #wipe fade
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 Ibara pouted his lips at my explanation.
@@ -418,7 +418,7 @@ Ibara pouted his lips at my explanation.
 This is just because I didn't go to the place I recommended.
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0589
@@ -427,7 +427,7 @@ This is just because I didn't go to the place I recommended.
 "Don't say that. Unripe fruit has a really strong taste."
 
 ;CHR K01F2B R
-#cg Konomi kon_1_01f2b Right
+#cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0527
@@ -436,14 +436,14 @@ This is just because I didn't go to the place I recommended.
 Konomi laughed and shoved the unripe fruit of Kurenainomi into Ibara's mouth.
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0590
 [Ibara] "Fugya!? What, what is this! Sour! Ugh, Peppe!"
 
 ;CHR K04F R
-#cg Konomi kon_1_04f Right
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0528
@@ -457,7 +457,7 @@ I think it's to explain things to Ibara, but most of the time they don't do terr
 [Ibara] “What are you doing, Konomi!?”
 
 ;CHR K02F2 R
-#cg Konomi kon_1_02f2 Right
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0529
@@ -467,7 +467,7 @@ I think it's to explain things to Ibara, but most of the time they don't do terr
 [Ibara] “I’m going to throw that one in Konomi’s mouth too!”
 
 ;CHR K02F1 R
-#cg Konomi kon_1_02f1 Right
+#cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0530
@@ -480,7 +480,7 @@ The chase between Ibara and Konomi began as usual.
 #wipe fade
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -503,7 +503,7 @@ After I finish eating this dish, I'll quickly return to the hut and read a book 
 I'm recovering from illness, and that's good.
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0538
@@ -511,13 +511,13 @@ I'm recovering from illness, and that's good.
 
 "Wow, that's an Ogre Goroshi. Don't touch it!"
 
-;No audio
-;Hinata: "Howl?"
+;音声なし
+;ヒナタ:「ほえ？」
 
 "That's poison. It's extremely poisonous. If you eat it by mistake, your intestines will hurt like they're going to be torn apart! Oh, good. I didn't put any juice on my hands."
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0539
@@ -530,7 +530,7 @@ It's highly poisonous, but the color is poisonous, so you can easily tell if you
 Hinata crushed the Ogre Goroshi with a stone, but it didn't seem to touch the juice.
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0540
@@ -539,7 +539,7 @@ Hinata crushed the Ogre Goroshi with a stone, but it didn't seem to touch the ju
 "It's... it's not poisonous, but it's bitter."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0541
@@ -554,7 +554,7 @@ Hinata crushed the Ogre Goroshi with a stone, but it didn't seem to touch the ju
 For the time being, I failed to tell him that I would be back after I ate the Ishinashi.
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0542
@@ -563,7 +563,7 @@ For the time being, I failed to tell him that I would be back after I ate the Is
 "Hmm? Which one? Ah, I guess humans won't eat this. But birds will like it."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0543
@@ -571,8 +571,8 @@ For the time being, I failed to tell him that I would be back after I ate the Is
 
 Hinata seems to be having fun, so it's okay.
 
-;Hinata likeability +1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;b09
+;b09へ
 #next b09

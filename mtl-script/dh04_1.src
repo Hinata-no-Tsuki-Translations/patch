@@ -1,15 +1,15 @@
 
-;※eye catching
+;※アイキャッチ
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG43_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -32,18 +32,18 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
-;BGMch2 amb010 play
+;BGMch2 amb010 再生
 #bgvoice amb010
 
-;Background: Flower field (daytime)
+;背景：花畑（昼）
 ;BG:BG11_1
 #cg all clear
 #bg BG11_1
@@ -52,7 +52,7 @@
 "...I see, there doesn't seem to be any regularity, but are there actually fruits? Flowers of the same species grow in clusters."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0292
 [Hinata] "Oh, I see..."
@@ -60,7 +60,7 @@
 "Hmm? Did Hinata find out something too?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0293
 [Hinata] “I now know that Ohana is beautiful!”
@@ -68,7 +68,7 @@
 "Haha, that might be the most important thing."
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0294
 [Hinata] “Also, there are some types of honey that are delicious and some that are not.”
@@ -76,7 +76,7 @@
 "Ah, that's right. Come to think of it, there are some types of honey that are delicious and some are not, but I wonder if the species that bees find delicious and the species that humans find delicious are different."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0295
 [Hinata] "Huh? Hinata is telling the story of Ohana no Mitsuno."
@@ -84,7 +84,7 @@
 “Ah, honey is made from the nectar that bees collect from flowers.The reason why it tastes different may be because the flowers it collects are different.”
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0296
 [Hinata] "Oh, ho... Hachi-san is going to leave behind all the hard work he's done to collect them. It's so cute."
@@ -92,7 +92,7 @@
 "...Ah, I hadn't thought of that, but maybe that's the case."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0297
 [Hinata] "But how do I get honey from Hachi-san? Isn't that what happens when you try to play a prank on Hachi-san? You get pushed!?"
@@ -100,7 +100,7 @@
 “Well, it’s a lot of things. Things like smoking.”
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0298
 [Hinata] "Wow!? Hiaburi!? I feel sorry for Hachi!?"
@@ -108,7 +108,7 @@
 “It seems like they continue to collect honey, so in that case, it wouldn’t necessarily be roasting.”
 
 ;CHR H03F2_A C
-#cg Hinata hin_1_03f2_a Medium
+#cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0299
 [Hinata] “Ningen-san is doing a great job.”
@@ -120,10 +120,10 @@
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest (evening)
+;背景：森（夕）
 ;BG:BG04_2
 #cg all clear
 #bg BG04_2
@@ -166,7 +166,7 @@ Come to think of it, did I mention that the barrier road is getting narrower?
 If that's the case, I guess it would be better to get Hinata back as soon as possible, but I couldn't make that kind of decision between me and my feelings of regretting the days we spent together.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0300
 [Hinata] "Ninegaen-san, your morning was beautiful! Hinata's daily battle with Hanabatake would be great."
@@ -174,7 +174,7 @@ If that's the case, I guess it would be better to get Hinata back as soon as pos
 Hinata is happily clinging to my arm.
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0301
 [Hinata] "Well then, Hinata, I'll be helping you make food for Mr. Human again!"
@@ -184,7 +184,7 @@ Hinata is happily clinging to my arm.
 While talking about this, we returned to the mountain hut and what we saw was...
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0302
 [Hinata] "Huh? It looks like Koya's side is brighter."
@@ -201,15 +201,15 @@ While talking about this, we returned to the mountain hut and what we saw was...
 #setscene 31
 #bg BG04_2
 
-;EV picture - EV??? "Burning Mountain Hut"
+;ＥＶ絵――EV???『燃え盛る山小屋』
 ;EVCG EV036A1
 ;#face off
 
 
-#cg event ev036a1 background
+#cg イベント ev036a1 背景
 #wipe fade
 
-;Hinata face is not displayed during this event
+;このイベント中、ヒナタフェイス表示なし
 
 We were speechless.
 
@@ -285,8 +285,8 @@ Suddenly Hinata tried to run towards the still burning hut.
 
 I hurriedly grabbed Hinata's arm.
 
-;Choice occurs
-#select ab
+;選択肢発生
+#select a b
 A: Wait
 B: It can't be helped.
 
@@ -296,5 +296,5 @@ B: It can't be helped.
 #label b
 #next dh04b top
 
-;Select A ⇒ Jump to "dh04a"
-;Select B ⇒ Jump to "dh04b"
+;Ａを選択⇒『dh04a』へジャンプ
+;Ｂを選択⇒『dh04b』へジャンプ

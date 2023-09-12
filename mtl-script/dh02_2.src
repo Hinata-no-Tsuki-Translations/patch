@@ -1,6 +1,6 @@
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0114
 [Hinata] "The other elves don't really care about Hinata. That's why I had to smile at Hinata."
@@ -10,7 +10,7 @@
 "picture?"
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0115
 [Hinata] "If you're smiling, it's like we're friends even if you can't join us, right? It looks like you don't feel lonely even when you're all alone!"
@@ -18,19 +18,19 @@
 Hinata said as if they were having a fun conversation.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0116
 [Hinata] "Elves don't play lonely or sad stories. That's why Hinata doesn't play lonely or sad stories either."
 
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 #voice hinf0117
 [Hinata] "When you get lonely, it's hard to do normal things, so just smile and laugh."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0118
 [Hinata] "You smile even when you're being teased. Also, since you're with other elves, it's like you're playing together, right?"
@@ -46,7 +46,7 @@ Seeing Hinata smiling makes my heart tighten even more.
 Did she swallow her sadness and loneliness and always smile and look at the other elves?
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0119
 [Hinata] "Even if you freak out or get hurt, no one will help you. If Ohana gets upset, just smile and bear it."
@@ -54,7 +54,7 @@ Did she swallow her sadness and loneliness and always smile and look at the othe
 "..."
 
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 #voice hinf0120
 [Hinata] "Then, it's okay if no one helps you. After all, even though you're smiling, there's nothing you need to help."
@@ -62,7 +62,7 @@ Did she swallow her sadness and loneliness and always smile and look at the othe
 I instinctively hugged Hinata.
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0121
 [Hinata] "What? I wish I could be that tight, Human-san."
@@ -72,7 +72,7 @@ I instinctively hugged Hinata.
 Hinata didn't seem to understand why she was being hugged, but she seemed happy.
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0122
 [Hinata] "Ah! I understand, you're going to do something creepy, right!?"
@@ -80,7 +80,7 @@ Hinata didn't seem to understand why she was being hugged, but she seemed happy.
 "picture?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0123
 [Hinata] “I love how tight and warm Hinata is!”
@@ -90,13 +90,13 @@ Hinata jumped up and took off her clothes.
 #bgm 0 03
 
 ;CHR H04N2 C
-#cg Hinata hin_1_04n2 medium
+#cg ヒナタ hin_1_04n2 中
 #wipe fade
 #voice hinf0124
 [Hinata] "Huh? Don't you have a Fukunu-san? Hinata, I think it would be more comfortable if you used a Fukunu-nu."
 
 ;CHR H11N C
-#cg Hinata hin_1_11n medium
+#cg ヒナタ hin_1_11n 中
 #wipe fade
 #voice hinf0125
 [Hinata] “When our bodies touch each other, it feels warm and fluffy!”
@@ -108,7 +108,7 @@ I also took off my clothes and opened my arms to Hinata.
 "I understand...come on."
 
 ;CHR H07N C
-#cg Hinata hin_1_07n medium
+#cg ヒナタ hin_1_07n 中
 #wipe fade
 
 #voice hinf0126
@@ -118,7 +118,7 @@ I also took off my clothes and opened my arms to Hinata.
 #cg all clear
 #wipe fade
 
-;EV picture――EV??? “Hinata face to face sitting position”
+;ＥＶ絵――EV???『ヒナタ対面座位』
 ;EVCG EV033
 ;#face off
 
@@ -127,7 +127,7 @@ I also took off my clothes and opened my arms to Hinata.
 #setscene 28
 #bg bg09_1
 
-#cg event ev033a1 background
+#cg イベント ev033a1 背景
 #wipe fade
 
 #voice hinf0127
@@ -236,7 +236,7 @@ The movement of the intestinal wall to evacuate helps the body's lower back rise
 
 ;SE
 
-#cg event ev033a2 background
+#cg イベント ev033a2 背景
 #wipe fade
 
 Cloudy white mucus was spewed out from Hinata's young stem with such force that it almost made a thumping sound.
@@ -294,13 +294,13 @@ The soft flesh wall swallows my cock as if inviting it all the way.
 
 Hinata wiggles her hips as if begging, and my movements accelerate accordingly.
 
-#cg event ev033a3 background
+#cg イベント ev033a3 背景
 #wipe fade
 
 #voice hinf0156
 [Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!It's hot!
 
-;SE se023 Ejaculation sound 1 (Ningen)
+;SE se023 射精音1（ニンゲン）
 #se 1 se023
 
 #cg all clear
@@ -309,7 +309,7 @@ Hinata wiggles her hips as if begging, and my movements accelerate accordingly.
 
 #cg all clear
 #bg bg09_1
-#cg event ev033a3 background
+#cg イベント ev033a3 背景
 #wipe fade 300
 
 As soon as I reached inside Hinata, Hinata also reached inside.
@@ -320,8 +320,8 @@ As soon as I reached inside Hinata, Hinata also reached inside.
 ;SMODE 029 STOP
 #endscene
 
-;Background: Cave
-;If you can't use nude standing pictures, just leave it as event CG.
+;背景：洞穴
+;立ち絵裸使えなければイベントCGままで
 ;BG:BG09
 #cg all clear
 #bg bg09_1
@@ -330,7 +330,7 @@ As soon as I reached inside Hinata, Hinata also reached inside.
 Hinata entrusted her feverish body to me and wriggled around.
 
 ;CHR H01N1 C
-#cg Hinata hin_1_01n1 medium
+#cg ヒナタ hin_1_01n1 中
 #wipe fade
 #voice hinf0158
 [Hinata] "It's so nice to be together after all."
@@ -339,7 +339,7 @@ Hinata's hands were soaked in blood and turned bright red as she smiled happily.
 "Hey, that hand..."
 
 ;CHR H06N2 C
-#cg Hinata hin_1_06n2 medium
+#cg ヒナタ hin_1_06n2 中
 #wipe fade
 #voice hinf0159
 [Hinata] "Hyaaah!? Did you get hurt when you hit me!?"
@@ -351,7 +351,7 @@ Without thinking, he took Hinata's finger into his mouth.
 The taste of salty, iron-smelling blood spread through my mouth, but strangely, my tongue didn't catch the wound.
 
 ;CHR H08N1 C
-#cg Hinata hin_1_08n1 medium
+#cg ヒナタ hin_1_08n1 中
 #wipe fade
 #voice hinf0160
 [Hinata] "Kyafu... it tickled me... ahahahaha"
@@ -365,7 +365,7 @@ When Hinata removed her mouth, there was not a single scratch on Hinata's finger
 When Hinata wiped her hand with the edge of her clothes, she couldn't find any scars.
 
 ;CHR H06N2 C
-#cg Hinata hin_1_06n2 medium
+#cg ヒナタ hin_1_06n2 中
 #wipe fade
 #voice hinf0161
 [Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
@@ -377,7 +377,7 @@ If you lived with the elves, did your healing ability become contagious?
 The moment I relaxed, a sharp pain ran down my back.
 
 ;CHR H05N C
-#cg Hinata hin_1_05n medium
+#cg ヒナタ hin_1_05n 中
 #wipe fade
 #voice hinf0162
 [Hinata] "Whoa!? Human-san, are you okay!?"
@@ -385,7 +385,7 @@ The moment I relaxed, a sharp pain ran down my back.
 "...The blood from earlier might not have been Hinata's."
 
 ;CHR H02N1 C
-#cg Hinata hin_1_02n1 medium
+#cg ヒナタ hin_1_02n1 中
 #wipe fade
 #voice hinf0163
 [Hinata] "Ningen-san was injured!? Show me your clothes!"
@@ -395,7 +395,7 @@ The moment I relaxed, a sharp pain ran down my back.
 When I showed my back to her, Hinata let out a sharp sound.
 
 ;CHR H06N2 C
-#cg Hinata hin_1_06n2 medium
+#cg ヒナタ hin_1_06n2 中
 #wipe fade
 #voice hinf0164
 [Hinata] "Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
@@ -407,7 +407,7 @@ When I turned my attention to my back, I noticed a widespread tingling sensation
 It seems like he had a lot of scratches because he was carrying Hinata's weight and because he was so absorbed in it.
 
 ;CHR H11N C
-#cg Hinata hin_1_11n medium
+#cg ヒナタ hin_1_11n 中
 #wipe fade
 #voice hinf0165
 [Hinata] "It's a big deal! I'll heal Hinata!"
@@ -419,7 +419,7 @@ Along with a slight tingling sensation, a gentle warmth heals my wounds.
 "I got too carried away in a place full of pebbles like this. Sorry, thank you."
 
 ;CHR H02N1 C
-#cg Hinata hin_1_02n1 medium
+#cg ヒナタ hin_1_02n1 中
 #wipe fade
 #voice hinf0166
 [Hinata] “Well, you have to keep a close eye on people!”
@@ -429,7 +429,7 @@ Along with a slight tingling sensation, a gentle warmth heals my wounds.
 Hinata said this lightly, trying not to worry too much, and Hinata puffed out her cheeks.
 
 ;CHR H03N1 C
-#cg Hinata hin_1_03n1 medium
+#cg ヒナタ hin_1_03n1 中
 #wipe fade
 #voice hinf0167
 [Hinata] “Hinata is also important to Human-san!? That’s why Human-san has to be human-san important too!”
@@ -437,7 +437,7 @@ Hinata said this lightly, trying not to worry too much, and Hinata puffed out he
 "picture……?"
 
 ;CHR H02N2 C
-#cg Hinata hin_1_02n2 medium
+#cg ヒナタ hin_1_02n2 中
 #wipe fade
 #voice hinf0168
 [Hinata] “Ningen-san is Hinata’s key!”
@@ -449,7 +449,7 @@ I hugged Hinata at the unexpected words.
 Is it okay to think that Hinata is obsessed with me?
 
 ;CHR H08N1 C
-#cg Hinata hin_1_08n1 medium
+#cg ヒナタ hin_1_08n1 中
 #wipe fade
 #voice hinf0169
 [Hinata] "Wow...I like it when you squeeze me even if I don't do anything creepy. It's creepy."
@@ -457,7 +457,7 @@ Is it okay to think that Hinata is obsessed with me?
 Hinata smiles happily in my arms.
 
 ;CHR H01N1 C
-#cg Hinata hin_1_01n1 medium
+#cg ヒナタ hin_1_01n1 中
 #wipe fade
 #voice hinf0170
 [Hinata] "Ningen-san does a lot of nice things for Hinata. Hehehe. I want Hinata to do some nice things for Hinata too."
@@ -467,7 +467,7 @@ When he rubbed his soft cheek against my chest, my body bulged even though I had
 "When Hinata said that, it made me want to do it even more."
 
 ;CHR H07N C
-#cg Hinata hin_1_07n medium
+#cg ヒナタ hin_1_07n 中
 #wipe fade
 #voice hinf0171
 [Hinata] "Sonano!? Wow! Let's do something even more creepy!"
@@ -479,7 +479,7 @@ Hinata squatted down, and this time she rubbed her soft cheek against the cock.
 My body swells with heat from that pleasant touch.
 
 ;CHR H01N1 C
-#cg Hinata hin_1_01n1 medium
+#cg ヒナタ hin_1_01n1 中
 #wipe fade
 #voice hinf0172
 [Hinata] "Wow, it's getting hot and hard! How are you going to do it this time!?"
@@ -487,7 +487,7 @@ My body swells with heat from that pleasant touch.
 Hinata happily rubbed his cheeks even more, and then her eyes lit up as if to say she had come up with a good idea.
 
 ;CHR H07N C
-#cg Hinata hin_1_07n medium
+#cg ヒナタ hin_1_07n 中
 #wipe fade
 #voice hinf0173
 [Hinata] "Okay! If you're going to eat my dick, I'll make you a human too!"
@@ -500,9 +500,9 @@ Hinata happily rubbed his cheeks even more, and then her eyes lit up as if to sa
 #setscene 29
 #bg BG09_1
 
-;EV picture--EV034 "Hinata Fellatio"
+;ＥＶ絵――EV034『ヒナタフェラ』
 ;EVCG EV034
-#cg event ev034a1 background
+#cg イベント ev034a1 背景
 #wipe fade
 
 #voice hinf0174
@@ -518,7 +518,7 @@ Hinata's oral skills were clumsy, but the mere fact that she was servicing me wi
 
 "Okay. Well, first, please lick the whole thing carefully."
 
-#cg event ev034a2 background
+#cg イベント ev034a2 背景
 #wipe fade
 
 #voice hinf0177
@@ -552,7 +552,7 @@ Perhaps it was instinct, but Hinata eagerly sucked on Suzuguchi.
 #voice hinf0183
 [Hinata] "It's a big deal! I don't need it in Hinata's big mouth!? But I'll do my best! Ahmmm"
 
-#cg event ev034b1 background
+#cg イベント ev034b1 背景
 #wipe fade
 
 Hinata put my object in her mouth and then looked up at me, as if asking me what she should do.
@@ -601,7 +601,7 @@ Hinata seemed amused by my slight stillness and became even more furious in her 
 #voice hinf0191
 [Hinata] "Hmm!? Nggh..."
 
-#cg event ev034b2 background
+#cg イベント ev034b2 背景
 #wipe fade
 
 Unable to withstand the regular stimulation that was applied to his glans, his testicles contracted and squirted out new semen.
@@ -622,7 +622,7 @@ A lump-like cloudy mucus was clinging to Hinata's pale pink tongue.
 
 Hinata kept her mouth open and swallowed the semen on her tongue little by little.
 
-#cg event ev034c1 background
+#cg イベント ev034c1 背景
 #wipe fade
 
 #voice hinf0194
@@ -678,9 +678,9 @@ The cock that had just reached that gesture raised its sickle neck again.
 #setscene 30
 #bg BG09_1
 
-;EV picture--EV035 "Hinata standing back"
+;ＥＶ絵――EV035『ヒナタ立ちバック』
 ;EVCG EV035
-#cg event ev035a1 background
+#cg イベント ev035a1 背景
 #wipe fade
 
 I made Hinata stick out her butt and inserted it from behind.
@@ -699,7 +699,7 @@ Her bottom, which still retains its softness from before, easily swallows my sti
 
 Grabbing her waist firmly, I press her down and dig deep into her.
 
-#cg event ev035a2 background
+#cg イベント ev035a2 背景
 #wipe fade
 
 #voice hinf0203
@@ -717,7 +717,7 @@ Grabbing her waist firmly, I press her down and dig deep into her.
 
 "Hinata is smooth everywhere and feels good when I touch her."
 
-#cg event ev035a3 background
+#cg イベント ev035a3 背景
 #wipe fade
 
 #voice hinf0206
@@ -782,7 +782,7 @@ In time with Hinata's climax, he slammed his hips hard and pried the depths of H
 ;SE
 #se 1 se024
 
-#cg event ev035b1 background
+#cg イベント ev035b1 背景
 #wipe fade
 
 #voice hinf0215
@@ -801,10 +801,10 @@ Kari's neck caught on Hinata's edge and bounced.
 
 With that impact, I ejaculated a lot onto Hinata's ass.
 
-;SE se023 Ejaculation sound 1 (Ningen)
+;SE se023 射精音1（ニンゲン）
 #se 1 se023
 
-#cg event ev035b2 background
+#cg イベント ev035b2 背景
 #wipe fade
 
 #voice hinf0217
@@ -829,7 +829,7 @@ Hinata smiled, feeling weak as if she was about to collapse at any moment.
 ;SMODE 031 STOP
 #endscene
 
-;Background: Cave
+;背景：洞穴
 ;BG:BG09
 #cg all clear
 #bg BG09_1
@@ -838,7 +838,7 @@ Hinata smiled, feeling weak as if she was about to collapse at any moment.
 “…Let’s go home soon.”
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0220
 [Hinata] "That's right! Let's go home!"
@@ -846,7 +846,7 @@ Hinata smiled, feeling weak as if she was about to collapse at any moment.
 Hinata, who had put on her clothes, clung to my chest as if she were jumping into it.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0221
 [Hinata] "Hmm, but I think it's better to stick them together! You can hear all the excitement of human beings, and it's fun!"
@@ -854,7 +854,7 @@ Hinata, who had put on her clothes, clung to my chest as if she were jumping int
 "I see. Then, how about we hang out together more when we get back to the mountain hut? Then I'll pet you even more."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0222
 [Hinata] "Yeah! Hurry up!"
@@ -863,5 +863,5 @@ Hinata, who had put on her clothes, clung to my chest as if she were jumping int
 
 #bgm 0 stop 2000
 
-;dh03
+;dh03へ
 #next dh03

@@ -1,13 +1,13 @@
 
 
 
-;Background: Mountain hut (daytime)
-;No change
+;背景：山小屋（昼）
+;変更なし
 
 “Is the place Tsukiyo knows close to here?”
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -23,7 +23,7 @@ Tsukiyo looks around for a moment, as if she doesn't understand what she's been 
 "Yes, I'm asking Tsukiyo."
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -38,9 +38,9 @@ Then Tsukiyo lowered her head, shrank as if she were going to disappear, and fin
 #wipe fade
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 ;CHR H01F1_A R
-#cg Hinata hin_1_01f1_a right
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice ibab0683
@@ -54,14 +54,14 @@ Then Tsukiyo lowered her head, shrank as if she were going to disappear, and fin
 #wipe fade
 
 ;CHR K01F1B R
-#cg Konomi kon_1_01f1b Right
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0560
 [Konomi] "Wanaba‾? A trap field? Tsukiyo, are you setting a trap‾?"
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0684
@@ -70,7 +70,7 @@ Then Tsukiyo lowered her head, shrank as if she were going to disappear, and fin
 "Why should I be set a trap?"
 
 ;CHR I11F2 L
-#cg Ibara iba_1_11f2 left
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0685
@@ -83,7 +83,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR T01F_L R
-#cg Tsukiyo tuk_1_01f_l right
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -92,7 +92,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 [Tsukiyo] "He's not a bad guy."
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0686
@@ -103,21 +103,21 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR H01F1_A R
-#cg Hinata hin_1_01f1_a right
+#cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hinb0565
 [Hinata] "I understand! Let's fight the fruit!"
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0687
 [Ibara] “Are the fruits attacking me!? Isn’t that a monster, not a fruit?”
 
 ;CHR H08F1_A R
-#cg Hinata hin_1_08f1_a right
+#cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hinb0566
@@ -128,14 +128,14 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR K04F R
-#cg Konomi kon_1_04f Right
+#cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0561
 [Konomi] “Kya‾, the sour juice will definitely stain your face‾”
 
 ;CHR I08F L
-#cg Ibara iba_1_08f left
+#cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0688
@@ -148,7 +148,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -161,16 +161,16 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR H02F2_A L
-#cg Hinata hin_1_02f2_a left
+#cg ヒナタ hin_1_02f2_a 左
 ;CHR K06F R
-#cg Konomi kon_1_06f Right
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice hinb0567
 [Hinata] "Huh? Then, who is setting the trap?"
 
 ;CHR K05F R
-#cg Konomi kon_1_05f Right
+#cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0562
@@ -184,7 +184,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 “Didn’t I hear wrongly that you meant a secret spot instead of a trap place?”
 
 ;CHR H04F2_A L
-#cg Hinata hin_1_04f2_a left
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0568
@@ -197,7 +197,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 [Ibara] “Wanaba, right?”
 
 ;CHR K01F2B R
-#cg Konomi kon_1_01f2b Right
+#cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0564
@@ -210,7 +210,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 [Ibara] "Smart, that's a great trap."
 
 ;CHR H06F2_A L
-#cg Hinata hin_1_06f2_a left
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0569
@@ -221,7 +221,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -244,9 +244,9 @@ Tsukiyo is confused and looks at me as if clinging to me.
 #wipe fade
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 ;CHR H04F2_A R
-#cg Hinata hin_1_04f2_a right
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 
 #voice ibab0691
@@ -256,14 +256,14 @@ Tsukiyo is confused and looks at me as if clinging to me.
 [Hinata] "Sakushi? Nanteimi?"
 
 ;CHR I07F L
-#cg Ibara iba_1_07f left
+#cg イバラ iba_1_07f 左
 #wipe fade
 
 #voice ibab0692
 [Ibara] "It means you're smart, that's a compliment."
 
 ;CHR H08F2_A R
-#cg Hinata hin_1_08f2_a right
+#cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hinb0571
@@ -276,7 +276,7 @@ No matter how I explain to Ibara, who is already convinced that it is a ``trap g
 #wipe fade
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0566
@@ -291,7 +291,7 @@ Konomi suddenly started talking to Tsukiyo and me.
 #wipe fade
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -303,20 +303,20 @@ Konomi suddenly started talking to Tsukiyo and me.
 #cg all clear
 #wipe fade
 
-;BGMch2 amb003 stop
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest (daytime)
+;背景：森（昼）
 ;BG BG04_1
 #cg all clear
 #bg BG04_1
@@ -329,14 +329,14 @@ The ``secret spot'' that Tsukiyo brought me to was filled with bright red Kurena
 It was quite a sight.
 
 ;CHR H06F2_A L
-#cg Hinata hin_1_06f2_a left
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0572
 [Hinata] "Hooooooooooooooooo! That's amazing! So much fruit!"
 
 ;CHR I02F R
-#cg Ibara iba_1_02f right
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0693
@@ -347,21 +347,21 @@ Hinata sees a lot of fruit growing and runs towards it, but Ibara panics and tri
 However, it didn't seem like the voice of restraint reached Hinata who was so excited.
 
 ;CHR H06F1_A L
-#cg Hinata hin_1_06f1_a left
+#cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0573
 [Hinata] "It's amazing, it's full of beautiful colors like red and yellow!"
 
 ;CHR I10F2 R
-#cg Ibara iba_1_10f2 right
+#cg イバラ iba_1_10f2 右
 #wipe fade
 
 #voice ibab0694
 [Ibara] "Uh... beautiful fruit..."
 
 ;CHR H06F2_A L
-#cg Hinata hin_1_06f2_a left
+#cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0574
@@ -370,7 +370,7 @@ However, it didn't seem like the voice of restraint reached Hinata who was so ex
 "Oh, that's amazing Hinata."
 
 ;CHR I02F R
-#cg Ibara iba_1_02f right
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0695
@@ -383,7 +383,7 @@ However, it didn't seem like the voice of restraint reached Hinata who was so ex
 Ibara may no longer be able to hold back anymore, so he steps into a bush where fruit is growing.
 
 ;CHR K09F1 C
-#cg Konomi kon_1_09f1 Medium
+#cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0567
@@ -392,7 +392,7 @@ Ibara may no longer be able to hold back anymore, so he steps into a bush where 
 "Hahaha, maybe so."
 
 ;CHR K01F1A C
-#cg Konomi kon_1_01f1a Medium
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0568
@@ -405,7 +405,7 @@ Ibara may no longer be able to hold back anymore, so he steps into a bush where 
 Konomi also runs away, but Tsukiyo looks up at me with a worried look.
 
 ;CHR T02F C
-#cg Tsukiyo tuk_1_02f medium
+#cg ツキヨ tuk_1_02f 中
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -421,7 +421,7 @@ I squatted down and looked Tsukiyo in the eye.
 "Tsukiyo, thank you for showing me such an amazing place."
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -432,7 +432,7 @@ I squatted down and looked Tsukiyo in the eye.
 "Oh, I'm so happy."
 
 ;CHR T04F C
-#cg Tsukiyo tuk_1_04f medium
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 #face f_tuk_0_04f 94 466
 ;TKface
@@ -457,7 +457,7 @@ It was like I was getting more energy with each bite.
 "Oh, and it's delicious."
 
 ;CHR T09F C
-#cg Tsukiyo tuk_1_09f medium
+#cg ツキヨ tuk_1_09f 中
 #wipe fade
 #face f_tuk_0_09f 94 466
 ;TKface
@@ -468,7 +468,7 @@ It was like I was getting more energy with each bite.
 "Ah, it's hard to find such delicious Kurenai fleas. It must have been grown in a good environment."
 
 ;CHR T04F C
-#cg Tsukiyo tuk_1_04f medium
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 #face f_tuk_0_04f 94 466
 ;TKface
@@ -481,7 +481,7 @@ Tsukiyo smiled happily as if she had been praised herself.
 "Hey, why don't you try Tsukiyo too?"
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -494,7 +494,7 @@ When she received the large cranial flea that I had given her, she held it with 
 "copper?"
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -505,7 +505,7 @@ When she received the large cranial flea that I had given her, she held it with 
 "Right?"
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -534,7 +534,7 @@ When I warned Tsukiyo just in case, Tsukiyo showed off his strength by making a 
 "That's reassuring. Thank you, Tsukiyo."
 
 ;CHR T04F C
-#cg Tsukiyo tuk_1_04f medium
+#cg ツキヨ tuk_1_04f 中
 #wipe fade
 #face f_tuk_0_04f 94 466
 ;TKface
@@ -548,7 +548,7 @@ Tsukiyo smiled shyly when he was thanked.
 #cg all clear
 #wipe fade
 
-;Background: Mountain hut (evening)
+;背景：山小屋（夕）
 ;BG:BG08b_2
 #cg all clear
 #bg BG08b_2
@@ -564,8 +564,8 @@ I'll take this opportunity to make some sweets using this candied food.
 
 At that time, I have to give it to Tsukiyo first.
 
-;Tsukiyo favorability +1
+;ツキヨ好感度+1
 #set f4 f4+1
 
-;b09
+;b09へ
 #next b09

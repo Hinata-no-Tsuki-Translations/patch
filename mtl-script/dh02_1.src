@@ -1,15 +1,15 @@
 
-;※eye catching
+;※アイキャッチ
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG41_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -32,18 +32,18 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
-;BGMch2 amb003 Play
+;BGMch2 amb003 再生
 #bgvoice amb003
 
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -56,7 +56,7 @@ Hinata was noisier than anyone else, but apparently she wasn't as noisy as every
 It felt strange at first, but I got used to this situation within a few days.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0060
 [Hinata] "Ningen-san! Where are you going today?"
@@ -64,7 +64,7 @@ It felt strange at first, but I got used to this situation within a few days.
 "I'm thinking of going to the cave."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0061
 [Hinata] “Here you go!”
@@ -72,16 +72,16 @@ It felt strange at first, but I got used to this situation within a few days.
 "There's nothing written in this book, but it would be scary if a wild beast or something like that lived there, so I need to prepare just in case."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0062
 [Hinata] "Oh! It's scary when there are scary things! Bears, tigers, elephants, etc."
 
 "There aren't any tigers or elephants, right? If there are, wouldn't it be wild dogs or wolves? Bears... I wouldn't be surprised if there were, though. If there were any, I'd say the ones you'd be scared of are wolverines."
 
-;Was there any audio? If not, cut it
+;音声はありましたっけ？　なければカットで
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinf0062a
@@ -104,7 +104,7 @@ I thought he might come to pick me up, so I only went out to my nearby area for 
 After all, I sent a message, so I guess that means I can go back on my own.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0063
 [Hinata] "Hmm? I'm not coming to see you! Hinata is a hot potato."
@@ -112,7 +112,7 @@ After all, I sent a message, so I guess that means I can go back on my own.
 "Special...? Is it because you're a half-elf?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0064
 [Hinata] "That's right. Hinata, I think it's good that you stay here forever, no matter what you do!"
@@ -120,7 +120,7 @@ After all, I sent a message, so I guess that means I can go back on my own.
 “Does that mean you want to be with me?”
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0065
 [Hinata] "That's right. I think it would be fun to be with Human-san forever!"
@@ -128,7 +128,7 @@ After all, I sent a message, so I guess that means I can go back on my own.
 "……I see"
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0066
 [Hinata] "Hey, Human-san is grinning! Did something good happen?"
@@ -136,7 +136,7 @@ After all, I sent a message, so I guess that means I can go back on my own.
 "I was so happy! Because Hinata said she wanted to be with me."
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0067
 [Hinata] "Are you happy when Hinata is with you? Hinata is happy too!"
@@ -146,7 +146,7 @@ After all, I sent a message, so I guess that means I can go back on my own.
 I couldn't help but pat Hinata on the head.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0068
 [Hinata] "Ah! You're going to crumple up again, aren't you? ...Hehehe. I love being stroked!"
@@ -164,14 +164,14 @@ I wish you could stay by my side forever.
 
 #bgvoice stop
 
-;Background: Cave (daytime)
+;背景：洞穴（昼）
 ;BG:BG09_1
 #cg all clear
 #bg BG09_1
 #wipe fade
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0069
 [Hinata] "Wow! It's so wide all the way!"
@@ -179,7 +179,7 @@ I wish you could stay by my side forever.
 "Ah, come on! You can't just rush in all of a sudden, right? You don't know what's in the cave or what's in there."
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0070
 [Hinata] "Hey!? Hinata has had a lot of stuff!?"
@@ -187,7 +187,7 @@ I wish you could stay by my side forever.
 "It's not a failure, but there may be wild beasts living there, and there may be poisonous air."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0071
 [Hinata] "Hawa!? What's the poison!?"
@@ -199,9 +199,9 @@ Hinata panicked and covered her mouth, but if the poison was really gushing out,
 I carefully looked around the entrance and stepped inside.
 You never know what's going to happen, even if it's been okay up until now.
 
-;There was nothing inside.
+;中は何もいなかったよ
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0072
 [Hinata] “Mogagomogamogamogago!”
@@ -213,7 +213,7 @@ Yeah, there's also a flow of fresh air.
 "It doesn't seem to be poisonous, so it's okay."
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0073
 [Hinata] "Puhhh! That's good!"
@@ -223,7 +223,7 @@ I've been there before, so I think it's safe, but it's best to be careful when e
 "There are unexpected dangers in forests, but also in caves and caves, so be careful next time even if you're in a familiar place."
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0074
 [Hinata] "Okay! I'll attach Hinata!"
@@ -243,7 +243,7 @@ Huts, too, seem to become relatively small as the population density increases.
 It felt much more spacious than when I came with 5 people before.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0075
 [Hinata] "That's right. It's so spacious. Even if you roll around, you'll be fine!"
@@ -251,7 +251,7 @@ It felt much more spacious than when I came with 5 people before.
 "If you look around, you'll find stones."
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0076
 [Hinata] "Haw!? Is there a stone in your lap!? I want to be there!?"
@@ -259,7 +259,7 @@ It felt much more spacious than when I came with 5 people before.
 "Look, it's okay. Even if it says it's stabbed, it just dug into it, and there's no blood coming out."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 #voice hinf0077
 [Hinata] "Wow!? Really? Was it okay!?"
@@ -267,7 +267,7 @@ It felt much more spacious than when I came with 5 people before.
 “Even if you get hurt, the only thing I can do is lick you, so be careful, okay?”
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0078
 [Hinata] "Yeah, I understand. I'll take care of you!"
@@ -275,7 +275,7 @@ It felt much more spacious than when I came with 5 people before.
 "really?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0079
 [Hinata] “Is it true!?”
@@ -283,7 +283,7 @@ It felt much more spacious than when I came with 5 people before.
 "For now, let's take a little break and then continue exploring. Erm, there's nothing near here..."
 
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0080
 [Hinata] "Wow, I'm so cute!"
@@ -291,7 +291,7 @@ It felt much more spacious than when I came with 5 people before.
 "If you run around even though it's a break, you'll get even more tired, right? It's a break, so you need to rest properly."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0081
 [Hinata] "Are you sure you're going to rest? Well then, I'll sit down next to Human-san!"
@@ -299,7 +299,7 @@ It felt much more spacious than when I came with 5 people before.
 Hinata sat down next to me in a good mood and leaned her body against me.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0082
 [Hinata] "Huh? There's something a little different about your armpit!"
@@ -307,7 +307,7 @@ Hinata sat down next to me in a good mood and leaned her body against me.
 "Ah, ah, where did you rub it just now? Let me see."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0083
 [Hinata] "Just a little! You can lick it yourself!"
@@ -315,7 +315,7 @@ Hinata sat down next to me in a good mood and leaned her body against me.
 Hinata said as she reached out to touch her arm, but the wound was slightly out of reach.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0084
 [Hinata] "Huh? Hare? Nkuuuuuuuu!! Hannya!?"
@@ -327,7 +327,7 @@ Hinata's injuries were minor, whether they were cut by grass or stone fragments.
 If it's like this, you can really just lick it. There's no particular need to stop the bleeding.
 
 ;CHR H08F2_A C
-#cg Hinata hin_1_08f2_a Medium
+#cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0085
 [Hinata] "Huh... it tickles! Nyahahahaha"
@@ -337,7 +337,7 @@ When I licked the wound, Hinata let out a ticklish laugh.
 “Now that I think about it, when we first met, you said that if you were injured, you would lick yourself and heal yourself.”
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0086
 [Hinata] "Sodayo? Since everyone is gone, I have to do my best again and lick it myself!"
@@ -347,7 +347,7 @@ Hinata seems to be burning with a somewhat strange sense of mission.
 "If you need it, I have herbs to stop the bleeding, and if you can't lick it yourself like now, I'll lick it for you."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 #voice hinf0087
 [Hinata] "Hofo!? Human-san is so kind!?"
@@ -355,7 +355,7 @@ Hinata seems to be burning with a somewhat strange sense of mission.
 "It's not really something that excites you, is it?"
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0088
 [Hinata] "Hinata, you're so happy!? Until I came to Human-san's world, Jibun was the only one I could hurt!"
@@ -363,7 +363,7 @@ Hinata seems to be burning with a somewhat strange sense of mission.
 "...Hinata?"
 
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 #voice hinf0089
 [Hinata] "I'm glad that Ibara, Konomi, and Tsukiyo healed my injuries! There are so many good things about coming here."
@@ -371,7 +371,7 @@ Hinata seems to be burning with a somewhat strange sense of mission.
 Hinata leans closer to me, resting her head on me.
 
 ;CHR H03F2_A C
-#cg Hinata hin_1_03f2_a Medium
+#cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0090
 [Hinata] "Hinata, you've been alone for so long. There was only one half-elf. Do you know that, Human-san? Being alone is very lonely."
@@ -383,7 +383,7 @@ I couldn't get along well with others in the village, so it was like I was alway
 I feel like I can understand the pain of being a different person from everyone else.
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0091
 [Hinata] "Maybe, but if we go back to the elf world, Hinata will be alone again. There's no place for Hinata over there."
@@ -393,10 +393,10 @@ I feel like I can understand the pain of being a different person from everyone 
 Then, Hinata talked about how she lived in the elf world.
 
 #bgvoice stop
-;BGMch2 amb009 Play
+;BGMch2 amb009 再生
 #bgvoice amb009
 
-;Background: Elf Forest
+;背景：エルフの森
 ;BG:BG02
 #cg all clear
 #bg BG02_1
@@ -434,14 +434,14 @@ Then, Hinata talked about how she lived in the elf world.
 
 #bgvoice stop
 
-;Background: Cave
+;背景：洞穴
 ;BG:BG09_1
 #cg all clear
 #bg BG09_1
 #wipe fade
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0097
 [Hinata] “Of course, Hinata is much better as a friend!”
@@ -449,19 +449,19 @@ Then, Hinata talked about how she lived in the elf world.
 Hinata laughed so brightly that it was hard to believe that she had just told him about how she had been bullied all the time in the elf village.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0098
 [Hinata] “Hinata was really happy that Ibara, Konomi, and Tsukiyo were friends with her, even if it was just for a little while.”
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0099
 [Hinata] "Actually, Hinata wanted to get along with everyone. When I came to Mr. Human's world, that request came true!"
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0100
 [Hinata] “That’s why I’m really, really glad that Hinatamon came out!”
@@ -477,7 +477,7 @@ However, Hinata only shook her head.
 #bgm 0 04
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0101
 [Hinata] "Uh, I don't know. Maybe the male was Human-san... but I don't know what happened!"
@@ -492,13 +492,13 @@ I can't do anything about the past, but the thought of why I can't help Hinata w
 
 "Don't you know what kind of person your father was?"
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0102
 [Hinata] "No one will tell you anything, right? I've heard many things being said, but I don't know which ones are true."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0103
 [Hinata] "Tabibito? Someone from the nearby village? An elf hunter? I think he probably got scared because he's a human."
@@ -506,7 +506,7 @@ I can't do anything about the past, but the thought of why I can't help Hinata w
 "As for the name..."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0104
 [Hinata] “Hmm, I don’t know.”
@@ -522,7 +522,7 @@ Or maybe it was so long ago that there are no records left...
 "How old is Hinata?"
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0105
 [Hinata] "How many? There's only one Hinata!? Are there any others!?"
@@ -530,7 +530,7 @@ Or maybe it was so long ago that there are no records left...
 "Oh, no, that's not what I meant, I just asked how many years have passed since you were born."
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0106
 [Hinata] "What... huh...?"
@@ -539,22 +539,22 @@ Hinata blinked, as if to say that she didn't really understand what he was askin
 
 “It’s like, how many times have we celebrated the new year? That’s right, don’t you know? I don’t keep records like that.”
 
-;Cut if there is no audio
+;音声ない場合カット　ココカラ
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
-; "Do human beings count things like that!? It's so hard to have to count so many things!"
+;「ニンゲンはそういうのかぞえてるの！？　いっぱいいっぱいかぞえなきゃいけないのにたいへんだね！」
 
-;[Hinata]
-;"……Just as I thought"
-;Cut if there is no audio
+;【ヒナタ】
+;「……やっぱりか」
+;音声ない場合カット　ココマデ
 
 I thought that knowing when she was born would help me find Hinata's father, but I don't know...
 
 "Have you heard nothing from your mother about your father?"
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0107
 [Hinata] "Mom, are you a female? The female one? I heard you got raped."
@@ -562,7 +562,7 @@ I thought that knowing when she was born would help me find Hinata's father, but
 "Exiled? Does that mean you were kicked out of the elf village?"
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0108
 [Hinata] "Iwamashi? Imawashi? I don't really understand, but I was told that females who carry humans will also attract trouble."
@@ -586,7 +586,7 @@ He should have known that the son he left behind would be shunned by his own peo
 "What happens to elves that are exiled?"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0109
 [Hinata] “Hmm, I don’t know.”
@@ -594,7 +594,7 @@ He should have known that the son he left behind would be shunned by his own peo
 “…Does that mean you don’t remember your mother very well?”
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0110
 [Hinata] "I don't remember. Maybe there was a time?"
@@ -604,7 +604,7 @@ Hinata tilted her head as if she were talking about someone who had little to do
 "Don't you ever miss me?"
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0111
 [Hinata] "Koishi? Are you going to become Koishi? What does it look like?"
@@ -614,7 +614,7 @@ Hinata tilted her head as if she were talking about someone who had little to do
 "Do you ever feel like you want to see me... or want me to be by your side?"
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0112
 [Hinata] "It's okay!? I've never met your mother, so I want you to be by my side, right?"
@@ -630,15 +630,15 @@ But, at least as a human, I feel angry that her mother left Hinata behind.
 "Hinata...um, don't you want to meet your father and mother?"
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0113
 [Hinata] "Hmm? I don't really understand. Human-san, why are you asking me that?"
 
 She asked me back, looking a little confused, and I...
 
-;Choice occurs
-#select ab
+;選択肢発生
+#select a b
 A: You are important to me.
 B: Shall I let you meet your mother?
 
@@ -648,5 +648,5 @@ B: Shall I let you meet your mother?
 #label b
 #next dh02b top
 
-;Select A ⇒ Jump to "dh02a"
-;Select B ⇒ Jump to "dh02b"
+;Ａを選択⇒『dh02a』へジャンプ
+;Ｂを選択⇒『dh02b』へジャンプ

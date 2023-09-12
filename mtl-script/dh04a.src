@@ -3,10 +3,10 @@
 ;#face off
 
 
-;#cg event ev036a1 background
+;#cg イベント ev036a1 背景
 ;#wipe fade
 
-;Hinata face is not displayed during this event
+;このイベント中、ヒナタフェイス表示なし
 
 "Wait, Hinata! I understand how you feel, but you can't jump in!"
 
@@ -37,8 +37,8 @@ I hugged Hinata tightly as she tried to shake me off and jump into the fire.
 
 Hinata leaned limply against me and trembled as if sobbing.
 
-;Hinata likeability +1
+;ヒナタ好感度+1
 #set f1 f1+1
 
-;dh04_2
+;dh04_2へ
 #next dh04_2

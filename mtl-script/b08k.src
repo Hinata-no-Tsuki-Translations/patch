@@ -1,11 +1,11 @@
 
-;Background: Mountain hut (daytime)
-;No change
+;背景：山小屋（昼）
+;変更なし
 
 "Is Konomi's secret location far away?"
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0540
@@ -16,7 +16,7 @@
 "I'm hungry and if it's not too far away, I think we'll go somewhere else today."
 
 ;CHR K05F C
-#cg Konomi kon_1_05f Medium
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0541
@@ -25,7 +25,7 @@
 “So, is it close after all?”
 
 ;CHR K04F C
-#cg Konomi kon_1_04f Medium
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0542
@@ -34,7 +34,7 @@
 "Well, that's true, but..."
 
 ;CHR K01F2B C
-#cg Konomi kon_1_01f2b Medium
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0543
@@ -45,9 +45,9 @@
 #wipe fade
 
 ;CHR K01F2A L
-#cg Konomi kon_1_01f2a left
+#cg コノミ kon_1_01f2a 左
 ;CHR I02F R
-#cg Ibara iba_1_02f right
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0670
@@ -72,14 +72,14 @@
 "I feel like if I miss this opportunity, I won't be able to teach you anything."
 
 ;CHR I11F2 R
-#cg Ibara iba_1_11f2 right
+#cg イバラ iba_1_11f2 右
 #wipe fade
 
 #voice ibab0671
 [Ibara] "Uh...but"
 
 ;CHR K01F2B L
-#cg Konomi kon_1_01f2b left
+#cg コノミ kon_1_01f2b 左
 #wipe fade
 
 #voice konb0544
@@ -91,7 +91,7 @@
 “Look, you’re curious, aren’t you?”
 
 ;CHR I02F R
-#cg Ibara iba_1_02f right
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0673
@@ -100,28 +100,28 @@
 "Yeah, can you tell me another time?"
 
 ;CHR I01F R
-#cg Ibara iba_1_01f right
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0674
 [Ibara] "If you asked me to do that, I'm not a demon either. I'll give it to Konomi this time!"
 
 ;CHR K09F1 L
-#cg Konomi kon_1_09f1 left
+#cg コノミ kon_1_09f1 左
 #wipe fade
 
 #voice konb0545
 [Konomi] “Thank you ‾Ibara‾”
 
 ;CHR I07F R
-#cg Ibara iba_1_07f right
+#cg イバラ iba_1_07f 右
 #wipe fade
 
 #voice ibab0675
 [Ibara] "Yes. Be grateful, flatter, and honor!"
 
 ;CHR K02F1 L
-#cg Konomi kon_1_02f1 left
+#cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0546
@@ -135,7 +135,7 @@
 [Hinata] “Konomi, did Ibara give you something!?”
 
 ;CHR K02F2 L
-#cg Konomi kon_1_02f2 left
+#cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0547
@@ -149,7 +149,7 @@
 [Hinata] "Oh! What did you get? Something good? Something good?"
 
 ;CHR I04F R
-#cg Ibara iba_1_04f right
+#cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0676
@@ -159,20 +159,20 @@
 #cg all clear
 #wipe fade
 
-;BGMch2 amb003 stop
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest (daytime)
+;背景：森（昼）
 ;BG:BG04_1
 #cg all clear
 #bg BG04_1
@@ -181,7 +181,7 @@
 "...What is this place?"
 
 ;CHR K09F1 C
-#cg Konomi kon_1_09f1 Medium
+#cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0548
@@ -198,7 +198,7 @@ What is this light purple fruit? It's my first time seeing it...
 #wipe fade
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0557
@@ -209,14 +209,14 @@ What is this light purple fruit? It's my first time seeing it...
 #wipe fade
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0677
 [Ibara] "What is this place? I've never seen anything like this anywhere else."
 
 ;CHR T06F_L R
-#cg Tsukiyo tuk_1_06f_l right
+#cg ツキヨ tuk_1_06f_l 右
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -235,7 +235,7 @@ What is this light purple fruit? It's my first time seeing it...
 [Ibara] "A snake!? Don't say anything unpleasant, it's starting to look like a snake hanging from a tree, right?"
 
 ;CHR T01F_L R
-#cg Tsukiyo tuk_1_01f_l right
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -244,7 +244,7 @@ What is this light purple fruit? It's my first time seeing it...
 [Tsukiyo] "If there were so many snakes, I wouldn't be able to tell even if they were mixed together."
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0679
@@ -265,7 +265,7 @@ I was looking up at a tree with slightly rounder fruit growing on it.
 It doesn't seem to be poisonous as there are insects and birds pecked on it...
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0549
@@ -276,7 +276,7 @@ It doesn't seem to be poisonous as there are insects and birds pecked on it...
 At Konomi's idea, I couldn't help but let out a voice that sounded like a crushed wood frog.
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0550
@@ -285,7 +285,7 @@ At Konomi's idea, I couldn't help but let out a voice that sounded like a crushe
 “Surprisingly, that means Konomi probably thinks it doesn’t taste good either.”
 
 ;CHR K09F2 C
-#cg Konomi kon_1_09f2 Medium
+#cg コノミ kon_1_09f2 中
 #wipe fade
 
 #voice konb0551
@@ -300,7 +300,7 @@ The sticky sweetness that instantly spreads in your mouth, and the astringent an
 "Pepepepe... it's sweet, but I can't eat this raw."
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0552
@@ -323,7 +323,7 @@ Yeah. It's not bad if it's just the contents.
 However, even though the skin is thick and soft, it feels like a waste to only eat the inside.
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0553
@@ -336,7 +336,7 @@ Konomi held out a branch that looked like a bunch of small, glossy red fruits...
 It's supposed to be a rare poisonous plant that only grows in cold regions, but why is it growing here? ?
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0554
@@ -347,7 +347,7 @@ It's supposed to be a rare poisonous plant that only grows in cold regions, but 
 ...Maybe you should stop accidentally eating something you've never seen before.
 
 ;CHR K05F C
-#cg Konomi kon_1_05f Medium
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0555
@@ -356,7 +356,7 @@ It's supposed to be a rare poisonous plant that only grows in cold regions, but 
 "It's not too noisy. I'm sure no one wants to eat poison."
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0556
@@ -371,7 +371,7 @@ It's supposed to be a rare poisonous plant that only grows in cold regions, but 
 Is Konomi planning to kill me?
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0680
@@ -382,7 +382,7 @@ Is Konomi planning to kill me?
 #wipe fade
 
 ;CHR T06F_L L
-#cg Tsukiyo tuk_1_06f_l left
+#cg ツキヨ tuk_1_06f_l 左
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -391,7 +391,7 @@ Is Konomi planning to kill me?
 [Tsukiyo] "Haw!? Is that so?"
 
 ;CHR H06F2_A R
-#cg Hinata hin_1_06f2_a right
+#cg ヒナタ hin_1_06f2_a 右
 #wipe fade
 
 #voice hinb0559
@@ -400,7 +400,7 @@ Is Konomi planning to kill me?
 “What do you mean, even this?”
 
 ;CHR H01F2_A R
-#cg Hinata hin_1_01f2_a right
+#cg ヒナタ hin_1_01f2_a 右
 #wipe fade
 
 #voice hinb0560
@@ -409,7 +409,7 @@ Is Konomi planning to kill me?
 "Maybe!? Maybe!?"
 
 ;CHR T01F_L L
-#cg Tsukiyo tuk_1_01f_l left
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -424,7 +424,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 "...Ah, but poison can also be used as an insect repellent and is useful for humans. In that sense, there are a lot of interesting things here."
 
 ;CHR H04F2_A R
-#cg Hinata hin_1_04f2_a right
+#cg ヒナタ hin_1_04f2_a 右
 #wipe fade
 
 #voice hinb0561
@@ -438,7 +438,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 [Ibara] “Insect repellent!?”
 
 ;CHR T02F L
-#cg Tsukiyo tuk_1_02f left
+#cg ツキヨ tuk_1_02f 左
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -453,7 +453,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 #wipe fade
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0682
@@ -466,7 +466,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 #wipe fade
 
 ;CHR K09F1 C
-#cg Konomi kon_1_09f1 Medium
+#cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0557
@@ -479,10 +479,10 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 #wipe fade
 
 ;CHR T01F_L L
-#cg Tsukiyo tuk_1_01f_l left
+#cg ツキヨ tuk_1_01f_l 左
 
 ;CHR H06F1_A R
-#cg Hinata hin_1_06f1_a right
+#cg ヒナタ hin_1_06f1_a 右
 #wipe fade
 
 #face f_tuk_0_01f_l 94 466
@@ -497,7 +497,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 "Okay, I'll be here for a little while, so everyone come play."
 
 ;CHR H07F_A R
-#cg Hinata hin_1_07f_a right
+#cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hinb0563
@@ -510,7 +510,7 @@ Before she knew it, Hinata, Tsukiyo, and Ibara were surrounding Konomi, and Kono
 Hinata and the others ran away, but only Konomi remained by my side.
 
 ;CHR K03F C
-#cg Konomi kon_1_03f Medium
+#cg コノミ kon_1_03f 中
 #wipe fade
 
 #voice konb0558
@@ -523,7 +523,7 @@ Hinata and the others ran away, but only Konomi remained by my side.
 
 Konomi looked up at me and smiled meaningfully.
 
-;Konomi favorability +1
+;コノミ好感度+1
 #set f3 f3+1
 
 ;b09k

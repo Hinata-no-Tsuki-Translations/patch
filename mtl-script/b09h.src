@@ -1,14 +1,14 @@
 
 
-;Background: In front of the mountain hut (night)
-;No change
+;背景：山小屋前（夜）
+;変更なし
 
 Seeing an orc so close to me made me barely hold back the urge to scream.
 
 The orcs I saw for the first time looked extremely ugly.
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0580
@@ -67,7 +67,7 @@ As I was breathing a deep sigh of relief, Hinata suddenly started acting up.
 "Ah, ah, that's bad. It's okay now."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinb0585
@@ -76,7 +76,7 @@ As I was breathing a deep sigh of relief, Hinata suddenly started acting up.
 Hinata exhaled loudly and took a deep breath.
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 
 #voice hinb0586
@@ -85,7 +85,7 @@ Hinata exhaled loudly and took a deep breath.
 "That's because Hinata is making a fuss!"
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0587
@@ -94,7 +94,7 @@ Hinata exhaled loudly and took a deep breath.
 "...Well, I'm glad the orcs didn't find me."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0588
@@ -103,7 +103,7 @@ Hinata exhaled loudly and took a deep breath.
 "That's right... There's no guarantee that he won't come back again, so let's go inside the cabin and be quiet for today."
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0589
@@ -115,13 +115,13 @@ Hinata exhaled loudly and took a deep breath.
 
 ...Hinata seems to lack a sense of tension.
 
-;BGMch2 amb002 stop
+;BGMch2 amb002 停止
 #bgvoice stop
 
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;Background: Inside the mountain hut (night)
+;背景：山小屋内（夜）
 ;BG:BG07b_3
 #cg all clear
 #bg BG07b_3
@@ -130,9 +130,9 @@ Hinata exhaled loudly and took a deep breath.
 When we entered the hut, elves came running towards us.
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 ;CHR T05F_L R
-#cg Tsukiyo tuk_1_05f_l right
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -141,7 +141,7 @@ When we entered the hut, elves came running towards us.
 [Ibara] “W-were you okay!?”
 
 ;CHR T06F_L R
-#cg Tsukiyo tuk_1_06f_l right
+#cg ツキヨ tuk_1_06f_l 右
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -159,7 +159,7 @@ When we entered the hut, elves came running towards us.
 "I think it's okay since we went deep into the forest, but I'm going to refrain from turning on any more lights today just in case."
 
 ;CHR I08F L
-#cg Ibara iba_1_08f left
+#cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0712
@@ -178,14 +178,14 @@ When we entered the hut, elves came running towards us.
 Hinata said, making a strange face by crushing her nose and pulling her cheeks.
 
 ;CHR I11F2 L
-#cg Ibara iba_1_11f2 left
+#cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0713
 [Ibara] “I-I’m not really scared.”
 
 ;CHR T02F R
-#cg Tsukiyo tuk_1_02f right
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -202,7 +202,7 @@ Hinata's weird face isn't scary at all, but Tsukiyo and Ibara are terrified.
 #wipe fade
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0592
@@ -223,7 +223,7 @@ Hinata's weird face isn't scary at all, but Tsukiyo and Ibara are terrified.
 [Tsukiyo] "Hauuuuuuuuu..."
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0593
@@ -234,7 +234,7 @@ Hinata uses her entire body to give an explanation with a sense of realism.
 Hmm, I guess I should be impressed with his amazing expressiveness.
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0594
@@ -247,10 +247,10 @@ He even reenacted the scene where he covered his own mouth and fluttered.
 #wipe fade
 
 ;CHR T02F L
-#cg Tsukiyo tuk_1_02f left
+#cg ツキヨ tuk_1_02f 左
 
 ;CHR I02F R
-#cg Ibara iba_1_02f right
+#cg イバラ iba_1_02f 右
 #wipe fade
 
 #face f_tuk_0_02f 94 466
@@ -273,7 +273,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 "By the way, why did Hinata come out?"
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0595
@@ -286,7 +286,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 [Konomi] "Hinata didn't ask me if I was going to see Human-kun even though I stopped her."
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinb0596
@@ -299,7 +299,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 #wipe fade
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0716
@@ -310,7 +310,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 #wipe fade
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0577-01
@@ -321,7 +321,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -334,7 +334,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 #wipe fade
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0597
@@ -343,7 +343,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 "...Well, I did my best to cover my mouth so I wouldn't make a fuss."
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 
 #voice hinb0598
@@ -356,7 +356,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 [Ibara] "Isn't that because Hinata was about to make a fuss?"
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0599
@@ -369,7 +369,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 [Ibara] “In that case, Human’s judgment is correct.”
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0600
@@ -382,7 +382,7 @@ Just as I was about to pat my chest, thinking that I was glad the brambles didn'
 [Tsukiyo] "If I had been a good girl, I don't think they would have stopped me."
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0601
@@ -398,22 +398,22 @@ Somehow, my chest felt warm.
 #cg all clear
 #wipe fade
 
-;BGMch2 amb004 stop
+;BGMch2 amb004 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Date change
+;日付変更
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: In front of the mountain hut (daytime)
+;背景：山小屋前（昼）
 ;BG:BG08b_1
 #cg all clear
 #bg BG08b_1
@@ -426,7 +426,7 @@ Therefore, I decided to cast a spell on the hut to ward off orcs.
 ...Yeah, well, I don't know how effective it is, but it's much better than nothing at all.
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0602
@@ -435,7 +435,7 @@ Therefore, I decided to cast a spell on the hut to ward off orcs.
 "No, this is not a drawing, it's a spell."
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0603
@@ -444,7 +444,7 @@ Therefore, I decided to cast a spell on the hut to ward off orcs.
 "I hope the orcs don't come."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0604
@@ -453,7 +453,7 @@ Therefore, I decided to cast a spell on the hut to ward off orcs.
 "Yeah. Besides, I don't want Hinata and the others to get involved."
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0605
@@ -466,7 +466,7 @@ Hinata blinked at my words.
 When asked what she had been thinking about since yesterday, Hinata laughed.
 
 ;CHR H08F1_A C
-#cg Hinata hin_1_08f1_a Medium
+#cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0606
@@ -482,7 +482,7 @@ I felt a throbbing pain, like a thorn stuck somewhere in my chest.
 Perhaps Hinata felt alone ever since she was in the elf village...
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinb0608
@@ -497,5 +497,5 @@ Hinata laughed as she said that, but there was a sad look in her eyes.
 
 At this moment, I felt like I was touching Hinata's real face, and I couldn't help but feel a strange emotion.
 
-;To Hinata route dh01
+;ヒナタルートdh01へ
 #next dh01_1

@@ -1,10 +1,10 @@
 
 
-;Background: Yamakomae (night)
-;No change
+;背景：山小前（夜）
+;変更なし
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0578
@@ -17,7 +17,7 @@ Konomi was silently standing behind me, and I was so surprised that my heart alm
 "Bah... I told you to stay inside."
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0579
@@ -26,7 +26,7 @@ Konomi was silently standing behind me, and I was so surprised that my heart alm
 Konomi tilted her head and peered at Oak again.
 
 ;CHR K01F1A C
-#cg Konomi kon_1_01f1a Medium
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0580
@@ -37,7 +37,7 @@ Konomi tilted her head and peered at Oak again.
 Even I feel let down when Konomi is around. There are orcs within reach if you raise your voice, so this isn't the time to be calm.
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0581
@@ -46,7 +46,7 @@ Even I feel let down when Konomi is around. There are orcs within reach if you r
 "Oh, stop it...it's scary, isn't it?"
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0582
@@ -55,7 +55,7 @@ Even I feel let down when Konomi is around. There are orcs within reach if you r
 "Stop..."
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0583
@@ -79,7 +79,7 @@ I hold my breath as a strange monster passes by so close that I can almost touch
 Once the orcs were far away, I finally took a breath.
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0584
@@ -88,7 +88,7 @@ Once the orcs were far away, I finally took a breath.
 Konomi took a peek at me as I sat down, feeling relieved.
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0585
@@ -97,7 +97,7 @@ Konomi took a peek at me as I sat down, feeling relieved.
 "Huh? What? You just passed by."
 
 ;CHR K05F C
-#cg Konomi kon_1_05f Medium
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0586
@@ -106,7 +106,7 @@ Konomi took a peek at me as I sat down, feeling relieved.
 "..."
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0587
@@ -115,7 +115,7 @@ Konomi took a peek at me as I sat down, feeling relieved.
 "...Ah, ah, that's right. I guess I'll come back today, or maybe tomorrow..."
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0588
@@ -132,7 +132,7 @@ Does that mean that it becomes a habit? Once the orcs passed through this place,
 "...Well, it's bad, it's bad!"
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0589
@@ -143,7 +143,7 @@ Does that mean that it becomes a habit? Once the orcs passed through this place,
 That's why, even though I'm safe today, I don't know what will happen if orcs appear again.
 
 ;CHR K01F1A C
-#cg Konomi kon_1_01f1a Medium
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0590
@@ -157,14 +157,14 @@ That's why, even though I'm safe today, I don't know what will happen if orcs ap
 
 I decided to secretly follow the orc.
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -188,7 +188,7 @@ The orcs seemed to have noticed too, but they didn't bother to check, so I breat
 "...phew"
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0591
@@ -199,7 +199,7 @@ The orcs seemed to have noticed too, but they didn't bother to check, so I breat
 ...Why are you following me?
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0592
@@ -210,7 +210,7 @@ Well, I didn't expect Konomi to wait quietly...
 "Then I have a favor to ask of you."
 
 ;CHR K01F1A C
-#cg Konomi kon_1_01f1a Medium
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0593
@@ -219,7 +219,7 @@ Well, I didn't expect Konomi to wait quietly...
 "Can you help me threaten the orcs?"
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0594
@@ -227,20 +227,20 @@ Well, I didn't expect Konomi to wait quietly...
 
 "Then..."
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
 #wipe fade
 
-;SE rustling sound
+;SE　ガサガサ音
 
 
 [Orc 1] “What, there are so many animals awake today.”
@@ -260,14 +260,14 @@ The orcs rustle into the thicket of the forest.
 
 In the direction where Konomi threw the stone.
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -276,7 +276,7 @@ In the direction where Konomi threw the stone.
 “I don’t know if it would fall into such a simple trap, but I wonder if we could throw stones in there and make it look like there are animals there?”
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0595
@@ -285,20 +285,20 @@ In the direction where Konomi threw the stone.
 "That's... gonyo gonyo."
 
 ;CHR K05F C
-#cg Konomi kon_1_05f Medium
+#cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0596
 [Konomi] “Hmph, I see.”
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Forest (night)
+;背景：森（夜）
 ;BG BG04_3
 #cg all clear
 #bg BG04_3
@@ -368,7 +368,7 @@ I clung to a very bendy tree and used it to counteract the attack, allowing the 
 The orcs scattered and fled.
 
 ;CHR K09F1 C
-#cg Konomi kon_1_09f1 Medium
+#cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0597
@@ -398,7 +398,7 @@ Anxiety will come later.
 I'm sorry to have to feel so scared.
 
 ;CHR K04F C
-#cg Konomi kon_1_04f Medium
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0599
@@ -411,7 +411,7 @@ As I looked at his face, I suddenly felt something resembling anxiety in my hear
 "You helped me do something dangerous, but... weren't you scared of Konomi?"
 
 ;CHR K02F2 C
-#cg Konomi kon_1_02f2 Medium
+#cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0600
@@ -424,7 +424,7 @@ Konomi tilted her head curiously.
 It feels completely different from Hinata's friendly nature and Ibara's stubbornness.
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0601
@@ -433,7 +433,7 @@ It feels completely different from Hinata's friendly nature and Ibara's stubborn
 "Ah, no, let's go back. Everyone must be worried too."
 
 ;CHR K04F C
-#cg Konomi kon_1_04f Medium
+#cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0602
@@ -441,5 +441,5 @@ It feels completely different from Hinata's friendly nature and Ibara's stubborn
 
 Konomi's impression of being groundless... I felt like I was being told somewhere that humans and elves are different after all.
 
-;Go to Konomi route dk01
+;コノミルートdk01へ
 #next dk01_1

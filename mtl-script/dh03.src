@@ -1,15 +1,15 @@
 
-;※eye catching
+;※アイキャッチ
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG42_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -32,25 +32,25 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest A (daytime)
+;背景：森A（昼）
 ;BG:BG04_1
 #cg all clear
 #bg BG04_1
 #wipe fade
 
 ;CHR H01F2_B C
-#cg Hinata hin_1_01f2_b medium
+#cg ヒナタ hin_1_01f2_b 中
 #wipe fade
 #voice hinf0236
 [Hinata] "Oppousi Oppousi, Ranranranraran♪"
@@ -58,7 +58,7 @@
 Hinata is walking ahead of me, looking extremely happy.
 
 ;CHR H05F_B C
-#cg Hinata hin_1_05f_b medium
+#cg ヒナタ hin_1_05f_b 中
 #wipe fade
 #voice hinf0237
 [Hinata] "Hey, hey, Human-san! Hinata, are you going to wear a hat?"
@@ -66,7 +66,7 @@ Hinata is walking ahead of me, looking extremely happy.
 "Ah, it looks good on you. That's why, when you go to the village, wear it deep and never take it off."
 
 ;CHR H11F_B C
-#cg Hinata hin_1_11f_b medium
+#cg ヒナタ hin_1_11f_b 中
 #wipe fade
 #voice hinf0238
 [Hinata] "Yes! I understand! Human-san is already worried."
@@ -84,7 +84,7 @@ I want to eliminate any elements that would make people in the village think it'
 I should have explained the reason properly...
 
 ;CHR H08F2_B C
-#cg Hinata hin_1_08f2_b medium
+#cg ヒナタ hin_1_08f2_b 中
 #wipe fade
 #voice hinf0239
 [Hinata] “Ningen-san’s hat, a big hat, when you put it on so puffy, it’s all over your body♪”
@@ -92,7 +92,7 @@ I should have explained the reason properly...
 Hinata is just wearing something rare and having fun with it.
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0240
 [Hinata] "Ah! I found a strange-shaped stone! It's big enough to fit in my bag, but it might fit in my hat!"
@@ -100,7 +100,7 @@ Hinata is just wearing something rare and having fun with it.
 "What the hell are you doing taking off your clothes! And where are you planning on carrying that big stone!"
 
 ;CHR H02F1_A C
-#cg Hinata hin_1_02f1_a Medium
+#cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0241
 [Hinata] "Because it's such a strange shape! Look! It's funny!"
@@ -108,7 +108,7 @@ Hinata is just wearing something rare and having fun with it.
 "Why would you put a stone in your hat? Just leave it there. It's quite a walk to get to the village."
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0242
 [Hinata] "Puu! I was thinking of making Hinata's Takara thing!"
@@ -116,7 +116,7 @@ Hinata is just wearing something rare and having fun with it.
 "...I'll leave you if you don't listen to me."
 
 ;CHR H05F_B C
-#cg Hinata hin_1_05f_b medium
+#cg ヒナタ hin_1_05f_b 中
 #wipe fade
 #voice hinf0243
 [Hinata] "No! I'll listen to what Human-san says, so Hinata will also go to Human-san's village!"
@@ -124,7 +124,7 @@ Hinata is just wearing something rare and having fun with it.
 “Then listen carefully to what I have to say.”
 
 ;CHR H07F_B C
-#cg Hinata hin_1_07f_b Medium
+#cg ヒナタ hin_1_07f_b 中
 #wipe fade
 #voice hinf0244
 [Hinata] "Yes!"
@@ -136,10 +136,10 @@ Hinata is just wearing something rare and having fun with it.
 #wipe fade
 
 #bgvoice stop
-;BGMch2 amb008 play
+;BGMch2 amb008 再生
 #bgvoice amb008
 
-;Background: Village (daytime)
+;背景：村（昼）
 ;BG:BG10
 #cg all clear
 #bg BG10_1
@@ -148,7 +148,7 @@ Hinata is just wearing something rare and having fun with it.
 "...It took longer than usual after all."
 
 ;CHR H01F1_B C
-#cg Hinata hin_1_01f1_b medium
+#cg ヒナタ hin_1_01f1_b 中
 #wipe fade
 #voice hinf0245
 [Hinata] "Oh! This is the village where Human-san lived!"
@@ -157,7 +157,7 @@ It wasn't like there was anything particularly new, but it didn't seem like that
 
 It was quite difficult to bring Hinata here, as she runs towards animals, plants, and stones whenever she sees them.
 ;CHR H04F1_B C
-#cg Hinata hin_1_04f1_b medium
+#cg ヒナタ hin_1_04f1_b 中
 #wipe fade
 #voice hinf0246
 [Hinata] "Hey, human-san. There are a lot of human-san in the village, right? Those human-san can't find out that Hinata is an elf!"
@@ -165,7 +165,7 @@ It was quite difficult to bring Hinata here, as she runs towards animals, plants
 "Ah, that's right. There won't be any humans until you leave the village. If you meet other people, be quiet."
 
 ;CHR H08F2_B C
-#cg Hinata hin_1_08f2_b medium
+#cg ヒナタ hin_1_08f2_b 中
 #wipe fade
 "Yes!"
 
@@ -175,13 +175,13 @@ It was quite difficult to bring Hinata here, as she runs towards animals, plants
 #cg all clear
 #wipe fade
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;Background: Village (daytime)
+;背景：村（昼）
 ;BG:BG10
 #cg all clear
 #bg BG10_1
@@ -190,13 +190,13 @@ It was quite difficult to bring Hinata here, as she runs towards animals, plants
 #voice okuf0001
 [Miller's Wife] "A story about a man who was with an elf? Now...I've never heard of that."
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;Background: Village (daytime)
+;背景：村（昼）
 ;BG:BG10
 #cg all clear
 #bg BG10_1
@@ -204,13 +204,13 @@ It was quite difficult to bring Hinata here, as she runs towards animals, plants
 
 [Villager 4] "Do you want to ask my old man about the legends of elves? I don't mind, but... he's already in ecstasy, that old man. Is that okay?"
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
-;Background: Village (daytime)
+;背景：村（昼）
 ;BG:BG10
 #cg all clear
 #bg BG10_1
@@ -225,7 +225,7 @@ Almost no records were left of where they came from and what happened to them af
 "...It's not going to go well."
 
 ;CHR H07F_B C
-#cg Hinata hin_1_07f_b Medium
+#cg ヒナタ hin_1_07f_b 中
 #wipe fade
 #voice hinf0247
 
@@ -244,7 +244,7 @@ No one was particularly harsh on Hinata, but I seemed to be creepy as I was aski
 [Villager 1] “Yo.”
 
 ;CHR H06F2_B C
-#cg Hinata hin_1_06f2_b medium
+#cg ヒナタ hin_1_06f2_b 中
 #wipe fade
 #voice hinf0248
 [Hinata] "Wow!? It's a stranger!"
@@ -348,7 +348,7 @@ I'm curious as to what happened, but if I hear about it, I'm sure I'll get creep
 After confirming that the villagers had gone, I stood up and brushed off the dust.
 
 ;CHR H03F2_B C
-#cg Hinata hin_1_03f2_b medium
+#cg ヒナタ hin_1_03f2_b 中
 #wipe fade
 #voice hinf0252
 [Hinata] "...Ningen-san, are you okay?"
@@ -358,7 +358,7 @@ Hinata is talking to me timidly.
 "Ah, it's okay. I'm not hurt or anything, so I'm fine."
 
 ;CHR H02F1_B C
-#cg Hinata hin_1_02f1_b medium
+#cg ヒナタ hin_1_02f1_b 中
 #wipe fade
 #voice hinf0253
 [Hinata] "That's good... After all, there is a scary human being out there. I'm glad that human being isn't scary. Huh..."
@@ -368,7 +368,7 @@ Hinata sighs and joins me in brushing away the dust.
 "That's right. I'm really glad they weren't the ones who found Hinata first."
 
 ;CHR H03F1_B C
-#cg Hinata hin_1_03f1_b medium
+#cg ヒナタ hin_1_03f1_b 中
 #wipe fade
 #voice hinf0254
 [Hinata] "Hey, Human-san. Let's go home. Hinata is already here, right?"
@@ -378,7 +378,7 @@ Hinata's hands were shaking as she grabbed the hem of my clothes, probably becau
 "Okay. Let's go home early. If Hinata is with us, we might end up spending the night in the forest."
 
 ;CHR H01F1_B C
-#cg Hinata hin_1_01f1_b medium
+#cg ヒナタ hin_1_01f1_b 中
 #wipe fade
 #voice hinf0255
 [Hinata] “Wow, frog!”
@@ -386,10 +386,10 @@ Hinata's hands were shaking as she grabbed the hem of my clothes, probably becau
 Hinata ran out, leading me by the hand, and I hurried down the road to the mountain hut in the forest.
 
 #bgvoice stop
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest A (evening)
+;背景：森A（夕）
 ;BG:BG04_2
 #cg all clear
 #bg BG04_2
@@ -398,7 +398,7 @@ Hinata ran out, leading me by the hand, and I hurried down the road to the mount
 When the village was out of sight, Hinata grabbed my hand tightly.
 
 ;CHR H03F1_B C
-#cg Hinata hin_1_03f1_b medium
+#cg ヒナタ hin_1_03f1_b 中
 #wipe fade
 #voice hinf0256
 [Hinata] "Hey... Human-san"
@@ -406,7 +406,7 @@ When the village was out of sight, Hinata grabbed my hand tightly.
 "Hmm? What happened?"
 
 ;CHR H02F1_B C
-#cg Hinata hin_1_02f1_b medium
+#cg ヒナタ hin_1_02f1_b 中
 #wipe fade
 #voice hinf0257
 [Hinata] "Is it Hinata's fault that Human-san and the Human-san aren't on good terms...?"
@@ -416,7 +416,7 @@ When the village was out of sight, Hinata grabbed my hand tightly.
 When I asked back, surprised by the unexpected words, Hinata had an unreasonable smile on her face.
 
 ;CHR H01F1_B C
-#cg Hinata hin_1_01f1_b medium
+#cg ヒナタ hin_1_01f1_b 中
 #wipe fade
 #voice hinf0258
 [Hinata] “Hinata is a bit creepy, so I tried to find out about Hinata, so did the humans hate you?”
@@ -428,13 +428,13 @@ Hinata's smiling eyes were shaking with tears.
 He's probably really sad right now...
 
 ;CHR H08F1_B C
-#cg Hinata hin_1_08f1_b medium
+#cg ヒナタ hin_1_08f1_b 中
 #wipe fade
 #voice hinf0259
 [Hinata] "Hinata, I think it would be better for humans to make friends with other humans. I mean, being alone is lonely, isn't it?"
 
 ;CHR H03F1_B C
-#cg Hinata hin_1_03f1_b medium
+#cg ヒナタ hin_1_03f1_b 中
 #wipe fade
 #voice hinf0260
 [Hinata] "I'm sorry? Human-san, I'm all alone because of Hinata."
@@ -446,7 +446,7 @@ I tightened my grip on Hinata's hand, who was holding mine tightly.
 "I...I'm fine with not getting along with those guys."
 
 ;CHR H04F2_B C
-#cg Hinata hin_1_04f2_b medium
+#cg ヒナタ hin_1_04f2_b 中
 #wipe fade
 #voice hinf0261
 [Hinata] “Huh!?”
@@ -454,7 +454,7 @@ I tightened my grip on Hinata's hand, who was holding mine tightly.
 "I originally came to the forest because I didn't want to interact with other humans. That's why I'm fine even if I don't get along with them."
 
 ;CHR H02F1_B C
-#cg Hinata hin_1_02f1_b medium
+#cg ヒナタ hin_1_02f1_b 中
 #wipe fade
 #voice hinf0262
 [Hinata] "Okay?"
@@ -462,7 +462,7 @@ I tightened my grip on Hinata's hand, who was holding mine tightly.
 "...Yeah, it's okay. And I'm not alone."
 
 ;CHR H04F1_B C
-#cg Hinata hin_1_04f1_b medium
+#cg ヒナタ hin_1_04f1_b 中
 #wipe fade
 #voice hinf0263
 [Hinata] "Huh...? Human-san, aren't you alone...?"
@@ -470,7 +470,7 @@ I tightened my grip on Hinata's hand, who was holding mine tightly.
 "Hinata will be by my side, right? So I'm not alone. So, don't worry."
 
 ;CHR H04F1_B C
-#cg Hinata hin_1_04f1_b medium
+#cg ヒナタ hin_1_04f1_b 中
 #wipe fade
 #voice hinf0264
 [Hinata] “Is it because Hinata is here?”
@@ -480,7 +480,7 @@ Hinata's eyes widen in surprise at my words.
 "That's right. When I was in that village, there were a lot of people around me, but I felt lonely. But now I have Hinata, so I don't feel lonely."
 
 ;CHR H11F_B C
-#cg Hinata hin_1_11f_b medium
+#cg ヒナタ hin_1_11f_b 中
 #wipe fade
 #voice hinf0265
 [Hinata] "Eh...ehehe"
@@ -488,7 +488,7 @@ Hinata's eyes widen in surprise at my words.
 Hinata rubbed her eyes, and this time she smiled with her usual face.
 
 ;CHR H01F1_B C
-#cg Hinata hin_1_01f1_b medium
+#cg ヒナタ hin_1_01f1_b 中
 #wipe fade
 #voice hinf0266
 [Hinata] "I see. So is Human-san. Hinata too! Since Hinata started living with Human-san, she feels less lonely! We're together!"
@@ -496,7 +496,7 @@ Hinata rubbed her eyes, and this time she smiled with her usual face.
 "Yeah, we're together."
 
 ;CHR H07F_B C
-#cg Hinata hin_1_07f_b Medium
+#cg ヒナタ hin_1_07f_b 中
 #wipe fade
 #voice hinf0267
 [Hinata] “Together!”
@@ -507,17 +507,17 @@ Hinata happily waved their joined hands.
 #cg all clear
 #wipe fade
 
-;blackout
+;暗転
 ;#face off
 
 #bgvoice stop
-;BGMch2 amb003 Play
+;BGMch2 amb003 再生
 #bgvoice amb003
 
 #cg all clear
 #bg black
 #wipe fade
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -534,7 +534,7 @@ For food, you can get away with just biting into potatoes, but that's not the ca
 I want to go shopping, but it's been almost a day since then, and I wonder what they'll say if I go shopping again.
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0268
 [Hinata] "Ningen-san, what's wrong!? Is something complicated?"
@@ -544,7 +544,7 @@ I want to go shopping, but it's been almost a day since then, and I wonder what 
 If you're lucky, you might be able to find a notebook with little writing on it.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0269
 [Hinata] "Oh! I'm sure there's something we can use!"
@@ -557,14 +557,14 @@ I've been walking outside a lot lately, so it's perfect.
 
 I think I'll take another look to see what's in the underground warehouse.
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -573,7 +573,7 @@ I think I'll take another look to see what's in the underground warehouse.
 "Oh, this is..."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0270
 [Hinata] "What!? Did you find something cool?"
@@ -587,7 +587,7 @@ This means that the person who wrote these is at least the same person.
 The back is blank for customization.
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0271
 [Hinata] "Huh!? Is that a good thing!?"
@@ -595,7 +595,7 @@ The back is blank for customization.
 "I won't know until I read it... but at least it's probably written mainly about this area, so it might have more practical information than an academic book."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0272
 [Hinata] "Hoho, you're better than school!"
@@ -613,7 +613,7 @@ If you think about it, it's understandable that even if it's compiled into a boo
 Up until now, I had blindly believed what was written in books, but from now on I have to change my mindset towards academics.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0273
 [Hinata] "Hey, what's that written there?"
@@ -625,7 +625,7 @@ There are numbers written on the ledger that seem to be some sort of training re
 "I wonder what it is, these numbers... I feel like I've seen them somewhere... Growth is slow...? I wonder if they were growing something..."
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0274
 [Hinata] "Which one? Look at Hinata too!"
@@ -635,7 +635,7 @@ There are numbers written on the ledger that seem to be some sort of training re
 Hinata was grinning bitterly as she tried to force herself to look into the account book, when Hinata held up the account book and screamed.
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0275
 [Hinata] "Hinata, I know! There's a place I saw just like this!"
@@ -643,7 +643,7 @@ Hinata was grinning bitterly as she tried to force herself to look into the acco
 "...Huh? Where? Can you remember that?"
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0276
 [Hinata] "Hmm? Where was it? But, I saw Hinata. This is the same one."
@@ -655,7 +655,7 @@ So I don't think this is the same thing as what Hinata saw...
 However, if we could understand this list of numbers, we might be able to understand what the indigenous people were growing...or rather, what they were researching.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0277
 [Hinata] "Ah! I see! It looks like it's in the room!"
@@ -665,7 +665,7 @@ However, if we could understand this list of numbers, we might be able to unders
 Hinata let out a quick cry and ran to a corner of the room.
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0278
 [Hinata] "See! It's the same after all."
@@ -683,7 +683,7 @@ Moreover, I wonder if there is any meaning in leaving behind not only numbers bu
 Probably the first one measured was no more than shoulder width. The notches that were originally placed horizontally became vertical from the middle.
 
 ;CHR H04F1_A C
-#cg Hinata hin_1_04f1_a Medium
+#cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0279
 [Hinata] “Hmph, I see!”
@@ -695,7 +695,7 @@ Hinata was wondering what she knew, as she crouched down and intently traced the
 “Ah, compare your back.”
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0280
 [Hinata] “Huh!?”
@@ -721,21 +721,21 @@ According to this account, the indigenous people lived in this hut several years
 I quickly opened the underground warehouse again.
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0281
 [Hinata] "Ningen-san, what's wrong? Are you looking for something again?"
 
 "Ah. If my intuition is correct, I think there are other records left."
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;Background: Mountain hut (daytime)
+;背景：山小屋（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -750,7 +750,7 @@ Let's compare it to that record.
 "...Hinata"
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0282
 [Hinata] "Hey!? What?"
@@ -758,7 +758,7 @@ Let's compare it to that record.
 "Dad, I found it."
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0283
 [Hinata] “Eh!?”
@@ -766,7 +766,7 @@ Let's compare it to that record.
 "The person who lived here before was Hinata's father."
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0284
 [Hinata] “Sonano!?”
@@ -778,7 +778,7 @@ If a human was in love with an elf, it wouldn't be strange at all for him to liv
 "The scars carved on this pillar and floor were a record of Hinata's growth."
 
 ;CHR H03F1_A C
-#cg Hinata hin_1_03f1_a Medium
+#cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0285
 [Hinata] "Hinata's Sechokiroku?"
@@ -786,7 +786,7 @@ If a human was in love with an elf, it wouldn't be strange at all for him to liv
 "This is Hinata's size when she was just born, this is after a month. This is a year..."
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0286
 [Hinata] “Hinata was so small when she was just born!”
@@ -794,7 +794,7 @@ If a human was in love with an elf, it wouldn't be strange at all for him to liv
 "This notebook and this notebook are all written about Hinata. There's a lot written about Hinata."
 
 ;CHR H05F_A C
-#cg Hinata hin_1_05f_a Medium
+#cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0287
 [Hinata] "Why!? You're really writing about Daiji, aren't you? Tsukiyo said it."
@@ -802,7 +802,7 @@ If a human was in love with an elf, it wouldn't be strange at all for him to liv
 "Yeah. Dad probably cared a lot about Hinata."
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 #voice hinf0288
 [Hinata] “I see, your father called Hinata Daiji!”
@@ -838,7 +838,7 @@ I don't know why the natives died, whether it was due to illness or some other r
 "My beloved son, because I'm a human, so please forgive me for leaving you behind..."
 
 ;CHR H04F2_A C
-#cg Hinata hin_1_04f2_a Medium
+#cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0289
 [Hinata] “Do you want to meet me?”
@@ -846,7 +846,7 @@ I don't know why the natives died, whether it was due to illness or some other r
 “It means I love you.”
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0290
 [Hinata] “Your father liked Hinata!”
@@ -854,7 +854,7 @@ I don't know why the natives died, whether it was due to illness or some other r
 "Ahh"
 
 ;CHR H07F_A C
-#cg Hinata hin_1_07f_a Medium
+#cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0291
 [Hinata] “I see, this was my father’s house.”

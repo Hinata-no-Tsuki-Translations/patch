@@ -1,12 +1,12 @@
 
 
-;Background: Mountain hut (daytime)
-;No change
+;背景：山小屋（昼）
+;変更なし
 
 “How big is the carpet of fruit growing there?”
 
 ;CHR I06F C
-#cg Ibara iba_1_06f Medium
+#cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0593
@@ -21,7 +21,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0544
@@ -32,7 +32,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 ;CHR K01F1B C
-#cg Konomi kon_1_01f1b Medium
+#cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0531
@@ -43,7 +43,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 ;CHR T06F_L C
-#cg Tsukiyo tuk_1_06f_l medium
+#cg ツキヨ tuk_1_06f_l 中
 #wipe fade
 #face f_tuk_0_06f_l 94 466
 ;TKface
@@ -56,7 +56,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 ;CHR I11F2 C
-#cg Ibara iba_1_11f2 medium
+#cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0594
@@ -69,7 +69,7 @@ Ibara proudly puffs out his chest.
 "Okay, then Ibara will take you there today."
 
 ;CHR I11F1 C
-#cg Ibara iba_1_11f1 medium
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0595
@@ -79,20 +79,20 @@ Ibara proudly puffs out his chest.
 #cg all clear
 #wipe fade
 
-;BGMch2 amb003 stop
+;BGMch2 amb003 停止
 #bgvoice stop
 
-;BGMch2 amb001 play
+;BGMch2 amb001 再生
 #bgvoice amb001
 
-;Background: Forest (daytime)
+;背景：森（昼）
 ;BG:BG04_1
 #cg all clear
 #bg BG04_1
 #wipe fade
 
 ;CHR H06F2_A C
-#cg Hinata hin_1_06f2_a Medium
+#cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0545
@@ -103,7 +103,7 @@ Ibara proudly puffs out his chest.
 #wipe fade
 
 ;CHR I05F C
-#cg Ibara iba_1_05f Medium
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0596
@@ -114,7 +114,7 @@ Ibara proudly puffs out his chest.
 #wipe fade
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0532
@@ -125,7 +125,7 @@ Ibara proudly puffs out his chest.
 #wipe fade
 
 ;CHR T01F_L C
-#cg Tsukiyo tuk_1_01f_l medium
+#cg ツキヨ tuk_1_01f_l 中
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -144,7 +144,7 @@ It's not flat like a flower garden, but there are various fruits growing profuse
 It was certainly no exaggeration to say that this was like a carpet of fruit.
 
 ;CHR I06F C
-#cg Ibara iba_1_06f Medium
+#cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0597
@@ -158,7 +158,7 @@ It was certainly no exaggeration to say that this was like a carpet of fruit.
 I have never seen so many fruits growing in clusters.
 
 ;CHR I05F C
-#cg Ibara iba_1_05f Medium
+#cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0599
@@ -173,7 +173,7 @@ I have never seen so many fruits growing in clusters.
 When I immediately squatted down and tried to pick the fleas...
 
 ;CHR H01F1_A C
-#cg Hinata hin_1_01f1_a Medium
+#cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0546
@@ -184,10 +184,10 @@ When I immediately squatted down and tried to pick the fleas...
 #wipe fade
 
 ;CHR T06F_L L
-#cg Tsukiyo tuk_1_06f_l left
+#cg ツキヨ tuk_1_06f_l 左
 
 ;CHR I08F R
-#cg Ibara iba_1_08f Right
+#cg イバラ iba_1_08f 右
 #wipe fade
 
 #face f_tuk_0_06f_l 94 466
@@ -210,7 +210,7 @@ When I immediately squatted down and tried to pick the fleas...
 [Tsukiyo] "...! Yes, it is!"
 
 ;CHR I09F R
-#cg Ibara iba_1_09f right
+#cg イバラ iba_1_09f 右
 #wipe fade
 
 #voice ibab0601
@@ -227,7 +227,7 @@ I thought about calling out to him to stop him, but I don't think he would be ab
 #wipe fade
 
 ;CHR K01F1A C
-#cg Konomi kon_1_01f1a Medium
+#cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0533
@@ -241,7 +241,7 @@ I thought about calling out to him to stop him, but I don't think he would be ab
 “Ah, hey, Konomi.”
 
 ;CHR K01F2A C
-#cg Konomi kon_1_01f2a Medium
+#cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice konb0535
@@ -283,7 +283,7 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 "Huh!? Sour!?"
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0549
@@ -294,7 +294,7 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -309,14 +309,14 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 #wipe fade
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0603
 [Ibara] “What!?”
 
 ;CHR K02F2 R
-#cg Konomi kon_1_02f2 Right
+#cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0536
@@ -325,7 +325,7 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 When I casually brought the Kurenai nomi to my mouth, the sourness was so strong that it hit my brain.
 
 ;CHR I04F L
-#cg Ibara iba_1_04f left
+#cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0604
@@ -348,7 +348,7 @@ Ibara tried it himself and was in agony.
 [Tsukiyo] “Kyu!?”
 
 ;CHR K06F R
-#cg Konomi kon_1_06f Right
+#cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0537
@@ -365,7 +365,7 @@ All of them had a lot of fruit, but they were very sour.
 "Hmm, I see..."
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0605
@@ -374,7 +374,7 @@ All of them had a lot of fruit, but they were very sour.
 "No, it's common in fields, but when there's too much fruit, the taste can get bad."
 
 ;CHR I09F L
-#cg Ibara iba_1_09f left
+#cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0606
@@ -395,7 +395,7 @@ If you just look at the scenery, it's really beautiful.
 Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be able to eat anything like this.
 
 ;CHR H02F2_A C
-#cg Hinata hin_1_02f2_a Medium
+#cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 
 #voice hinb0551
@@ -406,7 +406,7 @@ Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be
 #wipe fade
 
 ;CHR K02F1 C
-#cg Konomi kon_1_02f1 Medium
+#cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0538
@@ -417,7 +417,7 @@ Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -442,7 +442,7 @@ Besides, it's something that everyone picked for me...I can't help but feel that
 #wipe fade
 
 ;CHR H06F1_A C
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0552
@@ -455,7 +455,7 @@ Besides, it's something that everyone picked for me...I can't help but feel that
 #wipe fade
 
 ;CHR I10F2 C
-#cg Ibara iba_1_10f2 medium
+#cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0607
@@ -506,20 +506,20 @@ Well, if I stay here for too long, I'll only get depressed.
 
 Even as the other elves responded, Ibarra remained silent.
 
-;BGMch2 amb001 stop
+;BGMch2 amb001 停止
 #bgvoice stop
 
-;blackout
+;暗転
 ;#face off
 
 #cg all clear
 #bg black
 #wipe fade
 
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;Background: Mountain hut (night) -> Lights (day)
+;背景：山小屋（夜）-> 明かり（昼）
 ;BG:BG07b_1
 #cg all clear
 #bg BG07b_1
@@ -542,7 +542,7 @@ If you want to make preserved food, no matter what you do, you'll need large qua
 Also, if you think about it in case you get sick again, you might want to keep some food stocked up.
 
 ;CHR I01F C
-#cg Ibara iba_1_01f Medium
+#cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0610
@@ -559,7 +559,7 @@ Before I knew it, Ibara had come right next to me and was fidgeting as if to say
 I was trying to say it lightly, hoping it wouldn't bother me, but Ibara's face quickly turned red from his tantrum.
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0611
@@ -577,7 +577,7 @@ Ibara overturned the bowl containing the freshly treated cranial fleas.
 "Wow!? What are you doing, Ibara!"
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0613
@@ -588,7 +588,7 @@ As a result, the precious sugar was scattered all over the floor.
 “What are you doing!?”
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0614
@@ -597,7 +597,7 @@ As a result, the precious sugar was scattered all over the floor.
 “Wouldn’t it be a waste if we did that!?”
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0615
@@ -606,7 +606,7 @@ As a result, the precious sugar was scattered all over the floor.
 "That's why I cooked it so I could eat it."
 
 ;CHR I04F C
-#cg Ibara iba_1_04f Medium
+#cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0616
@@ -617,7 +617,7 @@ Ibara completely lost his temper and trampled the scattered crenai fleas.
 “Ibara!”
 
 ;CHR I09F C
-#cg Ibara iba_1_09f Medium
+#cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0617
@@ -632,7 +632,7 @@ As expected, I can't help but get angry when things get this far.
 ;SE
 
 
-;Pashine
+;ぱしーん
 
 I caught Ibara, held him by the butt, and slapped him with the palm of my hand.
 
@@ -656,7 +656,7 @@ I caught Ibara, held him by the butt, and slapped him with the palm of my hand.
 
 ;SE
 
-;Pashin, pashin
+;ぱしーん、ぱしーん
 
 When I hit my butt with my palm, it made a nice popping sound.
 
@@ -674,7 +674,7 @@ When I hit my butt with my palm, it made a nice popping sound.
 
 ;SE
 
-;Pashin, pashin
+;ぱしーん、ぱしーん
 
 #voice ibab0622
 [Ibara] "Ah!? Anh! W-what are you doing...my butt is throbbing...huh...ahhh..."
@@ -685,7 +685,7 @@ While I was slapping and scolding her ass, Ibara's seductive voice gradually mad
 
 ;SE
 
-;Pashine
+;ぱしーん
 
 #voice ibab0623
 [Ibara] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
@@ -709,7 +709,7 @@ I picked up the thorns.
 
 ;SE
 
-;EV picture--EV028 "Ibara 69"
+;ＥＶ絵――EV028『イバラ69』
 
 ;SMODE 025 PLAY
 #label replay025
@@ -720,7 +720,7 @@ I picked up the thorns.
 ;#face off
 
 
-#cg event ev028a1 background
+#cg イベント ev028a1 背景
 #wipe fade
 
 “Let’s feed the fruit to Ibara so that the fruit we have taken doesn’t go to waste.”
@@ -771,7 +771,7 @@ It's extremely sour and makes me salivate afterwards. However, that feeling was 
 [Ibara] “Hey!?”
 
 ;EVCG EV028B1
-#cg event ev028b1 background
+#cg イベント ev028b1 背景
 #wipe fade
 
 I ran my tongue over the red juice dripping into Ibara's asshole, and coated it with the saliva that filled my mouth, as if pumping it into Ibara's intestines.
@@ -937,7 +937,7 @@ When I stroked Ibara's belly, which seemed to be rolling around in a state of mi
 After completely swallowing the cranium fleas, it regains its cute appearance, and I gently push open the thorn bud that is dripping red juice and insert my finger into it.
 
 ;EVCG EV028C1
-#cg event ev028c1 background
+#cg イベント ev028c1 背景
 #wipe fade
 
 #voice ibab0657
@@ -1015,14 +1015,14 @@ Before I knew it, my desire to scrape out the contents had faded, and I was sque
 
 ;SE
 
-;whiteout
+;ホワイトアウト
 
 #cg all clear
 #bg white
 #wipe flash
 
 #cg all clear
-#cg event ev028c1 background
+#cg イベント ev028c1 背景
 #bg BG07b_1
 #wipe fade 300
 
@@ -1033,8 +1033,8 @@ The faint red semen mixed with the red juice of the crushed cranial flea looked 
 ;SMODE 025 STOP
 #endscene
 
-;Ibara likability +1
+;イバラ好感度+1
 #set f2 f2+1
 
-;b09
+;b09へ
 #next b09

@@ -1,13 +1,13 @@
 
-;stop all sounds
+;サウンドすべて停止
 #bgm 0 stop
 #bgvoice stop
 #se stop
 
-;*Eye-catch display
+;※アイキャッチ表示
 ;BG:BG40_1
 
-;skip prohibited
+;スキップ禁止
 #waitcancel disabled
 
 #mes off fade
@@ -30,19 +30,19 @@
 #mes on flash
 #system on flash
 
-;interval
+;インターバル
 
-;Skip prohibition canceled
+;スキップ禁止解除
 #waitcancel enabled
 
 ;FACE ON
 #face on
 
 #bgvoice stop
-;BGMch2 amb004 play
+;BGMch2 amb004 再生
 #bgvoice amb004
 
-;Background: Mountain hut (night)
+;背景：山小屋（夜）
 #bg BG07b_3
 #wipe fade
 
@@ -52,7 +52,7 @@ Thanks to that, I can't help but feel lazy to prepare meals today.
 
 "I'm sorry, I don't have anything nice..."
 
-;SE mess with the shelf
+;SE 棚をいじる
 
 I looked at the food shelf and held my head in my hands.
 
@@ -63,7 +63,7 @@ You can give out preserved food, but it's a pain to remove the salt and reconsti
 I guess I'll just boil some potatoes and whatever else I have.
 
 ;CHR H01F2_A C
-#cg Hinata hin_1_01f2_a Medium
+#cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinf0001
@@ -72,7 +72,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 "Hmm, I'm wondering what to eat tonight."
 
 ;CHR H06F1_A
-#cg Hinata hin_1_06f1_a Medium
+#cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinf0002
@@ -85,7 +85,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 ;CHR K01F2B C
-#cg Konomi kon_1_01f2b Medium
+#cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konf0001
@@ -98,7 +98,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 ;CHR T05F_L C
-#cg Tsukiyo tuk_1_05f_l medium
+#cg ツキヨ tuk_1_05f_l 中
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -113,7 +113,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 ;CHR H11F_A C
-#cg Hinata hin_1_11f_a medium
+#cg ヒナタ hin_1_11f_a 中
 #wipe fade
 
 #voice hinf0003
@@ -124,7 +124,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 ;CHR I11F1 C
-#cg Ibara iba_1_11f1 medium
+#cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibaf0001
@@ -137,7 +137,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 ;CHR K06F C
-#cg Konomi kon_1_06f Medium
+#cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konf0002
@@ -153,7 +153,7 @@ If you were in a position where you had servants, you would be able to leave the
 
 Well, I want to live like that too.
 
-;SE se013 Door slamming sound (sound of tinkering with shelves)
+;SE se013 扉のバタン音（棚をいじる音）
 
 "Now, what should I boil with vegetables and potatoes? Oh, I'm cutting dried meat."
 
@@ -161,14 +161,14 @@ I thought about adding dried meat, but I had just cut it and there were only a f
 
 As for the dried fish, I still have some left over from the one I got before I caught a cold, but it takes a lot of effort to cook fish, so I guess I'll stick to meat and fish for today.
 
-;SE Knife sound
+;SE　包丁の音
 
 "Hmph, hmph‾♪"
 
 When I started cooking while humming, everyone came to my side, looking amused.
 
 ;CHR K01F1B R
-#cg Konomi kon_1_01f1b Right
+#cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konf0003
@@ -177,11 +177,11 @@ When I started cooking while humming, everyone came to my side, looking amused.
 "Today I'm thinking of just boiling vegetables and eating the soup. Tomorrow I want to eat meat, so if I don't catch anything in the trap I made, I'll have to go hunting."
 
 ;CHR OFF
-#cg Konomi clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR T01F_L L
-#cg Tsukiyo tuk_1_01f_l left
+#cg ツキヨ tuk_1_01f_l 左
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -196,7 +196,7 @@ When I started cooking while humming, everyone came to my side, looking amused.
 #wipe fade
 
 ;CHR H02F1_A R
-#cg Hinata hin_1_02f1_a right
+#cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hinf0004
@@ -205,7 +205,7 @@ When I started cooking while humming, everyone came to my side, looking amused.
 “Pikas are easy to handle, and the meat is delicious.”
 
 ;CHR I02F L
-#cg Ibara iba_1_02f left
+#cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibaf0002
@@ -214,18 +214,18 @@ When I started cooking while humming, everyone came to my side, looking amused.
 "I don't have any strength unless I eat a big meal every once in a while."
 
 ;CHR I09F L
-#cg Ibara iba_1_09f left
+#cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibaf0003
 [Ibara] "Huh!? Instead of eating cute pikas, wouldn't it be better to eat trolls, orcs, and other unruly people?"
 
 ;CHR OFF
-#cg hinata clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg Tsukiyo tuk_1_01f_l right
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -244,7 +244,7 @@ From what I remember from what I saw the other day, orcs looked more like animal
 As expected, I feel like I've somehow overstepped the line.
 
 ;CHR K01F2A R
-#cg Konomi kon_1_01f2a Right
+#cg コノミ kon_1_01f2a 右
 #wipe fade
 
 #voice konf0004
@@ -253,36 +253,36 @@ As expected, I feel like I've somehow overstepped the line.
 "Eating something that can eat humans is even more disgusting!? It's like cannibalism, isn't it?"
 
 ;CHR K08F R
-#cg Konomi kon_1_08f Right
+#cg コノミ kon_1_08f 右
 #wipe fade
 
 #voice konf0005
 [Konomi] “I see, Human-kun is so selfish.”
 
 ;CHR OFF
-#cg Konomi clear
+#cg コノミ clear
 #wipe fade
 
 ;CHR I06F R
-#cg Ibara iba_1_06f right
+#cg イバラ iba_1_06f 右
 #wipe fade
 
 #voice ibaf0004
 [Ibara] “I mean, fish and meat stink, so you should at least eat only fruits and sweets.”
 
 ;CHR H01F1_A L
-#cg Hinata hin_1_01f1_a left
+#cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinf0005
 [Hinata] "Okayashi!? Mr. Human, will you give us some kashi to Hinata and the others too!?"
 
 ;CHR OFF
-#cg ibara clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR T01F_L R
-#cg Tsukiyo tuk_1_01f_l right
+#cg ツキヨ tuk_1_01f_l 右
 #wipe fade
 #face f_tuk_0_01f_l 94 466
 ;TKface
@@ -292,7 +292,7 @@ As expected, I feel like I've somehow overstepped the line.
 "Sweets aren't bad, but eating meat and vegetables is actually better for your body."
 
 ;CHR H04F2_A L
-#cg Hinata hin_1_04f2_a left
+#cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinf0006
@@ -301,11 +301,11 @@ As expected, I feel like I've somehow overstepped the line.
 "That's not to say I don't like it. Human beings have to eat a variety of foods, otherwise they'll experience some health problems."
 
 ;CHR OFF
-#cg Tsukiyo clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR K05F R
-#cg Konomi kon_1_05f Right
+#cg コノミ kon_1_05f 右
 #wipe fade
 #voice konf0006
 [Konomi] “Wow, Human-kun has an inconvenient body.”
@@ -316,23 +316,23 @@ As expected, I feel like I've somehow overstepped the line.
 #cg all clear
 #wipe fade
 
-;SE se028 	Dropping a stone into water (sound of pot on fire)
+;SE　se028	石を水に落とす（鍋を火にかける音）
 
 Put the remaining dried meat and cut vegetables into a pot, pour water over it, and bring to the boil.
 
-;SE Boiling sound
+;SE　煮える音
 
 When the hot water started flowing, everyone frowned and stepped back.
 
 ;CHR I01F R
-#cg Ibara iba_1_01f right
+#cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaf0005
 [Ibara] “This still smells fishy and disgusting!?”
 
 ;CHR H03F1_A L
-#cg Hinata hin_1_03f1_a left
+#cg ヒナタ hin_1_03f1_a 左
 #wipe fade
 
 #voice hinf0007
@@ -341,11 +341,11 @@ When the hot water started flowing, everyone frowned and stepped back.
 "Really? I just used some dried meat that was left over."
 
 ;CHR OFF
-#cg ibara clear
+#cg イバラ clear
 #wipe fade
 
 ;CHR T05F_L R
-#cg Tsukiyo tuk_1_05f_l right
+#cg ツキヨ tuk_1_05f_l 右
 #wipe fade
 #face f_tuk_0_05f_l 94 466
 ;TKface
@@ -356,11 +356,11 @@ When the hot water started flowing, everyone frowned and stepped back.
 "I don't think you'll feel like you've eaten meat just because it's in the broth."
 
 ;CHR OFF
-#cg hinata clear
+#cg ヒナタ clear
 #wipe fade
 
 ;CHR K08F L
-#cg Konomi kon_1_08f left
+#cg コノミ kon_1_08f 左
 #wipe fade
 
 #voice konf0007
@@ -369,18 +369,18 @@ When the hot water started flowing, everyone frowned and stepped back.
 "I have no idea, but everyone has a nice nose."
 
 ;CHR OFF
-#cg Tsukiyo clear
+#cg ツキヨ clear
 #wipe fade
 
 ;CHR I04F R
-#cg Ibara iba_1_04f right
+#cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibaf0006
 [Ibara] "Isn't it because you eat meat that the drumstick hits you and your nose is stuffed up?"
 
 ;CHR K01F2A L
-#cg Konomi kon_1_01f2a left
+#cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konf0008
@@ -407,7 +407,7 @@ When I put vegetables and soup in a bowl and carried it to the desk, everyone lo
 "I'm not saying I'm going to force you to eat, so you don't have to look at me with such a disgusted look on your face."
 
 ;CHR I02F C
-#cg Ibara iba_1_02f Medium
+#cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaf0007
@@ -420,14 +420,14 @@ When I put vegetables and soup in a bowl and carried it to the desk, everyone lo
 Thinking about it, Ibara let out a scream and jumped back to the corner of the room, feeling a chill running through her.
 
 ;CHR K07F L
-#cg Konomi kon_1_07f left
+#cg コノミ kon_1_07f 左
 #wipe fade
 
 #voice konf0009
 [Konomi] “Hmm, maybe I should refrain too.”
 
 ;CHR T02F R
-#cg Tsukiyo tuk_1_02f right
+#cg ツキヨ tuk_1_02f 右
 #wipe fade
 #face f_tuk_0_02f 94 466
 ;TKface
@@ -450,7 +450,7 @@ I'm used to it now, but the person watching me from afar as I eat with a disgust
 After all, it tastes better with at least a little bit of meat in it. There's a big difference between having meat and not having meat.
 
 ;CHR I01F L
-#cg Ibara iba_1_01f left
+#cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibaf0008
@@ -461,14 +461,14 @@ Ibara frowns, looking disgusted.
 Hinata also asked with a strange look on her face.
 
 ;CHR H04F1_A R
-#cg Hinata hin_1_04f1_a right
+#cg ヒナタ hin_1_04f1_a 右
 #wipe fade
 
 #voice hinf0008
 [Hinata] "Ningen-san, is that delicious?"
 
-;Choice occurs
-#select ab
+;選択肢発生
+#select a b
 A: Would you like to try it?
 B: It's delicious.
 
@@ -478,5 +478,5 @@ B: It's delicious.
 #label b
 #next dh01b top
 
-;Select A ⇒ Jump to "dh01a"
-;Select B ⇒ Jump to "dh01b"
+;Ａを選択⇒『dh01a』へジャンプ
+;Ｂを選択⇒『dh01b』へジャンプ
