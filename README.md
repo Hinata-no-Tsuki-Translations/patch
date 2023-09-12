@@ -24,8 +24,7 @@ Link: [Fuwanovel Forum](https://forums.fuwanovel.net/topic/24935-hinata-no-tsuki
 - text :  a sort of labelling/reference name for resources
 - update patch :  non-script files from official update patch to be released together with translated files in patch.xp3
 - utils: code snippets to do what I require. With documentation in their respective folders. 
-
--official-patch.xp3 : the official patch provided by ko-eda
+- official-patch.xp3 : the official patch provided by ko-eda
 
 ## Changes: 
 - UI images translated
