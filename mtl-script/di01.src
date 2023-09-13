@@ -1,0 +1,1849 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG40_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg40_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+
+;背景：山小屋前（昼）
+;BG:BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0001
+[Ibara] “Is this the end of the charms for avoiding orcs?”
+
+"Ah, yeah. This is the end of what's written in the book. I wonder if it's really okay like this..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukc0
+[Tsukiyo] "I think it's probably okay."
+
+"I see?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+#voice konc0001
+[Konomi] "Yeah. If Tsukiyo says so, I guess it's okay."
+
+"Even if it's not okay, it doesn't mean there's nothing more I can do..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinc0001
+[Hinata] “Have you finished what you had to do?”
+
+“Ah, yeah.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+#voice hinc0002
+[Hinata] "Then let's do something, Human-san!"
+
+;CHR K09F1 L
+#cg コノミ kon_1_09f1 左
+#wipe fade
+#voice konc0002
+[Konomi] "That's right. I've finished what I have to do, so let's play."
+
+“What do you mean by playing?”
+
+;CHR H01F2_A R
+#cg ヒナタ hin_1_01f2_a 右
+#wipe fade
+#voice hinc0003
+[Hinata] “Anything is fine as long as you have fun with Human-san!”
+
+"Then, I'd like to check out the map again after tomorrow, so I'll prepare for that today."
+
+;CHR H05F_A R
+#cg ヒナタ hin_1_05f_a 右
+#wipe fade
+#voice hinc0004
+[Hinata] "Junbi!? Is there anything I can help you with?"
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+#voice ibac0002
+[Ibara] "Me too! You can help me out!"
+
+Honestly, it would be quicker if I didn't have to help Hinata and the others, but doing things together can be quite fun.
+
+"That's right, I'll use you a lot, so be prepared."
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K03F L
+#cg コノミ kon_1_03f 左
+#wipe fade
+#voice konc0003
+[Konomi] “Oh, everyone, do your best.”
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR T05F_P R
+#cg ツキヨ tuk_1_05f_p 右
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+#voice tukc1
+[Tsukiyo] “Konomi, don’t you want to help?”
+
+;CHR K01F2A L
+#cg コノミ kon_1_01f2a 左
+#wipe fade
+#voice konc0004
+[Konomi] "Hmm, if you think it's fun, I can help you."
+
+Well, for now, I'd like to bake some snacks that are easy to carry so that I can use them as meal replacements from tomorrow onwards.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+#voice tukc2
+[Tsukiyo] "Hmm...is it about this size?"
+
+"Yeah, that's right."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinc0005
+[Hinata] "Ningen-san! The guy who's yelling has gotten so big! It's like this!"
+
+Hinata puffs out her cheeks to let me know that the sweets she's baking have gotten bigger.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Konomi and Ibara... are you tired of them?"
+
+Konomi is sleeping peacefully by herself, and Ibara is fiddling with her accessories all the time.
+
+I get bored easily with other things, but I never get tired of polishing my accessories.
+
+Ibara seemed to notice that I was watching and looked up.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0003
+[Ibara] "Oh? Are you done yet?"
+
+"Not yet. It will take a little longer to bake."
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+#voice ibac0004
+[Ibara] "Hmm, I see. Tsukiyo and Hinata are still helping out."
+
+"Yeah. They seem to be having fun helping me."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0005
+[Ibara] “…………”
+
+Ibara suddenly turned his attention to Hinata and Tsukiyo and looked at them in silence for a while.
+
+"what happened?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0006
+[Ibara] "It's nothing. I was just wondering if helping people like you is so much fun!"
+
+"Why are you suddenly in a bad mood? Did something happen that you didn't like?"
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0007
+[Ibara] “I’m not in a bad mood!”
+
+Ibara said in a displeased manner as expected, and put her accessories back on.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0008
+[Ibara] "I'll help you too! Now, what should I do?"
+
+"Huh? But most of what I have to do is already done..."
+
+It looks like Tsukiyo just finished cutting up the kneaded powder and rolling it into balls.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H08F2_A L
+#cg ヒナタ hin_1_08f2_a 右
+#wipe fade
+#voice hinc0006
+[Hinata] “Then, Ibara will have to make some fun together with Hinata!”
+
+;CHR I08F R
+#cg イバラ iba_1_08f 左
+#wipe fade
+#voice ibac0009
+[Ibara] “Are you with Hinata?”
+
+Ibara looked at Hinata and Tsukiyo, looking a little uncomfortable.
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc3
+[Tsukiyo] “Let’s watch it together.”
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+#voice hinc0007
+[Hinata] "Are you going to watch Tsukiyo too? Wow! Let's do our best!"
+
+“What’s the point of trying so hard just to see it baked?”
+
+;CHR H06F1_A R
+#cg ヒナタ hin_1_06f1_a 右
+#wipe fade
+#voice hinc0008
+[Hinata] "Anything! Isn't it good to try your best at everything!? Everything!"
+
+"...Yes, yes, that's right."
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+#voice hinc0009
+[Hinata] "Alright, I'll do my best!"
+
+Hinata was looking into the stove with sparkling eyes.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara was the only one looking at Hinata and Tsukiyo with a confused look on their faces.
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+#voice hinc0010
+[Hinata] "Hmm, nice!"
+
+;CHR T01F_P L
+#cg ツキヨ tuk_1_01f_p 左
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukc4
+[Tsukiyo] "When the sweets are baked, they are brown and shiny. They are beautiful."
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibac0010
+[Ibara] “Beautiful?”
+
+;CHR T01F_P L
+#cg ツキヨ tuk_1_01f_p 左
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukc5
+[Tsukiyo] "Yes. It's shiny and shiny. It's amazing that you were able to make something so beautiful. Ehehe."
+
+When Tsukiyo looked at her hand and smiled happily, Ibara stared at her hand and at Tsukiyo's happy face.
+
+“Then, shall we bake the next seed?”
+
+;CHR T06F_P L
+#cg ツキヨ tuk_1_06f_p 左
+#wipe fade
+#face f_tuk_0_06f_p 94 466
+;TKface
+#voice tukc6
+[Tsukiyo] "Look, this white and squishy thing turns brown and smooth and crispy when it's cooked. It's amazing."
+
+;FACE I07F
+#face f_iba_0_07f 94 466
+
+#voice ibac0011
+[Ibara] "Yeah... it's shiny."
+
+"Hey, don't eat the fried ends."
+
+;CHR H02F2_A R
+#cg ヒナタ hin_1_02f2_a 右
+#wipe fade
+#voice hinc0011
+[Hinata] "Haw!? Even though it looks so delicious, you shouldn't eat it!?"
+
+"If you eat it now, you'll get burned, so let's wait until it cools down."
+
+;CHR H05F_A R
+#cg ヒナタ hin_1_05f_a 右
+#wipe fade
+#voice hinc0012
+[Hinata] “How long until you wake up?”
+
+“Hmm, I guess the next thing I start baking will be finished.”
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+#voice hinc0013
+[Hinata] "Wow...I wonder if I can hurry up."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0012
+[Ibara] "I-I can't help it. I'll keep an eye on Hinata and Tsukiyo so they don't eat anything!"
+
+"Thank you, I'll go wash up in the meantime, so don't ask."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0013
+[Ibara] "Huh, heh. I'll do it if you ask me!"
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinc0014
+[Hinata] “Hinata, I won’t pick you up!”
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukc7
+[Tsukiyo] “I don’t want to pick it up.”
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0014
+[Ibara] "Hey, you guys keep a close eye on what's inside the oven! I'll keep an eye on you!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara, who was finally relieved that his role was completed, ordered Hinata and the others as bossy as usual.
+
+#bgvoice stop
+;BGMch2 amb00 再生
+#bgvoice amb004
+
+;背景：山小屋（夜）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0015
+
+[Ibara] "We'll have 15 sweets. If that's the case, everyone will have 3 each and I'll have 6!"
+
+Ibara quickly picks up the sweets on the desk.
+
+"Eh, wait a second..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F2B L
+#cg コノミ kon_1_01f2b 左
+#wipe fade
+#voice konc0005
+[Konomi] “Everyone has 4 pieces, isn’t it just one person who has 3 pieces?”
+
+;CHR I10F1 R
+#cg イバラ iba_1_10f1 右
+#wipe fade
+#voice ibac0016
+[Ibara] "Don't you feel sorry for one of them!? That's why I'll get you three more!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It has become a competitive battle.
+
+For now, I thought the discussion was settled since everyone was going to divide it equally, but...
+
+"Ah, no...what about me?"
+
+Why do you think it's pitiful that only one person gets three pieces, so you can completely forget about mine?
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0017
+[Ibara] "What!? Are you going to eat humans too!?"
+
+"I'll eat it! Why are you so surprised! I mean, I said you could taste it, but I'm planning on making this my staple food for a while..."
+
+Didn't I tell you to prepare for tomorrow and beyond?
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0018
+[Ibara] “Were you planning to keep it all to yourself!?”
+
+;FACE H02F1_A
+#face f_hin_0_02f1_a 94 466
+
+#voice hinc0015
+[Hinata] "Haw!? That's not good, Human-san! Being a self-centered asshole is no good!"
+
+;FACE T05F_P
+#face f_tuk_0_05f_p 94 466
+
+#voice tukc8
+[Tsukiyo] "I wanted to eat some sweets..."
+
+;FACE K06F
+#face f_kon_0_06f 94 466
+
+#voice konc0006
+[Konomi] “Ningen-kun is greedy.”
+
+"Wait! Why do you have to look at me with such hateful eyes!"
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinc0016
+[Hinata] "I mean, you're not funny! That's terrible!"
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibac0019
+[Ibara] "Can't you give me some sweets!? Humans are greedy and terrible people!"
+
+;FACE K07F
+#face f_kon_0_07f 94 466
+
+#voice konc0007
+[Konomi] "Why are you showing off even though you won't give it to me? I'm sure it's really delicious."
+
+;FACE H04F1_A
+#face f_hin_0_04f1_a 94 466
+
+#voice hinc0017
+[Hinata] “Why don’t you give it to me because it’s delicious!?”
+
+;CHR I04F C（ぷんぷん）
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0020
+[Ibara] "What?! What a villainous bastard!"
+
+;FACE T05F_P
+#face f_tuk_0_05f_p 94 466
+
+#voice tukc9
+[Tsukiyo] "Wow. I did my best to help you..."
+
+Even Tsukiyo looked at me with resentful eyes.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Why do you keep talking like I'm a terrible person? ?
+
+"So, you didn't say you wouldn't give me one, right? Besides, if you guys eat too much, you'll get upset stomachs, right?"
+
+In my life so far, I have learned that elves can also eat human food, with the exception of meat and fish.
+
+However, perhaps because they are not designed to eat food in the first place, if they eat too much, they get stomach pains.
+
+However, the problem was that I quite liked sweets and other things.
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukc10
+[Tsukiyo] "I'll be careful not to break it. So please give me some sweets."
+
+"So I won't give it to you..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0021
+[Ibara] "Hmm. As long as the sweets are delicious, it's okay to eat a lot!"
+
+"You said that the other day and it made your stomach hurt..."
+
+Especially since Ibara is a noble elf as he says, human food doesn't seem to suit his body.
+
+Even so, I feel like she's more gluttonous than the other kids... Is he just a glutton, or does he get stubborn when competing with other kids?
+
+If I'm not careful, I'll get a stomach ache soon.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+#voice konc0008
+[Konomi] "You can eat a lot, right? I can eat about 100 of these sweets, right? Mumble..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0022
+[Ibara] "Ah!? Why have you already eaten it!?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K09F2 C
+#cg コノミ kon_1_09f2 中
+#wipe fade
+#voice konc0009
+[Konomi] "Because, mumble...this candy...mumble...it looked like it wanted me to eat it."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0023
+[Ibara] "Are you talking about sweets like that?! If that's the case, I'm sure you'll be happier if you let me, my beautiful person, eat them!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinc0018
+[Hinata] “Hinata is happy when you eat food!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukc11
+[Tsukiyo] “I’m glad it’s delicious.”
+
+"Okay, okay. Three for everyone, including me. Got it? ... Huh?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+--Kii.
+
+As I was fussing over the sweets, the door suddenly opened without any sign or warning.
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+Then, what came in was an elf bigger than Hinata and the others.
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0024
+[Ibara] “Ah... brother!?”
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hinc0019
+[Hinata] "Wow!? It's a big elf!?"
+
+Hinata and the others seemed to have come unexpectedly, and everyone except Konomi looked up at the newly arrived elf with surprised faces.
+
+#voice izec0001
+[Fountain Elf] “…Were they all here?”
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konc0010
+[Konomi] “Wow, it’s been a while”
+
+#voice izec0002
+[Fountain Elf] "That's probably because you all ran away and never came back."
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukc12
+[Tsukiyo] "Hawawawawawawawa..."
+
+"Ah... ah, welcome...?"
+
+I didn't know how to respond to the sudden visitor, but I ended up speaking to him in a slightly stupid way.
+
+The elf's voice had a strange sound to it that could be called a voice. It's like it's coming directly into my head...
+
+The unfamiliar elf glanced at me, then immediately turned his attention to Ibara.
+
+#voice izec0003
+[Spring Elf] "Thorn Elf, didn't you come to bring back the nut elves and the nameless elves?"
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibac0025
+[Ibara] "Ah... that's..."
+
+#voice izec0004
+[Fountain Elf] ``How foolish of you to not only go outside the barrier, but also to interact with humans.''
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0026
+[Ibara] “Brother, why are you here?”
+
+#voice izec0005
+[Fountain Elf] ``I came looking for you. The day when the barrier closes is coming soon. What will you do if you are left behind?'
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0027
+[Ibara] "So, I'm going to bring these guys back..."
+
+#voice izec0006
+[Fountain Elf] ``I know we were playing together. Thorn Elf, I made a mistake in entrusting you with this mission.''
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibac0028
+[Ibara] "Uh..."
+
+Brother……? Is this elf Ibarra's brother?
+
+#voice izec0007
+[Fountain Elf] ``No, that's not true, child of man. We cannot have a biological relationship like you do.''
+
+Did you get what I was thinking?
+And that answer is directly in your head...?
+
+#voice izec0008
+[Fountain Elf] ``That's right, over time, elves will be able to communicate without using language. Differences in language are trivial if you don't use language.''
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0029
+[Ibara] “My role is supposed to be to bring these guys back, so what did you come here for?”
+
+#voice izec0009
+[Fountain Elf] "I'm here to bring you back."
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0030
+[Ibara] “What…!?”
+
+Ibara's face was colored with shock.
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibac0031
+[Ibara] "Well, that's my role..."
+
+#voice izec0010
+[Fountain Elf] ``It's no longer possible. It seems you were still too young to fulfill your role.''
+
+Ibara bit his lip in frustration when his older brother said something like that.
+
+#voice izec0011
+[Fountain Elf] ``Now, let's go home.'' Thorn elves, nut elves, nameless elves.''
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0032
+[Ibara] "Brother! Hinata and Tsukiyo are no longer nameless elves! Humans gave us the names Hinata and Tsukiyo!"
+
+Ibara said as if to bite him, and he was sure to glare at his brother and rebel.
+
+My brother smiled as if he pity Ibara.
+
+#voice izec0012
+[Fountain Elf] ``Elves do not give names to distinguish things that are not necessary. Have you become so tainted by humanity that you forget that? ”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0033
+[Ibara] "I'm a proud flower elf, but... I don't really need to call my friend Nanashi. Hinata and Tsukiyo are Hinata and Tsukiyo!"
+
+#voice izec0013
+[Fountain Elf] “…Hmm. Son of man, is it true that you have given these names? ”
+
+"Eh...? Me?"
+
+Although he had been mostly ignored until then, he was taken aback when he suddenly started talking to her.
+
+"It's true that I was the one who named Hinata and Tsukiyo."
+
+#voice izec0014
+[Fountain Elf] “Are you saying you need these people?”
+
+The older elf replied, but instead of asking a question, he was muttering to himself and nodding several times.
+
+It's like he was the face of the village when he was grading livestock, and I somehow feel bad about him.
+
+#voice izec0015
+[Spring Elf] ``Then, since there's no need to feed nameless elves in the village, it might be better for us elves if they don't come back.''
+
+As expected, the conclusion drawn was poor.
+
+I can guess that he is looking down on me from the fact that he has been ignoring me for a while now.
+
+Considering Ibara's behavior when they first met, humans, half-elves, and dark elves are probably insignificant to elves.
+
+Even so, it wouldn't be a good idea to say it in front of him if he didn't come back.
+
+"Ah, you..."
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0034
+[Ibara] “In that case, I won’t come back either!”
+
+Before I could complain, it was Ibara who screamed.
+
+#voice izec0016
+[Spring Elf] “Thorn Elf…? ”
+
+The older elf looked surprised, as if Ibara's reaction was surprising.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0035
+
+[Ibara] "I'm not going back! I'm not going back to the people who say I don't need friends or that I'd be better off without them!"
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukc13
+[Tsukiyo] "Wow..."
+
+;ＥＶ絵――EV???『イバラに抱きつくヒナタ』
+;EVCG EV043A1
+;#face off
+
+;CHR OFF
+#cg all clear
+#cg イベント ev043a1 背景
+#wipe fade
+
+#voice hinc0020
+[Hinata] “Ibarara!”
+
+#voice ibac0036
+[Ibara] "Wapu!? Nanana, what!? Suddenly!?"
+
+Ibara was surprised when Hinata suddenly pounced on him.
+
+Hinata rubbed her cheeks and forehead against those thorns like a pampered cat.
+
+#voice hinc0021
+[Hinata] "Ibara called Hinata and Tsukiyo friends! I'm so happy!"
+
+Pushed by Hinata's momentum, Ibara is flustered, as if he has forgotten his anger towards his older brother.
+
+#voice ibac0037
+[Ibara] “Oh, that’s… that’s not what I meant…”
+
+;FACE K04F
+#face f_kon_0_04f 94 466
+
+#voice konc0011
+[Konomi] "Hehehe, I don't need Nanashi as a friend. It's too much. Hinata and Tsukiyo are Hinata and Tsukiyo...I said we're friends."
+
+#voice ibac0038
+[Ibara] "What are you talking about, Konomi... Ah!?"
+
+Ibara seemed to realize that the words Konomi had just said were what he had just said, and he was flustered.
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukc14
+[Tsukiyo] "Hinata and Tsukiyo are Hinata and Tsukiyo... I'm happy."
+
+#voice ibac0039
+[Ibara] "No, because that's it! Hinata and Tsukiyo are Hinata and Tsukiyo!? I didn't say anything wrong!?"
+
+"Yes, that's right. There's nothing wrong with that. What Ibarra said is absolutely correct."
+
+#voice ibac0040
+[Ibara] "N-Ningen... That's right. What I say is always wrong! I'm always right!"
+
+#voice hinc0022
+[Hinata] "Thank you, Ibara. I'm so happy that Ibara called me my friend!"
+
+#voice ibac0041
+[Ibara] “So, I guess you could say it’s a word….”
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice konc0012
+[Konomi] “Ufufu‾, we are friends, right?”
+
+;背景：山小屋（夜）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+#voice izec0017
+[Fountain Elf] "Huh..."
+
+The older elf let out a sigh as if to suppress the suddenly warm atmosphere, and looked over at Hinata and the others.
+
+Immediately, Hinata and the others stiffened, as if they were completely frozen.
+
+#voice izec0018
+[Fountain Elf] ``I see... If you miss this opportunity, it will be difficult for you to return to our realm. Is that okay? ”
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinc0023
+[Hinata] "Wow..."
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukc15
+[Tsukiyo] "Ah..."
+
+Hinata and Tsukiyo gasped at the older elf's words.
+
+"...What is that? Are you threatening me?"
+
+#voice izec0019
+[Spring Elf] ``This is not a threat. I'm just stating the facts.'
+
+"fact……?"
+
+#voice izec0020
+[Fountain Elf] ``Think carefully. The road becomes narrower and narrower. Make it thin so no foreign objects can get into it.''
+
+;FACE T05F_P
+#face f_tuk_0_05f_p 94 466
+
+#voice tukc16
+[Tsukiyo] “Oh, that’s it…”
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinc0024
+[Hinata] "I'm getting thinner and thinner..."
+
+#voice izec0021
+[Fountain Elf] ``If you're going to go back, do it as soon as possible. If you want to go back.''
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+After saying that, my brother and the others left.
+
+"Will the road become narrower? What is that?"
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice konc0013
+[Konomi] "Hmm, probably. I think they are strengthening the barrier by borrowing the power of the moon, which gradually becomes stronger as the new moon passes."
+
+"I see. So, is there a reason why you have to go back early? Isn't it the full moon that closes the barrier?"
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+#voice konc0014
+[Konomi] "Is it so? Oh, there it is! Because Tsukiyo is a dark elf and a kin of darkness, and Hinata is a half-elf, right? There are some unnecessary things mixed in."
+
+"There's no way to say it's superfluous, Konomi."
+
+I chided him without thinking, and Konomi tilted her head a few times in annoyance.
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+#voice konc0015
+[Konomi] "If that doesn't work, then maybe I should say something that isn't elf? It might be difficult since I also eat human drinks and food."
+
+“There are things mixed in that aren’t elves…?”
+
+;CHR K01F2A C
+#cg コノミ kon_1_01f2a 中
+#wipe fade
+#voice konc0016
+[Konomi] "Well, that's what I mean by unnecessary things. If there's something you want to bring from here, you'll be in trouble if you don't hurry."
+
+“I can’t say that I understand because I don’t really understand what the logic is, but is it okay to interpret that it becomes harder to enter the Elf’s barrier as the moon approaches the full moon?”
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+#voice konc0017
+[Konomi] "Yeah. That's what it is‾"
+
+"Are you okay?"
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+#voice konc0018
+[Konomi] "Hmm, what do you think? I'm probably fine though."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi was the only one looking relaxed, but Hinata, Tsukiyo, and Ibara also had a somewhat stiff look on their faces.
+
+In the end, it seemed like everyone had no more time to eat sweets after that, so I just ate some sweets and finished dinner.
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+The morning arrived with a heavy atmosphere. It seems that the elves rested in their own places in the evening.
+
+Maybe he didn't want to see her face to face, or maybe he wanted to think alone.
+
+I wonder what everyone is going to do...
+
+;CHR H03F1_A R
+#cg ヒナタ hin_1_03f1_a 右
+#wipe fade
+#voice hinc0025
+[Hinata] "Uh..."
+
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+#voice tukc17
+[Tsukiyo] “Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”
+
+“So, what are we going to do?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+#voice konc0019
+[Konomi] "I'll go back before the barrier closes. The human world was pretty fun, too. Thank you, Human-kun."
+
+Konomi seemed to have made a decision quite easily.
+
+I'm glad you're thanking me, but I think it's pretty easy to say goodbye.
+
+...Maybe that's what elves are like.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"What are we going to do about Hinata and Tsukiyo?"
+
+;CHR H01F2_A R
+#cg ヒナタ hin_1_01f2_a 右
+#wipe fade
+#voice hinc0026
+[Hinata] "Hinata too! Come back!"
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+#voice tukc18
+[Tsukiyo] "I'm going back..."
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0042
+[Ibara] “What!?”
+
+Ibara was at a loss for words after hearing Hinata and Tsukiyo's words.
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+#voice hinc0027
+[Hinata] "I've been alone for a long time, but now that I've made friends, I'm sure it'll be fun!"
+
+Hinata said as she grabbed Tsukiyo's hand, then Konomi's hand, and then when she tried to grab Ibara's hand, she was glared at.
+
+;CHR H02F2_A R
+#cg ヒナタ hin_1_02f2_a 右
+#wipe fade
+#voice hinc0028
+[Hinata] "Ah..."
+
+;FACE I10F2
+#face f_iba_0_10f2 94 466
+
+#voice ibac0043
+[Ibara] “Hmph!”
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc19
+[Tsukiyo] "Hinata and Tsukiyo are no longer Nanashi... We received something important. Thank you, Human-san."
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+#voice hinc0029
+[Hinata] "Ah! Hinata too! Hinata too! I'm going to squeeze into Human-san!"
+
+Tsukiyo and Hinata jump in to shake off the awkwardness with Ibara.
+
+"Ah, ah..."
+
+I didn't know how to respond, so all I could do was pat Tsukiyo and Hinata on the head as they jumped at me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara, who was looking away, seemed angry and yelled.
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0044
+[Ibara] "Wha...what the hell! What the heck! Why did you decide to go back to that place!?"
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+#voice tukc20
+[Tsukiyo] "That... that's..."
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinc0030
+[Hinata] "Wow..."
+
+Both Hinata and Tsukiyo were forced to look away from Ibara due to its force. This attitude made Ibarra even more furious.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0045
+[Ibara] “Konomi is fine, but Hinata and Tsukiyo will turn into Nanashi again!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H02F1_A R
+#cg ヒナタ hin_1_02f1_a 右
+#wipe fade
+#voice hinc0031
+[Hinata] "B-but..."
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+#voice tukc21
+[Tsukiyo] "Huh..."
+
+Hinata and Tsukiyo look at each other. However, there seemed to be no change in the conclusion.
+
+
+Tsukiyo took a deep breath, then slowly turned to Ibara and said.
+
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+#voice tukc22
+[Tsukiyo] "Tsukiyo knows that Tsukiyo is Tsukiyo, and I'm sure Ibara, Konomi, and Hinata will call Tsukiyo Tsukiyo."
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+#voice hinc0032
+[Hinata] “And then there’s Human-san too!”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0046
+[Ibara] “So you’re saying it’s okay!?”
+
+;CHR T05F_L L
+#cg ツキヨ tuk_1_05f_l 左
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+#voice tukc23
+[Tsukiyo] "Yes..."
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+#voice hinc0033
+[Hinata] "Hinata is Hinata, Hinata is also Hinata, so I won't go back to Nanashi!"
+
+;FACE I11F2
+#face f_iba_0_11f2 94 466
+
+#voice ibac0047
+[Ibara] "I don't know! I don't understand that!"
+
+;SE se013 扉のバタン音
+#se 1 se013
+
+Ibara yelled loudly and ran out the door.
+
+;FACE K08F
+#face f_kon_0_08f 94 466
+
+#voice konc0020
+[Konomi] “Ah, I’m angry.”
+
+;CHR H03F1_A L
+#cg ヒナタ hin_1_03f1_a 右
+#wipe fade
+#voice hinc0034
+[Hinata] “Oh, Ibara Punpunda.”
+
+;CHR T02F R
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+#voice tukc24
+[Tsukiyo] "I made you angry..."
+
+"That's right... I see. If you ask Ibara, he probably intended to protect Hinata and Tsukiyo, but it seems like he was betrayed by them."
+
+If it's about whether or not I can go back to the elves, I can't interfere.
+
+However, I feel like I can understand how Ibara feels.
+
+Hinata and Tsukiyo probably didn't understand Ibara's feelings either. He muttered with a very confused look on his face.
+
+;CHR T10F1 R
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+#voice tukc25
+[Tsukiyo] "I didn't betray you..."
+
+;CHR H02F2_A L
+#cg ヒナタ hin_1_02f2_a 右
+#wipe fade
+#voice hinc0035
+[Hinata] "If Hinata and the others don't come back, Ibara will definitely be in trouble..."
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+"Ibara is also in trouble? What do you mean?"
+
+;CHR K01F2A C
+#cg コノミ kon_1_01f2a 中
+#wipe fade
+#voice konc0021
+[Konomi] “Ibara probably promised to bring back the elf who escaped.”
+
+"Even if you make a promise at the beginning, you may change your mind."
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+#voice konc0022
+[Konomi] “Well, the rules will change, because a promise once made is absolute.”
+
+“Kotowari?”
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+#voice tukc26
+[Tsukiyo] "Elves keep their promises. There are some promises that must be kept."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice konc0023
+[Konomi] "See, haven't you heard of this before? It's like if you listen to an elf's request and you catch the elf before it leaves, you'll get one wish granted in return."
+
+"Ah, ah...I feel like I've heard something like that before..."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+#voice konc0024
+[Konomi] "There's a way to make a wish. Instead of asking for a favor, you make a 'promise' to listen to a request. Then the elf has to keep his promise."
+
+"Does this mean that in order to keep my 'promise', I have no choice but to make my wish come true?"
+
+;CHR K09F2 C
+#cg コノミ kon_1_09f2 中
+#wipe fade
+#voice konc0025
+[Konomi] “So, that’s what it is‾”
+
+"What if it's a wish that can't be granted?"
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice konc0026
+[Konomi] "I'll make it come true somehow‾? It doesn't necessarily come true the way humans think though‾"
+
+I gasped, feeling a little scared. ...Maybe I was lucky that I didn't make any careless promises or wishes.
+
+;FACE T10F1
+#face f_tuk_0_10f1 94 466
+
+#voice tukc27
+[Tsukiyo] “Elves always keep their promises, and they try to make them keep their promises.”
+
+“Does that mean Ibara absolutely has to bring Konomi and the others back?”
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+#voice konc0027
+[Konomi] “I don’t know, but maybe.”
+
+In other words, did Hinata, Konomi, and Tsukiyo decide to return because they wanted to fulfill Ibara's promise?
+
+"Hinata, Tsukiyo, and Konomi are all coming back for Ibara."
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+#voice konc0028
+[Konomi] "Because, we're friends."
+
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+#voice hinc0036
+[Hinata] "I'll protect my friend's yakusokudamon!"
+
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc28
+[Tsukiyo] “I want to be with my friends.”
+
+"I see, that won't stop me."
+
+If that's an elf rule, I, a human, can't do anything about it.
+
+I feel a little lonely, but I guess there's nothing I can do about it.
+
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+#voice konc0029
+[Konomi] "We'll be back first‾ Tell Ibara that‾"
+
+"Ah, I see."
+
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+#voice hinc0037
+[Hinata] "See you then! Human-san!"
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+#voice tukc29
+[Tsukiyo] "I'm sure we'll meet again when the moon gets eaten by the wolf."
+
+"I see"
+
+;CHR OFF 
+#cg ヒナタ clear
+#wipe fade
+
+;CHR K09F1 R
+#cg コノミ kon_1_09f1 右
+#wipe fade
+#voice konc0030
+[Konomi] “See you later‾”
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+#voice tukc30
+[Tsukiyo] “I’ll see you again.”
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+I smiled bitterly as I watched Konomi and the others leave.
+
+"...How many years later?"
+
+No matter how many years later, it probably won't be that long for an elf.
+
+These are words that make me doubt that we will meet again. ...Let's try to live that long.
+
+I was left thinking about this and decided to wait for Ibara.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夕）
+;BG:BG08b_2
+#cg all clear
+#bg BG08b_2
+#wipe fade
+
+It wasn't until dusk that Ibara returned looking embarrassed.
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibac0048
+[Ibara] “…”
+
+"Welcome back"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0049
+[Ibara] “…Who are they?”
+
+"I heard you're going back first."
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+#voice ibac0050
+[Ibara] “I see.”
+
+Ibara came into the hut and clung to me.
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0051
+[Ibara] "Well, then... From now on, it's just me and Human."
+
+"...That's right."
+
+The hand holding onto me is shaking. There's no need to force yourself.
+
+“Ibarra, did you make a promise to the elf?”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0052
+[Ibara] "Huh? What?"
+
+“Konomi and the others said that they made a ‘promise’ to bring back the elf who went outside.”
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0053
+[Ibara] “That’s what I did, but.”
+
+Ah, I guess I had made a “promise” after all.
+
+“So, what is it?”
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0054
+[Ibara] “Huh?”
+
+"Everyone, that's why you returned to the elf village. So that Ibara doesn't have to break his promise."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0055
+[Ibara] “What…”
+
+"We're friends. We're good friends, aren't we?"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0056
+[Ibara] “I-I didn’t ask you to do that! I didn’t ask you to do that!?”
+
+Ibara was surprised and then bit her lip with an expression that was neither regrettable nor happy.
+
+"Friends do things for their friends even if they aren't asked."
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibac0057
+[Ibara] "Uh... uh... I... I... But I don't have any intention of going back..."
+
+Given Ibara's personality, it will probably take time for her to get her navel back once it's bent.
+
+I was told that the path would be narrow, but if Ibara is a pure elf, there might be a little more grace.
+
+"Isn't it part of the promise that Ibarra will return?"
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0058
+[Ibara] "The promise I made was to bring back the elf who went outside. Therefore, there is no need for me to return..."
+
+"Then you can stay here as long as you like."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0059
+[Ibara] "Huh!? Is it okay if I stay?"
+
+"It's okay. Me too, it's lonely to be alone all of a sudden."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0060
+[Ibara] "N-If you're feeling lonely, you can stay by my side!"
+
+...It would actually be better to properly return Ibara to the elves.
+
+However, if I force them to go home, there's no guarantee that they won't have to bend their navels even more.
+
+I wonder if I could stay with you for a while and see how things are going...
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋（夜）
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+"...Huh? Ibara?"
+
+They were supposed to have slept together, but when they woke up in the middle of the night, Ibara was gone.
+
+Where did you go this late at night?
+
+;SMODE 040 PLAY
+#label replay040
+#setscene 38
+#bg BG08b_3
+
+#bgvoice stop
+;BGMch2 amb002 再生
+#bgvoice amb002
+
+;ＥＶ絵――EV???『一人星を見上げるイバラ』
+;EVCG EV044A1
+#cg イベント EV044A1 背景
+#wipe fade
+
+When I went outside, Ibara was alone looking up at the sky.
+
+He seems lonely for some reason, so I hesitate to call out to him.
+
+#voice ibac0061
+[Ibara] "Hinata, Konomi, Tsukiyo. Why did you leave me alone..."
+
+...I guess I'll miss the Ibara guy after all.
+
+#voice ibac0062
+[Ibara] "...Kushun"
+
+"a……"
+
+When Ibara sneezed, Ibara turned to me.
+
+#voice ibac0063
+[Ibara] “…”
+
+However, Ibara looked a little troubled and looked up at the sky again.
+
+“Ibara, isn’t it cold?”
+
+#voice ibac0064
+[Ibara] “I-I’m fine.”
+
+"Really? That's fine."
+
+I sat down next to Ibara.
+
+"What were you doing?"
+
+#voice ibac0065
+[Ibara] "Uh... ah... uh..."
+
+“Did you even see the stars?”
+
+#voice ibac0066
+[Ibara] "That's right! That's it! I don't remember anything about Hinata and the others!"
+
+...I can't lie. It can't be helped.
+
+"The stars are beautiful."
+
+When I looked up at the sky, I saw a moon that looked like a thin claw made of black glossy cloth and stars that looked like they were studded with jewels.
+
+#voice ibac0067
+[Ibara] "I-Isn't that so!? That's why I was looking at it. Being beautiful is a good thing and the right thing to do."
+
+"It's a good thing, it's the right thing, right..."
+
+#voice ibac0068
+[Ibara] “If I could wear a sparkling star as a necklace, would I be more beautiful?”
+
+“What are you doing dressing up like that?”
+
+#voice ibac0069
+[Ibara] “Being beautiful means having value.”
+
+“But isn’t it meaningless if I’m the only person you show it to?”
+
+#voice ibac0070
+[Ibara] "That's stupid. Being beautiful is something you pursue for yourself. So it doesn't matter who sees it."
+
+Ibara puffed out his cheeks as if he was sulking.
+
+#voice ibac0071
+[Ibara] "But you're right. Hinata is really impressed with me, so I don't mind showing it to her. It felt good to have them there and show me something beautiful."
+
+``Up until now, we've always spent time together as a group, but now we're all alone, it must be lonely.''
+
+#voice ibac0072
+[Ibara] "It's not four people. It's not just one person."
+
+"picture?"
+
+#voice ibac0073
+[Ibara] “The five of us were always together, and now it’s just the two of us.”
+
+"Ah, ah... me too. Yeah, I was always with you too."
+
+#voice ibac0074
+[Ibara] "That's right. You really are an idiot for forgetting to count yourself."
+
+Hmph, Ibara snorted arrogantly.
+
+#voice ibac0075
+[Ibara] "...The five of us were together. And yet, they decided to come back without asking me..."
+
+Ibara clenches his fists and looks toward the distant sky.
+
+#voice ibac0076
+[Ibara] "My promise has nothing to do with Hinata and the others. It's a promise I made without permission."
+
+"That's how much I thought of Ibarra as an important friend."
+
+#voice ibac0077
+[Ibara] “…Those guys are idiots.”
+
+"lonely?"
+
+#voice ibac0077-01
+[Ibara] "I don't feel lonely. Even when we played together, it wasn't fun. I'm so sorry that you're no longer such a hindrance and pain!"
+
+"...It's easy to understand."
+
+As I was laughing, Ibara glanced at me with a sullen look on his face.
+
+#voice ibac0078
+[Ibara] "What, what are you laughing at!? Kkushu!"
+
+"...Ah. It's cold."
+
+#voice ibac0079
+[Ibara] "Well, it's cold..."
+
+It doesn't bother me during the day, but it gets really cold at night.
+
+Especially when you're standing on the dirt outside in the cold wind.
+
+"Why don't you go back inside?"
+
+Ibara looked back at the hut for a moment, then looked up at the sky again.
+
+#voice ibac0080
+[Ibara] “…I’ll be here a little longer.”
+
+...When I found out earlier that Ibara wasn't there, I also felt a little uneasy.
+
+When he woke up, he must have realized that Hinata and the others weren't there, since the hut was divided into smaller spaces.
+
+"Okay. Well then, I'll be with you for a little while."
+
+#voice ibac0081
+[Ibara] "It's fine. Humans should just sleep."
+
+"Wait a minute, I'll bring you something now."
+
+#voice ibac0082
+[Ibara] “…Ah, human.”
+
+;背景：山小屋（夜）
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+It's kind of typical of Ibara that he can't help but be stubborn.
+
+Maybe that's why I want to do something about it.
+
+Me and Hinata and the others...
+
+;SMODE 040 STOP
+#endscene
+
+"Now then, what should I bring..."
+
+I looked around the cabin.
+
+;選択肢発生
+#select a b
+A: I'll make you a hot drink.
+B: I'll bring you a blanket.
+
+
+#label a
+#next di01a
+
+#label b
+#next di01b
+
+;Ａを選択⇒『di01a』へジャンプ
+;Ｂを選択⇒『di01b』へジャンプ

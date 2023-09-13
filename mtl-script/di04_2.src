@@ -1,0 +1,287 @@
+
+
+“Now that I think about it, isn’t it the elf’s idea that anything you don’t wear is common property?”
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0300
+[Ibara] "That's right. Elves don't get attached to things that they can't wear like humans. They're a noble race."
+
+"Then why did you get so angry when he had Jimeikoto?"
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0301
+[Ibara] "Huh...!? Oh, that's it! I only left it because my human left behind, and I was planning on carrying it around in the first place!"
+
+"Wow! Shh, everyone's awake. I never expected a thief to break into a mountain hut like this."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0302
+[Ibara] "It's probably a characteristic of lowly people to do things they don't expect. From now on, no matter what humans say, I'll learn this."
+
+"It's too bad... but it's not even an accessory, so I don't think the Jimeikoto is suitable for wearing."
+
+I don't think it would be hanging from the neck or waist.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0303
+[Ibara] "It doesn't really matter. It's just a matter of carrying it around with you."
+
+"...Elf, what would you do if someone stole something you couldn't wear like this hut?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0304
+[Ibara] "If you can't wear something, you don't own it. Isn't it funny that you can't move while holding something bigger than your body?"
+
+“Then, what do you do when you go to bed, or when you have a lot of books?”
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0305
+[Ibara] "When I sleep, I sleep anywhere I like, such as on top of a tree. If it rains, I sleep somewhere where I can't get rained on. Anyone can leave the books at their disposal, as long as someone else is carrying them around."
+
+As if asking me something obvious, Ibara answered.
+
+#voice ibac0306
+[Ibara] "If someone doesn't carry something with them, it doesn't belong to anyone. So if you see it, you can use it as you like. Also, don't get too attached to what you wear."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0307
+[Ibara] "Everything that has a tangible form will break someday, right? Stones and metals can last a while, but there are many things that deteriorate faster than elves who live in eternity."
+
+"I see...but then why did you get so angry when your jimakikoto was taken away?"
+
+I was almost convinced, but when I got confused and asked more questions, Ibarra said bluntly:
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0308
+[Ibara] “I mean, this is something important to humans, right?”
+
+"picture?"
+
+It's important as a keepsake of my mother, but did I say that?
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0309
+[Ibara] "When you gave it to me, you had eyes that looked at something important. That's why I knew that this was something important to you."
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+
+#voice ibac0310
+[Ibara] "What's important to humans is also important to me. If you're giving me something important, it's because I'm important, right? I'll reciprocate that feeling."
+
+Even though Ibara says it with pride, his face turns bright red, and even I am embarrassed.
+
+"Come to think of it, Ibara wears more accessories than Hinata and the others."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0311
+[Ibara] "Because it's beautiful! It's true to say that it's beautiful. In the world of elves, the more beautiful the better."
+
+"Hey..."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0312
+[Ibara] "My skin is transparently white and beautiful, isn't it!? This is what makes me beautiful. Anything that is beautiful is the most beautiful when I wear it."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0313
+[Ibara] "...That's what I thought. All the time. But ever since I started being with Human, I don't understand it anymore."
+
+“Since you started living with me?”
+
+#voice ibac0314
+[Ibara] "...Yeah. Humans don't treat me special, right? They treat me the same way as Hinata and Tsukiyo. I've always thought I was special because I'm beautiful."
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+
+#voice ibac0315
+[Ibara] "Among the elves, only my brother recognizes that there is something more beautiful than me. I was a special being."
+
+“He must have had a lot of confidence.”
+
+#voice ibac0316
+[Ibara] "I despised half-elves and dark elves as ugly and dirty. That's why I thought they must be inferior to me in everything. But that wasn't the case."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0317
+[Ibara] "I'm beautiful, and it's the duty of beautiful people to be beautiful, so I wore a lot of jewelry. But I was wondering why I wasn't more beautiful than my brother."
+
+#voice ibac0318
+[Ibara] "...That's why I decided to do my best and collect various things to decorate myself. I'm beautiful, so I want to become even more beautiful."
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+
+#voice ibac0319
+[Ibara] "But...I feel like there's something different about me. Even though I wear a lot of accessories, I don't feel like I've changed at all..."
+
+#voice ibac0320
+[Ibara] "I thought maybe something was missing, but since I didn't know what it was, I wanted to find something I'd never seen before, so I came here to look for something new."
+
+"So, did you find anything?"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0321
+[Ibara] "Well... I couldn't find anything. But it was fun playing with Hinata and Tsukiyo. Even with Konomi, we've become even better friends since we came here."
+
+“Then, I may not have found anything beautiful, but it was good.”
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0322
+[Ibara] "I found something beautiful... I found it. But it's not something I can wear."
+
+"……What do you mean?"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0323
+[Ibara] "I'm the most beautiful one!? That's for sure! ...But..."
+
+Ibara bit his lip, as if he didn't want to admit it, then looked at my hand, then looked at Hinata and Ibara.
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+
+#voice ibac0324
+[Ibara] “Hinata is always smiling happily, but sometimes she looks dazzlingly beautiful.”
+
+#voice ibac0325
+[Ibara] "Tsukiyo looks beautiful when she's reading a book and enthusiastically helping humans with her work."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0326
+[Ibara] “At times like that, sometimes it hurts here.”
+
+Ibarra pressed his fist against his chest.
+
+#voice ibac0327
+[Ibara] "Even if I wear beautiful jewelry or polish my hair, I feel like I can't compete with them at that time, and I don't know what to do."
+
+"Really……"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0328
+[Ibara] "Also, I think it's beautiful when a craft is created from the hands of humans. Even though humans are supposed to be lowly creatures, I find it beautiful."
+
+Ibara said as he hugged Jimeikoto tightly.
+
+#voice ibac0329
+[Ibara] "Also, humans sometimes make very beautiful things like this self-sounding koto. That's why I don't really understand what is beautiful."
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+
+#voice ibac0330
+[Ibara] “Humans, half-elves, and dark elves are all supposed to be incomparably inferior to noble elves, but I really don’t think so.”
+
+#voice ibac0331
+[Ibara] "Even though I am the most noble elf with a proud flower crest, I still think Hinata and Tsukiyo are beautiful."
+
+"I guess that's fine."
+
+I pat Ibara on the head, who seems depressed for some reason.
+
+"Maybe it's because I'm a human, but I think Ibara's feelings about Hinata and Tsukiyo are beautiful and irreplaceable."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0332
+[Ibara] "Huh...?"
+
+``There are many types of flowers, including red, white, blue, yellow, large, small, clusters of flowers, and single blooms, right?''
+
+#voice ibac0333
+[Ibara] "Uh...yeah"
+
+“Large, dignified flowers are certainly beautiful, but I also think small, dainty flowers that bloom in clusters are also beautiful. I think it would be better to have an eye that can spot that kind of beauty.”
+
+"So, since I've been with you, if Ibara has noticed the beauty of Hinata and Tsukiyo, then the current Ibara is much better than the previous Ibara."
+
+Ibara gaped, as if something unexpected had been said to her, then her face crumpled up into tears and she jumped into my chest.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Why are you crying?"
+
+;FACE I06F
+#face f_iba_0_06f 94 466
+
+#voice ibac0334
+[Ibara] "I-I don't know...but I feel like I'm happy..."
+
+Ibara fell asleep on my chest while snorting.
+
+;MCK BGMフェードアウト★
+;暗転（夜→朝）
+#mes off fade
+#system off fade
+#face off
+#bg black
+#wipe fade
+#wait 3000
+
+;di05へ
+#next di05

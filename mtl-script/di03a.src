@@ -1,0 +1,117 @@
+
+;背景：泉（昼）
+;BG:BG03_1
+#cg all clear
+#bg BG03_1
+#wipe fade
+
+I dampened the cloth that was hanging around my waist, wrung it out, and used all my strength to wipe away the tentacle mucus that remained on Ibara's skin.
+
+To scrape off the sticky substance, I had to muster up so much strength that my white skin turned bright red.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0224
+[Ibara] "Tatata. Don't rub it so hard! You'll wear it out!"
+
+“Then, is it better for this sticky substance to remain?”
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0225
+[Ibara] "I-I didn't say that! But I'm telling you to be more gentle and respectful even if you're going to rub it!"
+
+"Even though it's so sticky, if you say that, it won't come off."
+
+For the time being, I still have some mucus on my private parts and hands and feet, but so far my skin hasn't melted or I've had a rash.
+
+So, I prioritized the thorns and wiped away the mucus from the noticeable areas.
+
+The mucus that sticks to the cloth will come off if you wash it with water, so soak the cloth in water several times, wash it, and use the clean cloth to cleanse your entire body.
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibac0226
+[Ibara] "It hurts! It hurts, so it's enough! I'll wash myself, so it's enough!"
+
+Ibara shook me off, took off his clothes, and jumped into the fountain.
+
+;CHR I02N C
+#cg イバラ iba_1_02n 中
+#wipe fade
+#voice ibac0227
+[Ibara] "Ah, Tatata. I thought the skin was going to peel off, right? You idiot."
+
+With a disgusted look on his face, he carefully washed away the area that the tentacle had touched.
+
+;CHR I08N C
+#cg イバラ iba_1_08n 中
+#wipe fade
+#voice ibac0228
+[Ibara] "Huh? Look, this sticky stuff dissolves in water! Look!"
+
+"Huh? Oh, it's true."
+
+;CHR I04N C
+#cg イバラ iba_1_04n 中
+#wipe fade
+#voice ibac0229
+[Ibara] "Look! Even if you scrub it so hard, it won't hurt. You stupid human being! Come on, hurry up and wash your skin, too!"
+
+"Uh, yeah. Understood..."
+
+I followed Ibara into the spring and carefully washed away the mucus that was clinging to my wrists and private parts.
+
+Although it is sticky in the air, it easily dissolves in water and is washed away.
+
+;CHR I01N C
+#cg イバラ iba_1_01n 中
+#wipe fade
+#voice ibac0230
+[Ibara] "Ah, already. It turned red when I scrubbed it earlier!"
+
+"I-I'm sorry..."
+
+I didn't mean any harm either, I just wanted to clean it up.
+
+Even if it wasn't immediately poisonous, I thought it would be a problem if there was some kind of strange poison, so I prioritized cleaning the thorns.
+
+;CHR I10N1 C
+#cg イバラ iba_1_10n1 中
+#wipe fade
+#voice ibac0231
+[Ibara] “If I had washed it from the beginning, things would have been quicker.”
+
+Ibara finished washing his body and went ashore.
+
+"Yes, yes, sorry."
+
+I also finished washing my body and went up to shore.
+
+When I washed my clothes and wrung them out, water dripped out.
+
+It would be nice if all the mucus came off, but I wouldn't like it if it was still left after it dried.
+
+;CHR I01N C
+#cg イバラ iba_1_01n 中
+#wipe fade
+#voice ibac0232
+[Ibara] "Huh... I had a really bad experience being toyed with by those tentacles."
+
+Ibara's face, with her lips pouting, still looks slightly cheerful.
+
+"It actually felt good to be fucked deep inside like that, didn't it?"
+
+;CHR I05N C
+#cg イバラ iba_1_05n 中
+#wipe fade
+#voice ibac0233
+[Ibara] "B-don't be stupid! There's nothing pleasant about that!"
+
+His excited expression was sexy, and Ibara couldn't help but tease him, causing him to lie down on the ground in a displeased manner.
+
+;di03_2へ
+#next di03_2

@@ -1,0 +1,780 @@
+
+#bgm 0 stop 1000
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"I'm going... I want to go. Can you take me with you?"
+
+Even if the elf world wasn't a good place for humans to live, as Ibarra said, it seemed much more appealing than returning to the village.
+
+No, even if I can't be taken to the elf world, I don't want to go back to that village anymore.
+
+I'd rather head into town than go back there. But if you can...
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0463
+[Ibara] "Are humans coming with you too!? It must be really, really hard for a human like that to live among elves! Is it okay!?"
+
+Although Ibarra said something mocking, he looked very happy.
+
+That's right, Ibara... If even one person is happy with my existence, I want to live in that world.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hinc0064
+[Hinata] "Wow! I'm going to play with Human-san again!"
+
+;FACE T01F_L L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc58
+[Tsukiyo] “I’ll go with you.”
+
+;FACE K04F R
+#face f_kon_0_04f 94 466
+
+#voice konc0056
+[Konomi] “Wow, are you going with me?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It's me who didn't fit in with the human society of the village.
+
+Besides, there was a suspicion that he was secretly trying to make money by monopolizing the elf, so there was no way he could return to the village like this.
+
+I don't know what he's spreading about me when he returns to the village.
+
+Even if he were to return to his village and live his life as if nothing had happened, the doubts that had once sprouted would never go away.
+
+Probably if I went to town, it would probably be the same thing there. As an outsider, he cannot fit into the circle of people, and will eventually be rejected.
+
+In the end, I'm a different person no matter where I go.
+
+In that case, if I go to a place far away from what I'm used to, like the village where elves live, I might even give up on the fact that I'm a different person.
+
+...What, I thought I had realized it, but in the end it was hard being a different person.
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice konc0057
+[Konomi] "Hey, Human-kun. Why are you crying?"
+
+"...Huh? Am I crying?"
+
+Before I knew it, my vision had become slightly distorted.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0464
+[Ibara] "What's wrong!? Are you injured somewhere!? Does it hurt!? Or are you sick!?"
+
+Ibara looked worried and touched my body here and there.
+
+"It's okay. I'm not hurt, and I don't feel any pain anywhere on my body."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+
+#voice hinc0065
+[Hinata] "Let's go!"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukc59
+[Tsukiyo] "I'm going! I'm sure it'll be fun with Human-san!"
+
+"That's right, if we don't go quickly, the guy from yesterday will bring the guys from the village and we'll be in trouble."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+
+#voice hinc0066
+[Hinata] "That's it! Hurry! Hurry! Hurry, hurry!"
+
+"I'm trying to hurry as much as possible, so don't be so rushed."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+At the urging of Hinata and Tsukiyo, who seemed to be having a lot of fun, I just packed up some simple things that I could carry with my hands.
+
+If you try to bring too many things with you, it will probably go to waste.
+
+In that case, I'll follow the example of an elf and bring only what I can wear, and leave the rest here.
+
+;背景：山小屋前（昼）
+;BG BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+It's a shame that I can't take my large collection of books with me.
+
+I couldn't help but look back at the hut, feeling a little reluctant to leave anything behind.
+
+I have also combined what I wrote into one book.
+
+I hope it will be useful to someone who wants to live in this hut again someday.
+
+The people in the village might sell it before that happens, but I hope someone who can find it useful gets it.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibac0465
+[Ibara] "What are you doing! Let's go, human."
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+
+#voice hinc0067
+[Hinata] "Let's go! Hurry, hurry!"
+
+"Ah, yeah. Sorry."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+And then we departed for the elf realm.
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"Where is this?"
+
+Ibara and the others stopped in a nondescript corner of the forest.
+
+"What on earth do we have here?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0466
+[Ibara] "There is a gate here that leads to the elf realm. Don't humans know?"
+
+;FACE H04F2_A
+#face f_hin_0_04f2_a 94 466
+
+#voice hinc0068
+[Hinata] "I don't understand?"
+
+"Ah, no...yeah"
+
+To my eyes, it looks like an ordinary forest that has never changed at all.
+
+However... I just followed Ibara and the others as they moved forward without hesitation, and I had no idea where or how they were walking.
+
+In a truly normal forest, something like this would never happen. Even if the woods look the same, if you walk a few steps, you'll notice that the shapes of the trees and the way the grass grows are different.
+
+But I couldn't remember any of it. Even though we were in a forest with few landmarks, it was a truly strange experience to have no idea of the direction.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice konc0058
+[Konomi] "Because you're with us, you've come this far, but if it's true, Human-kun wouldn't be able to come, so you don't understand, right?"
+
+“If it’s true, I can’t come?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tukc60
+[Tsukiyo] "There's a magic trick on it. Humans and monsters can't get close to it."
+
+I looked around, but couldn't find anything unusual.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice konc0059
+[Konomi] "Even if you look at it with your eyes, Human-kun won't understand, right? What you can see with your eyes isn't the only thing that's real."
+
+Konomi's tone was as gentle as usual, which was terrifying.
+
+I wonder if Konomi and his friends see this forest in a different way. Even though they look similar, I am now reminded that they are different things.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0467
+[Ibara] “Are you really prepared?”
+
+Ibara looked at me with a worried look on my face.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0468
+[Ibara] "If human beings can find something important among humans, they should not come here first. Return to the human world."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice konc0060
+[Konomi] “So‾, you can’t go into this forest anymore‾? You’ll get lost in the world between, right?”
+
+A chill runs down my spine and I take a deep breath.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibac0469
+[Ibara] "If you step out from here, you'll never be able to return to the human world. You'll become something different from the human world."
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice konc0061
+[Konomi] "Ningen-kun will become a human, but not a human. Are you ready for that?"
+
+I shook my head slightly and smiled at Ibara and the others.
+
+...There's no place I want to go back to now.
+
+"I made up my mind a long time ago. Of course, no matter what happens to me, I will continue to follow you."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konc0062
+[Konomi] “I see, then would you like to come with me?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+#voice hinc0069
+[Hinata] “Issho, Issho, together with Human-san!”
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc61
+[Tsukiyo] "Fufufufufufufu"
+
+Konomi, Hinata, and Tsukiyo happily cling to me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+
+#voice ibac0470
+[Ibara] "...I see. Understood."
+
+Ibara straightened his back and took a step as if to lead the way, then turned around and extended his hand to me.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0471
+[Ibara] "Ningen is mine. That's why I'll take you with me."
+
+Take his hand and take a step forward.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0472
+[Ibara] "Don't let go of this hand. Never."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+At that moment, the world suddenly melted away, and the depths of my nose were filled with a scent I had never smelled before.
+
+A refreshing scent that gently tickles the depths of your chest.
+
+It was the first time I smelled it.
+
+#bgm 0 02
+
+;エルフの森
+;BG BG02_1
+#cg all clear
+#bg BG02_1
+#wipe fade
+
+……first time?
+
+What on earth is the first time?
+
+I shook my head slowly. My feet feel fluffy and unsteady.
+
+What on earth is that? here.
+
+Why am I standing here...?
+
+As I looked around at the unfamiliar scenery, I heard multiple voices of laughter echoing like rolling bells from beyond the glowing trees.
+
+I feel a lot of stares.
+
+Many eyes are observing me innocently and cruelly.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0473
+[? ? ? ] "...I don't like being laughed at."
+
+The beautiful boy in front of me grumbled.
+
+……that? Come to think of it, why is this girl holding my hand?
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE H03F2_A
+#face f_hin_0_03f2_a 94 466
+
+#voice hinc0070
+[? ? ? ] "If you're going to be with me, then we should play together."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konc0063
+[? ? ? ] "That's right. I'm sure you'll get used to it eventually, right?"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc62
+[? ? ? 】"is"
+
+“Who are you guys?”
+
+I feel like the only thing that is reliable is the hand held by the boy with a displeased face, so I squeeze his hand tightly.
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konc0064
+[? ? ? ] “I guess you forgot, Human-kun.”
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tukc63
+[? ? ? ] "Hawawawawawa, hawa..."
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+#voice hinc0071
+[? ? ? ] "Hey!? Human-san, have you forgotten about Hinata and the others!?"
+
+"Ningen-san...? Is that my name?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0474
+[? ? ? ] "That's right. You are Human. I am Ibara. I am Human's master."
+
+"...Are you the master?"
+
+It doesn't seem likely that we're the owner of some kind of shop, or that I'm a woman and this girl is my husband, so in this case, should we assume that we have a master-servant relationship?
+
+...Anyway, I think it's a little strange that her name is Human.
+
+I feel like there may be another real name, but that name is so far away in my hazy memory that it never even comes to mind.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0475
+[Ibara] "That's right. Humans belong to me."
+
+"I see"
+
+If Ibara is like that, then that's fine.
+
+At least their connected hands make me feel safe.
+
+That fact alone is enough to believe Ibarra.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konc0065
+[? ? ? ] "You can call me Konomi."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H11F_1 C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+
+#voice hinc0072
+[? ? ? ] “Hinata, it’s Hinata!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc64
+[? ? ? ] “It’s Tsukiyo.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+While we were having this conversation, people peeking out from behind the trees seemed to be laughing. And the gaze directed towards me was not at all friendly.
+
+A voiceless voice, a voice that I can't hear, is judging and criticizing us... no, me. That feeling is clearly felt.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0476
+[Ibara] “It’s okay, that’s why.”
+
+As if conveying the anxiety I vaguely feel, Ibara squeezes my hand tightly.
+
+#voice ibac0477
+[Ibara] "Ningen is mine. That's all you have to remember about human being."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;エルフの森
+;BG BG02_1
+#cg all clear
+#bg BG02_1
+#wipe fade
+
+How long has it been since I came here?
+
+In this forest, the division between day and night is not very clear, perhaps because the trees themselves emit light.
+
+I go to sleep when I feel sleepy and wake up when I wake up.
+
+I'm not really hungry, but when I try to eat something, they look at me strangely.
+
+It seems that elves basically don't eat or drink.
+
+He seems to occasionally eat fruits and drinks, but the meaning behind them seems to be different from mine, so it's just something he enjoys.
+
+I need food to live and feel pain if I starve, so it seems that in this world I am a surprisingly lowly, lowly human being.
+
+Human beings are easy to understand.
+
+Ibara was kind to me as well.
+
+I see, although I have lost my memory, it seems I had a good master.
+
+"It's here!"
+
+While I was dazed, an elf passing by pulled my ear hard.
+
+The elf is saying something, but I can't hear it at all.
+
+In the first place, I can't hear the words of elves.
+
+In other words, the thorns are speaking to me in human language.
+
+If you are an elf with other powers, you can understand it without words because it can be transmitted only by thoughts.
+
+The weak ones are elves from the size of thorns to smaller ones.
+
+Even if they play pranks on me, there is no way to communicate because I don't understand the language at all.
+
+Moreover, there was no desire to have a conversation with a lowly person, so I had no choice but to resist and be pranked on the other side.
+
+Maybe it's because the ears that don't point like an elf's are unusual and I wanted to touch them.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0478
+[Ibara] "What's wrong, Human? You were making some strange noises."
+
+Ibara spoke to me, and I knelt beside him.
+
+"I just had my ear pulled."
+
+When I answered, Ibara puffed out his cheeks.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0479
+[Ibara] "How dare you play a prank on my property! Even human beings! I won't allow you to do a prank on me!"
+
+"Even if you get angry... they'll come over on their own."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0480
+[Ibara] "No way! If you let that happen next time, I'll punish you!"
+
+While saying that, Ibara clings to me.
+
+...Ibara is a hot potato.
+
+"Geho... it'll hurt if you pull the collar."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0481
+[Ibara] "Maybe I should make this chain a little shorter? After all, if you aren't always by your side, you won't know what kind of trouble you can get into."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0482
+[Ibara] "That's right. I can't lift the human, so the human should lift me."
+
+"lift?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0483
+[Ibara] “If they stick together perfectly, it will be easy to tell that the human is mine.”
+
+"……got it"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 046 PLAY
+#label replay046
+#setscene 43
+#bg BG02_1
+
+;ＥＶ絵――EV050『イバラのペット』★差分なし
+;EVCG EV002A1
+;#face off
+
+
+#cg イベント ev050a1 背景
+#wipe fade
+
+I did as Ibara said and picked him up.
+
+#voice ibac0484
+[Ibara] "Huh, look, it feels nice, doesn't it?"
+
+;SE se012 コインのじゃらん（仮）
+#se 1 se012
+
+Ibara happily played with the chain of the collar he put on me.
+
+The bondage of thorns is becoming more and more severe day by day.
+
+As the elves got used to me, they started playing tricks on me more and more, so Ibara can't help but be worried.
+
+But it's a little suffocating.
+
+#voice ibac0485
+[Ibara] "That's right, just keep running like this! You'll run faster than the wind."
+
+"That's why it hurts when I pull it. If it gets violent, I'll drop it."
+
+#voice ibac0486
+[Ibara] "Huh!? You don't like the collar!? Isn't the collar cool!?"
+
+"I can't help but like it. It's cool. I'm happy to be able to decorate it with such cool things."
+
+#cg イベント ev050a2 背景
+#wipe fade
+
+#voice ibac0487
+[Ibara] "That's right, that's right. This beautiful human belongs to me, so I have to decorate it in a way befitting me."
+
+Ibarra looked back with pride.
+
+Jewelry is making a rustling sound on his chest and all over his body.
+
+Ibarra wears all the jewelry she can get to bring out her beautiful self.
+
+There aren't many elves that have this much treasure.
+
+I can't help but think that maybe it's one of Ibara's jewelry items.
+
+Receiving Ibara's favor is the only reason for my existence.
+
+Sometimes Hinata, Konomi, and Tsukiyo come to talk to me, but Ibara doesn't seem to find it interesting.
+
+Is it okay to leave it this way?
+
+I wonder if there really is something else I can do...?
+
+There was no point in asking such questions in this world.
+
+;SMODE 046 STOP
+#endscene
+
+;イバラENDフラグON
+#set t3 1
+#set s2 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;タイトルへ
+
+;※エンド表示
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;BG:BG67_1
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg67_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

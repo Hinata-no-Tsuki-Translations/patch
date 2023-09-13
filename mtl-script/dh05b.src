@@ -1,0 +1,78 @@
+
+;BG:BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+"Can't sleep, Hinata?"
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinf0445
+[Hinata] "Hmm..."
+
+"I see……"
+
+I rolled over and half woken up, and stroked Hinata's head with the other hand I connected with.
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hinf0446
+[Hinata] "...Fnyaa, I like that."
+
+Hinata narrows her eyes in a daze.
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinf0447
+[Hinata] "You know, when I close my eyes, I remember that Koya is burning. And inside that Koya, there's still Human-san..."
+
+Hinata trembled.
+
+;FACE H02F1_A
+#face f_hin_0_02f1_a 94 466
+
+#voice hinf0448
+[Hinata] "Hinata, I feel like I've lost all of Takara's important things."
+
+“A lot of things may have burned down, but I’m still here, right?”
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinf0449
+[Hinata] "Yeah, that's right. But it's weird."
+
+Hinata puts on her usual smile. A smile to help you forget when it's really hard and you can't help it.
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hinf0450
+[Hinata] "Actually, I haven't lost anything."
+
+Is Hinata that afraid of losing me...?
+
+“I’m here, so it’s okay, right?”
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hinf0451
+[Hinata] “Yes, Human-san is here!”
+
+"Yeah. I'm here. So, goodnight."
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinf0452
+[Hinata] "Wow! I like Nadenade, but if you don't hug me tightly, Hinata won't be boring!?"
+
+Hinata seemed to be complaining as she clung to my hand as I stroked her.
+
+;dh06へ
+#next dh06

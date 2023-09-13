@@ -1,0 +1,1328 @@
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG45_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg45_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#face on
+#system on
+#wipe fade
+
+I must have been a light sleeper, but I woke up just as the sky began to lighten.
+
+I have to wake everyone up and send them off early...
+
+When I suddenly looked at Ibara, Ibara was already awake, probably because he hadn't had much sleep.
+
+"good morning"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0347
+[Ibara] "...Good morning"
+
+Ibara seemed to have been awake for quite some time, and looked a little worried.
+
+“Were you thinking about something?”
+
+#voice ibac0348
+[Ibara] "Ah...yeah"
+
+Ibara hesitated, as if he didn't want to say something, and then muttered something.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0349
+[Ibara] “For people like that to come into a place like this, we really need to strengthen the barrier...”
+
+I see, thinking about the general store's son...
+
+"...Huh? Wait a minute. Isn't that weird?"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0350
+[Ibara] “Hmm? What is it?”
+
+"I mean, if it's a human, I'm already in there. And no matter how you look at it, this hut was built by a human, right? And yet, to a place like this..."
+
+Well then, it's like this place is inside a barrier, isn't it?
+
+Then, Ibara nodded gravely, as if affirming what I was thinking.
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0351
+[Ibara] "Actually, this isn't elf territory, but it's a place similar to that. That's why normal humans shouldn't be able to enter easily."
+
+"Ordinary people can't come in, you mean?"
+
+Because I'm coming in.
+
+#voice ibac0352
+[Ibara] "So it wasn't used for a long time until Humans came in, right?"
+
+"Isn't that because there were rumors that monsters appeared in this forest among humans?"
+
+As I listened to that, I remembered the faint sense of discomfort I felt when I first visited here.
+
+It was so subtle that I didn't even notice it was strange, and it was so strong that it got lost in the awe I felt in the forest...I also remembered the chain of events that led me to this place.
+
+If it hadn't been for Hinata's guidance, wouldn't he have ended up here?
+
+When I suddenly thought about that, a shiver ran down my spine.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0353
+[Ibara] "Humans are so greedy that they would give up on the forest just because a monster appeared. If the guy from yesterday thought there was something here, he would have come here without a problem, right?"
+
+"...That's right."
+
+If I had continued wandering in the forest, I wonder what decision I would have made.
+
+Even if I wasn't particular about staying in a mountain hut, it wouldn't have been strange to think about going to town.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0354
+[Ibara] "Up until now, people could have come if they wanted to. But humans have stopped thinking about coming."
+
+"Don't think about coming?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0355
+[Ibara] "Well...the big elf said that they're trying to make people think that they chose to go somewhere different than coming here."
+
+“…Then, what about me?”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0356
+[Ibara] "I think that's because human beings are special people who are on the same wavelength as elves."
+
+"Am I... special?"
+
+I won't say that I've never had such fantasies.
+
+but. When someone actually said something like that to me, let alone an elf, I didn't really feel it, and I sat awkwardly, as if I was being accused of something.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0357
+[Ibara] "That's right. Sometimes there are people who are on the same wavelength as elves, like the guy who built this hut or human beings. People like that come to this area."
+
+"So you're saying I'm similar to the person who lived here before?"
+
+#voice ibac0358
+[Ibara] “Simply put, yes.”
+
+Ibarra nodded.
+
+There are many books here that are interesting to me. That means the natives were interested in the same things as me.
+
+In other words, the natives and I are essentially similar...?
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0359
+[Ibara] "Maybe it's because the barrier has loosened that it's easier for people to come in, but if human beings weren't on the same wavelength as elves, they wouldn't have come this far."
+
+As I was about to accept Ibarra's words, I remembered another important thing.
+
+"But other people came here yesterday."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0360
+[Ibara] "It's your fault. Humans are humans, so you created a human path to this point."
+
+“The human way?”
+
+#voice ibac0361
+[Ibara] "When animals come and go in the forest, animal trails are created. Animals of the same species follow scents and often use those trails. The human version of that."
+
+“That’s not what you meant… So, is that what you mean, that I created a path for the general store’s son?”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0362
+[Ibara] “Yes.”
+
+“Then, is it my fault that he came?”
+
+#voice ibac0363
+[Ibara] "I don't think that's going to happen. However, I think other people will start coming here soon."
+
+"What do you mean?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0364
+[Ibara] “Humans have short lifespans and are insignificant creatures who cannot heal each other if they are hurt, but we turn to fire and burn down the forest.”
+
+#voice ibac0365
+[Ibara] "He has the stupidity and ferocity to bare his fangs even against his own kind, but perhaps because his life is short, his strength knows no bounds."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0366
+[Ibara] "We will illuminate the night with fire, cut through the darkness, take away lives and devour them, and expand our power as a race. There will no longer be a land where humans do not live."
+
+“Then can we not coexist?”
+
+When I asked, Ibara asked me a question in return.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0367
+[Ibara] “Why do you think flowers bloom in clusters?”
+
+“Flowers?”
+
+Ah, even though I must have read a lot of books, I still don't understand the most important part of Ibarra's story.
+
+Is there a difference between the knowledge gained from reading books and the wisdom possessed by elves?
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0368
+[Ibara] "Elves are a high-class race that hates conflict, but plants that share the same root do fight with each other."
+
+“Plants fight, you say?”
+
+I blinked at the unexpected words. Plants fight? Like the ivy monster? Or with a sword and shield? Not really, but I can't imagine it.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0369
+[Ibara] "Strong plants drive out weak plants. Don't humans even know that?"
+
+"Ah, ah... Now that you mention it, if you don't pull out weeds in the fields frequently, the crops won't grow properly."
+
+In that sense, everyone knows that there are strong and weak grasses, unless you are a king who doesn't have to till the land.
+
+However, Ibara's answer was the opposite of what I was thinking.
+
+#voice ibac0370
+[Ibara] “Then, those crops acquired the weapon of humans and won the battle against the weeds.”
+
+"Human beings are weapons...but they can be eaten."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0371
+[Ibara] “But if you look at it from a different perspective, even if you sacrifice your friends, you can definitely survive and reproduce as a species.”
+
+“Well, that’s true.”
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+
+#voice ibac0372
+[Ibara] "Weak flowers bloom quickly in clusters, preventing nuisance flowers from growing buds. Alternatively, they take root deeply and entangle other nuisance roots, causing them to wither."
+
+#voice ibac0373
+[Ibara] “That’s how flowers fight and survive.”
+
+“Ha, just because I say flowers, doesn’t mean they just bloom carefree and beautifully.”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0374
+[Ibara] "However, elves have learned to avoid standing up and walking as much as possible and fighting over words. But what about humans?"
+
+“Humans... have been able to move faster and farther by walking, using other animals and structures such as ships, and as a result, they are now trying to fight humans in farther places...”
+
+Is it the other way around, or are humans seeking to move faster and farther in order to fight?
+
+I had never thought about that.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0375
+[Ibara] "That's why elves hate humans. Even though they look similar, the ways of life of humans and elves are in no way compatible."
+
+#voice ibac0376
+[Ibara] "If the elves accept the human way of life, they will perish. But when the time comes, the elves will accept it."
+
+“Does that mean that elves are about to perish because of humans?”
+
+Kokuri and Ibara nodded.
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibac0377
+[Ibara] "Of course, humans won't just perish. In order to survive as much as possible, we put up a barrier and sometimes use bows and swords. However, humans will eventually acquire even more powerful weapons."
+
+#voice ibac0378
+[Ibara] "Humans have even begun to use fire that they can't control to burn down forests. Even if they burn themselves with that fire, they won't stop fighting."
+
+“Is that why elves keep their distance from humans?”
+
+Ibara nodded again, looking a little sad.
+
+;CHR I010F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+
+#voice ibac0379
+[Ibara] "There is a bond between those who are close to each other. It is a sword that unites those of the same kind, but separates those who are different."
+
+#voice ibac0380
+[Ibara] "Ningen are humans, close to us. That's why they strengthen their ties with humans and make it easier for other humans to invade elf territory."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0381
+[Ibara] “No, maybe our presence here makes it easier for humans to enter the elf world...”
+
+"So...Ibara decided to return to the elf world?"
+
+#voice ibac0382
+[Ibara] "That's...not yet..."
+
+Ibara looked up at me with wet eyes.
+
+“Ibara, are you confused because you want to be with me?”
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0383
+[Ibara] "...Nah...Bah..."
+
+Ibara suddenly turned bright red.
+
+"I'm glad you think so."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0384
+[Ibara] "B-idiot! Don't get cocky, human! You're so cocky!"
+
+;SE se015 足音１（飛び退く）
+#se 1 se015
+
+“Open!”
+
+With a thud, I was pushed and fell back onto the bed.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0385
+[Ibara] "Hmph, you're so cocky even though you're a human! I'm going to step on you!"
+
+"Aite! Aite! It hurts! Ah!? You can't do that!?"
+
+I rolled over and my inner thighs were spread open defenselessly, and instead of being stepped on, I was kicked so badly that I screamed.
+
+;SE se015 足音１（飛び退く）
+#se 1 se015
+
+"Ah!? Ugh... ugh..."
+
+Although it wasn't fatal, Ibara's foot brushed against a tight spot, causing me to sweat.
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+
+;BGM
+#bgm 0 16
+
+#voice ibac0386
+[Ibara] "What!? Oh...did it hurt that much? Here? Are you okay?"
+
+Ibara panics and strokes the affected area with his foot as if trying to soothe it.
+
+"Ah... b-stupid... t-if you do it like that..."
+
+The gentle stimulation after the pain involuntarily gives his penis strength and makes it stand up.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0387
+[Ibara] "If you do that... ah!? It'll be red and swollen!"
+
+My underwear was immediately pulled down, and my curled-up self came out.
+
+"...That's not true, because she squirmed after being kicked..."
+
+#voice ibac0388
+[Ibara] “Did my feet make you feel good?”
+
+...What a humiliation.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0389
+[Ibara] "Hmm...You're a mean person, so just by stepping on my foot, you're going to make your dick stand up like that?"
+
+"...Oh, look. Everyone else will wake up, so let's be quiet."
+
+#voice ibac0390
+[Ibara] "You should just keep quiet about that. Look, don't you want to feel better?"
+
+Every time Ibara's toes knead it, the jewelry he wears makes a strange rustling sound.
+
+"Ugh... ugh..."
+
+Hinata, Konomi, and Tsukiyo are still in their dreams.
+
+In such a situation, the fact that Ibara was torturing my feet made me even more excited.
+
+Shara... Shara...
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0391
+[Ibara] "Now... your underwear is getting in the way. I'll take them all off! Take them off too!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara licked the corner of his mouth and took off his clothes in a battle stance.
+
+;ＥＶ絵――EV048『イバラ両足コキ』★下記未設定
+;EVCG EV048A1
+;#face off
+
+;SMODE 044 PLAY
+#label replay044
+#setscene 41
+#bg BG07b_1
+
+#cg イベント ev048a1 背景
+#wipe fade
+
+#voice ibac0392
+[Ibara] "Hmph, it's already hard. What are you planning to do to make it so hard just because you stepped on it?"
+
+"Ah... ah..."
+
+I couldn't help but let out a cry as he rolled and kneaded me between the soft soles of my feet.
+
+#voice ibac0393
+[Ibara] "What a pathetic face and pathetic voice. Hehe...Okay, show me your untidy face."
+
+He teases me by tracing his toes over my inner thighs, pinching me from time to time, and that alone makes my legs twitch.
+
+#voice ibac0394
+[Ibara] "Hehe... You look like a dying frog. Do you want me to stimulate you more? Tickle this small area, pinch it and rub it..."
+
+I alternately move my left and right feet and try to stomp on them, and with my spread toes, I deftly pinch the base of the cali and give it a squeeze.
+
+"Ah... ah..."
+
+#voice ibac0395
+[Ibara] "My soft balls are squishy and feel good under my feet. What if I step on them too hard... hehehe. You're defenseless, human."
+
+The humiliation and irritation of being kicked in the vitals amplifies the pleasure to the point where the nerves tingle.
+
+“Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa… kuuu...
+
+#voice ibac0396
+[Ibara] "Hey, look, shouldn't you have been quiet? If you moan too pathetically, Hinata and the others will see your disgusting appearance."
+
+Ibara grins as she deftly wraps her whole foot around the soft part of the tip, applying small vibrations.
+
+“Aguuuuuuuuuuuuuuuu…”
+
+#voice ibac0397
+[Ibara] "Do my feet feel so good that you can't even hold back your voice? So much juice is coming out... it's dripping... ahaha... fufu... it's dancing between my legs."
+
+The dripping ooze lazily wets Ibara's feet, and the soft soles of her feet feel as if they were female genitals.
+
+#voice ibac0398
+[Ibara] "Fufufu, that human's penis isn't quiet at all. It's tickling because it gets twitchy and runs away...Aha...Haa..."
+
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah...
+
+No matter what I was told, the convulsions caused by the pleasure didn't go as planned, and my hips started to jump up and down on their own.
+
+#voice ibac0399
+[Ibara] "Here... you're misbehaving, even your penis. If you don't behave, it'll be hard to pinch and rub it, right?"
+
+Ibara poked the glans with his toes, which were thick with my juices.
+
+#voice ibac0400
+[Ibara] "Ah, I'm done with it already. My feet are so dirty... I can't stand it enough to make a pleasant juice come out just by being poked, hehe..."
+
+She continued to stroke my shaft with her toes, and when she came down to the base, she picked up the loose skin where it met my balls.
+
+#voice ibac0401
+[Ibara] "Did you know that your balls have been shrinking and expanding as if they were breathing? It's funny how big they are and how big they move."
+
+Even in the thorny crotch, the two cute testicles rise and fall alternately, showing how they are actively producing semen inside.
+
+Ibara let go of his grip and stepped on the ball with one small foot, rolling it.
+
+#voice ibac0402
+[Ibara] "If you press hard here, it hurts and it's painful. Fufufu... I don't know what to do... My balls are feeling stiff inside."
+
+Probably because he is well aware of the pain. He hesitates, but shows an ecstatic expression, and begins to apply light pressure little by little, as if teasing him.
+
+"Ah... aaaaaaaaaaaaaaaaaaaaaaaah..."
+
+The fear of being crushed ran through my body, making the pleasure even more acute and penetrating my spine.
+
+#cg イベント ev048a2 背景
+#wipe fade
+
+#voice ibac0403
+[Ibara] "Does the balls feel good too? Which feels better, the soft tip or the soft tip? I don't know because I'm twitching no matter which one I rub."
+
+Perhaps he was trying to frighten me that he was about to cum, but he slowly moved the arch of his foot along the pole and slowly moved his foot up and down.
+
+"Ah...it might be good to stimulate the whole body like that...right now..."
+
+#voice ibac0404
+[Ibara] "You've been so hot for a while now, you've made me so surprised, are you about to cum? Are you going to be toyed with with my feet?"
+
+"Ah...also, rub it faster..."
+
+I was so frustrated that I found myself lifting my hips up to fuck Ibara's pussy.
+
+#voice ibac0405
+[Ibara] "Do you like feet that much? Are you a pervert who feels good when your feet are stepped on like this?"
+
+"Ah, ah... yeah, that's why, that's why... please make me cum quickly..."
+
+Ibara smiled with cruel pleasure as I unceremoniously shook my head in affirmation.
+
+#voice ibac0406
+[Ibara] "Do you want to ejaculate on my feet? Do you want to be squeezed with my feet, spit out a lot of dirty semen, and show off your sloppy face?"
+
+"That's right. I want to expose my sloppy face and cum. So, move your legs faster and faster..."
+
+#voice ibac0407
+[Ibara] "Aha... If you don't say so much, I'll help you... I'll put you between my legs and jerk you off, and I'll make you cum... hehe."
+
+Firmly holding the meat rod from both sides with the soles of her feet, she moved it up and down at increasingly faster speeds. Due to the rough caress, my sex drive increases without limit.
+
+#voice ibac0408
+[Ibara] "See, does it feel good? Isn't that what you wanted? My feet feel good too. I'm so excited to kick your dick like this...!"
+
+;ＥＶ絵――EV048『イバラ両足コキ』★射精
+;EVCG EV048b1
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev048a1 背景
+#bg BG07b_1
+#wipe fade 300
+
+For a moment, I felt like my glans was swollen, and I thought it might have ejaculated and exploded. Semen squirted out from the urethral opening, which was squeezed under pressure, making a muddy sound.
+
+#cg イベント ev048c1 背景
+#wipe fade
+
+#voice ibac0409
+[Ibara] "Ahaha! I cum! I cum! I cum with my feet! I really like being fucked with my feet. Ahahahaha"
+
+Ibara happily rubbed his cock, which was squirting semen, even harder.
+
+"Ah... if you do it like that..."
+
+Due to the force of my ejaculation and the fact that my legs are kneading me, my semen is spread all over the place.
+
+#voice ibac0410
+[Ibara] "Ahahaha, I spit out so much semen and cum. My feet are getting muddy with hot semen...haaaaaah...it stinks..."
+
+The semen that spews out intermittently falls on Ibara's feet, staining them white. Even in that state, the thorns are still moving their legs, making a slutty, obscene sound.
+
+#voice ibac0411
+[Ibara] "It's still coming out... It's amazing... It's like this... It's always in my butt... Huh..."
+
+Ibara looked mesmerized as he saw his legs covered in semen.
+
+#voice ibac0412
+[Ibara] "...My feet are covered in human's stinky semen..."
+
+When I looked, the young stems of the thorns were erect and trembling, as if begging for stimulation.
+
+"I was the only one who came first. Ibara wants to come too, right? Should I pet him?"
+
+;SMODE 044 STOP
+#endscene
+
+;SMODE 045 PLAY
+#label replay045
+#setscene 42
+#bg BG07b_1
+
+;ＥＶ絵――EV049『イバラ騎乗位』★未設定
+;EVCG EV049A1
+#cg イベント ev049a1 背景
+#wipe fade
+
+#voice ibac0413
+[Ibara] "Well, you're so cocky that you're asking me to pet you! Even though you're a human! Even though you're making me cum with my feet!"
+
+Ibara just climbed on top of me.
+
+#voice ibac0414
+[Ibara] "Ningen, stay still! I-I can make you feel good too... hmm..."
+
+While saying that, Ibara tries to fit my cock inside of him.
+
+#voice ibac0415
+[Ibara] "It's so limp... it won't go in... my dick... my dick... I want to put it in my butt... this... it's so raw..."
+
+The tip of my cock that had just ejaculated was rubbed against Ibara's smooth ass, and my cock regained its hardness in no time.
+
+#cg イベント ev049a2 背景
+#wipe fade
+
+#voice ibac0416
+[Ibara] "Ah...it's getting hard...I should just make it hard from the beginning! Let me put my hands on it...just...already."
+
+Ibara seems to be impatient as he lowers his hips, but perhaps because he's slippery from the semen from earlier, he can't quite place his aim.
+
+#voice ibac0417
+[Ibara] "Ah!? Why doesn't it come in!? Don't you want to enter me? Are you satisfied if you ejaculate yourself!?"
+
+Even though Ibara himself had just offered to take care of her, this was a terrible accusation.
+
+With a wry smile, I gently support mine with my hands and position it at Ibara's asshole.
+
+#cg イベント ev049a3 背景
+#wipe fade
+
+#voice ibac0418
+[Ibara] "Here... it's going to come in... n-n... inside me... my human penis... go... huh..."
+
+Finally, I could feel my object slowly sloshing down into the center of her cute wrinkles.
+
+#cg イベント ev049a3 背景
+#wipe fade
+
+#voice ibac0419
+[Ibara] "I'm here... from now on, I'm going to make you feel good... haa... hmm... aaaaaaaaaaaaaa..."
+
+Slowly raise your hips and lower your hips. Ibara began to move his hips, making noises of great pride at each movement.
+
+Of course, it feels good enough, but I can't help but feel frustrated.
+
+#cg イベント ev049a4 背景
+#wipe fade
+
+#voice ibac0420
+[Ibarara] "Ah ... oh oh oh ... hmm ... kuku ... ki, kimochi, good ...?"
+
+"Ah... it feels so good."
+
+#voice ibac0421
+[Ibara] "No, it's mostly... Nah... Human's... penis... Oh, it's big... Hmm... it's too much... Haaaaaaaaaaaaaaaaaaaaaaaaaaa... …”
+
+“Do you hate the back?”
+
+#voice ibac0422
+[Ibara] "I-I don't hate you, but... it feels so good that I can't move... so... huh..."
+
+"If it feels good, just do it."
+
+#voice ibac0423
+[Ibara] "Today, I'm going to make you feel good! That's why... if I get too comfortable... hmm... I won't be able to move...!"
+
+"...Yes, yes."
+
+Ibara placed both hands on my stomach and took his center of gravity, moving his hips up and down so that he was rubbing his young stem against my lower abdomen.
+
+#cg イベント ev049a2 背景
+#wipe fade
+
+#voice ibac0424
+[Ibara] "What do you think...? H-it feels... good...? M-shouldn't it be more intense...?"
+
+"Yeah, it feels good, but...I think I'd feel even better if Ibara made me feel better."
+
+#voice ibac0425
+[Ibara] "Huh...?"
+
+I grabbed Ibara's waist firmly and thrust up from below.
+
+#cg イベント ev049a4 背景
+#wipe fade
+
+#voice ibac0426
+[Ibara] "Aaan! Hyaan! That's no good! Today... I said I'd make you feel good, Nonii...!"
+
+"I told you that I feel better if Ibara feels good, right? That's why I want to make Ibara feel good, too."
+
+#voice ibac0427
+[Ibara] "I-I...if you hit me deep inside like that...I-I'd go blank...I-I wouldn't be able to think of anything...Ah..."
+
+"You don't have to think about anything. Just feel it as much as it feels good, and show me your face that makes you feel even better..."
+
+#voice ibac0428
+[Ibara] "Uh... inside... the back part is grinding... ah... ahhh... it's so big that my butt is being pried open and I'm being fucked... ugh..."
+
+#cg イベント ev049a2 背景
+#wipe fade
+
+#voice ibac0429
+[Ibara] "My soft butt is being picked apart by a human's dick...it feels so good...it feels so good..."
+
+As I had expected, Ibara's hips began to move more smoothly than before as she began to enjoy the pleasure.
+
+She matches the movements of her hips as I thrust into her.
+
+Coupled with the comfortable tightening, that movement strongly stimulated mainly the back muscles of my cock.
+
+"Kkk..."
+
+#voice ibac0430
+[Ibara] "N-Ningen... K-Does it feel good? Aaah... Does it feel good...!? It feels good!? Isn't that so!?"
+
+Involuntarily, I let out a voice, and Ibara happily increased the speed of his hips.
+
+#cg イベント ev049a4 背景
+#wipe fade
+
+#voice ibac0431
+[Ibara] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa....
+
+Ibara is shaking his hips while panting with a sagging face that looks like he's feeling good.
+
+#voice ibac0432
+[Ibara] "Aha... it feels so good... I love it... it's so hard... it stirs my stomach... it feels good... it feels good too...?"
+
+"Ah... it feels so good... Ibara's ass pussy is already completely loosened... it's wrapped around me so comfortably..."
+
+#voice ibac0433
+[Ibara] "Yeah, my ass and pussy feel so good... ahhh... inside my stomach... the warm part of your body rubs against me... it feels so good that I can't stand it anymore..."
+
+"You don't have to hold back. I can't hold back either. I want to cum in the deepest part of the thorns."
+
+#voice ibac0434
+[Ibara] "Yeah, yeah, it's okay to cum. Let's cum inside me! Give me a lot of cum inside me, the deepest part!"
+
+The inner walls of the thorns that surrounded me tightened, probably getting even more excited by giving me permission to ejaculate.
+
+#voice ibac0435
+[Ibara] "Ah!? Huh... my dick inside has gotten bigger... ahh... my dick is also being rubbed from inside... too..."
+
+Ibara's cute penis is also trembling as he approaches ejaculation.
+
+It looks like he's about to spit out semen.
+
+"Is Ibara about to cum?"
+
+#voice ibac0436
+[Ibara] "Hmm! Hmm! I want to cum! Make me cum! I want the semen to come out of my dick!"
+
+Ibara nods and shakes his head, then he twists his hips even more violently, as if pushing himself and me into it.
+
+#voice ibac0437
+[Ibara] "Aha... aaan... I-I'm already... I'm going to cum... If I don't ejaculate a lot and cum, my stomach will explode..."
+
+The secret hole of the greedy thorns was making a nasty sound, begging for my semen.
+
+;ＥＶ絵――EV049『イバラ騎乗位』★ニンゲン射精
+;EVCG EV049A1
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev049b2 背景
+#bg BG07b_1
+#wipe fade 300
+
+I firmly grabbed Ibara's waist and pressed my hips deeply against it, and as I had promised, I ejaculated in the deepest part of Ibara.
+
+;ＥＶ絵――EV049『イバラ騎乗位』★イバラ射精
+;EVCG EV049A1
+;SE se024 射精音2（エルフ）
+#se 1 se024
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev049b3 背景
+#bg BG07b_1
+#wipe fade 300
+
+At the same time, the young stem of the bramble also ejaculated, spewing out hot juice.
+
+#voice ibac0438
+[Ibara] “Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+#voice ibac0439
+[Ibara] "Ahyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa low glory form nature form nature form nature form form type form form form form form form
+
+#voice ibac0440
+[Ibarara] "Huh ... Huh ... a lot of sperm is coming in ... I'm full of my stomach ... Ningen's pleasant semen came in ..."
+
+When the ejaculation finally subsided, Ibara stroked his stomach with a dreamy look on his face.
+
+;FACE H08F2_A
+#face f_hin_0_08f2_a 94 466
+
+#voice hinc0052
+[Hinata] "Huh..."
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tukc46
+[Tsukiyo] "Okay..."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konc0047
+[Konomi] “It felt so good.”
+
+#voice ibac0441
+[Ibara] “Huh!?”
+
+#bgm 0 stop 3000
+
+;SMODE 045 STOP
+#endscene
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"Huh!?"
+
+When I hurriedly looked around, I saw Hinata and the others looking at us happily.
+
+"S-shit...m-everyone wake up...!?"
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+#voice konc0048
+[Konomi] “If you make a loud voice like that, you’ll probably wake up, right?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinc0053
+[Hinata] “That sounds so soothing!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+#voice tukc47
+[Tsukiyo] “It’s already time to wake up.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01N C
+#cg イバラ iba_1_01n 中
+#wipe fade
+#voice ibac0442
+[Ibara] “It didn’t feel good at all!”
+
+Ibara made an annoyed sound.
+
+...As expected, when someone says something like that right after, it hurts a little.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+#voice hinc0054
+[Hinata] "Ibara, I was begging Human-san to cum!"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc48
+[Tsukiyo] “It felt so good to have semen released into my stomach.”
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR K03F R
+#cg コノミ kon_1_03f 右
+#wipe fade
+#voice konc0049
+[Konomi] "Only Ibara‾ Asking Human-kun to do something that feels good‾ It's sneaky, isn't it?"
+
+I was shocked to see Hinata and the others looking at me.
+
+I feel like it's impossible, but I never thought I'd be able to deal with him from now on...
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0443
+[Ibara] "No! It's no good!"
+
+Ibara, wearing his clothes, jumped at me.
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0444
+[Ibara] "Ningen is mine. So... that... you can't use it without permission!"
+
+I was taken aback by Ibara's tone.
+
+...Is it true that Ibara is jealous...?
+
+;FACE H08F2_A
+#face f_hin_0_08f2_a 94 466
+
+#voice hinc0055
+[Hinata] “That’s right.”
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc49
+[Tsukiyo] “I know.”
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konc0050
+[Konomi] "I mean, Ibara is the only one who's been by Human-kun's side for a long time, right? If Ibara says he owns Human-kun, then why don't you object?"
+
+...What is ownership?
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0445
+[Ibara] “I-I don’t mind if you understand.”
+
+Ibara let go of my hand in a sullen manner.
+
+Even so, he was still keeping his guard up and looking around at Hinata and the others.
+
+I guess he's jealous after all.
+
+It looks like if someone were to hug me, even as a joke, I would bite them.
+
+However, the other elves' reactions to Ibara were simple. Hinata and the others were just looking at each other and giggling as if Ibara's behavior was amusing.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0446
+[Ibara] "What's so funny! I-that's what I intended to do from the beginning! I'm the noble one who should be in charge of another race!"
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hinc0056
+[Hinata] “Ibara is the best person in the world.”
+
+#voice ibac0447
+[Ibara] “What!?”
+
+Ibara's face turned red and her mouth opened and closed.
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tukc50
+[Tsukiyo] “I can’t beat you.”
+
+;FACE K04F
+#face f_kon_0_04f 94 466
+
+#voice konc0051
+[Konomi] "Also, we want to do something pleasant with Human-kun, but if we don't hurry, the barrier will close, okay?"
+
+Konomi's words brought me back to reality.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H06F1_A R
+#cg ヒナタ hin_1_06f1_a 右
+#wipe fade
+
+#voice hinc0057
+[Hinata] "It's so hard! It's so hard! It's so hard! I'm going to squeeze out!"
+
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tukc51
+[Tsukiyo] “And bad people are coming.”
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0448
+[Ibara] “Ah, I see…”
+
+"Oh, that's right..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It was relaxing, but even as I was mingling with the thorns, the sun was getting higher.
+
+If they were to come, the villagers would probably be leaving the village soon.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0449
+[Ibara] "It's about time for us to go. ... Thank you for taking care of me, human."
+
+"Ibara..."
+
+For a moment, I almost blurted out, ``I'm going with you.''
+
+No, I'm tired of humans. Maybe I'd be happier if I went somewhere with no humans...?
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0450
+[Ibara] "What? What's wrong, human?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hinc0058
+[Hinata] "Ah, I see! Human-san wants to come with me too! That's right!"
+
+Hinata jumps up innocently.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K09F1 R
+#cg コノミ kon_1_09f1 右
+#wipe fade
+
+#voice konc0052
+[Konomi] "Ningen-kun is coming too‾? That seems like it would be fun for us‾"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukc52
+[Tsukiyo] “Can we stay together forever?”
+
+Hinata and the others looked up at me with fun and expectant eyes.
+
+However, only Ibara had a difficult look on his face.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0451
+[Ibara] "Are you planning on coming too...?"
+
+"You don't like thorns...?"
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibac0452
+[Ibara] "It's not that I don't like it...but humans might be difficult, right? Humans are humans...I think the big elves treat humans like they don't exist."
+
+Ibara frowned and muttered.
+
+;FACE H02F1_A
+#face f_hin_0_02f1_a 94 466
+
+#voice hinc0059
+[Hinata] "That's right, I'm there, but people can see I'm not there! Just like Hinata and Tsukiyo."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0453
+[Ibara] "Even if we pass each other, people ignore us. For example, even if someone is lying down on the street, they won't avoid it and walk over it. They won't even look at us."
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc53
+[Tsukiyo] "No one will heal you if you get injured. This is the first time I've been healed since I came here."
+
+;FACE H08F1_A
+#face f_hin_0_08f1_a 94 466
+
+#voice hinc0060
+[Hinata] “Ningen-san has Hinata!”
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0454
+[Ibara] "What!? If you say that, I'm in Humanity!"
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tukc54
+[Tsukiyo] “I’m here!”
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0455
+[Ibara] "Well, if you're going to come with me, I'll take good care of you. If it's my property, even a big elf won't be able to ignore it..."
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc55
+[Tsukiyo] "We don't have much of the same things as here. We might not have anything to eat. But we'll look into it together!"
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hinc0061
+[Hinata] "I'm sure it'll be delicious! The world of elves is beautiful!? It'll be fun if you come here, Mr. Human!"
+
+Ibara and the others were eagerly explaining to me, but Konomi just smiled and watched the scene.
+
+Everyone seems to be half wanting to take me, and half anxious because they don't know what will happen if they do.
+
+What should I do, should I follow?
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0456
+[Ibara] "If you come, humans will definitely feel bad. You'll definitely lose something important..."
+
+“Lost something important?”
+
+#voice ibac0457
+[Ibara] "If we don't do this, humans won't be able to come to the elf world."
+
+"I don't know what you mean by that important thing, but I don't have anything important anymore..."
+
+Ibara looked up at me with concern.
+
+"...What do you think about Konomi?"
+
+When I asked, hesitant, Konomi opened her mouth with a relaxed smile on her face.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice konc0053
+[Konomi] “I think you should do whatever you want with ‾Ningen-kun‾?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Isn't Konomi too actively trying to invite people to the elf world?
+
+...Well, maybe that's just Konomi's compassion for me.
+
+Ibarra seemed a little hesitant, opening and closing his mouth before finally taking the plunge.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibac0458
+[Ibara] "But... if you want, you can take me with you. Do you want to go with me?"
+
+;・選択肢発生
+#select a b
+A: I won't go.
+B: Go
+
+#label a
+#next ibadend01
+
+;Ａを選択⇒『ibadend01』へジャンプ
+;Ｂを選択⇒『イバラEND判定』へジャンプ
+
+#label b
+#if f2>=7 ihappyend:
+#if f2<=6 ibadend02:
+
+;・イバラEND判定
+;Ａ：好感度が7以上
+;Ｂ：好感度が6以下
+
+;Ａを選択⇒『ihappyend』へジャンプ
+;Ｂを選択⇒『ibadend02』へジャンプ"

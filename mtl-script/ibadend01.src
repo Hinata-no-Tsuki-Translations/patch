@@ -1,0 +1,332 @@
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"I'm not going...no, I can't go."
+
+After all, as Ibara says, the elf world is probably not a good place for humans to live.
+
+I wonder if there's a place for me, who didn't even fit into the human society of the village.
+
+Besides, what if by me going, the ``relationship'' deepened...
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0459
+[Ibara] "Why!? Why do you say you're not going!?"
+
+Even though Ibara was worried about him, he pouted his lips as if not convinced.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B L
+#cg コノミ kon_1_01f1b 左
+#wipe fade
+
+#voice konc0054
+[Konomi] "I see. Would you like to go with me, Human-kun? I think that's fine."
+
+;CHR H02F1_A R
+#cg ヒナタ hin_1_02f1_a 右
+#wipe fade
+
+#voice hinc0062
+[Hinata] "Is this the end of your relationship with Human-san? I feel lonely!?"
+
+#cg all clear
+#wipe fade
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tukc56
+[Tsukiyo] "It's a shame..."
+
+"Yeah. I'm lonely too."
+
+;CHR OFF
+#cg all clear
+#mes clear
+#wipe fade
+
+#wait 1000
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0460
+[Ibara] "If you're lonely..."
+
+Ibarra said something, then shook his head.
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibac0461
+[Ibara] "Well then, goodbye. I'll probably never see you again, but I hope you're doing well."
+
+Ibara was arrogant as usual, but his eyes were bright red.
+
+"Yeah. Ibara and everyone else are doing well. Well, if you're going to go back, hurry. The people from the village will probably be here in the afternoon, too. You can't come here anymore."
+
+;CHR OFF
+#cg all clear
+#mes clear
+#wipe fade
+
+
+;背景：山小屋前（昼）
+;BG BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0462
+[Ibara] “See you then.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+
+#voice hinc0063
+[Hinata] “Bye-bye!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice konc0055
+[Konomi] "Goodbye"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tukc57
+[Tsukiyo] "Goodbye..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I looked back at Ibara and the others who were reluctant to leave, and started getting ready.
+
+...I'm going on a journey.
+
+If we stay here forever, we might meet again ten or twenty years from now, when the elf's barrier is loosened.
+
+However, if humans were allowed to get close to this place, the elves would be in danger.
+
+If my presence here will strengthen the bond between humans and elves, I guess it's better for me to leave this land as well.
+
+I regret the books that were left here, but I can't take them all with me, so I'm giving up.
+
+I have also combined what I wrote into one book.
+
+I have a faint hope that it will be useful to someone who wants to live in this hut again someday.
+
+The people in the village might sell it before that happens, but I hope someone who can find it useful gets it.
+
+Ibara, Hinata, Konomi, and Tsukiyo, it was fun.
+
+I had a lot of fun spending time with everyone.
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+After going for a while, as expected, I ran into some people from the village.
+
+He carries a net, a rope, and a weapon, fully intent on capturing the elf.
+
+
+[Villager 1] "Ah! Let's do this! What are you doing here!?"
+
+The villagers surrounded me with murderous intent, as if they had already been attacked.
+
+They must have somehow been indoctrinated into thinking that I had outsmarted everyone and was monopolizing the elves.
+
+I immediately pointed at the general store's son and yelled.
+
+“The elf ran away because of you!?”
+
+
+[Villager 2] “Huh?”
+
+The people surrounding me all turned to look at the general store's son.
+
+
+[Villager 1] "What...? What did you say...? No! No!"
+
+The more I panicked and tried to make excuses, the harder and harder everyone's gaze became.
+
+"You'll never be able to catch an elf again, you're causing great damage to the village! You thief!"
+
+When I emphasized that it would be a huge loss to the village, the hostility that had been directed towards me was directed towards the general store.
+
+
+[Villager 2] “Come to think of it, this guy was the one who told me to bring some valuable things since the house was empty.”
+
+
+[Villager 3] “…Now that I think about it, things have gone missing from my house, so maybe…”
+
+
+[Villager 1] "No! No! That's not me!"
+
+
+[Villager 4] “Is there anything else you can think of?”
+
+...Perhaps the general store's son had built up some resentment from being so bossy.
+
+The villagers' illusion that they could get a lot of money by capturing and selling elves was shattered, and their anger was directed at the general store's son who was leading the way.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：街道（昼）
+;BG BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+While the villagers were arguing, I quickly made my way through the forest, through the village, and onto the road on the other side.
+
+It was refreshing to watch the ugly fights between the villagers.
+
+I have no intention of returning to the village.
+
+I'll learn from the elves and go somewhere far away, taking only what I can wear.
+
+...If it's academic, you can learn as much as you like without getting in the way.
+
+After all, I should head to town to study.
+
+I don't have as much wealth as others, and I may be too late to aspire to academia, but I have nothing and can become anything.
+
+;暗転
+#face off
+#cg all clear
+#bg black
+#mes clear
+#wipe fade
+#wait 2000
+
+;背景：研究室
+;BG BG13_1
+#cg all clear
+#bg BG13_1
+#wipe fade
+
+I moved to the town, worked hard, and became a live-in disciple of a scholar.
+
+Thanks to that, even though I can't say I'm wealthy, I've been able to make a living while studying as much as I want.
+
+People can become better if they try hard.
+
+#voice gakc0001
+[Scientist] "You like celestial bodies, don't you? Do you have any attachments to them?"
+
+As I was looking at the celestial globe and polishing it, my teacher called out to me.
+
+"Ah, no...I'd say celestial bodies. I'm a little interested in lunar eclipses."
+
+I heard that when the moon is eaten by wolves, the elf's barrier is loosened.
+
+If that's the case, if I predict a lunar eclipse and visit that hut, I wonder if I'll be able to see them again.
+
+I wish I could meet him at least. To that stubborn, cheeky, but cute blonde elf.
+
+"Is it possible to accurately predict lunar eclipses?"
+
+#voice gakc0002
+[Scholar] "What exactly...?"
+
+"No, because where I lived, a miracle happened during a lunar eclipse."
+
+#voice gakc0003
+[Scientist] "Is it a miracle? That sounds like a dream, isn't it?"
+
+The teacher asked them to sing without really believing it.
+
+...Yes, it was a miracle that I was able to meet Ibara.
+
+It was a miracle that I happened to be in that hut at the time when the elf's barrier was lifted in the short time that humans have in this wide world.
+
+#voice gakc0004
+[Scientist] "We know that the moon, the earth, and the sun all move in a fixed cycle. Therefore, it is not impossible to predict the day when a lunar eclipse will occur."
+
+#voice gakc0005
+[Scientist] "However, it's still far from perfect. In order to unravel this miracle, I'd like you to elucidate the cycle of lunar eclipses."
+
+"……yes"
+
+#voice gakc0006
+[Scholar] "Study is simply about shedding light on things that were considered miraculous and trying to explain them. Please come and try to explain those miracles."
+
+#voice gakc0007
+[Scientist] "It's good to have a goal. No matter what you do, finding your destination is the most difficult thing. You're lucky to have it early on. Work hard."
+
+"yes!"
+
+;暗転（スロー）
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;『BADEND』表示後、タイトルへ★
+
+;※エンド表示
+;BG:BG66_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg66_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

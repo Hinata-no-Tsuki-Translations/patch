@@ -1,0 +1,1132 @@
+
+"What do you mean, you're not coming back? Are you okay?"
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+
+#voice tukd0012
+[Tsukiyo] "Yes. I'm going to look for the dark elf."
+
+Tsukiyo said firmly, and there was a light of extraordinary determination in his eyes.
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tukd0013
+[Tsukiyo] "Ningen-san taught me a lot of things. I'm sure there are other dark elves out there. I can't find them if I stay in elf territory."
+
+#voice tukd0014
+[Tsukiyo] "That's why I'm not going back to the elf realm, but instead going to look for the dark elves."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kond0027
+[Konomi] “Jatsukiyo, please come.”
+
+Konomi waved her hand lightly, just like when she said she was going back to the elf village.
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tukd0015
+[Tsukiyo] "Yes. Well then, goodbye to both of you."
+
+"Wait a minute, Tsukiyo!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I panicked and stopped Tsukiyo.
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice kond0028
+[Konomi] "Hmm? Why are you stopping it?"
+
+Konomi's way of speaking makes me feel like she wants to make Tsukiyo go away quickly, which bothers me somehow.
+
+"I think you're being a little too blunt, Konomi."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0029
+[Konomi] “Are you short? Why?”
+
+“Maybe you should say something a little more like, ``Hey, do your best,'' or ``Be careful.''
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0030
+[Konomi] "I see. Well then, do your best and be careful."
+
+"I guess it's just like that. It's not like Konomi hates Tsukiyo, right? If that's the case, wouldn't she be a little more reluctant to say goodbye?"
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0031
+[Konomi] "Hmm? I wonder if you'll be a little bothered if I say something like that?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T05F_P C
+#cg ツキヨ tuk_1_05f_p 中
+#wipe fade
+#face f_tuk_0_05f_p 94 466
+;TKface
+
+#voice tukd0016
+[Tsukiyo] "Well, that's enough. I can't help it if Konomi hates me, but you've always been kind to me."
+
+"Don't say such sad things like, ``I can't help it if you hate me.''
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukd0017
+[Tsukiyo] "Elves, everyone hates dark elves. I've always been hated. This is the first time I've been treated kindly."
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukd0018
+[Tsukiyo] "I'm leaving here, so there's no point in hating me."
+
+...Ah, I felt depressed.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0032
+[Konomi] "That's terrible, I've never said that I don't like Tsukiyo."
+
+;CHR T06F_P L
+#cg ツキヨ tuk_1_06f_p 左
+#wipe fade
+#face f_tuk_0_06f_p 94 466
+;TKface
+
+#voice tukd0019
+[Tsukiyo] "Wow..."
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+#voice kond0033
+[Konomi] "If you didn't like it, you wouldn't be able to do this, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+;ポニテここまで
+
+Konomi gently untied Tsukiyo's hair, kissed her cheek, and gently laid her body down.
+
+;ＥＶ絵――EV054『嫌いじゃないよ』差分A1-3★未指定
+;EVCG EV054A1
+;#face off
+
+;SMODE 049 PLAY
+#label replay049
+#setscene 46
+
+#cg イベント ev054a1 背景
+#wipe fade
+
+#voice tukd0020
+[Tsukiyo] "Fluffy...? Fluffy..."
+
+#voice kond0034
+[Konomi] "Hmm...Tsukiyo's skin is smooth and feels good to the touch. Hmm... Nchu...ham...ham..."
+
+#voice tukd0021
+[Tsukiyo] “It’s fluffy, tickling…”
+
+#voice kond0035
+[Konomi] "Also, Tsukiyo smells nice too. It's strange how everyone smells so different."
+
+#voice tukd0022
+[Tsukiyo] “Hyan, don’t lick my neck.”
+
+#voice kond0036
+[Konomi] "Isn't it bad? When you lick it, my tongue feels good too, right?"
+
+#cg イベント ev054a2 背景
+#wipe fade
+
+#voice tukd0023
+[Tsukiyo] "Ah, ah... but it feels weird... my penis is getting bigger..."
+
+#voice kond0037
+[Konomi] "Does it feel good to have a bigger penis? I think it's a good thing to feel good."
+
+#voice tukd0024
+[Tsukiyo] "Hiyawa!? Well, I licked it again..."
+
+#voice kond0038
+[Konomi] "Is the taste the same for everyone? It's a bit salty and sweet. Ahaha... I get jumpy when I touch it. Does it feel good?"
+
+#cg イベント ev054a3 背景
+#wipe fade
+
+#voice tukd0025
+[Tsukiyo] "I-it feels good... so, uh..."
+
+#voice kond0039
+[Konomi] "It feels good, let's do it some more. Come with me, Human-kun."
+
+#voice tukd0026
+[Tsukiyo] "Eh... but..."
+
+#voice kond0040
+[Konomi] "If I go on a trip alone, I won't be able to have Human-kun do anything that feels good to me. Before that, let's have him do the best I can."
+
+#voice tukd0027
+[Tsukiyo] "Ah..."
+
+#voice kond0041
+[Konomi] "Ningen-kun seems sad to say goodbye to Tsukiyo, so let's make you feel as good as you can one last time. Isn't that good, Ningen-kun?"
+
+Konomi glanced at me with inviting eyes.
+
+"Eh...but Tsukiyo..."
+
+#voice kond0042
+[Konomi] "I'm not hating it. I'm waiting for you to make your dick this big and have Human-kun do something that feels good to you."
+
+#voice tukd0028
+[Tsukiyo] "Hyaan... it's no good if you make your penis limp..."
+
+#voice kond0043
+[Konomi] "Aha, hakken. Tsukiyo's dick is tickling, and it feels good when I rub the tip of his dick with his dick."
+
+#voice tukd0029
+[Tsukiyo] "Ah...!? Aah...it feels weird...!? When I rub it...aah...mm..."
+
+In front of my eyes, two cute butts overlapped and swayed seductively.
+
+#voice kond0044
+[Konomi] "Hey, Human-kun. Let's attack Tsukiyo first. Let her know that we don't hate Tsukiyo."
+
+"Ah, uh...yeah..."
+
+#voice tukd0030
+[Tsukiyo] "Hyaan... my butt... I'm being touched... with warm big hands... my butt is squishy..."
+
+When I ran my hand over her smooth butt, Tsukiyo let out a sweet cry, almost crying.
+
+#voice kond0045
+[Konomi] "Yeah. Please make Tsukiyo feel a lot too. Nchu... that's good, Tsukiyo. I hope you feel it a lot and cum a lot."
+
+Konomi happily kissed Tsukiyo's face and neck.
+
+#voice tukd0031
+[Tsukiyo] "Aha... nchu... mmn... Konomi's mouth feels so good too..."
+
+Tsukiyo gradually responds to Konomi's actions, and they suck each other's lips in a sweet manner.
+
+"Then I'll pet Tsukiyo first."
+
+#voice tukd0032
+[Tsukiyo] "Yes, please."
+
+I split open the twin mounds and massaged the surrounding area with my thumbs in order to force the modestly lurking buds to bloom.
+
+#voice tukd0033
+[Tsukiyo] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”
+
+#voice kond0046
+[Konomi] "That's nice‾...From now on, Human-kun's big penis will move in and out of Tsukiyo's butt, and it will feel good‾"
+
+It got used to accepting me after a few acts, and soon it softened and began to twitch, wanting an intruder.
+
+"Can I come in now?"
+
+#voice tukd0034
+[Tsukiyo] "I-I think it's okay..."
+
+I wanted to prepare it more carefully, but since I was exposed to Konomi's lewd behavior earlier, my things are already warped.
+
+I pushed down my underwear and pressed the tip of my cock against Tsukiyo's rear hole.
+
+#cg イベント ev054b1 背景
+#wipe fade
+
+#voice tukd0035
+[Tsukiyo] "Uh... hmm... huh... a little bit, but... it might be... tight..."
+
+"Aaah... I guess it was a bit impossible... but... please hold back for just a little while."
+
+I forcefully tighten my hips, scattering the buds that have shrunk due to my stiff body.
+
+#voice tukd0036
+[Tsukiyo] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…
+
+#voice kond0047
+[Konomi] "Are you hurting? I feel sorry for you, Tsukiyo. I'll do my best to lick you so it doesn't hurt."
+
+#voice tukd0037
+[Tsukiyo] "Fuwaa... Ah... If you pinch my breasts... Aah... You shouldn't lick there..."
+
+#voice kond0048
+[Konomi] "Hmm‾? Doesn't it feel good‾? Doesn't it feel like‾? Here, I'll give you a squeeze, so let your tongue out‾... nchu... chu... chu..."
+
+#voice tukd0038
+[Tsukiyo] "Hah... Nchu... No... No... It feels good... Aah!? Human-san, you've come in... Hah... Aah..."
+
+Perhaps it was a good thing that Konomi's caress loosened my strength, and my cock settled inside Tsukiyo.
+
+"Sorry, that was too tight. It's all in."
+
+#voice tukd0039
+[Tsukiyo] "...No, it's okay. My stomach is full... of Human-san's warm penis..."
+
+#voice kond0049
+[Konomi] "Hey, it feels good‾? It's so good‾. I love having human-kun put my penis in me‾"
+
+Konomi raised her butt high and shook it as if to show me.
+
+#voice kond0050
+[Konomi] "I'm next after Tsukiyo‾? Please do lots of pleasant things for me too‾?"
+
+“Is next okay?”
+
+#voice kond0051
+[Konomi] "Hyan! Are you going to massage my butt this time‾? Ah‾n, my butt feels so good‾"
+
+"I mean, if we're going to go to the trouble of it, it's better to feel good together, right?"
+
+#voice kond0052
+[Konomi] "Yeah, I'd like it to feel good too‾. Do something that feels more‾ even more‾. I'll make Tsukiyo feel good‾"
+
+#voice tukd0040
+[Tsukiyo] "Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...[Tsukiyo]
+
+As I slowly inserted and removed it, Tsukiyo's reaction gradually changed.
+
+The mucous membranes that had always been tight and tight loosened in pleasure, and she chewed on my cock with just the right amount of softness and tightness.
+
+#voice tukd0041
+[Tsukiyo] "Ah... Mr. Human's big dick... it's hard and deep inside, I hit it hard... it feels so good, it's getting bigger and bigger... ahhh..."
+
+Tsukiyo's intestinal walls become increasingly heated and undulate as they wrap around my cock.
+
+"Oh...I feel good too."
+
+If I'm not careful, I feel like I'll reach it in no time.
+
+If you stay absent-minded, you won't even be able to love Konomi.
+
+#voice kond0053
+[Konomi] "Ah... Human-kun, are you going to lick my butt?"
+
+To distract myself, I sucked on Konomi's exposed butt and licked it.
+
+#voice kond0054
+[Konomi] "Ah...aan...aaan...amazing...that warm, slimy tongue has entered my stomach...ah...it's licking the inside of my ass..."
+
+#voice tukd0042
+[Tsukiyo] "Ah, ah, ah...my butt...my butt...it feels so good...Konomi's breath...on my ear...it tickles...aah..."
+
+#voice kond0055
+[Konomi] "My butthole is being spread with the tongue... It's being picked apart... It feels so good... Ah, ah, ah... Haaaaaaan..."
+
+As Konomi's buttocks swayed in pleasure, Konomi and Tsukiyo's swaying penises collided and rubbed against each other.
+
+#voice tukd0043
+[Tsukiyo] "Anh, anh, anh, anh, anh, anh, anh, anh, anh... My butt is rubbing so hard... it's getting hotter and hotter... aahhh."
+
+Tsukiyo's insides contract little by little as if to let her know that she is nearing climax.
+
+#voice kond0056
+[Konomi] "It's okay to cum, Tsukiyo‾. Then it's mine this time‾. That's it. I'll do my best to help you and make Tsukiyo cum‾"
+
+#voice tukd0044
+[Tsukiyo] "Huh... Unya... Hey, wait a minute... Even just your cock feels good... If you play with my breasts like that... Ahhh."
+
+#voice tukd0045
+[Tsukiyo] "Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...I'm going to cum...I'm going to cum...it's ticklish but it feels so good and it's getting bigger and bigger...aaah...ah...I'm going to cum...I'm going to cum..."
+
+#voice kond0057
+[Konomi] “Yeah, let’s go!”
+
+#cg イベント ev054b2 背景
+#wipe fade
+
+Konomi bit Tsukiyo's ear with a loud sound, and Tsukiyo's hips jerked upwards, and a thick liquid similar to that of a precocious seed overflowed from the erect young stem.
+
+#voice tukd0046
+[Tsukiyo] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Tsukiyo's insides continued to twitch finely, as if she was still maintaining the pleasure of climaxing.
+
+"No... I feel like I'm going to cum too..."
+
+#voice kond0058
+[Konomi] "Huh? No, no, no, right? It's my turn next, right?"
+
+"Okay...I know!"
+
+#voice tukd0047
+[Tsukiyo] "Ah...!? I feel like I'm coming out... again... ah... I'm going to cum again..."
+
+I pulled out the meat spear from Tsukiyo's body, which continued to twitch with enthusiasm, and struck my lower abdomen with force.
+
+#voice kond0059
+[Konomi] "I'm next‾? Come on, come on‾, do it‾?"
+
+"Wait a minute. If I keep putting it in like this, I'm going to cum as soon as I put it in."
+
+#voice kond0060
+[Konomi] "Hurry up, hurry up, hurry up, Human-kun. I'm tired of waiting."
+
+"Ah, already. I think I understand."
+
+#cg イベント ev054c1 背景
+#wipe fade
+
+When I pushed my cock into Konomi's waiting butt, it was already completely soft and smooth, probably because I had licked it and spread it open earlier.
+
+#voice kond0061
+[Konomi] "Ah... ah... it's here... it's here... ah... my stomach is so full, it feels so good... ah..."
+
+"If you move like that, I'm going to cum right away, is that okay?"
+
+#voice kond0062
+[Konomi] "No, no, no! You have to make Cha-an and me feel good too, right?"
+
+Even as I say this, Konomi continues to stimulate my cock naughtily, as if ejaculating.
+
+"Damn..."
+
+#cg イベント ev054c2 背景
+#wipe fade
+
+Holding Konomi's waist tightly, he gritted his teeth and penetrated deep inside him at once.
+
+#voice kond0063
+[Konomi] "Aaaaan! Yes, that's right‾... It feels so good to be penetrated deep and deeply by Human-kun's penis! ...Aaaan..."
+
+#voice kond0064
+[Konomi] "Aaah, haaah... I saw how good Tsukiyo felt... haaaaaaaaaaaaaaaaaaaaaaaaaa... I've wanted you to do it for a long time... I want you to cum even more..."
+
+#voice tukd0048
+[Tsukiyo] "Hah...sigh...Konomi, it feels so good...Konomi's dick is hitting me so hard...Aww..."
+
+#voice kond0065
+[Konomi] "My penis is rubbing against Tsukiyo's penis, it feels so good."
+
+While being penetrated by me, Konomi moved her hips so that her young stem rubbed against Tsukiyo's.
+
+#voice tukd0049
+[Tsukiyo] "AaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaI
+
+#voice kond0066
+[Konomi] "Ah... ah... the feeling of Tsukiyo's penis... aaaaaan... my dick feels so good..."
+
+Perhaps because her expectations were at an all-time high, Konomi seems to be nearing her climax.
+
+The soft inside of her body was suddenly tightening, making movements as if begging for ejaculation.
+
+#voice kond0067
+[Konomi] "Aaah... Is it okay if I cum‾? I don't mind if I cum, please make it harder, Human-kun‾"
+
+"Even if you don't say it...see?"
+
+#voice kond0068
+[Konomi] "Fuhyan... aaan! Aan! Aan! Aah! So intense...! Hmm... please do it more‾"
+
+As Konomi thrusts deep into him regularly, she wiggles her hips every time a good spot rubs against her.
+
+In no time, I was driven to my climax.
+
+#voice kond0069
+[Konomi] "Ya... ah... I'm cumming... I'm cumming... ah...!?"
+
+"Ah... it's gone..."
+
+Due to the bouncy movement of her hips, the cock that was about to slip out was pushed out smoothly.
+
+The potion part was repelled, and the impact made me reach it.
+
+;ＥＶ絵――EV054『嫌いじゃないよ』差分C1-3★未指定
+;EVCG EV054C1
+;SE
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev054d1 背景
+#bg BG07b_3
+#wipe fade 300
+
+#voice kond0070
+[Konomi] "Hyaaaan! Human-kun, you're ejaculating! The hot semen is on your butt...aaaaan...!"
+
+#voice tukd0050
+[Tsukiyo] "Ah!? Human-san's semen is so hot! It's so hot... Hah, my dick is rubbing against Konomi's... Aah...!?"
+
+Konomi and Tsukiyo reached my semen without any delay.
+
+;射精SE入れる？★
+
+#voice kond0071
+[Konomi] "Ah... it's hot... I felt it and went..."
+
+#voice tukd0051
+[Tsukiyo] "It felt... good..."
+
+Tsukiyo, who had been building up the feeling of ejaculation from her climax, reached her climax as well as Konomi, who had been penetrated, and let out an enchanted voice.
+
+#voice tukd0052
+[Tsukiyo] “Ningen-san and Konomi made me feel comfortable...”
+
+#voice kond0072
+[Konomi] "See? Do you understand that I don't hate Tsukiyo?"
+
+#voice tukd0053
+[Tsukiyo] “…Yes, it is.”
+
+Tsukiyo smiled even more happily than when she climaxed.
+
+;SMODE 049 STOP
+#endscene
+
+#bgvoice stop
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：街道（昼）
+;BG BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tukd0054
+[Tsukiyo] “Okay, let’s go now.”
+
+After a night's sleep, Tsukiyo decided to go out.
+
+I wanted to give him something as a farewell gift, but I didn't have anything suitable, and he wouldn't accept silver or copper coins.
+
+#voice tukd0055
+[Tsukiyo] "I received a cloth for my hair ornament. Besides, I received something even more important from Mr. Human."
+
+"Eh...? Did I give you anything else...?"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice kond0073
+[Konomi] "Huh? Don't you remember? That's no good, Human-kun. I gave you something really important."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukd0056
+[Tsukiyo] "Yes. I've received something very important."
+
+"Huh? What on earth?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kond0074
+[Konomi] "It's your name. Tsukiyo has always been Nanashi, right? Names are really important, aren't they?"
+
+"Ah, ah..."
+
+What, is that so?
+
+#voice tukd0057
+[Tsukiyo] “…I’ve received other things as well.”
+
+;FACE K06F
+#face f_kon_0_06f 94 466
+
+#voice kond0075
+[Konomi] "Hmm? Is there anything else? What is it?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tukd0058
+[Tsukiyo] "The time I spent here with my friends... I definitely wouldn't have had it without you."
+
+"……I see"
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tukd0059
+[Tsukiyo] "I may never see you again, but I'll never forget you. I'll cherish you forever..."
+
+"...Yeah. I hope I can meet the other dark elves soon."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukd0060
+[Tsukiyo] "Yes. Well then, goodbye."
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice kond0076
+[Konomi] “Wait a minute!”
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tukd0061
+[Tsukiyo] “Howl!?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo was about to leave when Konomi stopped her and kissed her on the cheek.
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0077
+[Konomi] "I'll give Tsukiyo a blessing. I hope he can find a friend soon. It's an elf's blessing, so it's the strongest, isn't it?"
+
+;CHR T06F_L L
+#cg ツキヨ tuk_1_06f_l 左
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tukd0062
+[Tsukiyo] “Ah...thank you.”
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0078
+[Konomi] "And it's a blessing from your friends. You'll definitely be happy."
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukd0063
+[Tsukiyo] “Yes, it is.”
+
+Tsukiyo smiled and departed.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0079
+[Konomi] "Now then, it's just the two of us, right?"
+
+When I saw Tsukiyo off to the highway and returned to the mountain hut, Konomi happily jumped at me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+“Wow!?”
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice kond0080
+[Konomi] “Ningen-kun is all to himself! Hehehe, let’s do lots of pleasant things‾”
+
+“Well, Konomi is just like that.”
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice kond0081
+[Konomi] “I mean, human-kun likes things that feel good too, right?”
+
+“I don’t hate you though.”
+
+;FACE K04F
+#face f_kon_0_04f 94 466
+
+#voice kond0082
+[Konomi] “If I were alone, I could do as much as I could with Human-kun without holding back.”
+
+"You've never been shy before, right?"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice kond0083
+[Konomi] "That's not true, is it? The truth is, I wanted to be connected to you all morning, noon, and night."
+
+Konomi hugged me and nuzzled her cheek against my stomach.
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kond0084
+[Konomi] "Right? Let's do it, Human-kun‾? Let's do lots of things that feel good‾?"
+
+“So, you did it yesterday too, right?”
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0085
+[Konomi] “Yesterday is yesterday, today is today.”
+
+"Well, before that, I'd like to eat some food."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0086
+[Konomi] “Hey, Human-kun, you ate dinner yesterday too, right?”
+
+"Humans die if they don't eat every day. No, they won't die if they don't eat for a day or so, but they should eat every day if possible."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0087
+[Konomi] "Huh? Then I think it's okay to have sex every day."
+
+"Just wait a minute. Humans don't have energy unless they eat something to eat."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice kond0088
+[Konomi] "Well, there's nothing we can do about it. You can wait, but you have to hurry, okay?"
+
+"...Why are you blaming me?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0089
+[Konomi] "Ningen-kun, have you eaten!? Well then, let's do it‾? Let's do it now‾?"
+
+“You’re cleaning up now, right?”
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0090
+[Konomi] "Huh? Because I've been waiting for a long time. I want to do it quickly."
+
+“You can’t just do that, right?”
+
+#voice kond0091
+[Konomi] "Is that so? After all, what I want you to do is easy, isn't it?"
+
+Konomi didn't seem to be listening to the story, but she threw off her clothes and lay down on the bed.
+
+;FACE K04N
+#face f_kon_0_04n 94 466
+
+#voice kond0092
+[Konomi] “I want you to put Human-kun’s penis in my butt.”
+
+
+;ＥＶ絵――EV055『コノミ後背位1』未挿入　★待ち　差分A1-3
+;EVCG EV055A1
+
+;SMODE 50 PLAY
+#label replay050
+#setscene 47
+#bg BG07b_1
+
+;CHR OFF
+#cg all clear
+
+#cg イベント ev055a1 背景
+#wipe fade
+
+“Ah, already!”
+
+I pretended to be stunned and stood behind Konomi.
+
+Konomi's part was twitching and contracting wistfully.
+
+"...Huh? There's a bruise here...not..."
+
+#voice kond0093
+[Konomi] "What's wrong? Did you find something?"
+
+Come to think of it, from behind...was that the first time you did it without clothes?
+
+"...I see, this is the shape of a nut."
+
+#cg イベント ev055a2 背景
+#wipe fade
+
+When I instinctively traced Konomi's emblem with my finger, Konomi made a sound like a puppy and wiggled her hips.
+
+#voice kond0094
+[Konomi] "Huh ‾ ... Hmm ... Ningen Kun ... I want to tickle ‾ ..."
+
+The movement was so sensational that I couldn't help but swallow my saliva.
+
+Konomi's white butt looks like a ripe fruit dripping with sweet juice...
+
+As if inviting you to kiss her, you gently press your teeth against hers.
+
+#cg イベント ev055a3 背景
+#wipe fade
+
+#voice kond0095
+[Konomi] "Ah!? I'm biting your butt‾. Ahhh... it feels so good to be ripped off‾. Can I bite you harder‾?"
+
+"Okay. Konomi likes things that hurt a little, right?"
+
+#voice kond0096
+[Konomi] "Yes, I like it. It hurts a little, but the feeling of tingling feels so good that it reaches deep inside."
+
+"I see"
+
+I sink my teeth into Konomi's soft butt. A little deeper, so you don't hurt yourself.
+
+#voice kond0097
+[Konomi] "Ah... it's there!? Ahh... it feels so good‾. Hehe... it won't be good if you eat it, right? Hehehehehe..."
+
+“I’m scared of doing something that hurts too much.”
+
+Run your tongue over the reddened area where the impression of your teeth remains. I feel sorry for myself, even though I did it myself.
+
+#voice kond0098
+[Konomi] "Ah... that's good‾ I guess I like it when you're gentle with me where it hurts‾... Huh... it's thrilling‾"
+
+With a sweet voice, Konomi arches her back.
+
+“Would you like it if it hurts a little too?”
+
+Gently push the two round mounds of flesh apart and kiss the hole in the center.
+
+#voice kond0099
+[Konomi] "I don't get it‾? It's nice to be made to feel so good like yesterday and then have your penis inserted, but when Tsukiyo sees me, I think it might be nice if it hurts too‾"
+
+“Then, for today, let’s answer your request and force you in.”
+
+#voice kond0100
+[Konomi] "Fufufu‾, okay‾? Do it‾"
+
+Press the tip of the glans against the hind hole of the konomi, which is not sufficiently wet or loosened.
+
+;ＥＶ絵――EV055『コノミ後背位1』挿入　★待ち　差分B1-3　ここでいいか？
+;EVCG EV055B1
+#cg イベント ev055b1 背景
+#wipe fade
+
+Perhaps in anticipation of the pain, or in anticipation of the pleasure that was about to be given, Ssubomari shrank back.
+
+#voice kond0101
+[Konomi] "Aku...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn In As expected...I guess it's a bit...tight...?"
+
+“I think it hurts a bit too…”
+
+The wet bottom feels taut and taut, and the wrinkled surface clings tightly to the surface of the glans.
+
+"Then, be a little more forceful..."
+
+Place your thumb around the hole and push it open to bring the inner mucous membrane into contact with the bell opening. Then, he continued to move forward.
+
+#voice kond0102
+[Konomi] “Aguuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu...
+
+Konomi makes a sweet but painful sound, and I stop moving for a moment.
+
+"Are you okay? Should I stop after all?"
+
+#voice kond0103
+[Konomi] "Don't stop‾. I want it even deeper‾...I don't care if it hurts‾ more‾"
+
+On the contrary, Konomi starts to move her hips and tries to welcome me.
+
+"Oh, look. Don't push yourself too hard."
+
+If you force yourself too hard, it will hurt for me too.
+
+When I try to push it in while widening the hole, the tight hole swallows the glans.
+
+#voice kond0104
+[Konomi] "Ah ... I was forced to spread ............................................. Fufufufufufufufufufufufufufufufufufufufufufufufuka
+
+Once the glans was swallowed, the rest of the insertion was easy.
+
+As I pushed deeper and deeper into the room, I felt Konomi's inner walls pulsate violently as if to welcome me.
+
+"Kuh..."
+
+Pass through the thickest part, push it all the way to the base, and take a breather.
+
+"...It's all in."
+
+#cg イベント ev055b2 背景
+#wipe fade
+
+#voice kond0105
+[Konomi] "Aha... it feels like it's being stretched out when I'm forced to do it... I like this, too. Hehehe... it might be nice to do something like this once in a while."
+
+Konomi looks happy even though she seems to be in pain.
+
+#voice kond0106
+[Konomi] "Come on‾ move, move‾"
+
+The crest of the nut sways every time Konomi shakes her hips.
+
+"I understand."
+
+I held Konomi's buttocks and started extracting my cock.
+
+#voice kond0107
+[Konomi] "Ah ... huh ... hmm ... hmm ... hmm ... yeah ... yes ... I like to do so ...
+
+"Does it feel good? That's good."
+
+I bend down and gently kiss the crest on the nut.
+
+#cg イベント ev055b3 背景
+#wipe fade
+
+#voice kond0108
+[Konomi] "Hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+It's so hot that it feels like it's going to burn me as it's eating my dick so hard it's about to tear.
+
+Konomi's voice gradually became urgent and high-pitched as she bucked her hips against the white, round butt.
+
+#voice kond0109
+[Konomi] "Ah... I can't see Human-kun's face... I'm lying on my stomach like an animal... It's so good... Huh... Ahhh..."
+
+#voice kond0110
+[Konomi] "Huh... this outfit rubs me in a different way than usual... I might like it..."
+
+Seeing Konomi in disarray below me also satisfies my desire for conquest even more than usual.
+
+The fact that you can rub her butt as you like makes it feel even more like using it as a toy.
+
+#voice kond0111
+[Konomi] "Ah... ah... ahhh! It feels so good to have your butt massaged."
+
+#voice kond0112
+[Konomi] "In my butt hole...haaaah...my dick goes in and out...it goes in and out...♪ My butt is turning over‾♪"
+
+#voice kond0113
+[Konomi] "Nnnn...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn...
+
+Konomi's body was trembling and she was drooling as she was being rocked by me.
+
+#voice kond0114
+[Konomi] "I haven't even touched my penis...I feel like I'm about to cum...I feel like I'm going to ejaculate."
+
+"Ah... cuck... it's tightening...!"
+
+#voice kond0115
+[Konomi] "My butt is so hot... hmm... my head goes blank♪"
+
+Sweat was dripping from my forehead, and the feeling of ejaculation building up was enough to give me chills.
+
+At that moment, I saw a crest dancing in front of me.
+
+I want to violate this lewd but innocent elf to the fullest.
+
+I want to fuck you, get dirty, and make a mess.
+
+#voice kond0116
+[Konomi] "Huh... I'm already cumming‾♪ I'm going to ejaculate‾♪ Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+
+;SE
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev055c1 背景
+#bg BG07b_3
+#wipe fade 300
+
+Immediately, I pulled out the anger from Konomi's butt and poured the cloudy liquid onto the crest.
+
+;ＥＶ絵――EV055『コノミ後背位1』射精　★待ち　差分B4-6？確認
+;EVCG EV055B3
+;SE
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev055c2 背景
+#bg BG07b_3
+#wipe fade 300
+
+"Fuck..."
+
+#voice kond0117
+[Konomi] "It's hot ... oh ... it's hot semen ... Han ... I'm dirty ... I'm dirty ... again ..."
+
+Konomi was stained with my ejaculation and let out a mesmerizing voice.
+
+;SMODE 50 STOP
+#endscene
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR K04N C
+#cg コノミ kon_1_04n 中
+#wipe fade
+
+#voice kond0118
+[Konomi] “Aaah, it felt good, didn’t it?”
+
+Konomi took my hand in a good mood and gently bit my finger with her lips.
+
+#voice kond0119
+[Konomi] "I tried playing with Ibara and Tsukiyo, but in the end, it's best to play with Human-kun. You like having your hands touch me, don't you?"
+
+When Konomi's breath hits my fingers, an indescribable sensation rises up from my lower back.
+
+;CHR K03N C
+#cg コノミ kon_1_03n 中
+#wipe fade
+
+#voice kond0120
+[Konomi] "Hey, Human-kun. Do more‾? Do more‾? I love things that feel good‾"
+
+"Ah, ah...yeah..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE  K04N
+#face f_kon_0_04n 94 466
+
+#voice kond0121
+[Konomi] "Okay, try again. Maybe next time I should put them together more tightly? Hehehehe..."
+
+I hugged Konomi again as I heard the sweet voice that permeated my earlobes.
+
+;dk02_1へ
+#next dk02_1

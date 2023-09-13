@@ -1,0 +1,2374 @@
+
+;「ぬばたまのたいよう」
+
+;#face off
+
+#bg black
+#wipe fade
+
+#mes clear
+
+#cg all clear
+
+#wipe fade 1000
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+
+#bgm 0 11
+
+;背景：空（昼）
+;BG BG15_1
+#cg all clear
+#bg BG15_1
+#wipe fade
+
+The sun is shining above the blue sky.
+
+Even on cloudy days with thick clouds.
+
+And even when night falls, the sun is shining far away behind the earth beneath our feet.
+
+Even on nights when there is no moon or stars cannot be seen, the sun is shining somewhere in the sky.
+
+When we can't see the sun, we just forget that.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;背景：空（夜）
+;BG BG15_3
+#cg all clear
+#bg BG15_3
+#wipe fade
+
+Humans don't know.
+
+That there is not so much that can be seen with the naked eye.
+
+Even though you think you know everything, the truth is that you don't know anything, even about what you see.
+
+And I just forgot.
+
+Remember that you are not alone in your life.
+Remember that all living things are kept alive by someone.
+
+
+;ＥＶ絵――EV001『空を見上げるヒナタ』（昼）
+;EVCG EV001A1
+;#face off
+
+
+#cg イベント ev001a1 背景
+#wipe fade
+
+#voice hinnu0001
+[Hinata] "Hey! Look! Tsukiyo, Ibara, and Konomi! Aoi Sora has a Tsukisama too!?"
+
+Blue skies everywhere. A white moon floating as if imprinted on the blue sky.
+
+#voice hinnu0002
+[Hinata] "I wonder if Shiroitsuki was eaten by the wolf too!? It's crunchy. The wolf looks delicious!"
+
+The once nameless elf screams with happiness.
+
+#voice hinnu0003
+[Hinata] "Hinata, I want to meet Human-san again soon!"
+
+Her eyes were blue, reflecting the sky, and her hair shone as if it had caught the sunlight, sparkling happily.
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+“Is it okay for me to receive that much?”
+
+When I came shopping, the miller's wife gave me a lot of things, more than just the price.
+
+#voice okunu0001
+[Miller's Wife] "It's a bonus, a bonus. If you live alone, it must be difficult."
+
+"thank you"
+
+#voice okunu0002
+[Miller's Wife] "So... your memory hasn't returned yet?"
+
+He asked me worriedly, but I silently shook my head.
+
+"I'm sorry. Even though you've been treating me so well...I can't remember anything."
+
+#voice okunu0003
+[Miller's Wife] "No, it's fine. Maybe we don't need to remember that we've been able to get by."
+
+It's been several years since I started living in this village... However, within the scope of my memories.
+
+Actually, it seems that I have lived in this village since I was born.
+
+However, after losing my mother, I announced that I would move to the forest and left the village.
+
+It seems that for a while, he brought strange flowers, fruits, and fish from the forest that no one else could enter...but one day, he returned to the village with no memory at all...
+
+Apparently, that happened a few days after the orc army went on a rampage in the neighboring country, and there were various speculations as to why I lost my memory.
+
+Maybe he encountered orcs that attacked a neighboring country and was so frightened that he lost his memory, or maybe he came into contact with something taboo in the dark forest.
+
+However, even after several years, the truth remains unknown.
+
+I was welcomed into the village without my memory, and I've been living there being treated like a new resident, like a boil.
+
+Apparently he wasn't a good person to begin with, so I guess he's happy that he accepted her.
+
+The miller's wife and the owner of the general store are all business people, so they are kind to people like me, but most of the time they keep everyone else at a distance.
+
+That's not to say that I'm ignored, and that there aren't any people who interact with me, but I do feel like I'm a member of the village.
+
+#voice okunu0004
+[Miller's Wife] "You're not going to the forest anymore, are you? There are monsters living in the forest."
+
+The wife said so kindly and gave me another sweet.
+
+...They're treating me like a child.
+
+"Yes, I understand"
+
+I accepted it with a smile and left the store.
+
+#bgvoice stop
+
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+“I guess it’s obvious after all.”
+
+I went back home and had a meal by myself while cleaning up my shopping.
+
+Whenever I have time, I tend to go to the forest. Even though it's the place where I lost my memory, I'm still drawn to the forest.
+
+I'm trying not to worry the villagers and not get noticed, but...
+
+I know there are already rumors that I'm fascinated by the forest.
+
+I have never set foot in a dark forest, but every time I visit a forest, I have a smoldering feeling that there might be something I can find if I go deeper.
+
+I also thought that I might be able to recover my lost memories.
+
+...Maybe that's why I'm fascinated by the forest.
+
+"Okay, this is all we need to prepare for the time being."
+
+I finished preparing to go into the forest and had a meal to myself.
+
+I feel sorry for the people in the village who have been kind to me, but my desire to return to the forest has been growing stronger day by day.
+
+And as I watched yesterday's lunar eclipse, I couldn't stand it anymore.
+
+Something is waiting in the forest.
+
+As I watched the fading moon, I felt like the dark forest was calling me.
+
+The moon may be eaten by wolves, and I may be eaten by monsters in the forest.
+
+The temptation to go to the forest was so irresistible that I decided to go into the forest again.
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+After entering the forest for a while, I had a strange feeling as if I somehow knew which direction I was going.
+
+I wonder if my memory is starting to return?
+
+I quickly walked deeper into the forest, as if I was half running.
+
+From here onwards is a dark forest, in the direction of the mountain hut where I was staying.
+
+I wonder if there's something in that hut after all.
+
+The fearful feeling of wanting to stop and the desire to reach the hut as soon as possible were competing with each other in my heart.
+
+What will be waiting there?
+
+Along the way, I passed a sign indicating that trespassing was prohibited, and hurried further ahead.
+
+It seems that the mountain hut where I lived was originally marked as a landmark, but ever since I lost my memory, it has been marked so that I can stop even closer.
+
+I didn't feel guilty for overstepping that mark, but the lure of going deeper into the forest outweighed that guilt.
+
+I hurried forward, ignoring the undergrowth that clung to my feet and the grass and leaves cutting my exposed skin from rushing too quickly.
+
+;背景：山小屋前（昼）
+;BG BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+"……arrived"
+
+Despite my excitement, it wasn't long before I reached the hut.
+
+The forest where the monster was supposed to be hiding was a quiet forest, and they made it to the mountain hut without being eaten or attacked by anything, or even seeing anything suspicious.
+
+The hut stands quietly.
+
+"I lived here..."
+
+This is the first time I've come this far since I lost my memory, but I didn't feel particularly emotional.
+
+The hut itself seems to be quite old, but it is in good repair and looks like someone had lived there until recently.
+
+...According to what everyone in the village has said, I was the one who lived there, but I can't quite figure it out.
+
+Flowers that I have never seen before are planted around the hut and are in full bloom.
+
+Other than that, there is nothing particularly different.
+
+It's just an old, run-down mountain hut that sits alone in the forest.
+
+"...Why did I want to come to a place like this?"
+
+It doesn't look like anything particularly scary awaits.
+
+On the contrary, the suspicion arises that there is nothing at all.
+
+...Well, there's nothing wrong with that.
+
+“…For now, let’s check inside.”
+
+I put my hand on the door and opened it carefully, making sure no one was inside.
+
+“What…!?”
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;ＥＶ絵――EV029『みんなでおやすみ』（差分なし）
+;EVCG EV029A1
+#cg イベント ev029a1_2 背景
+#wipe fade
+
+There were four...boys inside? was.
+
+#voice hinnu0004
+[Hinata] "Grr... Skype..."
+
+#voice ibanu0001
+[Ibara] "Hmm...mm..."
+
+#voice konnu0001
+[Konomi] "Kuuu‾..."
+
+#voice tuknu0001
+[Tsukiyo] "Mmm...soo...suu..."
+
+They were all lined up together and sleeping comfortably.
+
+My curiosity got the best of me and I stepped into the mountain hut.
+
+What are these kids? Why are you sleeping in a place like this?
+
+The boys didn't notice the intruder and remained asleep with innocent faces.
+
+"...!?"
+
+I looked at the boys' faces again and hurriedly covered my mouth.
+Because if I didn't do that, I would have raised my voice.
+
+Although the boys differed in appearance, they all had the same characteristics.
+
+Long, pointed ears that humans don't have. And her appearance is so beautiful that it is impossible for a human to do so.
+
+One boy barely looked human, but he was still beautiful.
+
+“El…fu…?”
+
+There were four elves sleeping innocently in the hut.
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibanu0002
+[Ibara] "Hmm...?"
+
+"Oh, that's bad!"
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+An elf woke up with a cry.
+
+I panicked and tried to hide, but there was nowhere to hide as I had stepped into the mountain hut.
+
+I had no choice but to stand there miserable.
+
+"I-I'm sorry. I came in without permission..."
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibanu0003
+[Ibara] "Ah!? It's late, humans! I got tired of waiting and fell asleep!?"
+
+"……fart?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T06F_L L
+#cg ツキヨ tuk_1_06f_l 左
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuknu0002
+[Tsukiyo] "What!? It's Human-san!?"
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konnu0002
+[Konomi] "Oh... Good morning, how have you been?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 左
+#wipe fade
+
+#voice hinnu0005
+[Hinata] "Hmm, mumble... Hannya!? Human-san was there!?"
+
+The elves woke up to the sound of one elf's voice and all jumped up happily when they saw me.
+
+It was as if he knew me and was waiting for me...
+
+“Y-you guys are elves, right?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibanu0004
+[Ibara] "Huh!? What are you talking about half asleep!? Is that a stone or something on your shoulder?"
+
+;CHR K09F1 R
+#cg コノミ kon_1_09f1 右
+#wipe fade
+
+#voice konnu0003
+[Konomi] “Ningen-kun’s eyes are knotholes.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuknu0003
+[Tsukiyo] “It’s been a while.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+
+#voice hinnu0006
+[Hinata] "Wow! It's Human-san, Human-san! It's the real Human-san!"
+
+"H-It's been a while...?"
+
+Do you know about me after all...?
+
+;CHR H06F2_A C
+#cg ヒナタ hin_1_06f2_a 中
+#wipe fade
+
+#voice hinnu0007
+[Hinata] "Wow, human-san, you've gotten a little bigger!? How's that!? I feel like you're getting taller!?"
+
+"What do you think...?"
+
+The one with the shortest ears ran around me, then jumped up and down to see how tall I was.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibanu0005
+[Ibara] "Hmm...does he look strong? Ah, hey, it's just a little!?"
+
+;CHR K03F R
+#cg コノミ kon_1_03f 右
+#wipe fade
+
+#voice konnu0004
+[Konomi] "Hmm? I feel like I've gotten older. Maybe my beard has gotten thicker."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuknu0004
+[Tsukiyo] “Is it cool now?”
+
+"I-I'm cool now...?"
+
+Why are these kids so familiar to me...?
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibanu0006
+[Ibara] "What's wrong, you're making a strange face. If you make that face, your already stupid face will only look even more stupid."
+
+;FACE  K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konnu0005
+[Konomi] "Hmm? Ibara‾, I feel like Human-san had this face from the beginning‾?"
+
+;CHR H04F2_A R
+#cg ヒナタ hin_1_04f2_a 右
+#wipe fade
+
+#voice hinnu0008
+[Hinata] "Is that so? Isn't your face scarier?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuknu0005
+[Tsukiyo] "That's not true. She had a kind face."
+
+The elves are making a lot of noise.
+
+"Umm...do you guys know about me?"
+
+When I asked, the elves looked shocked.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hinnu0009
+[Hinata] "Hannya!? Doesn't Human-san remember Hinata and the others!?"
+
+;CHR T06F_L L
+#cg ツキヨ tuk_1_06f_l 左
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuknu0006
+[Tsukiyo] “Wow...I don’t remember?”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibanu0007
+[Ibara] “What, you don’t remember us!?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+#voice konnu0006
+[Konomi] “Ningen-kun is so heartless.”
+
+"Well, even if you say that..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Did I know elves before I lost my memory?
+
+The people in the village never said anything like that... If the elf knew anyone, then that village wouldn't be so poor.
+
+After all, it is said that elves can be sold for a very high price if you bring them to the royal capital, and if the villagers knew that I knew an elf, they would definitely have captured it.
+
+……but.
+
+It's been several years since I lost my memory. If I were to grow taller, I would also become more muscular.
+
+I don't know exactly because I haven't measured it, but I feel like what these elves are saying isn't exactly right.
+
+But even though we must have known each other many years ago, I wonder if elves really live longer than humans since they look like this.
+
+The first elf to wake up asked me in shock as I stood there in confusion.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibanu0008
+[Ibara] "Ah!? Now, human, you inhaled as much as you could of Tokiwasure's incense! I told you to be so careful!"
+
+"And Tokiwasure...?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuknu0007
+[Tsukiyo] "Wow... then I'm sure you'll forget everything..."
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice konnu0007
+[Konomi] “Ningen-kun is careless.”
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+#voice hinnu0010
+[Hinata] "Ningen-san, have you forgotten everything!? That's a big deal!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SE se025 小屋内でドタンバタン
+#se 1 se025
+
+The one with the shortest ears runs around me flapping. Ah, now that you mention it, this scene certainly feels nostalgic...
+
+;CHR H04F1_A C
+#cg ヒナタ hin_1_04f1_a 中
+#wipe fade
+
+#voice hinnu0011
+[Hinata] “Then, have you forgotten everything about how you gave your name to Hinata and the others and how you taught us all the unpleasant things?”
+
+"I-Is that disgusting...?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konnu0008
+[Konomi] "That's right, if we do something that feels good, I'm sure you'll remember us, right? That's right, let's do something that feels good."
+
+Just then, the squishiest girl started to take off her clothes.
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+
+#voice hinnu0012
+[Hinata] "Oh! Konomi, Hinata also wants to do something nice."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 066 PLAY
+#label replay066
+#setscene 63
+#bg BG07b_1
+
+The short-eared girl also took off her clothes as if she had been lured.
+
+
+;ＥＶ絵――EV076『『みんなでエッチ1』★待ち　差分あり
+;EVCG EV076A1
+#cg イベント ev076a1 背景
+#wipe fade
+
+#voice konnu0009
+[Konomi] "Well, Human-kun. Do something that feels good."
+
+#voice hinnu0013
+[Hinata] “Do it!”
+
+The one with the shortest ears and the one with the squishiest eyes lined up and invited me.
+
+"Oh, um... you're Hinata, and you're Konomi?"
+
+#cg イベント ev076a2 背景
+#wipe fade
+
+#voice hinnu0014
+[Hinata] "Oh!? Human-san reminded me!?"
+
+When I pointed to it and confirmed it, Hinata let out a happy voice.
+
+"N-no...I don't remember..."
+
+What feels good when you stick out your naked butt is sex... right?
+
+Are you saying I was having sex with elf boys?
+
+Moreover, from the way they spoke earlier, it seemed like I was the one who taught them how to feel good...
+
+#cg イベント ev076a3 背景
+#wipe fade
+
+#voice konnu0010
+[Konomi] "Hey, do it, okay? Just do it while you're at it, okay?"
+
+Konomi tempts you by raining down on her plump buttocks from side to side.
+
+...The other person is a boy, right?
+
+However, even though it is something unknown to my senses, strangely I don't feel any revulsion.
+
+On the contrary, although I still can't remember anything, my lower body was throbbing and I started to stand up without discipline.
+
+"Well then……"
+
+Since you're being invited to try it, it's okay to touch it, right?
+
+I gently touch her white butt. It felt incredibly smooth in the palm of my hand.
+
+#voice hinnu0015
+[Hinata] "Huh! Human-san's help!"
+
+#voice konnu0011
+[Konomi] “Do your big hands feel good?”
+
+I definitely felt like I knew that feeling.
+
+#voice hinnu0016
+[Hinata] "You can put it in right now. After I asked Human-san for some unpleasant things, I tried putting various things in her butt."
+
+...I tried adding various things. After all, if you're going to do it, that's the only place to go.
+
+It seems like it's my first experience, but instead of slowing down, my excitement grows even more.
+
+My erection was hot and hard, as if I couldn't help but want to enter it quickly.
+
+#cg イベント ev076a4 背景
+#wipe fade
+
+#voice konnu0012
+[Konomi] “Ah, Hinata first?”
+
+#voice hinnu0017
+[Hinata] “Junban, it’s Junban, Konomi!”
+
+I grabbed Hinata's waist and pushed down on her still-submerged, pretty, erect hole, which was arching back, and placed my glans against it.
+
+#cg イベント ev076b1 背景
+#wipe fade
+
+"Ah……"
+
+#voice hinnu0018
+[Hinata] "Huh... Human-san's... came in!"
+
+Hinata makes a happy sound.
+
+I wonder if Hinata's words about putting various things in her butt are true, as her butt accepts me with surprisingly little resistance.
+
+All I can say is that the soft and tight feeling feels good.
+
+#cg イベント ev076b2 背景
+#wipe fade
+
+#voice hinnu0019
+[Hinata] "Ah... Mr. Human's... I'm going to go to your house... I'm going to miss this place... Hannyaa... Ahhh... it's still creepy after all."
+
+I felt a sense of deja vu when I saw Hinata's sweet voice.
+
+……That's it. I know this feeling.
+
+I have interacted with Hinata like this many times.
+
+Even if he doesn't remember it, his body remembers Hinata's touch.
+His hand stroked Hinata's head without permission.
+
+#voice hinnu0020
+[Hinata] "Ah... I love having my head pounded on me. If I get fucked while my head is being fucked, I'm getting more and more uncomfortable..."
+
+"And..."
+
+#cg イベント ev076b3 背景
+#wipe fade
+
+#voice hinnu0021
+[Hinata] "Hannyaaa...ahaha...haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...]
+
+Only Hinata has a belly button. I remembered that very well.
+
+The familiar folds of flesh wrap around mine and handle it.
+
+Not only his hands, but also his hips moved to find Hinata's comfortable spot.
+
+After all, I know this feeling.
+
+#voice hinnu0022
+[Hinata] "Aaaan...aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+#voice konnu0013
+[Konomi] “Okay, I’ll be next.”
+
+"Ah, ah...yeah"
+
+As soon as I regained my memory, I pulled my cock out of Hinata.
+
+I wonder if I even remember Konomi.
+
+#voice hinnu0023
+[Hinata] "Ah!? Are you going to sew it already!? I want you to do it more and more."
+
+#voice konnu0014
+[Konomi] "Hinata‾, it's your turn‾ your turn‾"
+
+#voice hinnu0024
+[Hinata] "Well, I guess it can't be helped then."
+
+"I'm sorry, Hinata. I'll do it with my fingers..."
+
+#voice hinnu0025
+[Hinata] "Yeah, do it! Hinata, I'd love to have you do it for me!"
+
+This time, he grabbed Konomi's waist and thrust into her butt.
+I felt a sense of deja vu in this sight of Konomi looking down at me from behind, and also in the emblem engraved on Konomi's waist.
+
+#cg イベント ev076c1 背景
+#wipe fade
+
+#voice konnu0015
+[Konomi] "Hmm... It's completely different from a penis made of wood. Human-kun's raw penis is so soft."
+
+...A penis made of wood?
+
+Those words shook my memory. This is the scene where Konomi is inviting me with the dildo she made herself in her mouth. Come to think of it, it seems like something like that happened...
+
+#voice konnu0016
+[Konomi] "Aaah, it feels so good. I love being touched like that."
+
+When I caressed Konomi's lower back as if tickling her crest, Konomi shook her hips happily.
+
+Ah, that's right. I'm sure this is Konomi's erogenous zone...
+
+#cg イベント ev076c2 背景
+#wipe fade
+
+#voice hinnu0026
+[Hinata] "Hey, human being! You're such a nice guy who makes Hinata feel even better!"
+
+Hinata calls out to me as I am deep in thought.
+
+"Oh, my bad. Look, I guess this is okay."
+
+#voice hinnu0027
+[Hinata] "Affun... Mr. Human's Yubi has come in... He's stirring inside Hinata..."
+
+When he inserts his finger, Hinata makes a sound of pleasure.
+
+That's right...the nice thing about Hinata...
+
+#voice hinnu0028
+[Hinata] "Ah... it's so... it feels so good... ah... ah... it feels so... ah..."
+
+#voice konnu0017
+[Konomi] "Don't forget this too‾, human..."
+
+"Ah...wait a minute, don't make any sudden movements. It's been a while since I last saw you..."
+
+I let out a pitiful sound and pulled my waist.
+
+#cg イベント ev076c3 背景
+#wipe fade
+
+#voice konnu0018
+[Konomi] "Hmm... haa... haa... it's been a while, so what's going on?"
+
+Konomi shook her hips from side to side, and her climax came quickly, probably because it had been a while since she had sex with another person.
+
+The premature ejaculation was so pathetic.
+
+"Well...well, at least a little more..."
+
+#voice hinnu0029
+[Hinata] "What's wrong, Human-san?"
+
+"I-I feel like I'm about to cum..."
+
+I hurriedly pulled out my cock from Konomi's butt...
+
+;選択肢発生
+#select ext01_01a ext01_01b
+A: Apply to Hinata
+B: Apply to Konomi
+
+
+
+;Ａを選択⇒『ext01_01a』へジャンプ
+;Ｂを選択⇒『ext01_01b』へジャンプ
+
+;ext01_01a
+#label ext01_01a
+
+;ＥＶ絵――EV076『『みんなでエッチ1』★待ち　差分あり　ニンゲン射精ヒナタに
+;EVCG EV076A1
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev076d2 背景
+#bg BG07b_1
+#wipe fade 300
+
+I ejaculated towards Hinata.
+
+Semen rains down on her smooth buttocks.
+
+The yellowish and embarrassingly thick semen made a pitter-patter sound and stained Hinata's butt.
+
+Hinata let out a happy voice in response.
+
+#voice hinnu0030
+[Hinata] "Huh... Mr. Human's energy is coming down on my butt!? Ah... it feels so good..."
+
+;合流へ
+#goto ext01_01c
+
+;ext01_01b
+#label ext01_01b
+
+;ＥＶ絵――EV076『『みんなでエッチ1』★待ち　差分あり　ニンゲン射精コノミに
+;EVCG EV076A1
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev076e2 背景
+#bg BG07b_1
+#wipe fade 300
+
+I ejaculated towards Konomi.
+
+Embarrassingly thick semen with a slightly yellowish tint rains down on her pure white buttocks.
+
+The sight of the emblem on Konomi's waist being stained makes the feeling of deja vu even stronger.
+
+#voice konnu0019
+[Konomi] "Ah... Human-kun's semen is so warm it feels so good... I really like the way his penis releases semen..."
+
+;合流
+#label ext01_01c
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"...Haha, I'm gone."
+
+As a boy, it felt good.
+
+I didn't know that I had such a tendency, but I was able to accept it as if it were completely normal.
+
+On the contrary, my body seemed to remember the actions I had exchanged with Hinata and Konomi.
+
+...It really looks like I'll be able to get my memories back.
+
+The strong-looking girl started getting angry at me, who was attacked by a sense of weakness from my past that I unexpectedly learned about ejaculation.
+
+;CHR I01N L
+#cg イバラ iba_1_01n 左
+#wipe fade
+
+#voice ibanu0009
+[Ibara] "Hey, human! Did you cum before we finished preparing!?"
+
+This child is Ibara...isn't it?
+
+For some reason, I feel like being called ``Ningen'' sounds familiar.
+
+I guess these kids called me human...
+
+;CHR I02N L
+#cg イバラ iba_1_02n 左
+#wipe fade
+
+#voice ibanu0010
+[Ibara] "Hey, human! Are you listening!?"
+
+"Ah, s-sorry..."
+
+Both Ibarra and the other black elf were waiting, completely undressed.
+
+;CHR T10N1 R
+#cg ツキヨ tuk_1_10n1 右
+#wipe fade
+#face f_tuk_0_10n1 94 466
+;TKface
+
+#voice tuknu0008
+[Tsukiyo] "I wanted to..."
+
+"Well, even if you say that..."
+
+Lately, I haven't had much contact with anyone, let alone sex, so if I get stimulated like that, I'm sure it will come out right away.
+
+;CHR I04N L
+#cg イバラ iba_1_04n 左
+#wipe fade
+
+#voice ibanu0011
+[Ibara] "You can still do it!? Let's fight against us too!"
+
+;CHR T06N_L R
+#cg ツキヨ tuk_1_06n_l 右
+#wipe fade
+#face f_tuk_0_06n_l 94 466
+;TKface
+
+#voice tuknu0009
+[Tsukiyo] "W-we? W-we'll do it together...?"
+
+;CHR I05N L
+#cg イバラ iba_1_05n 左
+#wipe fade
+
+#voice ibanu0012
+[Ibara] “You want Tsukiyo too, right?”
+
+;CHR T01N_L R
+#cg ツキヨ tuk_1_01n_l 右
+#wipe fade
+#face f_tuk_0_01n_l 94 466
+;TKface
+
+#voice tuknu0010
+[Tsukiyo] “Yes. Of course.”
+
+#voice ibanu0013
+[Ibara] “Then, Tsukiyo too.”
+
+"Huh? Ah...wait..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara grabbed my things by force.
+
+"Ah, it was...it would hurt if you were rough with it."
+
+;FACE I02N
+#face f_iba_0_02n 94 466
+
+#voice ibanu0014
+[Ibara] "I'm not being rough with you! I'm saying I'll make you feel good!"
+
+
+
+
+;ＥＶ絵――EV077『みんなでエッチ2』差分あり
+;EVCG EV077B1（ツキヨくわえ）
+#cg イベント ev077b1 背景
+#wipe fade
+
+Even though Ibara boasted and said, ``I'll make you feel good,'' he timidly stuck his tongue out on my flesh.
+
+#voice tuknu0011
+[Tsukiyo] "I-I'll do it with you..."
+
+Tsukiyo also sticks out her tongue and licks what I've just reached.
+
+As soon as I saw that disgusting sight, mine regained its strength and stood up firmly.
+
+;ＥＶ絵――EV077『みんなでエッチ2』差分あり
+;EVCG EV077B2（ツキヨくわえ目とじ）
+#cg イベント ev077b2 背景
+#wipe fade
+
+#voice tuknu0012
+[Tsukiyo] "Aha...I'm feeling better."
+
+;ＥＶ絵――EV077『みんなでエッチ2』差分あり
+;EVCG EV077A3（イバラくわえ　汗）
+#cg イベント ev077a3 背景
+#wipe fade
+
+Ibara is timidly licking the rod in shock.
+
+#voice ibanu0015
+[Ibara] "Mmm... Perot... Perot... It smells fishy and weird..."
+
+#voice tuknu0013
+[Tsukiyo] "I like this smell. It's human-san's scent... Nchuru... Pecha..."
+
+;ＥＶ絵――EV077『みんなでエッチ2』差分あり
+;EVCG EV077B3（ツキヨくわえ視線）
+#cg イベント ev077b3 背景
+#wipe fade
+
+Tsukiyo's tongue precisely traces the grooves in the back of his mouth. I can't help it and my hips rise up.
+
+"Ah...that's good, Tsukiyo..."
+
+#voice tuknu0014
+[Tsukiyo] "Hmm... Churu... Does it feel good here?"
+
+;ＥＶ絵――EV077『みんなでエッチ2』差分あり
+;EVCG EV077A2（イバラくわえ）
+#cg イベント ev077a2 背景
+#wipe fade
+
+#voice ibanu0016
+[Ibara] "Why are you always praising Tsukiyo? Chuuu... I can do it with my mouth too!"
+Without fear, Tsukiyo pokes and licks the semen dripping with her tongue.
+
+Ibara just sticks his tongue at the trunk from the side, so it's no wonder that I couldn't help but praise Tsukiyo by name.
+
+"Because it felt good when you licked the tip..."
+
+#cg イベント ev077a3 背景
+#wipe fade
+
+#voice ibanu0017
+[Ibara] "Well, even I can do that! Nmm... Kum... Juru... Chumu... Mogo... Mogomogo... Gumuu... Hoda...?"
+;最後『どうだ？』
+
+Ibara took mine in his mouth from the tip and started sucking it blindly.
+
+Ibara's rough oral service, which is just sucking, is endearing and feels great.
+
+"Yeah... it feels good."
+
+;（喘ぎ）んぐう、ふふふ、ニンゲンのおちんちん口の中でびくびくしてるな。お口でいっちゃってもいいんだぞ。
+#voice ibanu0018
+(gasps) Huh, fufufu, that human's dick is twitching in your mouth. You can say it with your mouth.
+
+[Ibara] “Ngyuu...fufufu...hinfen no ohinhin, kufifohahafebififififelfa...ofhuhifehihyahhh... It's okay..."
+
+#cg イベント ev077a3 背景
+#wipe fade
+
+#voice ibanu0019
+"Ah... it feels so good to talk while you're holding it in your mouth, your tongue rubbing all over the place."
+
+#voice tuknu0015
+[Ibara] "Nfufufu...nkuchu...kuchu...juru...zuzuzu..."
+
+[Tsukiyo] “I want to lick it... Chuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu up up licked me... tssssssssssssssssssssssss.
+
+#voice ibanu0020
+Tsukiyo touched mine from the side, as if kissing Ibara.
+
+[Ibara] “Nppufaa… I can’t help it…”
+
+#cg イベント ev077b1 背景
+#wipe fade
+
+#voice tuknu0016
+Ibara removed his mouth to yield to Tsukiyo.
+
+[Tsukiyo] "Thank you. Jururu... Nukuu... Human-san's penis... Fufu, your mouth feels so good, I like it. Hamyu... Nukuu..."
+
+"Ah……"
+
+;（喘ぎ）ふふ、んん、おいし……ニンゲンさん、きもちいいです？
+#voice tuknu0017
+My double teeth caught slightly, but it wasn't so much that I felt pain, but rather the stimulation seemed to bring out the sweetness of my soft mouth.
+
+[Tsukiyo] "Nmuuu...juuu...juru...fufu...nnnn...oihi...himphenfan...himohiiiresuu?"
+
+#cg イベント ev077b2 背景
+#wipe fade
+
+#voice tuknu0018
+With it in her mouth, Tsukiyo traces Suzuguchi with the tip of her tongue, hooks her lips to the inner muscle, and sucks my cock deliciously.
+
+[Tsukiyo] "Juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu... sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss as as 'yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyssssss assssssssssssssssssssssss...
+
+;（喘ぎ）ふふ、もっと頑張るです（略
+#voice tuknu0019
+"Ah... that's amazing, I feel like I'm going to lose my nerve."
+
+#voice ibanu0021
+[Tsukiyo] "Fufu... Muffu... Fangarefuu... Jurururururu... Chupaa..."
+
+#cg イベント ev077a2 背景
+#wipe fade
+
+;（横合いから奪われ、口からすっぽぬけ後抗議）
+#voice tuknu0020
+[Ibara] "Hmm... Tsukiyo gets praised all the time... It's me too..."
+
+#voice ibanu0022
+(protests after being snatched from Yokoai and slipping completely out of her mouth)
+
+#voice tuknu0021
+[Tsukiyo] "Chupon... ah... Ibara..."
+
+#cg イベント ev077b1 背景
+#wipe fade
+
+;（横合いから奪われ、口からすっぽぬけ後抗議）
+#voice ibanu0023
+[Ibara] "Hum...jubu...juppa...juu"
+
+#cg イベント ev077a1 背景
+#wipe fade
+
+;（横合いから奪われ、口からすっぽぬけ後抗議）
+#voice tuknu0022
+[Tsukiyo] "Mmm... I'll do it more with my mouth..."
+
+;（横合いから奪われ、口からすっぽぬけ後抗議）
+#voice ibanu0024
+(protests after being snatched from Yokoai and slipping completely out of her mouth)
+
+;（横合いから奪われ、口からすっぽぬけ後抗議）
+#voice tuknu0023
+[Ibara] "Juppu...Tsukiyo!?...If that's what you want..."
+
+(protests after being snatched from Yokoai and slipping completely out of her mouth)
+
+[Tsukiyo] "Chupa... ah... well, I got caught again..."
+
+(protests after being snatched from Yokoai and slipping completely out of her mouth)
+
+#voice ibanu0025
+[Ibara] "Chuppu...nggg...I-I can do it better with my mouth!"
+
+#voice tuknu0024
+(protests after being snatched from Yokoai and slipping completely out of her mouth)
+
+#voice ibanu0026
+[Tsukiyo] "Chupa...chupu...don't disturb me..."
+
+#voice tuknu0025
+"Hey, wait a minute, don't fight over each other... it's weird to say we're getting along..."
+
+Ibara and Tsukiyo are fighting over my cock and sucking it like they're pissed off.
+
+#voice ibanu0027
+As a result, the inside of my soft cheeks repeatedly flicked against me, making it feel like only my glans was being tortured endlessly.
+
+#voice tuknu0026
+[Ibara] "Juppu"
+
+#voice ibanu0028
+[Tsukiyo] "Chupa"
+
+#voice tuknu0027
+[Ibara] "Chuppu"
+
+[Tsukiyo] "Jupo"
+
+;ＥＶ絵――EV077『みんなでエッチ2』★待ち　射精差分
+;EVCG EV077A1
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev077a3 背景
+#bg BG07b_1
+#wipe fade 300
+
+"Ah, wait a minute, really...I'm already..."
+
+#voice ibanu0029
+[Ibara] "Jupa"
+
+#voice tuknu0028
+[Tsukiyo] "Jyupu"
+
+#voice ibanu0030
+[Ibara] "Juppu"
+
+#voice tuknu0029
+[Tsukiyo] "Jyupa"
+
+#voice ibanu0031
+"Ah, ah...m-already..."
+
+#voice tuknu0030
+Unwillingly, I reached another climax due to the repeated torture of my glans and the forceful and rough stimulation caused by the competition.
+
+#voice ibanu0032
+[Ibara] "Uh... wow!?"
+
+[Tsukiyo] "Hyaan...!?"
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;FACE I02N
+#face f_iba_0_02n 94 466
+
+#voice ibanu0033
+[Ibara] “Wow!”
+
+[Tsukiyo] "Fluffy... I got a lot of it on my face... Hmm, it smells like Human-san."
+
+;FACE T05N_L
+#face f_tuk_0_05n_l 94 466
+
+#voice tuknu0031
+[Ibara] "Yeah...the human...male scent sticks to me..."
+
+;FACE I02N
+#face f_iba_0_02n 94 466
+
+#voice ibanu0034
+[Tsukiyo] “Ningen-san’s scent fills my heart...”
+
+[Ibara] "Wow...me...me..."
+
+"They both look happy to have it splashed on their faces."
+
+;CHR I11N2 C
+#cg イバラ iba_1_11n2 中
+#wipe fade
+
+#voice ibanu0035
+[Ibara] “What, why are you putting it on your face!”
+
+;FACE K09N1
+#face f_kon_0_09n1 94 466
+
+#voice konnu0020
+Suddenly, Ibara turned red and became angry.
+
+;CHR I04N C
+#cg イバラ iba_1_04n 中
+#wipe fade
+
+#voice ibanu0036
+[Tsukiyo] “I-Ibara, why are you suddenly angry?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+[Ibara] "If you're going to cum, say cum properly! Wow... your face is already dirty... it's dirty, isn't it!?"
+
+;FACE I11F2
+#face f_iba_0_11f2 94 466
+
+#voice ibanu0037
+Punska became angry, and Ibara roughly wiped his face and stood up.
+
+;SE se013 扉のバタン音
+#se 1 se013
+
+"...Do you like being licked, but don't like being licked...?"
+
+[Ibara] “I-I’m sure you don’t like it!”
+
+[Konomi] "It's been a long time since I've done something pleasant with Human-kun, and I was so entranced that I felt embarrassed, right?"
+
+[Ibara] “It’s not like that!”
+
+"Eh...um, where...?"
+
+;CHR H02N1 R
+#cg ヒナタ hin_1_02n1 右
+#wipe fade
+
+#voice hinnu0031
+[Ibara] "I'm going to wash your face! Human semen is dirty!"
+
+;FACE K05N
+#face f_kon_0_05n 94 466
+
+
+#voice konnu0021
+"...It seems like you're being told something terrible like always."
+
+;CHR T06N_L L
+#cg ツキヨ tuk_1_06n_l 左
+#wipe fade
+#face f_tuk_0_06n_l 94 466
+;TKface
+
+#voice tuknu0032
+...Oh, it's still me...?
+
+Immediately, like a sandbag bursting, the memories of Hinata and the others began to overflow from within me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"...Ugh..."
+
+Hinata called out to me with concern as I put my head in my hands.
+
+;CHR H01N1 R
+#cg ヒナタ hin_1_01n1 右
+#wipe fade
+
+#voice hinnu0032
+[Hinata] "What's wrong!? Human-san, do you want to warm up!?"
+
+[Konomi] “Are you okay?”
+
+;CHR T01N L
+#cg ツキヨ tuk_1_01n_l 左
+#wipe fade
+#face f_tuk_0_01n_l 94 466
+;TKface
+
+#voice tuknu0033
+[Tsukiyo] “T-It’s hard…?”
+
+"...No, it's okay. I just remembered everyone."
+
+;CHR H11N R
+#cg ヒナタ hin_1_11n 右
+#wipe fade
+
+#voice hinnu0033
+...I guess he was able to forget about everyone.
+
+;FACE K04N
+#face f_kon_0_04n 94 466
+
+#voice konnu0022
+We spent so many happy days together.
+
+;CHR T04N L
+#cg ツキヨ tuk_1_04n 左
+#wipe fade
+#face f_tuk_0_04n 94 466
+;TKface
+
+#voice tuknu0034
+[Hinata] “Did you think about Hinata and the others!?”
+
+"Ahh……"
+
+#voice tuknu0035
+[Tsukiyo] "...I'm happy. It's been a while."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV078『みんなでエッチ3』★待ち　差分あり
+;EVCG EV078A1
+#cg イベント ev078a1 背景
+#wipe fade
+
+#voice konnu0023
+"It's been a while. How have you been? Have you gotten along well?"
+
+#voice tuknu0036
+[Hinata] "We were good friends! But I was lonely without Human-san!"
+
+#voice hinnu0034
+[Konomi] "We all came out again because we knew the barrier could be broken. This time, we all made a promise and came out."
+
+#voice konnu0024
+[Tsukiyo] “I was sure that Human-san would be back here too.”
+
+“Is that why you all got tired of waiting and fell asleep?”
+
+#voice tuknu0037
+[Tsukiyo] “This hut and the blanket both smelled like Human.”
+
+[Konomi] "More than that. If you've taken the trouble to remember me, let's continue. Let's do something that feels good with us."
+
+#voice tuknu0038
+[Tsukiyo] “Would you like to do something that feels good?”
+
+[Hinata] "Hinata too! I want Hinata to do more!"
+
+#voice hinnu0035
+[Konomi] “Look, you can put it anywhere you like, Human-kun, okay?”
+
+"Okay, then...I'll take your turn, so Tsukiyo loosen up yourself and get ready."
+
+#cg イベント ev078b1 背景
+#wipe fade
+
+#voice hinnu0036
+[Tsukiyo] “Do you want to prepare?”
+
+"Hinata and Konomi were brought in earlier, so they'll probably be able to join soon, but wouldn't it be painful if they were brought in all of a sudden?"
+
+#cg イベント ev078b2 背景
+#wipe fade
+
+#voice hinnu0037
+[Tsukiyo] "Yes, yes... Hmm... Tsukiyo's here, spread it yourself... Hmm... I'll prepare it."
+
+#voice konnu0025
+"Then, just like before, I'll start with Hinata."
+
+[Hinata] "Wow! Do it!"
+
+#voice tuknu0039
+I approached Hinata and hugged her legs.
+
+#voice hinnu0038
+[Hinata] "It's so thick and hard, it's coming in...Ahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+
+“Ah, hooray!”
+
+#cg イベント ev078b3 背景
+#wipe fade
+
+[Hinata] "Hiyawaaan! Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+
+[Konomi] "It's amazing, it's so intense. Hinata's butt looks like it's going to roll over."
+
+#voice konnu0026
+"Fuuuuuuck!"
+
+#voice hinnu0039
+[Tsukiyo] "It's thick...it's going in and out....I want it to happen quickly..."
+
+#voice tuknu0040
+[Hinata] "Naka... it's so uncomfortable... it's rubbing so much... nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngggggggg... ahhh... t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-for-t-t-t-f-f-t-for-t-t-t-f-f-t-t-f-f- fort…ttt...
+
+When he thrust hard, Hinata's body trembled.
+
+#cg イベント ev078c1 背景
+#wipe fade
+
+#voice konnu0027
+Although he didn't ejaculate, he seemed to have had a light orgasm.
+
+"Then next is Konomi."
+
+[Konomi] “Yeah, I’ve been waiting.”
+
+#voice konnu0028
+[Hinata] “Fnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+
+[Tsukiyo] "It's your turn."
+
+#voice hinnu0040
+This time, he grabbed Konomi's legs and penetrated her at once.
+
+#voice tuknu0041
+[Konomi] “Naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+
+#voice konnu0029
+My fingers sink softly into Konomi's relatively fleshy butt.
+
+Move your hips all the way to the back and move as if gouging the deep part.
+
+[Konomi] "Ah... Human-kun's penis is reaching all the way to the back... Aaaaaan... Kuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu‾uuuuuuuuuuu‾uuuuuuuuu‾uuuuuuuuu‾uuuuuuuuuuuuuuuuu. are.... Human-kun's penis is reaching all the way to the back of me‾..
+
+Thanks to Konomi moving her hips herself, the intensity of her movements only increases.
+
+#voice konnu0030
+[Hinata] "Wow... it's so moving..."
+
+#voice tuknu0042
+[Tsukiyo] "It's so intense... it's making so many naughty sounds... goggle"
+
+#voice hinnu0041
+[Konomi] "Yeah, yeah... I mean, Human-kun feels so good... Ah... I can't stop moving."
+
+#cg イベント ev078c2 背景
+#wipe fade
+
+#voice konnu0031
+Konomi's dick firmly bites into me as if she won't let go, squeezing me from the base to the tip.
+
+However, the soft and hot part inside her is sticky and entwined with the cock that is violently squeezed at her entrance.
+
+#cg イベント ev078c3 背景
+#wipe fade
+
+#voice konnu0032
+"This place in Konomi... it feels really good."
+
+[Konomi] "Yes, because I've always wanted you to do it. Aaaan... haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan...
+
+[Tsukiyo] “I want you to replace me quickly.”
+
+#voice tuknu0043
+[Hinata] “Hinata, I want you to do it again.”
+
+[Konomi] "Hehehe... I'm the one who's doing this right now, right? Hmm... I like it when you're being kneaded inside my stomach... and I'm being pushed hard... …”
+
+#cg イベント ev078d1 背景
+#wipe fade
+
+#voice tuknu0044
+While kneading her buttocks, like when kneading dough, I put my hips in and push it deeper and deeper into her. The soft inside kneads my tip.
+
+#voice konnu0033
+[Konomi] "Ah... that's... good... I'm about to twitch, but the grinding presses me down... ahhh... it won't come out, but it's going to come out..."
+
+#voice hinnu0042
+Konomi didn't ejaculate either, but she twitched and arched her body back.
+
+#voice tuknu0045
+"Well then, it's finally Tsukiyo."
+
+[Tsukiyo] "Yes...I'm ready..."
+
+#cg イベント ev078d2 背景
+#wipe fade
+
+#voice tuknu0046
+Slowly he sinks his glans into the hole in his ass that Tsukiyo had prepared for him to play with.
+
+#voice konnu0034
+[Tsukiyo] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+#voice hinnu0043
+[Konomi] "Tsukiyo, you're jiggling‾"
+
+#voice tuknu0047
+[Hinata] "I'm sure I want you to go to bed soon."
+
+[Tsukiyo] "Yes, please. Please put it all the way inside...quickly...aaaan...come in...it's here...!"
+
+#voice tuknu0048
+When I inserted it all the way inside and slowly began to pull it out, I could feel that Tsukiyo's insides were also getting really hot.
+
+[Tsukiyo] "Mmm, ah, ah, ah, ah, it feels so good... ah... I wanted you to do it for a long time... hmmm... kyun... kuuuun..."
+
+;SE se013 扉のバタン音
+#se 1 se013
+
+[Konomi] "That's nice, Tsukiyo. It feels really good."
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibanu0038
+[Hinata] "Yeah, yeah. Looks like the dog is missing."
+
+#voice konnu0035
+[Tsukiyo] "Because... it feels so good... I can't stand the voice... Haha, han, kufuun, nnyu... hafun... ananan..."
+
+"You don't have to hold back. Hinata and Konomi both had nice voices, right?"
+
+[Tsukiyo] "Yes, yes... Aaan... Anh... Anh... I'm being penetrated deep inside... I'm going to make a sound... Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan..."
+
+#voice hinnu0044
+I was pulling out from both Hinata and Konomi at the height of my climax, and I was about to reach my climax inside Tsukiyo.
+
+Just then, the door opened and Ibara came back and screamed.
+
+[Ibara] "Ah! Why are you all doing this while I'm out!?"
+
+;ＥＶ絵――EV078『みんなでエッチ3』★待ち　差分ありニンゲン射精
+;EVCG EV078A1
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev078e1 背景
+#bg BG07b_1
+#wipe fade 300
+
+[Konomi] "Oh... Ibara, you're back."
+
+#voice tuknu0049
+"Ah, sorry. I... already..."
+
+#voice konnu0036
+For a moment I thought it was bad for Ibara, but I couldn't stop it anymore.
+
+#voice hinnu0045
+[Hinata] "Are you going to cum!? Are you going to cum!? Are you going to cum, human!?"
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibanu0039
+"Ah yes, I'm cumming..."
+
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibanu0040
+When I pulled it out from inside Tsukiyo, the stimulation reached me and I was forced to cum all over the three men's butts.
+
+Dopupyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+[Tsukiyo] "Hyafu... it's so hot on my butt... it's going to burn me..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T09N L
+#cg ツキヨ tuk_1_09n 左
+#wipe fade
+#face f_tuk_0_09n 94 466
+;TKface
+
+#voice tuknu0050
+[Konomi] "Aha...this time, I'm going to pour it on everyone's butts."
+
+;CHR H08N1 R
+#cg ヒナタ hin_1_08n1 右
+#wipe fade
+
+#voice hinnu0046
+[Hinata] “We all smell like Human-san.”
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibanu0041
+[Ibara] “I’m the only one left out!”
+
+;CHR H03N1 R
+#cg ヒナタ hin_1_03n1 右
+#wipe fade
+
+#voice hinnu0047
+[Ibara] "H-That's terrible, humans! T-I'm next!"
+
+;FACE K02N1
+#face f_kon_0_02n1 94 466
+
+#voice konnu0037
+"Wait a minute, you've already ejaculated three times. Just give me a break."
+
+I feel bad for Ibara, but he doesn't have the strength anymore.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+[Tsukiyo] “I haven’t cum yet.”
+
+[Hinata] “Hinata hasn’t gotten bored yet either?”
+
+[Ibara] "H-Hinata was allowed in at the beginning, right? I haven't been allowed in even once!?"
+
+;以下のＥＶ絵イバラが全裸なら全裸指定にする★
+;CHR I11N2 C
+#cg イバラ iba_1_11n2 中
+#wipe fade
+
+#voice ibanu0042
+[Hinata] "Hunyuu... But, Hinata also wants to hide it!? Humans are all sneaky!?"
+
+[Konomi] “I guess I’m still a little unsatisfied, too.”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV079『誰でもいいんだろ！』★未確認　差分不明
+;EVCG EV079A1
+#cg イベント ev079a1 背景
+#wipe fade
+
+#voice hinnu0048
+"I-I'm not a man."
+
+#voice tuknu0051
+But I really can't do it anymore.
+
+Suddenly being squeezed out of me so much, I fell to the ground, breathless.
+
+#voice ibanu0043
+...Even though it's been a while, it was a little too much.
+
+;FACE K03N
+#face f_kon_0_03n 94 466
+
+#voice konnu0038
+[Ibara] "If you just want to ejaculate, it doesn't matter who you are! I want to be a human!"
+
+Ibara said as he kicked the young stems of Hinata and Tsukiyo who were sitting down.
+
+#cg イベント ev079b1 背景
+#wipe fade
+
+#voice ibanu0044
+[Hinata] “Hyan!?”
+
+[Tsukiyo] “Hawa!?”
+
+#voice hinnu0049
+"It's terrible to suddenly step on it with your foot."
+
+#voice tuknu0052
+[Ibara] "What's so bad? Don't you guys like being fucked with my feet? Hinata and Tsukiyo are just making you feel good with my feet."
+
+#voice ibanu0045
+[Konomi] “Hmm, Human-kun, I also liked being touched by your feet. Do you also like being bullied?”
+
+“N-no… it’s not like that…”
+
+#cg イベント ev079c1 背景
+#wipe fade
+
+#voice hinnu0050
+[Ibara] "Here, here, here, here! My dick is twisting under the sole of my foot... it's getting harder and harder... it's so ticklish..."
+
+#voice tuknu0053
+Hinata and Tsukiyo's penises, which had withered in surprise, stood up as Ibara's soles pushed up.
+
+#voice ibanu0046
+[Hinata] "Ah...meow...amazing...the back of the thorny feet...it's so soft...it feels so...sigh...sigh..."
+
+;FACE K04N
+#face f_kon_0_04n 94 466
+
+#voice konnu0039
+[Tsukiyo] “Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[Ibara] "Isn't that so? When I stepped on my feet, my human even started cumming with a pleasant sound!"
+
+Uh, wow... it's embarrassing to have your sexuality revealed.
+
+[Hinata] "Hakyuun... it's nice to be touched with your hands... but it's also nice to be touched with your feet... it feels so good to be touched with your feet... haa..."
+
+;FACE K02N1
+#face f_kon_0_02n1 94 466
+
+#voice konnu0040
+[Tsukiyo] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”
+
+;FACE K09N1
+#face f_kon_0_09n1 94 466
+
+#voice konnu0041
+[Ibara] "Hmph, both Hinata and Tsukiyo look like they're feeling good... haha... A lot of nice juices are coming out of their erect penises... My legs are running hot..."
+
+[Konomi] “Wow, all three of you seem to be feeling good.”
+
+"Ah, ah..."
+
+;FACE K04N
+#face f_kon_0_04n 94 466
+
+#voice konnu0042
+My throat cleared.
+
+You can't help but stare at the lewd lewd behavior unfolding in front of your eyes.
+
+;FACE K01N1B
+#face f_kon_0_01n1b 94 466
+
+#voice konnu0043
+[Konomi] "Ah...Hinata's penis bounced energetically. Tsukiyo's dick was also being kneaded and her chin was lifting."
+
+[Konomi] "Hehe... Ibara is also obsessed with stepping on Hinata and Tsukiyo's dicks. I'm starting to want to join them too."
+		
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+;コノミ、イバラ全裸であってる？★
+
+;CHR K05N R
+#cg コノミ kon_1_05n 右
+#wipe fade
+
+#voice konnu0044
+While saying that, Konomi poked my cock.
+
+;CHR I02N L
+#cg イバラ iba_1_02n 左
+#wipe fade
+
+#voice ibanu0047
+“Aaaaaaaaaaaaaaaa, what are you doing!?”
+
+;CHR K04N R
+#cg コノミ kon_1_04n 右
+#wipe fade
+
+#voice konnu0045
+[Konomi] "Does Human-kun still want to take a break? He's getting harder and bigger, but he doesn't feel like he's still standing."
+
+;CHR I08N L
+#cg イバラ iba_1_08n 左
+#wipe fade
+
+#voice ibanu0048
+"I-I guess...I'm excited to see a scene like this, but I've already ejaculated three times in a short amount of time, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE K01N1B
+#face f_kon_0_01n1b 94 466
+
+#voice konnu0046
+[Konomi] "Okay, well then, I'll help you until Human-kun is ready, okay?"
+
+Konomi said happily as she approached the three of them.
+
+;FACE I04N
+#face f_iba_0_04n 94 466
+
+#voice ibanu0049
+[Konomi] "Even though everyone looks so good‾Ningen-kun, you haven't gotten an erection yet‾?I don't think you can do it anymore‾"
+
+;FACE K01N1A
+#face f_kon_0_01n1a 94 466
+
+#voice konnu0047
+[Ibara] “I-I haven’t asked you to do it yet!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+
+;ＥＶ絵――EV080『仲良くする方が気持ちいいよ』★未確認
+;EVCG EV080A1
+#cg イベント ev080a1 背景
+#wipe fade
+
+[Konomi] "Ibara is a bit of a nuisance now. I think it would be better if we all felt better than being angry."
+
+#voice konnu0048
+[Ibara] "Ah... yay... what are you doing..."
+
+#voice ibanu0050
+[Konomi] "Next time when you want to do something human-kun, Ibara will be the best choice, right? Well then, let's prepare before then."
+
+#voice hinnu0051
+Konomi got behind Ibara and grabbed him tightly, as if putting a chokehold on him.
+
+#cg イベント ev080a2 背景
+#wipe fade
+
+#voice ibanu0051
+[Ibara] "Nnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa possible my s- Konomi? What are you doing!?"
+
+#voice konnu0049
+[Konomi] "Hmm? I was thinking of having you join me too."
+
+#voice ibanu0052
+The flea has inserted its young stems into the brambles.
+
+#voice konnu0050
+[Konomi] “Ahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, since Human-kun’s big one will fit in there, if it’s mine, I’ll fit in it too.”
+
+#voice tuknu0054
+[Ibara] "Ya... what should I put in now...?"
+
+#voice konnu0051
+[Hinata] "Oh!? That's amazing! Konomi's dick is in Ibara's butt!?"
+
+#voice tuknu0055
+[Ibara] "Konomi's penis!? Soft!? W-why!?"
+
+#cg イベント ev080b1 背景
+#wipe fade
+
+#voice ibanu0053
+[Konomi] "Ah, look... it feels good when you get wild... I may not be able to do it as well as Human-kun, but I'll make Ibara feel good."
+
+#voice konnu0052
+[Ibara] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+#voice ibanu0054
+[Konomi] "I mean, it feels good if you put it inside the brambles, right? Hey, Tsukiyo. I don't know if I can do it well on my own, so please help me..."
+
+;FACE H04N2
+#face f_hin_0_04n2 94 466
+
+#voice hinnu0052
+[Tsukiyo] “Can you help me?”
+
+[Konomi] "Yes, I'll help you...can you lick and touch Ibara to make him feel better?"
+
+[Tsukiyo] "Okay... I understand. Hmm... Chupu... Chupa... Pero... Pero..."
+
+[Ibara] "Ya... ah... I don't need that... it's fine..."
+
+#cg イベント ev080b2 背景
+#wipe fade
+
+#voice ibanu0055
+[Konomi] "There's no need to hold back‾? Because, Ibara, Human-kun hasn't asked me in yet...I'll do my best in Human-kun's place..."
+
+#voice konnu0053
+[Ibara] "Aaah... I can't keep stirring it inside... Even Konomi's dick makes me feel so good‾"
+
+#voice tuknu0056
+[Hinata] "Wow...Konomijouzu...He's moving like a human..."
+
+#voice tuknu0057
+"Am I like that...?"
+
+#voice ibanu0056
+The interaction between Konomi and Ibara looks more like a game of fun than sexual intercourse.
+
+#voice konnu0054
+Combined with Tsukiyo's participation, it feels like small animals playing and having fun.
+
+#voice ibanu0057
+[Ibara] "Aaah... I... I wanted you to treat me like a human!? Aah... But Konomi's dick feels so good..."
+
+#voice ibanu0058
+[Konomi] "Fufufu‾, it's so...hah...don't tighten it...me too...it'll feel good, right?"
+
+#voice konnu0055
+[Tsukiyo] “Aaaaaaaaaaaaaaaaaaaaaaaah, Konomi’s penis is moving in and out of Ibara… Ibara’s penis is also twitching in a pleasant way…”
+
+#voice ibanu0059
+[Tsukiyo] "Hmm...chuuu...Ningen-san, you reminded me of Tsukiyo and the others...I was so happy that you did it first...I'm sorry."
+
+[Ibara] "...Aaa, I-Is that so...? Humans, you remember us... Haa... Haa..."
+
+#voice konnu0056
+[Konomi] "Yes, that's right...sigh... it seems like Ibara has helped me remember it... yeah... yeah... it feels so good to put it in too...sigh..."
+
+;ＥＶ絵――EV080『仲良くする方が気持ちいいよ』★差分あれば入れる
+;EVCG EV080A1
+;SE se024 射精音2（エルフ）
+#se 1 se024
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev080a3 背景
+#bg BG07b_1
+#wipe fade 300
+
+#voice ibanu0060
+[Ibara] "Aaan... I see... Thanks to me... Anh... Anh... Don't lick me while your butt is being stirred... Aah..."
+
+;SE se024 射精音2（エルフ）
+#se 1 se024
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev080b2 背景
+#bg BG07b_1
+#wipe fade 300
+
+#voice tuknu0058
+[Ibara] "It feels good everywhere...I...I don't know what's going on...Ah..."
+
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+;立ち絵ヌードでいいのか確認★
+
+;FACE H01N2
+#face f_hin_0_01n2 94 466
+
+#voice hinnu0053
+[Konomi] "I...I've already...so many times...I've come without ejaculating...I-I feel like I'm about to come out...inside the thorns...it feels so good..."
+
+[Ibara] "I-I've been stirring up my insides for a while now... I'm being licked by Tsukiyo, and humans are watching me... I'm already melting... ah..."
+
+Perhaps because they were exposed to the heat that was already filling this hut, both Konomi's and Ibara's voices became urgent and high-pitched.
+
+;CHR T04N C
+#cg ツキヨ tuk_1_04n 中
+#wipe fade
+#face f_tuk_0_04n 94 466
+;TKface
+
+#voice tuknu0059
+[Konomi] "Ah... then... I'm going to cum already‾? Ha... ha... ha... ha... ha... huh... kuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu... Uuuuuuu...”
+
+[Ibara] “Nnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H03N1 C
+#cg ヒナタ hin_1_03n1 中
+#wipe fade
+
+#voice hinnu0054
+[Tsukiyo] "Fuwawawa... Ibara and Konomi are both pissed... It seems like it feels good..."
+
+[Hinata] "Wow... Ibara and Konomi both looked disgusting."
+
+"Ah, that's right..."
+
+;CHR H02N1 C
+#cg ヒナタ hin_1_02n1 中
+#wipe fade
+
+#voice hinnu0055
+In front of Konomi and Ibara lying exhausted from ejaculation, Tsukiyo, who was completely covered in Ibara's ejaculation, was wiping her face with her arm.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+[Tsukiyo] "Wow... it took a lot... Ibara's Se-eki was also hot..."
+
+;CHR T09N C
+#cg ツキヨ tuk_1_09n 中
+#wipe fade
+#face f_tuk_0_09n 94 466
+;TKface
+
+#voice tuknu0060
+There's something about his face that is mesmerizing.
+
+[Hinata] "Hey, human-san? Hinata would like to talk too?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01N1 C
+#cg ヒナタ hin_1_01n1 中
+#wipe fade
+
+#voice hinnu0056
+Hinata seems to have been completely exposed to the lascivious atmosphere, and cries out in a sweet voice.
+
+;FACE T01N_L
+#face f_tuk_0_01n_l 94 466
+
+#voice tuknu0061
+"I...I-I can't do it anymore today..."
+
+[Hinata] "Please don't say that."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo, who was being jerked off by Ibara's legs and was watching Konomi and Ibara's lewd behavior up close, seemed excited and came closer to me.
+
+;CHR H04N C
+#cg ヒナタ hin_1_04n1 中
+#wipe fade
+
+#voice ibanu0061
+[Tsukiyo] "I want you to..."
+
+;FACE K03N
+#face f_kon_0_03n 94 466
+
+#voice konnu0057
+"Uh, wow...wait a minute. Let me rest a little longer..."
+
+[Hinata] "How much longer is it? Enough to count all the time? Or even more?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+[Tsukiyo] "I'll count to 100...I'll wait for you, so if I wait, will you do it for me?"
+
+;CHR H06N1 R
+#cg ヒナタ hin_1_06n1 右
+#wipe fade
+
+#voice hinnu0057
+"Um...I guess I need more time...I don't know..."
+
+;CHR T01N_L L
+#cg ツキヨ tuk_1_01n_l 左
+#wipe fade
+#face f_tuk_0_01n_l 94 466
+;TKface
+
+#voice tuknu0062
+Ibara, who was exhausted, looked at Hinata and Tsukiyo who were approaching me, and attacked me.
+
+[Ibara] "Ah!? That's why Hinata is so sneaky! I haven't been turned into a human yet!"
+
+;FACE I05N
+#face f_iba_0_05n 94 466
+
+#voice ibanu0062
+[Konomi] “I worked hard, so I think it would be nice if you rewarded me.”
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR K05N R
+#cg コノミ kon_1_05N 右
+#wipe fade
+
+#voice konnu0058
+"I don't want to do it, but...I need physical strength...and...I don't feel like it..."
+
+I half-smile as I point to the place where I was completely intimidated by everyone's pressure on me at once.
+
+;CHR T04N L
+#cg ツキヨ tuk_1_04N 左
+#wipe fade
+#face f_tuk_0_04N 94 466
+;TKface
+
+#voice tuknu0063
+[Hinata] "Oh... it's so small."
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR H07N R
+#cg ヒナタ hin_1_07N 右
+#wipe fade
+
+#voice hinnu0058
+[Tsukiyo] “This is the first time I’ve seen such a cute human being.”
+
+;FACE K01N1A
+#face f_kon_0_01n1a 94 466
+
+#voice konnu0059
+"Well, that's why..."
+
+;CHR OFF
+#cg ツキヨ clear
+#wipe fade
+
+;CHR I11N2 L
+#cg イバラ iba_1_11N2 左
+#wipe fade
+#voice ibanu0063
+[Ibara] "Even if you haven't gotten any bigger, you're still bigger than us."
+
+[Konomi] “If you can do it when you get older, I think you should grow up.”
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+"eh!?"
+
+[Tsukiyo] "Then I'll make you big with your mouth."
+
+;CHR H01N1 R
+#cg ヒナタ hin_1_01N1 右
+#wipe fade
+
+#voice hinnu0059
+[Hinata] "It's so good when you lick me too."
+
+;CHR K04N L
+#cg コノミ kon_1_04N 左
+#wipe fade
+#voice konnu0060
+[Konomi] “Surprisingly, your fingers also feel good.”
+
+;CHR OFF 
+#cg ヒナタ clear
+#wipe fade
+
+;CHR T10N2 R
+#cg ツキヨ tuk_1_10N2 右
+#wipe fade
+#face f_tuk_0_10N2 94 466
+;TKface
+#voice tuknu0064
+[Ibara] "Okay, then...I'll lick your feet."
+
+;CHR OFF 
+#cg コノミ clear
+#wipe fade
+
+;CHR I02N L
+#cg イバラ iba_1_02N 左
+#wipe fade
+#voice ibanu0064
+"Ah!? I-Is that so!?"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+They all cling to me, running their lips all over my body and rubbing me.
+
+"It feels good...but...but...I feel like I'm being violated!?"
+
+[Hinata] "Ah... Human-san is getting bigger."
+
+;背景空にする？（角）
+;以降はFACEにするか
+
+;背景：空（昼）
+;BG BG15_1
+#cg all clear
+#bg BG15_1
+#wipe fade
+
+;FACE I05N
+#face f_iba_0_05n 94 466
+
+#voice ibanu0065
+[Konomi] "Nfufu‾, Human-kun's body... it's salty everywhere... Thuu... it's delicious‾"
+
+;FACE T04N
+#face f_tuk_0_04n 94 466
+
+#voice tuknu0065
+[Tsukiyo] “I want Human-san to feel more comfortable...”
+
+;FACE K01N1B
+#face f_kon_0_01n1b 94 466
+
+#voice konnu0061
+[Ibara] "I'm not enough! I'm the next best!"
+
+;FACE H08N1
+#face f_hin_0_08n1 94 466
+
+#voice hinnu0060
+...Oh, God. Am I destined to be squeezed out and dried up?
+
+;SMODE 066 STOP
+#endscene
+
+;タイトルへ
+
+;※エンド表示
+;BG:BG75_1
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg75_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

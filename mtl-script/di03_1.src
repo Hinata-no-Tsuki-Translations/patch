@@ -1,0 +1,794 @@
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG42_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg42_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0153
+[Ibara] "Aren't you going to put dumplings in your soup today too? I could have helped out."
+
+"Ah, yeah. There's no powder."
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0154
+[Ibara] "I see. It's fun to mix it up, roll it up, and drop it in hot water. Why don't you go buy some powder?"
+
+"Yeah. I don't want to go to the village right now."
+
+I often mix the powder with water and add it to a soup made with stewed greens because it fills my stomach easily.
+
+But I just can't bring myself to do it. Because I don't feel like going out to buy powder for that purpose.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0155
+[Ibara] "You haven't been eating Mentei lately, have you? I don't think the reason why I don't eat salted meat is because it doesn't stink."
+
+"That's right. You can't get it unless you go to the village."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0156
+[Ibara] "I don't think it's my fault for putting something sweet on the noodles, but salted meat stinks... you don't have to get it anymore."
+
+"..."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0157
+[Ibara] "I see. Eating fruits, roots, and leaves doesn't stink, so you can do that the whole time you're with me!"
+
+"Okay. Let's do that."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0158
+[Ibara] "Actually, it would be best for humans to be able to live without taking the lives of others. I guess it can't be helped since they are lowly human beings."
+
+"Yeah, that's right."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0159
+[Ibara] “…Ningen?”
+
+I actually don't have much of an appetite.
+
+Despite what I said, I probably had a certain amount of trust in the people in the village.
+
+But the fact that the villagers broke into my house means that they betrayed my trust.
+
+In this state of mind, whatever I ate was like chewing sand and tasteless.
+
+So I don't feel like eating anything.
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0160
+[Ibara] "Hey, it's been simmering for a while now, but can't you do it yet? Everything I put in has already boiled down."
+
+"Ah, ah...yeah. It's almost done, I guess."
+
+The vegetables that had been stirred in the pot turned to mush after being boiled down.
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0161
+[Ibara] "If you can do it, you should eat it quickly!! Eat it quickly!"
+
+"Ah...I see..."
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（昼）
+;BG:BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+I couldn't handle it, so I thought I had to put something in my mouth, so I made some soup with whatever I had, but after about two mouthfuls, I was already too lazy to eat it.
+
+I wish I had cooked it so much that I didn't have to chew it...
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0162
+[Ibara] "What's the matter, are you already full? Don't humans lose their energy when they're hungry?"
+
+"...Yeah, that's enough."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0163
+[Ibara] "Is Human being asleep today too? Do I have to go and investigate him today?"
+
+Ibara is wandering around me restlessly.
+
+I've been stuck at home for the past few days, so I guess I'm bored.
+
+"...That's right, let's go somewhere."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0164
+[Ibara] "In that case, I'll go get some fruits and flowers! I'm sure humans will feel better when they see how beautiful they are!"
+
+...I guess he was worried about me in his own way.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0165
+[Ibara] "Come on, let's go! Come on, hurry up!"
+
+If that's the case, I have to cheer myself up, even if it means forcing myself a little.
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+#voice ibac0166
+[Ibara] "Why can't I bring it with me even though it's important!? It would be even better if I could listen to that beautiful sound while looking at something beautiful!"
+
+The thorns were probably just out of anger, as they tore at random tree branches and grass along the way.
+
+“Ah, if you tear it off so violently, the branch will be damaged.”
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0167
+[Ibara] “It’s noisy!”
+
+Ibara wanted to bring it, but Ibara keeps getting beat up because I left Jimeikoto behind.
+
+That's why I don't think it's a good idea to attack innocent plants.
+
+"It'll get in the way when you're picking fruits and flowers, right? What if you forget it somewhere?"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0168
+[Ibara] "I'm not going to get in the way, unlike those stupid humans, I'm not forgetful!! If I don't have it, it's fine for humans to have it."
+
+"Don't be so reckless..."
+
+Lie. When I get absorbed in something, I forget even what I'm holding in my hand.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0169
+[Ibara] "Pupuuu! Muuu..."
+
+He has some good points, but Ibara is quite moody...
+
+It's fine when I'm in good spirits, but now that I'm depressed, it's hard to be pushed around.
+
+"...phew"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0170
+[Ibara] "Are you sick!? Are you sure you're not feeling well?"
+
+But... she's not a bad girl.
+
+"Are you okay"
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibac0171
+[Ibara] "...I'll do this, so eat. Then you can rest."
+
+Ibara pushed the crenai fleas he had collected onto me.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0172
+[Ibara] "...I'll collect what I'm going to sell, so eat the humans! Humans can't get healthy unless they take the lives of others, right?"
+
+"Ah...yeah..."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0173
+[Ibara] "Maybe I haven't had much energy lately because I haven't eaten much! Wait for me. I'll collect as many things as I can!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara turned around and ran away.
+
+The jewelry she wears makes a cool sound as the thorns take their steps.
+
+He's not a bad kid, on the contrary, he's a really good kid.
+
+"Sweet and delicious, huh..."
+
+I closed my eyes while gratefully bringing the Kurenainomi to my mouth.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+I heard the sound of metal singing in my ears.
+
+Before I knew it, Ibara was peering at me from close up.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0174
+[Ibara] "What, are you sleeping?! While I was collecting fruit!"
+
+"...Sorry, I was dozing off."
+
+I thought that Ibara might have told me that it was okay to take a break, but I didn't say it out loud.
+
+Reason doesn't work against thorns.
+
+At my feet were some fruits, flowers, nuts, mushrooms, and leaves.
+
+...I guess I got tired of collecting fruits along the way.
+
+In a sense, it's as expected.
+
+It's not enough to go out of your way to sell, but it's enough for tonight's dinner.
+
+“Did Ibara bring this for you?”
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0175
+[Ibara] "That's right! That mushroom has a weird shape, right?"
+
+Ibara proudly puffs out his chest.
+
+“So, should I take this?”
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0176
+[Ibara] "Of course. That's why I brought it!"
+
+His condescending tone was so cute that I couldn't help but smile.
+
+I guess I can't help but want to be praised.
+
+"That's amazing, you managed to get a lot. That's helpful."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0177
+[Ibara] "Yeah, yeah. You can thank me even more!"
+
+"Thank you, I appreciate it."
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibac0178
+[Ibara] "Ehehe...ehehehe..."
+
+Even though I told him to thank me, Ibara twisted around in embarrassment.
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0179
+[Ibara] “So, are you going to take this to the village and sell it?”
+
+"...Yeah, what should I do?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Putting aside the fact that there wasn't enough to sell, I took a deep breath.
+
+No matter what we do, the closest village to us is our hometown, and we have no choice but to rely on the village for whatever we need, whether it's flour, salt, cloth, or paper.
+
+If it's just a temporary whim, it would be unreasonable to live completely disconnected from the village.
+
+Problems that I didn't notice when I first thought of moving to a mountain hut are now clearly evident.
+
+If you want to live completely without depending on the village, you will have to go to town or move to another village.
+
+It was obvious now that the entire village had been robbed that I had been made fun of by the people in the village, and that there was probably no one who would take my side.
+
+However, even if I moved to another village now, I wonder if they would accept me there.
+
+No matter where you move, you won't be able to be accepted and you'll just end up in a similar situation again.
+
+I heard a cool sound and looked up.
+
+Ibara tilted her head sadly.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0180
+[Ibara] "You're with me. Wouldn't it be better if it wasn't me?"
+
+"Huh? Why?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0181
+[Ibara] "When Hinata and the others were around, humans were laughing more happily."
+
+"...I'm sorry. It's not Ibara's fault for thinking about it. It's just a little..."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0182
+[Ibara] "I see... Okay. I'll look for something more."
+
+Ibara turned his back to me again, looking not at all convinced.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Sharan sharan sharan
+Sharan sharan sharan
+
+The sound of the receding sound was as if the thorns were insisting that they were here.
+
+"...It's gone. It's not really Ibara's fault."
+
+Ibara must be worried because he is often lost in thought even when he is with her.
+
+There's nothing to be anxious about.
+
+I'm so grateful just for you to be by my side. Even now, if Ibarra wasn't by my side, I'm sure I would be even more depressed.
+
+...I think it would be better to wait for the full moon and return Ibara to the elf realm.
+
+No matter how much Ibara adores me, I can't live as long as Ibara because I'm human.
+
+In that case, Ibara should return to the elf world.
+
+If I leave him in this world like this, Ibara will eventually be left all alone.
+
+Ibara is so lonely.
+
+I'll return Ibara to the elves, but what should I do after the full moon passes?
+
+Since I have no intention of returning to the village, I wonder if I should go further away.
+
+Far, far away, so far away that I don't even have to remember home.
+
+If you're afraid of belonging somewhere, you can also become a traveler.
+
+Without settling down, they continue their wanderings and die somewhere far away.
+
+But if that happens, when the next lunar eclipse occurs, even if the border with the elf world breaks down again, I won't be able to meet Ibara.
+
+If you knew from the beginning when a lunar eclipse would occur, you might be able to come back just then, but unlike the phases of the moon, you don't know when a lunar eclipse will occur.
+
+Or are there some rules for lunar eclipses?
+
+;立ち絵なし
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibac0183
+[Ibara] “Umnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!?”
+
+"Huh!?"
+
+While I was lost in thought, Ibara's scream suddenly echoed.
+
+“W-what happened to Ibara!?”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibac0184
+[Ibara] "Let go! It's a monster! Help me, human!?"
+
+“Baba-ba, a monster!?”
+
+I hurriedly pushed through the bushes, searching for the brambles.
+
+;ＥＶ絵――EV???『イバラ触手に襲われる』
+;EVCG EV045A1
+;#face off
+
+;SMODE 041 PLAY 
+#label replay041
+#setscene 39
+#bg BG04_1
+
+#cg イベント ev045a1 背景
+#wipe fade
+
+#voice ibac0185
+[Ibara] "Wow! Tentacles! The tentacles grabbed me!"
+
+"Tentacles!? Wait! Help me now...!? Gyaa!?"
+
+Perhaps because the tentacles have already caught Ibara, they are moving as if to keep me from getting close.
+
+"S-Tentacles!? Um, um, should I treat them the same way as slimes?"
+
+#voice ibac0186
+[Ibara] “I-I don’t know!?”
+
+“Fire, fire!? Wait a minute!?”
+
+I panicked and tried to light a fire, but...
+
+"It's hot...!?"
+
+Perhaps the tentacles had a certain level of intelligence, or maybe they just went wild, but the tools used to start the fire were thrown away.
+
+“Damn it!?”
+
+I tried to grab a tool to start a fire, but a tentacle that turned like a whip stopped me.
+
+After all, this guy has intelligence! ?
+
+#voice ibac0187
+[Ibara] "W-what are you doing!? Hey, ah...don't touch that part! Ah...no...!?"
+
+Should I run away for now? ?
+
+But even though the thorns are holding on?
+
+"Ah... Shit!?"
+
+The tentacles extended towards me and grabbed me tightly.
+
+Tentacles covered in fishy mucus crawl over my body.
+
+"Gyaa... Gyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+I don't feel any pain or numbness, so the mucus seems safe to touch.
+
+But that doesn't mean that the bad feeling can be erased.
+
+Then, perhaps aiming for the soft part of the meat, he extended the tip into his mouth.
+
+And then, the tip of the tentacle extends into my clothes...this... even me... is being raped! ?
+
+“Hagi…!”
+
+Out of fear, I instinctively bit down on the tentacle that came into my mouth, and one of the tentacles fell away.
+
+“Y-you did it…?”
+
+There seems to be something that looks like pain.
+
+However, the tentacles that are holding my limbs are holding onto me and won't let go. The tentacles just crawl over my skin.
+
+Ugh...that feels disgusting.
+
+"I-Ibara! Bite me! If I bite you, I'll run away!"
+
+#voice ibac0188
+[Ibara] "Huh? Even if I told you to bite me... H-uh... I-I don't have any strength...!"
+
+A tentacle enters Ibara's mouth and tramples it as it screams.
+
+#cg イベント ev045b1 背景
+#wipe fade
+
+#voice ibac0189
+[Ibara] "Mogo... Fuguu... Gumuuu... Puwaaaaaaaaaaaaaaaaaaaaagusa... It's bitter... In my mouth... Oh... Huh... It's a strange taste...! ”
+
+Unlike my tentacles, the tentacles that got into the gaps in Ibara's clothes don't stop moving.
+
+Tentacles wrap around Thorn's exposed genitals, rush between his legs, and seem to be trying to burrow into his butt.
+
+#voice ibac0190
+[Ibara] "No! No! You're so scary! What are you doing!"
+
+The brambles let out a scream-like sound as the tentacles crawled around, dripping slimy mucus.
+
+#cg イベント ev045b2 背景
+#wipe fade
+
+#voice ibac0191
+[Ibara] "It's so slimy... Ugh... Let me go! No! Stop! Yahyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+The tentacle that had been poking her butt split open her cleavage, and she wriggled around while pressing against its surface.
+
+Ibara tried to resist by shaking her hips and swaying her butt to escape, but her movements actually helped the tentacle's action, leaving her vulnerable between her buttocks.
+
+#voice ibac0192
+[Ibara] "No, no... my butt... there's a tentacle in my butt... it's trying to come in... no... my butt is being rubbed... hiyafuu..."
+
+The thin parts of the tentacles persistently tickle the wrinkles on the surface and the mucous membranes deep inside.
+
+#cg イベント ev045b3 背景
+#wipe fade
+
+#voice ibac0193
+[Ibara] "No, no... it's coming in... it's coming in... it's thin, but the hole in my butt is pried open... it's coming in..."
+
+At last, one caught the center and disappeared into the brambles, twisting its slimy body.
+
+#voice ibac0194
+[Ibara] "Come in... come in... kufu... no, no... oh, my butt is being picked all the way to the back..."
+
+Perhaps aided by the mucus that coats its body surface, the tentacles relentlessly invade the inside of the bramble.
+
+#cg イベント ev045b2 背景
+#wipe fade
+
+#voice ibac0195
+[Ibara] "Nmph! Nnyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...deep inside...come all the way inside...nnnnnnn!"
+
+The overwhelming length of my cock, which can't even be compared to it, sinks into the brambles, and the tentacles are so deep that it bulges out its flat belly.
+
+#voice ibac0196
+[Ibara] "Come in, don't come in...pull it out! Pull it out! Oh no...! My stomach hurts...!"
+
+The one that was inside the thorns suddenly pulled itself out as if in response to the thorns' words.
+
+#cg イベント ev045b1 背景
+#wipe fade
+
+#voice ibac0197
+[Ibara] "Funyaaah! I'm being dragged out all at once... my insides are being scraped out!"
+
+Tightly, the cute narrow thorns of the thorns tightened as if refusing to come out.
+
+Then, another tentacle wraps around Ibara's penis and starts squeezing it.
+
+#voice ibac0198
+[Ibara] "Ah!? I don't want my dick!? I don't want to jerk off! It feels so good!"
+
+After Ibara's penis was squeezed, she pulled her hips back, and this time the tentacle from her butt went inside.
+
+#voice ibac0199
+[Ibara] "There's something slimy and disgusting crawling all over my chest and buttocks... Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+
+The tentacles were slithering repeatedly, as if trying to bring out Ibara's pleasure.
+
+#voice ibac0200
+[Ibara] "Oh, my butt is going to break! If I move this hard, my butt is going to break!"
+
+Ibara is being tormented by the tentacles and is screaming in pleasure.
+
+#cg イベント ev045b3 背景
+#wipe fade
+
+#voice ibac0201
+[Ibara] "I-I'm an idiot! I-I'm going to teach you how to make your butt feel good...I-I want you to make my butt feel good...haha..."
+
+This current situation is also my fault!
+
+However, when Ibara's foolishness is shown to me like this, even I react.
+
+"Ah... Wow..."
+
+Tentacles begin to wrap around the hard cock. The tentacles are also trying to give me pleasure.
+
+#voice ibac0202
+[Ibara] "Tch, my nipples... my nipples are getting crunchy too... hmm... oh no, my entire body is being made to feel good... everything that feels good is being made to feel good..."
+
+Ibara's body shakes every time it is thrust in and out, and her body, which is covered in mucus, convulses.
+
+#voice ibac0203
+[Ibara] "Ya... haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+
+Perhaps in response to Ibara's nearing climax, the tentacles began to move even faster.
+
+#voice ibac0204
+[Ibara] "Huff... Aah... My butt... Inside my stomach... It's being picked... Aah... It's already coming out... It's coming out so much..."
+
+I don't know if what Ibara is dripping are tears or drool.
+
+#voice ibac0205
+[Ibara] "Ah... Akuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu counterpart counterpart counterpart counterpart to me... Ibara is so good...it's so good!''
+
+#cg イベント ev045c1 背景
+#wipe fade
+
+Ibara ejaculated forcefully.
+
+"Ah...damn...I'm going too..."
+
+When I ejaculate, the tentacles slurp up the semen.
+
+"Ah...that's all..."
+
+#voice ibac0206
+[Ibara] "Ah!? My penis...I'm cleaning the inside of my penis...Ah!"
+
+As Ibara screamed in agony as his urethra was torn open, Ibara also screamed in the same way.
+
+#cg イベント ev045c2 背景
+#wipe fade
+
+#voice ibac0207
+[Ibara] "Ah... haa, haa... I ejaculated so much... I felt so bad, but you made me feel good... haa..."
+
+The remains of Ibara's ejaculation dripped down.
+
+#voice ibac0208
+[Ibara] "Huh... haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... I was made to cum...Ahaaaaaaaaaa..."
+
+Ibara's chest rises and falls in excitement.
+
+The tentacles were swarming around and slurping at the remains, moving in what seemed to be a happy state of mind.
+
+The tentacles seemed to be satisfied after slurping up the semen and retreated one by one.
+
+Ibara was thrown out and fell limp to the ground.
+
+#voice ibac0209
+[Ibara] "Ugh... that feels disgusting..."
+
+The mucus that adhered to Ibara's body was also dragging threads on the ground.
+
+;SMODE 041 STOP
+#endscene
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+As the tentacles move away from Ibara's body, mine also move away.
+
+"Are you okay, Ibara?"
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibac0210
+[Ibara] "There's no way it's okay, b-stupid! Ugh... agghh... it was disgusting... ugh... it's sticky and disgusting."
+
+"Ah, that's right! What should we do with that mucus?"
+
+When I ran towards him, Ibara seemed to be finally relieved, and jumped into my chest and started crying.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0211
+[Ibara] “W-do something! Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaton type from type to type from?
+
+"Okay. Let's go!"
+
+#bgvoice stop
+;BGMch2 amb005 再生
+#bgvoice amb005
+
+;背景：泉（昼）
+;BG:BG03_1
+#cg all clear
+#bg BG03_1
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0212
+[Ibara] "Huh? It stinks! It's disgusting!"
+
+"Ah, stop crying now. W-what should I do?"
+
+I hurriedly dragged Ibara to the water's edge...
+
+;選択肢発生
+#select a b
+A: I'll wipe it.
+B: I'll wash it.
+
+#label a
+#next di03a
+
+#label b
+#next di03b
+
+;Ａを選択⇒『di03a』へジャンプ
+;Ｂを選択⇒『di03b』へジャンプ

@@ -1,0 +1,186 @@
+
+;背景：山小屋（夜）
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+Ibara probably plans to stay outside for a while, right?
+
+Well then…….
+
+;背景：山小屋前（夜）
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+"Please wait."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0102
+[Ibara] "...What did you bring, human?"
+
+"A blanket. It's cold when you're outside at night."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0103
+[Ibara] "I'm not going to sleep yet. I don't think I'll be out that far, right?"
+
+...I brought it with the intention of asking Ibara to use it, but Ibara doesn't seem to have any intention of doing so.
+
+Well, okay.
+
+If you force him to use it, he'll probably only get stubborn again, so let's call out to him again when the time is right. I'll wrap myself up and keep warm until then.
+
+;ＥＶ絵――EV???『一人星を見上げるイバラ』
+;EVCG EV044A1
+;#face off
+
+#cg all clear
+
+#cg イベント ev044a1 背景
+#wipe fade
+
+The two of us looked up at the sky, where the stars were twinkling so loud it was almost noisy.
+
+#voice ibac0104
+[Ibara] "...It's too quiet, I can't calm down."
+
+"Then maybe we should talk about something?"
+
+#voice ibac0105
+[Ibara] “What on earth are you talking about?”
+
+"Something about stars. For example, stars aren't holes in the sky, but things that shine very far away."
+
+#voice ibac0106
+[Ibara] "Is that so? If so, I wish I could bring it. I'm sure it would suit me very well."
+
+"Hahaha. It's so far away and it's that big, so if you get it, it might be really big."
+
+#voice ibac0107
+[Ibara] "Ah, I see. Then you can just make it smaller. But I wonder how they're holding it in place since it's in the air."
+
+"Well...I haven't studied that far yet, so I don't really understand."
+
+#voice ibac0108
+[Ibara] “If you study, will you understand?”
+
+``Even if we don't understand it now, it may take ten years, a hundred years, or even longer, but it will probably be solved in the future.There will probably be people who are researching it.''
+
+#voice ibac0109
+[Ibara] “What’s the use of that?”
+
+"I don't know what it is right now, but it might be useful for something. I'm sure in time I'll be able to more accurately predict the weather for a while."
+
+#voice ibac0110
+[Ibara] "Hmm, I wonder if I'll really be able to do something like that..."
+
+"In fact, it might even be a fire that never goes out, brightening the whole day. If that happens, even the beasts won't be afraid."
+
+#voice ibac0111
+[Ibara] "...It would be amazing if that happened, but it's kind of scary. Kushyun."
+
+"Hey, you're sneezing again. It's cold, isn't it? You're going to catch a cold."
+
+#voice ibac0112
+[Ibara] "It's not that cold..."
+
+"I'm cold. Could you please come over here?"
+
+;背景：山小屋前（夜）
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+When I spread out the blanket and invited Ibara to come, Ibara looked back at me, looking a little confused.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0113
+[Ibara] “Is it cold in Humans?”
+
+"Yeah. It's cold and lonely when I'm alone."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0114
+[Ibara] "Then I can't help it. I'm kind, so I'll stay with you."
+
+"thank you"
+
+While pouting his lips, Ibara happily jumped into my chest.
+
+Ibara's body had become completely cold, so I wrapped him in a blanket and held him.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0115
+[Ibara] “Oh, it’s so warm.”
+
+"Right? ... Being alone is lonely, isn't it?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0116
+[Ibara] "...Yeah. I wonder if Hinata and Tsukiyo have always felt this way too."
+
+"Well, I don't know. At least we had fun when we were together, and I think Ibara was happy that he called us friends."
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+#voice ibac0117
+[Ibara] "I...I've been saying nasty things to Hinata and Tsukiyo."
+
+"But we're friends, right?"
+
+#voice ibac0118
+[Ibara] “…Yeah.”
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+I didn't feel lonely because I wasn't alone, but the time we had together was much quieter than before.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0119
+[Ibara] "That's strange. Normally we would act like this, but then Hinata started making a fuss, saying he was definitely sneaky, and Tsukiyo was jealous, and then..."
+
+"While Ibara and Hinata are making a fuss, Konomi is taking control."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0120
+[Ibara] "I'm kind of noisy...Aha, but I'm sure I was."
+
+As if that scene came to mind, Ibara laughed happily, then pouted his lips.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0121
+[Ibara] “Those guys are really idiots for wanting to go back to that place after all the trouble I’ve gotten along with them.”
+
+"Yeah, that's right."
+
+And then, Ibara and I looked up at the starry sky for a while.
+
+;イバラ好感度+1
+#set f2 f2+1
+
+;di02へ
+#next di02

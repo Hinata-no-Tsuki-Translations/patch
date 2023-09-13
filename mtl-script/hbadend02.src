@@ -1,0 +1,261 @@
+
+
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"...Goodbye, Hinata."
+
+Hinata's hand withdrew with a start.
+
+;CHR H03F1_A C
+#cg ヒナタ hin_1_03f1_a 中
+#wipe fade
+#voice hinf0505
+[Hinata] "Ningen-san, Ningen-san, Ningen-san, Ningen-san, Ningen-san, Ningen-san..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+Hinata's voice calling me gradually becomes distant.
+
+;フラッシュ
+#cg all clear
+#bg white
+#wipe flash
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+--Pin
+
+;フラッシュ
+
+
+It felt like the air had been knocked out of me.
+
+At that moment, even I could clearly understand that the barrier had been closed.
+
+The human world and that world were separated, and the connection was closed without a trace.
+
+"...Hahaha, I wonder what kind of trick it is. She disappeared even though she wasn't even walking."
+
+I muttered without intending to let anyone hear.
+
+The forest was flooded with light, and after that, no one had any idea how they disappeared.
+
+It was an inexplicable feeling, as if I was in a dream, as if I had been turned into some kind of monster.
+
+"...Well, maybe it was all a dream."
+
+The mountain hut was also burnt down, and there is nothing to show that they ever existed.
+
+It is impossible that he met and lived with elves in a forest where humans are not allowed.
+
+It wouldn't be like a convenient dream that the elf I met for the first time adored me.
+
+No matter who I tell, I'm sure no one will believe me. Those happy days have now turned into a dream.
+
+“…Uuuuuuuuuuuuuuuuuuuuuuu…”
+
+I fell to my knees on the spot.
+
+I was lonely.
+
+The days I lived with Hinata and the others felt like happiness, so I felt even more alone and miserable.
+
+There will never be anyone else who will love me like that, before or after.
+
+The world has closed.
+
+Those happy days will never come back.
+
+It disappeared along with the burnt-down mountain hut.
+
+"...Don't go, please don't go."
+
+I reached out my hand in the direction where Hinata had disappeared, and when I realized that my fingertips couldn't touch anything, I clasped my hand.
+
+I was the one who couldn't take Hinata's outstretched hand.
+
+The truth is, I wanted to be with you forever... until the end of my life.
+
+However, I was afraid that I might make Hinata unhappy... No, that's not it. I didn't take Hinata's hand because I was afraid someone would blame me for making her unhappy.
+
+Who could blame me?
+
+I was just a coward.
+
+The happier his memories with Hinata and the others were, the more he feared losing them.
+
+I was just afraid of losing it.
+
+...Because I probably won't be able to protect Hinata in this world. It would be so?
+
+"I really wish you didn't go, Hinata."
+
+No matter how much I lament here, there's no way it will reach Hinata now that the world has been cut off.
+
+Hinata's voice calling me to be with me is still in my ears, but I was the one who couldn't answer it.
+
+Until the very end, when the world was cut off, I remained indecisive, blaming others for not being able to choose anything.
+
+I continued to mourn while kneeling on the ground.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：自宅（昼）
+;BG:BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+After parting ways with Hinata and the others, I went to the burned-out ruins of the mountain hut, and found that the old wood and paper burned particularly well.
+
+Behind them were a sooty stone stove and the remains of an underground warehouse.
+
+I searched for the burnt remains, but I couldn't find the cloth bag containing the coins given to me by the elf.
+
+Apparently, the villagers searched for houses and stole anything valuable before setting the mountain hut on fire.
+
+I had nowhere to go back to, so I went back to my house in the village, but I should have stopped.
+
+The people in the village look at me even more strangely than before, probably because they feel guilty for stealing something that belonged to me.
+
+It's strange that the person who had the item stolen gets glared at by the person who stole it.
+
+"...I don't have any regrets in this village anymore."
+
+Why don't we set this house on fire?
+
+That thought crosses my mind.
+
+If a house were to burn down on a windy day, the fire would spread to other places, even from this house on the outskirts of the village, and it would be terrible.
+
+If that happens, I wonder if my drinking will go down a little.
+
+But I didn't choose that.
+
+... Everything didn't matter anymore.
+
+I was so indecisive that I couldn't even take Hinata's hand at that time, so how could I choose something as drastic as setting the house on fire?
+
+All I can do is run away.
+
+Just like I ran away from the village into the forest that day.
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：街道（昼）
+;BG:BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+It's time to start your journey, and it seems like it's okay to feel a little cheerful.
+
+I crossed the village and thought of the dark forest.
+
+Didn't Ibara say that the human path was created because of me?
+
+So this departure is for the elves.
+
+In order to end the path of humans, I will not return to the forest, but will leave the village I came from and travel far away.
+
+The idea that it was for the sake of the elves was terrifyingly comforting.
+
+I personally knew this was just an escape, but I needed a comfortable excuse for myself.
+
+There are too many memories here, this village, that forest.
+
+The weak me, the indecisive me, torments me here and there.
+
+I know that running away won't change anything.
+
+That's why I run away. But to a place that is not here.
+
+Ibara asked me if that was okay. Hinata's voice stretched out her hand towards me until we parted.
+
+No, it wasn't just that time.
+
+I didn't even try to fit in with the people around me, and tried to maintain my ego by despising them.
+
+A valuable record that was under fire because of that.
+
+I'm running away from everything I've lost.
+
+The only person beyond that is probably me, no one else.
+
+That's okay though.
+
+It would be better for me to live my life being chased by my useless self than to face my pathetic past self here, in this village.
+
+Will I ever find my place?
+
+If you wanted to change somewhere, would you have been able to change?
+
+That day will probably never come, but I'm sure the memories I let go of will someday be beautifully colored in a way that suits me.
+
+That's how I live by deceiving myself. We live in vain until one day we lose our lives. Not here. In a place out of reach of those happy days.
+
+I will live my life forever feeling regretful about Hinata's hand that I was unable to take back then.
+
+That must be my punishment for not being able to choose anything until the very end.
+
+
+;ヒナタENDフラグON
+#set t3 1
+#set s1 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;タイトルへ
+
+;※エンド表示
+;BG:BG64_1
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+#mes off fade
+#system off fade
+#bgvoice stop
+#bgm 0 stop 1000
+
+#bg bg64_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

@@ -1,0 +1,52 @@
+
+"It's dangerous, isn't it? If Ibara hadn't been found, I wouldn't have had to worry about him attacking me again."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0335
+[Ibara] "Are you saying it's my fault!? It's that guy who came into the cabin without permission!"
+
+“Ah, no, that’s true, but…what would you do if you jumped on someone without looking ahead and it turned out to be a very difficult opponent?”
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0336
+[Ibara] "It's okay! Humans were there too, and I'm strong! He wrapped his tail around me and ran away, right?"
+
+"...I think there are many reasons why it worked out the way it did. It's not like they'll run away like that every time."
+
+What would you do if your opponent was an elf hunter who looked like a battle-hardened bear? I don't know if such a thing exists.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0337
+[Ibara] “Because I looked at him and he looked like he was going to die!”
+
+"...That sounds like a great thing to say."
+
+#voice ibac0338
+[Ibara] "There's no way I can lose to someone like that!"
+
+"Even if you say that... the other person is a cunning person, right? You don't know what kind of cowardly trap they'll set for you..."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0339
+[Ibara] "In that case, humans will protect me, so it's okay!"
+
+"...!?"
+
+I feel like I'm suffocated by the innocent, unconscious, full trust shown to me unexpectedly.
+
+...I wish I could protect this really cute child.
+
+;di04_2へ
+#next di04_2

@@ -1,0 +1,794 @@
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG43_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg43_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：山小屋前（夕）
+;BG BG08b_2
+#cg all clear
+#bg BG08b_2
+#wipe fade
+
+When I returned as the sun was setting, the door to the mountain hut was open.
+
+I have a bad feeling that my hair is standing on end.
+
+“Hmm, did it just come out when I opened it?”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0267
+[Ibara] "That can't be true, right? After I put away Jimeikoto, I closed the door and checked."
+
+"that's true……"
+
+“If you don’t wear it, you don’t own it.”
+
+That's what Ibara insisted on taking with him, so I spoke to him in front of the closed door.
+
+``If you leave it here properly, you'll know it belongs to someone here.''
+
+I remember that clearly. Then why is the door open?
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0268
+[Ibara] “I wonder if Hinata and the others are back?”
+
+"..."
+
+Ibara looks happy, but the premonition he once had is only getting stronger.
+
+"...Ibara, hide here and wait. I'll check on the situation inside first."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0269
+[Ibara] “Huh? Why!?”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I hid the thorns in the shadow of a tree and peered inside the hut.
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋（夕）＊夜にしました（角）
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+I didn't expect it to happen, but someone was inside the hut searching through the rooms.
+
+There wasn't much to begin with, but perhaps because of that, not only the shelves but even the bed had been overturned.
+
+The thief was doing something in the storage room under the floor.
+
+As I was taken aback by the terrible situation, the bandit looked up, perhaps sensing my presence.
+
+He was the son of a general store.
+
+
+[Villager 1] "Wow!? What? If you're back, say hello."
+
+The general store's son was not timid, and even shyly smiled at me.
+
+I felt a sudden coldness in my stomach.
+
+
+[Villager 1] "There's nothing here. I thought there might be something a little more interesting."
+
+The book you have there is quite interesting to me, and if I show it to someone in town who understands its value, it will fetch a higher price than you think.
+
+When I threw that out in my head and glared at him, the general store's son spit out his saliva, not seeming to be amused.
+
+
+[Villager 1] "Hey, why do you look so scary? Where can I get the flowers and fruits you come to sell? I'll go get them now, so tell me."
+
+"Why do I have to tell you that?"
+
+
+[Villager 1] "What? Are you planning to keep it all to yourself? You can't believe you came here to sell something so rare by yourself. Don't you think you're making too much money?"
+
+"I don't remember ever raising the price so high that I made too much money."
+
+
+[Villager 1] "What, why are you so angry? You haven't come here lately, so I came to pick it up. I wanted to make sure you could sell it for a higher price."
+
+While saying this, the general store's son was fiddling with something.
+
+It was the jimakikoto I gave to Ibara.
+
+"that……"
+
+
+[Villager 1] "Oh, I think a girl would be happy if I gave this to her. It's just right, so I'll take it. You're doing well. You should also put some jewelry inside this box."
+
+"Don't be silly, give it back! Leave it behind and get out!"
+
+
+[Villager 1] "Ah!? Why are you talking to me in such a bossy way! Do you want to get beaten up?"
+
+;SE se018 パシン（矢の音）★
+#se 1 se018
+
+The son of the general store was about to start yelling when his forehead was hit by something and he held his head down.
+
+
+[Villager 1] “Go! What!?”
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0270
+[Ibara] "That's mine. Take your hands off me, you filthy human!"
+
+
+[Villager 1] "Huh? What are you talking about, this kid... What, elf!?"
+
+The general store's son's eyes widened in shock.
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0271
+[Ibara] “You’re telling me to give it back, right?”
+
+“Ibara!”
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara didn't have time to stop and jumped at the general store's son.
+
+“Ibara, stop it!”
+
+;SE se017 押し倒す音（仮）
+#se 1 se017
+
+
+[Villager 1] "Wow! Come on! You scratched me, you damn kid!"
+
+I hurriedly tore off the thorns.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0272
+[Ibara] "I won't let you touch my stuff like a dirty person! I'll never forgive you! Fuuuuuuuuu!"
+
+Ibara held his jimakikoto and made a sound like a cat threatening an enemy.
+
+
+[Villager 1] "It really has long ears... Huh, ho, are you sure it's a real elf? If you catch this guy..."
+
+A grinning, even lewd face forms a vulgar expression.
+
+Damn it, some bastard saw me in trouble...
+
+I hurriedly held the thorns in my arms to cover my ears, but it was already too late.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+
+[Villager 1] “Heh, heh… Is that what you mean?”
+
+When the general store's son looked at me with hatred, his face became even more ugly.
+
+
+[Villager 1] “You even hid the elf and tamed it to keep it all to yourself. Isn’t it natural that such a property should be shared with the village?”
+
+"That's not what I meant."
+
+
+[Villager 1] “Then, what was your plan? So you knew there were elves from the beginning and you settled here!? You traitorous miser!”
+
+The general store's son curses me foul-mouthed, foaming at the corners of his mouth.
+
+
+[Village 1] "If you bring an elf to town, you can sell it for a high price! There might even be at least one academy that will admit even a poor orphan like you if you save enough money!"
+
+I hugged Ibara tightly to protect her.
+
+And at that time.
+
+;SE se018 パシン
+#se 1 se018
+
+Pebbles came flying loose.
+
+;SE se018 パシン
+#se 1 se018
+
+
+[Villager 1] "Wait!? Stay!? W-what!?"
+
+;SE se018 パシン
+#se 1 se018
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+#voice hinc0038
+[Hinata] “Whoever bullies Human-san and Ibara, come out!”
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+#voice tukc31
+[Tsukiyo] "I'll defeat you!"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konc0031
+[Konomi] "If you don't leave, I'll throw even bigger stones at you!"
+
+Hinata is dashing, but Tsukiyo has teary eyes, and Konomi is holding a stone in both hands that looks a bit unreasonable.
+
+
+[Villager 1] "What!? You're hiding the elves after all!? And there are so many of them. That's all I need..."
+
+The general store's son glared at me with resentful eyes, but while I was taken aback, Ibara let go of my hand and readied his bow and arrow.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I02F
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0273
+[Ibara] "Hey, human over there! If you don't want to be pierced by this arrow, leave immediately! If you still plan on doing something, I won't show any mercy!"
+
+
+[Villager 1] "Hi!? Hiiiiiii!!"
+
+Ibara's bow and arrow had only hit him in the forehead earlier, but it must have been quite frightening to have an arrow pointed at him in this situation.
+
+The general store's son rolled out of the hut.
+
+I finally caught my breath when the footsteps faded away.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE K02F1B
+#face f_kon_0_02f1 94 466
+
+#voice konc0032
+[Konomi] “Oh, it was heavy.”
+
+Konomi places a stone at his feet.
+
+I wanted to tell her not to put stones in such a place, but that's not the point.
+
+"...First of all, thank you everyone."
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hinc0039
+[Hinata] "Wow!? Human-san told me!?"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+#voice tukc32
+[Tsukiyo] "I'm glad that person escaped."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV047『オルゴールを抱きしめるイバラ』
+;EVCG EV047A1
+;#face off
+
+
+#cg イベント ev047a1 背景
+#wipe fade
+;★イバラ以外がいなければフェイスを追加
+
+#voice ibac0274
+[Ibara] "I'm glad it wasn't taken...my jimakikoto"
+
+Ibara happily hugged the Jimeikoto he had gotten back.
+
+#voice hinc0040
+[Hinata] "How!? What is that!?"
+
+#voice tukc33
+[Tsukiyo] "It's a beautifully decorated box."
+
+#voice konc0033
+[Konomi] “Hoho‾, that’s wonderful‾”
+
+#voice ibac0275
+[Ibara] "No, no!? This is mine, so I won't give it to you, okay? Humans gave it to me!"
+
+#voice hinc0041
+[Hinata] "That's ridiculous! But it's beautiful!"
+
+#voice konc0034
+[Konomi] "Because it's Ibara's treasure, right?"
+
+#voice tukc34
+[Tsukiyo] “I understand that Ibara is important.”
+
+#voice ibac0276
+[Ibara] "Eh...that's...Hinata, Konomi, Tsukiyo...don't you want something so wonderful?"
+
+#voice hinc0042
+[Hinata] "No matter how wonderful something is, if it's Ibara's Takara product, it's Ibara's!"
+
+#voice konc0035
+[Konomi] “Ningen-kun gave it to Ibara, right?”
+
+#voice tukc35
+[Tsukiyo] “If Ibara is happy to have it, everyone is happy.”
+
+#voice ibac0277
+[Ibara] "You guys..."
+
+Ibara looked around at everyone with a surprised face, then looked away in embarrassment.
+
+#voice ibac0278
+[Ibara] "This box sings a song. It sings a beautiful song that is suitable for me. I can let you hear it if you wish..."
+
+#voice hinc0043
+[Hinata] "Hako is singing!? Isn't it amazing!?"
+
+#voice tukc36
+[Tsukiyo] "Wow...I'd like to hear it."
+
+#voice konc0036
+[Konomi] "Yes. Let me hear it."
+
+#voice ibac0279
+[Ibara] "N-Okay. If you're asking that much, I'll let you hear it."
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+When Ibara twisted the screw and opened the lid, the Jimeikoto began to play music with a clear sound.
+
+;bgm013★オルゴール曲
+
+#bgm 0 13
+
+;CHR H06F1_A R
+#cg ヒナタ hin_1_06f1_a 右
+#wipe fade
+#voice hinc0044
+[Hinata] "Fuwa!? Fluffy! What is this!? What is this!?"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 左
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tukc37
+[Tsukiyo] "It's a beautiful sound..."
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice konc0037
+[Konomi] “A box that really sings is amazing!”
+
+Ibara also looks satisfied as Hinata and the others listen in fascination.
+
+;CHR OFF
+#cg ツキヨ clear
+#wipe fade
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibac0280
+[Ibara] "What? Isn't it amazing!? This is my treasure!"
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+
+#voice hinc0045
+[Hinata] “I want to listen more‾”
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konc0038
+[Konomi] “Hmm, I want to listen to it all the time.”
+
+;CHR I07F L
+#cg イバラ iba_1_07f 左
+#wipe fade
+#voice ibac0281
+[Ibara] "Yeah, that's good. If you wind this screw, it will keep singing forever."
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tukc38
+[Tsukiyo] “That’s amazing.”
+
+The bramble proudly winds the screw over and over again, and the elves listen to its sound in fascination.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;ＥＶ絵――EV047『オルゴールを抱きしめるイバラ』
+;EVCG EV047A1
+#cg イベント ev047a1 背景
+#wipe fade
+;★イバラ以外がいなければフェイスを追加
+
+#bgm 0 stop 2000
+
+;オルゴール曲ここまで★
+
+After a while, the sound stopped, and Ibara slammed the lid shut.
+
+#voice ibac0282
+[Ibara] “Okay, that’s it.”
+
+#voice hinc0046
+[Hinata] "Eh? Is it over already?"
+
+#voice konc0039
+[Konomi] “Won’t you keep singing forever?”
+
+#voice tukc39
+[Tsukiyo] "It's a shame that it's over..."
+
+#voice ibac0283
+[Ibara] “You guys really don’t know anything.”
+
+Ibara says this arrogantly, as if he had just come up with the idea, and then opens the lid again to show us what's inside.
+
+#voice ibac0284
+[Ibara] "What's this? The protrusion of this metal cylinder plays against this thin metal plate and makes the sound. When this part wears down, the sound stops."
+
+#voice tukc40
+[Tsukiyo] “It’s an interesting mechanism.”
+
+Ibara closed the lid and hugged Tsukiyo to his chest again as Tsukiyo looked into his nose with shining eyes.
+
+#voice ibac0285
+[Ibara] "This is my treasure. I'll keep it forever. That's why I listen to it carefully so it doesn't wear out too soon."
+
+#voice hinc0047
+[Hinata] “I see, then you can’t beg.”
+
+#voice konc0040
+[Konomi] “Yeah, I wanted to hear more.”
+
+#voice ibac0286
+[Ibara] "You can let me hear it again next time. But it's over for today!"
+
+#voice konc0041
+[Konomi] “I’m looking forward to hearing it again.”
+
+#voice hinc0048
+[Hinata] "Hinata too! Hinata also wants to listen then!"
+
+#voice ibac0287
+[Ibara] "Of course I'll let Hinata and Tsukiyo hear it. We're friends!"
+
+#voice tukc41
+[Tsukiyo] “Are you friends too, Tsukiyo?”
+
+#voice ibac0288
+[Ibara] “Is it wrong?”
+
+#voice tukc42
+[Tsukiyo] “No! It’s not that different!”
+
+;背景：山小屋内（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+Ibara laughed happily with Hinata and the others, then suddenly tilted his head.
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibac0289
+[Ibara] “Why did everyone come back?”
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+#voice konc0042
+[Konomi] "Well, this time, we came to pick you up."
+
+;FACE H08F2_A
+#face f_hin_0_08f2_a 94 466
+
+#voice hinc0049
+[Hinata] “Tano!”
+
+;FACE T09F
+#face f_tuk_0_09f 94 466
+
+#voice tukc43
+[Tsukiyo] “Desu”
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibac0290
+[Ibara] "A-Are you talking about me? I-I didn't ask you to do anything unnecessary like that!"
+
+"Ibara..."
+
+;CHR K05F R
+#cg コノミ kon_1_05f 右
+#wipe fade
+
+#voice konc0043
+[Konomi] “What Ibara said was right, right?”
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibac0291
+[Ibara] “What do you mean?”
+
+Konomi spoke in a leisurely tone, not caring about Ibara's words, which made her mouth curl up.
+
+;CHR K03F R
+#cg コノミ kon_1_03f 右
+#wipe fade
+
+#voice konc0044
+[Konomi] "Ningen-kun was different, but humans are bad people after all. He was the bad guy from earlier, and it was disgusting."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibac0292
+[Ibara] “I-I knew that from the beginning!”
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice konc0045
+[Konomi] "That's why I think Ibara should go back too."
+
+;CHR I09F L
+#cg イバラ iba_1_09f 左
+#wipe fade
+
+#voice ibac0293
+[Ibara] "Huh..."
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tukc44
+[Tsukiyo] “…”
+
+#voice ibac0294
+[Ibara] "!"
+
+When Ibara gasped without being able to argue, Hinata told him to hang up.
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR H02F1_A R
+#cg ヒナタ hin_1_02f1_a 右
+#wipe fade
+#voice hinc0050
+[Hinata] "It's almost time for you to run out of space, right? Is it really okay for Ibara to run out of space?"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibac0295
+[Ibara] “…Uh, yeah, that’s it.”
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+#voice tukc45
+[Tsukiyo] "If Ibara wasn't here, I wouldn't have a single friend who would call me Tsukiyo."
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinc0051
+[Hinata] “It would be lonely without Ibara!?”
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice konc0046
+[Konomi] “I might be lonely without Ibara too.”
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibac0296
+[Ibara] “What do you mean by “katete”?”
+
+Even though he looked angry, Ibara seemed happy.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+As soon as night fell, Hinata and the others went to sleep.
+
+“We have to get everyone home as quickly as possible tomorrow.”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0297
+[Ibara] “Why?”
+
+“The guy who came during the day today will probably come again.”
+
+Actually, I should have sent Ibara home with me today, but it was already getting dark.
+
+Walking at night is scary if even an animal appears.
+
+...No, I think those guys are scarier for elves than beasts.
+
+He'll probably come tomorrow with the others to capture the elf.
+
+Rumor has it that elves can be sold for a high price.
+
+Since they had only heard about it through rumors, it is easy to imagine that they must be dazzled by the idea that they will be able to obtain an unimaginable amount of money.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0298
+[Ibara] “Shouldn’t we just chase them back like we did today?”
+
+“Well, you came back today conveniently.”
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0299
+[Ibara] “Hehe, it’s all thanks to me!”
+
+"It's true that he was flinched by the thorny bow and arrow, but...I told you to hide, right? He couldn't have jumped out like that..."
+
+;選択肢発生
+#select a b
+A: Isn't it dangerous?
+B: Thank you
+
+#label a
+#next di04a
+
+#label b
+#next di04b
+
+;Ａを選択⇒『di04a』へジャンプ
+;Ｂを選択⇒『di04b』へジャンプ

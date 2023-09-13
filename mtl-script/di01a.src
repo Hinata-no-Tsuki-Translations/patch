@@ -1,0 +1,198 @@
+
+;BG:BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+Something that seems to be warming up...?
+
+It's so cold that I'm sneezing, so I'd like something that warms me from the inside out.
+
+"Hmm...tea? I wouldn't be able to drink the kind of food I eat even if it's reheated..."
+
+Something richer than tea seems to warm the body more. If so...
+
+"Shall I warm up the milk?"
+
+I warmed up the dairy milk I had prepared for making sweets, sweetened it, and poured it into a bowl.
+
+;背景：山小屋前（夜）
+;BG:BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+"Please wait."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0083
+[Ibara] “What were you doing in the hut!?”
+
+As soon as I returned, Ibara looked up.
+
+"I thought it would be something to warm you up."
+
+When I handed over the milk, Ibara looked back at me curiously.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0084
+[Ibara] “What should we do with this?”
+
+“It’s sweetened, so I think you can drink it as is.”
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0085
+[Ibara] "Drink!? This weird white thing!?"
+
+"It's weird... it's just warmed dairy milk."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0086
+[Ibara] "Dairy milk!? What is that? Can you drink it? Isn't it something weird?"
+
+"Dairy milk is the leftover milk that is left over after squeezing the milk and removing the fat that is used to bake sweets and spread on noodles..."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0087
+[Ibara] "Is that what mothers feed their babies with milk? Babies can't do anything, right? It's terrible to take away food from such creatures!"
+
+"It's okay. Humans just get what's left over. Even if humans squeeze it out, there won't be enough for the baby."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0088
+[Ibara] "I see... that would be fine."
+
+"It smells good, right? Drink it."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibac0089
+[Ibara] "I'm sure you're not trying to make fun of me by making me drink something weird..."
+
+Ibara looked at me suspiciously and took a sip from the bowl.
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibac0090
+[Ibara] "Hmm!? Huh... fu... zuzu... mmh! Hmm! Hmm!"
+
+"Is it delicious? I'm glad you liked it. Be careful not to burn yourself."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibac0091
+[Ibara] "Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu with.
+
+“Do you need anything?”
+
+When Ibara reached out his hand to drink the dairy milk in a daze, Ibara stopped as he was about to turn the bowl back.
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibac0092
+[Ibara] “…No, it’s fine.”
+
+"What's wrong? Did you feel like your stomach hurt?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0093
+[Ibara] "I don't really get a stomach ache from this..."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibac0094
+[Ibara] "You heard yesterday, right? They said that as the full moon approaches, it will become harder for non-elves to enter the elf barrier."
+
+“Ah, yeah.”
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibac0095
+[Ibara] "Do you want to prevent me from returning? As I continue to eat human food, more and more non-elves will mix with me."
+
+"Uh, no...I didn't mean to do that."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibac0096
+[Ibara] “Ah, I don’t plan on going back to that place… But, I’m a proud elf, right?”
+
+"Wasn't it delicious?"
+
+When I asked, worried, Ibara shut his mouth and shook his head.
+
+They say they won't go back, but I guess they're still confused.
+
+No wonder.
+
+For Ibara, I have no one to rely on on this side.
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibac0097
+[Ibara] "B-but it's not a big deal since I'm not going back! ...It's warmer now."
+
+"……Yeah"
+
+After receiving the empty bowl, I looked up at the sky just like Ibara.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibac0098
+[Ibara] "It's kind of...quiet."
+
+"That's right. Usually at times like this..."
+
+I'm sure Hinata and the others are making a lot of noise and making it even louder...
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibac0099
+[Ibara] "Uh... Ku... I don't feel lonely."
+
+"Yeah...I'm a little lonely."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibac0100
+[Ibara] “I-I’m here!?”
+
+"You shouldn't feel lonely when Ibara is here for you."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibac0101
+[Ibara] "Isn't that so!? Humans are completely rude!"
+
+"……sorry"
+
+Without saying a word, I looked up at the sky, where countless stars were twinkling and it was so lively that it was almost noisy.
+
+;di02へ
+#next di02

@@ -1,0 +1,667 @@
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+...Even if I take Hinata's hand, will I be able to continue protecting her?
+
+That thought stopped me from extending my hand.
+
+"Hinata..."
+
+But I couldn't say goodbye, so I only read Hinata's name.
+
+I think Hinata has to return to the elf after all. However, speaking honestly, I wanted to keep Hinata back.
+
+...I don't have a choice. I have no right to take Hinata's hand.
+
+;CHR H02F2_A C（なんで？）
+#cg ヒナタ hin_1_02f2_a 中
+#wipe fade
+#voice hinf0506
+[Hinata] “Ningen-san!”
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibaf0089
+[Ibara] “Hinata!?”
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice konf0057
+[Konomi] "Ah"
+
+Hinata screamed, and Ibara let out a scream-like voice.
+
+#bgvoice stop
+
+;背景白
+#cg all clear
+#bg white
+#wipe fade 4000
+
+
+The light enveloping the forest became even stronger and it became difficult to keep my eyes open...
+
+;ＥＶ絵――EV???『やっぱり一緒に』
+;EVCG EV040A1
+;#face off
+
+;SMODE 036 PLAY
+#label replay036
+#setscene 35
+
+#bg BG04_1
+
+#cg イベント ev040a1 背景
+#wipe fade
+
+#voice hinf0507
+[Hinata] “Hinata, I want to be with Human-san.”
+
+Hinata jumped out from the light.
+
+"Hinata!"
+
+#voice hinf0508
+[Hinata] "Ningen-san! Ningen-san!"
+
+Without thinking, I accepted Hinata.
+
+There was no option for me not to accept Hinata who jumped into my chest.
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibaf0090
+[Ibara] "Hinata, you idiot! You won't be able to pass through the road anymore!"
+
+;FACE K02F2
+#face f_kon_0_02f2 94 466
+
+#voice konf0058
+[Konomi] "I guess it can't be helped, right? If Hinata wants to be with Human-kun, I think that's fine."
+
+#voice hinf0509
+[Hinata] "I'm sorry, Ibara, Konomi. Hinata, I'm with Mr. Human after all."
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice konf0059
+[Konomi] "Yeah. See you soon, Hinata."
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibaf0091
+[Ibara] "Baka, baka, baka! You guys are such idiots!"
+
+;フラッシュ
+#cg all clear
+#bg white
+#wipe flash
+
+;背景：森（昼）
+;BG:BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;フラッシュ
+#cg all clear
+#bg white
+#wipe flash
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+The mysterious light disappeared, leaving only Ibara's angry scream.
+
+At that moment, I felt that something had disappeared, but the usual forest and Hinata remained.
+
+"Hinata...you..."
+
+;CHR H01F2_A C
+#cg ヒナタ hin_1_01f2_a 中
+#wipe fade
+#voice hinf0510
+[Hinata] "Hehe, Ibara was getting angry."
+
+Hinata smiled shyly.
+
+"It's not that I was angry, it's that I was angry."
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0511
+[Hinata] "Hinata, you're back after all."
+
+"What should I do? I can't go back to the elf world anymore, right? I'm human, so if I die before Hinata, we might not be able to be together forever."
+
+;CHR H02F1_A C
+#cg ヒナタ hin_1_02f1_a 中
+#wipe fade
+#voice hinf0512
+[Hinata] "Eh!? No way! Human-san is living a long time and will be with Hinata all the time!?"
+
+“Hey, hey, don’t be so reckless.”
+
+Even though I said that, I couldn't hide the way my cheeks softened.
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0513
+[Hinata] "That's ridiculous! Because Hinata wants to be with Human-san forever!"
+
+I was anxious...well, you could say that there was only an element of anxiety, but I couldn't help but be happy to be with Hinata.
+
+Hinata chose to stay with me.
+
+I'm more than happy about that.
+
+"...Hinata, thank you."
+
+I hugged Hinata's petite body again.
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+#voice hinf0514
+[Hinata] "No, I'm not grateful. Hinata wanted to be with me."
+
+"Then I'm sorry. I couldn't take Hinata's hand."
+
+;CHR H07F_A C
+#cg ヒナタ hin_1_07f_a 中
+#wipe fade
+#voice hinf0515
+[Hinata] "No. I know that Human-san thought it would be better for Hinata."
+
+Hinata laughs carefreely.
+
+;CHR H06F1_A C
+#cg ヒナタ hin_1_06f1_a 中
+#wipe fade
+#voice hinf0516
+[Hinata] "But, Hinata, no matter what, I thought it would be better to be with Human-san. That's why I'm sorry, Hinata."
+
+"No, I'm glad Hinata stayed."
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0517
+[Hinata] "If you're with Hinata, you might get into trouble, but please stay with me."
+
+"……Yeah"
+
+;CHR H05F_A C
+#cg ヒナタ hin_1_05f_a 中
+#wipe fade
+#voice hinf0518
+[Hinata] "Hinata, even though I'm a normal human being, I've been staying with an elf for a long time, so I think it's okay to stay with a human being for the rest of my life."
+
+"Yes Yes……"
+
+I hugged Hinata tightly.
+
+Hinata chose me.
+
+If that's the case, I'll dedicate my life to Hinata.
+
+Love this little half-elf who chose a human for the rest of his life.
+
+I live for that.
+
+"From now on, let's be together forever. I'll never let you go."
+
+;SMODE 036 STOP
+#endscene
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+#voice hinf0519
+[Hinata] "Yeah. We'll be together forever, Human-san!"
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I took off Hinata's clothes, took off my own, and gently laid her slender body on the grass.
+
+#voice hinf0520
+[Hinata] "Hehe, it's kind of ticklish, isn't it?"
+
+;SMODE 037 PLAY
+#label replay037
+#setscene 36
+#bg BG04_1
+
+Above all, do not damage your most precious treasure.
+;ＥＶ絵――EV???『ヒナタ仰臥位』
+;EVCG EV041A1
+#cg イベント ev041a1 背景
+#wipe fade
+
+#voice hinf0521
+[Hinata] "Ah... I came all the way to Human-san's place... It's really hot, isn't it? Aha... We're connected, aren't we?"
+
+When he finished inserting his cock, Hinata said happily.
+
+Not only does it feel good, but a warm feeling overflows from within, as if our hearts have all become one.
+
+"Yeah, we're connected. Hinata's inside is really hot too."
+
+The thick, hot folds of flesh inside the tight constriction seemed to welcome my intrusion, entangling every inch of the shaft.
+
+I was trembling as I was filled with deep joy from the sense of unity that seemed to blend forever.
+
+#cg イベント ev041a2 背景
+#wipe fade
+
+#voice hinf0522
+[Hinata] "You're so comfortable, Human-san. Even though I just put you in there, this might be the softest I've ever been...sigh... Human-san, you're so warm..."
+
+Hinata stroked my face with her fingertips, as if confirming my presence. Carefully tracing the contours of her face, as if caressing.
+
+"I feel really good too. Can I move?"
+
+#voice hinf0523
+[Hinata] "Yeah. I'm moving and getting excited about Hinata, and Human-san is also getting moody...? Hinata, I want to feel more about Human-san."
+
+"……Yeah"
+
+He begins to move slowly, as if checking Hinata's insides without leaking a tiny bit. Hinata's inner folds stroke like countless tongues licking mine.
+
+#cg イベント ev041a3 背景
+#wipe fade
+
+#voice hinf0524
+[Hinata] "Ah...it's rubbing all the way to the bottom...nnyuu...aah...I can see it's really reaching all the way to the bottom."
+
+I can clearly see the curved shape deep inside Hinata's intestines, and my cock feels thicker and stronger than ever before.
+
+The sensation was so delicate and acute that I thought I had noticed the cock.
+
+#cg イベント ev041b1 背景
+#wipe fade
+
+#voice hinf0525
+[Hinata] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”
+
+Hinata moans as she slams her hips deeper into me, carving me into her deepest parts.
+
+There was an irresistible pleasure in each movement.
+
+#voice hinf0526
+[Hinata] "Aaah... ahhh... Hinata is full of human beings... ah... ahhh... human-san's penis is so big..."
+
+"Me too, I feel really good. I want to move more."
+
+#cg イベント ev041b3 背景
+#wipe fade
+
+#voice hinf0527
+[Hinata] "Yeah, move around... If Hinata's butt becomes soft... Hinata will be happy... haa... ah... hmm..."
+
+Even though I'm the one putting it in, I also feel like I'm being filled with Hinata. It's not a physical thing, but the depths of my chest are filled with Hinata.
+
+#voice hinf0528
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh'
+
+#voice hinf0529
+[Hinata] "Iriguchi's place... Human-san's... Every time I get caught... I get nervous... I'm so nervous... I'm crushing you... haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+#voice hinf0530
+[Hinata] "Ningen-san is so angry inside...Ningen-san is so hard and fat..."
+
+Every time I give a thrust, Hinata's young stem, which is tightly taut, trembles with pleasure.
+
+#voice hinf0531
+[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+
+Hinata swallows me all the way inside and sucks me softly.
+
+Combined with the tightness of the entrance, it feels so good that it feels like he's being squeezed out.
+
+#voice hinf0532
+[Hinata] "Aaah... I can't do it anymore... Hinata, I think Hinata's going to ejaculate... come harder... let Hinata ejaculate..."
+
+"Understood"
+
+With each stroke, he made long and large movements, thrusting deeply into Hinata from the inside.
+
+If I tried to pull out Hinata's insides, she would chase me as if she wouldn't let go, and if I thrust into her, she would cling to me lovingly.
+
+#voice hinf0533
+[Hinata] "Ahhhhh ... Han .... Ningen, Ningen, Ningen Saan ... Hinata, Hinata ..."
+
+"Ah, me too...I'm about to cum too...you can cum. Let's cum together, okay?"
+
+#voice hinf0534
+[Hinata] "Yeah... I'm cumming... I'm cumming... I'm cumming together! Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+"Ah..."
+
+#cg イベント ev041c1 背景
+#wipe fade
+
+Suddenly, Hinata's peristalsis became violent in an instant, and Hinata and I both reached it at the same time.
+
+I splashed inside Hinata, and Hinata's young stem violently splashed the cloudy liquid onto the grass.
+
+#voice hinf0535
+[Hinata] "Ah...!? Human-san's hot stuff is coming out inside... It's coming all the way to Hinata's room..."
+
+While ejaculating, I switched to a slower pumping mode.
+
+#cg イベント ev041d1 背景
+#wipe fade
+
+He slowly jerks himself off of Hinata and spits every drop inside her.
+
+#voice hinf0536
+[Hinata] "Even though my stomach is full... Human's body is still hard, isn't it? It's still moving... Ahhh... Hinata, I can't stop cumming...?"
+
+Hinata's young stem continues to spit out semen as if it is broken.
+
+The two balls continued to shrink and squeak, as if they were still producing semen and trying to spit it out.
+
+The movements were extremely vigorous and lewd.
+
+Even though I myself had already ejaculated once, I couldn't stop it, and Hinata's inner walls, which had just reached that point, began to wrap around me.
+
+"Let's continue like this..."
+
+#voice hinf0537
+[Hinata] "Hmm... I'm thinking of trying... Human-san, you're moving...? Aaah... I can't stop myself, Hinata... My head is going crazy..."
+
+#voice hinf0538
+[Hinata] "Aaah... ah... ah... I'm cumming again... Hinata... I'm so excited that I'm melting... ah, ah... it feels so good... ahhh..."
+
+#voice hinf0539
+[Hinata] "Your penis is rubbing against my body... I can't help it... It's dripping all over again... I'm cumming all the time..."
+
+"I'm going to cum again soon...can you still go hard?"
+
+#voice hinf0540
+[Hinata] "Yeah, yeah...Hinata, I'll do my best...I'll do my best...Ah...Ah...Wow...Nuuuuuuuu..."
+
+“Ah, I’m cumming already.”
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev041d3 背景
+#bg BG04_1
+#wipe fade 300
+
+#voice hinf0541
+[Hinata] “Hyafu!?”
+
+It didn't seem like things would go away if I left it in there, so I pulled the meat spear out of Hinata.
+
+The impact caused me to climax again, and I sprayed my milky liquid all over Hinata's body.
+
+#voice hinf0542
+[Hinata] "Ah... I got Mr. Human's attention... Aah... Huh..."
+
+Hinata's body trembled.
+
+Looking at the amount of semen that was dripping out, Hinata might have reached her climax for the first time.
+
+While breathing heavily, I stroked Hinata's waist.
+
+#voice hinf0543
+[Hinata] "Hyaan..."
+
+Hinata had just reached it, so she was probably still sensitive, and her body trembled.
+
+After slowly catching his breath, he kissed her cheek and Hinata laughed as if it tickled her.
+
+#voice hinf0544
+[Hinata] "Hehe... haa... haa... human beings... it felt good, didn't it?"
+
+"Yeah, it felt good."
+
+#bgm 0 stop 3000
+
+#voice hinf0545
+[Hinata] "We'll be together forever, okay?"
+
+"Ah, we're together. I'll never let you go."
+
+And I hugged Hinata as if vowing forever.
+
+;SMODE 037 STOP
+#endscene
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+
+#mes clear
+#mes off flash
+#system off flash
+
+;スタッフロール
+;※スタッフロール
+;HT_ED_H.mpg
+
+#movie skipoff
+
+#movie HT_ED_H
+
+#movie skipon
+
+;※白背景
+;wait 4-5秒
+
+#cg all clear
+#bg white
+#wipe fade
+
+#wait 5000
+
+#mes on flash
+#system on flash
+
+--A long time has passed since then...
+
+;SMODE 038 PLAY
+#label replay038
+#setscene 37
+#bg BG04_1
+
+#bgvoice stop
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+;ＥＶ絵――EV???『お墓の前』
+;EVCG EV042A1
+#cg イベント ev042a1 背景
+#wipe fade
+
+Hinata was standing alone in front of a stone.
+
+#voice hinf0546
+[Hinata] “Ningen-san, a lot of things happened while we were together.”
+
+How much time has passed since Hinata chose the human world?
+
+Human never returned to the village, instead walking to visit Hinata's mother in search of other elf folklore.
+
+Although his research did not bear fruit in the end, his accomplishment in carefully unraveling the elf's footprints was great, and before he knew it, Human had come to be called ``Sensei''.
+
+And Hinata was able to be accepted by humans by her side, and she no longer had to be afraid of other humans.
+
+This is because other humans recognized Hinata as human property.
+
+#voice hinf0547
+[Hinata] "Hinata didn't belong to Mr. Human, right? Well, Hinata belongs to Mr. Human, but Mr. Human belongs to Hinata."
+
+If one belonged to the other, then Hinata and Human belonged to each other.
+
+#voice hinf0548
+[Hinata] "But, I guess it would have been nice to have a child of Human-san... I might have wanted to be friends with Human-san's baby..."
+
+Although human beings were begged to death by other humans, he finally ended his life without marrying a human daughter and leaving only Hinata by his side.
+
+As a result, even after the end of his life, in terms of character evaluation, he remained a bigoted eccentric.
+
+#voice hinf0549
+[Hinata] "But...Ningen-san only loves Hinata...Hinata also loves only Human-san..."
+
+#voice hinf0550
+[Hinata] "Hinata, I had no idea that Human-san would take over so quickly, right? There were times when we fought, but it was fun."
+
+Just the other day, the human being called Human went into an eternal sleep, and now he is sleeping under this grave right in front of Hinata.
+
+Hinata called to the grave with love, just like when Human was alive.
+
+#voice hinf0551
+[Hinata] "Human-san, Hinata. I've always loved Human-san."
+
+Hinata is an innocent half-elf who has supported the ``eccentric of the century'' and is now recognized as an honorary citizen and under the protection of the government, even though she is half-demi-human.
+
+#voice hinf0552
+[Hinata] "Other people are kind to Hinata, but he's the only person who likes Hinata, right?"
+
+This is because she was the only spouse who observed the life of the great researcher Human.
+
+#voice hinf0553
+[Hinata] "Hinata and Human-san just wanted to be together, but Hinata is amazing and amazing. It's kind of strange."
+
+Hinata will continue to spend a long time observing the activities of humans.
+
+The footprints of Human's disciples and successors of research are now scattered in countless places.
+
+A human's short life span becomes a major flow through interactions and connections with others.
+
+By spending time with human beings, Hinata learned that there is a difference between elves and elves who have long lives.
+
+#voice hinf0554
+[Hinata] "You know, by the time this stone falls apart, I think I'll be able to meet Human-san again."
+
+The vast records left by Humans have become a valuable foundation for those who came after them.
+
+However, Human didn't leave behind what happened when Hinata remained in the human world.
+
+It only exists in Hinata's memory and is never spoken of. Therefore, it will take a long, long time for humans to reach the elves.
+
+#voice hinf0555
+[Hinata] "Hinata, I hope that humans and elves can become friends someday."
+
+When humans eventually reach the elves, it is unclear whether the elves, who hate humans, will accept them.
+
+However, when the time comes, half-elves will no longer be hated.
+
+#voice hinf0556
+[Hinata] "I don't know if elves can go to a place called Tengoku, but Hinata is a good person, so I'm sure it'll be fine."
+
+We were together all the time. On rainy days, on windy days, when I'm sick, on sunny days, all the time.
+
+Eventually, wrinkles appeared on the humans' faces and limbs, their hair turned white, and their waists bent.
+
+Until the human grows old, becomes unable to move, reverts to a child, and falls into an eternal sleep.
+
+Ever since Human became old and could no longer move his body as he wanted, Hinata had been taking care of Human.
+
+I was happy.
+
+Even when they were exploring the fields and mountains, and when Hinata was making food for him and bringing it to his mouth.
+
+#voice hinf0557
+[Hinata] "I'm going to wait a long time, but please wait. Hinata, I'm going to find a lot of Takara things and go see Mr. Human."
+
+Will there ever be a day when elves and humans can spend time together as friendly as Hinata and Human?
+
+In that sense, Hinata has now become a symbolic presence among elves kept by humans and people who love elves.
+
+However, that relationship only exists between Hinata and Human, and it cannot yet have any universal meaning.
+
+#voice hinf0558
+[Hinata] "Until then, I'll come here to tell stories, so please follow Hinata's stories."
+
+We talked a lot, a lot.
+
+I heard many, many stories.
+
+We saw a lot of the same things, heard the same sounds, and spent a lot of time together.
+
+Even so, we talked endlessly. We touched each other more than that.
+
+#voice hinf0559
+[Hinata] "If Hinata goes there, we'll be together forever, okay?"
+
+Hinata gently placed flowers in front of the tombstone and kissed the tombstone as one would do for a beloved human.
+
+The tombstone was hard and cold, but Hinata felt it was soft and warm.
+
+Hinata was sure that the time would come when she would be reunited with Human.
+
+Even if it was just a dream.
+
+As long as Hinata does not forget, human beings will have meaning within Hinata and will continue to live within her.
+
+May the research left behind by Ningen have meaning and continue to breathe among researchers.
+
+Elves live for a long time.
+
+So I forget many things.
+
+However, Hinata will never forget about Human.
+
+The existence of human beings is deeply engraved in Hinata's heart.
+
+Even when humans forget the achievements of humans, or their forms change in folklore, Hinata never forgets humans.
+
+#voice hinf0560
+[Hinata] "Good night, Human-san. Let's play again."
+
+;SMODE 038 STOP
+#endscene
+
+;ヒナタENDフラグON
+#set t3 1
+#set s1 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;タイトルへ
+;MCK
+#wait 4000
+#cg all clear
+#bg black
+#wipe fade
+
+;※エンド表示
+;BG:BG65_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg65_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

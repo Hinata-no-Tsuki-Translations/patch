@@ -1,0 +1,73 @@
+
+"...But, thank you."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibac0340
+[Ibara] "Huh...?"
+
+“I was so happy when I thought that Ibara cared so much about Jimeikoto...”
+
+I probably should have scolded her, but I wanted to express my gratitude first.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibac0341
+[Ibara] "Of course! I'll cherish what's right for me! Besides...it's what humans gave me."
+
+"And...I'm sorry."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibac0342
+[Ibara] "Why? Why does Human apologize?"
+
+“Actually, I should have taken it back even if I tried to hit him, and I shouldn’t have shown him what Ibara and the others were like.”
+
+“Maybe if I had checked and jumped on him right away, I wouldn’t have had to worry about him attacking me again.”
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibac0343
+[Ibara] "Why do you think like that? The one who came here without permission was the one who was at fault, right?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibac0344
+[Ibara] "I'm strong, so I was fine, right? He got scared and ran away."
+
+"……I agree"
+
+#voice ibac0345
+[Ibara] “From the looks of it, it looked like it was going to get worse, so I could have given it to Human!”
+
+"...Pfft. Ahahahahahahaha. That sounds like a big deal, that guy."
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+
+#voice ibac0346
+[Ibara] “If I was really in danger, humans would help me, right?”
+
+"……of course"
+
+I feel like I'm suffocated by the innocent, unconscious, full trust shown to me unexpectedly.
+
+I have to protect Ibara, who believes in me so much, at all costs.
+
+;イバラ好感度+1
+#set f2 f2+1
+
+;di04_2へ
+#next di04_2
