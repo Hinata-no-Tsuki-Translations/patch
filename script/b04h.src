@@ -28,23 +28,23 @@
 #wipe fade
 
 #voice hinb0358
-【ヒナタ】「ひーなたのーぬのぶくーろは、いいふくろー。なーんでもはーいるーぅ、るるるるるるぅー」
+[Hinata] "Hinata's sling bag is a good bag. It can carry anything, rururururu-"
 
-ヒナタは楽しそうに歌いながら、肩掛け布袋から出した石を机の上に積み上げている。
+Hinata sang happily as he took out stones from said bag and stacked them up.
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0328
-【コノミ】「たっくさんはいってるねぇ〜」
+[Konomi] "There are a lot in there‾"
 
 ;CHR H01F2_A L
 #cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0359
-【ヒナタ】「うん！　たくさんはいるの！　ひとつ、ふたつ……たくさん！」
+[Hinata] "Yep! There are so many! One, two...a lot!"
 
 ;CHR OFF
 #cg コノミ clear
@@ -57,7 +57,7 @@
 ;TKface
 
 #voice tikb0289
-【ツキヨ】「ひとーつ、ふたーつ……石が十個も入ってるです、すごいです」
+[Tsukiyo] "One, two... ten stones are included, amazingly."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -68,25 +68,25 @@
 #wipe fade
 
 #voice ibab0332
-【イバラ】「石なんか持ってきてどうするんだ？」
+[Ibara] "What are you going to do with such a thing?"
 
 ;CHR H08F1_A L
 #cg ヒナタ hin_1_08f1_a 左
 #wipe fade
 
 #voice hinb0360
-【ヒナタ】「ぬのぶくろのなかにいれるんだよ！」
+[Hinata] "For putting in bags!"
 
-「……別に、どうしても何かを入れなきゃいけないってわけじゃ……」
+"... I mean, it's not like you have to put something in there no matter what..."
 
-言ってる傍からヒナタは一旦出した石を肩掛け布袋に戻し、御満悦だ。
+As he said that, Hinata returned the stones into the bag and was very pleased.
 
 ;CHR H07F_A L
 #cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0361
-【ヒナタ】「ほーら、いっぱいはいる！」
+[Hinata] "See, there's a lot!"
 
 ;CHR OFF
 #cg イバラ clear
@@ -97,7 +97,7 @@
 #wipe fade
 
 #voice konb0329
-【コノミ】「ヒナタはすっごく嬉しかったんだね〜」
+[Konomi] "Hinata seems really happy‾"
 
 ;CHR OFF
 #cg コノミ clear
@@ -108,16 +108,16 @@
 #wipe fade
 
 #voice ibab0333
-【イバラ】「石なんか持って歩いたって重いだけじゃないか。別に綺麗な石ってわけでもないただの石だし」
+[Ibara] "Isn't it heavy to walk around carrying stones? It's not like it's a beautiful stone, it's just an ordinary stone."
 
 ;CHR H01F2_A L
 #cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0362
-【ヒナタ】「いっぱいはいったから、いっぱいでてくるよ！」
+[Hinata] "Since there's a lot of stones, a lot of things can come out!"
 
-ヒナタはイバラの言葉なんか耳に入っていないのか、今度は楽しそうに石を取り出している。
+Hinata seemingly ignoring Ibara's words, happily took out the stones again.
 
 ;CHR OFF
 #cg イバラ clear
@@ -128,12 +128,12 @@
 #wipe fade
 
 #voice konb0330
-【コノミ】「ねーねー、ヒナタ〜。その石、何に使うの？」
+[Konomi] "Hey, Hinata‾ What are you going to use that stone for?"
 
 #voice hinb0363
-【ヒナタ】「ぬのぶくろのなかにいれるの！」
+[Hinata] "It's for putting in the bag!"
 
-「……飽きるまでは、入れたり出したりするだけで楽しくてしょうがないんだな」
+"... It can't be helped. He's having so much fun taking it out and putting it in until he gets tired of it."
 
 ;CHR OFF
 #cg コノミ clear
@@ -146,14 +146,14 @@
 ;TKface
 
 #voice tikb0290
-【ツキヨ】「楽しそう、です」
+[Tsukiyo] "He seems to be enjoying himself."
 
-「あのさ、ヒナタ。石もいいけど、シバグルミとか、カチノミとか、そういう木の実を集めてくるのに使ったらどうかな？」
+"Um, Hinata. Enough with stones, how about using the bag to collect hazelnuts, acorns, and other nuts?"
 
-別にヒナタを便利に使おうってわけじゃないけど、石なんか集めてどうするんだとは思うので、ついつい余計な口出しをしてしまう。
+It's not like I'm trying to make use of Hinata, but it's not like collecting stones will have any use, so I can't help but interject unnecessarily.
 
 #voice hinb0364
-【ヒナタ】「ほぉう！　そだね！　いっぱいはいるし、おっことさないもんね！　ヒナタいってくるっ！」
+[Hinata] "Oh! That's right! A lot of it can fit in the bag and Hinata won't lose them! Hinata will be back!"
 
 ;CHR OFF
 #cg all clear
@@ -166,16 +166,16 @@
 ;TKface
 
 #voice tikb0291
-【ツキヨ】「あ、いっちゃったです」
+[Tsukiyo] "Ah, he left."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0331
-【コノミ】「お〜、早い早い〜」
+[Konomi] "Oh, at such a speed‾"
 
-机の上に石を広げたまま、弾丸のようない勢いで森に走っていったヒナタを、俺や皆は呆然と見送ったのだった。
+With the stones laid on the table, Hinata dashed into the forest with bullet-like momentum, leaving us with dumbfounded faces.
 
 ;暗転
 ;#face off
@@ -194,44 +194,44 @@
 #wipe fade
 
 #voice hinb0365
-【ヒナタ】「ほらほら、シバグルミとカチノミと、ほかにもいっぱいとってきたー！」
+[Hinata] "Look, look! I've picked hazelnuts, acorns, and a lot more!"
 
-ヒナタは戻ってくるなり、机の上で肩掛け布袋を逆さまにした。
+As soon as Hinata came back, he overturned his bag above the desk.
 
-肩掛け布袋の中からは無数の雑多な木の実が出てきて、硬い実跳ねて飛び散ってしまう。
+A countless variety of nuts scattered out of his shoulder bag.
 
-「あぁっ！？　そんなにしたら散らかるだろ？」
+"Ah!? It'll fly everywhere if you do that!"
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0366
-【ヒナタ】「ほわっ！？　タイヘンだ！」
+[Hinata] "Wha!? Oh no!"
 
-そしてヒナタが集めてきたものといえば……。
+And speaking of what Hinata has collected...
 
-シバグルミとカチノミは食べられるけど、スズノネは茹でようが炒ろうが歯が立たないし、ニガシイはアクがすごくて茹でても茹でても苦いんだよな……。
+Hazelnuts and acorns are edible, but the Persimmon Bonsai fruit cannot be bitten into whether boiled or roasted, and the Bitter Oak has such an astringent flavour that can't be removed no matter how long it's boiled.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0367
-【ヒナタ】「ニンゲンさんにぜーんぶあげるね！」
+[Hinata] "I'll give EVERYTHING to Human-san!"
 
-「ありがとう」
+"Thanks"
 
-スズノネとニガシイはもらっても困るんだけど……好意でくれるって言ってるものを、こっちはいるけどこっちはいらないっていうのもなにか。
+Even if it troubles me, it's rude to be selective and pick and choose what I receive...
 
 ;CHR H08F1_A C
 #cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0368
-【ヒナタ】「わーい！　ありがとうっていわれたー！」
+[Hinata] "Yay! I've been thanked!"
 
-ヒナタは喜びながら、また机の上の石をしまい始めた。
+The overjoyed Hinata started putting away the stones on the table into his bag again.
 
 ;CHR OFF
 #cg all clear
@@ -244,24 +244,24 @@
 #wipe fade
 
 #voice ibab0334
-【イバラ】「なんだってまた石を入れるのさ」
+[Ibara] "Why are you putting the stones in again?"
 
 ;CHR H06F2_A L
 #cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0369
-【ヒナタ】「だってせっかくのぬのぶくろなんだよ！　いっぱいなんでもはいるんだよ！？」
+[Hinata] "Because it's a bag! To make good use of it! I can put a lot of things in it!?"
 
 #voice ibab0335
-【イバラ】「もっとイイ物を入れればいいじゃないか」
+[Ibara] "Can't we put something better inside?"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0370
-【ヒナタ】「いい、もの？」
+[Hinata] "Something better?"
 
 ;CHR OFF
 #cg イバラ clear
@@ -272,25 +272,25 @@
 #wipe fade
 
 #voice konb0332
-【コノミ】「そうだね〜。ニンゲンくんが食べられるものとか、宝物とか〜」
+[Konomi] "That's right‾ Things that Human-kun can eat, treasure‾"
 
 ;CHR H04F1_A L
 #cg ヒナタ hin_1_04f1_a 左
 #wipe fade
 
 #voice hinb0371
-【ヒナタ】「ほ〜ほ〜」
+[Hinata] "Ho‾ho‾"
 
-そうだな。ヒナタがこの調子で木の実やら何やらの食料を集めて持ってきてくれたら、俺としてはすごく助かる。
+That's true. It would be a great help for me if Hinata kept collecting nuts and other food items like this.
 
-別にこき使おうってつもりじゃないし、そのために布袋を上げたわけじゃないけど。
+Not that I gave him the bag to make use of him like this.
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0372
-【ヒナタ】「そか。タカラモノいれるのか。タカラモノってなにかな？」
+[Hinata] "I see. Are you going to put in trea-sure? What is trea-sure?"
 
 ;CHR OFF
 #cg コノミ clear
@@ -301,7 +301,7 @@
 #wipe fade
 
 #voice ibab0336
-【イバラ】「そりゃ、綺麗なものに決まってるじゃないか」
+[Ibara] "Well, of course it has to be something beautiful"
 
 ;CHR OFF
 #cg イバラ clear
@@ -312,7 +312,7 @@
 #wipe fade
 
 #voice konb0333
-【コノミ】「ヒナタの宝物は、ヒナタが大事に思ってるものだと思うよ〜？」
+[Konomi] "I think that Hinata's treasure is something important that Hinata cares for greatly‾"
 
 ;CHR OFF
 #cg コノミ clear
@@ -325,14 +325,14 @@
 ;TKface
 
 #voice tikb0292
-【ツキヨ】「珍しいもの、宝物です」
+[Tsukiyo] "Treasure, is a rare thing."
 
 ;CHR H06F1_A L
 #cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0373
-【ヒナタ】「わわわ、たいへんだ！　キレイで、だいじで、めずらしいもの……けど、ニンゲンさんはこのふくろにははいらないよ？」
+[Hinata] "Wow, oh my! It's beautiful, precious, and rare... but I can't fit Human-san in this bag, can I?"
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -343,14 +343,14 @@
 #wipe fade
 
 #voice ibab0337
-【イバラ】「なんでそんなの入れようと思ったんだよ！　それにそんなの綺麗じゃない！」
+[Ibara] "Why'd you consider to put such a thing in there! Besides, he's not even pretty!"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0374
-【ヒナタ】「そか。ニンゲンさんはキレイじゃないのか」
+[Hinata] "I see, Human-san isn't pretty huh..."
 
 ;CHR OFF
 #cg イバラ clear
@@ -361,28 +361,28 @@
 #wipe fade
 
 #voice konb0334
-【コノミ】「ヒナタには大事かもしれないけど、珍しくはないよ〜？」
+[Konomi] "It might be important to Hinata, but it's not something rare, is it‾?"
 
 ;CHR H04F1_A L
 #cg ヒナタ hin_1_04f1_a 左
 #wipe fade
 
 #voice hinb0375
-【ヒナタ】「なんで！？　ニンゲンさんはひとりしかいないよっ！？」
+[Hinata] "Why!? There's only one Human-san!?"
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0335
-【コノミ】「ニンゲンくんはひとりだけど〜、村まで行けば人間はいっぱいいるよ〜」
+[Konomi] "Human-kun is alone, but out in the village, there are a lot more humans‾"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0376
-【ヒナタ】「おぉ……そだった」
+[Hinata] "Oh... that is right."
 
 ;CHR OFF
 #cg コノミ clear
@@ -395,7 +395,7 @@
 ;TKface
 
 #voice tikb0293
-【ツキヨ】「ちっちゃくしたら、入るかもしれないです」
+[Tsukiyo] "If you made him smaller, he might fit."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -406,27 +406,27 @@
 #wipe fade
 
 #voice ibab0338
-【イバラ】「ちっちゃくって切るとか、潰すとかか？」
+[Ibara] "To make him smaller, do you mean by cutting or by crushing?"
 
-「怖いこというなよ！」
+"Don't say something so scary!"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0377
-【ヒナタ】「ちっちゃくしてもちょっとしかはいらないよね……」
+[Hinata] "Even if we made him smaller, only a little bit of him will fit inside..."
 
-「ヒナタも検討しないでよ！」
+"Hinata too, stop considering that!"
 
 ;CHR H07F_A L
 #cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0378
-【ヒナタ】「ヒナタわかった！　タカラモノさがしにいくよ！」
+[Hinata] "Hinata gets it! Hinata's going to look for treasure!"
 
-ヒナタは立ち上がると、また戸外に飛び出していった。
+As soon as Hinata got to his feet, he flew out of the door.
 
 ;暗転
 ;#face off
@@ -445,116 +445,116 @@
 #wipe fade
 
 #voice hinb0379
-【ヒナタ】「タカラモノいっぱいあつめたよ！　ほらー！」
+[Hinata] "I've collected a lot of treasure! Look!"
 
 ;CHR H07F C
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
-ヒナタが差し出した肩掛け布袋は何が入っているのか、形が変わるほど中身を詰め込まれていた。
+The shoulder bag that Hinata held out towards me was filled so full that it had changed shape.
 
-「また、肩掛け布袋がパンパンになってるね。何を集めたの？」
+"Again, your shoulder bag is filled up. What did you collect?"
 
 ;CHR H08F2 C
 #cg ヒナタ hin_1_08f2 中
 #wipe fade
 
 #voice hinb0380
-【ヒナタ】「うーんとね！　いろいろ！　タカラモノ！」
+[Hinata] "Mmm, various things! Treasure!"
 
-ヒナタは迷わず、肩掛け布袋をまた逆さにした。
+Without hesitation, Hinata turned the shoulder bag upside down again.
 
-「石にアカマルスグリに……抜け殻？」
+"Stones, red currants... empty shells?”
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0381
-【ヒナタ】「あぁっ！？　あかいのと、からっぽのムシさんこわれちゃったっ！？」
+[Hinata] "Oh!? The red one and the empty bugs are broken!?"
 
-肩掛け布袋から出したものの惨状に、ヒナタは悲痛な声でうめいた。
+Hinata groaned with a sorrowful voice at the disastrous sight of what he had taken out of his shoulder cloth bag.
 
-硬い石や何かと一緒に詰め込まれたアカマルスグリはつぶれて汁が出てしまっているし、スリナキムシの幼虫のものと思しき抜け殻もバラバラになっている。
+The red currants, packed together with hard stones and other objects, were crushed and leaking juice, while the shedded insect exoskeletons have broken into pieces.
 
-「柔らかいものと硬いものを一緒に入れちゃったらしょうがないだろうな」
+"It can't be helped since you put soft and hard things together."
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0382
-【ヒナタ】「うぅううう〜ムシさんばらばらだー」
+[Hinata] "Uuuuuu‾ Insect-san is broken up‾"
 
-「ほら、貸して。中が汚れてると、次にいれたものも汚れちゃうぞ」
+"Come on, I'll have a look. If the bag is dirty, the next thing you put in will also be dirty."
 
-俺は肩掛け布袋をヒナタから受け取ると、裏返しにして綺麗にした。
+I received the bag from Hinata, turned it inside out and cleaned it.
 
-……これは入れていいものと悪いものを教えなきゃダメだな。
+……I have to teach Hinata what he can put inside and what he can't.
 
-「壊れやすいものは入れちゃダメだぞ」
+"You cannot put anything fragile inside."
 
 ;CHR H02F2 C
 #cg ヒナタ hin_1_02f2 中
 #wipe fade
 
 #voice hinb0383
-【ヒナタ】「こわれやすいもの、ってどのぐらいこわれやすいとダメ？」
+[Hinata] "Fragile, as in how fragile?"
 
-「アカマルスグリなんか指でぎゅってするとつぶれちゃうだろ？　抜け殻も軽くつまんだだけでくしゃっといくから入れないほうがいいな」
+"If you squeeze red currants with your fingers, they will become crushed, right? The shed shells will also crumble if you pinch them lightly, so it’s better not to put any of them in.”
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0384
-【ヒナタ】「そっかー」
+[Hinata] "I see--"
 
-「それから、やる前にいっておくけど、生き物も入れちゃダメだからな」
+"Also, I should tell you before you do it, but don't you put any living things in it.”
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0385
-【ヒナタ】「なんで！？」
+[Hinata] "Why!?"
 
-「ヒナタだって袋かぶせられたりしたら、苦しいし嫌だろ？　ムシとか蛇とか、他の生き物だって一緒なの」
+"Hinata, if someone puts a bag on you, it's painful and you don't like it, right? Bugs, snakes, and other creatures are the same."
 
 ;CHR H04F2 C
 #cg ヒナタ hin_1_04f2 中
 #wipe fade
 
 #voice hinb0386
-【ヒナタ】「ほうほうなるほどー」
+[Hinata] "Ohhh, I see--"
 
-「そういうのは宝物だって思っても、肩掛け布袋に入れちゃダメだぞ」
+"Even if you think such living things are valuable, don't put them in the bag."
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0387
-【ヒナタ】「じゃあ、なにならいれてもいいの？」
+[Hinata] "So what can I put in here?"
 
-「そうだなぁ。木の実とか、綺麗な石ぐらいにしておきなよ」
+"Hmm. You can put a nut or a beautiful stone."
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0388
-【ヒナタ】「おぉ、わかった！」
+[Hinata] "Oh, I get it!!"
 
-……本当にわかったのかな？
+…… Did he really get it?
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
-いまいち不安だけど、嬉々として石を肩掛け布袋に戻し始めたヒナタを、俺は微笑ましい気持ちで見つめた。
+Though I was still worried, I watched Hinata with a fond smile as he merrily began to put away the stones into the bag.
 
-これだけ気に入って使ってもらえるなら、肩掛け布袋だって本望だろう。
+I'm sure the sling bag would wish to be used with such interest. 
 
 ;ヒナタ好感度+1
 #set f1 f1+1
