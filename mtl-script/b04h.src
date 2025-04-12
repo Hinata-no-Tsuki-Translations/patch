@@ -28,23 +28,23 @@
 #wipe fade
 
 #voice hinb0358
-[Hinata] "Hinata's Nunobukuro is a good owl.
+[Hinata] "Hinata's sling bag is a good bag. It can carry anything, rururururu-"
 
-Hinata happily sang while piling up the stones she took out of her shoulder bag on her desk.
+Hinata sang happily as he took out stones from said bag and stacked them up.
 
 ;CHR K01F1A R
 #cg コノミ kon_1_01f1a 右
 #wipe fade
 
 #voice konb0328
-[Konomi] "There are a lot of them‾"
+[Konomi] "There are a lot in there‾"
 
 ;CHR H01F2_A L
 #cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0359
-[Hinata] "Yes! There are many! One, two...a lot!"
+[Hinata] "Yep! There are so many! One, two...a lot!"
 
 ;CHR OFF
 #cg コノミ clear
@@ -57,7 +57,7 @@ Hinata happily sang while piling up the stones she took out of her shoulder bag 
 ;TKface
 
 #voice tikb0289
-[Tsukiyo] "One, two... 10 stones are included, it's amazing."
+[Tsukiyo] "One, two... ten stones are included, amazingly."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -68,25 +68,25 @@ Hinata happily sang while piling up the stones she took out of her shoulder bag 
 #wipe fade
 
 #voice ibab0332
-[Ibara] "What are you going to do with a stone?"
+[Ibara] "What are you going to do with such a thing?"
 
 ;CHR H08F1_A L
 #cg ヒナタ hin_1_08f1_a 左
 #wipe fade
 
 #voice hinb0360
-[Hinata] "You can put it in the cloth!"
+[Hinata] "For putting in bags!"
 
-"... I mean, I have to put something in there no matter what..."
+"... I mean, it's not like you have to put something in there no matter what..."
 
-As she was saying that, Hinata returned the stone she took out to the cloth bag on her shoulder, and she was overjoyed.
+As he said that, Hinata returned the stones into the bag and was very pleased.
 
 ;CHR H07F_A L
 #cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0361
-[Hinata] "Look, there's a lot!"
+[Hinata] "See, there's a lot!"
 
 ;CHR OFF
 #cg イバラ clear
@@ -97,7 +97,7 @@ As she was saying that, Hinata returned the stone she took out to the cloth bag 
 #wipe fade
 
 #voice konb0329
-[Konomi] "Hinata was really happy‾"
+[Konomi] "Hinata seems really happy‾"
 
 ;CHR OFF
 #cg コノミ clear
@@ -108,16 +108,16 @@ As she was saying that, Hinata returned the stone she took out to the cloth bag 
 #wipe fade
 
 #voice ibab0333
-[Ibara] "Isn't it just heavy to walk around with a stone? It's not a beautiful stone, it's just a stone."
+[Ibara] "Isn't it heavy to walk around carrying stones? It's not like it's a beautiful stone, it's just an ordinary stone."
 
 ;CHR H01F2_A L
 #cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0362
-[Hinata] "I've been full, so I'll come full!"
+[Hinata] "Since there's a lot of stones, a lot of things can come out!"
 
-Hinata didn't hear Ibara's words, this time she happily took out the stone.
+Hinata seemingly ignoring Ibara's words, happily took out the stones again.
 
 ;CHR OFF
 #cg イバラ clear
@@ -131,9 +131,9 @@ Hinata didn't hear Ibara's words, this time she happily took out the stone.
 [Konomi] "Hey, Hinata‾ What are you going to use that stone for?"
 
 #voice hinb0363
-[Hinata] "I can put it in the cloth!"
+[Hinata] "It's for putting in the bag!"
 
-"... until you get tired of it, just putting it in and taking it out is fun."
+"... It can't be helped. He's having so much fun taking it out and putting it in until he gets tired of it."
 
 ;CHR OFF
 #cg コノミ clear
@@ -146,14 +146,14 @@ Hinata didn't hear Ibara's words, this time she happily took out the stone.
 ;TKface
 
 #voice tikb0290
-[Tsukiyo] "Looks like it's going to be fun."
+[Tsukiyo] "He seems to be enjoying himself."
 
-"Um, Hinata. Stones are fine, but how about using them to collect shiba walnuts, kachinomi, and other nuts?"
+"Um, Hinata. Enough with stones, how about using the bag to collect hazelnuts, acorns, and other nuts?"
 
-It's not like I'm going to use Hinata for convenience, but I wonder what she'll do with collecting stones, so I can't help but interject unnecessarily.
+It's not like I'm trying to make use of Hinata, but it's not like collecting stones will have any use, so I can't help but interject unnecessarily.
 
 #voice hinb0364
-[Hinata] "Oh! That's right! There's a lot of them, and you don't have to worry! Hinata is coming!"
+[Hinata] "Oh! That's right! A lot of it can fit in the bag and Hinata won't lose them! Hinata will be back!"
 
 ;CHR OFF
 #cg all clear
@@ -166,16 +166,16 @@ It's not like I'm going to use Hinata for convenience, but I wonder what she'll 
 ;TKface
 
 #voice tikb0291
-[Tsukiyo] "Oh, I'm gone."
+[Tsukiyo] "Ah, he left."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0331
-[Konomi] "Oh, it's fast!"
+[Konomi] "Oh, at such a speed‾"
 
-With the stone spread out on the desk, Hinata ran into the forest with bullet-like momentum.
+With the stones laid on the table, Hinata dashed into the forest with bullet-like momentum, leaving us with dumbfounded faces.
 
 ;暗転
 ;#face off
@@ -194,44 +194,44 @@ With the stone spread out on the desk, Hinata ran into the forest with bullet-li
 #wipe fade
 
 #voice hinb0365
-[Hinata] "Hey, hey, I've got Shibagurumi, Kachinomi, and a lot more!"
+[Hinata] "Look, look! I've picked hazelnuts, acorns, and a lot more!"
 
-As soon as Hinata came back, she put the cloth bag upside down on the desk.
+As soon as Hinata came back, he overturned his bag above the desk.
 
-Countless miscellaneous nuts came out of the shoulder bag, and the hard nuts jumped and scattered.
+A countless variety of nuts scattered out of his shoulder bag.
 
-“Oh!?
+"Ah!? It'll fly everywhere if you do that!"
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0366
-[Hinata] "Wow!? It's a Thai hen!"
+[Hinata] "Wha!? Oh no!"
 
 And speaking of what Hinata has collected...
 
-Shibagurumi and Kachinomi are edible, but Suzunone doesn't stand out whether you boil it or roast it.
+Hazelnuts and acorns are edible, but the Persimmon Bonsai fruit cannot be bitten into whether boiled or roasted, and the Bitter Oak has such an astringent flavour that can't be removed no matter how long it's boiled.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0367
-[Hinata] "I'll give everything to Ningen-san!"
+[Hinata] "I'll give EVERYTHING to Human-san!"
 
-"Thank you"
+"Thanks"
 
-Even if I get Suzunone and Nigashii, it's a problem... but I don't want something like this, even though I have it.
+Even if it troubles me, it's rude to be selective and pick and choose what I receive...
 
 ;CHR H08F1_A C
 #cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0368
-[Hinata] "Wow! You said thank you!"
+[Hinata] "Yay! I've been thanked!"
 
-Hinata was overjoyed and started putting away the stones on her desk again.
+The overjoyed Hinata started putting away the stones on the table into his bag again.
 
 ;CHR OFF
 #cg all clear
@@ -244,24 +244,24 @@ Hinata was overjoyed and started putting away the stones on her desk again.
 #wipe fade
 
 #voice ibab0334
-[Ibara] "Why are you putting stones in again?"
+[Ibara] "Why are you putting the stones in again?"
 
 ;CHR H06F2_A L
 #cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0369
-[Hinata] "Because it's a long-awaited cloth bag! You can put a lot of things in it!?"
+[Hinata] "Because it's a bag! To make good use of it! I can put a lot of things in it!?"
 
 #voice ibab0335
-[Ibara] "Shouldn't we put in something better?"
+[Ibara] "Can't we put something better inside?"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0370
-[Hinata] "Good thing?"
+[Hinata] "Something better?"
 
 ;CHR OFF
 #cg イバラ clear
@@ -272,7 +272,7 @@ Hinata was overjoyed and started putting away the stones on her desk again.
 #wipe fade
 
 #voice konb0332
-[Konomi] "That's right. Things that humans can eat, treasures, etc."
+[Konomi] "That's right‾ Things that Human-kun can eat, treasure‾"
 
 ;CHR H04F1_A L
 #cg ヒナタ hin_1_04f1_a 左
@@ -281,16 +281,16 @@ Hinata was overjoyed and started putting away the stones on her desk again.
 #voice hinb0371
 [Hinata] "Ho‾ho‾"
 
-That's right. It would be a great help for me if Hinata kept collecting nuts and other food items like this.
+That's true. It would be a great help for me if Hinata kept collecting nuts and other food items like this.
 
-I'm not trying to overuse it, and that's not why I raised the cloth bag.
+Not that I gave him the bag to make use of him like this.
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0372
-[Hinata] "Well. Are you going to put Takaramono? What is Takaramono?"
+[Hinata] "I see. Are you going to put in trea-sure? What is trea-sure?"
 
 ;CHR OFF
 #cg コノミ clear
@@ -301,7 +301,7 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 #wipe fade
 
 #voice ibab0336
-[Ibara] "Well, it's definitely a beautiful one, isn't it?"
+[Ibara] "Well, of course it has to be something beautiful"
 
 ;CHR OFF
 #cg イバラ clear
@@ -312,7 +312,7 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 #wipe fade
 
 #voice konb0333
-[Konomi] "I think Hinata's treasure is something that Hinata treasures‾?"
+[Konomi] "I think that Hinata's treasure is something important that Hinata cares for greatly‾"
 
 ;CHR OFF
 #cg コノミ clear
@@ -325,14 +325,14 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 ;TKface
 
 #voice tikb0292
-[Tsukiyo] "It's a rare thing, a treasure."
+[Tsukiyo] "Treasure, is a rare thing."
 
 ;CHR H06F1_A L
 #cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0373
-[Hinata] "Wow, it's a big deal! It's beautiful, precious, and rare... but you don't need a human in this bag, do you?"
+[Hinata] "Wow, oh my! It's beautiful, precious, and rare... but I can't fit Human-san in this bag, can I?"
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -343,14 +343,14 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 #wipe fade
 
 #voice ibab0337
-[Ibara] "Why did you put such a thing in there! Besides, it's not beautiful!"
+[Ibara] "Why'd you consider to put such a thing in there! Besides, he's not even pretty!"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0374
-[Hinata] "Well, isn't human-san pretty?"
+[Hinata] "I see, Human-san isn't pretty huh..."
 
 ;CHR OFF
 #cg イバラ clear
@@ -361,28 +361,28 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 #wipe fade
 
 #voice konb0334
-[Konomi] "It might be important for Hinata, but it's not unusual, is it?"
+[Konomi] "It might be important to Hinata, but it's not something rare, is it‾?"
 
 ;CHR H04F1_A L
 #cg ヒナタ hin_1_04f1_a 左
 #wipe fade
 
 #voice hinb0375
-[Hinata] "Why!? There's only one human!?"
+[Hinata] "Why!? There's only one Human-san!?"
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0335
-[Konomi] "Ningen-kun is alone, but if you go to the village, there are lots of people."
+[Konomi] "Human-kun is alone, but out in the village, there are a lot more humans‾"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0376
-[Hinata] "Oh... that was it."
+[Hinata] "Oh... that is right."
 
 ;CHR OFF
 #cg コノミ clear
@@ -395,7 +395,7 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 ;TKface
 
 #voice tikb0293
-[Tsukiyo] "If it's small, it might fit."
+[Tsukiyo] "If you made him smaller, he might fit."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -406,27 +406,27 @@ I'm not trying to overuse it, and that's not why I raised the cloth bag.
 #wipe fade
 
 #voice ibab0338
-[Ibara] "Do you want to cut it into small pieces or crush it?"
+[Ibara] "To make him smaller, do you mean by cutting or by crushing?"
 
-"Don't say scary things!"
+"Don't say something so scary!"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0377
-[Hinata] "Even if it's small, you only need a little bit..."
+[Hinata] "Even if we made him smaller, only a little bit of him will fit inside..."
 
-"Don't even consider Hinata!"
+"Hinata too, stop considering that!"
 
 ;CHR H07F_A L
 #cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0378
-[Hinata] "I understand Hinata! I'm going to look for treasure!"
+[Hinata] "Hinata gets it! Hinata's going to look for treasure!"
 
-Hinata stood up and ran out again.
+As soon as Hinata got to his feet, he flew out of the door.
 
 ;暗転
 ;#face off
@@ -451,66 +451,66 @@ Hinata stood up and ran out again.
 #cg ヒナタ hin_1_07f 中
 #wipe fade
 
-The shoulder cloth bag that Hinata held out was filled with so much content that it changed its shape.
+The shoulder bag that Hinata held out towards me was filled so full that it had changed shape.
 
-"Again, your shoulder bag is full. What did you collect?"
+"Again, your shoulder bag is filled up. What did you collect?"
 
 ;CHR H08F2 C
 #cg ヒナタ hin_1_08f2 中
 #wipe fade
 
 #voice hinb0380
-[Hinata] "Hmm! Various things! TAKARAMONO!"
+[Hinata] "Mmm, various things! Treasure!"
 
 Without hesitation, Hinata turned the shoulder bag upside down again.
 
-“Stones, red currants… shells?”
+"Stones, red currants... empty shells?”
 
 ;CHR H06F2 C
 #cg ヒナタ hin_1_06f2 中
 #wipe fade
 
 #voice hinb0381
-[Hinata] "Oh!? Red and empty bugs are broken!?"
+[Hinata] "Oh!? The red one and the empty bugs are broken!?"
 
-Hinata groaned with a sorrowful voice at the disastrous sight of what she had taken out of her shoulder cloth bag.
+Hinata groaned with a sorrowful voice at the disastrous sight of what he had taken out of his shoulder cloth bag.
 
-Redcurrant stuffed with hard rocks and other things has been crushed and juice is coming out, and the shells that seem to be the larvae of thoracic beetles are also falling apart.
+The red currants, packed together with hard stones and other objects, were crushed and leaking juice, while the shedded insect exoskeletons have broken into pieces.
 
-"It can't be helped if you put soft and hard things together."
+"It can't be helped since you put soft and hard things together."
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0382
-[Hinata] "Uuuuuu‾Mushi-san is apart‾"
+[Hinata] "Uuuuuu‾ Insect-san is broken up‾"
 
-"Look, let me borrow it. If the inside is dirty, the next thing you put in will also be dirty."
+"Come on, I'll have a look. If the bag is dirty, the next thing you put in will also be dirty."
 
-When I received the cloth bag from Hinata, I turned it inside out and cleaned it.
+I received the bag from Hinata, turned it inside out and cleaned it.
 
-……I have to tell you what you can put in this and what you can't.
+……I have to teach Hinata what he can put inside and what he can't.
 
-"Don't put fragile things inside."
+"You cannot put anything fragile inside."
 
 ;CHR H02F2 C
 #cg ヒナタ hin_1_02f2 中
 #wipe fade
 
 #voice hinb0383
-[Hinata] "How fragile must be?"
+[Hinata] "Fragile, as in how fragile?"
 
-“If you squeeze red currants with your fingers, they will be crushed, right? Even the husks will crumble if you pinch them lightly, so it’s better not to put them in.”
+"If you squeeze red currants with your fingers, they will become crushed, right? The shed shells will also crumble if you pinch them lightly, so it’s better not to put any of them in.”
 
 ;CHR H03F1 C
 #cg ヒナタ hin_1_03f1 中
 #wipe fade
 
 #voice hinb0384
-[Hinata] "I see."
+[Hinata] "I see--"
 
-“Also, I should tell you before we do it, but you can’t put living things in it.”
+"Also, I should tell you before you do it, but don't you put any living things in it.”
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
@@ -526,35 +526,35 @@ When I received the cloth bag from Hinata, I turned it inside out and cleaned it
 #wipe fade
 
 #voice hinb0386
-[Hinata] "I see."
+[Hinata] "Ohhh, I see--"
 
-"Even if you think it's a treasure, don't put it in a shoulder bag."
+"Even if you think such living things are valuable, don't put them in the bag."
 
 ;CHR H04F1 C
 #cg ヒナタ hin_1_04f1 中
 #wipe fade
 
 #voice hinb0387
-[Hinata] "So what can I put in there?"
+[Hinata] "So what can I put in here?"
 
-"That's right. You should keep it at least a nut or a beautiful stone."
+"Hmm. You can put a nut or a beautiful stone."
 
 ;CHR H06F1 C
 #cg ヒナタ hin_1_06f1 中
 #wipe fade
 
 #voice hinb0388
-[Hinata] "Oh, I understand!"
+[Hinata] "Oh, I get it!!"
 
-…… Did you really understand?
+…… Did he really get it?
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
-I was a little worried, but I looked at Hinata with a smile as she gleefully began to return the stone to the cloth bag on her shoulder.
+Though I was still worried, I watched Hinata with a fond smile as he merrily began to put away the stones into the bag.
 
-If they like it so much and use it, they'd love to use it as a shoulder bag.
+I'm sure the sling bag would wish to be used with such interest. 
 
 ;ヒナタ好感度+1
 #set f1 f1+1
