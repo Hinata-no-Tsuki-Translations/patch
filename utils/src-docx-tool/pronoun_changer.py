@@ -38,4 +38,4 @@ def gender_flip(text: str) -> str:
 # Example
 s = "She was walking to her car. Her book is on the table."
 print(gender_flip(s))
-# Å® "He was walking to his car. His book is on the table."
+# "He was walking to his car. His book is on the table."

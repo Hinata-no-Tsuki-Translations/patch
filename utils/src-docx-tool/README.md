@@ -27,7 +27,11 @@ pip install python-docx
 pip install -U pip setuptools wheel # prereq for spacy
 
 pip install spacy  # ensure python 3.12 or below as of 2025-Apr or use pip3.12 install
+
+python -m spacy download en_core_web_sm
 ```
+
+Refer https://spacy.io/usage
 
 ---
 
