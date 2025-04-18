@@ -75,9 +75,9 @@ def gender_flip(text: str) -> str:
         elif word.isupper():
             out = out.upper()
 
-        out_tokens.append(out)
+        out_tokens.append(out + token.whitespace_)
 
-    return " ".join(out_tokens)
+    return "".join(out_tokens)
 
 
 # Example usage
