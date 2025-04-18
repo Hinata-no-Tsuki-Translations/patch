@@ -4,9 +4,14 @@ import json
 from pathlib import Path
 from docx import Document
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
+from pronoun_changer import gender_flip
+from typing import Callable
 
 ENCODING = 'shift_jis'
 CONFIG_FILE = 'config.json'
+
+# Ensure custom_function has function type that takes a string and returns a string
+custom_function: Callable[[str], str] = gender_flip
 
 def combine_src_to_docx(output_filename):
     doc = Document()
@@ -91,6 +96,31 @@ def split_docx_to_src(input_filename):
 
         print(f"Recreated {filename} with comment lines restored from original.")
 
+def process_src_files():
+    """Process all .src files in the current directory with custom_function, overwriting them."""
+    for file in Path('.').glob('*.src'):
+        with file.open('r', encoding=ENCODING, errors='ignore') as f:
+            lines = f.readlines()
+
+        processed_lines = []
+        for line in lines:
+            stripped = line.strip()
+            if stripped == '' or stripped.startswith(';') or stripped.startswith('#'):
+                processed_lines.append(line)
+            else:
+                processed_line = custom_function(line.rstrip('\n')) + '\n'
+                processed_lines.append(processed_line)
+
+        # Warning if line counts differ
+        if len(processed_lines) != len(lines):
+            print(f"Warning: Line count mismatch for {file.name}. Original: {len(lines)}, Processed: {len(processed_lines)}")
+
+        with file.open('w', encoding=ENCODING, errors='ignore') as f:
+            f.writelines(processed_lines)
+
+        print(f"Overwritten: {file.name}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Combine or split .src files and .docx documents.")
     subparsers = parser.add_subparsers(dest='command')
@@ -101,12 +131,16 @@ def main():
     split_parser = subparsers.add_parser('split', help='Split .docx into .src files with line replacements')
     split_parser.add_argument('input', help='Input .docx filename')
 
+    process_parser = subparsers.add_parser('process', help='Process .src files in-place using custom_function on non-comment, non-blank lines')
+
     args = parser.parse_args()
 
     if args.command == 'combine':
         combine_src_to_docx(args.output)
     elif args.command == 'split':
         split_docx_to_src(args.input)
+    elif args.command == 'process':
+        process_src_files()
     else:
         parser.print_help()
 
