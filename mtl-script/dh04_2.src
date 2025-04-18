@@ -1,0 +1,911 @@
+
+;EVCG EV036A1
+;#face off
+
+
+#cg イベント ev036a1 背景
+#wipe fade
+
+;このイベント中、ヒナタフェイス表示なし
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konf0021
+[Konomi] "Oh? The hut is on fire."
+
+"Konomi?!"
+
+;FACE K05F
+#face f_kon_0_05f 94 466
+
+#voice konf0022
+[Konomi] "I came to visit for the first time in a while and was shocked to see the hut on fire. It's amazing, it's burning like crazy."
+
+"Huh... What the hell are you talking about? Are you really that amused by a hut on fire?"
+
+Even though the hut was on fire, Konomi's tone was as relaxed and interested as ever, which made me think.
+
+Konomi looked a little surprised at my rude words.
+
+Ah, I know in my head that it can't be helped if I get hit by a typo.
+
+Apparently I myself was harboring a lot of anger about the hut burning that I had no idea where to vent it.
+
+;FACE K08F
+#face f_kon_0_08f 94 466
+
+#voice konf0023
+[Konomi] "I didn't start the fire, you know?"
+
+Konomi didn't respond to my venting with anger or sadness, but simply brushed it off as she usually did.
+
+I felt as if I was being criticized by his calmness, so I instinctively looked away.
+
+"...Ah, I know that. But... I'm sorry."
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konf0024
+[Konomi] "Hmm? Sorry, human, did I do something wrong?"
+
+"...Because I took out my anger on someone else."
+
+;FACE K01F2B
+#face f_kon_0_01f2b 94 466
+
+#voice konf0025
+[Konomi] "Oh, I see. It's okay. I'm not angry."
+
+"Oh, come on," Konomi said with a nonchalant laugh. The fact that she hadn't blamed me in the first place, let alone forgiven me, made me feel even more guilty.
+
+Konomi also spoke with admiration as she looked up at the burning mountain hut.
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konf0026
+[Konomi] "Fire is so violent. It can consume a hut this big. Humans don't care that much about using things like this."
+
+"human?"
+
+Konomi calls me "human". Since she calls me human, does that mean she saw someone other than me?
+
+I had a terrible feeling, as if the hair on my entire body was standing on end.
+
+"Konomi, did you really... see this hut being set on fire?"
+
+Konomi tilts her head.
+
+;FACE K05F
+#face f_kon_0_05f 94 466
+
+#voice konf0027
+[Konomi] "I saw it, some humans starting a fire?"
+
+Even though Konomi was here, safe and sound, I heard the sound of my blood draining.
+
+"Did something happen to you?!"
+
+;FACE K06F
+#face f_kon_0_06f 94 466
+
+#voice konf0028
+[Konomi] "They looked aggressive, unlike humans, so they were hiding. There were only male humans there. It was one bully and his friends."
+
+My suspicions were correct. It was them who set the shack on fire. It must have been the work of the general store owner's son and his entourage.
+
+Did they come all the way here relying on numbers...?
+
+"...I see. I'm glad they didn't find Konomi."
+
+Although there was nothing to be worried about chronologically, I was overcome with a strange tension, and I felt relieved knowing that Konomi was right in front of me.
+
+The fact that Konomi is here and smiling safely means they didn't catch her.
+
+I do wish they had stopped setting the fire then, but if they had, Konomi would probably have been caught by those guys.
+
+If these people were so upset that they quietly set fire to a hut deep in the forest, what will they do if they find an elf? I have no idea, but it's likely to be terrible.
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konf0029
+[Konomi] "I guess it's better that we weren't found after all."
+
+"Oh, I think that was the right decision."
+
+#voice hinf0307
+[Hinata] "A human... did that to Koya. That's terrible, that's terrible..."
+
+There was a sound like something in the hut had burned down.
+
+The fire will continue to burn because there is so much to burn.
+
+Hinata stared in shock at the burning hut.
+
+"...Let's go, Hinata."
+
+It was too painful for me to see Hinata like that any more, so I took her arm and left the place.
+
+#bgvoice stop
+;BGMch2 amb002 再生
+#bgvoice amb002
+
+;背景：森（夜）
+;BG:BG04_3
+#cg all clear
+#bg BG04_3
+#wipe fade
+
+Hinata was no longer showing her usual energy and was dragged along by me.
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hinf0308
+[Hinata] "...I wonder if it's still burning now."
+
+She seemed curious about the direction of the hut where it was still bright, but didn't seem to have the courage to look in that direction, so she looked up at me.
+
+"Well..."
+
+I answered without looking back.
+
+;CHR K01F1A L
+#cg コノミ kon_1_01f1a 左
+#wipe fade
+#voice konf0030
+[Konomi] "You two have lost your energy."
+
+;CHR I07F R
+#cg イバラ iba_1_07f 右
+#wipe fade
+#voice ibaf0038
+[Ibara] "What's wrong, why are you so depressed?"
+
+"Ibara?!"
+
+Ibara, who has appeared for the first time in a long time, is still puffing up his chest arrogantly.
+
+;CHR I11F1 R
+#cg イバラ iba_1_11f1 右
+#wipe fade
+#voice ibaf0039
+[Ibara] "I came here and tried it and was surprised to see the hut on fire."
+
+"That's why I'm so depressed."
+
+;CHR K02F2 L
+#cg コノミ kon_1_02f2 左
+#wipe fade
+#voice konf0031
+[Konomi] "I see, so you were disappointed because your shed burned down."
+
+...I feel like they understand something a little differently, but I wonder if Konomi and Ibara are worried about me in their own way.
+
+I was grateful for that.
+
+;CHR I09F R
+#cg イバラ iba_1_09f 右
+#wipe fade
+#voice ibaf0040
+[Ibara] "Why did it burn? Surely there weren't enough trees nearby to cause a forest fire?"
+
+"Apparently some people from my village came to set it on fire."
+
+I answered as nonchalantly as possible, but the fact still planted a vague pain in my chest.
+
+;CHR K07F L
+#cg コノミ kon_1_07f 左
+#wipe fade
+#voice konf0032
+[Konomi] "I saw it."
+
+;CHR I02F R
+#cg イバラ iba_1_02f 右
+#wipe fade
+#voice ibaf0041
+[Ibara] "What?! A human from the human village?"
+
+Ibara was surprised, then muttered with a very serious look on his face.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibaf0042
+[Ibara] "...If humans are coming all the way to a place like this, we need to strengthen the barrier... Maybe I should let my brother know."
+
+"...Hmm? Wait a minute. Did you come all the way here?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibaf0043
+[Ibara] "What?"
+
+Ibara said something strange, and I couldn't help but ask him again.
+
+"I was the first to live there, and the fact that there was a hut there means there must have been humans there, right? And yet, humans came in..."
+
+It's almost as if humans can't get this far.
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibaf0044
+[Ibara] "It's not likely that humans would come into this area very often."
+
+"What about me? I'm in there..."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibaf0045
+[Ibara] "At the moment, there shouldn't be any people other than humans who have deep ties to elves. There's no way that such people could come this far."
+
+"What do you mean?"
+
+As I asked this question, I remembered the vague feeling of unease I had the first time I came here.
+
+The feeling was so faint that I didn't even notice it was strange, and it blended in with the awe I had felt in the forest...and I also recalled the chain of events that had led me to this place.
+
+Come to think of it, did I meet Hinata before I reached the hut?
+
+If it weren't for Hinata's guidance, I wouldn't have arrived here...
+
+As soon as I realized this, a chill ran down my spine for some reason.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+#voice ibaf0046
+[Ibara] "The hut... and the forest around here are like that too, but normally humans wouldn't be able to get this far. The elves have multiple barriers in place."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0047
+[Ibara] "When the moon was eaten by the wolf, the most important barrier was broken, but the barrier that makes humans not want to enter here won't be broken so easily."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibaf0048
+[Ibara] "Until now, humans have never willingly come in here, right?"
+
+"Because that's because monsters appear..."
+
+Don't go too deep into the forest because monsters will appear.
+
+It's a story that was taught to me from an early age in the remote village where I grew up.
+
+This feeling has become so ingrained in me that even now as an adult, I still have a deep reverence for the forest, even when I'm in a group.
+
+That's why superstitious people don't like to go into the forest. That's all there is to it...
+
+;FACE K01F2A
+#face f_kon_0_01f2a 94 466
+
+#voice konf0033
+[Konomi] "Even though there are monsters, if you ask me which is more dangerous, bears or wolves, the monsters in this forest aren't that dangerous."
+
+"...Now that you mention it"
+
+Slimes and ivy monsters are scary monsters if you don't know what they are, but that doesn't mean there aren't any countermeasures.
+
+Compared to wild beasts, they are much easier to control.
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibaf0049
+[Ibara] "The greedy humans who have been slaughtering wild animals and clearing forests are not going to be scared of the forest just because of slimes and ivy monsters."
+
+The monsters are small enough that they can be dealt with with a small knife, while the slimes can be dealt with with fire.
+
+It's true that bears and wolves may be scarier.
+
+...Huh? Then why was it forbidden to enter such a dark forest?
+
+"Are you saying that the reason the villagers were afraid of monsters and didn't want to go near the forest was because of the elf's barrier?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+#voice ibaf0050
+[Ibara] "That's right. It's supposed to be designed so that humans, orcs, trolls, and other evil beings with a will of their own wouldn't want to come in."
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibaf0051
+[Ibara] "Even if you don't have a reason, if you can explain it to yourself because you're scared and it's the right thing to do, you'll feel that your decision not to go into the forest was the right one, right?"
+
+"...Then why?"
+
+Why would the villagers come so close to the dark forest to set fire to my hut?
+
+Also, I saw an orc the other day.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0052
+[Ibara] "Well? I'd rather know that."
+
+;FACE K07F
+#face f_kon_0_07f 94 466
+
+#voice konf0034
+[Konomi] "Maybe it's humans' fault?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"picture?"
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+#voice konf0035
+[Konomi] "You see, human, sometimes you look at the book and say it's 'out of place', don't you? Oh, maybe it's not actually out of place, it's just 'different'?"
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice konf0036
+[Konomi] "Humans have been slowly cutting down the forests, and the elves' power is the power of nature, so perhaps they lost their power as the forests were cut down."
+
+"Ah..."
+
+Konomi's words took my breath away.
+
+I wonder why I didn't notice.
+
+No, maybe I didn't notice because I'm human. So, is that why the orcs appeared around this hut...?
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+#voice konf0037
+[Konomi] "Humans are slowly expanding their territory by cutting down the forest... so maybe that's why they can now go into the depths of the forest that they couldn't go into before?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Humans have been clearing forests for a long time, just as they have been since ancient times.
+
+Even now that they have built a village and surrounded it with a wall, they still cut down trees from the forest and use them as needed.
+
+The same is probably true of the foreign countries adjacent to this forest.
+
+The forest had been gradually cut away since the books were written.
+
+As a result, the monsters who lost their homes were gradually driven deeper into the forest, and the flower fields that had been maintained by mysterious powers also began to shrink in their breeding grounds.
+
+I guess the change has been gradual since the book was written, so it wasn't too far off and I missed it.
+
+…So that’s why the map seemed misaligned.
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+#voice konf0038
+[Konomi] "Also, maybe humans are to blame too."
+
+"Eh? Me?"
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+#voice konf0039
+[Konomi] "Yeah, I see."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibaf0053
+[Ibara] "Oh, I see. That may be possible."
+
+Ibara understood first, then stammered, seeming even more embarrassed to say what he meant.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"...What do you mean?"
+
+When asked again, Ibarra hesitated before speaking.
+
+;CHR I10F2 C
+#cg イバラ iba_1_10f2 中
+#wipe fade
+#voice ibaf0054
+[Ibara] "...Humans may have come this far, but they're still human."
+
+"Yeah. Well... that's true."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0055
+[Ibara] "Maybe the path was made because that human traveled between here and the human settlement."
+
+"...Has the path been completed?"
+
+I felt like he was telling me something terribly ominous. But I couldn't help but ask again.
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice konf0040
+[Konomi] "When animals move through the forest, they create animal trails, right? Then, animals of the same species start to use those trails, right? I think it's the same for humans, right?"
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibaf0056
+[Ibara] "There are visible and invisible roads. Perhaps the passage of humans has created invisible roads on top of the visible roads."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"I... I didn't mean to... So, I paved the way for them? So it was my fault that they came here?"
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+
+#voice hinf0309
+[Hinata] "I see, it's the humans' fault. Well, there's nothing we can do about it."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata accepted that a path had been created, and instead of blaming me, she gave a wry smile.
+
+"Because of me, the hut..."
+
+While I was shocked, Konomi continued in her usual nonchalant manner.
+
+;CHR K03F L
+#cg コノミ kon_1_03f 左
+#wipe fade
+#voice konf0041
+[Konomi] "I think so, but even if Human-kun hadn't come, other humans would probably have started coming around here soon."
+
+Then Ibara nodded in agreement.
+
+;CHR I11F1 R
+#cg イバラ iba_1_11f1 右
+#wipe fade
+#voice ibaf0057
+[Ibara] "...That may be true. Humans are greedy. The time may not be far off when they will use fire to their advantage and burn down the entire forest."
+
+As a human being, and someone who has aspired to be an academic, this shouldn't be a bad thing, but there's something terrifying about it.
+
+I can't help but feel that to do so would incur the wrath of not only living beings with a way of telling stories, but something even more monstrous.
+
+But at the same time, I think it is something that is inevitable and that all humans will have to go through someday.
+
+The seeds of this idea are probably already scattered here and there.
+
+;CHR I04F R
+#cg イバラ iba_1_04f 右
+#wipe fade
+#voice ibaf0058
+[Ibara] "That's why elves distance themselves from humans. You understand, right?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"……Yeah"
+
+I could only nod weakly to Ibara's words.
+
+"So that's why the elves chose to close the barrier and live in a different world."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibaf0059
+[Ibara] "That's it."
+
+Ibara looked away from me with a slightly painful look on his face and grabbed Hinata's arm.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibaf0060
+[Ibara] "Hinata, let's go back!"
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hinf0310
+[Hinata] "Huh?!"
+
+Hinata looked confused at the sudden introduction, but Ibara continued trying his best to persuade her.
+
+;CHR I06F C
+#cg イバラ iba_1_06f 中
+#wipe fade
+#voice ibaf0061
+[Ibara] "We were surprised when Hinata ate human food and avoided her, but we're Hinata's friends now. So you can come back."
+
+"Thorns..."
+
+;CHR I09F C
+#cg イバラ iba_1_09f 中
+#wipe fade
+#voice ibaf0062
+[Ibara] "I won't call Hinata Nanashi anymore, and I won't let anyone call me that. So, let's go back to the elves."
+
+;FACE H04F2_A
+#face f_hin_0_04f2_a 94 466
+
+#voice hinf0311
+[Hinata] "But... Hinata, I want to be with a human."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0063
+[Ibara] "You are half filthy human, and half noble elf. Humans are people who even harm their own kind. I can't live with you."
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinf0312
+[Hinata] "Hinata, I don't think humans are like that. We've been together forever."
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+#voice ibaf0064
+[Ibara] "No. It's not about humans. Think about it, if there had been a human in the hut, they might have been set on fire and died!"
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hinf0313
+[Hinata] "Ah... Maybe the human was injured too...?"
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+#voice ibaf0065
+[Ibara] "That's right. And yet they started the fire. Surely someone who would harm a human wouldn't harm Hinata, who is half a different species!"
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+#voice ibaf0066
+[Ibara] "But living with humans means having some interaction with those other people. Do you understand that, Hinata?"
+
+;FACE H03F2_A
+#face f_hin_0_03f2_a 94 466
+
+#voice hinf0314
+[Hinata] "I don't know. I don't know... but, ahhhhhh..."
+
+Hinata kept glancing at me as if asking for help in response to Ibara’s anger.
+
+But I couldn't say anything.
+
+Because what Ibarra says is true.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I was treated as a heretic just for being able to read. And it was hard to imagine that Hinata, a person of a different race, would be accepted by the villagers in the first place...
+
+And no matter how much I try to live a secluded life, I'm a human, and it's not that easy to live a life without interacting with other humans.
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+#voice konf0042
+[Konomi] "Hmm, maybe it's different for humans? But the Big Elf also said that humans tend to give up thinking when they're all facing the same direction."
+
+;FACE H02F2_A
+#face f_hin_0_02f2_a 94 466
+
+#voice hinf0315
+[Hinata] "Does that mean humans do the same things as other humans? I don't think Hinata would do that."
+
+"I won't do that... though."
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+#voice konf0043
+[Konomi] "Maybe humans are the ones who get harmed? If you're with Hinata, you might get bullied by other humans."
+
+;FACE H03F2_A
+#face f_hin_0_03f2_a 94 466
+
+#voice hinf0316
+[Hinata] "Will humans also be bullied because of Hinata...?"
+
+"...No, it's not Hinata's fault."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It had always been difficult to get along with the people in the village.
+
+The reason I ended up getting set on fire this time was probably because they had always looked down on me.
+
+Considering that, the hut would probably have been set on fire regardless of whether or not he had heard about Hinata.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0067
+[Ibara] "If humans stay here like this, the path will remain..."
+
+Ibara spoke to me with a look of difficulty on his face.
+
+...Ah, I see. That means to get out of the forest, and it's hard to say because it's a one-sided attack on me.
+
+"...the forest will leave soon."
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+#voice ibaf0068
+[Ibara] "...I see."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+#voice konf0044
+[Konomi] "Are you going back to the village?"
+
+"No... I can't go back to the village, and I don't want to."
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+#voice konf0045
+[Konomi] "I see, so what should we do then?"
+
+"...Maybe I should go on a trip."
+
+;CHR K01F2B C
+#cg コノミ kon_1_01f2b 中
+#wipe fade
+
+#voice konf0046
+[Konomi] "Then I'll be with Tsukiyo."
+
+"Has Tsukiyo gone on a trip?"
+
+I see, so that's why Tsukiyo isn't here.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F R
+#cg イバラ iba_1_01f 右
+#wipe fade
+#voice ibaf0069
+[Ibara] "Tsukiyo set off to find the Dark Elf. ...He said he was sorry to Hinata."
+
+;CHR H02F2_A L
+#cg ヒナタ hin_1_02f2_a 左
+#wipe fade
+#voice hinf0317
+[Hinata] "Huh...? Why are you sorry...?"
+
+;CHR I11F1 R
+#cg イバラ iba_1_11f1 右
+#wipe fade
+#voice ibaf0070
+[Ibara] "Well? Even if you ask me, I don't know."
+
+Tsukiyo had also been avoiding Hinata for a while, so maybe that was what was bothering him.
+
+Perhaps he didn't even come to say hello before he left on his journey because he was worried about it.
+
+...I see, Tsukiyo has found her own path.
+
+;CHR H05F_A L
+#cg ヒナタ hin_1_05f_a 左
+#wipe fade
+#voice hinf0318
+[Hinata] "I see... Then I'll have to ask Tsukiyo. That's right, maybe Hinata should try and find her mother too!"
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice konf0047
+[Konomi] "Oh, that might be a good idea."
+
+;CHR I09F R
+#cg イバラ iba_1_09f 右
+#wipe fade
+#voice ibaf0071
+[Ibara] "What?! Is Hinata not going to come back to us?!"
+
+;CHR H11F_A L
+#cg ヒナタ hin_1_11f_A 左
+#wipe fade
+#voice hinf0319
+[Hinata] "But if I go back, I'll be separated from humans forever!"
+
+;CHR I10F1 R
+#cg イバラ iba_1_10f1 右
+#wipe fade
+#voice ibaf0072
+[Ibara] "Well...! We can't take humans with us, that's true... but even so, Hinata will still have to live with humans!"
+
+;CHR H01F1_A L
+#cg ヒナタ hin_1_01f1_a 左
+#wipe fade
+#voice hinf0320
+[Hinata] "As long as there are humans, everything will be fine!"
+
+"...Does that mean I should help you find your mother?"
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 左
+#wipe fade
+#voice hinf0321
+[Hinata] "Because searching for something was more fun! Let's search!"
+
+Hinata finally broke out into a happy smile as she came up with a new idea for fun.
+
+"...That's true. That might be a good idea."
+
+;CHR I09F R
+#cg イバラ iba_1_09f 右
+#wipe fade
+#voice ibaf0073
+[Ibara] "Are the humans going to take Hinata away?!"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice konf0048
+[Konomi] "Oh, that's nice. Sounds fun."
+
+;CHR H01F2_A L
+#cg ヒナタ hin_1_01f2_a 左
+#wipe fade
+#voice hinf0322
+[Hinata] "Right?! Right?! I'm going to look for humans and my mother!"
+
+Although it may seem like she is forcing herself somehow, I find myself relieved that Hinata has returned to her usual form.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+That's right, even though I said I wanted to leave the village, I couldn't take any bold action because I didn't have a goal.
+
+I felt bad for Ibara who was still in shock, but if he had the goal of finding Hinata's mother, he might be able to go to the town, or even the royal capital.
+
+"...How long will Hinata be able to pass through the barrier?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+#voice ibaf0074
+[Ibara] "I think it'll be okay for a little while longer..."
+
+Just a little longer... That's right. The full moon is almost here.
+
+"...I'm sorry. If you have time, could you let me think about it a bit more?"
+
+When I said that, Ibara looked at me, then distanced himself from Hinata.
+
+;CHR I10F1 C
+#cg イバラ iba_1_10f1 中
+#wipe fade
+#voice ibaf0075
+[Ibara] "We don't have much time, so make a decision quickly."
+
+"……Understood"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I10F1 R
+#cg イバラ iba_1_10f1 右
+#wipe fade
+#voice ibaf0076
+[Ibara] "...Let's go, Konomi."
+
+;CHR K03F L
+#cg コノミ kon_1_03f 左
+#wipe fade
+#voice konf0049
+[Konomi] "Eh? Are you going? I was thinking about staying with you humans too."
+
+Ibara glances at me.
+
+Whatever I choose, I guess it's fine if you're going to let me decide.
+
+;CHR I04F R
+#cg イバラ iba_1_04f 右
+#wipe fade
+#voice ibaf0077
+[Ibara] "Just go. If we don't, what will happen if we get caught by the others? The person who set the hut on fire might still be around there!?"
+
+;CHR K02F2 L
+#cg コノミ kon_1_02f2 左
+#wipe fade
+#voice konf0050
+[Konomi] "Wow, that's terrible."
+
+…Even if I took her and ran away, if something were to happen, the best I could do would be to protect just Hinata. And even then, I wouldn’t be able to protect her unless I tried really hard.
+
+It would certainly be better if Ibara, Konomi and the others returned now.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+#voice ibaf0078
+[Ibara] "...See you later, human."
+
+"……Yeah"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ibara took Konomi away, leaving Hinata behind for now.
+
+Once the thorns had left, Hinata looked up at me with her usual innocent look.
+
+;CHR H01F1_A C
+#cg ヒナタ hin_1_01f1_a 中
+#wipe fade
+#voice hinf0323
+[Hinata] "Hey hey, human! We've lost our fur, so where are we going to sleep from now on!?"
+
+"Ah, you're right. That's a bit of a problem."
+
+;CHR H11F_A C
+#cg ヒナタ hin_1_11f_a 中
+#wipe fade
+#voice hinf0324
+[Hinata] "If we go on a trip, we can't take Koya with us, right?! Hinata is used to sleeping outside, but humans aren't used to it, right?!"
+
+;CHR H08F1_A C
+#cg ヒナタ hin_1_08f1_a 中
+#wipe fade
+#voice hinf0325
+[Hinata] "I'll show you where Hinata sleeps!"
+
+Hinata said this happily, as if she enjoyed the idea of teaching me things.
+
+#bgm 0 stop
+#bgvoice stop
+
+;dh05_1へ
+#next dh05_1

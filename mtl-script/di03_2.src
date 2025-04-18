@@ -5,27 +5,27 @@
 #bg BG16_1
 #wipe fade
 
-I also laid down in the same way.
+I lay down in the same way.
 
-The sky is high and the sun is bright, making my eyes water.
+The sky is high and the sun is so bright that it brings tears to my eyes.
 
 A white moon hung in the blue sky.
 
 "...Ah, I'm tired."
 
-In an abnormal situation like being attacked by tentacles, it would be a pain to even stand up and walk.
+Being attacked by tentacles is such an abnormal situation that it makes it difficult to even stand and walk.
 
-I'm so exhausted that if I was guaranteed that it wouldn't rain or that animals wouldn't come near me, I would just stay here and fall asleep.
+I'm so tired that if there was some guarantee that it wouldn't rain and that no animals would come near, I would just fall asleep right here.
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
 
 #voice ibac0213
-[Ibara] “I came all the way to pick fruit, but is it all over for today?”
+[Ibara] "I came all the way here to pick fruit, but is that all for today?"
 
-"That's right. For now, I want to sleep."
+"Yeah. I just want to sleep."
 
-Close your eyes while looking up at the sky.
+I close my eyes while looking up at the sky.
 
 "Hey, Ibara."
 
@@ -33,7 +33,7 @@ Close your eyes while looking up at the sky.
 #face f_iba_0_02n 94 466
 
 #voice ibac0214
-[Ibara] “Hmm? What?”
+[Ibara] "Hmm? What is it?"
 
 "I'm thinking of going somewhere far away."
 
@@ -41,45 +41,45 @@ Close your eyes while looking up at the sky.
 #face f_iba_0_01n 94 466
 
 #voice ibac0215
-[Ibara] “Are you going somewhere now?”
+[Ibara] "Are you going somewhere now?"
 
-“From now on…I haven’t decided when yet, but it will be in the near future.”
+"From now on... I haven't decided when yet, but it will be soon."
 
 ;CHR I05N C
 #cg イバラ iba_1_05n 中
 #wipe fade
 #voice ibac0216
-[Ibara] "Did you find a new map in the book in the mountain hut? What kind of treasure are you looking for?"
+[Ibara] "Did you find a new map in the book at the mountain hut? What kind of treasure are you going to look for?"
 
-Ibara sat up with an excited look on his face.
+Ibarra sat up with an excited look on his face.
 
-"I'm not going looking for something...I'm abandoning the village."
+"I'm not going out looking for anything... I'm abandoning the village."
 
 ;CHR I08N C
 #cg イバラ iba_1_08n 中
 #wipe fade
 #voice ibac0217
-[Ibara] "Huh? What do you mean by throwing it away?"
+[Ibara] "What? What do you mean, throw it away?"
 
-``It's not the mountain hut I live in now, it's much further away... I'm going to go to another country and never come back here.''
+"Not in the cabin where I live now, but somewhere much further away... maybe even to another country, and never to come back here again."
 
 ;CHR I09N C
 #cg イバラ iba_1_09n 中
 #wipe fade
 #voice ibac0218
-[Ibara] “………”
+[Ibara] "Huh..."
 
-Ibara looked surprised.
+Ibarra looked shocked.
 
 ;CHR I02N C
 #cg イバラ iba_1_02n 中
 #wipe fade
 #voice ibac0219
-[Ibara] “Well, then… what are we going to do after that?”
-"I haven't thought about it yet. If there's somewhere that will hire me, I'll work... then..."
+[Ibara] "And then... what happens after that?"
+"I haven't thought about it yet. If there's a place that will hire me, I'll work there... and then..."
 
-There is no clear purpose or anything like that.
-I just wanted to go somewhere.
+There's no clear purpose or anything like that.
+Anyway, I wanted to go somewhere.
 
 Somewhere where I don't have to remember the village anymore.
 
@@ -87,41 +87,41 @@ Somewhere where I don't have to remember the village anymore.
 #cg イバラ iba_1_01n 中
 #wipe fade
 #voice ibac0220
-[Ibara] “Oh, then what happens when you said you were going to investigate and research based on the books in the hut? Are you going to take that with you too?”
+[Ibara] "Well, then what about all the research and studies you said you were doing based on the books in the hut? Are those going to disappear too?"
 
-"...I guess that's what it will be like."
+"...That's probably what will happen."
 
 ;CHR I10N1 C
 #cg イバラ iba_1_10n1 中
 #wipe fade
 #voice ibac0221
-[Ibara] "Does that mean we're leaving the Elf border and going even further?"
+[Ibara] "Does that mean we're going even further and further away from the Elven border?"
 
-"Yeah. I guess so."
+"Yeah, that's what happens."
 
 ;CHR I01N C
 #cg イバラ iba_1_01n 中
 #wipe fade
 #voice ibac0222
-[Ibara] “W-where are you planning on going?”
+[Ibara] "W-Where are you planning to go?"
 
-"I haven't thought about that yet either. For now, let's wait for the full moon... first go to a distant town, then... even further away... let's just go on a journey."
+"I haven't thought about that yet. For now, I'll wait for the full moon... First, I'll go to a distant town, and then... go even further away... Then I'll just continue traveling."
 
 ;CHR I11N2 C
 #cg イバラ iba_1_11n2 中
 #wipe fade
 #voice ibac0223
-[Ibara] "Going far..."
+[Ibara] "Going far away..."
 
-Ibarra sullenly fell silent and hugged his knees.
+Ibarra fell silent and hugged his knees.
 
-He said he would never return to the elves, but he probably wasn't serious.
+He said he'd never return to the elves, but I don't think he was serious.
 
-So, first of all, let's return Ibara to the elves before the full moon, and then go on a journey.
+So, for now, let's return the thorns to the elves before the full moon, and then we can set off on our journey.
 
-I don't know what will happen even more than I do now, but now that I know for certain that I've been robbed and made fun of, I can't stay in the village anymore.
+I don't know what will happen if it gets any worse than it is now, but now that I know for sure that thieves have broken into my village and I'm being ridiculed, I can't stay in the village any more.
 
-In the end, no matter how I thought about it, the conclusion came back to that.
+In the end, no matter how you look at it, the conclusion comes back to that.
 
 ;di04へ
 #next di04_1

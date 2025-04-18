@@ -57,93 +57,93 @@
 #voice ibab0696
 [Ibara] "Hey, human. Be careful not to let any light leak outside for a while."
 
-“What happened all of a sudden?”
+"What's this all of a sudden?"
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0697
-[Ibara] "Moonless nights will soon begin, right? After the moon is eaten by wolves, the nights in Tsukigakure are dangerous."
+[Ibara] "The moonless nights will soon begin, won't they? The moonlit nights after the moon is eaten by the wolves are dangerous."
 
-"I guess Tsukigakure no Yoru means the new moon?"
+"Does the night of the hidden moon refer to the new moon?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-The moon is eaten by a wolf. This has been said about lunar eclipses for a long time.
+The moon is eaten by a wolf. That's what people have been saying about lunar eclipses since ancient times.
 
-A wolf constantly chases the moon, and when it catches up with the moon, it eats it and turns the night into complete darkness.
+A wolf is constantly chasing the moon, and when it catches up with it, it tries to eat it and make the nights a world of complete darkness.
 
-It is said that they try to eat humans when it gets dark.
+And when it gets dark, it tries to eat humans.
 
-At that time, various monsters other than wolves are aiming to eat humans.
+At that time, there will be many other monsters besides wolves trying to eat humans.
 
-Therefore, since ancient times, humans have tried to make the moon vomit out of it by making noise, praying, and doing various other things.
+That's why, since ancient times, humans have tried various things to try to make the moon spit out, such as making noise or offering prayers.
 
-However, research has now shown that this does not seem to be the case.
+However, research has now shown that this is not necessarily the reason it occurs.
 
-Whether there is a lunar eclipse or a solar eclipse, the world's twilight will never come.
+Whether there is a lunar eclipse or a solar eclipse, twilight will not come to the world.
 
-Lunar eclipses and solar eclipses are rare, but if the world were to end due to these events, they are so common that the world has already ended many times.
+Lunar and solar eclipses are rare, but if the world were to end because of them, then the world would have ended many times over.
 
-However, for those who don't know this, lunar eclipses are still believed to be when a wolf ate the moon.
+However, for those who are unaware of this, a lunar eclipse is still believed to be a wolf eating the moon.
 
-The moon is a member of the family of stars, and stars are lumps of ground that seem to be enormous in size. There's no way a wolf that size exists, and if there were, they wouldn't go out of their way to eat humans.
+The moon is a type of star, and stars are just lumps of earth that are apparently enormous in size. There's no way a wolf that big exists, and if there was, it wouldn't go out of its way to eat a human.
 
-Even if you think about it proportionately, I don't think a creature that big would be satisfied with just eating a human.
+Even proportionally, it seems unlikely that a creature that large would be satisfied by eating a human.
 
-There's no way there's a wolf that big.
+There's no way a wolf that big exists.
 
-Come to think of it, it's almost half a month since the lunar eclipse--the day the Elf's barrier was apparently broken.
+Come to think of it, it's been almost half a month since the lunar eclipse - the day the elf's barrier was supposedly lifted.
 
-“What do you mean it’s dangerous?”
+"What do you mean, dangerous?"
 
-If you mean that walking at night without a moon is dangerous, then you don't have to go outside.
+If it's dangerous to walk on moonless nights, then the answer is no, you shouldn't go outside.
 
-However, it seems like something really happened to prevent the light from leaking outside.
+And yet, to stop the light from leaking outside, it really does seem like something has come out.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0698
-[Ibara] "After the moon is eaten by wolves, the boundaries between various things become blurred until a new moon appears. Like an elf barrier."
+[Ibara] "After the moon is eaten by the wolves, the boundaries between things become unclear until a new moon appears. Like the barriers of the elves."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0699
-[Ibara] "That's why humans and demons and monsters are more likely to come into contact with each other during the new moon. Humans in particular tend to get confused because they live in a place like this and spend time with us."
+[Ibara] "So during the new moon, humans and monsters are more likely to come into contact with each other. Humans in particular tend to become confused because they've lived in places like this and spent time with us."
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0700
-[Ibara] "Night is originally a descendant of darkness, but the moonlight still protects living things. However, on the night of Tsukigakure, when the moonlight is at its weakest, no light reaches the ground."
+[Ibara] "Although the night is originally the property of darkness, the light of the moon still protects all living things. However, on the night of the moon's hiding, when the moon's light is at its weakest, no light reaches the earth."
 
-"Ibara is worried about me, isn't he?"
+"Ibara, you're worried about me."
 
-Ibara couldn't help but chuckle and blushed brightly.
+Ibara couldn't help but chuckle, and blushed furiously.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0701
-[Ibara] "No one's worried! I've decided that I will defeat the humans! That means I won't get hurt easily!"
+[Ibara] "No one is worried about me! I've decided that I'm going to defeat the humans! So don't get hurt easily!"
 
-"Thank you, Ibara."
+"Thank you, Ibarra."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0702
-[Ibara] "Don't say thank you! Hmph!"
+[Ibara] "Don't even say thank you! Hmph!"
 
 ;CHR OFF
 #cg all clear
@@ -152,7 +152,7 @@ Ibara couldn't help but chuckle and blushed brightly.
 ;SE se013 扉のバタン音
 #se 1 se013
 
-Ibara must have been embarrassed, so he snorted and left.
+Ibara seemed embarrassed, as he snorted and left.
 
 #mes clear
 #wait 1000
@@ -178,13 +178,13 @@ Ibara must have been embarrassed, so he snorted and left.
 #wipe fade
 #wait 1000
 
-"...Ugh, it got completely dark after I took a nap."
+"...Ugh, it's gotten completely dark after I took a nap."
 
-I went out for a walk and came back, and when I went to lie down with the intention of taking a break, it seems that I completely fell asleep.
+Apparently he had gone out, came back and lay down to rest, and fell asleep.
 
-As Ibara told me, I reinforced the hut so that the light wouldn't leak out at night, so if I wanted to make it dark even during the day, it would be dark.
+As Ibara told me, I reinforced the hut so that light wouldn't leak in at night, so now it's dark even during the day.
 
-"However, if I'm sleeping, they might come and wake me up... ah."
+"But, if I'm sleeping, they might come and wake me up... aah."
 
 
 ;ＥＶ絵――EV029『みんなでおやすみ』
@@ -200,7 +200,7 @@ As Ibara told me, I reinforced the hut so that the light wouldn't leak out at ni
 #bg BG07b_1
 #wipe fade
 
-When I looked over, it seemed like everyone was taking a nap, not just me.
+When I looked over, I noticed that it wasn't just me, everyone was taking a nap.
 
 #wait 1000
 #bgvoice stop 1000
@@ -218,44 +218,44 @@ When I looked over, it seemed like everyone was taking a nap, not just me.
 #wipe fade
 
 #voice hinb0575
-[Hinata] "Hmm, mumble..."
+[Hinata] "Mmmm, squishy..."
 
 #voice ibab0703
-[Ibara] "Hmm..."
+[Ibara] "Hmmmm..."
 
 #voice konb0569
 [Konomi] "Hehe... Nyuu..."
 
 #voice tikb0620
-[Tsukiyo] "Soooo..."
+[Tsukiyo] "Sniff sniff..."
 
-Each of them was sleeping comfortably.
+Each of them was breathing soundly and comfortably in their sleep.
 
-It might have been a little cold to see them huddled together.
+Judging from the way they were huddled together, it might have been a little cold.
 
-"I can't help it..."
+"Well, it can't be helped..."
 
-I wrapped a blanket over the four people who seemed to be sleeping comfortably, but there was no sign of them waking up.
+I covered the four of them, who were sleeping comfortably, with blankets, but there was no sign of them waking up.
 
-She's really cute when she sleeps.
+Seriously, she's so cute when she's sleeping.
 
-Well, she's always cute, but it's a peaceful time where the daily frenzy feels like a lie.
+Well, she's cute normally, but it's a peaceful moment that makes it seem like her usual loudness was a lie.
 
-When I look at Hinata and the others' sleeping faces, I can't help but feel emotional.
+Looking at Hinata and the others' sleeping faces, I couldn't help but be overcome with emotion.
 
-The noisy life that came to me unexpectedly... wasn't so bad. In fact, it was fun.
+This unexpected, noisy life wasn't so bad. In fact, it was fun.
 
-I had no choice but to be patient and accept these children for a while, but now that I think back on it, I feel like it's a shame that we have until the next full moon.
+I had no choice but to accept these kids and think that I would just have to be patient for a while, but now that I think that this time is only until the next full moon, it seems a shame.
 
-Today is the new moon. This means that my life with these children has already reached the halfway point.
+Today is a new moon, which means I've already reached the halfway point of my life with these kids.
 
-Even without such a breakup, nothing lasts forever.
+Even if there is no such separation, nothing lasts forever.
 
-However, I feel like the days are too short as I can count down the days until the next full moon.
+But the days, counting the days until the next full moon, seem too short.
 
-If the lifespans of elves and humans are different, then once they are separated, they will probably never see each other again.
+If elves and humans have different life spans, then once they are separated, they will probably never see each other again.
 
-I felt like I was praying to no one else, I just wish they would let me stay like this for a little while longer.
+I found myself praying to no one in particular that if only they could stay like this a little longer.
 
 #bgm 0 stop 2000
 
@@ -274,51 +274,51 @@ I felt like I was praying to no one else, I just wish they would let me stay lik
 
 #wait 1000
 
-"Well...maybe because I slept at an odd time, my eyes are clearer. Would you like some tea?"
+"Well... I guess it's because I went to bed at a weird time, but I'm wide awake now. Shall I make some tea?"
 
-As soon as I sat up to boil the water.
+The moment I got up to boil some water...
 
 ;SE
 
 ;オークたち
 
-[? ? ? ] “Voaaaaaaaaaaaaaaa…”
+[???] "Rrrrrrrrrrr..."
 
-A voice that sounded like a scream could be heard from a distance. Moreover, it sounds like multiple voices are intertwined.
+From afar came a growling, screaming sound, which sounded like multiple voices intertwined together.
 
 ;SE
 
 ;？？？
-[? ? ? ] “Gyaun!”
+[???] "Gyaaaaah!"
 
-The roar of a wild dog, which resembles a scream, sometimes mixes with the growling sounds.
+The howls of wild dogs, sounding like screams, occasionally mixed into the growls.
 
-It was a very harsh sound.
+It was a terribly menacing sound.
 
-"……what's this"
+"...What is this?"
 
-The voice seemed to be getting closer and closer.
+The voice seemed to be gradually getting closer.
 
-I hurriedly stuck to the wall and searched for any sign outside.
+I hastily clung to the wall, searching for any sign of something outside.
 
 ;SE
 
 ;オークたち
 
-[? ? ? ] “Vaaaaaaaaaaaaaaa…”
+[???] "Waaaaaaaaahhhh..."
 
-A low, horrifying growl and the sound of a branch being crushed. The sound of something heavy being pulled down.
+A low, horrifying growl, followed by a crashing sound like branches being stepped on, and the sound of something heavy being pulled down.
 
-Something is coming closer.
+Something is approaching nearby.
 
 ;CHR H04F2_A C
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0576
-[Hinata] “Munya?”
+[Hinata] "Mmmm?"
 
-"Ah, you woke up?"
+"Oh, you're awake."
 
 ;CHR OFF
 #cg all clear
@@ -329,7 +329,7 @@ Something is coming closer.
 #wipe fade
 
 #voice ibab0704
-[Ibara] “Huh!?”
+[Ibara] "Huh?!"
 
 ;CHR T02F R
 #cg ツキヨ tuk_1_02f 右
@@ -338,7 +338,7 @@ Something is coming closer.
 ;TKface
 
 #voice tikb0621
-[Tsukiyo] "This voice..."
+[Tsukiyo] "That, that voice..."
 
 ;CHR OFF
 #cg all clear
@@ -349,7 +349,7 @@ Something is coming closer.
 #wipe fade
 
 #voice konb0570
-[Konomi] “Yes, it looks like a demon.”
+[Konomi] "Oh, she looks like a demon."
 
 ;CHR OFF
 #cg all clear
@@ -360,7 +360,7 @@ Something is coming closer.
 #wipe fade
 
 #voice hinb0577
-[Hinata] “Mazoku!?”
+[Hinata] "Witch?!"
 
 ;CHR OFF
 #cg all clear
@@ -373,20 +373,20 @@ Something is coming closer.
 #voice ibab0705
 [Ibara] "Shh! Be quiet!"
 
-Hinata hurriedly covered her mouth at Ibara's scolding.
+Hinata quickly covered her mouth after hearing Ibara's scolding.
 
 ;立ち絵なし
 ;FACE H06F1_A
 
 #voice hinb0578
-[Hinata] "Mo...mogomogo..."
+[Hinata] "Mum... mumbling..."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0706
-[Ibara] "Don't turn on the lights as much as possible, they'll find you."
+[Ibara] "Try not to turn on the lights, or they'll find you."
 
 "Ah, ah..."
 
@@ -400,20 +400,20 @@ Hinata hurriedly covered her mouth at Ibara's scolding.
 #bg BG07b_3
 #wipe fade
 
-I turned off most of the lights in the room, lit only a small candle, and gathered around it.
+I turned off most of the lights in the room, lit only small candles, and gathered around them.
 
-"A demon...what exactly is it?"
+"Demons... what exactly are they?"
 
 ;MCK1023
 ;BGMch2 bgm010 再生
 #bgm 0 10
 ;オークのテーマ
 
-Orcs, ogres, goblins, trolls, kobolds, dwarves, and Beowolves are just like elves, and are no more than folklore.
+Orcs, ogres, goblins, trolls, kobolds, dwarves, and beowolves are like elves and are now nothing more than legends.
 
-There are rumors that people who died suspiciously in the mountains were attacked by orcs, but many of them were probably attacked by wild animals.
+When people die under mysterious circumstances in the mountains or elsewhere, there are rumors that they must have been attacked by orcs, but in most cases they were probably attacked by wild animals.
 
-The fact that I actually saw it is just a joke at a drinking table.
+Stories about actually seeing it are just idle tales told over drinks.
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
@@ -422,18 +422,18 @@ The fact that I actually saw it is just a joke at a drinking table.
 #wipe fade
 
 #voice ibab0707
-[Ibara] "No matter how much we know about that, we only know a part of it. But I do know that there are people who can understand the story and people who can't understand it."
+[Ibara] "Even we only know a part of it. But we know that there are people who can communicate and people who can't."
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konb0571
-[Konomi] "If it's an orc, it's much bigger than Human-kun, and if there were a few of them, this hut would be flattened."
+[Konomi] "Orcs are much bigger than humans, and if there were a few of them, this hut would be completely flattened."
 
-“Pe…!?”
+"Phew...!?"
 
-Konomi spoke in a laid-back manner, but I was shocked at what he said.
+Konomi spoke in a laid-back manner, but I was shocked by what she had to say.
 
 "W-what should I do?"
 
@@ -442,30 +442,30 @@ Konomi spoke in a laid-back manner, but I was shocked at what he said.
 #wipe fade
 
 #voice konb0572
-[Konomi] "If it seems like it's coming near you, you can only hope that it will pass by."
+[Konomi] "If it looks like it's coming close, you can only hope it passes by."
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0708
-[Ibara] "If this is an orc, they prefer violence and slaughter without any questions asked. In a simple sense, they are much more dangerous than humans."
+[Ibara] "If these were orcs, they would enjoy violence and slaughter without question. In terms of simplicity, they are far more dangerous than humans."
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0622
-[Tsukiyo] "I-I'm going to die..."
+[Tsukiyo] "I'm gonna die..."
 
-"How do I know if this is an orc or not?"
+"How do you know if it's an orc or not?"
 
 ;CHR K05F R
 #cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0573
-[Konomi] "You'll understand if you look at it, right? It looks just like the one depicted in the book that Human-kun had."
+[Konomi] "You'll understand if you just take a look, right? It's exactly the same as how it's drawn in the book that Ningen-kun had."
 
 ;CHR OFF
 #cg all clear
@@ -478,9 +478,9 @@ Konomi spoke in a laid-back manner, but I was shocked at what he said.
 ;TKface
 
 #voice tikb0623
-[Tsukiyo] “This is this book.”
+[Tsukiyo] "This is the book."
 
-Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Indeed, what was drawn there was a strange monster with a hideous appearance...
+Tsukiyo brought along an encyclopedia of monsters, demons, and demihumans. I'm sure the one depicted was a hideous, deformed monster...
 
 "How can I avoid this place?"
 
@@ -493,14 +493,14 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 #wipe fade
 
 #voice konb0574
-[Konomi] "Come on‾"
+[Konomi] "You know..."
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0709
-[Ibara] “If there was such a method, I would have already tried it.”
+[Ibara] "If there was such a method, I would have tried it already."
 
 ;CHR OFF
 #cg all clear
@@ -513,7 +513,7 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 ;TKface
 
 #voice tikb0624
-[Tsukiyo] “Here, there is a spell written to avoid orcs.”
+[Tsukiyo] "Here's the spell to ward off orcs."
 
 ;CHR OFF
 #cg all clear
@@ -524,47 +524,47 @@ Tsukiyo has been carrying encyclopedias of monsters, demons, and demihumans. Ind
 #wipe fade
 
 #voice konb0575
-[Konomi] “But I have to go outside to write this on the hut.”
+[Konomi] "But I have to go outside to write this in the shed."
 
-“Besides, it will take quite a while to make something like this...I guess everything will be fine.”
+"Besides, it would take a lot of time to craft something this intricate... I guess this is all over."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Even if I stay in my hut and hold my breath, if they get their way, the hut could be destroyed, right?
+If we stay in the hut and lie low, if they feel like it, they could destroy the whole hut, right?
 
-Unpleasant sweat is pouring out from all over my body.
+Unpleasant sweat breaks out from my entire body.
 
-"I'll take a look."
+"I'll go and have a look around."
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 
 #voice hinb0579
-[Hinata] “Wow!?”
+[Hinata] "Huh!?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0710
-[Ibara] "Ah, hey! Human!"
+[Ibara] "Hey! Human!"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0576
-[Konomi] "Be careful‾"
+[Konomi] "Be careful."
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0625
-[Tsukiyo] "Hawawawawa..."
+[Tsukiyo] "Oh no..."
 
 ;BGMch2 amb004 停止
 #bgvoice stop
@@ -578,22 +578,22 @@ Unpleasant sweat is pouring out from all over my body.
 #bg BG08b_3
 #wipe fade
 
-I went outside anyway, but the wind was strong today, and I couldn't tell with human ears where that roaring sound was coming from.
+I went outside, but the wind was strong today, and it was impossible for human ears to tell where the roar was coming from.
 
-It would be fine if I could just hear voices from far away...
+It would be fine if I could just hear a voice from far away...
 
-In the darkness of the night, where you can't even rely on moonlight, you feel like you'll lose your bearings after taking just a few steps.
+In the darkness of night, where you can't even rely on moonlight, it's easy to lose your sense of direction after just a few steps.
 
-...Would you like to turn on the light?
+Should I turn on the lights?
 
-No, it's like asking me to find it from here.
+No, that would be like asking them to find it for us.
 
 ;SE se014 鳥の鳴き声
 #se 1 se014
 
-While I was wondering, I heard the sound of someone stepping on a branch nearby, and a fishy smell wafted in the air.
+While I was wondering what to do, I heard the sound of someone stepping on a branch nearby, and a fishy smell began to waft through the air.
 
-There is a light trying to pass by the back side of the hut. I could see it from here because of the lights the other side had on.
+There was a light passing behind the hut. I could see it from the light they had on.
 
 ...It's an orc!
 

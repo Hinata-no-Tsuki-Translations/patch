@@ -1,0 +1,481 @@
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+;CHR T09F R
+#cg ツキヨ tuk_1_09f 右
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice ibae0013
+[Ibara] "Uhh.... Uhh.... Uhh...."
+
+Ibara seemed to be the only one who wasn't convinced, as he growled for a while.
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kone0014
+[Konomi] "Ibara, what's been decided has already happened, so there's nothing we can do about it, right?"
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hine0004
+[Hinata] "What belongs to Tsukiyo belongs to Tsukiyo, right?"
+
+#voice tuke0013
+[Tsukiyo] "...is it?"
+
+Tsukiyo appears to be on guard and keeps her distance from Ibara.
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibae0014
+[Ibara] "Ugaaaaaahhhhh!"
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0014
+[Tsukiyo] "Kyaa!"
+
+Perhaps further stimulated by Tsukiyo's attitude, Ibara barked.
+
+#voice ibae0015
+[Ibara] "I... I was trying so hard to be friendly with you! You ungrateful person!"
+
+While I was stunned by Ibara's outrageous words, Tsukiyo suddenly fought back.
+
+;CHR T09F R
+#cg ツキヨ tuk_1_09f 右
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0015
+[Tsukiyo] "I never asked you to be friendly or anything like that."
+
+#voice ibae0016
+[Ibara] "Wh-what are you doing?! You filthy Dark Elf, how dare you say that to me, a Flower Elf, the noblest of all Elves..."
+
+;CHR T07F_L R
+#cg ツキヨ tuk_1_07f_l 右
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0016
+[Tsukiyo] "Ibara is mean and selfish, I don't want a friend like that!"
+
+#voice ibae0017
+[Ibara] "Wha... what... what..."
+
+Ibara probably hadn't expected such a strong rebuttal, and his mouth opened and closed like a reeled fish.
+
+;FACE H06F2
+#face f_hin_0_06f2 94 466
+
+#voice hine0005
+[Hinata] "Wow...Tsukiyo gave you a good response?"
+
+;FACE K04F
+#face f_kon_0_04f 94 466
+
+#voice kone0015
+[Konomi] "Wow, you're so strong! Tsukiyo isn't losing! I wonder what Ibara will do?"
+
+;FACE H01F2_A
+#face f_hin_0_01f2_a 94 466
+
+#voice hine0006
+[Hinata] "You're not losing? Was this a fight!?"
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice kone0016
+[Konomi] "I guess you could call it a fight, or a quarrel, but it was more of a fight, I guess?"
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hine0007
+[Hinata] "Ohh!? Hinata, which one should I cheer for!?"
+
+;FACE K01F1A
+#face f_kon_0_01f1a 94 466
+
+#voice kone0017
+[Konomi] "I think you should support the one you like."
+
+;FACE H03F1_A
+#face f_hin_0_03f1_a 94 466
+
+#voice hine0008
+[Hinata] "Oh... But, Hinata, I'm in trouble."
+
+The two continue their carefree conversation as they alternate between looking at the increasingly anxious Ibara and Tsukiyo.
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibae0018
+[Ibara] "After all, I'm more deserving of beautiful things than a filthy dark elf like you!"
+
+;CHR T10F2 R
+#cg ツキヨ tuk_1_10f2 右
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0017
+[Tsukiyo] "This belongs to Tsukiyo!"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibae0019
+[Ibara] "...Hmph, hmph!"
+
+;CHR T07F_L R
+#cg ツキヨ tuk_1_07f_l 右
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0018
+[Tsukiyo] "Fuuuuuuuh..."
+
+Ibara turns away as Tsukiyo glares at him, breathing heavily.
+
+Ahhh, it looks like we won't be able to make up for this anytime soon.
+
+Although, considering how they are normally, they might be playing together like nothing tomorrow.
+
+If things get this complicated, then we'll have to consider who we want on our side, and that's likely to make things even more complicated.
+
+It seems best to wait and see how things go for now and not interfere any further...
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Okay, okay, I guess I'll have dinner."
+
+;FACE H01F1_A
+#face f_hin_0_01f1_a 94 466
+
+#voice hine0009
+[Hinata] "Oh?! Food? I forgot about the human food!"
+
+"Don't forget, you little shit. Humans can't survive without eating."
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+#voice hine0010
+[Hinata] "Ohhhhh!? That's terrible!"
+
+Hinata replied to my sad and empty attempt at cheering up.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+;CHR T07F_L R
+#cg ツキヨ tuk_1_07f_l 右
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0019
+[Tsukiyo] "Mmmmmmmm..."
+
+#voice ibae0020
+[Ibara] "Poke, poke, poke!"
+
+Dinner that day was extremely sad and bland, partly because Tsukiyo and Ibara's quarrel had completely dampened the mood.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋前（昼）
+;BG BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;FACE T10F2
+#face f_tuk_0_10f2 94 466
+
+#voice tuke0020
+[Tsukiyo] "Yes, it is."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibae0021
+[Ibara] "Hmph!"
+
+Hmm, after a night's sleep we completely forgot about everything and became good friends...but it didn't work out that way.
+
+Ever since I woke up this morning, the cold war has continued, although we're not even grappling with each other.
+
+Perhaps they really thought I was going to hand it over to the other person, because they both clung to my arms and wouldn't let go, making it really difficult to handle.
+
+Last night, if she really didn't want to see me that much, she could have just gone wherever she wanted like she usually did, but instead she slept on either side of me, probably out of a sense of rivalry...
+
+This awkward, clumsy state of affairs is nothing short of delightful.
+
+This means I'm clinging to them, but the only time I talk to them is when I want them to leave.
+
+After that, it's like they're ignoring me even though I'm so close to them.
+
+Because if I talk to one of them, they'll glare at me too...
+
+"Let's go to the flower field today, okay?"
+
+;１画面に表示。音出し同時★？
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+;CHR T04F R
+#cg ツキヨ tuk_1_04f 右
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0021
+[Tsukiyo] "I'm looking forward to it."
+
+#voice ibae0022
+[Ibara] "You can go and do it."
+
+"Huh? What?"
+
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0022
+[Tsukiyo] "Mu"
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibae0023
+[Ibara] "Hmph!"
+
+Yeah, when they both reply at the same time, I don't know what's going on.
+
+Maybe if they could at least relax in a flower field, it would be a shortcut to making up...
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H01F1_A L
+#cg ヒナタ hin_1_01f1_a 左
+#wipe fade
+
+#voice hine0011
+[Hinata] "Ningen-san, where are you going today?"
+
+"Y-yes. Maybe I should go to the flower field. Hahahaha..."
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice kone0018
+[Konomi] "Human-kun, are you tired?"
+
+"No, it's fine."
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kone0019
+[Konomi] "Oh, I see. Yay! I'll join too."
+
+Konomi seemed to be enjoying the situation or whatever, as she clung to my stomach.
+
+;CHR H07F_A L
+#cg ヒナタ hin_1_07f_a 左
+#wipe fade
+
+#voice hine0012
+[Hinata] "Humans' hands are all covered, so, um, Hinata is here!"
+
+"Guh!"
+
+Hinata jumped up and grabbed me from behind, so I felt like I was being strangled and groaned involuntarily.
+
+"Guuuuuuhh... it's tight, it's tight, stop, let go please..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#voice izue0001
+[Spring Elf] "Stop it! Everyone, get away from the humans!"
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0023
+[Tsukiyo] "Huh?!"
+
+;FACE I09F
+#face f_iba_0_09f 94 466
+
+#voice ibae0024
+[Ibara] "Y-Yes!"
+
+;FACE H05F_A
+#face f_hin_0_05f_a 94 466
+
+#voice hine0013
+[Hinata] "Yay!?"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kone0020
+[Konomi] "Yes."
+
+As soon as a dignified voice called out from the direction of the forest, everyone let go of their hands.
+
+"Ugh... cough cough. That was awful."
+
+...Although it sounded a bit strange to call it a voice.
+
+...Thank goodness, but who on earth could have come along to get these kids to behave so well and listen to what they're told?
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+#voice izue0002
+[Elf of the Spring] "Not only have you gone outside the barrier, but you have also become involved with humans - how foolish of you!"
+
+…Yeah, this isn't a voice. It's like it's resonating directly in my head.
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibae0025
+[Ibara] "Brother, why are you here?"
+
+#voice izue0003
+[Elf of the Spring] "I came looking for you. The day when the barrier will close is approaching. What will I do if you are left behind?"
+
+;FACE I11F
+#face f_iba_0_11f2 94 466
+
+#voice ibae0026
+[Ibara] "So, that's why I'm trying to bring them back..."
+
+#voice izue0004
+[Elf of the Spring] "I know we were playing together. Thorn Elf, it was a mistake to entrust you with this mission."
+
+;FACE I11F
+#face f_iba_0_11f1 94 466
+
+#voice ibae0027
+[Ibara] "Ugh..."
+
+Brother...? Is this elf Ibara's brother?
+
+#voice izue0005
+[Elf of the Spring] "No, it's not so, child of man. We cannot have a blood relationship through reproduction like you."
+
+Did you get what I was thinking?
+And the reply came directly into his head...?
+
+#voice izue0006
+[Elf of the Spring] "Yes, over time, elves can communicate without using language. If language is not used, differences in language are trivial."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibae0028
+[Ibara] "It's my job to bring them back, so what are you doing here, brother?"
+
+#voice izue0007
+[Spring Elf] "I'm here to bring you back."
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibae0029
+[Ibara] "Huh...?!"
+
+Ibarra's face was painted with shock.
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibae0030
+[Ibara] "That's my role..."
+
+#voice izue0008
+[Spring Elf] "That is no longer possible. You seem too young to fulfill your role."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibae0031
+[Ibara] "..."
+
+#voice izue0009
+[Spring Elf] "Well, I'm heading back."
+
+Without a word, the elves followed the larger elf's lead into the forest.
+
+Everyone glanced my way, but no one even said a farewell.
+
+"Wait...wait..."
+
+#voice izue0010
+[Elf of the Spring] "I'm sorry for bothering you, child of man. But we are incompatible by nature. Forget it. I will definitely repay you for taking care of me."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Thank you..."
+
+It's not that I wanted that kind of thing and that's why I tried to stop him.
+
+Seeing how angry I was, the large elf gave me a nod and turned his back on me.
+
+The breakup came so suddenly and unreasonably.
+
+I stood there in front of the hut, unable to understand or accept anything.
+
+;dt02_1へ
+#next dt02_1

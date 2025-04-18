@@ -5,9 +5,9 @@
 #bg BG03_1
 #wipe fade
 
-But what is Ibara looking into the fountain without getting tired of?
+But what on earth is Ibara looking at, peering endlessly into the spring?
 
-I quietly approached behind Ibara and peered into the fountain.
+I quietly approached behind Ibara and looked into the spring.
 
 ;MC
 #face on
@@ -17,91 +17,91 @@ I quietly approached behind Ibara and peered into the fountain.
 #wipe fade
 
 #voice ibab0456
-[Ibara] "Hmm? Human. Did you catch a lot of fish?"
+[Ibara] "Huh? What's up, human? Did you catch a lot of fish?"
 
-Ibara looked back at me, perhaps noticing it from the shadow she cast.
+Perhaps noticing the shadow I had cast, Ibara turned to look at me.
 
-"Oh, look. That."
+"Ah, look. There it is."
 
-Ibara's eyes widen when I point to where the fish is being dried.
+Ibara's eyes widen as he points to where the fish are drying.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0457
-[Ibara] "It's amazing how you caught so many fish by yourself."
+[Ibara] "It's amazing that you were able to catch so many fish by yourself."
 
-"Yeah. Today we had a big catch because of the elf-sama's blessing."
+"Yeah. Maybe it was because of the Elf's blessing today, but we had a great catch."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0458
-[Ibara] "Hmm. Good luck is on the side of beautiful things. That's why I'm sure it's all thanks to you."
+[Ibara] "Hmm. Beautiful things bring good fortune. So it must be thanks to me."
 
 Ibara smiled brightly at my joking words.
 
-"So, what did Ibara see?"
+"So, what did you see, Ibarra?"
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0459
-[Ibara] "That's what I was looking at. That fish. Its scales shine in rainbow colors and it's really beautiful, isn't it?"
+[Ibara] "That's what I was looking at. That fish. Its scales shine with the colors of the rainbow and it's so beautiful, right?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-A large fish was swimming leisurely in front of my finger.
+Where he pointed, a large fish was swimming leisurely.
 
-It was a very ordinary fish that I often saw, but it was certainly beautiful if I looked at it with that kind of eye.
+It was just an ordinary fish that you see often, but when you look at it with that kind of eye, it was certainly beautiful.
 
-When caught, the gray-blue body surface shows a rainbow-colored sparkle in the water when it catches the light.
+When caught, its body is a simple gray-blue color, but when it is submerged in water, it sparkles with rainbow colors in the light.
 
-"Oh, it's beautiful... but it's in good shape. I think I can eat it for several days on its own."
+"Oh, it's beautiful... but it has a nice shape. I could probably eat just one for a few days."
 
-It's much bigger than the fish I caught earlier. It looks like it will sell for a pretty good price.
+It's a lot bigger than the fish I caught earlier. I think I could sell it for a pretty good price.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0460
-[Ibara] "Are you still going to catch after catching so many?"
+[Ibara] "You've caught so many, and you still plan on catching more?"
 
-Ibara asked me with a surprised face.
+Ibara asked me with a surprised look on his face.
 
-"Ah, no... it's not like that. However, when I see a good-looking fish, I feel like I should catch it."
+"Ah, no... it's not like that. However, when I see a nice-looking fish I can't help but feel like I'd be missing out if I didn't catch it."
 
 #voice ibab0461
-[Ibara] "Humans are greedy"
+[Ibara] "Humans are greedy."
 
-“Maybe so.
+"That may be true. But once you eat food, it's gone. I think it's normal to want to stockpile it in case you can't get anything."
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0462
-[Ibara] "Ahaha, I'm a greedy human. Even if I see such beautiful fish, I can only think about eating it."
+[Ibara] "Hahaha, what a gluttonous human you are. Even when you see such a beautiful fish, all you can think about is eating it."
 
-"Eating is very important for humans."
+"Food is very important for humans."
 
 #voice ibab0463
-[Ibara] "It's a pity that humans have to be caught up in such things."
+[Ibara] "It's sad that humans have to be obsessed with things like that."
 
-"Maybe so, but if you just say eating something, it's not so bad that it's delicious and makes you feel happy."
+"That may be true, but when it comes to eating, it's delicious and it makes you feel happy, so it's not so bad."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0464
-[Ibara] "Fu‾n"
+[Ibara] "Hmm."
 
 "Was the sweets delicious?"
 
@@ -110,77 +110,77 @@ Ibara asked me with a surprised face.
 #wipe fade
 
 #voice ibab0465
-[Ibara] "... Well, it wasn't bad."
+[Ibara] "...Well, it wasn't bad."
 
-“Eating is an inseparable part of human life, and that may be why we developed the wisdom and technology to eat deliciously.”
+"Perhaps it is precisely because eating is an inseparable part of human life that we have developed the wisdom and techniques to make food taste delicious."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0466
-[Ibara] "Huh..."
+[Ibara] "Hmm..."
 
-Thorn stared at the swimming fish for a while, but suddenly said to me.
+Ibara stared at the swimming fish for a while, then suddenly said to me.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0466-01
-[Ibara] "Hey. Shall we catch that beautiful fish with a human?"
+[Ibara] "Hey. Do you want me to help a human catch that beautiful fish?"
 
-"e?"
+"picture?"
 
 #voice ibab0467
-[Ibara] "Humans want a lot of everything, right? If so, wouldn't it make them happier to catch more?"
+[Ibara] "Humans want lots of everything, right? So wouldn't they be happier if they caught more?"
 
-"Ah, no... even if I catch so many, I can't take them home."
+"Ah, no... Even if I catch that many, I won't be able to take them home."
 
-……Everyone said the fish smelled fishy, so they wouldn’t help me carry it anyway.
+...I guess no one will help me carry the fish because it smells fishy.
 
 #voice ibab0468
-[Ibara] “Do your best.
+[Ibara] "Do your best. Even if you get one more, just do your best to carry it."
 
-"You say what you like, thinking that you don't carry it."
+"You say what you like, even though you don't think you're the one carrying it."
 
 #voice ibab0469
-[Ibara] "Eating is human, so it's natural."
+[Ibara] "It's only natural, since we are humans who eat."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Ibara hoisted up her clothes and slammed into the spring.
+Ibara pulled up his clothes and splashed into the spring.
 
-…… Well, if it’s just one animal, it doesn’t matter.
+…Well, I guess it'll be okay if it's just one.
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 
 #voice ibab0470
-[Ibara] "Hmm, it's difficult to catch."
+[Ibara] "Hmm, it's going to be difficult to catch."
 
-The thorns are hanging around in the water... how are you going to catch fish with your clothes up?
+Ibarra is wallowing in the water...how is he going to catch a fish with his clothes still tucked up?
 
-That's fine, but the exposed white thighs reflected on the surface of the water were dazzling.
+That's fine, but her exposed white thighs are dazzling when reflected on the water's surface.
 
-It looks terribly grumpy....
+It looks awfully seductive...
 
 #voice ibab0471
 [Ibara] "...?"
 
-Perhaps noticing my gaze, Ibara turned around and I hurriedly averted my eyes.
+Apparently noticing my gaze, Ibara turned around, so I quickly looked away.
 
 #voice ibab0472
-[Ibara] "What, human? Are you admiring me because I'm beautiful?"
+[Ibara] "What, human? Are you admiring me because I'm pretty?"
 
-"Be, I was fascinated by it..."
+"I, I wasn't really staring or anything..."
 
-I tried to fix it somehow, but it turned out to be rather suspicious.
+I tried to cover it up somehow, but it just made me look suspicious.
 
-Because of my guilty thoughts, mine is semi-erect in my underwear.
+Because I was thinking about something sinister, my penis was half-erect inside my underwear.
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
@@ -189,14 +189,14 @@ Because of my guilty thoughts, mine is semi-erect in my underwear.
 #voice ibab0473
 [Ibara] "Hmm?"
 
-"I-I'm just wondering if Ibara doesn't do something dangerous... Wow!?"
+"I, I was just worried that Ibara might do something dangerous... Uwaaah!?"
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 
 #voice ibab0474
-[Ibara] "Ningen!?"
+[Ibara] "Human?!"
 
 ;FACE OFF
 ;#face off
@@ -204,13 +204,13 @@ Because of my guilty thoughts, mine is semi-erect in my underwear.
 ;SE se029 水に落ちる 再生
 #se 1 se029
 
-Dappa!
+Here we go!
 
-I, who had neglected my attention, slipped my foot and made a big splash and fell into the spring.
+Not being careful, I lost my footing and fell into the spring, making a huge splash.
 
-"Buwa!?"
+"Buwah?!"
 
-When I hurriedly lifted my face from the surface of the water, Ibara approached me with a worried look.
+I hastily raised my head from the water and saw Ibara approaching me with a worried look on his face.
 
 #face on
 
@@ -219,52 +219,52 @@ When I hurriedly lifted my face from the surface of the water, Ibara approached 
 
 
 #voice ibab0475
-[Ibara] "Are you okay!?"
+[Ibara] "A-Are you okay?!"
 
-"are you OK……"
+"Are you okay……"
 
-The water is only up to my knees, so I can't drown.
+The water is only up to my knees, so I won't drown.
 
-I went up to the shore and sank into it.
+I climbed up to the shore in a daze and collapsed.
 
-Ah, my clothes are already soaked from something.
+Oh no, my clothes and everything else are soaked.
 
-Ibara also rises from the water after me.
+Following me, Ibara also climbs out of the water.
 
-“Are you ready for the fish?”
+"Oh, are you ready for some fish?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0476
-[Ibara] "I thought I was going to catch it, but the fish got scared and ran away because of the humans, right?"
+[Ibara] "I went to great lengths to catch the fish, but the humans scared the fish and it ran away."
 
-…… Ah, I made a big splash. Even the fish would have been frightened and run away.
+...Ah, what a big splash that made. Even the fish would have been frightened and run away.
 
-"Sorry, I was careless"
+"Sorry, I forgot."
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 
 #voice ibab0477
-[Ibara] "Hmm, it's because I'm only thinking about nasty things."
+[Ibara] "Hmph, it's because you're always thinking about dirty things."
 
-When he came up to me, he must have let go of the hem of his clothes.
+Ibara must have let go of the bottom of his clothes when he came over to me, so he took off his soaked clothes and wrung them out.
 
-"I'm not thinking about it..."
+"I haven't really thought about it..."
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0478
-[Ibara] "It's a lie. You were looking at me with this inflated, right?"
+[Ibara] "That's a lie. You were inflating this and looking at me, weren't you?"
 
-The thorns stepped on my crotch with bare feet.
+Ibara stepped on my crotch with her bare foot.
 
-"Uh..."
+"Ugh..."
 
 ;EVCG EV024A1
 ;#face off
@@ -277,30 +277,30 @@ The thorns stepped on my crotch with bare feet.
 #cg イベント ev024a1 背景
 #wipe fade
 
-My alter ego, who was completely crouched down after suddenly falling into the spring, felt a soft sensation and suddenly started collecting blood.
+My clone, which had been completely curled up after suddenly falling into the spring, suddenly felt a soft sensation and began to draw blood.
 
 #voice ibab0479
-[Ibara] "Hmm? Before you grow up, you're a human penis."
+[Ibara] "Hmm? Before they grow big, human penises are squishy too."
 
-When I traced the shape with my toes, Ibara's legs opened in a sensational way, revealing that Ibara himself was showing signs of excitement.
+As he tentatively traced the shape with his toes, Ibara's legs spread seductively, revealing signs of his own arousal.
 
-By seeing that, my things also increase in strength and hardness.
+Seeing that made my thing grow stronger and harder.
 
 ;EVCG EV024A2
 #cg イベント ev024a2 背景
 #wipe fade
 
 #voice ibab0480
-[Ibara] "Oh! It's suddenly getting hard."
+[Ibara] "Oh! It's gotten hard all of a sudden."
 
-When the soles of the feet are rubbed and rubbed, frustration rather than pleasure raises the neck. I want stronger stimulation.
+When she rubbed the soles of her feet against me, I felt more frustration than pleasure. I wanted a stronger stimulation.
 
-"Ah, umm... thorns, stronger..."
+"Um... Ibara, stronger..."
 
 #voice ibab0481
-[Ibara] "What, do you want to be stepped on harder? Humans are perverts."
+[Ibara] "What, you want me to step on you harder? Humans are perverts."
 
-Ibara timidly stepped on my private parts.
+Ibara timidly stepped hard on my genitals.
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
@@ -309,33 +309,33 @@ Ibara timidly stepped on my private parts.
 #voice ibab0482
 [Ibara] "Ah...!?"
 
-“Wow!?”
+"Oof!?"
 
-The elastic rod escapes from the sole of the foot, and suddenly the testicles are strongly trampled. A pain welled up from my lower abdomen as if pushing up from the back of my stomach.
+The elastic shaft escaped from under my feet, and suddenly my testicles were being stepped on hard. A pain rose up from my lower abdomen, as if something was pushing up my stomach.
 
-"Gii..."
+"Giii..."
 
 ;FACE I10N2
 #face f_iba_0_10n2 94 466
 
 
 #voice ibab0483
-[Ibara] "Hey, look, doesn't it hurt?"
+[Ibara] "L-Look, it hurts."
 
-"Ah, yeah. It was a bit painful, or rather heavy."
+"Ah, yeah. That one just now was a bit painful, or should I say, heavy."
 
-A pain slammed into my stomach.
+The pain reverberated in my stomach.
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
 
 
 #voice ibab0484
-[Ibara] "I-can I stop now...?"
+[Ibara] "Should I stop now...?"
 
-Ibara asks worriedly while playing with the rod and the ball as if comforting her with her hurriedly withdrawn leg.
+Ibara asked worriedly as she hastily pulled his leg back and began to play with his shaft and balls, as if to comfort him.
 
-Perhaps because it was after the pain from earlier, it was an even more irresistible pleasure.
+Perhaps because of the pain he had just experienced, the sensation was an irresistible pleasure, and his male organ, which had become flaccid after the moment of pain, quickly regained its strength.
 
 ;FACE OFF
 ;#face off
@@ -345,140 +345,140 @@ Perhaps because it was after the pain from earlier, it was an even more irresist
 #wipe fade
 
 #voice ibab0485
-[Ibara] "Did you get hard!?"
+[Ibara] "Your penis has gotten hard!?"
 
-Ibara was a little surprised and added more force to confirm, and the stimulation made my cock harder.
+Ibara was a little surprised, and applied more pressure as if to test it, and the stimulation made my cock get even harder.
 
 #voice ibab0486
-[Ibara] "...Ah, the human penis is still hard and throbbing. It feels so good to be stepped on by me."
+[Ibara] "...Ah, your human penis is still hard and throbbing. It feels so good to be stepped on by me."
 
-The thorny red tongue licked my mouth. Thorn's eyes lit up like a carnivore that found its prey.
+Ibara's red tongue licked the corners of his mouth. His eyes lit up, like a carnivorous beast that had found its prey.
 
-"Ah... and more."
+"Ahh... more."
 
-Fascinated by its brilliance, I unintentionally made a wish.
+Captivated by the glow, I couldn't help but voice my wish.
 
 ;EVCG EV024A2
 #cg イベント ev024a2 背景
 #wipe fade
 
 #voice ibab0487
-[Ibara] "Fufu... I can't help it if I want humans to do it."
+[Ibara] "Fufu... If that's what humans want, I guess there's no other way."
 
-Ibara bends her body slightly to take the center of gravity and puts her toes on my underwear.
+Ibara leaned his body back a little to balance his center of gravity and put his toes on my slippers.
 
 #voice ibab0488
-[Ibara] "Wow... you're getting bigger"
+[Ibara] "Wow... it's gotten so big."
 
-The cramped warped meat stick is skillfully exposed with the toes of the thorns.
+The uncomfortably curved penis is skillfully exposed by Ibara's toes.
 
-Burun.
+Bzzz.
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
 
 
 #voice ibab0489
-[Ibara] "Wow, I jumped out on my own."
+[Ibara] "Whoa, my penis popped out by itself."
 
-When the underwear was lowered halfway, the meat stick revealed its full picture with its own momentum.
+When his slippers had been pulled down halfway, his penis was revealed in its entirety by his own momentum.
 
 #voice ibab0490
-[Ibara] "Human penises are red and black and shiny..."
+[Ibara] "Human penises are reddish-black and shiny..."
 
-Gokuri, Ibara gasped, but the fact that she was stepping on something like that today seemed to make her feel strange excitement, and she grinned.
+Ibara swallowed, but seemed to feel a strange excitement at the thought of stepping on something like me today, and he smiled.
 
 ;FACE I07N
 #face f_iba_0_07n 94 466
 
 
 #voice ibab0491
-[Ibara] "Fufufu, humans. How do you want to be stepped on?"
+[Ibara] "Hehehe, human. How do you want to be stepped on?"
 
-The thorns move agitatedly to show off the soles of their feet.
+Perhaps trying to tease me, Ibara moves his feet excitedly, showing off the soles of his feet.
 
-The wrinkles on the soft-looking soles change shape as they move, and the flexible toes open and close.
+The wrinkles on the soft-looking soles of the feet change shape with movement, and the flexible toes open and close.
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
 
 
 #voice ibab0492
-[Ibara] "Wow... I didn't even touch it, but a transparent soup was dripping from my human penis."
+[Ibara] "Wow... clear liquid is dripping from a human's penis even though I haven't touched it."
 
-Due to the anticipation, Ibara gently wiped off the juice that had been ahead of him before he touched it with his thumb.
+Ibara gently wiped away with his thumb the pre-cum that had formed before he'd even been touched, due to anticipation.
 
 ;FACE I07N
 #face f_iba_0_07n 94 466
 
 
 #voice ibab0493
-[Thorns] "Fufu... It's tickling... Huh... Look, humans. The nasty juice has stained my feet... Look, it's pulling strings... It's terrible."
+[Ibara] "Hehe... that tickles... haa... look, human. Your nasty juices have stained my feet... look, they're stringy... how dirty."
 
-The thorns rub the juice on the pole like wiping their feet. Along with that movement, my meat stick sways left and right.
+Ibara rubbed the juices that had been on his shaft as if he was wiping his feet. My cock shook back and forth in time with his movements.
 
 #voice ibab0494
-[Ibara] "It's disgraceful to be so big. The color is also a strange red and black color, it's plump."
+[Ibara] "It's so embarrassing how big it has become. It's a strange red-black color, and it's really jiggly."
 
-Pashi, pashi, play with your toes. My meat stick tries to return to its original position every time it is flipped, causing it to sway extra left and right.
+She flicks it playfully with her toes. Every time she flicks it, my cock tries to return to its original position, which makes it swing back and forth even more.
 
 #voice ibab0495
-[Ibara] "Huh... Your penis is getting really hard. Even your blood vessels are floating. Fufu, why is the shape and color so different from ours?"
+[Ibara] "Ahh... Your penis is rock hard. You can even see the veins. Hehe, why is it so different in shape and color from ours?"
 
-Ibara traced the back streaks from the back of the bag with her toes.
+Ibara traced the lining of the bag with his toe.
 
-It's even more disgusting that Ibara's breathing is starting to be disturbed.
+It was even more lewd that Ibara's breathing was starting to become irregular.
 
-"Well, when I was a child, it was shaped like a thorn with a skin on it. Humans peel off their skin when they grow up."
+"Well, when I was a child I had skin covering me and was shaped like a thorn. When humans become adults, their skin falls off."
 
 ;FACE I08N
 #face f_iba_0_08n 94 466
 
 
 #voice ibab0496
-[Ibara] "Hey... do you have extra skin here?"
+[Ibara] "Hmm...is this the skin that's left over here?"
 
-Use your big toe and forefinger to pick up and pull the loose skin around the gankubi.
+He deftly picks up the excess skin around the neck of the goose with his big toe and index finger and pulls it.
 
 #voice ibab0497
-[Ibara] "It becomes such a brutal shape just by peeling off the skin."
+[Ibara] "Just peeling off the skin can make it take on such a vicious shape."
 
-"Uu... ah... ah..."
+"Uhh... Ah... Ahh..."
 
-The whole sole of the foot is rubbed against the rod part. A strong sense of pressure and the fear of being trampled on my testicles just like before heightened my excitement.
+She rubbed the sole of her foot against my shaft. The strong pressure and the fear that she might step on my testicles like before made me more excited.
 
 #voice ibab0498
-[Ibara] "What, raise your creepy voice. Does it feel that good?"
+[Ibara] "What's with that creepy noise? Does it feel that good?"
 
-"Ah, ah... it feels good..."
+"Ah, ahh... it feels good..."
 
 #voice ibab0499
-[Ibara] "Phew... when you stepped on this place, it looked so painful, but it feels good when you step on it with your feet."
+[Ibara] "Hmm... You looked like you were in so much pain when I stepped on you here earlier, but it feels so good when you step on my penis with your foot."
 
-Ibara poked my testicles with her toes.
+Ibarra poked his testicles with his toe.
 
 ;FACE I07N
 #face f_iba_0_07n 94 466
 
 
 #voice ibab0500
-[Ibara] “Ahaha, that’s interesting.
+[Ibara] "Hahaha, it's so fun. It's squishy when you poke it and it moves on its own. It's also fun how it rolls around inside."
 
 #voice ibab0501
-[Ibara] "This is where I was stepped on and it was painful? Shall I step on it again and crush it?"
+[Ibara] "Is this the part that hurt when I stepped on you earlier? Shall I step on it again and crush you?"
 
-"No, stop... you won't be able to have children."
+"S-stop...we won't be able to have children."
 
 #voice ibab0502
-[Ibara] "Hearing that made me want to crush it even more. It's better for the world if the number of humans doesn't increase."
+[Ibara] "Hearing that makes me want to destroy them even more. It would be better for the world if the human population didn't increase."
 
-This time, he slowly puts all his strength into the ball.
+This time, slowly, he puts his pressure only on his balls.
 
-As the weight gradually increased, cold sweat and greasy sweat began to float on my forehead.
+As the weight gradually increased, cold sweat and oily sweat began to form on my forehead.
 
-"Oh, ah... Kuh... No, stop..."
+"Ah, ahhh... Ugh... Stop..."
 
-When the feeling of oppression began to turn into pain, Ibara suddenly let go and released me.
+Just as the pressure began to turn into pain, Ibara suddenly released my legs, releasing me.
 
 ;CHR OFF
 #cg all clear
@@ -488,93 +488,93 @@ When the feeling of oppression began to turn into pain, Ibara suddenly let go an
 #wipe fade
 
 #voice ibab0503
-[Ibara] "Fufufu, it's a joke. It's a pity for humans to have pain. But you haven't calmed down at all, have you?"
+[Ibara] "Hehe, I was just kidding. It's a shame that the human is in pain. But your penis hasn't calmed down at all, you know?"
 
-Ibara opened her legs and pinched my meat stick between her toes.
+Ibara spread her legs and squeezed my cock between her toes.
 
 #voice ibab0504
-[Ibara] "I'm going to move timidly, and it looks like it's going to run away, so I'll hold you down. Be quiet, human penis."
+[Ibara] "You're moving nervously and it looks like you might run away, so I'll hold you down firmly. Stay quiet, human penis."
 
-When I was pinched between my toes, a strong squeezing stimulus was added. However, it seems that Ibara couldn't move as he wanted.
+When Ibara's toes were pinched, he felt a strong squeezing sensation. However, it seemed that this was not enough to allow him to move as he wanted.
 
 #voice ibab0505
-[Ibara] "Hmm... If you get caught in this constricted area, you won't be able to move well."
+[Ibara] "Hmm... If it gets caught in this narrow part, I won't be able to move it properly."
 
-Remove the toes, and use the bends of the toes to step on the tips of the toes.
+Remove your toes and then use the bend in your toes to try to wrap around the tip and press down.
 
-"Ah..."
+"Ah, ahhh..."
 
 ;EVCG EV024A2
 #cg イベント ev024a2 背景
 #wipe fade
 
 #voice ibab0506
-[Ibara] "Ahaha... it's slimy with nasty juice and I can't get a hold of it. Does it feel better here?"
+[Ibara] "Ahaha... It's slippery with your nasty juices and I can't get a good grip. Does it feel better here?"
 
-Nyurun Nyurun, trying to grab the tip that slipped due to the liquid ahead, the legs of the thorns clung to my meat stick.
+Ibara's feet clung to my cock, trying to grab the tip, which was slippery due to the pre-cum.
 
 #voice ibab0507
-[Ibara] "Ahaha, human, too much juice. My feet are already dirty. I can't wipe them off."
+[Ibara] "Hahaha, human, you've leaked too much juice. My feet are completely dirty now. No matter how much I wipe it, it won't come off."
 
-The running liquid makes a nasty sound between my meat stick and the sole of the thorny foot.
+The pre-cum made lewd sloshing noises between my cock and the soles of Ibara's feet.
 
 #voice ibab0508
-[Ibara] "It feels good to step on this tip. The soles of my feet are tickling, but... they're soft and tender... Ahhh, it's fun..."
+[Ibara] "It feels good to step on this tip. The soles of my feet are ticklish but... they're squishy and fuzzy... ahaha, it's fun..."
 
-Ibara seemed to especially like the feel of the glans and began to rub it intensively.
+Ibara seemed to particularly like the feeling of the head of the penis, and began to focus on teasing it.
 
 ;EVCG EV024A1
 #cg イベント ev024a1 背景
 #wipe fade
 
 #voice ibab0509
-[Ibara] "How does it feel to be stepped on by a lively cock? With a pitiful face that looks like it feels good to be stepped on, you really are a sloppy human."
+[Ibara] "How does it feel to have your hard cock stepped on? You make such a pathetic face while being stepped on, it really shows how sloppy humans are."
 
-Even while cursing me, Ibara's cheeks are flushed as if she's completely excited.
+Even though he was cursing me, Ibara was also completely excited, his cheeks were flushed.
 
 #voice ibab0510
-[Ibara] "Fufu... ahaha... you look like you're drooling, you look like you're feeling good... you look like you want to come quickly, human."
+[Ibara] "Hehe... aah... you're drooling, and you look like you're enjoying it... do you want to come quickly, human?"
 
-"Ah, ah... Hurry up... Iki..."
+"Ah, ah... hurry up... come..."
 
 #voice ibab0511
-[Ibara] "No. It's getting fun, so I'll step on it more. It's a little later than I'm going to get my semen out of here. Fufu..."
+[Ibara] "No way. This is starting to get fun, so I'll trample you some more. I'll cum a little later. Hehe..."
 
-Ibara pushed her toes into Suzuguchi and moved them around.
+Ibara began to rub his toes against the tip of my penis.
 
-"Guha... that's it... don't force your finger in..."
+"Guh... there... don't force your finger in..."
 
 #voice ibab0512
-[Ibara] "Humans will squirt semen view view from here when they come.
+[Ibara] "When humans cum, semen spurts out from here. I've cum a lot inside my tummy too."
 
-"Ah... ah..."
+"Ahh... ahhh..."
 
 #voice ibab0513
-[Ibara] "Today, humans are raising their voices like us. It's fun."
+[Ibara] "Today, humans are making noises like us. It's fun."
 
-The movement of the thorns' legs gradually became less hesitant.
+Ibara's leg movements were gradually becoming less reserved.
 
-As if to lead me to a climax, I stomp on it as if rubbing it gently.
+He stomps on me, rubbing and squeezing me tightly, as if trying to bring me to orgasm.
 
 #voice ibab0514
-[Ibara] "However, I can't believe that something this big has entered me. I'll take a good look at how I spit out my semen."
+[Ibara] "But I can't believe something this big just came inside me. I'll watch closely to see how you squirt the semen out."
 
-"Well, if you keep doing that, it's almost time... Iku..."
+"If you keep that up, I'll come soon..."
 
 ;EVCG EV024A2
 #cg イベント ev024a2 背景
 #wipe fade
 
 #voice ibab0515
-[Ibara] "Nyurunyuru sticky dick, I'm getting nervous. Is this going to happen?"
+[Ibara] "Your disgusting, slimy, sticky penis is twitching and twitching. Is it going to cum?"
 
 #voice ibab0516
-[Ibara] "Are you going to spit out a lot of clean white semen and go?"
+[Ibara] "Are you going to spit out a load of dirty white semen?"
 
-"Ah... Ah... well, already, Iku..."
+"Ahh...ahh...I'm, I'm coming..."
 
 #voice ibab0517
-[Ibara] "Ah, right now, what do you mean... hyauu!?"
+[Ibara] "Oh, what just happened....ahhh!?"
 
 ;SE se023 射精音1 再生
 #se 1 se023
@@ -591,31 +591,31 @@ As if to lead me to a climax, I stomp on it as if rubbing it gently.
 
 ;EVCG EV024B3
 
-Dokudokubishaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
+Plop plop plop!!!
 
-After the first pulsation, semen spewed out with a tremendous force from my cock that was still trampled.
+After the first pulsation, semen spurted out from my cock, which was still being trampled on, with incredible force.
 
 #voice ibab0518
-[Ibara] "Ah!?
+[Ibara] "Ah!? Ah!? It's so intense... a lot of white liquid is shooting up... and splashing everywhere..."
 
-Ibara stared at my intense ejaculation with a stunned look.
+Ibara looked stunned as he watched my intense ejaculation.
 
 ;EVCG EV024B2
 #cg イベント ev024b2 背景
 #wipe fade
 
 #voice ibab0519
-[Ibara] "I can feel the trepidation on the soles of my feet... oh, adult ejaculation is amazing... tho, this is... in my stomach... boo..."
+[Ibara] "I can feel the trembling in the soles of my feet....adult ejaculation is amazing....something like this...inside my stomach....ugh...."
 
-It seems that he was so fascinated by my ejaculation that he unconsciously put his hand in his crotch.
+Apparently she was so fascinated by my ejaculation that her hand unconsciously reached for her crotch.
 
 #voice ibab0520
-[Ibara] "Oh!?
+[Ibara] "Ah!? Ah!? My hand just touched you lightly, and I'm coming!?"
 
-The thorny stalks, which had been so excited by blaming me, easily reached the point with a little stimulation.
+The young stem of the thorn, which was completely excited by tormenting me, easily reached orgasm with just a little stimulation.
 
 #voice ibab0521
-[Ibara] "Ah... that's it...!?"
+[Ibara] "Ahhh... it's coming out...!?"
 
 ;SE se024 射精音2 再生
 #se 1 se024
@@ -631,33 +631,33 @@ The thorny stalks, which had been so excited by blaming me, easily reached the p
 #bg BG03_1
 #wipe fade 300
 
-Purutto Ibara's penis is also spitting out cloudy liquid.
+A milky liquid was also spurting out from Ibara's penis.
 
 #voice ibab0522
-[Ibara] "Hahahahaha"
+[Ibara] "Haa haa"
 
-"Hahaha..."
+"Haa haa..."
 
-Perhaps because I was strangely aroused by the strange act, I felt that my breathing was disturbed rather than just sexual intercourse.
+Perhaps because the strange act had made him strangely excited, he felt like his breathing was more irregular than it would be during simple intercourse.
 
-As I took a deep breath with my shoulders, Ibara pouted his lips.
+As I was taking a deep breath and steadied myself, Ibara pursed his lips.
 
 #voice ibab0523
-[Ibara] "My feet are already dirty because of humans!?"
+[Ibara] "My feet have already become dirty because of humans!"
 
-“Sorry, is that my fault!?”
+"S-sorry... but is it my fault!?"
 
-Speaking of the original, I wonder if it's because Ibara has set up a footwork. How absurd...
+Actually, it must have been Ibara's fault for kicking me in the first place. How unreasonable...
 
 #voice ibab0524
-[Ibara] "Besides, humans are perfect. You should go into the spring again."
+[Ibara] "Besides, you're human. You should go into the spring again."
 
-"Ah, I will... Wow! This is terrible."
+"Oh, I will....Whoa?! That's terrible."
 
-Because the direction of ejaculation was specified by footwork, the clothes were completely stained with semen.
+Because the direction of his ejaculation was determined by footjob, his clothes were completely stained with semen.
 
 #voice ibab0525
-[Ibara] "Ah, I should wash my feet too."
+[Ibara] "Oh no, I better go and wash my feet too."
 
 ;SMODE 021 STOP
 #endscene
@@ -668,120 +668,120 @@ Because the direction of ejaculation was specified by footwork, the clothes were
 #bg BG03_1
 #wipe fade
 
-Thorn quickly stood up and entered the spring to wash his feet.
+Ibara was the first to stand up and went into the spring to wash his feet.
 
-"... Are you going to put your clothes in again, me?"
+"...Am I going in with my clothes again?"
 
-I don't even want to touch the semen I spit out, even if it's my own.
+No matter how much it's my own, I don't even want to touch the semen once it's been expelled.
 
 But I can't go home like this.
 
-"Ahhhh... too"
+"Ugh... too much."
 
-My clothes were wet from the beginning, and it was troublesome to take them off, so I jumped into the spring with my clothes on.
+My clothes were wet from the start, and it was too much hassle to take them off, so I just splashed around in the spring with my clothes on.
 
 ;CHR I07N C
 #cg イバラ iba_1_07n 中
 #wipe fade
 
 #voice ibab0526
-[Ibara] "Do humans bathe in their clothes? That's strange."
+[Ibara] "Do humans bathe with their clothes on? That's weird."
 
-"Who's to blame?"
+"Whose fault is this, anyway?"
 
 ;CHR I05N C
 #cg イバラ iba_1_05n 中
 #wipe fade
 
 #voice ibab0527
-[Ibara] "It's bad because humans ejaculate. If I didn't want to get my clothes dirty, I should have endured it."
+[Ibara] "It's because humans ejaculate. If you didn't want to get your clothes dirty, you should have just held back."
 
-"Don't be rude"
+"Don't be ridiculous."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-First of all, wash the genitals and put them in the underwear, and wash away the semen that splattered everywhere.
+First, he washes his genitals and puts them away in his slippers, then washes off the semen that has splattered everywhere.
 
-……It's hard to get off if it gets on the cloth.
+...Once it gets on fabric it's hard to remove.
 
-"It's been a long time, this."
+"This has come out quite a bit."
 
-It seems that he was very excited about the unusual situation. When my head cools down, it's embarrassing, pitiful, or complicated to look at the residue.
+It seems I was extremely excited by the abnormal situation. Now that my head has cooled down, seeing the remains of it makes me feel embarrassed, ashamed, and all sorts of other mixed emotions.
 
 ;CHR I07N C
 #cg イバラ iba_1_07n 中
 #wipe fade
 
 #voice ibab0528
-[Ibara] "Fufun, did it feel that good?"
+[Ibara] "Hmm, did it feel that good?"
 
-Ibara asked me proudly because it was his own achievement.
+Ibara asked me with a proud tone, probably because it was his own achievement.
 
-"... Well, just a little."
+"...Well, just a little."
 
 ;CHR I02N C
 #cg イバラ iba_1_02n 中
 #wipe fade
 
 #voice ibab0529
-[Ibara] "Just a little!? You looked so comfortable."
+[Ibara] "Just a little?! You looked like you were enjoying it so much."
 
-He pouts his lips like a thorn pouting.
+Ibara pouted, lips pursed.
 
-"... I'll be honest. It felt good. It felt good."
+"...I'll be honest with you. It felt good. It felt good."
 
 ;CHR I07N C
 #cg イバラ iba_1_07n 中
 #wipe fade
 
 #voice ibab0530
-[Ibara] "It's okay to say that honestly from the beginning. The face when a human orgasms is pathetic and funny."
+[Ibara] "You should have just said that from the beginning. The look on a person's face when they cum was so pathetic and funny."
 
 "..."
 
-A terrible humiliation.
+What a terrible humiliation.
 
 #voice ibab0531
-[Ibara] "It feels good to step on a human's penis, so you can do it again."
+[Ibara] "Stepping on a human's penis felt good, so I'd do it again."
 
-"No, it's fine. I'll refrain from doing that."
+"No, it's fine. I'll pass."
 
 ;CHR I02N C
 #cg イバラ iba_1_02n 中
 #wipe fade
 
 #voice ibab0532
-[Ibara] "Why!?"
+[Ibara] "Why?!"
 
-When I refrained, Ibara puffed out her cheeks in dissatisfaction.
+When I declined, Ibara puffed out his cheeks in dissatisfaction.
 
-No, because I think I'll wake up to a strange hobby.
+No, because I might discover some strange hobbies.
 
-"... Well, it's better for me to make Ibara feel good anyway, I guess?"
+"...Umm, I guess it would be better if I made Ibara feel good, then?"
 
 ;CHR I04N C
 #cg イバラ iba_1_04n 中
 #wipe fade
 
 #voice ibab0533
-[Ibara] "What!?"
+[Ibara] "Huh?!"
 
-At my answer, Ibara's cheeks brightened at once.
+Ibara's cheeks instantly flushed at my answer.
 
-"Next time I'll take care of Ibara a lot and make her feel good."
+"Next time, I'll give you lots of love and make you feel good."
 
 #voice ibab0534
-[Ibara] "I don't need that!"
+[Ibara] "I-I don't need that!"
 
-After Ibara said that and turned her back, she came out of the spring.
+With that, Ibara turned away and splashed out of the spring.
 
-...that's not honest.
+...That's not being honest at all.
 
-"... but what should I do with this?"
+"...But what should I do about this?"
 
-I was bewildered by the thick, thick semen that adhered to the cloth and was difficult to remove even in water.
+I was at a loss as to what to do about the thick, rich semen that had stuck to the cloth and was difficult to remove even in water.
 
 ;イバラ好感度+1
 #set f2 f2+1

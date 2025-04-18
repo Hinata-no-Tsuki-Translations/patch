@@ -1,0 +1,252 @@
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0207
+[Konomi] "But it's not nice to feel sick. I have to make sure I return to the elven realm every now and then."
+
+Konomi rolled over on her bed and smiled.
+
+"Yeah. I'm tired of worrying like that."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0208
+[Konomi] "Sorry for worrying you. Ibara told me it was really hard picking the tokiwasure flowers. You must have gotten hurt a lot, right?"
+
+"That's not really what I'm talking about though..."
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0209
+[Konomi] "Once the barrier closes, I'll come with you to pick some tokiwasure flowers, okay? Hehe... You can get hurt a lot, but I'll heal you."
+
+“Why do you assume that you’ll get hurt? That was because you were in a hurry to get back, but once you calm down, you won’t get hurt that badly from a cliff like that.”
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0210
+[Konomi] "Oh really? I see, so the human was panicking. Why? Is it because he's clumsy?"
+
+I felt a bit embarrassed to be asked such a question by the person I was worried about.
+
+"Well... it's because I was worried about Konomi, of course."
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0211
+[Konomi] "I see, so you were worried about me so much that you tried your best even after you got injured."
+
+Konomi nodded in satisfaction at my answer.
+
+...What is this, this is so embarrassing.
+
+“…It’s fine, just go to bed. You’re probably still tired from yesterday, and it’d be a problem if you got sick again.”
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0212
+[Konomi] "Yeah, I'm going to sleep. So..."
+
+Konomi smiled and reached out her hand to me.
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0213
+[Konomi] "I'll sleep quietly, so can you hold me?"
+
+"...Okay. I'll hold you, so just behave yourself."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0214
+[Konomi] "I get it, you didn't have to emphasize it so much."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi happily rubbed her cheek against my chest.
+
+She didn't mind being admired this much. Even if the purpose was just to feel good.
+
+But...
+
+A burning sense of anxiety begins to grow deep in my chest.
+
+I hear elves have incredibly long life spans.
+
+It is even said that a human life seems like just a blink of an eye.
+
+There is no way to know the exact time, as elves do not know when they are born or when they will die, and human life is too short to be observed...
+
+Konomi's life expectancy is probably much longer than mine.
+
+If nothing happens, I'll definitely be the one to go first.
+
+And yet Konomi wants to stay in the human world despite me.
+
+What will happen to Konomi after my life comes to an end?
+
+While I'm alive, I can make a decoction of forget-me-not flowers for Konomi, but I doubt she'll be able to do so herself when she's left alone.
+
+If the barrier closes at that time, they will not be able to return to the elf village.
+
+And what if elves infected with human poison were to disappear, and then suffer just like yesterday?
+
+But still keeping Konomi in this world... I guess I should tell her to go back to the elf village like Ibara said.
+
+"But..."
+
+Both Ibara and Izumi said that the barrier closes during the full moon.
+
+Until then, there's still a little bit of time.
+
+Is it greedy to wish we could spend just a little more time together?
+
+If that's true, maybe we should bring Konomi back sooner.
+
+Will Konomi return to me before the barrier closes?
+
+I wonder if she'll just go back to the elf village as usual and never show herself before me again.
+
+Or maybe Izumi and Ibara will lock them away so they can't escape the barrier again.
+
+I guess that would be better if you thought about Konomi.
+
+"If you don't want to let go... Ibara will probably be angry."
+
+I saw Konomi in so much pain, and I know she might suffer again, so it's crazy to still want her not to come back.
+
+Konomi soon began to sleep peacefully, and I continued to hesitate as I stroked her hair.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"...Oh, I'm out of salt too."
+
+I thought I had bought enough salt, but I ended up using more than I expected.
+
+This is because we use salt for preserving things and for other things much more than we did in the village.
+
+When I was in the village, I didn't think it was such a big deal because I could borrow things from neighbors or go buy them myself, but I end up using quite a lot.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0215
+[Konomi] "Then why don't you just not use it?"
+
+"That's not true. Salt is quite important. If you don't have enough salt, your body will feel weak. I'll have to go back to the village to buy some."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0216
+[Konomi] "Are you going back to the village? I'll get lonely."
+
+"Don't say that, I'll come back as quickly as I can."
+
+While I'm here, I think I'll buy some sugar, honey, and eggs and make some more sweets.
+
+Konomi doesn't seem to dislike sweets, so I'm sure she'll be happy.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+;可能ならウィンドウの色変えるとかしたい
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kond0217
+[Konomi] "Oh, so this is the village."
+
+On this day, Konomi followed a human who had returned to the village to shop, and ended up in the village.
+
+One reason was that it was difficult for him to separate himself from humans, but he also became interested in the human society in which humans were born and raised.
+
+Given the curious nature of elves, it was inevitable that this would come eventually.
+
+It was easy to follow a human without them noticing.
+
+For elves who live in harmony with nature, it is easy to blend into the forest, so long as they can refrain from trying to surprise or cling to it.
+
+Therefore, the human didn't even notice that Konomi was following him.
+
+Konomi looks up at the parted forest.
+
+The village in which the humans grew up was built by clearing fertile forest and surrounding it with a wall.
+
+It can also be said that villages are something that humans have powerfully carved out of nature.
+
+No matter how curious she was, it was still the first time that Konomi, an elf who lives in harmony with nature, had left the forest.
+
+Places like flower fields and springs, even though they are open, are places where life sprouts, just like forests.
+
+But the village is different.
+
+It's a place that was built by taking lives, so to speak.
+
+It is a place where the forest has been burned, the trees cut down, and it exists isolated from the rest of the land.
+
+There was no place for Konomi to hide there.
+
+There was no place to hide.
+
+#bgvoice stop
+
+;dk04へ
+#next dk04

@@ -1,9 +1,9 @@
 
-"Is delicious"
+"It's delicious."
 
 When asked if it was delicious, I gave the safest answer.
 
-Of course it's not a lie. I'm not so impressed with how delicious it is, but it's good enough.
+Of course, I'm not lying. It's not amazingly delicious, but it's still pretty tasty.
 
 ;CHR OFF
 #cg all clear
@@ -13,7 +13,7 @@ Of course it's not a lie. I'm not so impressed with how delicious it is, but it'
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0052
-[Hinata] "Hoho! Is it delicious? What kind of horse mackerel?"
+[Hinata] "Oh! Is it delicious? How does it taste?"
 
 "Hmm? I seasoned it with salt."
 
@@ -25,7 +25,7 @@ Of course it's not a lie. I'm not so impressed with how delicious it is, but it'
 #cg コノミ kon_1_05f 中
 #wipe fade
 #voice konf0020
-[Konomi] “Is seasoning with salt salty?”
+[Konomi] "If it's seasoned with salt, does that mean it's salty?"
 
 ;CHR OFF
 #cg all clear
@@ -35,59 +35,59 @@ Of course it's not a lie. I'm not so impressed with how delicious it is, but it'
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0053
-[Hinata] "That's not true! Just because you say it's salty doesn't mean you don't understand because you've never eaten Hinata!?"
+[Hinata] "That's not true! Just saying it's salty doesn't mean I have no idea what it tastes like, since I've never tried it!"
 
-“Huh!?”
+"Huh?!"
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0054
-[Hinata] “I want you to tell me what kind of horse mackerel it is, Human-san!”
+[Hinata] "Please tell me what it tastes like, human!"
 
-"I don't care what you say it tastes like. It has the sweetness and flavor of well-cooked vegetables...or something like that?"
+"What kind of taste is it? Is it the sweetness and umami of well-cooked vegetables... or something like that?"
 
-...No, it's not that big of a deal.
+...Well, it's nothing so big.
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0055
-[Hinata] "Amami? Aji like a funny one?"
+[Hinata] "Sweet? Like candy?"
 
-“It’s different from sweets, but…”
+"It's not like sweets though..."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0056
-[Hinata] “So, what kind of taste?”
+[Hinata] "So, what does it taste like?"
 
-"What? Are you asking me to explain that it's full-bodied and mellow, yet not overpowering, mellow and refreshing?"
+"What? Should I explain it as having a rich, mellow flavor, yet not too heavy and mellow and refreshing?"
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0057
-[Hinata] “Oh yeah, that’s what it is!”
+[Hinata] "That's right, that's it!"
 
-"Even if you say that... Potatoes taste like potatoes, and green onions taste like green onions. Both are sweet, but each has a different sweetness... It's difficult to explain the taste verbally."
+“Even if you say that… potatoes taste like potatoes, and leeks taste like leeks. They’re both sweet, but they’re each different kinds of sweetness… it’s hard to describe the taste verbally.”
 
 ;CHR H03F1_A C 
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0058
-[Hinata] “Then Hinata and the others won’t understand!?”
+[Hinata] "Then Hinata and the others won't understand, right!?"
 
-“Explaining the taste is not that difficult.”
+"It's not that difficult to explain the taste."
 
 ;CHR H02F2_A C
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0059
-[Hinata] "Eh? Human-san, you can't do it."
+[Hinata] "Eh? Humans are no good."
 
-“Don’t be so reckless.”
+"Don't be ridiculous."
 
 ;dh01_2へ
 #next dh01_2

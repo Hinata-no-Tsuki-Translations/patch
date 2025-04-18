@@ -1,0 +1,380 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG41_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg41_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+For the first few days since Tsukiyo's departure, my days with Konomi were peaceful...or rather, although there was a feeling of something a little decadent, they passed by peacefully.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0133
+[Konomi] "Are you going out again, human? Aren't you going to have fun with me?"
+
+"I found a similar description in a book about the grass growing in the bushes I saw yesterday. I want to confirm it, so I'll have to go and look again..."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0134
+[Konomi] "Hmm, it seems like humans have fun researching things like that, huh?"
+
+"Yeah, it's fun. It's so much fun learning new things. Do you want to come with me, Konomi?"
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kond0135
+[Konomi] "Hmm... I guess I'm fine today..."
+
+…It’s unusual for you to not say you’ll come with me.
+
+Ever since we were alone, she's wanted to follow me wherever I go...even to the village.
+
+"So, are you taking a nap in the hut today?"
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0136
+[Konomi] "Hmm, what should I do?"
+
+"Well, it's fine. I'm off now..."
+
+Konomi's hands are tightly gripping the hem of her skirt.
+
+"What happened? If you grab me, I can't move..."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0137
+[Konomi] "Hmm, I don't think I want the human to go today either."
+
+"How selfish..."
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0138
+[Konomi] "I want you to be by my side, but will you still go, Human-kun?"
+
+Konomi looked unusually anxious...
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0139
+[Konomi] "I feel kind of tired... I might feel sick."
+
+"Konomi?!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi, still holding onto the hem of my pants, collapsed and sat down.
+
+;SMODE 051 PLAY
+#label replay051
+#setscene 48
+#bg BG07b_1
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;ＥＶ絵――EV56『病床のコノミ』★待ち
+;EVCG EV056A1
+;#face off 
+
+#cg イベント ev056a1 背景
+#wipe fade
+
+I hurriedly carried Konomi into bed and when I put my hand to her forehead I found that she had a terrible fever.
+
+"Huh? Does a fever reducer for humans work?"
+
+I got angry and tried to move away, but Konomi grabbed my hand and wouldn't let go.
+
+#voice kond0140
+[Konomi] "Nooooo... Don't let me go... Stay by my side, human."
+
+"Okay. I'll be right there with you, so good night."
+
+#voice kond0141
+[Konomi] "...Yeah. Stay by my side forever, human."
+
+"Ahh..."
+
+I stayed by Konomi's side until she fell asleep.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;ＥＶ絵――EV56『病床のコノミ』★待ち
+;EVCG EV056A1
+#cg イベント ev056a1 背景
+#wipe fade
+
+#voice kond0142
+[Konomi] "Ugh... It's bitter and has a weird smell... I don't want to eat that."
+
+"...I don't know if it will work, but you should feel better once your fever goes down."
+
+#voice kond0143
+[Konomi] "There's no way human medicine will work on an elf. Instead, put your human hands on my head like you did before. I think it will work better that way."
+
+"Okay then... just try taking some medicine."
+
+#voice kond0144
+[Konomi] "I can't help it...ugh...this is bad."
+
+"Hopefully you'll get better soon."
+
+#voice kond0145
+[Konomi] "Hmm... I like things that feel good, but I don't like things that feel bad."
+
+Konomi is always making me go crazy, but when she looks unwell like this I can't help but get worried.
+
+I don't mind if you keep messing around with me, but I just want you to get better soon.
+
+#voice kond0146
+[Konomi] "Mmm, your human hands feel so good. The inside of my mouth is warm too, so... mumbling... the inside of my mouth feels good, too."
+
+"Hey, hey. Don't lick your fingers."
+
+#voice kond0147
+[Konomi] "Why? Licking my fingers feels good... Ah... I want to do something that feels good... but I can't move."
+
+"Yes, yes, let's do it when you feel better."
+
+#voice kond0148
+[Konomi] "...Yeah. Let's do it, shall we?"
+
+Even her smiling face seems fleeting.
+
+I felt a bit strange when he licked my fingers, but there was no way I was going to attack him at a time like this.
+
+;暗転
+#cg all clear
+#bg black
+#wipe fade
+
+;SMODE 051 PLAY 位置移動前へ
+;#label replay051
+;#setscene 50
+;#bg BG07b_1
+
+;ＥＶ絵――EV56『病床のコノミ』★待ち
+;EVCG EV056A1
+#cg イベント ev056a1 背景
+#wipe fade
+
+#voice kond0149
+[Konomi] "...Haa, ...haa"
+
+"It's been a night and I'm not feeling any better"
+
+On the contrary, I feel like it's getting worse and worse.
+
+I've tried everything I can, such as cooling his forehead with a cloth soaked in cold water and wiping his body, but the fever just doesn't seem to be going down.
+
+Maybe because he's feeling unwell, he can't seem to sleep properly.
+
+His complexion is so white that it makes him look awful.
+
+#cg イベント ev056a2 背景
+#wipe fade
+
+#voice kond0150
+[Konomi] "Hmm...ah...ah..."
+
+Konomi was just breathing heavily and had no energy to play with me, which made my heart ache.
+
+"You look like you're in pain... I wish I could take your place..."
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+As I was wiping the sweat off Konomi, the door to the hut opened.
+
+"……yeah?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0021
+[Ibara] "...Konomi, are you feeling unwell?"
+
+"...Ah!? Ibara...you're back?"
+
+#voice ibad0022
+[Ibara] "...I haven't come back. I was just wondering how Ningen and Konomi were doing."
+
+"Oh... I see... as you can see, Konomi is not feeling well at the moment..."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0023
+[Ibara] "As I thought... it seems that Konomi has never returned to the Elven realm since then."
+
+"Is that the cause?!"
+
+Ibarra nodded with a difficult look on his face.
+
+"Well then... let's just return Konomi to the elven realm..."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0024
+[Ibara] "Humans are stupid after all. How are they going to take Konomi away in this condition?"
+
+"Ah, I, I see... but then, what should I do? Even elves get sick. I've tried giving him human medicine, but it doesn't seem to be working..."
+
+#voice ibad0025
+[Ibara] "It's not that herbs won't work, but judging by the state of Konomi, a simple fever-reducing treatment won't do. I think she'll probably need some tokiwasure flowers."
+
+"Forget-me-not flowers...?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0026
+[Ibara] "That's right. At the border of the Elven barrier, we burn tokiwasure flowers mixed with incense to stop foreign elements from entering the barrier."
+
+#voice ibad0027
+[Ibara] "Dried tokiwasure flowers make elves and humans forget unnecessary things. For example, unpleasant things that happened in each other's worlds, or things that shouldn't be remembered."
+
+"You shouldn't remember that..."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibad0028
+[Ibara] "How could I possibly know that? I have never forgotten a single forget-me-not flower, and even if I had, I would have forgotten it!"
+
+"So, do we need those tokiwasure flowers to cure the fleas? How can we get them? Do we have to go to the elf village to get them?"
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0029
+[Ibara] "Don't ask so many questions at once."
+
+"Just tell me where they are blooming. Hurry, hurry, I'll go get them for Konomi... to the elf village or wherever."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0030
+[Ibara] "The tokiwasure flower grows in this forest too."
+
+"Eh?! Wh, where?!"
+
+#voice ibad0031
+[Ibara] "You see that cliff on the other side of the flower field? It's a pale pink flower blooming on top of that cliff."
+
+"On the cliff..."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0032
+[Ibara] "Once we get some, we can make a tea and give it to him to drink. Humans, be careful not to inhale the steam. You never know what you might forget."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+On top of a cliff... That cliff had fragile footing and looked difficult to climb, but it didn't seem impossible.
+
+It's not that far, so if you climb carefully...
+
+So that will help Konomi?
+
+But in exchange for feeling better, I seem to forget something...
+
+#endscene
+
+;選択肢発生
+#select a b
+A: If Konomi can be saved
+B: I'm afraid I'll forget about myself.
+
+#label a
+#next dk02a
+
+#label b
+#next dk02b
+
+;Ａを選択⇒『dk02a』へジャンプ
+;Ｂを選択⇒『dk02b』へジャンプ

@@ -1,0 +1,506 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG43_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg43_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+
+#bgvoice stop
+;BGMch2 amb002 再生
+#bgvoice amb002
+
+;背景：山小屋前（夜）
+;BG BG08b_3
+#cg all clear
+#bg BG08b_3
+#wipe fade
+
+"Maybe I bought a bit too much... It was really heavy. Powdered things are pretty heavy..."
+
+I also bought some beautiful toys and a few accessories that I thought would look good on Konomi.
+
+If we plan on returning Konomi to the elf village, there isn't much time until the full moon.
+
+I wanted to do everything I could until then, and the result was this huge load.
+
+Financially, I may have been a bit overspending. I don't have much of a salary, but I've been spending way too much.
+
+I don't mind pushing myself a little as long as it makes Konomi happy.
+
+I think we'll be able to manage until the full moon.
+
+Even if Konomi forgets, I want her to enjoy this moment.
+
+However, lately I've been busy flirting with Konomi so I don't have much to sell.
+
+I know I should be making crafts and preserving foods, but when Konomi keeps bothering me I end up putting off a lot of work.
+
+Also, it's hard to say that the exploration of the surrounding area has progressed very well, since all I have time for is cuddling Konomi.
+
+Although he sometimes speaks arrogant things to Konomi, when he thinks about the limited time until the full moon, he ends up wanting to spend as much time with her as possible.
+
+When Konomi returns to the elf village, she'll have to work hard and do lots of things.
+
+Just the village is not enough, so I'll have to think a bit about going to town.
+
+Even though we had limited time, the thought of being separated from Konomi made it hard to believe.
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夕）
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+"I'm home... Wait?"
+
+When I returned, I was greeted by an empty hut.
+
+The situation was the same as when I left, and Konomi seemed to have left the house shortly after I did.
+
+"...Ah, I see. Maybe Konomi went back to the elf village while I was away..."
+
+Konomi may never come back.
+
+I felt the anxiety I had felt last night make the hairs on my back stand on end.
+
+It's not that I don't believe in Konomi.
+
+But not having him by my side makes me feel so anxious.
+
+Such is the fickleness of elves. If it is easy to choose me, it will be just as easy to abandon me.
+
+There is practically no reason for her to choose me.
+
+If there was something there that interested Konomi more than me, it wouldn't be strange at all if she went there.
+
+"...Instead of thinking about such pointless things, let's make some sweets. Even if Konomi doesn't come back, we can have some as a preserved food."
+
+There's no need to become more self-deprecating than necessary just because you're feeling anxious.
+
+I'm already prepared to lose Konomi.
+
+Konomi will be returned to the elf village by the full moon. I haven't told her this yet, but it's clear in my mind.
+
+After all, if I die, Konomi will probably disappear before too long.
+
+I don't have any plans to die anytime soon, but to an elf, a human's life is but the blink of an eye.
+
+Considering what will happen to Konomi after I die, it's definitely best to send her back to the elf village now.
+
+Therefore, Konomi will return to the elf village before the full moon when the barrier closes.
+
+Apparently in the elf village they burn tokiwasure flowers near the barrier, so Konomi will probably forget about me eventually.
+
+Even if you're sad because we broke up, the sadness won't last forever.
+
+Besides, if we spend too much time together, I'll grow old and die first. If I can send Konomi back inside the barrier, she'll be able to escape that sadness.
+
+I once again looked around the cabin where I had stayed with Konomi.
+
+Maybe there was some reason why he hadn't returned before I did.
+
+I shook my head to clear my sentimental feelings and put my luggage down.
+
+Konomi would probably get in the way if she was here anyway, so I decided to bake some sweets for her before she returned so the two of us could eat them together.
+
+Plus, I'm sure Konomi would be happy if some sweets were unexpectedly prepared for her.
+
+Although not as much as Hinata or Ibara, Konomi didn't seem to dislike sweets either.
+
+Without thinking about anything else, just thinking about Konomi's happy face, let's bake sweets. Let's bake lots of sweets.
+
+Baking sweets is difficult because of the ingredients and the heat. If you focus on the task at hand, you won't be overwhelmed by unfounded anxiety.
+
+You don't have to dwell on the sadness of breaking up.
+
+I tore off a piece of the tasteless bread I'd bought in the village and popped it into my mouth, then measured out some flour before I even had a meal.
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 2000
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+Even though lots of sweets had been baked, Konomi still hadn't returned home.
+
+"...Konomi's guy is slow."
+
+Is he really not planning on coming back from the elf village?
+
+In that case, I won't have to experience the sadness of separation that I've been putting off.
+
+It would surely be easier than forcing them to go home.
+
+"But I wanted to at least say goodbye."
+
+I know that there's no limit to wishing to see someone one last time. So maybe it's easier to just let them leave like this.
+
+"Haha... what should I do with these sweets? Maybe I should go sell them in the village tomorrow?"
+
+Not feeling like eating the sweets I'd baked for Konomi, I was setting them out when the door to the shed opened.
+
+;SE se013 扉のバタン音
+#se 1 se013
+
+"a……"
+
+I was happy to see Konomi back, but when I turned around I saw an unexpected face.
+
+"In the thorns... Izumi."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0096
+[Ibara] "What's going on? Why are you disappointed that we came? How rude, humans!"
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0023
+[Spring Elf] "It can't be helped, but it feels strange to be called by a human-sounding name."
+
+"...Ah, but I can call you something else."
+
+#voice izud0024
+[Elf of the Spring] "I'm not blaming you."
+
+Ibara had been pouting, but his face instantly lightened up as he smelled the sweet aroma that filled the hut.
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibad0097
+[Ibara] "What's this, human? You were baking sweets to treat us. That's an admirable sentiment."
+
+"No, it's not like that, but... do you want to eat some?"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0098
+[Ibara] "Make sure you make some tea too!"
+
+"Yes, yes."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+The thorns come in as if they know the place well.
+
+Izumi is left behind.
+
+"Um, well. If you don't mind, please come in."
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0025
+[Spring Elf] "...Excuse me for bothering you."
+
+Before he could offer Izumi a chair, Ibara had already started eating his sweets.
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibad0099
+[Ibara] "Yes! These sweets are delicious! Why don't you try some, brother?"
+
+#voice izud0026
+[Fountain Elf] "Thorn Elf, this is not the time for that."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0100
+[Ibara] "...Huh?! Ah, that's right!"
+
+"What's up with that? It's so noisy."
+
+Ibarra looked around, still holding the sweets.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0101
+[Ibara] "Konomi, where did Konomi go?! We decided that we should bring Konomi back after all..."
+
+"picture?"
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibad0102
+[Ibara] "What is it, I mean... Human, don't you know where Konomi went?"
+
+I suddenly had a terrible feeling of dread.
+
+"When I came back, Konomi wasn't there... so I thought for sure she'd gone to the elf village."
+
+#voice izud0027
+[Spring Elf] "No, he hasn't come back. Is the Nut Elf away?"
+
+"What are you doing out this late at night..."
+
+When we were living in this hut with Hinata and the others, it wasn't like we were all there all day and night.
+
+However, at that time, Ibara and Konomi had returned to the elf village...
+
+And yet, Ibara and Izumi are still searching for Konomi.
+
+Something like a chill runs down my spine.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0103
+[Ibara] "Konomi should be near the humans. So... if she's not waiting in this hut, she must have been kidnapped by someone else."
+
+"What?! Kidnapped...?!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SE se013
+#se 1 se013
+;ガタっていう音
+
+When I stood up, the chair fell over.
+
+--Now that I think of it, when you were coming back here from the village, wasn't the villagers making some kind of commotion?
+
+I didn't care to hurry back to the hut, but it seemed like I had caught something big...
+
+Wasn't that a fuss about capturing an elf!?
+
+"A village!"
+
+;FACE I08F
+#face f_iba_0_08f 94 466
+
+#voice ibad0104
+[Ibarra] "Village?"
+
+"Yeah. I think maybe some guys from my village have kidnapped Konomi. We have to hurry and go and rescue her!"
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0105
+[Ibara] "What?! Was she kidnapped by another human?!"
+
+Ibara also stood up, looking flustered.
+
+Izumi grabbed his arm and stopped him.
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0028
+[Fountain Elf] "Thorn Elf, calm down."
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibad0106
+[Ibara] "Ah, brother..."
+
+#voice izud0029
+[Spring Elf] "I will not allow you to set foot in this village."
+
+"W-why?! If Konomi was captured in the village, there must be multiple people watching over her. Honestly, I'd really like to ask for your help. If possible, more than one..."
+
+#voice izud0030
+[Elf of the Spring] "Why do elves have to lend their strength to humans?"
+
+"B-but Konomi is an elf and one of your friends."
+
+In response to my plea, Izumi shook her head from side to side.
+
+#voice izud0031
+[Elf of the Spring] "That is certainly true. However, it is impossible for elves to join forces with humans."
+
+"Why?! Because I wanted to help Konomi..."
+
+#voice izud0032
+[Elf of the Spring] "It is a pity that a Nut Elf has been captured by a heartless human. However, that is not what will stop us from doing anything."
+
+"Why?! Why not?"
+
+#voice izud0033
+[Elf of the Spring] "It's sad that the Nut Elf was kidnapped, but there's nothing we can do about what has happened. It's fate."
+
+Izumi remained calm, without changing her expression.
+
+"Destiny... what on earth is that? Isn't that a bit too cold?"
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0107
+[Ibara] "You idiot human! Don't say such rude things to my brother!"
+
+Ibara was probably worried about Konomi as well, as he looked angry and almost in tears with a complicated expression on his face.
+
+"B-but...it's as if there's no point in just letting Konomi die..."
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0034
+[Elves of the Spring] "If this is happening before our eyes, we will resist and retaliate. However, we cannot expose more elves to the eyes of humans in order to reverse what has happened."
+
+"Why?! Then what about Konomi?"
+
+Ibarra clenched his fist in frustration.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibad0108
+[Ibara] "...If the humans who captured Konomi see us, they'll definitely try to capture us too... They might even try to burn down the forest."
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibad0109
+[Ibara] "If people think that there are other elves besides us...then the elves will have no choice but to gather all their strength and fight the humans. It will be war."
+
+"Huh..."
+
+So does that mean you're going to leave Konomi alone for now?
+
+I can't accept that.
+
+#voice izud0035
+[Elf of the Spring] "If the trunk and roots are strong, the branches and leaves will grow again. For that reason, it is inevitable that some branches will be cut off."
+
+;SE se013
+#se 1 se013
+;机ドンっていう音（★仮で扉のバタン音）
+
+"Are you saying that Konomi is nothing more than a branch?!"
+
+I was so enraged that I instinctively slammed the desk.
+
+The sweets piled on the desk fly up and scatter everywhere.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+#voice izud0036
+[Elf of the Spring] "Not only elves who are nuts are branches. Any of us can become branches."
+
+"If Izumi gets caught, and no one comes to help, will you just give up?"
+
+#voice izud0037
+[Elf of the Spring] "Yes, even if he is captured, that elf will not seek help from his kind. He will make an effort to save himself, though. If a major conflict were to break out, his trunk and roots would be shaken."
+
+#voice izud0038
+[Elf of the Spring] "In the first place, the Nut Elf was too attached to humans. He was interested in you as a human and approached you. Eventually, that curiosity would have turned to other humans."
+
+#voice izud0039
+[Elf of the Spring] "If that happens, it is entirely possible that you will be caught by an elf hunter. It's just a matter of whether that time comes sooner or later."
+
+#voice izud0040
+[Elf of the Spring] "If you were so worried about him, you should never have let him in. His mistake began when he approached you in the first place."
+
+"So that's why you're abandoning Konomi?"
+
+#voice izud0041
+[Elves of the Spring] "Elfs do not like fighting by nature. Not only do they not like it, but the numbers they are born with are so small that if their trunks or roots are shaken, they will be wiped out in an instant."
+
+"Still, I... don't think it's a good branch to lose Konomi!"
+
+I was stupid to rely on people like that.
+
+Right now, there is no time to argue or try to persuade him.
+
+"I'll go and rescue Konomi. I'm not asking for your help anymore. In return, when Konomi returns..."
+
+#voice izud0042
+[Spring Elf] "...I understand."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Before he could speak, Izumi nodded.
+
+I ran towards the village in the darkness of the night.
+
+;dk05へ
+#next dk05

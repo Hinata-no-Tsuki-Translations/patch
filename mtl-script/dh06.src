@@ -54,13 +54,13 @@
 #cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0453
-[Hinata] "Good morning, Human-san."
+[Hinata] "Good morning, human."
 
-"Good morning...I guess I can sleep better than expected."
+"Good morning... I was able to sleep quite well."
 
-I looked into her face and woke up to Hinata's presence, and I stretched out.
+Peering into my face, I woke up sensing Hinata's presence and stretched.
 
-The bed that Hinata had chosen was soft and comfortable.
+The bed Hinata had chosen was comfortable as the grass was soft.
 
 "What do you do on a rainy day?"
 
@@ -68,57 +68,57 @@ The bed that Hinata had chosen was soft and comfortable.
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 #voice hinf0454
-[Hinata] "Hmm? What's with the candy?"
+[Hinata] "Hmm? What does it mean when it rains?"
 
-"When choosing a place to sleep, think about whether it's going to rain or where you'll sleep if it rains."
+"When choosing a place to sleep, you think it might rain, or if it's raining, where will you sleep?"
 
-When I left the village, I was prepared to sleep in the wild, but it seems that elves regularly sleep in fields and mountains.
+When I left the village I was prepared to sleep outdoors, but it seems that elves usually sleep in the mountains or fields.
 
-So, I guess there are some tips for choosing a bed depending on the time of year.
+So maybe there are some tips on choosing a sleeping place that suits the season.
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0455
-[Hinata] "Hmm, there's a lot of things! There's a hole in the tree, there's a hole, there's a hole, there's a lot of things! There's a lot of things!"
+[Hinata] "Hmm, there are all kinds! There are holes in the grass and in the trees, holes in the trees, and so on! All kinds!"
 
 "That's a rough answer."
 
-...Elves are fickle, leave it to them. I should have known that a long time ago, but I was an idiot for expecting an answer.
+... Elves are fickle and do whatever they want at the time. I should have known that for a long time, but I was stupid to expect an answer.
 
-But maybe it's something like that.
+But maybe that's how it is.
 
-If you don't think about it, you might be able to do it at the right time.
+If you don't think too much about it, you might just be able to get by as the situation presents itself.
 
-...For example, today I'm in the grassland, tomorrow I'm up in the trees, and I move around all over the place without interacting with either humans or elves...
+...For example, today you could be on the plains, tomorrow in the trees, wandering from place to place, without ever coming into contact with humans or elves...
 
-Guuuuuuuuuuuu
+Guuuuuuuuuu
 
-As I was daydreaming, my stomach growled.
+As I was daydreaming like this, my stomach started growling.
 
 ;CHR H08F2_A C
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0456
-[Hinata] “Ahahaha, it’s Mr. Human’s belly bug! The belly bug is making me hungry!”
+[Hinata] "Hahaha, it's a human's stomach bug! The stomach bug is hungry!"
 
-"Now that I think about it, you haven't eaten anything since yesterday. That makes your stomach growl."
+"Now that I think of it, I haven't eaten anything since yesterday. No wonder my stomach is growling."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0457
-[Hinata] "Let's go to school!? Let's go to school!? What are we going to do today?"
+[Hinata] "Study?! Study?! What are we going to study today?!"
 
-"That's right. Where should we go? Let's go pick some fruit. The fruit that wasn't ripe the other day is probably about to ripen."
+"That's right. Where should we go? Let's go pick some fruit. The fruit that wasn't ripe until recently should be ripe by now."
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0458
-[Hinata] "That's right! I'm sure it's coming! Let's go, let's hurry, Human-san!"
+[Hinata] "That's right! It's about time! Let's go, let's hurry, humans!"
 
-I got up, but Hinata reached out to me as I was still sitting.
+I got up, but while I was still sitting, Hinata reached out her hand to me.
 
 I take his hand and stand up.
 
@@ -132,51 +132,51 @@ I take his hand and stand up.
 #bg BG04_1
 #wipe fade
 
-"Yeah, it's ripened nicely. Delicious."
+"Yeah, it's nice and ripe. It's delicious."
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0459
-[Hinata] "Oh! Collect more red beans!?"
+[Hinata] "Oh! Can I collect more red ones?!"
 
-"Yeah... no, it's fine."
+"Yeah... No, it's fine."
 
-Now that I no longer have a home base, I can't preserve it even if I pick a lot.
+Now that we no longer have a residential base, even if we pick a lot, we can't preserve them.
 
-Can't we at least stockpile food until we can secure cooking utensils and seasonings?
+Can't we at least stockpile food until we have cooking utensils and seasonings?
 
-Once my hunger subsided, I once again realized my current situation.
+Once my hunger was quenched, I realized once again the situation I was in.
 
-At that time, at that time.
+It depends on the situation.
 
-That means you can't prepare for when something happens.
+That means you're not prepared if something happens.
 
-Elves seem to be such creatures, but will I really be able to live like that?
+Apparently that's the way elves are, but I wonder if I could really live like that.
 
-Also, elves have a mysterious power to heal wounds. However, as a human, I don't have such mysterious powers.
+Also, elves have magical powers like healing wounds, but as a human, I don't have such magical powers.
 
-...When I left the village, I thought I could live without having anything to do with it.
+When I left the village, I thought I could live without having to be involved with it any more.
 
-However, looking back, I found that I relied on the village to buy grain and other things, and sold what I got in the forest there, and in the end, I had just moved my place of life to the forest, but I had never left the village.
+But looking back, we relied on the village to buy grains and other produce, and sold what we got in the forest in the village, so in the end we just moved our lives to the forest, but we didn't really leave the village.
 
-Right now, I feel like I can live in the moment, but when that happens, I wonder if I'll regret it.
+Right now, I feel like I can live each moment as it comes, but when that time actually comes, I wonder if I'll regret it.
 
 ...I'm sure I'll regret it to the point of death.
 
-You'll probably end up living your life repeating, ``I should have done that,'' and ``I should have done that.''
+I guess I'll end up living my life repeating the same thing over and over again.
 
-If I'm alone, that's fine. Even if Nodare dies, it's my choice.
+If it were just me, that would be fine. If I had to die alone, that's my choice.
 
-But is it okay to involve Hinata in this?
+But, is it okay to involve Hinata in this?
 
-Hinata's path is to think about what's best for Hinata...I guess she should let go.
+Hinata's path is one of thinking about what's best for her... Maybe I should let go after all.
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0460
-[Hinata] "Ningen-san, are you done with the fruit?"
+[Hinata] "Human, are you done with the fruit?"
 
 "yeah?"
 
@@ -184,17 +184,17 @@ Hinata's path is to think about what's best for Hinata...I guess she should let 
 #cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0461
-[Hinata] "I don't think I'll eat any more! If you've had enough of fruit, why don't you eat it today? Do you want to make some vegetables? Or use a harpoon to find dangerous monsters!"
+[Hinata] "It looks like you're not going to eat anymore! If you're fine with the fruit already, what shall we do today? Shall we hunt? Maybe go with a harpoon to find some safe monsters!"
 
-"...That's right. Shall we go?"
+"...That's right. Let's go."
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0462
-[Hinata] “Yeah, let’s go!”
+[Hinata] "Yeah, let's go!"
 
-I stood in front of Hinata and headed towards the dark forest.
+I stood ahead of Hinata and we walked towards the dark forest.
 
 ;暗転
 ;#face off
@@ -216,15 +216,15 @@ I stood in front of Hinata and headed towards the dark forest.
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0463
-[Hinata] "Ningen-san, you were scared when you saw the orcs! I'm glad you helped them."
+[Hinata] "You must have been scared when you saw the orc, human! I'm glad you were saved."
 
-"Yeah. I hope we don't have to meet again."
+"Yeah. I hope I don't have to meet you again."
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0464
-[Hinata] "Ningen-san, Ningen-san, there were lots of fish in Megane Izumi!"
+[Hinata] "Humans, humans, there were lots of fish in Megami no Izumi!"
 
 "Yeah"
 
@@ -232,53 +232,53 @@ I stood in front of Hinata and headed towards the dark forest.
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0465
-[Hinata] “The bag that Human-san gave me is filled with all sorts of things!”
+[Hinata] "The cloth bag that humans gave me can hold all sorts of things!"
 
-“Are there any stones or anything in there today?”
+"Are there any stones or anything in there today?"
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0466
-[Hinata] "Yes, that's it! Shibagurumi's body is also in there!"
+[Hinata] "Yeah, that's right! It's even coming from Shibagurumi!"
 
-"Why do you keep a shell in there...?"
+"Why did you keep the shells in there..."
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0467
-[Hinata] "The candy you made was black at first. The horned beetle Tsukiyo made was really cool."
+[Hinata] "The first sweets humans made were all black. The horned beetle Tsukiyo made was cool."
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0468
-[Hinata] "Ningen-san, Ningen-san..."
+[Hinata] "Human, human..."
 
-Hinata continues to talk incessantly, as if trying to pull out all the memories she's had up until now.
+Hinata kept talking nonstop as if she was trying to bring up all of her memories up until now.
 
-So much has happened in just one month that I won't be able to tell you all about it.
+There was so much that happened in just a month that I couldn't even begin to talk about it all.
 
-All of them are irreplaceable memories... and...
+All of them are irreplaceable memories...and...
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-After walking a little further inside, I found them waiting for me.
+We went further in and sure enough, they were waiting for us.
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 #voice konf0051
-[Konomi] "Huh? You're already here?"
+[Konomi] "Oh dear, you're here already?"
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 #voice ibaf0079
-[Ibara] “You came here after all, human.”
+[Ibara] "So you came here after all, human."
 
 "……Yeah"
 
@@ -292,9 +292,9 @@ After walking a little further inside, I found them waiting for me.
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0469
-[Hinata] "I was surprised when Human-san became a joke! After all, it's boring without Human-san."
+[Hinata] "I was surprised when the humans got sick! It's no fun without the humans after all."
 
-Hinata tightly grabs the hem of my clothes.
+Hinata tightly grabbed the hem of my clothes.
 
 I looked down at Hinata.
 
@@ -302,27 +302,27 @@ I looked down at Hinata.
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0470
-[Hinata] "As expected... you're here... hehehe"
+[Hinata] "I thought so... I ended up here... hehehe"
 
-Hinata didn't cry but laughed. With her usual sad face.
+Hinata didn't cry, but laughed. Her usual face showed she had swallowed her sadness.
 
-"As expected, did you understand?"
+"So you knew it after all."
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0471
-[Hinata] "You know!? Because human-san doesn't usually come this far!"
+[Hinata] "I know! Humans don't usually come this far into the forest!"
 
-In the end, what I chose was to return Hinata to the elf village.
+In the end, I decided to return Hinata to the elf village.
 
-Hinata probably has the right to choose between the two worlds, the elf world and the human world.
+Hinata has the right to choose between the world of elves and the world of humans.
 
-I thought that if I was going to be bullied in the elf world, I should stay in the human world, but I guess it's the same thing in the human world where people are hated as something different.
+He had thought that if he was going to be bullied in the elven world, he should have stayed in the human world, but he would probably be hated as an alien in the human world just the same.
 
-I wonder if I'll be able to protect Hinata even though I can't even protect myself.
+I was in a difficult position to even protect myself, so was I really capable of protecting Hinata?
 
-...It has been decided that it is impossible.
+...Of course it's impossible.
 
 ;CHR OFF
 #cg all clear
@@ -332,27 +332,27 @@ I wonder if I'll be able to protect Hinata even though I can't even protect myse
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 #voice konf0052
-[Konomi] "Hinata, I came to see you. That's good. If I had missed today, Hinata might not have been able to come home."
+[Konomi] "I've come to pick you up, Hinata. I'm glad, if you had missed today you might not have been able to come back."
 
-"Huh? There's still some time until the full moon..."
+"Eh? There's still a little bit of time until the full moon..."
 
 ;CHR K05F L
 #cg コノミ kon_1_05f 左
 #wipe fade
 #voice konf0053
-[Konomi] "Hinata is a half-elf. Because there are so many extra things mixed in, it's difficult to pass."
+[Konomi] "Hinata is a half-elf, after all. Because she has that extra something mixed in, it's hard for her to get through."
 
 ;FACE H06F2_A
 #face f_hin_0_06f2_a 94 466
 
 #voice hinf0472
-[Hinata] “Then, is it impossible for me to take you with me?”
+[Hinata] "Then I guess it's impossible to bring a human with me."
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
 #wipe fade
 #voice ibaf0080
-[Ibara] "Bah!? Whether it's impossible or not, you've already decided that something like that won't be tolerated! What are you thinking!"
+[Ibara] "What?! Before we even get into the question of whether it's possible or not, it's obvious that something like that wouldn't be allowed! What are you thinking?"
 
 ;FACE H08F2_A
 #face f_hin_0_08f2_a 94 466
@@ -360,57 +360,57 @@ I wonder if I'll be able to protect Hinata even though I can't even protect myse
 #voice hinf0473
 [Hinata] "Hehe, Ibara got mad at me!"
 
-"I see, if I had missed today, Hinata wouldn't have been able to go home. That would have been dangerous."
+"I see, if we had missed today, Hinata wouldn't have been able to go home. That was quite a close call."
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 #voice ibaf0081
-[Ibara] "...That's right."
+[Ibara] "...That's true."
 
-"Yeah. Even after you go over there, you'll get along well with Ibara and the others. I'm glad you're not alone anymore."
+"Yeah. Once you get there, you'll be good friends with Ibara and the others. It's good you're not alone anymore."
 
 ;CHR I10F2 R
 #cg イバラ iba_1_10f2 右
 #wipe fade
 #voice ibaf0082
-[Ibara] “…”
+[Ibara] "..."
 
-"Please take care of Ibara, Konomi, and Hinata."
+"Ibara, Konomi, please take good care of Hinata."
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 #voice konf0054
-[Konomi] “Yes, it was nice of you.”
+[Konomi] "Yeah, thank you very much."
 
 ;FACE H08F2_A
 #face f_hin_0_08f2_a 94 466
 
 #voice hinf0474
-[Hinata] "Well then, it's goodbye to Human-san! Hinata, I had fun hanging out with Human-san!"
+[Hinata] "Well, it's time to say goodbye to humans! Hinata, it was fun meeting humans!"
 
-"Ah, I had fun too."
+"Yeah, I had fun too."
 
-Hinata let go of the hem of her clothes and walked towards Ibara and the others.
+Hinata let go of the hem of her dress she was holding and walked over to Ibara and the others.
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 #voice ibaf0083
-[Ibara] "..."
+[Ibara] "Huh..."
 
-Ibara was the only one who turned his displeased face towards me without even trying to hide it.
+Only Ibara turned a dissatisfied look towards me, without making any attempt to hide it.
 
-"……what is it"
+"...What is it?"
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 #voice ibaf0084
-[Ibara] "...Is that really okay, Human? Have you been carrying Hinata around all the time with such careless feelings?"
+[Ibara] "...Is that really what you want, humans? Have you been dragging Hinata around with you all this time with such careless feelings?"
 
-Ibarra said as if to spit it out.
+Ibarra spat out the words.
 
 "..."
 
@@ -420,72 +420,72 @@ I couldn't answer anything.
 #face f_hin_0_01f2_a 94 466
 
 #voice hinf0475
-[Hinata] "It's okay, Ibara. Hinata wanted to be with Human-san. That's why Human-san stayed with us!"
+[Hinata] "It's fine, Ibara. Hinata wanted to be with humans. That's why humans stayed with her!"
 
-In the end, he gets lost and is sheltered by Hinata here too.
+In the end, he was so hesitant that he had to be protected by Hinata again.
 
-I really feel sorry for myself.
+I feel so pathetic.
 
 ;CHR I11F1 R
 #cg イバラ iba_1_11f1 右
 #wipe fade
 #voice ibaf0085
-[Ibara] "Let's go, Konomi, Hinata."
+[Ibara] "Let's go, Konomi and Hinata."
 
-Ibara calls out to the two in an irritated manner.
+Ibara called out to the two in an irritated tone.
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
 #wipe fade
 #voice konf0055
-[Konomi] “Bye-bye, human-kun”
+[Konomi] "Bye-bye, human."
 
 ;FACE H01F2_A
 #face f_hin_0_01f2_a 94 466
 
 #voice hinf0476
-[Hinata] "Goodbye, Human-san."
+[Hinata] "Goodbye, human."
 
-The light throughout the forest slowly increases.
+Slowly the light throughout the forest increases.
 
-"……what's this?"
+"...What is this?"
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 #voice ibaf0086
-[Ibara] "The gate has opened. You won't be able to see humans anymore, Hinata."
+[Ibara] "The gate has opened. You will never see any humans again, Hinata."
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hinf0477
-[Hinata] "..."
+[Hinata] "H..."
 
 ;フラッシュ可能なら
 #cg all clear
 #bg white
 #wipe flash
 
-It was so bright that I couldn't see Hinata and the others clearly.
+It was so bright that I couldn't see Hinata and the others very well.
 
 ;立ち絵消す
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Still, as I squinted my eyes and tried to take in their images, I noticed a slender arm being extended towards me.
+Still reluctant to leave, I squinted my eyes and tried to take in their images, when I noticed a thin arm being held out towards me.
 
 ;CHR H03F2_A C
 #cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0478
-[Hinata] “Ningen…san!!”
+[Hinata] "Human...san!!"
 
 ;・選択肢発生
 #select a b
 A: Take my hand
-B: Don't hold hands
+B: Don't take my hand
 
 #label a
 #next hbadend01

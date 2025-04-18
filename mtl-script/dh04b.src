@@ -8,44 +8,44 @@
 
 ;このイベント中、ヒナタフェイス表示なし
 
-"I can't help it. There's nothing I can do about this. Let's give up."
+"There's no other way. There's nothing I can do about it now. I'll just give up."
 
 #voice hinf0331
-[Hinata] "No! Tell me! Hinata is coming, so you should stay here!!"
+[Hinata] "No way! Let go! Hinata's going now, so you can just stay here, humans!!"
 
-"Even if you say that, if you jump into a fire like this, you'll get burned and die!"
+"Even if you say that, if you jump into a fire like this you'll get burned and die!"
 
 #voice hinf0332
-[Hinata] "Just talk to me! I'm sure you won't get burned!"
+[Hinata] "Let go! Even if I get burned, I'm sure it won't hurt!"
 
-“You’ve never been seriously injured like that, have you?”
+"You've never been injured that badly before, have you?!"
 
 #voice hinf0333
-[Hinata] "I've never done it, but it's okay!"
-"Ah, already! There's no point!"
+[Hinata] "I've never done it before, but it's okay!"
+"Ah, come on! This is pointless!"
 
 Hinata tried to shake me off and jump into the fire, but I grabbed her arm tightly so she wouldn't let go.
 
 #voice hinf0334
-[Hinata] "Ningen-san! Itaitteba! Tell me! Tell me!"
+[Hinata] "Human! It hurts! Let go! Let go!"
 
-"If you jump into something like this, you'll be in so much pain that nothing can compare to this pain! Do you understand?"
+"If you jump into something like this, you'll experience pain that's incomparable to this! Do you understand?"
 
 #voice hinf0335
 [Hinata] "...But, but!"
 
-I grabbed Hinata tightly to my chest so she wouldn't jump into the hut.
+I held Hinata tightly against my chest to stop her from jumping into the hut.
 
-``No matter how hard you try to keep a record, when you lose it, you lose it. You can't get back what's been destroyed in a fire, so you give up.''
+"No matter how hard you try to keep records, sometimes you lose something. You can't get back what's been lost in a fire, so you just have to give up."
 
 #voice hinf0336
-[Hinata] "Because... it's really gone."
-"Then that's what happened up until then, I can't help it."
+[Hinata] "Because... it really will be gone."
+"Well then, that was it. There's nothing I can do about it."
 
 #voice hinf0337
-[Hinata] "Why do you say that Human-san is like an elf? That's weird."
+[Hinata] "Why are humans talking like they're elves? That's weird."
 
-Hinata weakly entrusted herself to me.
+Hinata limply leaned onto me.
 
 ;dh04_2へ
 #next dh04_2

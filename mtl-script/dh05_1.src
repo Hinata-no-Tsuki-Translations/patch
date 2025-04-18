@@ -49,47 +49,47 @@
 #bg BG04_3
 #wipe fade
 
-"I'm glad it's not raining anyway."
+"At least it's not raining."
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0338
-[Hinata] "I'm glad the candy wasn't falling!"
+[Hinata] "At least it's not raining!"
 
-Hinata seemed to be back to her usual self, and happily returned the parrot.
+Hinata seemed to have regained her usual composure and happily repeated what he said.
 
-"But how are we going to sleep here? It's a field, right? There's nowhere to hide."
+"But how are we going to sleep here? It's an open field. There's nowhere to hide."
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0339
-[Hinata] "It's okay, look!"
+[Hinata] "It's okay, see!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Hinata lay down on the meadow, resting her body on her back.
+Hinata lay down on the grassland, leaning her body forward.
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
 
 #voice hinf0340
-[Hinata] “Try moving a little further away!”
+[Hinata] "Stand apart for a bit!"
 
 "Ah, ah..."
 
-When I look a little further away, Hinata's figure is obscured by the tall grass and disappears from view.
+Looking a little further away, Hinata was no longer visible, obscured by tall grass.
 
-"Oh, you can't see much just by lying down."
+"Wow, it's pretty hard to see even when you're just lying down."
 
 ;CHR H08F2_A C
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0341
-[Hinata] "Right? That's why it's okay!"
+[Hinata] "Right? So it's okay!"
 
 Hinata got up and hugged me.
 
@@ -97,35 +97,35 @@ Hinata got up and hugged me.
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0342
-[Hinata] "Where should I put it? I like a place where the grass is soft."
+[Hinata] "Where should we sleep? Somewhere with soft grass would be nice."
 
-"Yeah, that's right."
+"Yeah, that's true."
 
 ;CHR H08F2_A C
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0343
-[Hinata] "Hinata, I'll do my best and find you! Hmph ♪ Hmph ♪"
+[Hinata] "I'll do my best to find it, Hinata! Hmm hmm ♪ Hmm hmm hmm ♪"
 
-Hinata is happily checking the grass around her.
+Hinata was happily examining the grass around her.
 
-I don't know the difference, but maybe Hinata has her own selection criteria.
+I don't know the difference, but Hinata might have her own criteria for selection.
 
 ;CHR H01F2_A C
 #cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0344
-[Hinata] "Here! This place is good! Humans should hang out too!"
+[Hinata] "This is it! This is a good place! Humans, come and lie down here too!"
 
-“Yeah, here?”
+"Yeah, is it here?"
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0345
-[Hinata] "That's it! It feels so good!"
+[Hinata] "That's right! It feels good!"
 
-Hinata's smile returned and she looked happy.
+Hinata's smile had completely returned and she looked happy.
 ;CHR OFF
 #cg all clear
 #wipe fade
@@ -135,17 +135,17 @@ Hinata's smile returned and she looked happy.
 #bg BG12_3
 #wipe fade
 
-"...Oh, this is it."
+"...Oh, this is."
 
-When you lie down and look up at the sky, the stars seem to be looming right next to you.
+When you lie down and look up at the sky, the stars appear to be right next to you.
 
-Come to think of it, it may be the first time I've looked up at the sky like this since I was a child.
+Come to think of it, it might have been since I was a child that I last looked up at the sky like this.
 
 ;FACE H01F2_A
 #face f_hin_0_01f2_a 94 466
 
 #voice hinf0346
-[Hinata] “Ohoshi-sama, you’re beautiful!”
+[Hinata] "The stars are beautiful!"
 
 "That's right..."
 
@@ -161,24 +161,24 @@ Come to think of it, it may be the first time I've looked up at the sky like thi
 #bg BG12_3
 #wipe fade
 
-I lay down and closed my eyes for a while, but I couldn't seem to fall asleep, perhaps because I was out in the open, or perhaps from the shock of witnessing the hut being set on fire.
+I lay down and closed my eyes for a while, but perhaps because I was out in the open, or perhaps because of the shock of having witnessed the hut on fire, I could not fall asleep.
 
 ;FACE H04F1_A
 #face f_hin_0_04f1_a 94 466
 
 #voice hinf0347
-[Hinata] "Ningen-san...?"
+[Hinata] "Human...?"
 
-I rolled over in my sleep and Hinata called out to me.
+I turned over in my sleep and Hinata called out to me.
 
-"Oh, my bad. Did I wake you up?"
+"Oh, sorry. Did I wake you up?"
 
 
 ;FACE H02F1_A
 #face f_hin_0_02f1_a 94 466
 
 #voice hinf0348
-[Hinata] "No. I'm not awake. Hinata isn't sleeping."
+[Hinata] "No. I didn't wake you up. Hinata isn't asleep."
 
 "Hinata can't sleep either?"
 
@@ -186,15 +186,15 @@ I rolled over in my sleep and Hinata called out to me.
 #face f_hin_0_04f1_a 94 466
 
 #voice hinf0349
-[Hinata] "...Yeah. I can't sleep...hafu‾"
+[Hinata] "...Yeah. I can't sleep... haaa‾"
 
-Hinata takes a deep breath.
+Hinata sighed deeply.
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hinf0350
-[Hinata] "Hey, Human-san. I guess it's Hinata's fault after all."
+[Hinata] "Hey, human. I guess it's Hinata's fault after all."
 
 "...What?"
 
@@ -202,15 +202,15 @@ Hinata takes a deep breath.
 #face f_hin_0_02f1_a 94 466
 
 #voice hinf0351
-[Hinata] "Hinata, you've always been telling me to go there. That's probably why the people at Mr. Ningen's village also thought Hinata could go there."
+[Hinata] "Hinata, you were always being told to go away. So maybe the people in the human village also wanted you to go away."
 
 "...That's not true. Absolutely not."
 
-Go over there, huh?
+Go away, huh?
 
-I have heard stories from Hinata from time to time about how she was oppressed because she was a half-elf in the elf village.
+Sometimes Hinata would tell me stories about how she was oppressed in the elf village because she was half-elf.
 
-The wound is so deep that he probably thinks that even humans hate him.
+The wound is so deep that he probably believes that humans also hate him.
 
 It wasn't Hinata's fault that the mountain hut was set on fire.
 
@@ -223,25 +223,25 @@ It wasn't Hinata's fault that the mountain hut was set on fire.
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0352
-[Hinata] "Hinata, the people in the village think you should go there, and I guess they think you're there because there's Koya."
+[Hinata] "Hinata, I think the people in the village thought you should go away, and that you were there because you had a foal."
 
-"...There's no one else who thinks like that about Hinata. If anyone thinks like that, it's me."
+"...There's no one else who thinks like that about Hinata. If anyone does, it's me."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0353
-[Hinata] "Eh? Because human beings are human beings, aren't they? They're not different from Hanbun like Hinata, are they? But you still hate them?"
+[Hinata] "Eh? But humans are humans, right? They're not completely different from each other like Hinata, right? And yet they still dislike you?"
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 #voice hinf0354
-[Hinata] "Or, Human-san, are you just lying about being a human and are you really a half-elf?"
+[Hinata] "Or, Mr. Human, were you just lying about being human and are you actually a half-elf?"
 
 Hinata seemed a little happy when she heard that.
 
-Oh, I really wish that was the case.
+Oh, I wish that were really the case.
 If that were the case, Hinata wouldn't be alone.
 
 "Unfortunately, I'm not a half-elf."
@@ -250,81 +250,81 @@ If that were the case, Hinata wouldn't be alone.
 #cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0355
-[Hinata] "I see...is that different?"
+[Hinata] "I see... so that's not it."
 
-"I... I couldn't get along with the people in the village. That's why the mountain hut was set on fire. I was the one who made the people in the village think they should go away."
+"I... I couldn't get along with the villagers. That's why the mountain hut was set on fire. I was the one who made the villagers tell me to go away."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-I am vaguely aware that they don't really think I should go away.
+I vaguely know that they don't really think I should go away.
 
-They just don't like that I don't do the same things as other people.
+They just don't like the fact that I don't do what other people do.
 
-Even if you don't have a mountain hut, if you go back to your village you will still have the house where you were born and raised, and you can still live there.
+Even if there is no mountain hut, if you return to the village you can still find the house where you were born and raised and continue living there.
 
-In reality, it's not like he hates me enough to set the hut on fire, it's just a result of his bad mood.
+In reality, it's not like they hated me enough to set the shed on fire, it was just a result of them being mischievous.
 
-The underlying idea is that even if the hut is gone, it's okay to go back to the village and live a normal, normal life like everyone else.
+I think the underlying idea was that even if the huts were gone, they could just go back to the village and live a normal, everyday life just like the others.
 
-They think that no matter how much they abuse and despise things that are foreign to them, they can be forgiven. So you can do that.
+No matter how much they insult and despise those who are different, they believe they are forgiven.
 
 ;FACE H05F_A
 #face f_hin_0_05f_a 94 466
 
 #voice hinf0356
-[Hinata] "Hinata is disliked because the Shuzoku are so different, but the human beings are the same human beings, so I hope they can get along well."
+[Hinata] "Hinata is disliked because she is from a completely different family, but humans are just like her, so it would be nice if we could get along."
 
-"Yeah. But I'm good friends with Hinata now, so that's fine."
+"That's true. But I'm good friends with Hinata now, so that's fine."
 
-When I said that, Hinata rolled towards me with a happy look on her face.
+When I said that, Hinata rolled over towards me with a happy look on her face.
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 #voice hinf0357
-[Hinata] "That's right! Hinata is good friends with Human-san, so she doesn't feel lonely anymore! Ehehe..."
+[Hinata] "That's right! Hinata is friends with humans, so she's not lonely anymore! Ehehe..."
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinf0358
-[Hinata] "Because of my father's memories...I'm gone, but Human-san has been good friends with me, and Ibara and the others have become good friends."
+[Hinata] "My memories of my father... they've faded away, but humans are still friendly to me, and I've become good friends with the thorns too."
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
 
 #voice hinf0359
-[Hinata] "That Koya was definitely a good Koya. Hinata received a lot of good things from Mr. Human and that Koya."
+[Hinata] "That child must have been a good child. Hinata got a lot of good things from that child and the human."
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
 
 #voice hinf0360
-[Hinata] "So, you don't have to think about being lonely or sad! Hinata, Nanashi is no longer all alone!"
+[Hinata] "So you don't really need to feel lonely or sad! Hinata, you're not alone with Nanashi anymore!"
 
-"Yeah, that's right."
+"Yeah, that's true."
 
-I gently patted Hinata's head.
+I gently stroked Hinata's head.
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
 
 #voice hinf0361
-[Hinata] "Hehehe, it's so warm to have someone caress your head. Hinata, I love being stroked!"
+[Hinata] "Hehe, the hands of humans stroking my head are so warm. Hinata loves being stroked!"
 
 ;FACE H01F2_A
 #face f_hin_0_01f2_a 94 466
 
 #voice hinf0362
-[Hinata] "Hey? Can I sleep on your back? Hinata, I want to touch Human-san."
+[Hinata] "Hey hey? Can I hold your hand and sleep? Hinata, I want to touch a human."
 
-"Ah, okay."
+"Oh, sure."
 
-Hinata's small hand and fingers intertwine and connect.
+I intertwine Hinata's small hands and fingers together.
 
-Tokun, tokun, it felt like my hand was beating like my heart.
+It felt as if my hand was pulsating, tap, tap, as if it were a heart.
 
 The full moon is coming soon.
 
@@ -334,22 +334,22 @@ Will I be able to let go of this hand then?
 #face f_hin_0_02f2_a 94 466
 
 #voice hinf0363
-[Hinata] "Hey, Human-san. Did you sleep?"
+[Hinata] "Hey, human. Are you asleep?"
 
-"What? I haven't slept yet."
+"What? I'm not asleep yet."
 
-Hinata said fidgeting as she turned to face me.
+Hinata turned to face me and fidgeted.
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
 
 #voice hinf0364
-[Hinata] "You know...I want you to hug me tightly, not just hold me up."
+[Hinata] "You know... I want you to hug me tightly, not just give me a hand."
 
 ;選択肢発生
 #select a b
 A: Come on.
-B: I can't sleep.
+B: I can’t sleep.
 
 #label a
 #next dh05a top

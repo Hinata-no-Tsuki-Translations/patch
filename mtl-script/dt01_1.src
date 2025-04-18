@@ -1,0 +1,516 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG40_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg40_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋　内（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+I was preparing dinner and didn't see it.
+
+That's why I didn't stop Ibara, and I also missed the look on Tsukiyo's face at that moment.
+
+;SE
+;（ガタンという音）
+
+I heard the sound of a chair falling over, and when I turned around, the situation was already like this.
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hine0001
+[Hinata] "Fluffy, fluffy, fluffy!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 058 PLAY
+#label replay058
+#setscene 55
+#bg BG07b_1
+
+;ＥＶ絵――EV065『触らないで』
+;EVCG EV065A1
+;#face off
+
+
+#cg イベント ev065a1 背景
+#wipe fade
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0001
+[Tsukiyo] "No, you can't!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibae0001
+[Ibara] "I just put it on for a little while!"
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0002
+[Tsukiyo] "No!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#cg イベント ev065a2 背景
+#wipe fade
+
+#voice ibae0002
+[Ibara] "Ouch! Ouch! It hurts when you pull my hair!"
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0003
+[Tsukiyo] "Let go! Don't touch me!"
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#cg イベント ev065b2 背景
+#wipe fade
+
+#voice ibae0003
+[Ibara] "This isn't some filthy human opponent, so why do I have to be told that?"
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0004
+[Tsukiyo] "It's fine, I'll let you go!"
+
+Tsukiyo, who rarely speaks loudly, is red in the face and angry...?
+
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+While I was stunned by this previously unimaginable situation, Konomi started tugging on my clothes.
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice kone0001
+[Konomi] "Human-kun, do you really need to stop?"
+
+"Why didn't Konomi stop you before telling me?"
+
+#voice kone0002
+[Konomi] "Hmm? If Ibara and Tsukiyo want to fight, then I'm okay with it. But I think Human-kun might want to stop them."
+
+"Um, yeah, I mean, I don't want them to fight. But why is this happening?"
+
+Maybe we should separate them for now, but not without asking why.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR H02F1_A C
+#cg ヒナタ hin_1_02f1_a 中
+#wipe fade
+
+#voice hine0002
+[Hinata] "Oh no, oh no, oh no."
+
+It would probably be best to hear the details from Hinata as well as Konomi, but Hinata was clearly flustered.
+
+If things go wrong, it may take longer for them to calm down than the two people actually fighting.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kone0003
+[Konomi] "Well, you've always been jealous of the cloth that Ibara and Tsukiyo wear all the time, haven't you?"
+
+"Yeah"
+
+#voice kone0004
+[Konomi] "The food that the human left out earlier, Hinata bumped into the table and spilled it."
+
+"Wow, that's true."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+He had been distracted by the quarrel between Ibara and Hinata and hadn't noticed, but the container he had left to cool the food had been overturned.
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kone0005
+[Konomi] "Then, he almost got caught in Tsukiyo's cloth, so Tsukiyo quickly dodged him. Then, the cloth fell and Ibara picked it up."
+
+So it wasn't Tsukiyo who got splashed with hot soup?
+
+"Shouldn't I just say thank you and accept it?"
+
+#voice kone0006
+[Konomi] "Hmm, but you know, Ibara made it mine."
+
+"Eh? Why? Because it's Tsukiyo's."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kone0007
+[Konomi] "If there is no crest indicating ownership, or if it has not been certified by another elf, once it leaves hand and ownership is transferred, it becomes the property of the elf who obtained it."
+
+"Eh? So whoever wins wins?"
+
+#voice kone0008
+[Konomi] "Elfs aren't that hung up on possessing things, so it's fine. Ibara and Tsukiyo might be a bit special."
+
+"Is that so... Ah, but we were aware that the cloth belonged to Tsukiyo, so isn't it Tsukiyo's after all?"
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kone0009
+[Konomi] "Hmm, I don't care either way, Hinata is a half-elf, and Ningen-kun is human, so I wonder?"
+
+"I see, it's the elven law."
+
+Ultimately, the elves have to approve it.
+
+#voice kone0010
+[Konomi] "That's right."
+
+"That's difficult."
+
+;CHR K01F2A C
+#cg コノミ kon_1_01f2a 中
+#wipe fade
+
+#voice kone0011
+[Konomi] "Hmm? But, I think the order is wrong. Rather than asking why, maybe it would be better to just stop the fight."
+
+"Ah!? Th-that's right!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ＥＶ絵――EV???『触らないで』
+;EVCG EV065A1
+#cg イベント ev065a1 背景
+#wipe fade
+
+It's not like I've forgotten about the fight that was happening right in front of me.
+
+It was a bit of an escape from reality.
+
+They've been getting along so well up until now, so I don't want them to fight.
+
+But still, is it right for me to intervene?
+
+He couldn't stop both of them at once, so he wondered which one he should stop first, or if he should ask Konomi or Hinata for help.
+
+"H-you two? It's not good to fight, you know?"
+
+Many thoughts crossed my mind in an instant, but in the end, the only thing I could put into action was a weak-willed attempt to mediate.
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0005
+[Tsukiyo] "Ugh! Let go!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibae0004
+[Ibara] "No, this is mine now!"
+
+"Wait, it's a bit dangerous to fight indoors..."
+
+...I'm weak.
+
+Should I just get in between them and pull them apart?
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#cg イベント ev065a2 背景
+#wipe fade
+
+#voice tuke0006
+[Tsukiyo] "Uuuhh! Splat!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibae0005
+[Ibara] "Gugigigigigigigi..."
+
+When I came to, I noticed that the chair had been broken, probably because it had been knocked over with too much force during the scuffle.
+
+Ah, this is a real fight.
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0007
+[Tsukiyo] "Let go!"
+
+;FACE I02F
+#face f_iba_0_02f 94 466
+
+#voice ibae0006
+[Ibara] "Whoa!"
+
+;SE
+;ガタっていう音
+;画面揺れ
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+A moment of hesitation led to a wrong decision.
+
+The cloth that had been forcefully wrapped around Ibara was snatched away from him, causing him to get caught on a broken chair and fall.
+
+;SMODE 058 STOP
+#endscene
+
+;背景：山小屋　内（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibae0007
+[Ibara] "Ugh, that hurts..."
+
+;CHR T07F_L C
+#cg ツキヨ tuk_1_07f_l 中
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0008
+[Tsukiyo] "Fuuuuuuh! Aaaaaaaah!"
+
+Tsukiyo growled threateningly at the teary-eyed Ibara.
+
+This is like a wounded beast.
+
+;FACE I04F
+#face f_iba_0_04f 94 466
+
+#voice ibae0008
+[Ibara] "Whoa, there's blood!"
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0009
+[Tsukiyo] "...Ah."
+
+His knee was only a little scraped, but Tsukiyo regained his senses, perhaps due to Ibara's scream or the sight of blood.
+
+;CHR T10F4 C
+#cg ツキヨ tuk_1_10f4 中
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+Feeling guilty, Tsukiyo quickly pulls the cloth she had just taken back over her head.
+
+This is tricky...who should I call out to first?
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibae0009
+[Ibara] "I, I'm hurt!"
+
+Ah, I see. First of all, I need to treat the injury.
+
+Calm down, what's the point of me being confused?
+
+"Konomi, I'm sorry, but please heal Ibara's injury."
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kone0012
+[Konomi] "Okay, I understand. Get better soon."
+
+Konomi places a glowing palm over Ibara's injury.
+
+#voice ibae0010
+[Ibara] "Ugh, I'm hurt!"
+
+Perhaps because he was shocked by his injuries, Ibarra is adamant that he was injured.
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+#voice hine0003
+[Hinata] "Awawawa, ahwawawawa!"
+
+As Hinata ran around, the scratches from the thorns quickly returned to her normal, healthy skin.
+
+;CHR K09F2 R
+#cg コノミ kon_1_09f2 右
+#wipe fade
+
+#voice kone0013
+[Konomi] "See, it's healed, Ibara? You're okay now."
+
+Konomi pats off the remaining scabs and peers at the thorns as if trying to soothe her.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibae0011
+[Ibara] "Ugh! But I got hurt! It hurt!"
+I was really surprised that I got injured. Come to think of it, no one other than Hinata really gets injured...
+
+"What about Tsukiyo? Is Tsukiyo hurt?"
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0010
+[Tsukiyo] "I'm not... injured."
+
+"I see, that's a relief. Well then, I hurt Ibara, so I'll start by apologizing."
+
+When I urged him to apologize, Tsukiyo would probably just glare back at me.
+
+;CHR T07F_L R
+#cg ツキヨ tuk_1_07f_l 右
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0011
+[Tsukiyo] "I'm not apologizing! You tried to steal something that belonged to me. I'll never forgive you!"
+
+Tsukiyo keeps glancing at the thorns, as if she is worried until Konomi heals her injury, but as soon as she sees that it is healed, she gets ready for battle.
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+Ibara seems to be fighting back, looking as if he is about to pounce at any moment.
+
+I'm not an animal in heat or anything so I honestly wish you'd stop doing this.
+
+"But still, injuring someone would be going too far."
+
+#voice tuke0012
+[Tsukiyo] "That would be my own fault. A thief deserves to get hurt."
+
+Tsukiyo is adamantly refusing to apologize.
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibae0012
+[Ibara] "Theft?! Tsukiyo dropped it and I picked it up, so ownership should be considered transferred!"
+
+Ibara also seemed to be annoyed, his face turning red with anger.
+
+Even from my perspective, he seems like a thief, but based on Konomi's explanation earlier, I guess it's not surprising for an elf to be angry...
+
+If we don't do something to calm them down, the fighting will start again.
+
+;選択肢発生
+#select a b
+A: Don't get so angry.
+B: You shouldn't touch other people's things.
+
+#label a
+#next dt01a
+
+#label b
+#next dt01b
+
+;Ａを選択⇒『dt01a』へジャンプ
+;Ｂを選択⇒『dt01b』へジャンプ

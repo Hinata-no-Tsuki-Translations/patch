@@ -1,0 +1,942 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG44_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg44_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+
+;可能ならウィンドウ色変えたい
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+The men had just returned from the forest, having finished their work while it was still daylight.
+
+The catch was good enough to provide food for today. It was good compared to the days when I caught nothing.
+
+Afterwards, they returned home and had a few drinks... As they were talking, one of the men spotted a figure on the outskirts of the village.
+
+
+[Villager 1] "Hey, does anyone here look unfamiliar?"
+
+
+[Villager 2] "Huh? Where?"
+
+
+[Villager 1] "Someone is walking from the forest... Whoa?! Ah, what's that?!"
+
+
+[Villager 3] "Huh, those ears are long... What, an elf?"
+
+The men let out shrieks at the unexpected intruder, some rubbed their eyes, and others stepped back.
+
+I'd often heard of elves in stories brought back by travelers and in old tales, but this was my first time seeing one.
+
+Because they recognized it as something not known, they unconsciously tried to believe that its existence there was not a fact.
+
+Among them, the first to regain his senses was the leader of the group, the son of the most greedy general store owner.
+
+
+[Villager 1] "Hey, hey, why are you scared?! I'm an elf, an elf. Sell me to a rich person and you'll make some money."
+
+The words "it will make money" brought the men back to their senses.
+
+
+[Villager 2] "I-I see. That's right... Hey, let's spread out."
+
+The men nodded to each other and, just as they had done on the hunt, silently assigned each other their roles.
+
+Before the foolish elves who had just set foot in the village could even notice us, they scattered in different directions.
+
+The plan was to surround the humanoid prey, ensuring that any resistance it might put up would be captured.
+
+Waiting for a signal from his comrades who had gone around behind the elf, the man at the front closed in on the elf.
+
+Suddenly, the elf noticed the man approaching and smiled brightly.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+#voice kond0270
+[Konomi] "Oh? This is the first time I've met you. Hello."
+
+
+[Villager 4] "Huh...?"
+
+The man was tense, as if he was hunting, and was shocked when his prey spoke to him.
+
+…Why is this thing speaking human language?
+
+Before that moment of confusion could spread, the general store owner's son shouted.
+
+
+[Villager 1] "What are you doing? Get away from me!"
+
+At their leader's words, the group reflexively leapt at their prey, but they were confused and at a loss as this was different from normal.
+
+After all, the opponent is very similar to humans, but is a different creature.
+
+I just blindly held him down to stop him from moving about.
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0271
+[Konomi] "Whaaaaaaah? What's going on? It'll hurt if I suddenly jump on you, right?"
+
+Perhaps because he no longer had any murderous intent, the elf let out a surprised, amused cry, causing one man's reason to fly away.
+
+
+[Villager 5] "Aaaaaahhhhh!"
+
+;SE se015 足音
+#se 1 se015
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Screaming, the man punched the elf in front of him, terrified by the fact that he was faced with something completely inhuman.
+
+;FACE K02F1
+#face f_kon_0_02f1 94 466
+
+#voice kond0272
+[Konomi] "Ouch! What are you doing?"
+
+
+[Villager 5] "Why?! How can you talk, you monster?"
+
+The man who had hit the elf's eyes had changed colour and he had completely lost his mind.
+
+;FACE K08F
+#face f_kon_0_08f 94 466
+
+#voice kond0273
+[Konomi] "Ouch! Ouch! Stop it, stop it!"
+
+The elf screamed, not understanding why he had been suddenly assaulted.
+
+
+[Villager 1] "Hey, hold him back! Our precious catch won't be sellable anymore!"
+
+The man who hit the elf is subdued by his comrades.
+
+;FACE K06F
+#face f_kon_0_06f 94 466
+
+#voice kond0274
+[Konomi] "It's terrible, it hurts. What's wrong?"
+
+The sobbing elf was also captured by the men.
+
+However, the fear of the man who had hit the elf had spread to the other men.
+
+;SMODE 053 PLAY
+#label replay053
+#setscene 50
+#bg BG10_1
+
+;ＥＶ絵――EV058『怯えるコノミ』A1-A2＊
+;EVCG EV058A1
+;#face off
+
+
+#cg イベント ev058a1 背景
+#wipe fade
+
+#voice kond0275
+[Konomi] "Hey, why did you do such horrible things to me? You were lonely, weren't you?!"
+
+Konomi was captured by the men and spent the night tied to a pillar.
+
+The men were excited about catching an unexpected prey, and drank all night to cheer themselves up as they were terrified of the little elf.
+
+For Konomi, being left unable to move was extremely boring and painful.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A2
+#cg イベント ev058a2 背景
+#wipe fade
+
+#voice kond0276
+[Konomi] "Let me go‾ Release me‾"
+
+Seeing the men, Konomi resumed her protests, grumbling and trying to move, but the men seemed intent on avoiding her.
+
+The men were completely consumed by a sense of guilt towards their prey, which was human-like yet smaller than them, and awe at the fact that it was a being beyond human understanding.
+
+
+[Villager 2] "So, how does this thing carry it?"
+
+
+[Villager 3] "I doubt the other elves will come to take it back. It would be a problem if the village was attacked."
+
+
+[Villager 1] "That's why you say we should sell it to the elf merchant as soon as possible, right?"
+
+
+[Villager 4] "But I don't know any elf merchants or elf hunters."
+
+
+[Villager 1] "Even if you don't know who it is, there's probably an elf merchant in town."
+
+
+[Villager 2] "I guess an elf merchant has to go to the royal capital, right? But I can't be away from home that long."
+
+
+[Villager 3] "But even so, leaving it here like this won't make us any money."
+
+
+[Villager 1] "I know that. But I can't just throw away this great profit opportunity."
+
+You don't want to just give it up because it could make you money, but it takes a bit of work to make money.
+
+The elves, which should have been their biggest prey, were now their biggest problem.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A1
+#cg イベント ev058a1 背景
+#wipe fade
+
+#voice kond0277
+[Konomi] "Why do you tie me up? It hurts, so loosen the rope. I don't want to, untie me."
+
+
+[Villager 1] "Shut up, be a little quieter!"
+
+In response to Konomi's complaint, the general store owner's son yelled at her.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A2
+#cg イベント ev058a2 背景
+#wipe fade
+
+#voice kond0278
+[Konomi] "Ahhh... why are you shouting so loudly? You're the one who's being noisy."
+
+The people around me now are different from humans; they only do painful and unpleasant things to me.
+
+They were beaten, tied to posts, left alone, and yelled at loudly.
+
+Konomi had no idea why she was being treated this way.
+
+
+[Villager 1] "Shut up you brat! Do you even know your place in the world?"
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A1
+#cg イベント ev058a1 背景
+#wipe fade
+
+#voice kond0279
+[Konomi] "Don't shout so loudly. I can hear you even if you don't yell so much."
+
+Being tied up and looking up at the men surrounding me with angry looks on their faces was excruciating, even without being hit or yelled at.
+
+I want to get out of here as soon as possible, but the rope is tied tightly and I can barely move.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A2
+#cg イベント ev058a2 背景
+#wipe fade
+
+#voice kond0280
+[Konomi] "Ugh, I don't like this. Solve it, solve it for me."
+
+
+[Villager 1] "Shut up! Stop crying!"
+
+As Konomi began to sob, the man who had been giving her instructions raised his voice again and stomped his head on the ground.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A1
+#cg イベント ev058a1 背景
+#wipe fade
+
+#voice kond0281
+[Konomi] "I don't like it when you speak in such a loud voice. I wish you'd speak more gently."
+
+Fortunately for Konomi, the man who hit her when she was arrested had been kicked out of the house because it was thought that this could lower Konomi's market value.
+
+If the men hadn't decided that, there's no telling what kind of violence he could have inflicted on me now, while I'm tied up so I can't move.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A2
+#cg イベント ev058a2 背景
+#wipe fade
+
+#voice kond0282
+[Konomi] "Ugh, why are you doing something so nasty? This doesn't feel good at all."
+
+Konomi muttered in a low voice so she wouldn't be yelled at, then she lowered her head and sobbed softly.
+
+I felt sick at the way my body had been trembling slightly for a while now.
+
+My whole body is getting cold and I feel like my fingertips are going to freeze.
+
+Although there was no pressure being applied, I also had the uncomfortable sensation of someone slowly and firmly pressing down on the upper part of my abdomen.
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A1
+#cg イベント ev058a1 背景
+#wipe fade
+
+#voice kond0283
+[Konomi] "Ugh, sniff sniff... I don't want to do this anymore. I want to go back soon."
+
+
+[Villager 3] "...Hey, isn't it a bit sad after all? Maybe we should loosen the rope..."
+
+
+[Villager 4] "This is obviously a monster's trick, isn't it? He's trying to deceive us with his pretty appearance. Why else would he speak human language?"
+
+
+[Villager 2] "Yeah... I guess we shouldn't let our guard down just because it looks weak at first glance. The fact that it can speak must mean it's highly intelligent."
+
+
+[Villager 1] "That's right. You should be careful not to get tricked."
+
+#voice kond0284
+[Konomi] "I don't deceive people."
+
+
+[Villager 1] "What kind of con artist would say he's going to deceive people from now on? Who's going to believe the words of a monster who's pretending to be human even though he's not?"
+
+;ＥＶ絵――EV058『怯えるコノミ』
+;EVCG EV058A2
+#cg イベント ev058a2 背景
+#wipe fade
+
+#voice kond0285
+[Konomi] "I, I'm not pretending to be human or anything..."
+
+
+[Villager 1] "Shut up! You're trying to outwit us by whining and pretending to be weak! That's not going to happen!"
+
+
+;ウィンドウデフォルト
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+
+[Villager 1] "Shut up, stop crying!"
+
+Screams could be heard from afar.
+
+That house?
+
+Having run through the forest from the mountain hut, dawn came and my knees were shaking with fatigue.
+
+Although I could see the house where Konomi was likely captured, the distance to it seemed incredibly long.
+
+If only I could run faster. Or if I had wings like a bird, I could get to Konomi faster.
+
+It's frustrating that even this short time doesn't go the way I want it to.
+
+
+[Villager 5] "What? What's wrong with you? Why are you so out of breath?"
+
+The man standing outside the house looked at me with a puzzled expression as he saw me running towards him.
+
+
+[Villager 1] "Shut up! You're trying to outwit us by whining and pretending to be weak! That's not going to happen!"
+
+The general store owner's son's yelling can be heard from inside the house again.
+
+Although Konomi's voice cannot be heard clearly, it seems certain that she is inside.
+
+What should I do... Even if I attacked them, I would be outnumbered. Even if I wanted to die, I didn't feel like I could stand a chance.
+
+I desperately tried to think of an excuse that would allow me to rescue Konomi.
+
+"Y-You guys have done something terrible."
+
+
+[Villager 5] "Huh? What's wrong?"
+
+"Didn't you guys catch something unusual yesterday? A long-eared one..."
+
+
+[Villager 5] "Huh? Where did you hear that? You weren't there when we got back yesterday, were you?"
+
+"So it was the people from this village who captured the elf after all."
+
+
+[Villager 5] "We caught an elf that came into the village, but elven merchants rarely pass through, so we're discussing where to take him to make money."
+
+"So the elf is still inside?"
+
+
+[Villager 5] "What's this? There's no point in coming now. They say elves sell for a high price..."
+
+"I don't really need that..."
+
+I made a frightened face, looked behind me, and held my breath.
+
+
+[Villager 5] "Wh-what is this...?"
+
+The face of the man I caught twitches.
+
+"The truth is... the elven army is targeting this village. I was told to tell you to release the captured elves."
+
+
+[Villager 5] "Huh?!"
+
+"Elf ears are long, right? They can hear sounds from far away, so I can't say anything rash, but... the men of this village alone can't compete with an army."
+
+While the other person was stunned, I continued speaking in rapid succession, not wanting to give him a chance to think about unnecessary things.
+
+"We've caught a bad elf. It seems we need to get him back, even if it means losing our reputation. I've been told to bring the elf back."
+
+"Please, even now, there is an arrow aimed at my heart from the forest, and a bow drawn. If the elves inside do anything wrong, I will be the first to die."
+
+"Or what? Would you rather watch me die before you die? You'll be next. I never thought elves could be so terrifying."
+
+"Try and show the slightest bit of strangeness. This village will turn into a sea of blood in no time. We need to return the elf quickly..."
+
+
+Villager 5: "Hey, wait a minute. Damn it, that's why I told you not to get involved with elves!"
+
+A man who seemed to have been standing guard or something hurried into the house.
+
+Now then... did you believe my story?
+
+While I was waiting nervously, the son of the general store owner showed up relatively quickly.
+
+
+[Villager 1] "Is it true that an army of elves is targeting this village?"
+
+"Yes, it's true. Elves can hit their targets from far away, far away that humans can't see. Right now, countless elves are aiming their bows at this house from the forest."
+
+I was so scared of being found out that I lied that my body started shaking involuntarily. It was okay, the other person would probably think that I was just trembling because I was scared of the elves.
+
+At first, the other person was trying to act mocking me, perhaps as if he was putting up a bluff, but as he saw my face, his face gradually became more and more worried.
+
+
+[Villager 1] "B-but...the village has a wall..."
+
+"They have very keen ears, so they can tell where you are by your heartbeat. If you aim your arrow a little higher, it will reach up here. The wall won't help you at all."
+
+"And besides, you're up against an elf! He can obviously use magic or some other amazing thing."
+
+
+[Villager 1] "...Tch, that's ruining my good money."
+
+The general store owner's son clicked his tongue and went back inside, bringing Konomi back with him.
+
+Konomi had no idea what had happened to her, and was now completely frozen and trembling.
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0286
+[Konomi] "...Ah...Ah...Human..."
+
+"That's right. I'm human too, but the elves have asked me to bring you back. So, there's no need to be scared."
+
+;CHR K087F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0287
+[Konomi] "Huh...?"
+
+"Well then, I'll go and deliver this child."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I picked up Konomi and hurriedly left the place before she could say anything else.
+
+
+[Villager 1] "Damn it! I've discovered that it's true that there are elves nearby! I'm not giving up!"
+
+If they were to suspect me and come after me, I would be blamed as well. When I think of the money I could have made by selling the elves, I might even be killed.
+
+scared.
+
+I can't go back to the village.
+
+I quickly left the village. Far away. As far away as possible.
+
+;SMODE 053 STOP
+#endscene
+
+#bgvoice stop
+
+;背景：洞穴
+;BG BG09_1
+#cg all clear
+#bg BG09_1
+#wipe fade
+
+"...It's okay now, Konomi."
+
+I can't believe everything's okay. I feel like my pursuers will come at any moment, and my exhausted body is trembling uncontrollably.
+
+But I wanted to put Konomi at ease, so I forced a smile.
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0288
+[Konomi] "Are you okay? What do you mean, are you okay?"
+
+Konomi looked exhausted and asked weakly.
+
+"We're far enough away from the village now that they won't be chasing us."
+
+Perhaps because I was afraid of being chased, my feet naturally headed in a direction away from the mountain hut.
+
+He had fled towards the cliff on the other side of the mountain hut rather than into the dark forest which was probably closer to the elves and village, probably because he was unconsciously afraid of being pursued.
+
+In truth, there was no sign of them chasing me, and I knew that in my head, but my core wouldn't let go of the fear of being chased.
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0289
+[Konomi] "I see, so the only people here are humans."
+
+Konomi's face was strained as she tried to smile, and it was obvious she was straining it and looked painful.
+
+#voice kond0290
+[Konomi] "I hated being surrounded by those people. It made me feel sick. I told them I didn't want to, but they wouldn't untie me."
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0291
+[Konomi] "When I asked him to untie the rope, he got mad at me in a loud voice... Ugh... I didn't want to..."
+
+"I'm sorry I came to help you so late. I know it was scary. It's okay now, everything's okay."
+
+I put my arm around Konomi's trembling shoulders, but she still couldn't stop shaking.
+
+#voice kond0292
+[Konomi] "Was it scary? Is this what it feels like to be scared? If so, I don't like being scared. Being scared doesn't feel good."
+
+Konomi clung to me with all her might, as if she was trying to regain something that was missing.
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0293
+[Konomi] "Human-kun, hold me tighter and tighter. Those humans are coming again. Help me. Don't let go."
+
+"I'll never let you go. If they chase after me I'll beat them up. So it'll be fine."
+
+I rubbed her back a few times to reassure her, and she began to calm down.
+
+But Konomi didn't seem to be giving up at all and continued to cling tightly to me.
+
+Rather, Konomi seemed to panic when she realized that it was she who was scared.
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0294
+[Konomi] "No, no! I hate scary things! It'll remind me of those people, and I don't want to remember them."
+
+"It's okay, it's okay..."
+
+As I was stroking Konomi, I suddenly remembered something.
+
+...Come to think of it, there were forget-me-not flowers on top of this cliff.
+
+If those flowers can help Konomi forget about the things that bother her, then that's perfect.
+
+"Well then, I'll go and pick some forget-me-not flowers. If I make a tea out of them, will that help me forget all the troubles?"
+
+However, my words only made Konomi even more upset.
+
+#voice kond0295
+[Konomi] "No way! I don't want you to let me go, I don't want you to stay by my side!"
+
+Konomi clings tightly to me.
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0296
+[Konomi] "That's right. Let's do something that feels good. If we do something that feels good, our minds will go blank. We'll probably forget about being scared."
+
+Konomi's expression as she spoke was desperate and not her usual carefree self.
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0297
+[Konomi] "I want you to do something that feels good. You see, right now, I'm feeling a lot of discomfort inside."
+
+#voice kond0298
+[Konomi] "My hands and stomach are cold and disgusting. If you make them hot and white, I'm sure the disgusting feeling will go away."
+
+"Okay... okay. I'll warm you up."
+
+In order to fulfill Konomi's desperate request, I rubbed her whole body while helping her take off her clothes.
+
+
+;SMODE 054 PLAY
+#label replay054
+#setscene 51
+#bg BG09_1
+
+;CHR OFF
+#cg all clear
+
+;ＥＶ絵――EV059『コノミ対面座位』★待ち A1-3
+;EVCG EV059A1
+#cg イベント ev059a1 背景
+#wipe fade
+
+#voice kond0299
+[Konomi] "Ahh... Humans are so warm."
+
+Embracing each other bare-skinned, Konomi finally takes a deep breath of relief.
+
+Maybe it was because I was still nervous, but even when I touched Konomi's smooth skin, I couldn't get into battle mode.
+
+But I was certain that Konomi's warmth made me feel at ease too.
+
+#voice kond0300
+[Konomi] "Hey? Come on, let's do something fun, make me forget about the creepy stuff."
+
+I kiss her forehead, kiss her lips, run my hands all over her body, trying to draw out her heat.
+
+#cg イベント ev059a2 背景
+#wipe fade
+
+#voice kond0301
+[Konomi] "I'm touching the human's hands... Ah... It feels good to be stroked..."
+
+Just as Konomi said, her hands and stomach were cold, everything was chilly and lower in temperature than usual.
+
+Perhaps the fact that my body was cold was one of the reasons why the fear was difficult to subside.
+
+He carefully and meticulously rubbed his cold body, trying to warm it up even a little.
+
+Thankfully, I'd been running so much that even though I was shivering, my body was still warm.
+
+#cg イベント ev059a3 背景
+#wipe fade
+
+#voice kond0302
+[Konomi] "I want more of your warmth, human. I want to snuggle closer."
+
+Konomi starts rubbing her bare skin against me.
+
+#voice kond0303
+[Konomi] "It feels good to be stuck together... aaah... I want to be stuck together some more. That's right, I guess being connected makes it easier to stick together."
+
+#voice kond0304
+[Konomi] "But, Human-kun's penis isn't hard yet. How about if I do this?"
+
+She twists her body and rubs her soft buttocks against me.
+
+The frustrating movements slowly make me stand up straighter.
+
+#cg イベント ev059b1 背景
+#wipe fade
+
+#voice kond0305
+[Konomi] "Oh, it's getting hard. Hey, should I play with my asshole? If I keep playing with it, I'm sure I'll want to put it in."
+
+Konomi's voice, as she clung to my neck, whispered as if it was coming from inside me.
+
+As I was told, I groped around to find the spot Konomi wanted me to put it in.
+
+#voice kond0306
+[Konomi] "Please hurry up. Put your human penis inside me and make me forget all the things I don't like."
+
+Contrary to what he said, the tightly constricted space was tightly closed, perhaps due to tension.
+
+As if it were the first time, I began by carefully massaging the area.
+
+#voice kond0307
+[Konomi] "Ah... Human's fingers are so gentle and feel so good."
+
+Konomi let out a happy sigh.
+
+#cg イベント ev059b2 背景
+#wipe fade
+
+Gently insert the tip of your fingernail into the softened area, which does not soften easily, and continue to push it apart very slowly.
+
+#voice kond0308
+[Konomi] "Ahh... haa... ah... my finger is going in... haaaaah..."
+
+Konomi took a deep breath and shook herself.
+
+I move my finger in and out shallowly, letting it get used to the insertion.
+
+#voice kond0309
+[Konomi] "Aah... Aah... Mmmm... Mmmm..."
+
+Konomi squirms her butt and rubs her body against me like a small animal.
+
+Because I was holding Konomi in my arms, I could feel her body temperature gradually rising, which helped to ease my tension.
+
+#voice kond0310
+[Konomi] "Hinyan... My entrance is getting wider... It feels good to feel that squish... My ass feels good..."
+
+He presses his lips over Konomi's again and again as she gasps for air, consuming her lips.
+
+Konomi's adorable lewd behavior soon caused my thing to become rock hard in response.
+
+#cg イベント ev059b1 背景
+#wipe fade
+
+#voice kond0311
+[Konomi] "Aaaahhh... Won't you put it in? It's already getting big."
+
+Konomi could feel me fully erect just from the heat and feeling of me touching her butt and started begging for more.
+
+"Yeah. I'll let you in."
+
+Today, I really wanted to be kind to Konomi.
+
+I lifted Konomi's body up and gently dropped her on top of mine, being careful not to penetrate her all at once with her own weight.
+
+#voice kond0312
+[Konomi] "...Ah, haa...Please spread my stomach open...I like this..."
+
+Once it was completely connected to the base, Konomi clung to me tightly.
+
+#voice kond0313
+[Konomi] "When I connect with humans, I feel like I'm free, that's what I love. I also feel like this when I drink hot tea."
+
+#voice kond0314
+[Konomi] "A warm feeling rises from inside my stomach, my whole body becomes fluffy, and I feel tingly. And it feels so good."
+
+Instead of ramming roughly, he moved his hips and pressed the head of his penis against Konomi's sensitive spot, making her gasp softly.
+
+#voice kond0315
+[Konomi] "Mmm... I felt a tingling sensation just now. Can you feel it more deep inside? Ahh... it feels good..."
+
+Konomi, now completely used to it, is rocking her hips and greedily searching for her own pleasurable spots.
+
+I raised my hips in small movements, trying to reach even deeper inside her.
+
+#cg イベント ev059b2 背景
+#wipe fade
+
+#voice kond0316
+[Konomi] "...Nyah‾ It's pounding deep inside‾. It's making me feel good, and it's making me feel even better‾..."
+
+#voice kond0317
+[Konomi] "Hey, let's kiss... I want our tops and bottoms to connect and melt away."
+
+With a drool-dripping face, Konomi begs for a kiss.
+
+I pressed my lips together as she wished, sucking her tongue and licking it sticky.
+
+#voice kond0318
+[Konomi] "Mmmm...ahh...slurp...smack...human saliva is sweet and delicious...mmmmm...slurp..."
+
+It feels so good it almost goes numb right down to your brain.
+
+He sucked his tongue hard and licked all over the upper palate, covering the small pearly teeth and the pale pink gums that supported them.
+
+The sighs and moans that escape through the gap between their lips only arouse the unceasing lust.
+
+Without thinking about anything else, he becomes engrossed in Konomi's body.
+
+#voice kond0319
+[Konomi] "Ah ah ah ah, when you thrust deep inside me, I feel something getting caught inside... mmm... my penis is trembling..."
+
+He rotates his hips and presses hard against the back of her vagina, focusing on just the sensitive parts of Konomi.
+
+#voice kond0320
+[Konomi] "Human-kun's penis... it only hits the good spots, so my insides are melting and coming out of my penis... haa... ah... it feels so good..."
+
+A sticky, viscous liquid gushed out from the young stems of the konomi plant without giving it time to dry, making my body sticky as well.
+
+#voice kond0321
+[Konomi] "My penis feels so good rubbing against your belly... I want to come... I want to cum... I want to ejaculate..."
+
+"That's good. Let it all out and feel good."
+
+#voice kond0322
+[Konomi] "Is that okay? My ass is moving on its own and it feels so good."
+
+Konomi desperately rubbed the young stem against my stomach, devouring the increasing pleasure.
+
+#voice kond0323
+[Konomi] "Ah... Ah... Ahh...!? Mmm... It's coming... It's coming..."
+
+;ＥＶ絵――EV059『コノミ対面座位』★待ち B1-3　射精
+;EVCG EV059A1
+;ホワイトアウト
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev059b3 背景
+#bg BG09_1
+#wipe fade 300
+
+Konomi's semen gushed out and then oozed out in abundance.
+
+#voice kond0324
+[Konomi] "...Ahhh...The human's penis is rubbing against my penis that's cumming...The semen...it won't stop..."
+
+"You're a good girl. I'm not ready yet, so shall we keep in touch? You like that sort of thing, don't you, Konomi?"
+
+#voice kond0325
+[Konomi] "Mm... yeah... I love it... I want you to stir me up so much that it stirs up my head..."
+
+The liquid ran down her stomach and reached the joint, making an irresistibly lewd splashing sound along with the sound of her hips moving.
+
+#voice kond0326
+[Konomi] "Ahh... that's making such a naughty squelch squelch squelch... my semen is going to get inside me too."
+
+#voice kond0327
+[Konomi] "Ahh... My insides are stirring and I've turned into a gooey mess... Hmm..."
+
+Konomi danced limply and bonelessly as she was swayed back and forth.
+
+#voice kond0328
+[Konomi] "My penis just came, it's rubbing against me, and it feels good again... ahhh... it feels even better..."
+
+As I continued to thrust violently deep inside her, my desire to ejaculate began to grow.
+
+#voice kond0329
+[Konomi] "Ahhh... I'm coming again. I'm going to soil Ningen-kun's tummy. Thick white semen is coming out."
+
+Konomi's little penis once again erupts with desire.
+
+As I was squeezed again, I finally reached my climax.
+
+"I'll put it out. To the very back."
+
+#voice kond0330
+[Konomi] "Yeah... I love it when you release it deep inside me... I feel like the human and I are melting together..."
+
+;ＥＶ絵――EV059『コノミ対面座位』★待ち A1-3
+;EVCG EV059A1
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev059b3 背景
+#bg BG09_1
+#wipe fade 300
+
+I reached orgasm with a thud, pressing the head of my glans deep inside her.
+
+Konomi wriggled her body with joy as she received my ejaculation.
+
+#voice kond0331
+[Konomi] "Ahhhhhh, it feels so good. It's like someone's scent is being smeared into me from deep inside my body. I love being ejaculated inside of me."
+
+"I see."
+
+#voice kond0332
+[Konomi] "Ahahaha, it's a sticky mess of my semen and the human's semen. It felt good."
+
+Konomi and I remained connected for a while, sharing each other's body heat as if we were dozing off.
+
+The sense of happiness, of satisfaction and warmth filling my fingers, felt like something irreplaceable.
+
+After a while, Konomi muttered something.
+
+#voice kond0333
+[Konomi] "I love doing nice things with humans. It warms not just my body, but my heart as well."
+
+"I see, me too."
+
+#voice kond0334
+[Konomi] "Hehehe. It's nice to feel that pure white thud, but it's also nice and fluffy and warm, it makes me feel like I'm going to sleep."
+
+#voice kond0335
+[Konomi] "It's fluffy, not just when we do naughty things that feel good, but also when someone strokes me or holds me."
+
+#voice kond0336
+[Konomi] "When you pet me or hold me, I immediately want to have sex, but I like you even when we don't have sex, you know?"
+
+Konomi repeatedly rubbed her cheek and forehead against my chest like a cat wanting affection.
+
+#voice kond0337
+[Konomi] "That feeling makes me so happy, it makes me feel really happy."
+
+#voice kond0338
+[Konomi] "It feels good to be connected to humans, so I want to be with them forever."
+
+Konomi muttered, entrusting her whole body to me.
+
+"That's right. I wanted to be together forever. I wanted to do lots of fun things together."
+
+I hugged Konomi tightly with both arms.
+
+Living with Konomi has given me indescribable happiness.
+
+But that's why... I had made a certain decision.
+
+;SMODE 054 STOP
+#endscene
+
+;dk06へ
+#next dk06

@@ -1,0 +1,203 @@
+
+"Hey, it's not like it's going to run out, so why not lend me a little bit?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0024
+[Tsukiyo] "Huh..."
+
+Tsukiyo's eyes widened for a moment and he thought "Oh no!" as soon as he said it.
+
+"Oh, sorry."
+
+Tsukiyo bit his lower lip and his expression hardened.
+
+#voice tuke0025
+[Tsukiyo] "It's okay if you don't understand."
+
+"Well, well... when I say "lend it to me," I don't mean that I have to give it to you..."
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0026
+[Tsukiyo] "So, it's fine. I just won't ever let you go."
+
+Tsukiyo turned away even more adamantly, as if she had suffered a terrible betrayal.
+
+It seems like he has completely withdrawn into his shell.
+
+...I said that wrong.
+
+"Of course I know who the owner is. That's why I said I'd lend it to you."
+
+#voice tuke0027
+[Tsukiyo] "This isn't from Ibara."
+
+No matter how much she tried to soothe him and make excuses, Tsukiyo just held the cloth tightly as if to say she wasn't going to listen any more.
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0028
+[Tsukiyo] "I don't want anyone to touch this. This definitely belongs to Tsukiyo."
+
+Hmm, is it just stubbornness that makes me want to touch it so much, or is there some other reason?
+
+It was really insensitive of me to just casually lend out something that was so important to me.
+
+When you are weak, the thorns are swollen and puffy.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I11F2 C
+#cg イバラ iba_1_11f2 中
+#wipe fade
+
+#voice ibae0032
+[Ibara] "Humans may be too stupid to understand, but anything that is no longer theirs belongs to the elf who picked it up."
+
+"I heard that from Konomi earlier."
+
+#voice ibae0033
+[Ibara] "Then you can understand that I am now the rightful owner."
+
+"Sorry, I don't understand that."
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibae0034
+[Ibara] "Huh?!"
+
+"Well, I had always thought that the cloth belonged to Tsukiyo."
+
+#voice ibae0035
+[Ibara] "B-but... humans aren't elves!"
+
+"But aren't we the ones living together now? If those who live together are aware of it, then isn't that no different from the elves being aware of it?"
+
+#voice ibae0036
+[Ibara] "Uh, uh... that's..."
+
+"Besides, the cloth itself is now in Tsukiyo's possession, isn't it? So doesn't that mean it has left Ibara's possession and can now be said to be Tsukiyo's?"
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibae0037
+[Ibara] "No! I took Tsukiyo by force from my hands!"
+
+;FACE K05F
+#face f_kon_0_05f 94 466
+
+#voice kone0021
+[Konomi] "I've never heard of anyone doing or having something like that done to them, but if it did happen, I'd be sure to check who owned it."
+
+;FACE T07F_L
+#face f_tuk_0_07f_l 94 466
+
+#voice tuke0029
+[Tsukiyo] "It's not Ibara's! It's Tsukiyo's!"
+
+Ugh, this is bad. This might lead to us going back to fighting.
+
+If so, what happens to ownership?
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K03F R
+#cg コノミ kon_1_03f 右
+#wipe fade
+
+#voice kone0022
+[Konomi] "I've never heard of it, so I don't know, but I think they should both say which one they want, and then we can all decide."
+
+"...Hmm. Then I guess I belong to Tsukiyo after all."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibae0038
+[Ibara] "Why, human!"
+
+"We're the ones living together, so even without the recognition of the other elves, at least in this hut, we were seen as Tsukiyo's."
+
+#voice ibae0039
+[Ibara] "But... but..."
+
+While Ibara was throwing a tantrum, Konomi smiled.
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kone0023
+[Konomi] "That's true. If Human-kun says so, then it must be Tsukiyo's."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibae0040
+[Ibara] "Konomi... you..."
+
+#voice kone0024
+[Konomi] "Hmm? What? Well, I'm sure Tsukiyo has had it all this time. He doesn't seem to want to let it go, so isn't that enough proof to authenticate it?"
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+
+#voice hine0014
+[Hinata] "If Ningen-san and Konomi say so, then Hinata is fine with it."
+
+Hinata joined in and raised her hand.
+
+#voice ibae0041
+[Ibara] "Ugh..."
+
+Apparently, by majority vote, Tsukiyo's cloth was recognized as Tsukiyo's property.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0030
+[Tsukiyo] "Konomi? Hinata? Hmm..."
+
+Recognizing that the cloth he was embracing was his own, Tsukiyo finally seemed to calm down and turned towards me.
+
+;dt01_2へ
+#next dt01_2

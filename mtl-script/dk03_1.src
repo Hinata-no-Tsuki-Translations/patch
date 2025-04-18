@@ -1,0 +1,679 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG42_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg42_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kond0158
+[Konomi] "Good morning, human. Shall we do something fun?"
+
+"Whaaat?!"
+
+I was still dozing off when I was suddenly hugged and woke up in surprise.
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0159
+[Konomi] "Huh? Why are you so surprised?"
+
+Konomi was smiling brightly in front of me.
+
+"Oh, Konomi. Any fever? How are you feeling?"
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0160
+[Konomi] "Hmm? I think the fever is gone now. The nausea seems to have gone away too."
+
+"let's see……"
+
+I put my hand to my forehead to check, but it felt just like normal. The fever had gone down.
+
+Above all, I was relieved to see that his face was no longer as pale as ever.
+
+"Konomi... you're feeling better now. That's good."
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0161
+[Konomi] "Yeah. I'm fine, fine. Are you happy that I'm fine, human?"
+
+It seems like a lie that I was feeling unwell just yesterday.
+
+"Yeah, I'm glad. It's better for Konomi to be healthy after all."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0162
+[Konomi] "I see, so humans are happier when I'm healthy. Humans are happier when I'm healthy, Ibara."
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibad0068
+[Ibara] "Huh? Humans are lazy. The sun is already high in the sky."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Ah, you're right. The sun is pretty high up in the sky.
+
+But I didn't sleep very well yesterday or the day before...
+
+I'm awake, but I'm still a little sleepy.
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0163
+[Konomi] "So, why did Ibara come back? To have some fun with a human?"
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibad0069
+[Ibara] "I didn't come back or anything. I came to bring Konomi back."
+
+Konomi tilted her head as if she didn't understand what Ibara was talking about as he puffed out his chest arrogantly.
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0164
+[Konomi] "Eh? I'm not coming back? Because I want to have fun with you, Human."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0070
+[Ibara] "I want to do something that feels good..."
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0165
+[Konomi] "After all, doing it with a human feels the best, so I don't want to let go. If possible, I'd like to stay attached to you all day long."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0071
+[Ibara] "Is that why you never returned to the Elven realm?"
+
+#voice kond0166
+[Konomi] "Yeah, that's right."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0072
+[Ibara] "That's why you got sick. Even humans say it's better for Konomi to be healthy, so you shouldn't get sick!"
+
+;CHR K06F R
+#cg コノミ kon_1_06f 右
+#wipe fade
+
+#voice kond0167
+[Konomi] "Hmm, that was a mistake. I wondered if it would be okay, but it seems the human world just didn't suit me."
+
+...You're so carefree, even though you were feeling so sick.
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0168
+[Konomi] "I want to be with you, human, forever. So, I'll be with you forever, okay?"
+
+Konomi declared to Ibara with a smile but firm determination.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0073
+[Ibara] "But even so, if you stay in the human world forever you'll disappear! And besides, you can't bring a human inside the barrier!"
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0169
+[Konomi] "Why? I was thinking it might be nice to bring a human with me."
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibad0074
+[Ibara] "You've got to be kidding me! Humans are human beings! What would my brothers say about putting something as impure as a human into this world..."
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0170
+[Konomi] "I think it would be best to take him secretly. Right now, we might be able to push the human through the barrier."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0075
+[Ibara] "There's no way they wouldn't find out! How could you sneak something this big in here!? Your older brothers are keeping an eye on you!"
+
+#voice kond0171
+[Konomi] "Hmm, I don't know, but maybe we could disguise it? Or roll it up and make it smaller? I'm sure we can figure it out."
+
+"Hey, roll it up, I'm not a rag or anything."
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0172
+[Konomi] "Eh? Can't you hug my knees and curl up into a little ball? That's no good for a human."
+
+"It might be possible for a short while, but how do you intend to carry me in this condition?"
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice kond0173
+[Konomi] "Hmm, well, I'm going to have to push my leg."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0076
+[Ibara] "That's absolutely impossible!"
+
+;CHR K09F1 R
+#cg コノミ kon_1_09f1 右
+#wipe fade
+
+#voice kond0174
+[Konomi] "Eh? You won't know if it's possible until you try. If we all do it together, it'll be fine."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0077
+[Ibara] "Who is everyone?! I'm definitely not going to help you!"
+
+#voice kond0175
+[Konomi] "Oh man, Ibara is so selfish, it's a pain, isn't it? But if humans are with us, they'll be fine because humans are strong."
+
+#voice ibad0078
+[Ibara] "If you're going to carry a human, there's no way a human can be lifted!"
+
+;CHR K06F R
+#cg コノミ kon_1_06f 右
+#wipe fade
+
+#voice kond0176
+[Konomi] "Oh, I see. I made a mistake."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0079
+[Ibara] "Even Hinata and Tsukiyo were bullied, so if you bring a human into the area... who knows what will happen?"
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibad0080
+[Ibara] "I-I understand that humans aren't bad people, but even among the older elves there are a lot of people who hate humans!"
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0177
+[Konomi] "Hmm, I'm sure it'll be fine. That's right! If we do something fun together, I'm sure I'll grow to like you, human."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0081
+[Ibara] "Together, you say, including my brother?"
+
+#voice kond0178
+[Konomi] "That's right. I think it would be fun if we all did something fun together."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I tried to imagine pinning Izumi down...and shook my head.
+
+Even though she has more beautiful features than a human and a slimmer figure, I can't even imagine her pinning down a man of the same build.
+
+"...Please spare me that."
+
+;CHR K05F R
+#cg コノミ kon_1_05f 右
+#wipe fade
+
+#voice kond0179
+[Konomi] "Hmm? Why? Won't you let the big elf join?"
+
+"Whatever, it's just too much for me."
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0180
+[Konomi] "Do you hate Izumi, human?"
+
+"I haven't gotten to know you well enough to dislike you, but I think it's a little difficult to like you like that."
+
+;CHR K06F R
+#cg コノミ kon_1_06f 右
+#wipe fade
+
+#voice kond0181
+[Konomi] "I see, that's a shame. Poor Izumi, perhaps?"
+
+"There's no need to feel sorry for me."
+
+…If she knew, she probably wouldn't say it was a shame. It would be troublesome if people were interested.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0082
+[Ibara] "Besides, who knows what would happen if a human were to smell the scent of a tokiwasure flower?"
+
+;CHR K05F R
+#cg コノミ kon_1_05f 右
+#wipe fade
+
+#voice kond0182
+[Konomi] "Hmm, that's true. That's difficult."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0083
+[Ibara] "That's troubling! You might forget about us and everything that happened here."
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0183
+[Konomi] "Oh, that might be a little lonely."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0084
+[Ibara] "Because humans are humans, they might forget everything about themselves. Not just about us, but everything."
+
+"...Uh, hmm. That's a bit scary."
+
+I've been trying to be careful, but I was so glad I didn't taste it or inhale the steam when making the infusion last night.
+
+...But maybe I've forgotten something about yesterday's talk about thorns.
+
+Maybe there's something I've forgotten, but if you think about it, not knowing what it is is a pretty scary story.
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0184
+[Konomi] "But maybe you won't forget anything. And even if you do forget, you can just have lots of fun again."
+
+Konomi continued to speak in a carefree manner, which only made Ibara's frown deepen.
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0085
+[Ibara] "We went through so much effort to meet, and now it's all gone as if nothing happened!"
+
+;CHR K01F1A R
+#cg コノミ kon_1_01f1a 右
+#wipe fade
+
+#voice kond0185
+[Konomi] "Hmm, I think that would be a waste, so maybe I'll stay here and be alone with you, Human-kun."
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibad0086
+[Ibara] "If you do that, eventually the tokiwasure flowers will stop working and Konomi will disappear!"
+
+;CHR K03F R
+#cg コノミ kon_1_03f 右
+#wipe fade
+
+#voice kond0186
+[Konomi] "Hmm, but then I'll have you all to myself until you disappear, right?"
+
+I thought I heard a popping sound coming from the thorns.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibad0087
+[Ibara] "Come on! I don't care what Konomi says! If you want to take so many humans then just do as you please! I won't care if you disappear."
+
+Ibara seems completely upset and is sulking.
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0187
+[Konomi] "What? Is Ibara angry?"
+
+#voice ibad0088
+[Ibara] "I'm not angry! But I'm amazed at how stupid Konomi is!"
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0188
+[Konomi] "Is that so? Am I stupid? But you want to do what you want, right?"
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibad0089
+[Ibara] "But even so, I don't understand why you want to stay close to humans even though you might disappear!"
+
+#voice kond0189
+[Konomi] "It's okay if you don't understand‾? It's just that I want to‾"
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0090
+[Ibara] "Why are you so obsessed with humans?"
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0190
+[Konomi] "It's because I like things that feel good, right? Human-kun taught me what feels good, so you'll do it for me, right?"
+
+#voice ibad0091
+[Ibara] "I don't know. I don't understand it at all! That's not a good reason to disappear!"
+
+Ibara stomps his feet in anger at Konomi's lazy response.
+
+This is pretty angry.
+
+Despite this, Konomi remained nonchalant, as if she didn't care one bit about Ibara's anger.
+
+;CHR K01F1B R
+#cg コノミ kon_1_01f1b 右
+#wipe fade
+
+#voice kond0191
+[Konomi] "Feeling good is important, right?"
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibad0092
+[Ibara] "That's not really important. Things like pride and beauty as an elf are far more important!"
+
+#voice kond0192
+[Konomi] "Is that so? I don't think so though."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0093
+[Ibara] "So, what do you think is important, Konomi?"
+
+;CHR K02F1 R
+#cg コノミ kon_1_02f1 右
+#wipe fade
+
+#voice kond0193
+[Konomi] "So, it feels good, right? If it's a question of whether it feels good or not, it's more fun to choose the good option, right?"
+
+;CHR K04F R
+#cg コノミ kon_1_04f 右
+#wipe fade
+
+#voice kond0194
+[Konomi] "Right? So, Ibara, let's have some fun together. I'm sure it'll be fun if we do it together."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi hung from my arm and rubbed her cheek against mine.
+
+Finally, Ibara's brows rose sharply and his expression became one of rage.
+
+;CHR I04F C
+#cg イバラ iba_1_04f 中
+#wipe fade
+
+#voice ibad0094
+[Ibara] "I can't keep up! I'm going home now!"
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice kond0195
+[Konomi] "I see. See you later then?"
+
+Ah, there he goes again, irritating me with such words...
+
+#voice ibad0095
+[Ibara] "I'm going home for now! Think carefully, Konomi! Humans too! Talk to Konomi properly!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+The door was slammed shut with a bang.
+
+...No matter what you say, Ibara is a kind person and cares about his friends.
+
+Even though I may say cold things, in the end I never manage to accept it.
+
+Perhaps he is the least elf-like of all, and most human.
+
+"Hey, Konomi. If Ibara comes again, make sure you apologize."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0196
+[Konomi] "Apologizing? Why?"
+
+"Ibara is worried about you, so I don't think you should say something like that."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0197
+[Konomi] "What did I say? Did I say something wrong?"
+
+Konomi tilted her head to the side with a puzzled look on her face, as if she didn't really understand.
+
+...It's not like Konomi means any harm or anything.
+
+So it just doesn't fit together as well, and it's even worse.
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0198
+[Konomi] "Ibara is weird, isn't she? Even if I disappear, it won't affect her, so why is she mad?"
+
+I wonder if elves think it's weird to have someone get angry for their sake...
+
+"Maybe it's because it would be sad if your friends disappeared."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kond0199
+[Konomi] "Would you be sad if I disappeared?"
+
+#bgm 0 04
+
+"That's right. Earlier, Konomi asked me if I would be happy if she were doing well, right? If she disappeared, I'd be sad."
+
+#voice kond0200
+[Konomi] "Would you be sad if I disappeared, too, human?"
+
+"Isn't that obvious? I'd be happy if we could be together, but if you disappear then we won't be able to be together. It'll be sad. And even just thinking about it scares me."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0201
+[Konomi] "But, if you're no longer by my side, isn't it the same as having disappeared?"
+
+#voice kond0202
+[Konomi] "If I went back to the elves and never came here again, it would be the same as me disappearing, right? So would it be sadder if I disappeared?"
+
+"That's right. When you disappear, can you think of it as the same as dying if you were a human? If you die, you can't see each other again, but if you live, maybe you'll be able to see each other someday."
+
+;CHR K07F L
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0203
+[Konomi] "Oh, I see. That's how it is."
+
+Konomi was deeply impressed by what I said and nodded repeatedly.
+
+"Did you understand?"
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0204
+[Konomi] "I think I understand it a little better now."
+
+Do you understand?
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0205
+[Konomi] "But isn't it important to feel good after all? When you feel good, you feel like you're living life to the fullest, right?"
+
+"it is……"
+
+#voice kond0206
+[Konomi] "Hey, human? Let's do something fun. You promised, right?"
+
+Undeterred, I took her outstretched hand...
+
+;選択肢発生
+#select a b
+A: It was a promise.
+B: I'll be quiet today.
+
+#label a
+#next dk03a
+
+#label b
+#next dk03b
+
+;Ａを選択⇒『dk03a』へジャンプ
+;Ｂを選択⇒『dk03b』へジャンプ

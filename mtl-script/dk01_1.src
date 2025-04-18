@@ -47,16 +47,16 @@
 #bg BG08b_1
 #wipe fade
 
-"Close this line..." I guess this is correct.
+"Close this line... Is that correct?"
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice kond0001
-[Konomi] "What are you doing, Human-kun? Are you drawing in the shed?"
+[Konomi] "What are you doing, human? Are you drawing in the hut?"
 
-"Why are you just drawing? It's a curse to avoid orcs."
+"Why would you do something as simple as drawing something? It's a curse to ward off orcs."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
@@ -65,7 +65,7 @@
 #voice kond0002
 [Konomi] "Oh, I see. You drew it well."
 
-"Is that what it means to be able to draw well? But I wonder if this will work?"
+"Is that what it means to draw well? But I wonder if this will work?"
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
@@ -85,21 +85,21 @@
 ;TKface
 
 #voice tukd0001
-[Tsukiyo] "It's properly connected and disconnected. So I think it's okay."
+[Tsukiyo] "The connection is properly cut off. So I think it's okay."
 
-"...Hmm? The connection is broken? Do elves understand something like that?"
+"...Huh? The connection's been cut off? Do elves know anything about that sort of thing?"
 
 ;CHR K04F L
 #cg コノミ kon_1_04f 左
 #wipe fade
 
 #voice kond0004
-[Konomi] "Hmm, I don't understand elves. But Tsukiyo is a dark elf."
+[Konomi] "Hmm, I don't know much about elves. But Tsukiyo is a dark elf."
 
-“Do you know it’s a dark elf?”
+"How can you tell if someone is a Dark Elf?"
 
 #voice tukd0002
-[Tsukiyo] "Yes...I understand."
+[Tsukiyo] "Yes, I understand."
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
@@ -129,7 +129,7 @@
 ;TKface
 
 #voice tukd0003
-[Tsukiyo] “I was praised…?”
+[Tsukiyo] "I was praised...?"
 
 "Yeah, isn't it amazing that you can do things that elves can't do?"
 
@@ -140,16 +140,16 @@
 ;TKface
 
 #voice tukd0004
-[Tsukiyo] “Ehehehe.”
+[Tsukiyo] "Hehehe."
 
 ;CHR H01F1_A R
 #cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hind0002
-[Hinata] “If Tsukiyo is fine with me, then you can rest assured!”
+[Hinata] "I'm relieved that Tsukiyo is fine!"
 
-"That's right. Then, when you feel safe, shall we resume our search?"
+"That's right. Well then, let's resume our exploration now that we're relieved."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -160,67 +160,67 @@
 #wipe fade
 
 #voice kond0005
-[Konomi] “Ningen-kun really likes exploring and investigating.”
+[Konomi] "Humans really love exploring and investigating."
 
-"I like it...it's interesting to learn things you didn't know, right?"
+"It's not that I like it...it's interesting to learn things you didn't know before, right?"
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice kond0006
-[Konomi] “Oh, I understand then.”
+[Konomi] "Oh, I understand that."
 
 ;CHR H08F1_A R
 #cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hind0003
-[Hinata] “It’s fun to play with humans!”
+[Hinata] "It's so much fun to create groups together with humans!"
 
-“Then, let’s go explore today as well.”
+"Well then, shall we go exploring today?"
 
 ;CHR H07F_A R
 #cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hind0004
-[Hinata] "Oh! Let's go! Let's go!"
+[Hinata] "Ohh! Let's go! Let's go!"
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 #voice ibad0002
-[Ibara] "It can't be helped, I can go with you too."
+[Ibara] "Well, I guess I'll go with you."
 
 ;CHR K06F L
 #cg コノミ kon_1_06f 左
 #wipe fade
 
 #voice kond0007
-[Konomi] "Hmm, then I guess I'll take a nap in a hut where the orcs won't come."
+[Konomi] "Hmm, then I guess I'll go and take a nap in a hut where the orcs won't come."
 
-"why!"
+"Why not?"
 
-I couldn't help but pounce on Konomi's overly carefree remark.
+I couldn't help but comment on Konomi's overly carefree remark.
 
-Didn't he seem enthusiastic just now?
+You seemed like you were enthusiastic about it earlier.
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice kond0008
-[Konomi] "Hmm? Was it no good?"
+[Konomi] "Hmm? It didn't work?"
 
-“No, I don’t really care.”
+"No, I don't really mind."
 
 ;CHR H11F_A R
 #cg ヒナタ hin_1_11f_a 右
 #wipe fade
 
 #voice hind0005
-[Hinata] "Let's go together, Konomi."
+[Hinata] "Konomi, let's go together‾"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
@@ -239,7 +239,7 @@ Didn't he seem enthusiastic just now?
 #wipe fade
 
 #voice kond0009
-[Konomi] “Ahaha‾, if everyone says so, I have to go too‾”
+[Konomi] "Hahaha, if everyone says so, I guess I have to go too."
 
 ;CHR H01F1_A R
 #cg ヒナタ hin_1_01f1_a 右
@@ -249,9 +249,9 @@ Didn't he seem enthusiastic just now?
 [Hinata] "That's right, it's more fun when we're all together!"
 
 #voice kond0010
-[Konomi] "Is it fun? It's good to have fun. Well then, I guess I'll go too."
+[Konomi] "Is it fun? It's good to have fun. I think I'll go too."
 
-Jeez. Elves are said to be free-spirited people, but Konomi's free-spiritedness stands out from the rest.
+Exactly. Elves are said to be free-spirited creatures, but Konomi's freedom is second to none.
 
 ;CHR OFF
 #cg all clear
@@ -271,27 +271,27 @@ Jeez. Elves are said to be free-spirited people, but Konomi's free-spiritedness 
 ;TKface
 
 #voice tukd0006
-[Tsukiyo] "Look, I found what's written in the book."
+[Tsukiyo] "Look, I found it written in a book."
 
-"Wow, you've found something so hard to find."
+"Wow, I'm impressed you found something so hard to find."
 
 ;CHR H07F_A R
 #cg ヒナタ hin_1_07f_a 右
 #wipe fade
 
 #voice hind0007
-[Hinata] “I found this strange-shaped stone!”
+[Hinata] "I found this strange-shaped stone!"
 
-"Oh, this is a strange colored stone. Where did you find it?"
+"Oh, this is an odd colored rock. Where did it fall?"
 
 ;CHR H08F2_A R
 #cg ヒナタ hin_1_08f2_a 右
 #wipe fade
 
 #voice hind0008
-[Hinata] “Right there!”
+[Hinata] "Right there!"
 
-"At this size, it doesn't seem like it was brought in by a small animal... so it was there. It must have the same characteristics as this rock... hmmmm."
+“With its size, it doesn’t seem like it could have been carried there by a small animal… there you have it. It probably has the same characteristics as this rock… hmm.”
 
 ;CHR OFF
 #cg all clear
@@ -302,25 +302,25 @@ Jeez. Elves are said to be free-spirited people, but Konomi's free-spiritedness 
 #wipe fade
 
 #voice ibad0004
-[Ibara] "Hmph, I found this beautiful fruit! Now, you can eat it, human."
+[Ibara] "Hmmm, I found a beautiful fruit like this! Go ahead and eat it, human."
 
-"...It's hard to say, but it's poisonous."
+"...I hate to say it, but that's poison."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibad0005
-[Ibara] "What!? I-I took the trouble to find it! It's so beautiful! Is it poisonous!?"
+[Ibara] "What?! I went through all the effort of finding it! It's so beautiful! And it's poisonous?!"
 
-"Ah... poisonous animals and plants tend to be flashy and beautiful. Ah, but poison is poisonous and has its uses, so it's helpful."
+"Ah... poisonous animals and plants tend to be flashy and beautiful. Ah, but poison still has its uses, so that's a relief."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibad0006
-[Ibara] "...Damn. This time, I'll find something that will surprise humans!"
+[Ibara] "...Damn it. This time, I'll definitely find something that will surprise humans!"
 
 ;CHR OFF
 #cg all clear
@@ -331,7 +331,7 @@ Jeez. Elves are said to be free-spirited people, but Konomi's free-spiritedness 
 #wipe fade
 
 #voice hind0009
-[Hinata] "Hinata too! Human-san will be surprised!"
+[Hinata] "You too, Hinata! You'll surprise humans!"
 
 ;CHR T04F L
 #cg ツキヨ tuk_1_04f 左
@@ -340,54 +340,54 @@ Jeez. Elves are said to be free-spirited people, but Konomi's free-spiritedness 
 ;TKface
 
 #voice tukd0007
-[Tsukiyo] “I’ll do my best!”
+[Tsukiyo] "I'll do my best!"
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice kond0011
-[Konomi] “Oh‾ everyone, do your best‾”
+[Konomi] "Oh, good luck everyone!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Konomi waved her hand as the three of them ran off in their own direction.
+Konomi waved goodbye to the three of them as they ran off in different directions.
 
-"...Konomi isn't going?"
+"...Is Konomi not going?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice kond0012
-[Konomi] "Hmm? How am I? The sun feels nice today, so I'm going to take a nap here."
+[Konomi] "Hmm? Maybe I'll go. The sun is nice today, so I'll take a nap here."
 
-"You're really free-spirited, Konomi."
+"Konomi really is so free-spirited."
 
 #voice kond0013
 [Konomi] "Hmm? That's what elves are like, isn't it?"
 
-“Well, if you say we’re all free-spirited, it’s just that we have different directions.”
+"Well, I guess you could say that everyone is free and easy, just with different directions."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice kond0014
-[Konomi] "Ahaha, isn't it? I'm not the only one. Well then, good night."
+[Konomi] "Hahaha, isn't that right? I'm not the only one. Well, good night."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Konomi rolled onto the grass with all her might.
+Konomi rolled with all her might into the grass.
 
-"...It seems like it feels good."
+"...It seems to feel good."
 
-I also looked up at the sky.
+I was drawn in and looked up at the sky.
 
-The wind blowing across the sky was cool, the sun was warm, and I felt very comfortable.
+The breeze across the sky was cool and the sun was warm, it felt really good.
 
 ;暗転
 ;#face off
@@ -402,7 +402,7 @@ The wind blowing across the sky was cool, the sun was warm, and I felt very comf
 
 
 #voice hind0010
-[Hinata] "Huh? Both Human-san and Konomi are sleeping!?"
+[Hinata] "What? Humans and Konomi are both asleep!?"
 
 ;背景：森（夕）
 ;BG BG04_2
@@ -410,21 +410,21 @@ The wind blowing across the sky was cool, the sun was warm, and I felt very comf
 #bg BG04_2
 #wipe fade
 
-"Huh?! Even I fell asleep."
+"What?! Even I was asleep."
 
 ;CHR H02F1_A R
 #cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hind0011
-[Hinata] "Wow! Human-san is Gutara-san!"
+[Hinata] "Seriously! Humans are such lazy people!"
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibad0007
-[Ibara] "You're sloppy, human."
+[Ibara] "How sloppy, human."
 
 ;CHR OFF
 #cg all clear
@@ -435,276 +435,276 @@ The wind blowing across the sky was cool, the sun was warm, and I felt very comf
 #wipe fade
 
 #voice kond0015
-[Konomi] "It's true. It's Mr. Nebosuke from Gutara."
+[Konomi] "You're right. You're a lazy sleepyhead."
 
-“Even though we were sleeping together, Konomi would say that?”
+"You were sleeping together, so how dare you say that, Konomi?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice kond0016
-[Konomi] "Hmm? I sleep when I want to sleep, and I wake up when I want to."
+[Konomi] "Hmm? I sleep when I want to, and wake up when I want to?"
 
-Honestly, when it comes to Konomi... there's always so much going on.
+Honestly, when it comes to Konomi...she's always trying to confuse people.
 
-Was it my fault that Konomi lured me into falling asleep?
+Was it my fault for being lured by Konomi and falling asleep?
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-I looked up at the darkened sky with a feeling of resignation.
+With a feeling similar to resignation, I looked up at the darkening sky.
 
-"The sun is setting. Should we go home now?"
+"The sun is setting. Let's go home now."
 
 ;FACE K09F1
 #face f_kon_0_09f1 94 466
 
 #voice kond0017
-[Konomi] “So, let’s go home.”
+[Konomi] "That's right, let's go home."
 
-As we were talking about this, a light shone like a shadow.
+As we were talking, a light shone on us like a shadow.
 
-"What... what!?"
+"Wha... What?!"
 
 ;CHR E C
 #cg その他 elf_1_01 中
 #wipe fade
 
 #voice izud0001
-[Fountain Elf] “…Are you returning to our realm?”
+[Fountain Elf] "Are you returning to our domain?"
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 #voice hind0012
-[Hinata] "Hyaaaaa!? A big elf!?"
+[Hinata] "Wow?! A big elf?!"
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibad0008
-[Ibara] "W-why... brother, are you here!?"
+[Ibara] "Wh, why...brother, are you here?!"
 
-Hinata and the others seemed to have come unexpectedly, and everyone except Konomi looked up at the newly arrived elf with surprised faces.
+It seemed that the visit was unexpected even for Hinata and the others, as everyone except Konomi looked up at the newly arrived elf with surprised expressions.
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kond0018
-[Konomi] “Oh‾Izumi, it’s been a while‾”
+[Konomi] "Oh, Izumi, it's been a while."
 
 #voice izud0002
-[Fountain Elf] “Izumi? What is that? ”
+[Fountain Elf] "Izumi? What is that?"
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kond0019
-[Konomi] "Hmm? It's a human name so that Human-kun can easily understand it."
+[Konomi] "Hmm? It's a human name so humans can understand it."
 
 #voice izud0003
-[Fountain Elf] ``...There's no need for something like that.''
+[Spring Elf] "...There's no need for such things."
 
-The elf's voice had a strange sound to it that could be called a voice. It's like it's coming directly into my head...
+The elf's voice had a strange resonance that could hardly be called a voice. It was as if it was resonating directly inside my head.
 
-The unfamiliar elf glanced at me, then immediately turned his attention to Ibara.
+The unfamiliar elf glanced my way, then quickly fixed his eyes on Ibara.
 
 #voice izud0004
-[Spring Elf] "Thorn Elf, didn't you come to bring back the nut elves and the nameless elves?"
+[Spring Elf] "Thorn Elf, didn't you come to bring back the Nut Elf and the Nameless Elves?"
 
 ;FACE I09F
 #face f_iba_0_09f 94 466
 
 #voice ibad0009
-[Ibara] "Ah... that's..."
+[Ibara] "Ahh... that's..."
 
 #voice izud0005
-[Fountain Elf] ``How foolish of you to not only go outside the barrier, but also to interact with humans.''
+[Elf of the Spring] "Not only have you gone outside the barrier, but you have also become involved with humans - how foolish of you!"
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0010
-[Ibara] “Brother, why are you here?”
+[Ibara] "Brother, why are you here?"
 
 #voice izud0006
-[Fountain Elf] ``I came looking for you. The day when the barrier closes is coming soon. What will you do if you are left behind?'
+[Elf of the Spring] "I came looking for you. The day when the barrier will close is approaching. What will I do if you are left behind?"
 
 ;FACE I11F1
 #face f_iba_0_11f1 94 466
 
 #voice ibad0011
-[Ibara] "So, I'm going to bring these guys back..."
+[Ibara] "So, that's why I'm trying to bring them back..."
 
 #voice izud0007
-[Fountain Elf] ``I know we were playing together. Thorn Elf, I made a mistake in entrusting you with this mission.''
+[Elf of the Spring] "I know we were playing together. Thorn Elf, it was a mistake to entrust you with this mission."
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0012
-[Ibara] "Uh..."
+[Ibara] "Ugh..."
 
-Come to think of it, Ibara called me brother, but is this elf actually Ibarra's older brother?
+Now that I think about it, Ibara called him "brother," so is this elf Ibara's brother?
 
 #voice izud0008
-[Fountain Elf] ``No, that's not true, child of man. We cannot have a biological relationship like you do.''
+[Elf of the Spring] "No, it's not so, child of man. We cannot have a blood relationship through reproduction like you."
 
 Did you get what I was thinking?
-And that answer is directly in your head...?
+And the reply came directly into his head...?
 
 #voice izud0009
-[Fountain Elf] ``That's right, over time, elves will be able to communicate without using language. Differences in language are trivial if you don't use language.''
+[Elf of the Spring] "Yes, over time, elves can communicate without using language. If language is not used, differences in language are trivial."
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0013
-[Ibara] “My role is supposed to be to bring these guys back, so what did you come here for?”
+[Ibara] "It's my job to bring them back, so what are you doing here, brother?"
 
 #voice izud0010
-[Fountain Elf] "I'm here to bring you back."
+[Spring Elf] "I'm here to bring you back."
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0014
-[Ibara] “What…!?”
+[Ibara] "Huh...?!"
 
-Ibara's face was colored with shock.
+Ibarra's face was painted with shock.
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0015
-[Ibara] "Well, that's my role..."
+[Ibara] "That's my role..."
 
 #voice izud0011
-[Fountain Elf] ``It's no longer possible. It seems you were still too young to fulfill your role.''
+[Spring Elf] "That is no longer possible. You seem too young to fulfill your role."
 
-Ibara bit his lip in frustration when his older brother said something like that.
+Hearing his older brother say that, Ibara bit his lip in frustration.
 
 #voice izud0012
-[Fountain Elf] ``Now, let's go home.'' Thorn elves, nut elves, nameless elves.''
+[Elves of the Spring] "Come on, let's go home. Thorn Elves, Nut Elves, Nameless Elves."
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 #voice kond0020
-[Konomi] "Hmm, then no one has to go home, right? I'm Konomi, and since we have a name, Hinata and Tsukiyo are no longer Nanashi, right?"
+[Konomi] "Hmm, so does that mean no one has to go home? I'm Konomi, and I have a name, so Hinata and Tsukiyo aren't Nanashi anymore, right?"
 
-Honestly, Konomi cut Izumi's comment in half and smiled.
+Konomi was nonchalant, but she smiled and cut Izumi off straight in the face.
 
 #voice izud0013
-[Fountain Elf] ``Nut Elf. Do you really want to stay in this human realm that long? ”
+[Spring Elf] "Oh Nut Elf, is it really so bad that you wish to remain in this human realm?"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice kond0021
-[Konomi] "It's not like that, but I still have time, so I'd like to play around a little more."
+[Konomi] "That's not it, but we still have some time, so I'd like to play a bit more."
 
 #voice izud0014
-[Fountain Elf] ``...I see. That's your typical answer.''
+[Fountain Elf] "...I see. That's a typical answer from you."
 
 ;FACE K06F
 #face f_kon_0_06f 94 466
 
 #voice kond0022
-[Konomi] "Hmm? Is that so? What do you mean, it's like me? I don't know."
+[Konomi] "Hmm? Is that so? What do you mean by "like me"? I don't know."
 
 #voice izud0015
-[Fountain Elf] ``Then, let's ask the nameless elves. Do you want to live here? ”
+[Elves of the Spring] "So, let me ask you nameless elves: do you wish to live here?"
 
 ;FACE H03F1
 #face f_hin_0_03f1 94 466
 
 #voice hind0013
-[Hinata] "Ah...do you mean this place is in the same world as Human-san and the others?"
+[Hinata] "Ah... here, does that mean in the same world as humans?"
 
 #voice izud0016
-[Fountain Elf] ``That's right. If you wish to remain here, our realm will never again accept nameless elves.''
+[Elf of the Spring] "Yes. If you wish to stay here, our realm will never again accept you nameless elves."
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 #voice tukd0008
-[Tsukiyo] “You don’t accept it, do you?”
+[Tsukiyo] "You don't accept it?"
 
-Hinata and Tsukiyo both trembled.
+Hinata and Tsukiyo both shivered.
 
-"Wait a minute. Doesn't that sound kind of threatening?"
+"Wait a second. Doesn't that sound like a threat?"
 
-I blurted it out unconsciously, and Izumi glanced at me. His eyes were cold, like looking at a barking dog.
+I couldn't help but blurt it out, and Izumi shot me a quick glance, her eyes as cold as those of a barking dog.
 
 #voice izud0017
-[Fountain Elf] ``If you don't have a crest, it means you don't need us. There is no need for us to feed nameless elves.''
+[Elves of the Spring] "If they don't have a crest, it means they are unnecessary to us. There is no need for us to support nameless elves."
 
 Considering Ibara's behavior when they first met, humans, half-elves, and dark elves are probably insignificant to elves.
 
-In the tense atmosphere, Ibarra timidly raised his hand.
+In the tense atmosphere, Ibara timidly raised his hand.
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0016
-[Ibara] "Uh... I'm going back... But Hinata and Tsukiyo have become necessary to me, so I want to take them home..."
+[Ibara] "Uh... I'm going back... but Hinata and Tsukiyo have become necessary to me, so I want to bring them back..."
 
 #voice izud0018
-[Spring Elf] ``If the Thorn Elf wishes, we will accept the nameless elves. So let's go back. Come on''
+[Elves of the Spring] "If the Thorn Elves are willing, then we, the Nameless Elves, will accept them. Now, let's go back. Now."
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0017
-[Ibara] "Huh? But there's still time before the barrier closes...?"
+[Ibara] "Eh? But isn't there still time before the barrier closes...?"
 
 #voice izud0019
-[Spring Elf] ``The barrier is still closing little by little with the help of the moon. Regardless of you guys, how long will half-elves and dark elves be able to pass through?''
+[Elf of the Spring] "With the help of the moon's power, the barrier is still closing little by little. Regardless of you people, I wonder how long Half-Elfs and Dark Elves will be able to get through..."
 
 #voice izud0020
-[Fountain Elf] ``Besides, it wouldn't be a good thing to have any more connections with humans. Relationships with humans will eventually lead to disaster.''
+[Elf of the Spring] "Besides, it would not be good for us to form any more ties with humans. Any ties with humans will eventually bring about disaster."
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
 
 #voice ibad0018
-[Ibara] "I...I don't think that's the case...but..."
+[Ibara] "I... I don't think... that's the case... but..."
 
 #voice izud0021
-[Spring Elf] ``I could have found you because you were staying in this forest, but what if you were kidnapped by humans and left the forest far away...''
+[Spring Elf] "Since you stayed in this forest, we were able to find you, but what if you had been kidnapped by humans and left the forest far away..."
 
 ;FACE I08F
 #face f_iba_0_08f 94 466
 
 #voice ibad0019
-[Ibara] “…Ah”
+[Ibara] "...Ah."
 
-After hearing that much, Ibara seemed to finally realize that humans weren't just referring to me.
+After hearing that, it seemed Ibara finally realised that the word "human" didn't just refer to him.
 
 #voice izud0022
-[Fountain Elf] ``There's no guarantee that you won't be able to return before the full moon. That's what we're worried about.''
+[Spring Elf] "There's no guarantee that we won't be able to return before the full moon. That's what we're worried about."
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibad0020
-[Ibara] "Yes, yes. Understood, brother."
+[Ibara] "Y-Yes. I understand, brother."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Ibara looked back at me, but urged Hinata and Tsukiyo to follow me.
+Ibara looked back at me, but urged Hinata and Tsukiyo to follow him.
 
 ;CHR H02F1_A R
 #cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hind0014
-[Hinata] "Huh... Human, Mr...."
+[Hinata] "Haa... human... san..."
 
 ;CHR T02F L
 #cg ツキヨ tuk_1_02f 左
@@ -713,9 +713,9 @@ Ibara looked back at me, but urged Hinata and Tsukiyo to follow me.
 ;TKface
 
 #voice tukd0009
-[Tsukiyo] "Auuuuu..."
+[Tsukiyo] "Aaaaahhh..."
 
-Hinata and Tsukiyo looked at me with regret.
+Hinata and Tsukiyo looked at me reluctantly.
 
 ;CHR OFF
 #cg all clear
@@ -726,15 +726,15 @@ Hinata and Tsukiyo looked at me with regret.
 #wipe fade
 
 #voice kond0023
-[Konomi] "Well then, let's get started. Thank you, it was fun, Human-kun."
+[Konomi] "Well then, I'll slip into it too. Thanks, it was fun, human."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Konomi decided to leave rather easily and waved happily.
+Konomi decided to leave fairly quickly and waved happily.
 
-I was left behind and stood there alone forever.
+I was left behind and just stood there in a daze.
 
 ;暗転
 ;#face off
@@ -753,23 +753,23 @@ I was left behind and stood there alone forever.
 #bg BG07b_3
 #wipe fade
 
-When I returned to the cabin alone, it felt stupidly spacious.
+When I returned to the hut alone, it felt ridiculously spacious.
 
-The hut wasn't that big, but there were always four of us here.
+It wasn't a very big hut, but there were always four of us here.
 
-Then suddenly I was alone. Well, it also feels spacious...
+And then suddenly I was the only one there. So it does feel spacious...
 
-At first I was planning to live alone, so I just went back to my original plan.
+Originally I was planning to live alone, so I'm just going back to my original plan.
 
 But why do I feel so anxious and lonely?
 
-They barged in without permission and ruined my life, but when it was time to leave, they just left so easily.
+They came here without permission and ruined our lives, and then when it came time to leave they just left so easily.
 
-Isn't that too heartless...?
+Isn't that a bit too cold-hearted...?
 
 "Konomi..."
 
-That's when I remembered the first time Konomi came to visit this hut and muttered to myself.
+He muttered to himself as he remembered the first time Konomi visited this hut.
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
@@ -777,18 +777,18 @@ That's when I remembered the first time Konomi came to visit this hut and mutter
 #voice kond0024
 [Konomi] "Hmm? Did you call me? Human?"
 
-The door to the underground warehouse opens, and Konomi and Tsukiyo appear from inside.
+The door to the underground storehouse opened, and Konomi and Tsukiyo appeared from inside.
 
 ;ここからツキヨ　ポニテ＊
 
-“What…!?”
+"Wha...?!"
 
 ;CHR K09F1 R
 #cg コノミ kon_1_09f1 右
 #wipe fade
 
 #voice kond0025
-[Konomi] "Ahahahahahahaha, I'm surprised. Hey, it was fun hiding, wasn't it?"
+[Konomi] "Hahahaha, I'm surprised. See, it was fun hiding for me, right?"
 
 ;CHR T05F_P L
 #cg ツキヨ tuk_1_05f_p 左
@@ -797,16 +797,16 @@ The door to the underground warehouse opens, and Konomi and Tsukiyo appear from 
 ;TKface
 
 #voice tukd0010
-[Tsukiyo] "Are you surprised? I'm sorry."
+[Tsukiyo] "Were you surprised? I'm sorry."
 
-"W-why are you both here...!? Didn't you guys go back to the elf realm?"
+"Wh-why are you two here...?! Didn't you guys return to the elven realm?"
 
 ;CHR K04F R
 #cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice kond0026
-[Konomi] "Hmm, that's what I was planning to do. I don't know why, but I came here because it seemed more fun."
+[Konomi] "Hmm, that's what I was planning to do, but I wonder why, but I thought it would be more fun to come here, so I came."
 
 ;CHR T01F_P L
 #cg ツキヨ tuk_1_01f_p 左
@@ -815,19 +815,19 @@ The door to the underground warehouse opens, and Konomi and Tsukiyo appear from 
 ;TKface
 
 #voice tukd0011
-[Tsukiyo] "I got separated from Izumi on the way, so I came back and hid."
+[Tsukiyo] "I got separated from Izumi on the way, and when I came back I hid."
 
-"you……"
+"You guys..."
 
-I felt a little sympathy for Izumi.
+I felt a little bit of sympathy for Izumi.
 
-Leading such a carefree group of people is a tough job, and he does it well.
+Leading such a wayward bunch is a tough job, I'm amazed he can do it.
 
 But...I also have to say something to Konomi.
 
 ;選択肢発生
 #select a b
-A: It was nice to meet you again.
+A: It was good to see you again.
 B: Are you glad you didn't go?
 
 #label a

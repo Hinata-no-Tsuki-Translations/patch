@@ -1,0 +1,312 @@
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"I won't forget... There's no way I could forget about Konomi. Don't ask me to do that."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0377
+[Konomi] "I see. I don't think I'll be able to forget about you humans either."
+
+Konomi laughed somewhat sadly.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0378
+[Konomi] "It must be painful to want to see you but not be able to, right? But even so, will you still choose not to forget me, human?"
+
+"Of course. No matter how painful it is, there's nothing more sad than forgetting Konomi."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0379
+[Konomi] "I might forget about you, human. Is that okay?"
+
+"Of course. I'll miss you a little, but the days I spent with Konomi are irreplaceable to me."
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0380
+[Konomi] "Yeah. It was a very important time for me too. Even if I forget about it someday, I'm really glad I got to meet you, human."
+
+Is it just my imagination that Konomi looks like she has tears in her eyes, or is it just me wanting that to be the case?
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0381
+[Konomi] "The time I spent with Ningen-kun was so pleasant. Both the time we played together and the time just the two of us."
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0382
+[Konomi] "I'm so happy I got to have you all to myself in the end. I won't forget you either. Stay healthy. I won't feel good if you're in pain."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi's figure fades into the distance.
+
+Konomi returns to the elf village.
+
+"Goodbye, Konomi. Goodbye, everyone."
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"Now then."
+
+After seeing Konomi off, I took a sigh.
+
+I had no idea how Konomi, Ibara, or Izumi got back.
+
+That bothers me too, but I have work to do now.
+
+;暗転
+;#face off
+
+#bgvoice stop
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+
+[Villager 2] "What are you planning to do with all these people?"
+
+"I'll tell you about that later. Is this everyone who can come?"
+
+
+[Villager 3] "Yeah. I told everyone to come together, except for those who absolutely couldn't make it..."
+
+
+[Villager 4] "I hate the idea of having to gather here just because you told me to, but the survival of the village depends on it."
+
+I gathered the people from the village at my house, which was by no means large.
+
+
+[Villager 1] "If this isn't a big deal, I'll blow your mind! What happened to the story about being surrounded by an army of elves!?"
+
+
+[Villager 3] "Well, well, he came back and suddenly asked to gather people together. Maybe it's to talk about that?"
+
+"Yes, that's right. It's a very important matter."
+
+
+[Villager 5] "You're not saying that the elves are going to invade now, are you? You've got to be kidding me. We sent that elf back."
+
+
+[Villager 2] "Nothing has been discussed yet, so don't get too excited. Let's just hear what he has to say."
+
+"That's right. It would be helpful if you could calm down and listen to me."
+
+#voice okud0006
+[Miller's Wife] "Hey, aren't we starting yet? I have a shop to run and want to get back quickly."
+
+"Sorry, it'll be done soon."
+
+I brush off the villagers who have gathered, lock the door tight, and light some tokiwasure incense.
+
+#voice okud0007
+[Miller's Wife] "Oh, what's this? It smells nice..."
+
+When I lit the incense it gave off a very soft and gentle scent.
+
+"Actually, this was a gift from an elf..."
+
+...Oops, I'll have to try not to inhale as much as possible.
+
+
+[Villager 5] "What?! So this isn't poison?"
+
+"I don't think it's poisonous... but it seems to help you forget all the bad things."
+
+Then I told them stories of my fun days so that they could take their time and inhale the aroma.
+
+Of course, even though I was careful, I still ended up inhaling the incense, so I gradually started to forget about a lot of things.
+
+As smoke fills the house, memories spill out like water spilling through your fingers.
+
+--But still, there must be something left.
+
+Gradually, important memories begin to fade.
+
+The cute boys who were fond of me. And then...
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+
+[Villager 1] "Huh? What's going on? Why are so many of us gathered in a place like this...?"
+
+
+[Villager 2] "Umm, where am I?"
+
+
+[Villager 3] "I feel so refreshed..."
+
+#voice okud0008
+[Miller's Wife] "That's strange... why am I here?"
+
+
+[Villager 4] "...What on earth are you guys? No, who are you?"
+
+
+[Villager 5] "Who the hell am I?!"
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+It seems that the villagers were gathering at my house. Moreover, according to those who didn't come, I was the one who gathered the villagers.
+
+Even I had no idea why he did such a thing, or why everyone in the house I called my home, including me, had lost their memories.
+
+Mysterious mass amnesia.
+
+Based on the accounts of some of the villagers who were sick or didn't come to the house, it seems that it all started when some cocky people in the village captured an elf.
+
+The conclusion is that it was an elven curse, a punishment for doing something terrible.
+
+I was living in the forest, but people say I got caught up in it, and that I was the one who saved the village, and I don't understand what they're saying.
+
+Even though I was told that if I hadn't been there, this village would have been completely annihilated by the elves...
+
+Then it must be an orc or a troll, not an elf.
+
+At the very least, I've never heard of elves being that violent.
+
+Although, it's possible that you've completely forgotten that you've ever heard or read such a story.
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"...After all, the forest is more relaxing."
+
+I don't remember, but maybe because I lived in the forest for a while, it feels more right to be in the forest than in the village.
+
+Not only that, when I enter the forest I feel a strange emotion, like sadness or pain, but I just can't help being drawn to the forest.
+
+One reason is that I feel uneasy in the village because people there resent me, thinking that I must be the cause of their memory loss, or because I'm strangely seen as a hero.
+
+If it's true that you've been living in the woods for a while, maybe it would be nice to go back there again.
+
+As I was staring blankly at the sky with nothing to do, someone's face flashed through my memory.
+
+"...Ah, see you again."
+
+Delicate shoulders, soft cheeks... hands clinging to me.
+
+But no matter what I do, I can't remember any more than that. Faces, names, anything.
+
+One would think that he may have had a wife or a girlfriend, but there is no record of such in the village office, and there is no one in the village who fits that description.
+
+But I definitely feel like I was with someone.
+
+And yet, I just can't remember that person and it's painful.
+
+Where we met, why we broke up...I can't remember anything, but the memory of his face is stuck in my throat like a fishbone.
+
+And whenever that image flashes across my mind, a pain runs through my chest, as if half of my body has been torn apart.
+
+Why don't I remember that one?
+
+Although, the only thing that remains in my heart is the feeling that I loved him.
+
+Holding only the memory of her beloved face, I continued to tear at my heart alone.
+
+;コノミENDフラグON
+#set t3 1
+#set s3 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;タイトルへ
+
+;※エンド表示
+;BG:BG70_1
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg70_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

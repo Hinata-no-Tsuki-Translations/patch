@@ -1,0 +1,87 @@
+
+...But no matter what I forget, if it saves Konomi, then that's fine.
+
+Whatever she forgets, it's much better than having Konomi suffer like this forever.
+
+If so, there's no need to hesitate.
+
+I'll gratefully go and pick some forget-me-not flowers as instructed and make a tea.
+
+"Thanks for letting me know, Ibarra."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0058
+[Ibara] "Why would a human say thank you when it's for Konomi?"
+
+Ibara asks with a puzzled look on her face.
+
+"Because I want to help Konomi too."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0059
+[Ibara] "Hmmph. That's a good attitude for a human."
+
+"Well, I'll go and get it right away, so could you keep an eye on Konomi?"
+
+#voice ibad0060
+[Ibara] "Okay."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I gently released Konomi's fingers from my grip and stood up.
+
+It pains me to see that he looks anxious even while breathing heavily.
+
+"Wait a minute. I'll come back right away with some forget-me-not flowers."
+
+;FACE I07F
+#face f_iba_0_07f 94 466
+
+#voice ibad0061
+[Ibara] "It'll be fine, Konomi. Humans aren't going to run away."
+
+When Ibara called out to her, Konomi's face softened just a little.
+
+Are you really that worried?
+
+I've got to get it quickly and stay close to him.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0062
+[Thorns] "Don't inhale any pollen when you pick them."
+
+Ibara repeated the message to make sure he was thorough.
+
+"I get it. It'd be a problem if I were the one to forget about you guys first."
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0063
+[Ibara] "...That's right."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Since Ibara told me about it, it must work.
+
+I desperately opened the door to the hut.
+
+;コノミ好感度+1
+#set f3 f3+1
+
+;dk02_2へ
+#next dk02_2

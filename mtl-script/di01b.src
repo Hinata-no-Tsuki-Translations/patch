@@ -5,9 +5,9 @@
 #bg BG07b_3
 #wipe fade
 
-Ibara probably plans to stay outside for a while, right?
+Ibarra is probably going to be out there for a while, right?
 
-Well then…….
+Well then...
 
 ;背景：山小屋前（夜）
 ;BG:BG08b_3
@@ -15,27 +15,27 @@ Well then…….
 #bg BG08b_3
 #wipe fade
 
-"Please wait."
+"Sorry to keep you waiting."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0102
-[Ibara] "...What did you bring, human?"
+[Ibara] "...What have you brought here, human?"
 
-"A blanket. It's cold when you're outside at night."
+"A blanket. It's cold outside at night."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0103
-[Ibara] "I'm not going to sleep yet. I don't think I'll be out that far, right?"
+[Ibara] "I'm not going to sleep yet. You don't want to be out there doing that much, do you?"
 
-...I brought it with the intention of asking Ibara to use it, but Ibara doesn't seem to have any intention of doing so.
+...I brought it with the hope that Ibara would use it, but it seems he has no interest at all.
 
-Well, okay.
+Well, that's fine.
 
-If you force him to use it, he'll probably only get stubborn again, so let's call out to him again when the time is right. I'll wrap myself up and keep warm until then.
+If I force him to use it, he'll just get stubborn again, so I'll wait until the right time and call out to him again. Until then, I'll wrap myself up and keep him warm.
 
 ;ＥＶ絵――EV???『一人星を見上げるイバラ』
 ;EVCG EV044A1
@@ -46,52 +46,52 @@ If you force him to use it, he'll probably only get stubborn again, so let's cal
 #cg イベント ev044a1 背景
 #wipe fade
 
-The two of us looked up at the sky, where the stars were twinkling so loud it was almost noisy.
+When we look up at the sky together, the stars are twinkling loudly.
 
 #voice ibac0104
-[Ibara] "...It's too quiet, I can't calm down."
+[Ibara] "...It's too quiet, I can't relax."
 
-"Then maybe we should talk about something?"
+"So, should we talk about something?"
 
 #voice ibac0105
-[Ibara] “What on earth are you talking about?”
+[Ibarra] "What on earth are you talking about?"
 
-"Something about stars. For example, stars aren't holes in the sky, but things that shine very far away."
+"Maybe something about stars. Like, like, stars aren't holes in the sky, they're bright things that are really far away."
 
 #voice ibac0106
-[Ibara] "Is that so? If so, I wish I could bring it. I'm sure it would suit me very well."
+[Ibara] "Really? If so, I wish I could get it for you. I'm sure it would look great on me."
 
-"Hahaha. It's so far away and it's that big, so if you get it, it might be really big."
+"Hahaha. It's so far away and so big, so it might be really big when you get it."
 
 #voice ibac0107
-[Ibara] "Ah, I see. Then you can just make it smaller. But I wonder how they're holding it in place since it's in the air."
+[Ibara] "Oh, I see. Then we can just break it down into smaller pieces. But I wonder how it's attached to the sky."
 
-"Well...I haven't studied that far yet, so I don't really understand."
+"Well... I haven't studied that far yet, so I'm not sure."
 
 #voice ibac0108
-[Ibara] “If you study, will you understand?”
+[Ibara] "If I study, will I understand?"
 
-``Even if we don't understand it now, it may take ten years, a hundred years, or even longer, but it will probably be solved in the future.There will probably be people who are researching it.''
+"Even if we don't understand it now, in ten years, a hundred years, or maybe even longer, I think it will be explained in the distant future. There will probably be people researching it."
 
 #voice ibac0109
-[Ibara] “What’s the use of that?”
+[Ibara] "What good is that?"
 
-"I don't know what it is right now, but it might be useful for something. I'm sure in time I'll be able to more accurately predict the weather for a while."
+"I don't know right now, but it might be useful for something. I'm sure that in time, we'll be able to predict the weather more accurately."
 
 #voice ibac0110
 [Ibara] "Hmm, I wonder if I'll really be able to do something like that..."
 
-"In fact, it might even be a fire that never goes out, brightening the whole day. If that happens, even the beasts won't be afraid."
+"In fact, maybe it will be a fire that never goes out, and it will be bright all day long. Then we won't be afraid of animals."
 
 #voice ibac0111
-[Ibara] "...It would be amazing if that happened, but it's kind of scary. Kushyun."
+[Ibara] "...That would be amazing, but it's kind of scary. *sniff*"
 
-"Hey, you're sneezing again. It's cold, isn't it? You're going to catch a cold."
+"Look, you're sneezing again. You're cold, aren't you? You're going to catch a cold."
 
 #voice ibac0112
 [Ibara] "It's not that cold..."
 
-"I'm cold. Could you please come over here?"
+"I'm cold. Can you come over here?"
 
 ;背景：山小屋前（夜）
 ;BG:BG08b_3
@@ -99,85 +99,85 @@ The two of us looked up at the sky, where the stars were twinkling so loud it wa
 #bg BG08b_3
 #wipe fade
 
-When I spread out the blanket and invited Ibara to come, Ibara looked back at me, looking a little confused.
+When I spread out the blanket and invited Ibara to join me, he looked back at me with a slightly confused look on his face.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0113
-[Ibara] “Is it cold in Humans?”
+[Ibara] "Is it cold, humans?"
 
-"Yeah. It's cold and lonely when I'm alone."
+"Yeah. It's cold and lonely if I'm alone."
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0114
-[Ibara] "Then I can't help it. I'm kind, so I'll stay with you."
+[Ibara] "Well, I guess there's no other way. I'm a kind person, so I'll stay with you."
 
 "thank you"
 
-While pouting his lips, Ibara happily jumped into my chest.
+With a pout on his lips, but looking very happy, Ibara jumped into my arms.
 
-Ibara's body had become completely cold, so I wrapped him in a blanket and held him.
+He wraps Ibara's body, which has gone completely cold, in a blanket and holds him in his arms.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0115
-[Ibara] “Oh, it’s so warm.”
+[Ibara] "Oh, it's warm."
 
-"Right? ... Being alone is lonely, isn't it?"
+"Right? ...It's lonely being alone."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0116
-[Ibara] "...Yeah. I wonder if Hinata and Tsukiyo have always felt this way too."
+[Ibara] "...Yeah. I wonder if Hinata and Tsukiyo have always felt the same way."
 
-"Well, I don't know. At least we had fun when we were together, and I think Ibara was happy that he called us friends."
+"Well, I don't know. At least we had fun when we were together, and I guess I was happy that Ibara called us friends."
 
 ;CHR I10F2 C
 #cg イバラ iba_1_10f2 中
 #wipe fade
 #voice ibac0117
-[Ibara] "I...I've been saying nasty things to Hinata and Tsukiyo."
+[Ibara] "I... I've always said mean things to Hinata and Tsukiyo."
 
 "But we're friends, right?"
 
 #voice ibac0118
-[Ibara] “…Yeah.”
+[Ibara] "...Yeah."
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
-I didn't feel lonely because I wasn't alone, but the time we had together was much quieter than before.
+I wasn't lonely because I wasn't alone, but our time together was a lot quieter than before.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0119
-[Ibara] "That's strange. Normally we would act like this, but then Hinata started making a fuss, saying he was definitely sneaky, and Tsukiyo was jealous, and then..."
+[Ibara] "That's strange. If we had acted like this normally, Hinata would have started making a fuss, saying it was definitely not fair, and Tsukiyo would have gotten jealous, and then..."
 
-"While Ibara and Hinata are making a fuss, Konomi is taking control."
+"While Ibara and Hinata were making a fuss, Konomi had taken up residence there."
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 #voice ibac0120
-[Ibara] "I'm kind of noisy...Aha, but I'm sure I was."
+[Ibara] "I wasn't making any noise... haha, but I guess that's what happened."
 
-As if that scene came to mind, Ibara laughed happily, then pouted his lips.
+As if recalling that scene, Ibara laughed happily and then pouted his lips.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0121
-[Ibara] “Those guys are really idiots for wanting to go back to that place after all the trouble I’ve gotten along with them.”
+[Ibara] "I had been trying so hard to be friendly with them, and now they want to go back to that place. They're really stupid."
 
 "Yeah, that's right."
 
-And then, Ibara and I looked up at the starry sky for a while.
+And so, for a while, Ibara and I looked up at the starry sky.
 
 ;イバラ好感度+1
 #set f2 f2+1

@@ -5,17 +5,17 @@
 ;背景：山小屋前（夜）
 ;変更なし
 
-I hold my breath, hold my breath, and wait for the orcs to pass by.
+Holding my breath and trying not to let my guard down, I wait for the orcs to pass by.
 
 Eventually, the orcs ventured deeper into the forest.
 
-"...Phew, did you leave without noticing me?"
+"...Fuu, I guess you left without me noticing."
 
-Breathing a sigh of relief, I suddenly became curious.
+Letting out a sigh of relief, I suddenly became curious.
 
 Where are the orcs going?
 
-I quietly followed them.
+I quietly followed behind them.
 
 ;背景：森（夜）
 ;BG BG04_3
@@ -23,47 +23,47 @@ I quietly followed them.
 #bg BG04_3
 #wipe fade
 
-The orcs move deeper and deeper into the forest.
+The orcs continue to advance deeper into the forest.
 
-This direction is the direction of a country with a reputation for being extremely belligerent.
+This is the direction of a country with a reputation for being extremely warlike.
 
-If you try to go straight through the forest, you'll be passing through the Forbidden Forest, which is rumored to contain monsters, so no one has ever confirmed that...
+If you wanted to go straight through the forest, you'd end up passing through the Forbidden Forest, which is rumored to be haunted by monsters, but no one has ever actually verified this...
 
-When people go to a neighboring country, they usually take a detour and take the highway.
+Humans usually take a detour and travel along the highway when traveling to neighboring countries.
 
-I see. If orcs appear in the dark forest, is the legend that monsters appear true?
+I see. If orcs are appearing, then the legend that monsters appear in dark forests is true.
 
-I don't care about other small items, but if I come across an orc, I won't be able to find a single one.
+Other small items are not important, but if I come across an orc, I'm in big trouble.
 
-That's why humans started avoiding forests.
+So humans started to avoid forests.
 
-The village wouldn't be attacked in this direction, and since they didn't pay attention to the hut, it was probably okay.
+The village wouldn't be attacked in this direction, and since he didn't even notice the hut, it was probably fine.
 
-Moreover, if the orcs continued in this direction, they would end up in a warlike country.
+Besides, if the orcs continued to advance in this direction, they would likely end up joining a warlike nation.
 
-It would probably cause far less damage than being attacked in a bad place.
+The damage would be much less than if they were attacked in a weak spot.
 
-"For now, I guess it's enough just to see this far."
+"For now, I guess it's enough to see this far."
 
-If you go any further, you will enter the Forbidden Forest.
+If you go any further you'll enter the Forbidden Forest.
 
-Even if the orcs don't find me, I don't know what will happen.
+Even if the orcs don't find us, there's no telling what might happen.
 
-When I turned around to leave, I saw a familiar face.
+When I turned around to go home, I saw a familiar face.
 
 ;CHR H04F2_A C
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0610
-[Hinata] “Funya?”
+[Hinata] "Funya?"
 
-"Huh!?"
+"Huh?!"
 
 #voice hinb0611
-[Hinata] "Ningen-san, what are you doing here?"
+[Hinata] "Human, what are you doing all the way out here?"
 
-"S-shh!"
+"Shh, shhh!"
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
@@ -79,119 +79,119 @@ When I turned around to leave, I saw a familiar face.
 #wipe fade
 
 #voice hinb0613
-[Hinata] “Because Human-san is going somewhere!”
+[Hinata] "Because humans will run away!"
 
-"So, shush! Be quiet! The orcs will see you, right?"
+"I told you, shhh! Be quiet! The orcs will find us!"
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0614
-[Hinata] "Ok? Oh, that's it!"
+[Hinata] "Oak? Ah, that's right!"
 
-"Don't forget something important like that."
+"Don't forget such an important thing."
 
 #voice hinb0615
-[Hinata] “It can’t be helped that I forgot!”
+[Hinata] "Well, it can't be helped if I forgot!"
 
-While arguing under my breath, I noticed that the orcs had stopped their advance.
+As they were arguing in whispers, they noticed the orcs halting their advance.
 
-"Wow"
+"Wow."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
 #voice hinb0616
-[Hinata] "Mmm!? Mugu! Mugu!"
+[Hinata] "Mmgh!? Mgh! Mgh!"
 
-When he hurriedly covered Hinata's mouth, Hinata became violent and tried to protest.
+He quickly covers Hinata's mouth, and she starts to struggle and try to protest.
 
-"Okay, just be really quiet, the orcs might notice."
+"Just be really quiet, the orcs might notice."
 
 #voice hinb0617
-[Hinata] “Gum!?”
+[Hinata] "Ghh?!"
 
 
-[Orc 1] “Hmm, what happened?”
+[Oak 1] "Hmm, what's wrong?"
 
 
-[Orc 2] "No, I thought I heard some sort of commotion, so I thought maybe there were humans."
+[Oak 2] "Well, I thought I heard some kind of commotion, so I thought maybe there were humans around."
 
 
-[Orc 3] "Isn't it just my imagination? If there are humans, this is the way to go."
+[Oak 3] "Maybe you're just imagining things? If there are humans there, they're up ahead."
 
 
-[Oak 2] “But...fugo fugo.”
+[Oak 2] "But... hehe hehe"
 
-An orc returns and snorts.
+One of the orcs returned, snorting.
 
 Do orcs have good noses?
 
-Is it okay? Can't you find it by smell?
+Are you okay? Can't you find it by smell?
 
-Maybe you can find it by the sound of your heart beating?
+Maybe you'll find it by the sound of your heart beating?
 
-Because of the tension, my heartbeat became faster and louder.
-
-
-[Oak 1] “Hey, let’s go.”
+The tension makes my heart beat faster and faster.
 
 
-[Oak 2] “…Hmph.”
+[Oak 1] "Hey, let's go."
 
-The orc came so close that I could almost stroke his nose, but when he was called by another orc, he snorted and went back.
+
+[Orc 2] "...Hmph."
+
+The orc came close enough to stroke his nose, but when another orc called him, he snorted and went back.
 
 ;MCK
 #bgm 0 stop 2000
 
-"...phew"
+"... Phew."
 
 ;CHR H04F2_A C
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0618
-[Hinata] "Are you there? Are you gone?"
+[Hinata] "Did it happen? Did it happen?"
 
-"Oh, it seems like that."
+"Yeah, it looks like it."
 
-It seems like the orcs that came near us are complaining because they left the group on their own.
+The orc that came near us seemed to be complaining because we had left the herd on our own.
 
-“Let’s run away now.”
+"Let's get away now."
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0619
-[Hinata] "N-no!"
+[Hinata] "Hm, let's run!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-There's no guarantee that I won't come back on a whim.
+There's no telling why he might come back on a whim.
 
-I hugged Hinata sideways and slowly backed away, creating some distance between her and then running at full speed.
+I picked up Hinata and slowly backed away, putting some distance between us before taking off running.
 
 ;MCK（下記2つFACEに変更）
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0620
-[Hinata] "Wow! Hurry, hurry, it's fun!"
+[Hinata] "Wow! So fast, so fun!"
 
-"Hey, be quiet! It doesn't mean they aren't there yet."
+"Hey, be quiet! There's no guarantee they're still there."
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 #voice hinb0621
-[Hinata] “But it’s fun, right?”
+[Hinata] "But it's fun, right?"
 
-"Geez……"
+"Geez..."
 
 ;CHR OFF
 #cg all clear
@@ -204,25 +204,25 @@ I hugged Hinata sideways and slowly backed away, creating some distance between 
 #bg BG08b_3
 #wipe fade
 
-When I got back to the hut, I finally took a breather.
+When I got back to the hut, I finally got a breather.
 
-"If you come back here, you'll be fine."
+"It'll be fine if you get back here."
 
 ;CHR H08F1_A C
 #cg ヒナタ hin_1_08f1_a 中
 #wipe fade
 
 #voice hinb0622
-[Hinata] "It's okay, it's okay!"
+[Hinata] "That's right, it's fine!"
 
-"I get really anxious when Hinata gives me the stamp of approval."
+"I feel a bit uneasy when Hinata gives me her stamp of approval."
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0623
-[Hinata] "I'm home!"
+[Hinata] "I'm back!"
 
 ;CHR OFF
 #cg all clear
@@ -259,7 +259,7 @@ When I got back to the hut, I finally took a breather.
 ;TKface
 
 #voice tikb0664
-[Tsukiyo] "I'm back...I'm glad."
+[Tsukiyo] "I'm back... I'm back. I'm glad."
 
 ;CHR OFF
 #cg all clear
@@ -270,22 +270,22 @@ When I got back to the hut, I finally took a breather.
 #wipe fade
 
 #voice ibab0749
-[Ibara] "I-I wasn't worried. It's true."
+[Ibara] "I wasn't worried at all. Seriously."
 
-"T-that saved me..."
+"Thank goodness..."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-It wasn't until I entered the hut that I finally broke down.
+Once inside the hut, I finally broke down.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0604
-[Konomi] “Did you see the orc?”
+[Konomi] "Did you see the orc?"
 
 ;CHR OFF
 #cg all clear
@@ -296,9 +296,9 @@ It wasn't until I entered the hut that I finally broke down.
 #wipe fade
 
 #voice hinb0624
-[Hinata] "I saw you! You were making such a fuss, you were going fugo fugo."
+[Hinata] "I saw it! His face was like this, and he was snoring."
 
-Hinata said, making a strange face by crushing her nose and pulling her cheeks.
+Hinata said, squashing her nose and pulling in her cheeks, making a funny face.
 
 ;CHR OFF
 #cg all clear
@@ -309,7 +309,7 @@ Hinata said, making a strange face by crushing her nose and pulling her cheeks.
 #wipe fade
 
 #voice ibab0750
-[Ibara] "I should have gone. If I had been here, I would have defeated him!"
+[Ibara] "I should have gone. If I had been there, I would have beaten him!"
 
 ;CHR OFF
 #cg all clear
@@ -322,33 +322,33 @@ Hinata said, making a strange face by crushing her nose and pulling her cheeks.
 ;TKface
 
 #voice tikb0665
-[Tsukiyo] "Oak, I'm glad you didn't come to the hut."
+[Tsukiyo] "Oak, I'm glad you didn't come all the way to the hut."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Ibara and Tsukiyo are shaking, even though Hinata's weird face isn't scary in the slightest.
+Hinata's funny face wasn't the least bit scary, but Ibara and Tsukiyo were trembling.
 
-"...Buh. Ahahahahahaha."
+"... Buh. Ahahahahahaha."
 
-Perhaps because the thread of tension was gone, Hinata's weird face was so funny that I couldn't help but notice it.
+Maybe it was because the tension had been released, but Hinata's funny face was so funny I couldn't help but find it amusing.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0625
-[Hinata] "Ningen-san, is something interesting?"
+[Hinata] "Human, is there something interesting?"
 
-"Stop looking at me with that face."
+"Stop it, don't look at me with that face."
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0626
-[Hinata] “Honya?”
+[Hinata] "Huh?"
 
 ;CHR OFF
 #cg all clear
@@ -359,7 +359,7 @@ Perhaps because the thread of tension was gone, Hinata's weird face was so funny
 #wipe fade
 
 #voice ibab0751
-[Ibara] "How big is it!? How big is it?"
+[Ibara] "What about the size? How big is it?"
 
 ;CHR OFF
 #cg all clear
@@ -370,9 +370,9 @@ Perhaps because the thread of tension was gone, Hinata's weird face was so funny
 #wipe fade
 
 #voice hinb0627
-[Hinata] “It was like this, hmm, maybe it was more like this!”
+[Hinata] "It was probably something like this, no, maybe it was even more like this!"
 
-Hinata is jumping up and down, but it seems like it's hard to convey.
+Hinata was hopping around but it was hard to convey what she was doing.
 
 ;CHR OFF
 #cg all clear
@@ -383,9 +383,9 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 #wipe fade
 
 #voice konb0605
-[Konomi] “What else? Is there anything else, Human-kun?”
+[Konomi] "Anything else? Human, do you have anything else?"
 
-"Hmm? Something? Yeah, I think it smelled fishy."
+"Hmm? What was it? Well, maybe it smelled fishy."
 
 ;CHR OFF
 #cg all clear
@@ -396,7 +396,7 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 #wipe fade
 
 #voice ibab0752
-[Ibara] “What kind of fishy smell does it smell like?”
+[Ibara] "What does fishy smell like?"
 
 ;CHR OFF
 #cg all clear
@@ -409,18 +409,18 @@ Hinata is jumping up and down, but it seems like it's hard to convey.
 ;TKface
 
 #voice tikb0666
-[Tsukiyo] “Come to think of it, it stinks.”
+[Tsukiyo] "Now that you mention it, it smells."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Oh yeah, just like this..."
+"That's right, just like this..."
 
 ;SE se013 扉のバタン音
 #se 1 se013
 
-Suddenly, a strong, fishy wind came in.
+Suddenly, a strong, fishy wind blew in.
 
 "Hinata! Ibara! Konomi! Tsukiyo!"
 
@@ -435,15 +435,15 @@ Suddenly, a strong, fishy wind came in.
 ;SE se016 
 #se 1 se016
 
-Gakon!
+Bang!
 
-The door was smashed down with a loud bang.
+The door was smashed open with a loud noise.
 
-“What!?”
+"Huh!?"
 
-[Oak 1] “Gufefefefefefe, only good things.”
+[Orc 1] "Gufefefefefe, I've got something good to show you."
 
-With a bang, the orc appeared and was struck by something like a club, and sparks flew in front of me.
+An orc appeared and swung something like a club at me, sending sparks flying in front of my eyes.
 
 ;MCK
 ;SE se015  足音ドスン
@@ -472,29 +472,29 @@ With a bang, the orc appeared and was struck by something like a club, and spark
 ;立ち絵なし
 
 #voice ibab0753
-[Ibara] "Ningen, wake up! Ningen!"
+[Ibara] "Humans, wake up! Humans!"
 
 #voice hinb0628
-[Hinata] “Ningen-san!”
+[Hinata] "Human!"
 
 #voice konb0606
-[Konomi] “Ningen-kun!”
+[Konomi] "Human-kun!"
 
 #voice tikb0667
-[Tsukiyo] “Please help me!”
+[Tsukiyo] "Please help me!"
 
 
-[Oak] "Gyahahahahaha, these guys are asking for help from humans even though they're elves, buhibuhii."
+[Orc] "Hahahaha, these elves are asking for help from humans, buhi buhi!"
 
-I grabbed my consciousness from the darkness at the familiar and unpleasant voice.
+A familiar, yet unpleasant voice pulled me back into consciousness from the darkness.
 
-……what? what's happening?
+...What? What's going on?
 
-My head hurts, throbbing, throbbing.
+My head hurts, throbbing.
 
-Was I beaten...?
+Was I hit?
 
-When I opened my eyes, what met my eyes was an unbelievable sight.
+When I opened it, I saw an unbelievable sight.
 
 ;BGMch1 bgm010 再生
 #bgm 0 10
@@ -509,10 +509,10 @@ When I opened my eyes, what met my eyes was an unbelievable sight.
 #wipe fade
 
 #voice hinb0629
-[Hinata] "Oh no! Speak! Speak!"
+[Hinata] "Nooo! Let me go! Let me go!"
 
 #voice ibab0754
-[Ibara] "Stop it! I don't like it, it's dirty!!"
+[Ibara] "Stop it! No way, it's dirty!!"
 
 "Hinata, Ibara!"
 
@@ -523,10 +523,10 @@ When I opened my eyes, what met my eyes was an unbelievable sight.
 #wipe fade
 
 #voice konb0607
-[Konomi] “It hurts! Stop it!”
+[Konomi] "It hurts! Stop it!"
 
 #voice tikb0668
-[Tsukiyo] “Ah, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa”
+[Tsukiyo] "Ah, ahhhhh... h-help me..."
 
 "Konomi! Tsukiyo!"
 
@@ -536,18 +536,18 @@ When I opened my eyes, what met my eyes was an unbelievable sight.
 #bg BG04_3
 #wipe fade
 
-Hinata and her friends are being attacked by orcs.
+Hinata and the others are being attacked by orcs.
 
-“Y-are you okay!?”
+"A-Are you okay?!"
 
-When he tried to move to help Hinata and the others, he realized that he couldn't move.
+When he tried to move to help Hinata and the others, he realized he couldn't move.
 
 
-[Oak] "Gyahyahyahyyah, are you okay?"
+[Oak] "Gyaahyaahyaah, are you okay? I was just saying‾"
 
-Some orcs are sitting on top of me, grinning.
+Several orcs were leaning over me, grinning.
 
-"Dammit!"
+"Damn it!"
 
 ;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
@@ -556,35 +556,35 @@ Some orcs are sitting on top of me, grinning.
 #wipe fade
 
 
-[Oak] "Guhihihihihi, I wonder why an elf kid would hate being in a place like this."
+[Orc] "Guh-huh-huh, I wonder why a brat elf likes being in a place like this."
 
 #voice ibab0755
-[Ibara] "Oh no! It stinks! It's dirty! Let's talk!"
+[Ibara] "Nooooooo! It stinks! It's dirty! Let me go!!!"
 
 
-[Oak] "Wow, that's a good thing. It's more rewarding to have an orgasm this much."
+[Orc] "Oh my, that's lively. It's more rewarding when someone is this lively."
 
 #voice hinb0630
-[Hinata] "It's impossible, I don't want something that big!"
+[Hinata] "It's impossible, something that big won't fit in there!"
 
 
-[Oak] "Oh, you already know what's going to happen to you. If you don't come in, I'll cut open your cute asshole and let you come in even if you don't want to."
+[Orc] "Oh, so you know exactly what you're going to do to me? If you don't want to get in, I'll cut open this cute asshole so you can get in even if you don't want to."
 
 #voice hinb0631
-[Hinata] "No! I want to do it!"
+[Hinata] "Nooooo! It hurts!"
 
-The orc's callous, ugly, caterpillar-like fingers crawl over Ibara and Hinata's white skin.
+The Orc's rough, ugly, caterpillar-like fingers crawled around, trampling over the thorns and Hinata's pale skin.
 
 #voice ibab0756
-[Ibara] "No!? Don't touch me with your dirty hands!? Don't bring your face close to me, I'm breathing hard!"
+[Ibara] "Nooooo! Don't touch me with those dirty hands! Don't get your face close, your breath stinks!"
 
 
-[Oak] "Isn't it enough just to touch it? Muhihihihi... Nbuchutto... Uhihihi, such a high-class elf is so sweet that he even drools."
+[Orc] "Isn't just touching it enough? Muhihihihi... mmmchutto... uhihihi, even the drool of such a fine Elf is sweet and delicious."
 
 #voice ibab0757
-[Ibara] "Wow... it's disgusting... he licked the inside of my mouth with his stinky mouth... wow... wow..."
+[Ibara] "Ugh... how disgusting... he licked the inside of my mouth with his smelly mouth... ugh... ugh..."
 
-The thorns that were kissed by the orcs were unable to bear the smell and let out sounds similar to sobbing over and over again.
+The thorn that was kissed by the orc could not bear the smell and repeatedly let out sounds similar to sobbing.
 
 ;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
@@ -593,77 +593,77 @@ The thorns that were kissed by the orcs were unable to bear the smell and let ou
 #wipe fade
 
 
-[Oak] "Your skin is so smooth and sticky. It feels good just rubbing it against you..."
+[Orc] "Your skin is so smooth and silky. It feels so good just rubbing it against you..."
 
 #voice tikb0669
-[Tsukiyo] "Oh no...it's so disgusting, don't rub it on me...it's all sticky, it's going to stick."
+[Tsukiyo] "Ah, no... it's so disgusting, I don't want you to rub it on me... it's so slimy, it'll stick to me."
 
-"No, stop... don't touch those kids..."
-
-
-[Oak] "Gyahyahihya...don't touch me, that's right. Gyagyagyagyagya, how kind of you to worry about an elf even though you're a human."
+"S-stop...don't touch those kids..."
 
 
-[Oak] "Hey, we didn't have to kill humans either, right? Thanks to you, these kids are crying so much that it's not fun."
+[Orc] "Ah, ha, ha, ha... Don't touch me, I told you. Aaa, ha, ha, ha, how kind of you to worry about an elf even though you're just a human."
 
 
-[Orc] "Not at all. What, these guys? Even though they're different races, it's not like they're good friends."
+[Orc] "Hey, I'm glad I didn't have to kill any humans, right? Thanks to that, these little brats are crying, and it's so much fun."
 
 
-[Oak] "I noticed the screams of the kids. Gyahahahahaha."
+[Orc] "Exactly. What's up with these guys? They're different species but they get along so well."
+
+
+[Oak] "I'm surprised you noticed the kids screaming. Gahahahaha."
 
 #voice konb0608
-[Konomi] "Uaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah hurting so much hurts!"
+[Konomi] "Aaaahhh, it hurts, stop grabbing my butt so tightly"
 
 
-[Oak] "It's a shame that they don't have boobs because they're male brats, but having four of them is enough for a woman."
+[Orc] "It's a shame he's a brat so he doesn't have any boobs, but with four of them, he's more than enough to be a substitute for a woman."
 
 
-[Oak] "That's no different. Well, make sure to put Orc-sama's stuff in your asshole!"
+[Orc] "No way. Now, make sure you take that Orc's thing firmly into your ass!"
 
-A poisonous hard erect penis penetrates Konomi.
+The poisonously hard, erect penis penetrates Konomi.
 
 #voice konb0609
-[Konomi] "Aaaah! It's going to tear! It's going to tear!"
+[Konomi] "Ahhh! It's going to tear! It's going to tear!"
 
 
-[Oak] "It's okay, it won't tear. Don't worry, you can still use it even if it tears."
+[Oak] "Don't worry, it won't tear. Even if it does tear, you can still use it, so don't worry."
 
 
-[Oak] "Geefefefephee, please hurry. We still have a long way to go."
+[Orc] "Guh, heh, hurry up. I still have a lot to do."
 
 
-[Oak] "What? Why don't we just use that guy's ass and mouth?"
+[Orc] "What? Why not just use his ass or mouth?"
 
-One of the guys on top of me jeered, and the orc that was piercing Konomi answered.
-
-
-[Oak] "Hey, give me a break. Even though I have an elf brat, I can't bring myself to stick his meat in the ass of a man who smells so hard."
+One of the guys on top of me let out a jeer, and the orc piercing Konomi replied.
 
 
-[Oak] "Then, do we have to have an elf? Gyahahahahahahaha"
+[Orc] "Oh come on, give me a break. I've got a brat elf here, and I'm not feeling like sticking that tough, smelly meat up a man's ass."
 
 
-[Oak] "Gyahahahahahahaha"
+[Orc] "So, we can't do it without the elves? Gahahahahahaha."
 
-The orcs laugh vulgarly at the unfunny joke.
+
+[Oak] "Gahahahahahaha"
+
+The orcs laughed vulgarly at the unfunny joke.
 
 #voice tikb0670
-[Tsukiyo] "Ah! There it was... Ugh... Damn... Grrrr... Uppu... Uuu..."
+[Tsukiyo] "Ahh! Ouch...ugh...it stinks...ugh...ugh...ugh...ugh...ugh..."
 
 
-[Oak] "Hey, you won't be able to ejaculate forever if you keep sucking, but let's get serious and suck it."
+[Oak] "Hey, hey, if you keep dragging your feet you'll never be able to cum, but put your all into sucking."
 
 
-[Oak] "Hey, shake your ass! I'm going to blow you away!"
+[Orc] "Now, shake your ass! I'll kill you!"
 
 #voice konb0610
-[Konomi] "Faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...l...don't be too violent‾"
+[Konomi] "Ahhh! Ah... Don't be rough with me."
 
 
-[Oak] "Are you in a position where you can beg? Well, I'll kill you either way, so I won't die anyway. Buhibuhihihihihi."
+[Orc] "Am I in any position to beg? Well, I'm going to kill you either way, so it doesn't change the fact that you're going to die. Buhi buhihihihihi."
 
-Konomi and Tsukiyo, who were impaled from both the front and back, were shaking their hips lewdly while crying.
+Konomi and Tsukiyo, who have been skewered from both the front and behind, are shedding tears as they sway their hips lasciviously.
 
 ;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
@@ -672,96 +672,96 @@ Konomi and Tsukiyo, who were impaled from both the front and back, were shaking 
 #wipe fade
 
 #voice ibab0758
-[Ibara] "Ah, ah! Oh no! I-I can't do that anymore! Forgive me!"
+[Ibara] "Ah, ah! No way! N-No more! Please forgive me!"
 
 #voice hinb0632
-[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
+[Hinata] "Ahh... haaaaaahh! Ahh... haaaaaahh!"
 
-Ibara and Hinata's slender bodies were also being overrun by the stagnant, sagging flesh of the orcs.
+Ibara and Hinata's slender bodies were also being overrun by the orcs' sluggish, flabby flesh.
 
 #voice ibab0759
-[Ibara] "Ah! Haaaaaah! It's dirty! It stinks! I don't want it! Even though I don't want it, it's good!"
+[Ibara] "Ahh! Ahh! It's dirty! It stinks! I don't like it! I don't like it, I don't like it!"
 
-A cloudy liquid was dripping from the gap between the orc's ugly cock and the thorn's anus, staining his white thighs.
+It seemed something had already been ejaculated inside her, as a milky liquid was dripping from the gap between the orc's ugly penis and Ibara's anal opening, staining her white thighs.
 
-The orcs that were raping everyone may have also been replaced, but to my eyes, I couldn't tell any of the orcs apart.
+The orcs that were raping everyone might have been replaced, but to my eyes I couldn't tell them apart.
 
 #voice hinb0633
-[Hinata] "Aaaan! Aaaaan! It's so big! It's going to crush me in your stomach!"
+[Hinata] "Aah! Aah! It's so big! My stomach is getting crushed!"
 
-Perhaps to support his body, he clings to the oak, but it seems as if he is clinging to the oak for support.
+He clings to the orc to support himself, almost as if he is clinging to the orc in search of it.
 
 #voice ibab0760
-[Ibara] "Haha... inside my stomach... it's so big that it's filling me up, and a lot of semen is coming out... ah... haaaaaaah... I ejaculated again..."
+[Ibara] "Haa... my stomach... it's so big it fills it up, and a lot of semen is coming out... ahhh... haa... I ejaculated again..."
 
-As soon as one orc ejaculates, they switch positions and the next orc overruns the holes held by the smaller elves.
+As soon as one orc ejaculates, they quickly switch positions and the next orc ravages the holes of the little elves.
 
-It may have been an instinctive move, but it was almost comical to see how well-trained an army could move in such a controlled manner.
+It was probably the result of instinct, but their movements were so coordinated, like those of a well-trained army in battle, that it was almost comical.
 
 #voice hinb0634
-[Hinata] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+[Hinata] "Ahh... Ahh... Don't rub my penis... It feels so good..."
 
 #voice ibab0761
-[Ibara] "Don't mess around there...I'm going crazy...Ah!"
+[Ibara] "Don't touch that...it'll drive me crazy...ahhh!"
 
 
-[Oak] "Looks like you're getting used to it. You guys can put out as much as you like. Guffefefefe."
+[Orc] "It looks like you've gotten used to it. You guys can let out as much as you like. Gufefefefe."
 
 #voice ibab0762
-[Ibara] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!”
+[Ibara] "Ahh.... Ahh.... Uwaaaahhhh!"
 
 
-[Oak] "Your ass is getting thicker. Hey, get your ass together and tighten it."
+[Orc] "Your ass is totally wet. Come on, put your all into finishing it off."
 
 #cg イベント ev030c1 背景
 #wipe fade
 
 #voice hinb0635
-[Hinata] "AaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA..."
+[Hinata] "Ahhh... hmmm... that feels good... that orc's dick feels good... that big one is pounding me hard, Hinata's gonna come..."
 
-Hinata is already beginning to enjoy the pleasure as she drools sloppily even though he is being pounded into her roughly.
+Even though she was being pounded roughly, Hinata was already beginning to enjoy the pleasure and was drooling lazily.
 
 #voice hinb0636
-[Hinata] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…it’s painful but it’s okay…it feels so good…”
+[Hinata] "Ahh... Ahh ahh... It hurts, but it feels good... It feels good..."
 
 
-[Oak] "Hey, if you're free, use your mouth to serve me."
+[Orc] "Hey, if you're free, use your mouth and serve me."
 
 #voice hinb0637
-[Hinata] “Ngguuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu…i feel like it’s turned into butt counterpart to me but…it feels so good…uuuuuuuuuuuuuuuuuuuuu… …”
+[Hinata] "Nnggh... ngh... my throat... my throat... nggh... it feels like I've become a butt... I feel like ugh... but it feels good... ugh... nggh..."
 
 
-[Oak] "Look, that elf seems to like mating with us now, right? You can enjoy it too, buhyahyahya."
+[Orc] "Look, it looks like that elf over there has really taken to mating with us. Have fun too, buhyahyaha."
 
 #voice ibab0763
-[Ibara] "I-I... I... I'm... low-class demi-humans like you... Nhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii you you you I am…!"
+[Ibara] "I, I... I... I am an inferior demi-human like you... nnnnn... ahhh... don't do it so violently...!"
 
 #voice ibab0764
-[Ibara] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...aaaaaaa...aaaaaaaaaaaaaaaaaaaaaaaaaa...
+[Ibara] "Ahh... Stop it... It'll break... Aah... Aah... Aah..."
 
 
-[Oak] "Say something big, but you've been dripping semen from just now. It feels good, right? Admit it."
+[Orc] "You're talking like you're so great, but you've been leaking semen for a while now. It feels good, doesn't it? Just admit it."
 
 #voice ibab0765
-[Ibara] "No, no... no... I'm... too... ah... I'm going... I'm going to cum so much inside me...!"
+[Ibara] "No, no... no... I'm... ahhh... I'm coming... so much semen is coming out of me...!"
 
 #voice ibab0766
-[Ibara] "Rame! Rame! Ikuu, Ikuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu up!"
+[Ibara] "No! No, no! I'm coming, I'm cominggggggg!"
 
 #voice hinb0638
-[Hinata] “Nyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!
+[Hinata] "Nyaaah... ngh... Hinata, Hinata too... semen is coming out of my penis!"
 
-The front, back, mouth, and body of both of them were covered in yellowing semen, and there was nothing to be seen.
+Both of them were covered in yellowish semen, their fronts, backs, mouths, and entire bodies, and were unrecognizable.
 
-It is impossible to tell which of the mixed sperm belongs to whom.
+The sperm are all mixed together and it's impossible to tell which belongs to whom.
 
-It seemed like a pool of semen was forming, resembling a puddle, around the elf who was being raped.
+A pool of semen resembling a puddle had formed around the elf who was being violated.
 
 #voice ibab0767
-[Ibara] "Ah... I'm going! Even though I'm cumming, a new penis has entered me!"
+[Ibara] "Ahh... I'm coming! And even though I'm coming, a new penis is coming in!"
 
 #voice hinb0639
-[Hinata] "Even though you're whispering, don't do it! You'll lose your temper if you're so disgusting...!"
+[Hinata] "I'm groaning, so don't go in and out! It feels so good I'll never be able to stop it...!"
 
 ;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
@@ -770,75 +770,75 @@ It seemed like a pool of semen was forming, resembling a puddle, around the elf 
 #wipe fade
 
 #voice konb0611
-[Konomi] "Oh ... oh oh oh ... good, it feels good ‾ ... oak's chin, it's hard, thick and full ..."
+[Konomi] "Ahh... Ahhhhhhh... It feels good... The orc's dicks are hard and thick and there's lots of them..."
 
 #voice tikb0671
-[Tsukiyo] "Even if I cum or cum, there's no end to it... ah... there are so many orcs... I can't rest..."
+[Tsukiyo] "Even if I keep coming, there's no end to it... Ah... There are so many orcs... I can't rest..."
 
 
-[Oak] "That's right, there's no time to rest. If you die and I'll eat you without leaving any bones behind."
+[Orc] "That's right, there's no time to rest. If you get killed and die, I'll eat you whole, even your bones."
 
 #voice tikb0672
 [Tsukiyo] "No, please don't eat it..."
 
 
-[Oak] "If you don't want to be eaten, please satisfy all of us here. Maybe that will help."
+[Orc] "If you don't want to be eaten, satisfy all of us here. Then maybe you'll be saved."
 
 #voice tikb0673
-[Tsukiyo] "Ugh, that's impossible... ah... no, no... no more..."
+[Tsukiyo] "Ugh, I can't do that... Ahh... No, no... I can't take it anymore..."
 
 
-[Oak] "Buhihi, I've fucked you so much that my asshole has expanded so much that I can't go back. If I can't use it anymore, I guess I'll just eat it."
+[Orc] "Buhihi, after all that beating, your asshole has widened and can't go back down. If you can't use it anymore, I guess I'll just have to eat it."
 
 #voice tikb0674
-[Tsukiyo] "Oh no! I'll do my best to tighten it, I'll tighten it, so let's eat it...Ah..."
+[Tsukiyo] "No way! I'll try my best to tighten it, so I won't eat it... ahhh..."
 
 #voice konb0612
-[Konomi] "Uh... it hurts... why are you strangling me... ah... ugh... nfuu..."
+[Konomi] "Ugh... it hurts... why are you strangling me... ahhh... ugh... mmm..."
 
 
-[Oak] "It's pretty sticky here too, but if you choke it, it might get tighter."
+[Orc] "This one's pretty mushy too, but when I strangle it it feels even tighter and more fun."
 
 
-[Oak] "Hey, hey, don't be too violent and break it, okay? There are some people who haven't turned around yet."
+[Oak] "Hey, don't be too rough and break things, okay? Some of them haven't turned yet."
 
 
-[Oak] "Buhihihihi, it's the bad guy's fault."
+[Orc] "Buhihihi, it's your fault for being so slow."
 
 
-[Oak] “What?!”
+[Oak] "What?!"
 
-The orc who was strangling Konomi is thrown away, and a brawl breaks out in the area.
+The orc who was strangling Konomi is knocked away, and a brawl breaks out in the area.
 
-However, another orc quickly intervened and began to attack Konomi anew.
+However, another orc quickly cut in and began violating Konomi anew.
 
 #voice konb0613
-[Konomi] “Naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan!
+[Konomi] "Aaaahhhh! Aaaahhhh! Aaah! Aaah! Aaah! My ass is going to break!"
 
-If you include the one who is holding me back, how many orcs are there?
+How many orcs are there, including the one holding me back?
 
-When will this madness end?
+When will this frenzy end?
 
-It seemed like we weren't the only ones who thought so, and the orcs who weren't in the group that raped Hinata and the others also seemed irritated.
+It seemed we weren't the only ones who thought so, as the orcs who weren't included in the group that was raping Hinata and her friends also seemed to be getting annoyed.
 
 
-[Oak] "I'm telling you to hurry up, you won't be able to get around to me."
+[Orc] "Hurry up, it's taking so long for my turn to come."
 
 ;SE
 
-"Ghufu..."
+"Ugh..."
 
-The irritated orc swung something around, and it hit me, maybe by chance.
+Either the irritated orc was taking out his anger on someone or it was just a coincidence, but he swung something around and it hit me.
 
-"Aaah...aah..."
+"Guh....Ahhh...."
 
-My vision narrows as I writhe in agony.
+My field of vision narrows as I writhe in agony.
 
-There was no way that I, a human, could withstand the power of an orc that could even destroy a hut. The sound that rang in my head was probably the sound of my skull shattering.
+There was no way a human like me could withstand the force of an orc that was strong enough to crush even a hut. The sound that rang in my head was the sound of my skull shattering.
 
---Perhaps the feast is far from over.
+--The orgy probably isn't over yet.
 
-The elves won't be released, and I won't be saved.
+The elves will not be freed, and I will not be saved.
 
 ;ＥＶ絵――EV030『オークに輪姦・ヒナタイバラ』
 
@@ -847,10 +847,10 @@ The elves won't be released, and I won't be saved.
 #wipe fade
 
 #voice hinb0640
-[Hinata] "Hey...it's disgusting...I love that orc's butt dick...aan, hafu..."
+[Hinata] "Yaaah... that feels good... I love that orc's thick dick... aah, aaah..."
 
 #voice ibab0768
-[Ibara] "Ah... I'm ejaculating so much inside me... My stomach is so full... I'm getting full of the orc's semen..."
+[Ibara] "Ahh... They're releasing so much inside me... My stomach is so full... My stomach is so full of the orc's semen..."
 
 ;ＥＶ絵――EV031『オークに輪姦・コノミツキヨ』
 
@@ -859,12 +859,12 @@ The elves won't be released, and I won't be saved.
 #wipe fade
 
 #voice konb0614
-[Konomi] "Aaaaaan... I-I'm going to cum so much that I'm going to go crazy... I-I'm going to break down."
+[Konomi] "Ahhh... I'm cumming so much that my mind is going numb... I'm going to break."
 
 #voice tikb0675
-[Tsukiyo] "Ah... ah... ah... it's still coming out... that hard dick is still full..."
+[Tsukiyo] "Haa... Ah... Ah... It's still coming out... Your stiff cock is still full..."
 
-My consciousness melted into darkness as I listened to the elves' soothing voices, which were completely sweet and melting.
+As I listened to the sweet, melting cries of the elves, my consciousness melted into darkness.
 
 ;暗転
 ;#face off
@@ -882,64 +882,64 @@ My consciousness melted into darkness as I listened to the elves' soothing voice
 ;立ち絵なし
 
 #voice hinb0641
-[Hinata] "Aaaan...aaaan..."
+[Hinata] "Aah...ahh..."
 
 #voice ibab0769
-[Ibara] "Hyafu... ah..."
+[Ibara] "Ahhh....Ahh...."
 
 #voice konb0615
-[Konomi] "Fuh... fuaaaaaaa..."
+[Konomi] "Ah... ahhhh..."
 
 #voice tikb0676
-[Tsukiyo] "Ah... ah..."
+[Tsukiyo] "Ah, haa..."
 
 
-[Oak] "Hey, this guy was crazy."
+[Oak] "Hey, this was a real bargain."
 
 
-[Oak] "Ah, now that we've got some food, I might have to be a little more careful around here."
+[Oak] "Well, now that I've got some food, maybe I should be a bit more careful around here."
 
 
-[Oak] "That's right. I didn't know that humans and elves lived in a place like this."
+[Orc] "That's true. I never knew humans and elves lived in a place like this."
 
 #voice konb0616
-[Konomi] “Ahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…The person who lived there first was…Ningen-kun…”
+[Konomi] "Ahhh... Ahhhh... The one who lived there first was... a human..."
 
 
-[Oak] "Hey, there's a road this way too."
+[Oak] "Hey, there's a path this way too."
 
 
-[Oak] "Huh...?"
+[Orc] "Huh...?"
 
 
-[Oak] "I wonder if humans could have lived in a place like this in a nearby village."
+[Oak] "If humans are living in a place like this, maybe a village has formed nearby."
 
 
-[Oak] "...Maybe."
+[Orc] "...Maybe."
 
 #voice hinb0642
-[Hinata] "Oh, that's right... there's a human being nearby... huh... ah... hmm..."
+[Hinata] "Y-yes... there's a village of humans nearby... haa... ah... hmmm..."
 
 
-[Oak] “Is that so?”
+[Oak] "Is that so?"
 
 #voice tikb0677
-[Tsukiyo] "There are many other humans... haha... hyaaaaaaaaaaaaa"
+[Tsukiyo] "There are many other humans out there... haha... ahhhhhh"
 
 #voice ibab0770
-[Ibara] "Ah, ah... that's right. Haa... ah... aaan... aaan..."
+[Ibara] "Ah, ah... y-yes. Ah... ah... ahhh... ahhh..."
 
 
-[Orc] “Then we should start hunting from nearby areas, right?”
+[Orc] "Then I guess we should start hunting from nearby places, right?"
 
 
-[Oak] "Dana"
+[Oak] "Yeah."
 
 
-[Oak] “Huhyahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh”
+[Oak] "Hahahahahahahahahahaha"
 
 
-[Oak] "Hyahahaha, buhihihihihihi"
+[Oak] "Hahahaha, buhihihihihihi."
 
 ;EVCG EV001C2
 #cg イベント ev001c2 背景

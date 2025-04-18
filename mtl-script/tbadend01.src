@@ -1,0 +1,722 @@
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"I'm going back to the village."
+
+The fact that they needed me must mean that there is a place for me in that village.
+
+Even if I went to the royal capital, I might not be able to become a scholar. No, I definitely won't.
+
+There's no way I, who grew up in a village and have no education, could become a scholar. Even if I went to the royal capital, I would probably end up being unable to achieve anything and just starve.
+
+But when I return to the village I will receive the respect I deserve and be able to use what I have learned to help others.
+
+You can also teach your children how to write.
+
+If we do that, maybe one day the people in the village will understand the importance of education.
+
+I think that is one aspect of academic study and a way of life for humans.
+
+You may be able to buy back any livestock or other items you gave up with the treasure you received from the elves.
+
+Spending too much at once might raise suspicion, so it would be best to go to town every now and then to exchange it for cash and use it little by little.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0423
+[Tsukiyo] "Are you going back to the village?"
+
+"Yeah. Everyone needed us. That's a good thing, isn't it?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0424
+[Tsukiyo] "Yes. I think it's best for humans to live with other humans, elves with other elves, and dark elves with other dark elves."
+
+"……Yeah"
+
+It may be a boring conclusion, but plants of the same species also grow close together.
+
+It would be natural for humans and elves to live together as one race.
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0425
+[Tsukiyo] "Well, this is where we say goodbye."
+
+Is it just my wishful thinking that makes Tsukiyo's tweet sound lonely?
+
+"...Are you coming to the village?"
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0426
+[Tsukiyo] "Shall we go together?"
+
+Tsukiyo was confused as he was told something unexpected.
+
+"Yes. Elves live long lives, right? So, to you, my life is as fleeting as the blink of an eye, right?"
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0427
+[Tsukiyo] "For the rest of your life?"
+
+Elves have a long time. To humans it seems like an eternity.
+
+That's how much time you spent with me...
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0428
+[Tsukiyo] "But... I can't reveal my true identity..."
+
+"Yeah, that's right. Sorry, I said something ridiculous."
+
+I shook my head.
+
+That's ridiculous.
+
+I wonder what will happen if I take Tsukiyo to this already closed-off village.
+
+For now, he is pretending to be the son of a traveling merchant, but if he is taken to the village, people will soon find out about his long ears.
+
+Even if Tsukiyo lived in this forest forever, if he never grew old, people would eventually look at him strangely.
+
+I don't even want to think about what will happen to Tsukiyo then.
+
+It would be fine if they were just ostracized, but if they start to hate me, there's no guarantee I'll be able to protect them.
+
+"That's right, if I don't hide it in the first place and just say that it's something I found..."
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0429
+[Tsukiyo] "Is it a human thing?"
+
+When Tsukiyo asked me again, I was taken aback.
+
+I wasn't the one who first "discovered" Tsukiyo. It was the general store owner's sons.
+
+If they found out that Tsukiyo was an elf, they would probably claim "ownership" of her.
+
+Elves can make a fortune if sold, and you can bet they'll claim to have found it first.
+
+At best it will be shared property, at worst I'll be accused of unfairly stealing it.
+
+Regardless of Tsukiyo's wishes. And...
+
+"Tsukiyo isn't a thing. Sorry."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0430
+[Tsukiyo] "... Something's weird. What do you want to do?"
+
+Tsukiyo tilted his head in confusion.
+
+"...I just want to spend more time with Tsukiyo."
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0431
+[Tsukiyo] "How much longer? Until the sun sets today? Until the sun rises tomorrow? Or until the moon disappears again?"
+
+"it is……"
+
+There's no end to wanting more and more. At some point you'll need to put a stop to it.
+
+Maybe it's now.
+
+#voice tuke0432
+[Tsukiyo] "Are you lonely?"
+
+"...That's right."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0433
+[Tsukiyo] "It's okay."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo put her arms around my neck and hugged me tightly.
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tuke0434
+[Tsukiyo] "...It's lonely being alone. I know that, I've always been alone. But I'm not alone. Hinata, Ibara, Konomi, and other humans are here with me."
+
+"But then I'll be alone again."
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tuke0435
+[Tsukiyo] "Even if we're not together, the fact that we were together doesn't disappear. So I don't feel lonely."
+
+"...I feel lonely."
+
+He embraces Tsukiyo's slender body.
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tuke0436
+[Tsukiyo] "I won't forget. ... Will I forget?"
+
+"I won't forget, I won't forget, but... humans aren't that strong."
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tuke0437
+[Tsukiyo] "...It's okay."
+
+Tsukiyo gently pressed his lips against mine and said.
+
+"Can I touch you some more?"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tuke0438
+[Tsukiyo] "Yes, it's fine."
+
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;SMODE 063 PLAY
+#label replay063
+#setscene 60
+#bg black
+
+;ＥＶ絵――EV071『ツキヨ後背位』＊ここだけポニテ
+;EVCG EV071A1
+;#face off
+
+#bg BG07b_1
+#cg イベント ev071a1 背景
+#wipe fade
+
+When I put her hands on the floor, Tsukiyo turned her back to me and kept glancing at me.
+
+Should I really just make her mine like this?
+
+If I don't give it to anyone and lock it away where no one can see it, will we be able to stay together forever?
+
+His impulsive possessiveness led him to hastily penetrate Tsukiyo.
+
+#voice tuke0439
+[Tsukiyo] "Ahh... it hurts... you have a scary face."
+
+Tsukiyo shudders as if frightened, which causes his anus to tighten.
+
+"It feels so good when you wrap yourself around me Tsukiyo. You don't really want to let go, do you?"
+
+#voice tuke0440
+[Tsukiyo] "Ah... I'm... bald..."
+
+As he penetrates deep inside her, Tsukiyo struggles to escape.
+
+I grabbed her hair and pulled it so she couldn't escape.
+
+;ＥＶ絵――EV071『ツキヨ後背位』＊髪の毛掴む
+;EVCG EV071A2
+#cg イベント ev071a2 背景
+#wipe fade
+
+#voice tuke0441
+[Tsukiyo] "Ouch... that hurts... my hair hurts... ah..."
+
+"Oh, sorry. It was so easy to grab."
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A4
+#cg イベント ev071a4 背景
+#wipe fade
+
+#voice tuke0442
+[Tsukiyo] "Ugh... that's terrible... ugh..."
+Her teary eyes seemed to be blaming me, and an indescribable sense of conquest welled up from my stomach.
+
+…Maybe I should just make her mine like this.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A3
+#cg イベント ev071a3 背景
+#wipe fade
+
+#voice tuke0443
+[Tsukiyo] "Ah... haah... ahh ahh... ahh... don't be so rough..."
+
+"If you really don't like it, you can just run away."
+
+#voice tuke0444
+[Tsukiyo] "That, that's... impossible... Ahh... Ahh... Hahh... Ugh... Ugh..."
+
+Maybe because I was being rough with her, her sphincter was tightening more than usual, as if it was trying to expel me.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A2
+#cg イベント ev071a2 背景
+#wipe fade
+
+#voice tuke0445
+[Tsukiyo] "Mmmm... mmmmm... aahh... ahhh..."
+
+"Tsukiyo, Tsukiyo... I want to capture you and lock you away like this..."
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A3
+#cg イベント ev071a3 背景
+#wipe fade
+
+#voice tuke0446
+[Tsukiyo] "Ahh... Ahh... Hmm... Mmmmm... If you do it that roughly, my butt will turn over...!"
+
+But, catch them, lock them away, and then...?
+
+One day I'll grow old, become an old man, and die.
+
+He didn't know how different the flow of time was between him and an elf, but if it was about that long, Tsukiyo would probably remain the same as she is now.
+
+Only I will grow old and die.
+
+"...Tsukiyo, I love you. I want you to be by my side forever."
+
+Tsukiyo's insides, which had been tightly closed, suddenly loosened and she began to cling to my cock as if it was hungrily clinging to her.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A4
+#cg イベント ev071a4 背景
+#wipe fade
+
+#voice tuke0447
+[Tsukiyo] "I love you. But, you're a human, and I'm a dark elf, so..."
+
+"Yes. So, just for now, just for now, I want to feel more of Tsukiyo."
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A3
+#cg イベント ev071a3 背景
+#wipe fade
+
+#voice tuke0448
+[Tsukiyo] "I feel so much... Ahh... I will never... forget about you humans... Mmm..."
+
+Tsukiyo's intestines began to heat up, and her shiny brown skin began to flush and turn a faint red.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A2
+#cg イベント ev071a2 背景
+#wipe fade
+
+#voice tuke0449
+[Tsukiyo] "Hya... gh... nghhhh... aah... hya... aaahhhh... it's going really deep inside... haaah"
+
+Tsukiyo moaned as her raised hips trembled.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A3
+#cg イベント ev071a3 背景
+#wipe fade
+
+#voice tuke0450
+[Tsukiyo] "Ahh... there's a lewd slurping sound... hmmm... my ass is being dug from deep inside... it's being scraped..."
+
+Her hips were gaining momentum and didn't stop, ignoring my will.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A4
+#cg イベント ev071a4 背景
+#wipe fade
+
+#voice tuke0451
+[Tsukiyo] "My ass feels good... Your hot, hard cock... it's going in and out... it feels so good... ah... aaaahhhh..."
+
+Because he was shaking me violently from behind, Tsukiyo's balls were slapping against mine.
+
+"It's easier for me to stroke you from behind."
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A2
+#cg イベント ev071a2 背景
+#wipe fade
+
+#voice tuke0452
+[Tsukiyo] "Ah... Ahh... Don't stroke my penis... If you keep stroking me... I'll come right away..."
+
+As I stroked the young stem, Tsukiyo's testicles began to move up and down as if he was about to ejaculate, as they were stimulated both inside and out.
+
+In tandem with that movement, the pressure in her hole increased, and she hungrily sucked up my semen.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A3
+#cg イベント ev071a3 背景
+#wipe fade
+
+#voice tuke0453
+[Tsukiyo] "Penis, penis, squeeze, squeeze, stop... ahhh... ahhh... aahh..."
+
+Tsukiyo's insides were greedily pushing me towards my climax.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071A4
+#cg イベント ev071a4 背景
+#wipe fade
+
+#voice tuke0454
+[Tsukiyo] "Ahh... ugh... aaahhhh..."
+
+;選択肢発生
+#select tbadend01a tbadend01b
+A: Cum inside
+B: Splashing
+
+Select A ⇒ Jump to 『tbadend01a』
+Select B ⇒ Jump to 『tbadend01b』
+
+;tbadend01a
+
+#label tbadend01a
+
+;ＥＶ絵――EV071『ツキヨ後背位』＊中出しW射精ルート
+;EVCG EV071B2
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev071b2 背景
+#bg BG07b_1
+#wipe fade 300
+
+The moment Tsukiyo ejaculated, I also released my semen deep inside her.
+
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev071b3 背景
+#bg BG07b_1
+#wipe fade 300
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071B3
+
+#voice tuke0455
+[Tsukiyo] "Ahh... something is going crazy inside..."
+
+The force of my ejaculation caused my cock to ravage Tsukiyo's sensitive insides, which had just come.
+
+Tsukiyo's insides seemed to enjoy being ravaged, and gently sucked him in further.
+
+It was so tightly packed that there wasn't even the slightest gap, and yet a milky white liquid gushed out from between the penis and the mucous membrane.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071B1
+#cg イベント ev071b1 背景
+#wipe fade
+
+#voice tuke0456
+[Tsukiyo] "Inside... throbbing, throbbing, a lot is coming out... I can feel it. My stomach is full."
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071B3
+#cg イベント ev071b3 背景
+#wipe fade
+
+
+;合流へ
+#goto tbadend01c
+
+
+;tbadend01b
+
+#label tbadend01b
+
+;ＥＶ絵――EV071『ツキヨ後背位』＊ぶっかけ射精ルート
+;EVCG EV071C3
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev071c3 背景
+#bg BG07b_1
+#wipe fade 300
+
+The moment Tsukiyo's insides tightened and he ejaculated, I pulled out the tip.
+
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev071c3 背景
+#bg BG07b_1
+#wipe fade 300
+
+Splat.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071C1
+#cg イベント ev071c1 背景
+#wipe fade
+
+I climaxed at almost the same time as Tsukiyo. The milky white evidence of my desire was sprayed all over my white back, which was arching in pleasure, leaving it mottled.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071C2
+#cg イベント ev071c2 背景
+#wipe fade
+
+#voice tuke0457
+[Tsukiyo] "Ahh... my back is hot... aahh... ahhh... ahhh... ahh..."
+
+My cock had lost control and was raging on Tsukiyo's round ass, spurting out a lot of semen before finally calming down.
+
+;ＥＶ絵――EV071『ツキヨ後背位』
+;EVCG EV071C3
+#cg イベント ev071c3 背景
+#wipe fade
+
+Having lost what it had been pried open, Tsukiyo's buds begin to open and close in a twitching manner, as if breathing.
+
+
+;合流
+
+#label tbadend01c
+
+;SMODE 063 STOP
+#endscene
+
+"Tsukiyo..."
+
+I pressed my lips against Tsukiyo's white shoulder and then hugged her tightly.
+
+...This really is the end.
+
+I understood that deeply.
+
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋中（夕）＊真っ暗のほうにしました
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0458
+[Tsukiyo] "Humans will be happy. They will return to the village... marry a girl, have children, become old men... and then..."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0459
+[Tsukiyo] "If I say goodbye, it will probably be harder to say goodbye again. So I'm leaving without waking you. I'm taking the cloth for your hair ornament. I'll treasure it."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0460
+[Tsukiyo] "Farewell, human. Thank you for the name, the shroud, and for your courage."
+
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0461
+[Tsukiyo] "I love you so much..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋中（夕）＊真っ暗のほうにしました
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+"Tsukiyo..."
+
+When I woke up, Tsukiyo was gone.
+
+"...Has he already gone?"
+
+There was no trace of anything inside the hut.
+
+It was as if the time I spent with them was a dream.
+
+"Oh, this is what's left."
+
+The first craft I made was still there.
+
+Their presence tells me that the days I spent with them were not a dream.
+
+"Horned beetle..."
+
+It was made by Tsukiyo.
+
+…I could have followed along.
+
+In fact, he could have chosen to become a scholar instead of returning to his village.
+
+And yet, it was my weakness that made me decide to return to the village.
+
+Rather than face the fear of stepping into an unknown world, he chose to rot in the cramped world he knew.
+
+……I can't help it.
+
+Maybe the path I chose wasn't wrong.
+
+It's just a case of returning to the world you escaped from. It's a common story that's probably found everywhere.
+
+"...If we're going back to the village, we need to pack."
+
+The many crafts he had made to raise funds to become a scholar, the treasures he had received from the elves, and the countless books in this hut.
+
+Let's leave all of these behind.
+
+If the forest is set on fire and turns to ashes, then we should just burn together.
+
+May all the days I spent with them be reduced to ashes.
+
+I won't forget...but I do forget.
+
+Once I return to the village, the days I spent here will become a distant memory, like a signpost that is gradually covered and buried by sand.
+
+If the days you spent with them are precious and dear to you, then you should do so.
+
+Treasure that is buried in secret can never be stolen by anyone.
+
+;暗転（スロー）
+;#face off
+
+#bgvoice stop
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;『BADEND』表示後、タイトルへ
+
+;※エンド表示
+;BG:BG72_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg72_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

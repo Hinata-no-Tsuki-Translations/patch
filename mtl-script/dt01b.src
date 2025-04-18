@@ -1,0 +1,176 @@
+
+"After all, you shouldn't just touch other people's things without permission, Ibara."
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0031
+[Tsukiyo] "Huh!?"
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibae0042
+[Ibara] "What?! Why do I have to be told that?!"
+
+Ibara had not expected to be told such a thing, and retorted angrily.
+
+On the other hand, Tsukiyo seems not to have expected that he would be protected, so he is also a bit surprised.
+
+“Well, I still think that the cloth belongs to Tsukiyo, and Ibara thinks the same, which is why he said he ‘just tried it on’, right?”
+
+#voice ibae0043
+[Ibara] "I, I just said that on impulse... The moment that cloth leaves Tsukiyo's hand, it becomes my property, whoever picks it up next!"
+
+"Yeah, I heard that from Konomi earlier. But even in the elven world, things that are recognized as belonging to that elf don't qualify for that, right?"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice ibae0044
+[Ibara] "Uh, yeah..."
+
+"You insisted it was yours because you knew it actually belonged to Tsukiyo, right?"
+
+#voice ibae0045
+[Ibara] "Uhh....Uhh...."
+
+"So, I assume you quickly picked it up after Tsukiyo's unfortunate drop and decided to claim it as yours? Or not?"
+
+#voice ibae0046
+[Ibara] "..."
+
+"Maybe he was just waiting for Tsukiyo to accidentally let go."
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibae0047
+[Ibara] "That's..."
+
+"In that case, Ibara, more than anyone else, acknowledges that the cloth belongs to Tsukiyo, so at that point doesn't it become Tsukiyo's?"
+
+#voice ibae0048
+[Ibara] "Ugh..."
+
+I think it's strange that once it's out of hand it belongs to the person who picked it up, but if I said that, then it would also make me question why I've decided to live here of my own accord, so I'll just leave it alone.
+
+But it still doesn't seem right to take something that I know Tsukiyo cherishes.
+
+"I'm not an elf, but I've always recognized that cloth as Tsukiyo's. Doesn't that prove it's Tsukiyo's?"
+
+;CHR T10F1 R
+#cg ツキヨ tuk_1_10f1 右
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0032
+[Tsukiyo] "I've always treasured this cloth. It's very important to me. That's why I don't want anyone to touch it."
+Tsukiyo once again hugged the cloth tightly, as if embracing herself.
+
+I knew it was something important to him, but I wonder if there is something so special about it.
+
+Tsukiyo is usually a rather quiet and reserved person, but this was the first time that he had ever been so assertive.
+
+I don't intend to force him to find out, but I'm a little curious.
+
+"Hey, Ibara. Don't you think it's wrong to take away something that Tsukiyo holds so dear?"
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+;CHR T10F2 R
+#cg ツキヨ tuk_1_10f2 右
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice ibae0049
+[Ibara] "..."
+
+"Trying to find some reason to take something that belongs to someone else seems like something only a wicked, dirty person would do, don't you think? You're a proud elf, aren't you?"
+
+#voice ibae0050
+[Ibara] "Ugh... ugh..."
+
+To begin with, Ibara tried to stir up his pride or self-esteem as an elf, but he groaned and went quiet.
+
+;FACE K04F
+#face f_kon_0_04f 94 466
+
+#voice kone0025
+[Konomi] "Hehehe."
+
+Konomi is laughing, perhaps enjoying the fact that Ibara has been defeated.
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kone0026
+[Konomi] "Ningen-kun also thinks that the cloth belongs to Tsukiyo, and if Ibara thinks so too, then I'm happy for the cloth to belong to Tsukiyo too."
+
+;FACE H07F_A
+#face f_hin_0_07f_a 94 466
+
+#voice hine0015
+[Hinata] "Yes! I think Hinata is good too!"
+
+Konomi took Tsukiyo's shoulder and Hinata enthusiastically raised her hand in response.
+
+Even though I, a human, don't count, Konomi has acknowledged that I belong to Tsukiyo, and Hinata has said the same, so Ibara can't continue to be stubborn any longer.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibae0051
+[Ibara] "Uhh... Uhh... Uhh..."
+
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0033
+[Tsukiyo] "Oh..."
+
+Rather, Tsukiyo himself seems dumbfounded, as if he never expected the conversation to turn out like this.
+
+"What about Tsukiyo?"
+
+#voice tuke0034
+[Tsukiyo] "Squish?"
+
+"Tsukiyo, would you like to reaffirm that it's yours?"
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0035
+[Tsukiyo] "I'll do it. This belongs to Tsukiyo!"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+When Tsukiyo loudly declared victory, Ibara bit his lip in frustration.
+
+;ツキヨ好感度+1
+#set f4 f4+1
+
+;dt01_2へ
+#next dt01_2

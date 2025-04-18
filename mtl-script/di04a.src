@@ -1,52 +1,52 @@
 
-"It's dangerous, isn't it? If Ibara hadn't been found, I wouldn't have had to worry about him attacking me again."
+"That's dangerous. If we hadn't found Ibara, we wouldn't have had to worry about him coming again."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibac0335
-[Ibara] "Are you saying it's my fault!? It's that guy who came into the cabin without permission!"
+[Ibara] "Are you saying I'm in the wrong?! The one who's in the wrong is that guy who came into the hut without permission!"
 
-“Ah, no, that’s true, but…what would you do if you jumped on someone without looking ahead and it turned out to be a very difficult opponent?”
+"Ah, well, that's true, but... what if you just jump in without thinking about the consequences and end up being no match for your opponent?"
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibac0336
-[Ibara] "It's okay! Humans were there too, and I'm strong! He wrapped his tail around me and ran away, right?"
+[Ibara] "It's okay! There were humans there, and I'm strong! That guy ran away with his tail between his legs, didn't he?"
 
-"...I think there are many reasons why it worked out the way it did. It's not like they'll run away like that every time."
+"...I think there are a number of factors that made it work out that way. It's not like he'll always run away like that."
 
-What would you do if your opponent was an elf hunter who looked like a battle-hardened bear? I don't know if such a thing exists.
+What if you were facing a battle-hardened elf hunter like a bear? I don't know if such a thing even exists.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibac0337
-[Ibara] “Because I looked at him and he looked like he was going to die!”
+[Ibara] "Well, just looking at him, he looked weak!"
 
-"...That sounds like a great thing to say."
+"...That's quite something to say."
 
 #voice ibac0338
-[Ibara] "There's no way I can lose to someone like that!"
+[Ibara] "There's no way I'd lose to someone like that!"
 
-"Even if you say that... the other person is a cunning person, right? You don't know what kind of cowardly trap they'll set for you..."
+"Even if you say that... you know, the other person is a cunning person. There's no telling what kind of sneaky trap he'll set up..."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibac0339
-[Ibara] "In that case, humans will protect me, so it's okay!"
+[Ibara] "When that happens, humans will protect me, so it'll be fine!"
 
 "...!?"
 
-I feel like I'm suffocated by the innocent, unconscious, full trust shown to me unexpectedly.
+The unexpected, innocent, and unconscious complete trust shown to me leaves me breathless.
 
-...I wish I could protect this really cute child.
+...I wish I could protect this truly adorable child.
 
 ;di04_2へ
 #next di04_2

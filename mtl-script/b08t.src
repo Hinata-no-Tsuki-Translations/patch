@@ -4,7 +4,7 @@
 ;背景：山小屋（昼）
 ;変更なし
 
-“Is the place Tsukiyo knows close to here?”
+"Is the place Tsukiyo knows close to here?"
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -13,14 +13,14 @@
 ;TKface
 
 #voice tikb0601
-[Tsukiyo] "Wow..."
+[Tsukiyo] "Ugh..."
 
-Tsukiyo looks around for a moment, as if she doesn't understand what she's been asked, then looks up at me and gingerly points at herself.
+Tsukiyo looked around restlessly for a moment, not seeming to realise that he had been asked, then looked up at me and timidly pointed at himself.
 
 #voice tikb0602
 [Tsukiyo] "Are you listening...?"
 
-"Yes, I'm asking Tsukiyo."
+"Yeah, I'm asking Tsukiyo."
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -29,9 +29,9 @@ Tsukiyo looks around for a moment, as if she doesn't understand what she's been 
 ;TKface
 
 #voice tikb0603
-[Tsukiyo] "...It's... it's not that far."
+[Tsukiyo] "...It's not that far..."
 
-Then Tsukiyo lowered her head, shrank as if she were going to disappear, and finally answered.
+Then, with her face down and shrinking into herself as if disappearing, Tsukiyo finally answered.
 
 ;CHR OFF
 #cg all clear
@@ -47,7 +47,7 @@ Then Tsukiyo lowered her head, shrank as if she were going to disappear, and fin
 [Ibara] "Hmm? Tsukiyo, did you say something?"
 
 #voice hinb0564
-[Hinata] “Tsukiyo knows that there aren’t that many traps!”
+[Hinata] "Tsukiyo says the Wanaba he knows isn't that far away!"
 
 ;CHR OFF
 #cg all clear
@@ -58,25 +58,25 @@ Then Tsukiyo lowered her head, shrank as if she were going to disappear, and fin
 #wipe fade
 
 #voice konb0560
-[Konomi] "Wanaba‾? A trap field? Tsukiyo, are you setting a trap‾?"
+[Konomi] "Wanna‾? A trap? Tsukiyo, are you setting a trap‾?"
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0684
-[Ibara] "What? Is it a trap!? Can Tsukiyo use such advanced tactics!? Who will he fight!? A human being!?"
+[Ibara] "What? A trap?! Tsukiyo can use such advanced tactics?! Who is he fighting?! A human?!"
 
-"Why should I be set a trap?"
+"Why should I be the one setting up the trap?"
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
 #wipe fade
 
 #voice ibab0685
-[Ibara] “That’s because human beings are bad people!”
+[Ibara] "Because humans are bad people!"
 
-Moreover, if you're setting a trap for me, what are you going to do if I tell you about it now?
+Besides, if you're setting a trap for me, what's the point of telling me now...?
 
 ;CHR OFF
 #cg all clear
@@ -89,14 +89,14 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 ;TKface
 
 #voice tikb0604
-[Tsukiyo] "He's not a bad guy."
+[Tsukiyo] "I'm not a bad guy."
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibab0686
-[Ibara] “Then who are you going to fight?”
+[Ibarra] "So, who are we fighting?"
 
 ;CHR OFF
 #cg all clear
@@ -107,21 +107,21 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 #voice hinb0565
-[Hinata] "I understand! Let's fight the fruit!"
+[Hinata] "Got it! I'll fight the fruit!"
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0687
-[Ibara] “Are the fruits attacking me!? Isn’t that a monster, not a fruit?”
+[Ibara] "Are fruits attacking us?! Aren't they monsters, not fruits?!"
 
 ;CHR H08F1_A R
 #cg ヒナタ hin_1_08f1_a 右
 #wipe fade
 
 #voice hinb0566
-[Hinata] “I’m going to pour you some sour sauce!”
+[Hinata] "I'll pour some sour soup on you!"
 
 ;CHR OFF
 #cg all clear
@@ -132,14 +132,14 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 #voice konb0561
-[Konomi] “Kya‾, the sour juice will definitely stain your face‾”
+[Konomi] "Oh, that sour juice will surely sting your eyes."
 
 ;CHR I08F L
 #cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0688
-[Ibara] "Oh... that's scary"
+[Ibara] "Wow...that's scary."
 
 ...What kind of fruit is that?
 
@@ -154,7 +154,7 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 ;TKface
 
 #voice tikb0605
-[Tsukiyo] “I haven’t set any traps.”
+[Tsukiyo] "I didn't set any traps."
 
 ;CHR OFF
 #cg all clear
@@ -167,54 +167,54 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #wipe fade
 
 #voice hinb0567
-[Hinata] "Huh? Then, who is setting the trap?"
+[Hinata] "Huh? Then who is setting a trap?"
 
 ;CHR K05F R
 #cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0562
-[Konomi] "Aren't there any traps set in the trap field?"
+[Konomi] "A trap site? Doesn't it have traps?"
 
-“Um, okay?”
+"Um, is it okay?"
 
 #voice konb0563
-[Konomi] “What, Human-kun?”
+[Konomi] "What is it, human?"
 
-“Didn’t I hear wrongly that you meant a secret spot instead of a trap place?”
+"I thought you misheard, it was a trap spot, not a hole spot?"
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinb0568
-[Hinata] “Huh, Hinata, I thought you were a wannabe?”
+[Hinata] "Oh, Hinata, I thought it was Wanaba?"
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0689
-[Ibara] “Wanaba, right?”
+[Ibara] "You want it, right?"
 
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0564
-[Konomi] "Okay. I'll lure you in with something delicious."
+[Konomi] "Got it. I'll lure them in with something tasty."
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0690
-[Ibara] "Smart, that's a great trap."
+[Ibarra] "Smart, that's a great trap."
 
 ;CHR H06F2_A L
 #cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0569
-[Hinata] "What's delicious, Tsukiyo!?"
+[Hinata] "What do you mean, delicious food, Tsukiyo?!"
 
 ;CHR OFF
 #cg all clear
@@ -229,15 +229,15 @@ Moreover, if you're setting a trap for me, what are you going to do if I tell yo
 #voice tikb0606
 [Tsukiyo] "I don't know. I didn't set any traps."
 
-Tsukiyo is confused and looks at me as if clinging to me.
+Tsukiyo was confused and looked at me with pleading eyes.
 
-"A hidden gem means a place that only you know about, or a place where not many people come."
+"By hidden spot I mean a place that only you know about, or a place that not many people go to."
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
 
 #voice konb0565
-[Konomi] “Hoo, hoo‾”
+[Konomi] "Oh, oh."
 
 ;CHR OFF
 #cg all clear
@@ -250,10 +250,10 @@ Tsukiyo is confused and looks at me as if clinging to me.
 #wipe fade
 
 #voice ibab0691
-[Ibara] "If you set a trap in a place where not many people come and lure them in, the person who set the trap won't be found out, so it's perfect for a battle of annihilation! Tsukiyo, you must have been a strategist!"
+[Ibara] "If you set a trap in a place where not many people go and lure them there, they won't know it's there, so it's perfect for annihilation! Tsukiyo, you're quite the strategist!"
 
 #voice hinb0570
-[Hinata] "Sakushi? Nanteimi?"
+[Hinata] "Sakushi? What does it mean?"
 
 ;CHR I07F L
 #cg イバラ iba_1_07f 左
@@ -267,9 +267,9 @@ Tsukiyo is confused and looks at me as if clinging to me.
 #wipe fade
 
 #voice hinb0571
-[Hinata] "You're so warm! Tsukiyo, are you so warm! That's amazing, Tsukiyo!"
+[Hinata] "You're smart! Tsukiyo, you're smart! You're amazing, Tsukiyo!"
 
-No matter how I explain to Ibara, who is already convinced that it is a ``trap ground,'' it seems that Tsukiyo has set a trap.
+No matter how we explain it to Ibara, who is now completely convinced that this is a ``trap site,'' it seems that Tsukiyo has set the trap.
 
 ;CHR OFF
 #cg all clear
@@ -280,11 +280,11 @@ No matter how I explain to Ibara, who is already convinced that it is a ``trap g
 #wipe fade
 
 #voice konb0566
-[Konomi] “I think there’s no point in explaining if things like this happen‾?”
+[Konomi] "I don't think there's any point in explaining it at this point, right?"
 
-Konomi suddenly started talking to Tsukiyo and me.
+Konomi quietly speaks to Tsukiyo and me.
 
-“Ah, maybe so.”
+"Yeah, maybe."
 
 ;CHR OFF
 #cg all clear
@@ -297,7 +297,7 @@ Konomi suddenly started talking to Tsukiyo and me.
 ;TKface
 
 #voice tikb0607
-[Tsukiyo] "Huh‾ There's no trap..."
+[Tsukiyo] "Haaah, there are no traps..."
 
 ;CHR OFF
 #cg all clear
@@ -322,9 +322,9 @@ Konomi suddenly started talking to Tsukiyo and me.
 #bg BG04_1
 #wipe fade
 
-That's why I gave up on trying to clear up the misunderstanding between Ibara and Hinata, who thought it was a ``trap ground'', and decided to ask Tsukiyo to show me around.
+For that reason, I gave up on trying to clear up the misunderstanding between Ibara and Hinata, who thought the place was a ``trap,'' and decided to let Tsukiyo guide me.
 
-The ``secret spot'' that Tsukiyo brought me to was filled with bright red Kurenai fleas, yellow Scarlet fleas, and bluish-purple Shinkai fleas.
+The ``hidden spot'' that Tsukiyo brought to me was laden with bright red Japanese fleas, yellow golden fleas, and blue-purple new fleas.
 
 It was quite a sight.
 
@@ -333,76 +333,76 @@ It was quite a sight.
 #wipe fade
 
 #voice hinb0572
-[Hinata] "Hooooooooooooooooo! That's amazing! So much fruit!"
+[Hinata] "Whooooooo! Amazing! So much fruit!"
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0693
-[Ibara] "Oh, wait, Hinata! You don't know where the trap is set!?"
+[Ibara] "Ah, wait, Hinata! I don't know where the traps are!"
 
-Hinata sees a lot of fruit growing and runs towards it, but Ibara panics and tries to stop her.
+When Hinata saw the many fruits growing there, she ran over to take them in, but Ibara frantically tried to stop her.
 
-However, it didn't seem like the voice of restraint reached Hinata who was so excited.
+However, it seemed that the excited Hinata didn't hear any of the voices trying to stop her.
 
 ;CHR H06F1_A L
 #cg ヒナタ hin_1_06f1_a 左
 #wipe fade
 
 #voice hinb0573
-[Hinata] "It's amazing, it's full of beautiful colors like red and yellow!"
+[Hinata] "Wow, there are so many beautiful ones, red and yellow!"
 
 ;CHR I10F2 R
 #cg イバラ iba_1_10f2 右
 #wipe fade
 
 #voice ibab0694
-[Ibara] "Uh... beautiful fruit..."
+[Ibara] "Uh, uh... what beautiful fruit..."
 
 ;CHR H06F2_A L
 #cg ヒナタ hin_1_06f2_a 左
 #wipe fade
 
 #voice hinb0574
-[Hinata] "Oh!? I found one that's really full!"
+[Hinata] "Oh?! I found one that's packed full of stuff!"
 
-"Oh, that's amazing Hinata."
+"Wow, that's amazing, Hinata."
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0695
-[Ibara] “Me too! I’m looking for beautiful fruit!”
+[Ibara] "Me too! I'll look for beautiful fruit!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Ibara may no longer be able to hold back anymore, so he steps into a bush where fruit is growing.
+As if the thorns could no longer bear it, he stepped towards the fruit-bearing bushes.
 
 ;CHR K09F1 C
 #cg コノミ kon_1_09f1 中
 #wipe fade
 
 #voice konb0567
-[Konomi] “Ahahahahaha‾, there are so many beautiful ones, and if you catch a thorn, it might be a trap‾”
+[Konomi] "Hahahaha, there are so many beautiful ones, it might be a trap for Ibara."
 
-"Hahaha, maybe so."
+"Hahaha, maybe."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0568
-[Konomi] “Then, come and play with me too.”
+[Konomi] "Then I'll come and play too."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Konomi also runs away, but Tsukiyo looks up at me with a worried look.
+Konomi also runs off, but Tsukiyo looks up at me worriedly.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -411,14 +411,14 @@ Konomi also runs away, but Tsukiyo looks up at me with a worried look.
 ;TKface
 
 #voice tikb0608
-[Tsukiyo] “Are you glad you came here?”
+[Tsukiyo] "Are you glad you came here?"
 
-I squatted down and looked Tsukiyo in the eye.
+I crouched down and made eye contact with Tsukiyo.
 
 #voice tikb0609
-[Tsukiyo] "Wow..."
+[Tsukiyo] "Oh..."
 
-"Tsukiyo, thank you for showing me such an amazing place."
+"Tsukiyo, thank you for telling me about such an amazing place."
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -427,7 +427,7 @@ I squatted down and looked Tsukiyo in the eye.
 ;TKface
 
 #voice tikb0610
-[Tsukiyo] “Are you happy?”
+[Tsukiyo] "Are you happy?"
 
 "Oh, I'm so happy."
 
@@ -438,23 +438,23 @@ I squatted down and looked Tsukiyo in the eye.
 ;TKface
 
 #voice tikb0611
-[Tsukiyo] “Good.”
+[Tsukiyo] "That was good."
 
-"However, all the fruits are ripe and look delicious."
+"But all the fruit looks ripe and delicious."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-I also picked up a bright red cranial flea that I could reach and immediately brought it to my mouth.
+I also picked up a bright red crab flea that I could reach and immediately put it in my mouth.
 
-It had a refreshing texture and the sweet and sour fruit juice filled my mouth, making it so delicious that it woke my eyes up.
+The refreshing texture and sweet and sour juice filled my mouth, making it so delicious it woke me up.
 
-You can feel the breath of fresh life seeping into your weakened body after recovering from illness.
+I can feel the fresh breath of life seeping into my weakened body after recovering from an illness.
 
-It was like I was getting more energy with each bite.
+I felt energized with every bite.
 
-"Oh, and it's delicious."
+"Oh, and it's delicious too."
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -463,9 +463,9 @@ It was like I was getting more energy with each bite.
 ;TKface
 
 #voice tikb0612
-[Tsukiyo] “Is it delicious?”
+[Tsukiyo] "Is it delicious?"
 
-"Ah, it's hard to find such delicious Kurenai fleas. It must have been grown in a good environment."
+"Ah, it's rare to find such delicious Kurenai fleas. They must have had a very good upbringing."
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -474,11 +474,11 @@ It was like I was getting more energy with each bite.
 ;TKface
 
 #voice tikb0613
-[Tsukiyo] "Ehehehe..."
+[Tsukiyo] "Hehehe..."
 
-Tsukiyo smiled happily as if she had been praised herself.
+Tsukiyo laughed happily, as if he had been praised himself.
 
-"Hey, why don't you try Tsukiyo too?"
+"Hey, why don't you try some Tsukiyo too?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -487,9 +487,9 @@ Tsukiyo smiled happily as if she had been praised herself.
 ;TKface
 
 #voice tikb0614
-[Tsukiyo] “Yes, it is.”
+[Tsukiyo] "Yes, it is."
 
-When she received the large cranial flea that I had given her, she held it with both hands as if it were important, gently sticking out her teeth and opening her eyes.
+When he took the large crane chisel I had given him, he held it carefully in both hands, gently biting his teeth into it, and opened his eyes wide.
 
 "copper?"
 
@@ -500,7 +500,7 @@ When she received the large cranial flea that I had given her, she held it with 
 ;TKface
 
 #voice tikb0615
-[Tsukiyo] "Soft...it's delicious."
+[Tsukiyo] "Fluffy...delicious."
 
 "Right?"
 
@@ -511,25 +511,25 @@ When she received the large cranial flea that I had given her, she held it with 
 ;TKface
 
 #voice tikb0616
-[Tsukiyo] “Yes.”
+[Tsukiyo] "Yes."
 
-When I felt more energetic after eating Kurenai nomi, my desire arose.
+After eating the fleas, I felt energized and my appetite also increased.
 
-“Since we’re here, let’s pick some and go home.”
+"Since I'm here, I'll pick some and take them home."
 
-I was planning on only having enough for today and tomorrow, but even if I brought home a little more, I wouldn't be able to get enough drumsticks.
+I was planning to take just enough to eat today and tomorrow, but I didn't think it would hurt to take home a little more than I needed.
 
-You can enjoy something like Kurenai fleas for a while if you boil them sweetly.
+If you simmer some Japanese fleas in a sweet sauce, you can enjoy them for a while.
 
 #voice tikb0617
 [Tsukiyo] "I'll help you."
 
-“Even if you pick too many, you won’t be able to take them home, right?”
+"Even if we pick too many, we can't take them home, you know?"
 
-When I warned Tsukiyo just in case, Tsukiyo showed off his strength by making a bicep.
+Just to be sure, I warned Tsukiyo, and he flexed his muscles to show off his strength.
 
 #voice tikb0618
-[Tsukiyo] “I’ll help you with that too.”
+[Tsukiyo] "I'll help you with that too."
 
 "That's reassuring. Thank you, Tsukiyo."
 
@@ -540,9 +540,9 @@ When I warned Tsukiyo just in case, Tsukiyo showed off his strength by making a 
 ;TKface
 
 #voice tikb0619
-[Tsukiyo] "Ehehe..."
+[Tsukiyo] "Hehe..."
 
-Tsukiyo smiled shyly when he was thanked.
+Tsukiyo blushed and laughed when he was thanked.
 
 ;CHR OFF
 #cg all clear
@@ -554,15 +554,15 @@ Tsukiyo smiled shyly when he was thanked.
 #bg BG08b_2
 #wipe fade
 
-Tsukiyo helped me pick a lot of fruits, both red and green.
+Tsukiyo helped me pick lots of fruits, both red and green.
 
-The large piles of fruit were taken back to the hut and used as preserved foods such as candied food.
+The large quantities of fruit were taken back to the hut and turned into candied and other preserved foods.
 
-It looks like my eating habits will be richer for a while.
+Looks like my diet will be enriched for a while.
 
-I'll take this opportunity to make some sweets using this candied food.
+Since I have the chance, I might as well use these candied fruits to make some more sweets.
 
-At that time, I have to give it to Tsukiyo first.
+When that time comes, I'll have to give it to Tsukiyo first.
 
 ;ツキヨ好感度+1
 #set f4 f4+1

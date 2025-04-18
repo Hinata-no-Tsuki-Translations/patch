@@ -5,22 +5,22 @@
 #bg BG07b_1
 #wipe fade
 
-"I'm not going...no, I can't go."
+"I won't go... No, I can't go."
 
-After all, as Ibara says, the elf world is probably not a good place for humans to live.
+As Ibara said, the world of elves is probably not a pleasant place for humans to live in.
 
-I wonder if there's a place for me, who didn't even fit into the human society of the village.
+I wondered if there was a place for me in the village...I couldn't even fit into human society.
 
-Besides, what if by me going, the ``relationship'' deepened...
+Besides, if my going there would deepen our "bond"...
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibac0459
-[Ibara] "Why!? Why do you say you're not going!?"
+[Ibara] "Why?! Why did you say you weren't going?!"
 
-Even though Ibara was worried about him, he pouted his lips as if not convinced.
+Despite being the one to express his concerns, Ibara pouted in disapproval.
 
 ;CHR OFF
 #cg all clear
@@ -31,14 +31,14 @@ Even though Ibara was worried about him, he pouted his lips as if not convinced.
 #wipe fade
 
 #voice konc0054
-[Konomi] "I see. Would you like to go with me, Human-kun? I think that's fine."
+[Konomi] "I see, Human-kun, why don't you come with us? I think that's fine."
 
 ;CHR H02F1_A R
 #cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 
 #voice hinc0062
-[Hinata] "Is this the end of your relationship with Human-san? I feel lonely!?"
+[Hinata] "So this is my farewell to humans! I'm so lonely!"
 
 #cg all clear
 #wipe fade
@@ -50,7 +50,7 @@ Even though Ibara was worried about him, he pouted his lips as if not convinced.
 ;TKface
 
 #voice tukc56
-[Tsukiyo] "It's a shame..."
+[Tsukiyo] "That's a pity..."
 
 "Yeah. I'm lonely too."
 
@@ -68,18 +68,18 @@ Even though Ibara was worried about him, he pouted his lips as if not convinced.
 #voice ibac0460
 [Ibara] "If you're lonely..."
 
-Ibarra said something, then shook his head.
+Ibarra started to say something, then shook his head.
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibac0461
-[Ibara] "Well then, goodbye. I'll probably never see you again, but I hope you're doing well."
+[Ibara] "Well then, goodbye. I probably won't see you again, but take care."
 
-Ibara was arrogant as usual, but his eyes were bright red.
+Ibara was leaning back in his usual arrogant manner, but his eyes were bright red.
 
-"Yeah. Ibara and everyone else are doing well. Well, if you're going to go back, hurry. The people from the village will probably be here in the afternoon, too. You can't come here anymore."
+"Yes. Ibara and everyone else are doing well. Now, if you're going back, hurry up. The villagers will probably be here by mid-afternoon. You shouldn't come here again."
 
 ;CHR OFF
 #cg all clear
@@ -98,7 +98,7 @@ Ibara was arrogant as usual, but his eyes were bright red.
 #wipe fade
 
 #voice ibac0462
-[Ibara] “See you then.”
+[Ibara] "See you later."
 
 ;CHR OFF
 #cg all clear
@@ -109,7 +109,7 @@ Ibara was arrogant as usual, but his eyes were bright red.
 #wipe fade
 
 #voice hinc0063
-[Hinata] “Bye-bye!”
+[Hinata] "Bye-bye!"
 
 ;CHR OFF
 #cg all clear
@@ -139,27 +139,27 @@ Ibara was arrogant as usual, but his eyes were bright red.
 #cg all clear
 #wipe fade
 
-I looked back at Ibara and the others who were reluctant to leave, and started getting ready.
+I watched as the Ibaras looked back and forth reluctantly as they departed, then I began to get ready.
 
 ...I'm going on a journey.
 
-If we stay here forever, we might meet again ten or twenty years from now, when the elf's barrier is loosened.
+If we stay here forever, maybe we'll meet again in ten or twenty years, when the elven barrier weakens.
 
-However, if humans were allowed to get close to this place, the elves would be in danger.
+However, if this allows humans to get close to this place, the elves will be put at risk.
 
-If my presence here will strengthen the bond between humans and elves, I guess it's better for me to leave this land as well.
+If my being here only strengthens the bond between humans and elves, then perhaps I should leave this land as well.
 
-I regret the books that were left here, but I can't take them all with me, so I'm giving up.
+I feel bad for the books that were left here, but I can't take everything with me so I give up.
 
-I have also combined what I wrote into one book.
+I also put the things I had written down together in one book.
 
-I have a faint hope that it will be useful to someone who wants to live in this hut again someday.
+With a faint hope that it will be of use to anyone who ever decides to live in the hut again.
 
-The people in the village might sell it before that happens, but I hope someone who can find it useful gets it.
+The villagers might sell it off before then, but I'd be happy if someone who could put it to good use picked it up.
 
-Ibara, Hinata, Konomi, and Tsukiyo, it was fun.
+Ibara, Hinata, Konomi, Tsukiyo, it was fun.
 
-I had a lot of fun spending time with everyone.
+I also had a lot of fun spending time with everyone.
 
 ;背景：森（昼）
 ;BG BG04_1
@@ -167,50 +167,50 @@ I had a lot of fun spending time with everyone.
 #bg BG04_1
 #wipe fade
 
-After going for a while, as expected, I ran into some people from the village.
+After walking for a while, as expected, I came across some villagers.
 
-He carries a net, a rope, and a weapon, fully intent on capturing the elf.
-
-
-[Villager 1] "Ah! Let's do this! What are you doing here!?"
-
-The villagers surrounded me with murderous intent, as if they had already been attacked.
-
-They must have somehow been indoctrinated into thinking that I had outsmarted everyone and was monopolizing the elves.
-
-I immediately pointed at the general store's son and yelled.
-
-“The elf ran away because of you!?”
+They are carrying nets, ropes, and weapons, and are fully prepared to capture the elves.
 
 
-[Villager 2] “Huh?”
+[Villager 1] "Hey! You bastard! What are you doing here?!"
 
-The people surrounding me all turned to look at the general store's son.
+It seemed they had already done some groundwork, as the villagers surrounded me with murderous intent.
 
+They must have been told that I had outwitted everyone and had the elf all to myself or something.
 
-[Villager 1] "What...? What did you say...? No! No!"
+I quickly pointed at the general store owner's son and yelled.
 
-The more I panicked and tried to make excuses, the harder and harder everyone's gaze became.
-
-"You'll never be able to catch an elf again, you're causing great damage to the village! You thief!"
-
-When I emphasized that it would be a huge loss to the village, the hostility that had been directed towards me was directed towards the general store.
+"You're the reason the elves ran away!"
 
 
-[Villager 2] “Come to think of it, this guy was the one who told me to bring some valuable things since the house was empty.”
+[Villager 2] "Huh?"
+
+The guys surrounding me all turned to look at the general store owner's son.
 
 
-[Villager 3] “…Now that I think about it, things have gone missing from my house, so maybe…”
+[Villager 1] "Eh...? What are you talking about... That's not true! That's not true!"
+
+The more I panicked and tried to make an excuse, the more stern the gazes from everyone became.
+
+"We'll never catch another elf, you thief has caused so much damage to the village!"
+
+When I emphasized that it was a huge loss for the village, the hostility directed towards me was now directed towards the general store owner.
+
+
+[Villager 2] "Now that I think about it, it was him who suggested we take anything valuable because the house was vacant."
+
+
+[Villager 3] "...Now that I think about it, things have disappeared from my house before too. Maybe..."
 
 
 [Villager 1] "No! No! That's not me!"
 
 
-[Villager 4] “Is there anything else you can think of?”
+[Villager 4] "So does that mean there's something else you can think of?"
 
-...Perhaps the general store's son had built up some resentment from being so bossy.
+...Perhaps he was also feeling some resentment towards the general store owner's son because of his arrogance.
 
-The villagers' illusion that they could get a lot of money by capturing and selling elves was shattered, and their anger was directed at the general store's son who was leading the way.
+The villagers' illusion that they could make a lot of money by capturing and selling elves was shattered, and their anger was directed at the general store owner's son who had been leading the way.
 
 ;暗転
 ;#face off
@@ -224,19 +224,19 @@ The villagers' illusion that they could get a lot of money by capturing and sell
 #bg BG12_1
 #wipe fade
 
-While the villagers were arguing, I quickly made my way through the forest, through the village, and onto the road on the other side.
+While the villagers were arguing, I quickly made my way through the forest, left the village, and made it to the road on the other side.
 
-It was refreshing to watch the ugly fights between the villagers.
+I felt relieved after watching the ugly fight between the villagers.
 
 I have no intention of returning to the village.
 
-I'll learn from the elves and go somewhere far away, taking only what I can wear.
+I'll follow the elves' example and go somewhere far away, taking only what I can carry with me.
 
-...If it's academic, you can learn as much as you like without getting in the way.
+...If it's academic, it won't get in the way if you acquire as much as you like.
 
-After all, I should head to town to study.
+Maybe I should head to town and study.
 
-I don't have as much wealth as others, and I may be too late to aspire to academia, but I have nothing and can become anything.
+I have less wealth than others, and it may be too late to pursue academics, but with nothing, I can become anything.
 
 ;暗転
 #face off
@@ -252,54 +252,54 @@ I don't have as much wealth as others, and I may be too late to aspire to academ
 #bg BG13_1
 #wipe fade
 
-I moved to the town, worked hard, and became a live-in disciple of a scholar.
+I moved to town, worked desperately, and became a live-in apprentice to a scholar.
 
-Thanks to that, even though I can't say I'm wealthy, I've been able to make a living while studying as much as I want.
+Thanks to this, although I can't say I'm wealthy, I'm able to study at my own pace and get by.
 
-People can become better if they try hard.
+If you try hard enough, anything can happen.
 
 #voice gakc0001
-[Scientist] "You like celestial bodies, don't you? Do you have any attachments to them?"
+[Scholar] "You like celestial bodies, don't you? Do you have any particular feelings about them?"
 
-As I was looking at the celestial globe and polishing it, my teacher called out to me.
+As I was looking at the celestial globe and polishing it, the teacher called out to me.
 
-"Ah, no...I'd say celestial bodies. I'm a little interested in lunar eclipses."
+"Oh, no... I mean celestial bodies. I'm a bit interested in lunar eclipses."
 
-I heard that when the moon is eaten by wolves, the elf's barrier is loosened.
+I heard that when the moon is eaten by the wolf, the elven barrier weakens.
 
-If that's the case, if I predict a lunar eclipse and visit that hut, I wonder if I'll be able to see them again.
+If that's the case, then if I predict a lunar eclipse and visit the hut, perhaps I'll be able to see them again?
 
-I wish I could meet him at least. To that stubborn, cheeky, but cute blonde elf.
+I wish I could just meet him, that stubborn, cheeky, but cute blonde elf.
 
-"Is it possible to accurately predict lunar eclipses?"
+"Is it possible to accurately predict a lunar eclipse?"
 
 #voice gakc0002
-[Scholar] "What exactly...?"
+[Scholar] "What exactly do you mean...?"
 
-"No, because where I lived, a miracle happened during a lunar eclipse."
+"No, miracles happened during lunar eclipses where I lived."
 
 #voice gakc0003
-[Scientist] "Is it a miracle? That sounds like a dream, isn't it?"
+[Scholar] "Is it a miracle? That's a dream come true."
 
-The teacher asked them to sing without really believing it.
+The teacher told us to sing, without really believing it.
 
-...Yes, it was a miracle that I was able to meet Ibara.
+...Yes, it was a miracle that I encountered Ibara.
 
-It was a miracle that I happened to be in that hut at the time when the elf's barrier was lifted in the short time that humans have in this wide world.
+In this vast world, in the short time that humans have, it was a miracle that I happened to be in that hut at that moment when the elf's barrier was broken.
 
 #voice gakc0004
-[Scientist] "We know that the moon, the earth, and the sun all move in a fixed cycle. Therefore, it is not impossible to predict the day when a lunar eclipse will occur."
+[Scholar] "We know that the moon, the earth, and the sun all move in set cycles. Therefore, it is not impossible to predict the day when a lunar eclipse will occur."
 
 #voice gakc0005
-[Scientist] "However, it's still far from perfect. In order to unravel this miracle, I'd like you to elucidate the cycle of lunar eclipses."
+[Scholar] "However, it cannot yet be said to be complete. In order to unravel this miracle, I would really like you to discover the cycle of lunar eclipses."
 
 "……yes"
 
 #voice gakc0006
-[Scholar] "Study is simply about shedding light on things that were considered miraculous and trying to explain them. Please come and try to explain those miracles."
+[Scholar] "Academic study is simply shedding light on things that were once considered miracles and unraveling them. Please unravel this miracle."
 
 #voice gakc0007
-[Scientist] "It's good to have a goal. No matter what you do, finding your destination is the most difficult thing. You're lucky to have it early on. Work hard."
+[Scholar] "It's good to have a goal. No matter what you're governing, the hardest part is finding a place to aim for. You're lucky to have found that so early on. Keep working hard."
 
 "yes!"
 

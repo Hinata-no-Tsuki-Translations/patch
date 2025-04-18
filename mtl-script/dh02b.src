@@ -7,9 +7,9 @@ Those words came out of my mouth.
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0228
-[Hinata] “Are you going to meet your mother?”
+[Hinata] "Are you going to meet your mother?"
 
-Hinata blinked, as if hearing something unexpected.
+Hinata blinked as if she had heard something unexpected.
 
 "Your father may be dead, but your mother is still alive, right?"
 
@@ -17,67 +17,67 @@ Hinata blinked, as if hearing something unexpected.
 #cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0229
-[Hinata] “Hmm, I don’t know.”
+[Hinata] "Hmm, I don't know."
 
-"...Don't you know?"
+"...Don't you understand?"
 
-It seems like I'm missing a clue.
+It seems there are few clues.
 
-One of the legends left in the village about an elf appearing in this forest probably refers to Hinata's mother.
+One of the legends left in the village about elves appearing in this forest is probably about Hinata's mother.
 
-If you research steadily and follow the footsteps...
+If we investigate diligently and follow in their footsteps...
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 #voice hinf0230
-[Hinata] "Hey, Human-san. Why are you meeting your mother?"
+[Hinata] "Hey, hey, human. Why are you meeting your mother?"
 
-"Why, I'm sure mothers want to meet their children too."
+"Why, because a mother wants to see her child, too."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0231
-[Hinata] "Do you want to meet my mother? Why?"
+[Hinata] "Do you want to see me, Mom? Why?"
 
-"...Why are you so surprised?"
+"...Why are you surprised by that?"
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 #voice hinf0232
-[Hinata] "Hinata doesn't have to meet you, but I was wondering if your mother wants to meet you."
+[Hinata] "You don't need to see me, but I was wondering if you wanted to see me."
 
-It doesn't seem like he hates her or is forcing himself on her.
+It doesn't seem like he hates her or anything like that.
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0233
-[Hinata] “Mom left Hinata alone, but I wonder if she wants to see me?”
+[Hinata] "Mommy left you behind, Hinata. I wonder if you want to see her?"
 
-"Did you leave it behind...?"
+"Did I leave it there...?"
 
-I had imagined her crying and being torn apart, but she sounded as if that was not the case for her mother either.
+I had imagined them being torn apart in tears, but it sounded like that wasn't the case even for her mother.
 
 ;CHR H01F2_A C
 #cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 #voice hinf0234
-[Hinata] "Elf, I always keep important things to myself, so I don't think it was important to you, Hinata."
+[Hinata] "Elfs always keep important things close to them, so I don't think Mom was kidding Hinata."
 
-I was the one who felt the pain in my chest when they said it so casually, as if it was nothing.
+He said it so nonchalantly, as if it was nothing, and it made my heart ache.
 
-"Don't say sad things"
+"Don't say such sad things."
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0235
-[Hinata] "Kanaishi? Why?"
+[Hinata] "Sad? Why?"
 
-However, Hinata didn't seem to understand that I was hurting.
+But it seemed like Hinata didn't understand how much I was hurting.
 
 ;dh02_2へ
 #next dh02_2

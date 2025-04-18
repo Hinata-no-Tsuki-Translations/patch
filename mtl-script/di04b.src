@@ -1,5 +1,5 @@
 
-"...But, thank you."
+"...But thank you."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
@@ -8,63 +8,63 @@
 #voice ibac0340
 [Ibara] "Huh...?"
 
-“I was so happy when I thought that Ibara cared so much about Jimeikoto...”
+"It made me so happy to know that Ibara had taken such good care of the harp..."
 
-I probably should have scolded her, but I wanted to express my gratitude first.
+I knew I should have scolded him, but before that I wanted to express my gratitude to him.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibac0341
-[Ibara] "Of course! I'll cherish what's right for me! Besides...it's what humans gave me."
+[Ibara] "Of course! I take good care of things that are worthy of me! Besides... they are things humans gave to me."
 
-"And...I'm sorry."
+"Also... I'm sorry."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibac0342
-[Ibara] "Why? Why does Human apologize?"
+[Ibara] "Why? Why would a human apologize?"
 
-“Actually, I should have taken it back even if I tried to hit him, and I shouldn’t have shown him what Ibara and the others were like.”
+"I should have attacked him and taken it back, and never shown the Ibaras to him."
 
-“Maybe if I had checked and jumped on him right away, I wouldn’t have had to worry about him attacking me again.”
+"If I had attacked him as soon as I'd confirmed it, I wouldn't have had to worry about him coming at me again."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibac0343
-[Ibara] "Why do you think like that? The one who came here without permission was the one who was at fault, right?"
+[Ibara] "Why do you think like that? Isn't the one who came in here without permission the one at fault?"
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibac0344
-[Ibara] "I'm strong, so I was fine, right? He got scared and ran away."
+[Ibara] "I'm strong, so it should have been fine, right? That guy got scared and ran away."
 
 "……I agree"
 
 #voice ibac0345
-[Ibara] “From the looks of it, it looked like it was going to get worse, so I could have given it to Human!”
+[Ibara] "He looked so weak, I could have given him to a human!"
 
-"...Pfft. Ahahahahahahaha. That sounds like a big deal, that guy."
+"...Pfft. Ahahahahahaha. That's quite something to say about that guy."
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibac0346
-[Ibara] “If I was really in danger, humans would help me, right?”
+[Ibara] "First of all, if I was really in danger, would humans help me?"
 
 "……of course"
 
-I feel like I'm suffocated by the innocent, unconscious, full trust shown to me unexpectedly.
+The unexpected, innocent, and unconscious complete trust shown to me leaves me breathless.
 
-I have to protect Ibara, who believes in me so much, at all costs.
+I have to protect Ibara at all costs, since he trusts me so much.
 
 ;イバラ好感度+1
 #set f2 f2+1

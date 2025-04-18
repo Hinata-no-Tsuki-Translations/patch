@@ -8,34 +8,34 @@
 
 ;このイベント中、ヒナタフェイス表示なし
 
-"Wait, Hinata! I understand how you feel, but you can't jump in!"
+「Wait, Hinata! I understand how you feel, but you shouldn't jump in!」
 
 #voice hinf0326
-[Hinata] "Oh no! Speak to me, Human-san! I'm going to go get the Kiroku that my father gave me!"
+[Hinata] "No way! Let me go, human! I'm going to get the record dad kept for me!"
 
-“So, are you going to tear up the floor and cut down the pillars in this situation? I’m sure that’s impossible!”
+"So, you're planning on tearing up the floor and cutting down the pillars in this situation? Of course that's impossible!"
 
 #voice hinf0327
-[Hinata] "You won't know unless you try it!? Even if you get hurt, Hinata will just be fine, but she's an elf, so it's okay!"
+[Hinata] "You won't know until you try it! Even if Hinata gets injured, it's only half, but she's an elf so she'll be fine!"
 
-“No matter how much an elf gets hurt, it hurts, right? I don’t like it when Hinata hurts!”
+「Even if you're an elf, it still hurts if you get injured! I don't want to see Hinata in pain!」
 
 #voice hinf0328
-[Hinata] "Because I can't help but feel sorry for my father! Even though I really like Hinata!"
+[Hinata] "But it makes my memories of Daddy, Daddy, burn! And I know I love you, Hinata!"
 
-I hugged Hinata tightly as she tried to shake me off and jump into the fire.
+I held Hinata tightly as she tried to shake me off and jump into the fire.
 
 #voice hinf0329
-[Hinata] "Oh no! Speak, speak! If you don't hurry, you'll burn!"
+[Hinata] "No! Let go, let go! Hurry up or I'll burn!"
 
-"I'm sure your father did this too. Because what's important isn't the record. Hinata is important, so I wanted to record it."
+"I'm sure Dad would have done the same. The important thing isn't the record. Hinata is important, so he wanted to leave a record of it."
 
-"Even so, if you're going to make Hinata feel bad for the sake of a record, then you should just burn it down. I'll never let Hinata go."
+"But if you want to make Hinata feel pain just for the sake of a record, then burn that thing up. I will never let go of Hinata."
 
 #voice hinf0330
-[Hinata] "...Because, because..."
+[Hinata] "...But, but..."
 
-Hinata leaned limply against me and trembled as if sobbing.
+Hinata limply leaned onto me and shook as she sobbed.
 
 ;ヒナタ好感度+1
 #set f1 f1+1

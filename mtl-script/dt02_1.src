@@ -1,0 +1,573 @@
+
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG41_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg41_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"Haaaaaahhh..."
+
+After everyone had left, I sighed for the umpteenth time.
+
+The hut suddenly seems bigger and I feel uneasy.
+
+Left alone, I had no desire to go to a flower field.
+
+I just wanted Tsukiyo and Ibara to make up, so it's not really necessary.
+
+I knew that someday we would have to part ways.
+
+But I thought the separation would be more solemn, or that it would come voluntarily, either by the elves or me.
+
+I never imagined that something like this could happen so easily, with the appearance of a third party...
+
+The fact that the elves I had worked so hard to become friendly with were taken away by an older elf may have only made my feelings of disappointment grow.
+
+The only one who seemed to be against it was Ibara. And Ibara's reason was that he couldn't fulfill his role or something...
+
+What can I say, I was disappointed.
+
+I don't know if it was directed at the elves, or at myself for not pushing harder there.
+
+;SE　とんとんとドアをたたく音
+
+break even.
+
+Is that what's so great about being older?
+
+That elf didn't look much older than me, but he was probably several thousand years old.
+
+The way time flows among elves...
+
+;SE　とんとんとドアをたたく音
+
+break even.
+
+"……yeah"
+
+There has been a quiet sound of something banging against the door for a while now.
+
+Maybe someone came back?
+
+It might just be something being blown around by the wind...
+
+;SE　とんとんとドアをたたく音
+
+break even.
+
+No, definitely a visitor.
+
+I rose to my feet and slammed the door open.
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0036
+[Tsukiyo] "Kyaa?!"
+
+Standing outside the door was Tsukiyo.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0037
+[Tsukiyo] "Didn't you go to the flower field?"
+
+"Ah, ah..."
+
+#voice tuke0038
+[Tsukiyo] "So, what were you doing?"
+
+"Nothing in particular..."
+
+#voice tuke0039
+[Tsukiyo] "Are you going to do something now?"
+
+"We don't have any particular plans, but if Tsukiyo comes back, we'll all just go as planned..."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0040
+[Tsukiyo] "Everyone..."
+
+Tsukiyo goes quiet, seeming to think deeply.
+
+"Ah, no, just now."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0041
+[Tsukiyo] "No one's here. Only Tsukiyo."
+
+"Sorry, I was so happy to have you back, Tsukiyo, that I answered as if everyone was there as usual."
+
+#voice tuke0042
+[Tsukiyo] "Tsukiyo alone...is that not enough?"
+
+"I didn't mean to do that..."
+
+I didn't have any more words to say to Tsukiyo, who must have been feeling down.
+
+"sorry……"
+
+;FACE H11F_A
+#face f_hin_0_11f_a 94 466
+
+#voice hine0016
+[Hinata] "Human, why are you apologizing?! Did you do something bad?!"
+
+"Whaaat?!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Hinata suddenly popped her head in between Tsukiyo and me, and we both jumped back in surprise.
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+
+#voice hine0017
+[Hinata] "Hey, what did you do?! If you do something bad, you'll get punished!"
+
+;CHR T06F_L L
+#cg ツキヨ tuk_1_06f_l 左
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0043
+[Tsukiyo] "You're back...?"
+
+#voice hine0018
+[Hinata] "Huh? Hmm? I'm with Tsukiyo! It's fine if Hinata's gone, I stopped following her halfway through and came back!"
+
+#voice tuke0044
+[Tsukiyo] "Are you okay...?"
+
+Even though he had returned, Tsukiyo tilted his head anxiously at Hinata.
+
+;CHR H08F1_A R
+#cg ヒナタ hin_1_08f1_a 右
+#wipe fade
+
+#voice hine0019
+[Hinata] "It's okay! I mean, they said there's still some time left until the end."
+
+"...Won't the barrier close too quickly?"
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0045
+[Tsukiyo] "Maybe that's okay. The moon won't have enough stability until it's perfectly round."
+
+"The power of stability? The power needed to create a barrier?"
+
+#voice tuke0046
+[Tsukiyo] "Yes, it is."
+
+;CHR H01F2_A R
+#cg ヒナタ hin_1_01f2_a 右
+#wipe fade
+
+#voice hine0020
+[Hinata] "I don't have any strength."
+
+"I see"
+
+I don't have enough power yet, so I can't close the barrier yet...or so you see.
+
+"Huh? Then why did that elf come to pick you up?"
+
+;CHR T05F_L L
+#cg ツキヨ tuk_1_05f_l 左
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0047
+[Tsukiyo] "Konomi and Ibara have come to pick you up."
+
+#voice hine0021
+[Hinata] "It'll be fine even if Hinata and the others are gone!"
+
+#voice tuke0048
+[Tsukiyo] "Yes."
+
+"why?"
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0049
+[Tsukiyo] "We don't need dark elves, half-elves, or Nanashi."
+
+"Huh..."
+
+Another gaffe.
+
+Hinata's cheerfulness had made him question, but there was no way he would say something like "I don't need it."
+
+"sorry……"
+
+;CHR H02F1_A R
+#cg ヒナタ hin_1_02f1_a 右
+#wipe fade
+
+#voice hine0022
+[Hinata] "Come on, humans, you're apologizing again! It's embarrassing to do something that requires an apology!"
+
+"...That's right. It's just as Hinata said."
+
+;CHR H04F1_A R
+#cg ヒナタ hin_1_04f1_a 右
+#wipe fade
+
+#voice hine0023
+[Hinata] "Right?"
+
+"What do you mean, Oryo?"
+
+;CHR H01F2_A R
+#cg ヒナタ hin_1_01f2_a 右
+#wipe fade
+
+#voice hine0024
+[Hinata] "I thought you might have something to say back!"
+
+"...Are you actually kidding me?"
+
+#voice hine0025
+[Hinata] "I'm not kidding!"
+
+"Hmm... I'm not sure where the seriousness ends."
+
+;CHR H08F2_A R
+#cg ヒナタ hin_1_08f2_a 右
+#wipe fade
+
+#voice hine0026
+[Hinata] "Hinata is always serious!"
+
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0050
+[Tsukiyo] "..."
+
+Hinata and I were having a silly conversation, but Tsukiyo had a troubled look on his face.
+
+#voice tuke0051
+[Tsukiyo] "...is that it?"
+
+"yeah?"
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0052
+[Tsukiyo] "Why did you come back?"
+
+;CHR H03F2_A R
+#cg ヒナタ hin_1_03f2_a 右
+#wipe fade
+
+Hinata looked a little confused at Tsukiyo's question.
+
+It's rare to see Hinata with such a look on her face.
+
+;CHR T05F_L L
+#cg ツキヨ tuk_1_05f_l 左
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0053
+[Tsukiyo] "It won't be a problem if you two disappear. So... even if you two disappear on your own, I won't come looking for you."
+
+#voice hine0027
+[Hinata] "That's right."
+
+#voice tuke0054
+[Tsukiyo] "Once you're gone, you might never be able to come back."
+
+;CHR H04F2_A R
+#cg ヒナタ hin_1_04f2_a 右
+#wipe fade
+
+#voice hine0028
+[Hinata] "That's right."
+
+Hinata stared at Tsukiyo.
+
+;CHR T01F_L L
+#cg ツキヨ tuk_1_01f_l 左
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0055
+[Tsukiyo] "Is there something you want to say?"
+
+#voice hine0029
+[Hinata] "You see... I don't think Tsukiyo is at fault either. But maybe you should apologize to Ibara."
+
+;CHR T02F L
+#cg ツキヨ tuk_1_02f 左
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0056
+[Tsukiyo] "Huh?!"
+
+;CHR H03F1_A R
+#cg ヒナタ hin_1_03f1_a 右
+#wipe fade
+
+#voice hine0030
+[Hinata] "Ibara seemed sad when you told him we weren't friends... You should make up."
+
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+Hinata also looked sad.
+
+I see, so Hinata had come back specifically to tell him that…
+
+He was acting all joking around and excited when talking to me like always, but was this really what he wanted to say when he came back?
+
+No, maybe it was difficult for Hinata to bring up the subject.
+
+That's why he may have seemed even more excited than usual.
+
+;CHR H02F2 R
+#cg ヒナタ hin_1_02f2 右
+#wipe fade
+
+#voice hine0031
+[Hinata] "It's fine if Tsukiyo doesn't come back, or if she does. But... if she does come back, I think it would be best to say sorry."
+
+Hinata spoke slowly, dot by dot, as if she knew that it wasn't the best idea.
+
+I see... Maybe that's how Hinata and the others have lived up until now.
+
+It is not difficult to imagine that for Nanashi, who was "unwanted," this was the best he could do to get by in life.
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0057
+[Tsukiyo] "...is it?"
+
+;CHR H02F1 R
+#cg ヒナタ hin_1_02f1 右
+#wipe fade
+
+#voice hine0032
+[Hinata] "If Tsukiyo doesn't want to, then Hinata will apologize too..."
+
+;CHR T07F_L L
+#cg ツキヨ tuk_1_07f_l 左
+#wipe fade
+#face f_tuk_0_07f_l 94 466
+;TKface
+
+#voice tuke0058
+[Tsukiyo] "Why would even Hinata say something like that!?"
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hine0033
+[Hinata] "Yaw!?"
+
+He yelled, slamming her into the air, making Hinata jump.
+
+#voice tuke0059
+[Tsukiyo] "That's none of your business! Why should Tsukiyo have to apologize!?"
+
+#voice tuke0060
+[Tsukiyo] "Ibara said that not only are they thieves, but that dark elves are dirty!"
+
+;CHR H03F1_A R
+#cg ヒナタ hin_1_03f1_a 右
+#wipe fade
+
+#voice hine0034
+[Hinata] "...But I'll never forgive you for the thorns, okay?"
+
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0061
+[Tsukiyo] "So I have to apologize?! No way! This cloth is the only one I've had since I was born... Uh, uh..."
+
+Tsukiyo shivered, clutching the cloth tightly around her shoulders.
+
+#voice tuke0062
+[Tsukiyo] "Anyone who tries to take this away is my enemy. I also hate Hinata for telling me to apologize to my enemy, I really hate her!"
+
+"Tsukiyo..."
+
+;CHR H02F1_A R
+#cg ヒナタ hin_1_02f1_a 右
+#wipe fade
+
+#voice hine0035
+[Hinata] "Do you hate Hinata too...?"
+
+Tsukiyo nodded to Hinata with a tearful face.
+
+;CHR H03F2_A R
+#cg ヒナタ hin_1_03f2_a 右
+#wipe fade
+
+#voice hine0036
+[Hinata] "I see... so you hate me... I'm hated... hehe."
+
+Hinata laughed weakly.
+
+;CHR T10F1 L
+#cg ツキヨ tuk_1_10f1 左
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0063
+[Tsukiyo] "I don't like it, so just go away!"
+
+"Wait, wait a second, Tsukiyo..."
+
+;CHR T10F2 L
+#cg ツキヨ tuk_1_10f2 左
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0064
+[Tsukiyo] "I hate it! I hate it!"
+
+Every time she shouts "I hate you," her face contorts as if Tsukiyo is the one being told that.
+
+Hinata seemed to be able to sense that Tsukiyo was hurt, as she tried to smile instead of bursting into tears.
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+#wipe fade
+
+#voice hine0037
+[Hinata] "Okay, I get it... Then, Hinata, I'll be off now..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Hinata?!"
+
+Hinata had a hurt look on her face, but she still managed to smile and trudged outside.
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+I thought about chasing after her, but I couldn't leave Tsukiyo, who looked like she was about to cry, behind, so I just looked at her with a crying face.
+
+;選択肢発生
+#select a b
+A: I think that's an exaggeration.
+B: Pat Tsukiyo's head
+
+#label a
+#next dt02a
+
+#label b
+#next dt02b
+
+;Ａを選択⇒『dt02a』へジャンプ
+;Ｂを選択⇒『dt02b』へジャンプ

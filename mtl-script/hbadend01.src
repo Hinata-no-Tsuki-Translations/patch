@@ -5,17 +5,17 @@
 #bg BG04_1
 #wipe fade
 
-"Hinata...!"
+"Hinata…!"
 
-There was no way I could avoid taking the hand that was stretched out towards me.
+There was no way I couldn't resist taking the hand that was extended to me.
 
 ;CHR H02F2_A C
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0479
-[Hinata] "Ningen-san, Ningen-san!"
+[Hinata] "Human, human!"
 
-I hesitated...even though I knew it was wrong, I took Hinata's hand and pulled her out of the light.
+I hesitated... and though I knew it was wrong, I took Hinata's hand and pulled her out of the light.
 
 ;SE se016 ドスン 再生
 #se 1 se016
@@ -30,7 +30,7 @@ I hesitated...even though I knew it was wrong, I took Hinata's hand and pulled h
 #face f_kon_0_08f 94 466
 
 #voice konf0056
-[Konomi] “It can’t be helped‾, Ibara‾”
+[Konomi] "It can't be helped, Ibara."
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
@@ -52,7 +52,7 @@ I hesitated...even though I knew it was wrong, I took Hinata's hand and pulled h
 #bg white
 #wipe fade 300
 
---Pin
+--Ping
 
 #wait 1000
 
@@ -66,53 +66,53 @@ I hesitated...even though I knew it was wrong, I took Hinata's hand and pulled h
 #bg BG04_1
 #wipe fade 1000
 
-It felt like the air had been knocked out of me.
+I felt like the air had been sucked out of me.
 
-At that moment, even I could clearly understand that the barrier had been closed.
+At that moment, even I understood that the barrier had clearly been closed.
 
-As soon as the light disappeared, the human world and that world were separated, and the connection was closed without a trace.
+As soon as the light went out, the human world and this world were separated, and the connection was closed without a trace.
 
-"Ha, ha ha... you did it."
+"Ha, haha... you did it."
 
 ;CHR H03F1_A C
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0480
-[Hinata] "Yeah, I did it. It was a bit of a mess."
+[Hinata] "Yeah, you did it. Ibara was angry."
 
-"...That's right."
+"...That's true."
 
-What has already been done is left behind.
+What's done is too late now.
 
-I chose to leave Hinata in this human world.
+I chose to leave Hinata behind in the human world.
 
-I should have thought about it until the very end, but here it is.
+I thought about it until the very end, but this is what happened.
 
-Considering Hinata, it would have been better to return her to the elf world.
+Thinking about Hinata, it would probably be better if she was sent back to the elven world.
 
-When Hinata stretched out her hand towards me, she was just complaining, and she should have known that she shouldn't have taken my hand there.
+Hinata had reached out her hand to me because she was just throwing a tantrum, and she should have known that she shouldn't have taken my hand there.
 
-I can't bring Hinata back to the elf world anymore.
+I can't send Hinata back to the elven world.
 
-In this dirty world of humans, I have to protect Hinata.
+In this filthy human world, I have to protect Hinata.
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0481
-[Hinata] "Ningen-san, we'll always be together from now on!"
+[Hinata] "Human, we'll be together forever from now on!"
 
-Hinata happily jumped up to me.
+Hinata jumped onto me happily.
 
 "...Ah, that's right."
 
 Momentum is scary.
 
-However, I felt indescribably happy that Hinata was by my side.
+But, having Hinata by my side made me feel indescribably happy.
 
-Even if it meant making Hinata unhappy, I wanted Hinata to be by my side.
+Even if it meant making Hinata unhappy, I wanted her to be by my side.
 
-That's why I don't regret taking Hinata's hand.
+So, I don't regret taking Hinata's hand.
 
 ;暗転
 ;#face off
@@ -124,7 +124,7 @@ That's why I don't regret taking Hinata's hand.
 #wipe fade
 ;背景黒のまま
 
-...That's what I thought from the bottom of my heart at that time.
+...That's what I truly believed at the time.
 
 ;BGMch2 amb001 再生
 #bgvoice amb001
@@ -139,45 +139,45 @@ That's why I don't regret taking Hinata's hand.
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 #voice hinf0482
-[Hinata] “Are you going to hide again?”
+[Hinata] "Are you moving again?"
 
-"Because it can't be helped. They found out that Hinata is an elf."
+"Well, it can't be helped. Now it's been revealed that Hinata is an elf."
 
 ;CHR H03F2_A C
 #cg ヒナタ hin_1_03f2_a 中
 #wipe fade
 #voice hinf0483
-[Hinata] “I don’t have any mosho.”
+[Hinata] "There's nothing I can do about it."
 
-“…Who do you think is to blame?”
+"...Who do you think is to blame?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Since then, we have been living a life of travel.
+Since then we've been living a life of travelling from one place to another.
 
-If he is with Hinata, who never ages, even if he can hide his ears, he will eventually be looked at suspiciously.
+Even if you can hide your ears while you're with Hinata, who never ages, you'll eventually be looked at suspiciously.
 
-So we had to move locations every few years.
+So we had to move it every few years.
 
-Just when she seems to have settled down in one place, someone finds out that Hinata is an elf and she ends up running away.
+Just when she thought she had settled down in one place, someone would find out that Hinata was an elf and she would have to run away.
 
-I was being naive, but humans are really sensitive to smelling things that are foreign to them. No matter where we went, we ended up running away faster than we expected.
+I was being naive, but humans are incredibly sensitive to sniffing out things that are different from them. Wherever we went, they would run away faster than we expected.
 
-It was really difficult to move from place to place with Hinata. Above all, Hinata was just reaching out and had no resolve.
+It was really hard to move Hinata from place to place with her. Above all, Hinata had never been prepared for it as she had only been reaching out to him.
 
-Hinata just wanted to be with me, but I shouldn't have taken her hand at that time.
+Hinata just wanted to be with me, so I shouldn't have taken her hand then.
 
-If you continue to live like that, you will learn how to avoid various things.
+If you continue living like that, you will learn how to avoid various things.
 
-Thanks to this, I was able to live my life without getting into any major problems.
+Thanks to that, I've somehow managed to survive without getting caught up in any major problems.
 
-...Well, maybe it's just that I feel like it's not a big deal because I've been paralyzed by it being too much.
+...Well, maybe that's just because so many things have happened that I've become numb to everything and so I just think it wasn't a big deal.
 
-Still, Ikuboshimo ran away and moved again and again.
+Still, the years passed as we continued to run and move from place to place.
 
-We are once again heading for an abandoned hut in the forest, trying to escape from human eyes.
+We're once again trying to avoid human attention and heading for an abandoned cabin in the forest.
 
 ;暗転
 ;#face off
@@ -196,12 +196,12 @@ We are once again heading for an abandoned hut in the forest, trying to escape f
 #wipe fade
 
 #voice hinf0484
-[Hinata] "Hmm... When it comes to places that don't get noticed at first glance, they tend to be places that look like shit."
+[Hinata] "Hmm... In the end, the places that aren't easily noticeable are the places that look similar."
 
-“…I have no choice.”
+"...It can't be helped."
 
 #voice hinf0485
-[Hinata] "No way. Look, there was something. Let's go, Human-san."
+[Hinata] "Whatever. Look, I've got something. Let's go, human."
 
 ;背景：山小屋（夜）修理前
 ;BG:BG07a_3
@@ -213,31 +213,31 @@ We are once again heading for an abandoned hut in the forest, trying to escape f
 #cg ヒナタ hin_1_08f2_a 中
 #wipe fade
 #voice hinf0486
-[Hinata] “Ahaha, it’s so worn out.”
+[Hinata] "Haha, it's in tatters."
 
-"It's better just to keep out the night dew. Now, let's get some rest. We'll start repairing again tomorrow."
+"At least we can avoid the night dew. Let's get some rest. Repairs will start tomorrow."
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
 #wipe fade
 #voice hinf0487
-[Hinata] "Are you going to eat it!? You might be sent to another person again!?"
+[Hinata] "Are you going to repair it?! You might get chased away by another human again!?"
 
-"Because if we don't fix it, what will happen if it rains? Even if we get kicked out, it doesn't necessarily mean we'll get kicked out right away."
+"Well, if we don't fix it, what will we do if it rains? Even if we get kicked out, it's not necessarily going to be right away."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
 #wipe fade
 #voice hinf0488
-[Hinata] "I see. Well then, you can give me some steam. It can't be helped."
+[Hinata] "I see. Then I'll fix it. I guess there's no other way."
 
-“Aren’t we allowed to make repairs without permission?”
+"So you can't repair it unless you get permission?"
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0489
-[Hinata] "Ahahahaha. Good night, Human-san."
+[Hinata] "Ahahaha. Good night, human."
 
 ;ＥＶ絵――EV???『ニンゲンは嘘つき』
 ;EVCG EV039A1
@@ -257,140 +257,140 @@ We are once again heading for an abandoned hut in the forest, trying to escape f
 #bgm 0 03
 
 #voice hinf0490
-[Hinata] "That's disgusting! Human's dick doesn't get hard, so Hinata did her best!"
+[Hinata] "It feels so good! Human penises don't get hard easily, so Hinata tried her best!"
 
-Hinata is proudly straddling my waist.
+Hinata looks proud as she straddles my waist.
 
 "...I'm tired."
 
-I thought I was trembling, but I must have been really tired that I didn't wake up until I was in a situation like this.
+I knew I felt something moving, but the fact that I didn't wake up until this situation occurred meant I was really tired.
 
 #cg イベント ev039a2 背景
 #wipe fade
 
 #voice hinf0491
-[Hinata] "It's been a long time since I've been there! That's why you can sleep with me... Hmm... Hinata, I'll get more comfortable on my own."
+[Hinata] "You've been walking around for a while now! So humans can go to sleep...ahhh...Hinata, you'll feel good on your own."
 
-"Can you sleep in this situation?"
+"How can I sleep in a situation like this?"
 
 #voice hinf0492
-[Hinata] "You're so selfish now...sigh...if you're going to wake up, please be considerate of Hinata, human-san."
+[Hinata] "Oh, humans are so selfish... Ah... If you're awake, please make Hinata feel good, humans."
 
-Hinata, who knew all about the pressure points that I felt, was skillful in her caresses, and even though her body was probably tired, only her cock stood tall.
+Hinata knew all about my sensitive spots and her caresses were so skillful that even though my body was tired, my cock was still standing erect.
 
-Hinata swallows my stuff with her back hole and is satisfied.
+Hinata was very pleased as she swallowed my thing with her anus.
 
 #cg イベント ev039a3 背景
 #wipe fade
 
 #voice hinf0493
-[Hinata] "As expected, Human-san's penis is more pleasant than Yubi's or Jibun's... hmm... huh... ah..."
+[Hinata] "After all, a human's penis feels better than my fingers... hmmm... aah... ahhh..."
 
-The way she slowly starts shaking her hips is lewd.
+The way she slowly begins to sway her hips is endlessly lewd.
 
-She was already used to the way she twisted her hips in a lewd manner, and at the same time brought out my pleasure, she also knew exactly where I was feeling.
+Her erotically squirming hips were now completely practiced, and while they brought out a lot of pleasure in me, she also seemed to know exactly which parts of me were sensitive.
 
-I greedily stimulate only the parts that I feel with my cock.
+He greedily stimulates only the parts that he feels with his cock.
 
 #voice hinf0494
-[Hinata] "Huh ... Ah ... oh ... oh ... oh ... oh ... oh ...
+[Hinata] "Ahh... Ahh... Ahh... Ahh ahh... It's been a while since I felt a cock, it feels good..."
 
-When he first started spending time with Hinata, he was able to satisfy her all day long, but now, even with the help of his hands and toys, there are times when he still can't satisfy Hinata.
+When he first started spending time with Hinata he could go all day long, but now, even with the help of his hands and toys, there are times when he still can't satisfy Hinata.
 
-Above all, perhaps because my sexual desire, which had been so intense, has completely subsided recently, I have fewer demands from myself.
+More than anything, perhaps because my once-intense sexual desire has now completely calmed down, I no longer seek it out as much.
 
-Hinata seems dissatisfied with that.
+Hinata seemed unhappy about that.
 
 #cg イベント ev039a4 背景
 #wipe fade
 
 #voice hinf0495
-[Hinata] "Ah... ah... aaan... aaan..."
+[Hinata] "Ah... ah... haah... ahh..."
 
-The tight squeeze rubs his cock from top to bottom.
+The tight grip rubs the cock from top to bottom.
 
-Hinata moves as she pleases while firmly holding me down from above.
+While holding me down firmly from above, Hinata moves as she pleases.
 
 #voice hinf0496
-[Hinata] "Hmm...Hinata will move a lot...So, as long as you keep your dick hard, that's fine."
+[Hinata] "Hmm... Hinata will move a lot for you... so as long as you keep your penis hard, humans, that's fine."
 
-...It's like I've become a dildo.
+…It’s like I’ve turned into a dildo.
 
-I don't say it out loud, but I can't help but smile.
+Although he doesn't say it out loud, he can't help but smile wryly.
 
-I was the one who taught Hinata about ``feelings'', but I never imagined that Hinata would be so greedy for pleasure.
+I was the one who taught Hinata how to feel good, but I never imagined she would become so greedy for pleasure.
 
-Moreover, she started shaking her hips on top of me without permission.
+What's more, she started moving her hips on top of me on her own.
 
 #voice hinf0497
-[Hinata] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+[Hinata] "Ahh ahh ahh... it feels good... you humans feel good inside of me too, right? Hinata, I love your dick... aahh."
 
-Hinata looks like she's feeling good and shakes her hips.
+Hinata looks pleased as she shakes her hips.
 
-I also did my best to thrust up from below in time with Hinata's movements.
+I also did my best and thrust upwards from below in time with Hinata's movements.
 
 #voice hinf0498
-[Hinata] "Ah, Human-san, it's nice to see you move! I love that... ah... move even more..."
+[Hinata] "Ah, human-san, it feels good when you move! I like it... ah... move more, more wildly..."
 
-Hinata gasped happily.
+Hinata gasped with pleasure.
 
 #voice hinf0499
-[Hinata] "Hah... ah... Human-san's dick is so gross... aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+[Hinata] "Haa... ah... a human's penis feels so good... aaah... mmm... mmmmm... haa... haa... haa..."
 
-The movement of changing the angle and tightening gives pleasure to what is becoming difficult to reach.
+The changing angle and tightening movement brought pleasure to my thing, which was becoming difficult to reach.
 
-"Ah, I'm cumming already."
+"Ah, I'm, I'm coming."
 
 #voice hinf0500
-[Hinata] "Yeah, that's fine. I'll let you cum inside me like this...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+[Hinata] "Yeah, that's good. I'll let you cum inside me like this... hmm... hmm"
 
-Hinata's movements warmed me.
+Hinata's movements became more heated.
 
-"Ah...if you move that much, it's really going to come out."
+"Ahh... if you move that much, it'll really come out."
 
 #cg イベント ev039a6 背景
 #wipe fade
 
-...Thud.
+...Thump.
 
-If possible, I wanted to reach the point after satisfying Hinata, but even though Hinata still had some leeway, I ended up being squeezed out of it.
+Ideally, I wanted to climax after satisfying Hinata, but Hinata still had plenty of room to spare and yet I was drained dry.
 
-It's frustrating that my ejaculation isn't as strong as it used to be, but even if I say that, getting older won't help.
+It's frustrating that my ejaculations are starting to lose the strength they once did, but there's nothing I can do about aging.
 
 #cg イベント ev039a5 背景
 #wipe fade
 
 #voice hinf0501
-[Hinata] "Hey, Human-san. We can stay like this for a while, right?"
+[Hinata] "Hey, human. It's okay to stay like this for a while, right?"
 
 #cg イベント ev039b1 背景
 #wipe fade
 
-"H-Hinata... I-I can't do it anymore. Let me rest for a while..."
+"H-Hinata... I can't do this anymore. Let me rest for a bit..."
 
-My completely withered body is vomited out from inside Hinata.
+My completely flaccid penis is expelled from inside Hinata.
 
 #voice hinf0502
-[Hinata] "Eh!? Hinata, you want to stick together more!? More... Let's stick together more, Human-san."
+[Hinata] "Eh?! Hinata wants to stick closer?! More... Let's stick closer, human."
 
-Hinata rubs her smooth butt against my lower abdomen.
+Hinata rubs her smooth buttocks against my lower abdomen.
 
 #cg イベント ev039b2 背景
 #wipe fade
 
-However, once I reached mine, I was reluctant to stand up.
+However, once I had reached orgasm, my thing was reluctant to stand up.
 
-Oh, I'm so old now.
+Ah, I'm getting so old now.
 
 Humans grow old no matter what.
 
-I thought about what I would do when I died, but I didn't think about what would happen when I got older.
+I had thought about what to do when I died, but I hadn't thought about what I would do when I got older.
 
-Hinata and I are now connected only through pleasure, but I wonder what will happen when my things become useless.
+Right now, Hinata and I are connected only by pleasure, but I wonder what will happen when my thing is no longer of any use to me.
 
-I... To be honest, I'm already tired. However, I can't throw Hinata away after I pulled her out of the elf world.
+I'm... honestly, tired. But I pulled Hinata out of the elven world, and now it's too late to just throw her away.
 
-I surrendered to sleep, feeling an indescribable anxiety.
+Feeling an indescribable sense of unease, I gave myself over to sleepiness.
 
 #bgm 0 stop 2000
 
@@ -411,85 +411,85 @@ I surrendered to sleep, feeling an indescribable anxiety.
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0503
-[Hinata] "Oh... you're already asleep, Human-san."
+[Hinata] "Oh... have you already fallen asleep, human?"
 
-Hinata gently stroked Human's cheek.
+Hinata gently stroked the human's cheek.
 
-Lately, even when Hinata asks him about it, Humans often look bothered.
+Recently, whenever Hinata asked for things, humans would often look reluctant.
 
-I guess it just means he's getting older.
+I guess that just means I'm getting old.
 
-Her skin, which was shiny when I met her, has become noticeably wrinkled, and her hair is also streaked with white.
+When we first met, her skin was shiny, but now wrinkles were more visible and her hair was starting to get gray.
 
-Hinata doesn't realize that she has changed at all yet, but only human beings are getting older.
+Hinata still doesn't realize that she has changed at all, but humans are just getting older and older.
 
-More than anything else, this fact makes Hinata's chest tighten even more than the fact that they have fewer encounters. That's why I wanted to touch each other as deeply as possible until we parted ways.
+This, more than anything else, weighed on Hinata's heart more than the fact that they were now spending less time together. That was why she wanted to continue to be intimate with him, even if just a little, until death do them part.
 
-However, since human beings' genitals became difficult to stand up, they started avoiding touching each other.
+However, since humans began to find it difficult to get their genitals erect, they have begun to avoid touching each other.
 
-Hinata tries to somehow invite the humans to touch each other, but the humans only interpret it as a request for companionship and do not respond.
+Hinata tries to somehow invite the human to interact with her, but the human simply interprets this as a request for companionship and does not respond.
 
-As a result, Hinata became frustrated and when they finally touched each other, she asked for more, and as a result, humans avoided touching each other, creating a vicious cycle.
+This left Hinata sexually frustrated, and when they finally did touch each other she wanted more and more, which created a vicious cycle in which the human avoided touching her in the first place.
 
-In reality, it would be fine if he could stay by her side, but humans seemed to feel a sense of obligation to interact with each other.
+In reality, it would be fine if they could just be close to each other, but it seems that humans feel a certain sense of obligation to interact with each other.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-When the barrier was about to be set up, it was Hinata who reached out her hand towards Human.
+Just as the barrier was about to be erected, it was Hinata who reached out her hand towards the human.
 
-However, it was Human who took his hand.
+But it was a human who took his hand.
 
-After that, Human has become less interested in the exploration and research that he was so passionate about, and is only looking for a way to live quietly with Hinata.
+After that, the human lost interest in the exploration and research that he had been so enthusiastic about, and instead focused solely on finding a way to live a quiet life with Hinata.
 
 
-Hinata also knows that this is accelerating human aging.
+Hinata also knew that this accelerated the aging process in humans.
 
-Living a life of being chased, human beings' youth was wasted in no time.
+A life of constant chase quickly squanders a human's youth.
 
-Even though elves grow slowly, that doesn't mean Hinata isn't growing at all.
+Although elves grow slowly, that doesn't mean Hinata hasn't grown at all.
 
-However, in front of Human, he tries to act as innocently as he did when they first met.
+However, when in front of humans, he tries to act as innocent as he did when they first met.
 
-If not, she felt like she would have to end this relationship, and Hinata couldn't help but imitate her former self.
+Otherwise, Hinata felt like she would have to end the relationship, and she couldn't help but imitate her former self.
 
-I already fully understand the difference in my lifespan as a human and a half-elf, but I can't bring myself to make anyone realize that.
+He fully understands the difference in lifespan between himself as a half-elf and a human, but he has no intention of letting the humans know that.
 
-When humans realize that Hinata understands, they will definitely think about returning to that forest.
+When humans realize that Hinata understands, they will surely consider returning to that forest.
 
-When the moon is eaten by wolves again, the gate to the elf world may open again, but Hinata has no intention of returning to that village.
+When the moon is eaten by the wolves, the gates to the elven world may open again, but Hinata no longer has any intention of returning to that village.
 
-Hinata didn't think that she, who had become dirty after interacting with humans, would be accepted by the friends she used to spend time with.
+Hinata didn't think that her former friends would ever accept her now that she had been tainted by her interactions with humans.
 
-He was already shunned as a half-elf. It's unlikely that they will actually accept Hinata, who has learned to pretend to be a human being.
+As a half-elf, she was already shunned by the others. There was no way they would accept Hinata after she had learned to interact with humans and pretend to be someone else.
 
 ;CHR H03F1_A C
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 
 #voice hinf0504
-[Hinata] "Ningen-san is also leaving Hinata behind. She's with her father and mother."
+[Hinata] "Humans are leaving you behind too, aren't they? Just like Mom and Dad."
 
-Posori Hinata muttered to Human's sleeping face.
+Hinata muttered softly to herself as she looked at the sleeping human's face.
 
-Hinata, a half-elf, doesn't know how long humans will live.
+Hinata, a half-elf, doesn't know how long humans have left to live.
 
-However, Hinata knew that the humans were nearing the end of their lifespans, as they were exhausted from living on the run.
+However, Hinata realized that the human's life was nearing the end, worn down by his repeated life on the run.
 
-However, that might be better than the fact that human beings are destined to live a long life.
+But perhaps that is better than the fact that humans are destined to live a long life in the future.
 
-Even if it weren't for Hinata, the clumsy humans would not have been able to fit into human society and would have ended up exhausted from living.
+Even without Hinata, the clumsy human would never have been able to fit into human society and would have ended up exhausted by life.
 
-At least now that he feels responsible for Hinata, he will live to fulfill that responsibility.
+At the very least, now that he felt responsible for Hinata, he lived to fulfill that responsibility.
 
-...Even if we can't actually meet or touch each other, as long as you're still alive, that's enough.
+...Even if we can't actually interact or touch each other, as long as they're alive, that's enough.
 
-I wonder what I will do when my humans leave me in the future.
+When humans leave me in the future, what will I do?
 
-A while ago, I would have hated thinking about it, but now I'm thinking about it all the time.
+A while ago, I would have hated even thinking about it, but now it's something I can think about all the time.
 
-Tears rolled down her white cheeks, soaking into the rough wooden floor and disappearing.
+Tears ran down her pale cheeks and disappeared into the splintered wooden floor.
 
 ;暗転（スロー）
 ;#face off

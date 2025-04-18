@@ -49,21 +49,21 @@
 #bg BG07b_1
 #wipe fade
 
-"... Hmm, hmm‾‾‾‾"
+"...Hmm, ahhhhhhhhhh"
 
-Light body.
+My body feels light.
 
-I tried to drink water after waking up, and I felt that my cold was completely cured.
+When I woke up and tried to drink some water, I felt like my cold had completely gone away.
 
-Yeah, it looks like it's fine now.
+Yeah, it seems to be okay now.
 
-When I woke up and saw no one there, I wondered if the elves were out to play.
+When I woke up, there was no one there, so I guess the elves had gone out to play.
 
-Thanks to the fact that I sweated hard last night, it seems that the cold flowed out along with the sweat.
+Thanks to the profuse sweating last night, the cold seemed to have washed away along with the sweat.
 
-In order to loosen the muscles that have stiffened after a long day of sleep, I try to move my body lightly in a refreshing mood.
+Feeling refreshed, I try moving my body lightly to loosen up the muscles that have become stiff after a day of sleep.
 
-My shoulders move lightly, and my cold has completely gone away.
+My shoulders feel lighter now and the cold seems to have completely gone away.
 
 ;CHR H06F1_A L
 #cg ヒナタ hin_1_06f1_a 左
@@ -72,10 +72,10 @@ My shoulders move lightly, and my cold has completely gone away.
 #wipe fade
 
 #voice hinb0509
-[Hinata] "Ah! Humans are moving!"
+[Hinata] "Ahh! Humans are moving!"
 
 #voice ibab0569
-[Ibara] "Oh! Are you feeling better already?"
+[Ibara] "Oh?! Are you feeling better already?"
 
 ;CHR OFF
 #cg all clear
@@ -90,40 +90,40 @@ My shoulders move lightly, and my cold has completely gone away.
 ;TKface
 
 #voice konb0510
-[Konomi] "Oh‾"
+[Konomi] "Ohhh."
 
 #voice tikb0567
-[Tsukiyo] "It was good."
+[Tsukiyo] "That was good."
 
-The elves who entered the hut jumped at me.
+The elves who entered the hut jumped on him.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Wow!? Abu..."
+"Whaaat?! That was close..."
 
 ;SE se015	足音１（飛び退く）
 
-I couldn't hold back when the four of them jumped at once, so I went back to bed with the momentum.
+Unable to hold on with all four of them jumping on me at once, I let my momentum carry me back to my bed.
 
-"It's dangerous! If you hit your head in a strange place, you'll be in bed with an injury next time!?"
+"That's dangerous! If you hit your head in a weird place, you'll end up hurting yourself and staying in bed!"
 
 ;CHR K02F2 L
 #cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0511
-[Konomi] "If you're injured, I can heal you. Can I do it?"
+[Konomi] "If you're injured, I can heal you, okay?"
 
-"That's why I don't want to hurt you!"
+"But I don't want to get hurt on purpose!"
 
 ;CHR H01F1_A R
 #cg ヒナタ hin_1_01f1_a 右
 #wipe fade
 
 #voice hinb0510
-[Hinata] "I don't want to get hurt!"
+[Hinata] "Injuries hurt!"
 
 ;CHR OFF
 #cg all clear
@@ -134,7 +134,7 @@ I couldn't hold back when the four of them jumped at once, so I went back to bed
 #wipe fade
 
 #voice ibab0570
-[Ibara] "You can get hurt, but be careful not to die!?"
+[Ibara] "It's okay if you get hurt, but be careful not to die, okay?!"
 
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
@@ -143,9 +143,9 @@ I couldn't hold back when the four of them jumped at once, so I went back to bed
 ;TKface
 
 #voice tikb0568
-[Tsukiyo] "It's no good if you die. I can't fix it."
+[Tsukiyo] "You can't die. It can't be fixed."
 
-“Why are you talking about me being careless!?
+「Why are you making it seem like I was careless?! That was something you guys should have been careful about!」
 
 ;CHR OFF
 #cg all clear
@@ -156,23 +156,23 @@ I couldn't hold back when the four of them jumped at once, so I went back to bed
 #wipe fade
 
 #voice hinb0511
-[Hinata] "That was it!"
+[Hinata] "That's right!"
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0512
-[Konomi] "Huh? Is that so?"
+[Konomi] "Huh? Is that really the case?"
 
-"I'm happy that you're happy, but please get out of here for now. I can't do anything if everyone is on board."
+"I'm glad you're happy, but please get out of the way for now. I can't do anything if everyone else is on top of me."
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0513
-[Konomi] "Yes"
+[Konomi] "Yes."
 
 ;CHR OFF
 #cg all clear
@@ -183,17 +183,17 @@ I couldn't hold back when the four of them jumped at once, so I went back to bed
 #wipe fade
 
 #voice ibab0571
-[Ibara] "What is it, why do we have to complain about human beings falling down?"
+[Ibara] "What the heck? Why should we have to complain just because a human fell down?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Even though I complained, Konomi, Ibara, and Hinata moved away.
+Konomi, Ibara, and Hinata all moved aside, though they complained.
 
 "Tsukiyo, can I have Tsukiyo back?"
 
-Only Tsukiyo is clinging to me with an anxious look.
+Only Tsukiyo was clinging tightly to me, looking anxious.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -202,9 +202,9 @@ Only Tsukiyo is clinging to me with an anxious look.
 ;TKface
 
 #voice tikb0569
-[Tsukiyo] “…Are you okay?
+[Tsukiyo] "...Are you okay now? Are you in any pain or discomfort anywhere?"
 
-"Yeah, it's okay. So don't worry."
+"Yeah, it's okay. So you don't have to worry."
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -213,17 +213,17 @@ Only Tsukiyo is clinging to me with an anxious look.
 ;TKface
 
 #voice tikb0570
-[Tsukiyo] "I'm glad..."
+[Tsukiyo] "That's good..."
 
-"Thanks for your concern"
+"thank you for worrying about me"
 
-I stroke the head of Tsukiyo who finally showed a relieved face.
+I pat Tsukiyo's head as he finally shows a look of relief.
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 #voice ibab0572
-[Ibara] "Ah!? Why did we listen to what you said, don't be a good boy and pat Tsukiyo's head!?"
+[Ibara] "Ahh!? Why are we not listening to what we're told and being good boys and girls and instead stroking Tsukiyo's head!?"
 
 ;CHR OFF
 #cg all clear
@@ -236,12 +236,12 @@ I stroke the head of Tsukiyo who finally showed a relieved face.
 #wipe fade
 
 #voice hinb0512
-[Hinata] "Hinata too! I want Hinata to sleep too!"
+[Hinata] "Hinata too! Hinata wants you to pet her too!"
 
 #voice konb0514
-[Konomi] "Even we were worried about the same thing, right?"
+[Konomi] "We were worried too, right?"
 
-"Yes, yes. Thank you, everyone. I'll pet you in turn."
+"Yes, yes. Thank you everyone. I'll take turns petting you."
 
 ;CHR OFF
 #cg all clear
@@ -269,10 +269,10 @@ I stroke the head of Tsukiyo who finally showed a relieved face.
 #wipe fade
 
 #voice hinb0513
-[Hinata] "That's fine!"
+[Hinata] "Then that's fine!"
 
 #voice konb0515
-[Konomi] "Fufufu‾"
+[Konomi] "Hehehe."
 
 ;CHR OFF
 #cg all clear
@@ -287,28 +287,28 @@ I stroke the head of Tsukiyo who finally showed a relieved face.
 ;TKface
 
 #voice tikb0571
-[Tsukiyo] "Fufu"
+[Tsukiyo] "Hehe."
 
-Everyone showed me a happy face as if they were just stroking their heads.
+Just by having my hand stroked their heads, they all had radiant, happy looks on their faces.
 
-Everyone was really worried about me... not just the child who took care of me.
+Everyone was really worried about me...and not just the kids who were taking care of me.
 
 ;SE
 
-Guuuuuuuuuuu
+Guuuuuuuuh...
 
 ;CHR I08F L
 #cg イバラ iba_1_08f 左
 #wipe fade
 
 #voice ibab0574
-[Ibara] "What's with that roar!?"
+[Ibara] "What was that growl just now?!"
 
-My stomach rumbled even though I was in a jean.
+Even though I was feeling sick, my stomach started growling.
 
 ;SE
 
-Guuuuuuuuuuu
+Guuuuuuuuh...
 
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
@@ -317,7 +317,7 @@ Guuuuuuuuuuu
 ;TKface
 
 #voice tikb0572
-[Tsukiyo] "Hyaa! See you again!"
+[Tsukiyo] "Hya?! Again!"
 
 ;CHR OFF
 #cg all clear
@@ -330,25 +330,25 @@ Guuuuuuuuuuu
 #wipe fade
 
 #voice hinb0514
-[Hinata] "I heard Ueta Kemono's voice!?"
+[Hinata] "I heard the voice of a beast!"
 
 ;SE
 
-Guuuuuuuuuuu
+Guuuuuuuuh...
 
 ;CHR K05 R
 #cg コノミ kon_1_05f 右
 #wipe fade
 
 #voice konb0516
-[Konomi] "Huh‾? I can hear it coming from Ningen-kun's stomach‾"
+[Konomi] "What? I can hear it coming from Human-kun's tummy."
 
 #voice hinb0515
-[Hinata] "Ningen-san, what are you hiding!?"
+[Hinata] "Human, what are you hiding?!"
 
-"I'm not hiding anything. Just a bug in my hungry stomach."
+"I'm not hiding anything. I'm just hungry."
 
-Come to think of it, I didn't eat much yesterday. hungry…….
+Come to think of it, I didn't eat much yesterday. I'm hungry...
 
 ;CHR OFF
 #cg all clear
@@ -363,12 +363,12 @@ Come to think of it, I didn't eat much yesterday. hungry…….
 ;TKface
 
 #voice tikb0573
-[Tsukiyo] "A belly bug? Is there a belly bug?"
+[Tsukiyo] "Stomach bugs? Do you have stomach bugs?"
 
 #voice ibab0575
-[Ibara] "Insect!? You have something like that in your stomach!?"
+[Ibara] "Insects?! Do you have something like that in your tummy?!"
 
-"No, no, I'm just hungry and my stomach rumbles. It's a physiological phenomenon."
+"No, no, I was just hungry and my stomach started growling. It's a natural occurrence."
 
 ;CHR OFF
 #cg all clear
@@ -381,30 +381,30 @@ Come to think of it, I didn't eat much yesterday. hungry…….
 #wipe fade
 
 #voice hinb0516
-[Hinata] "Is that so?
+[Hinata] "I see, so that's the end of it."
 
 #voice konb0517
-[Konomi] "What is Seirigensho‾? Hinata‾, do you understand what I mean‾? That's amazing‾"
+[Konomi] "What's 'Serigensho'? Hinata, do you know what it means? That's amazing."
 
 ;CHR H01F1_A L
 #cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinb0517
-[Hinata] "No, I don't know."
+[Hinata] "Hmm, I don't know."
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 #voice ibab0576
-[Ibara] "You don't understand!"
+[Ibara] "Don't you understand?"
 
 ;CHR K04F R
 #cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0518
-[Konomi] "Ahaha‾, I thought‾"
+[Konomi] "Hahaha, that's what I thought."
 
 ;CHR OFF
 #cg all clear
@@ -417,7 +417,7 @@ Come to think of it, I didn't eat much yesterday. hungry…….
 ;TKface
 
 #voice tikb0574
-[Tsukiyo] "Serigensho?"
+[Tsukiyo] "What's the sale price?"
 
 "It's the body's natural reaction."
 
@@ -425,13 +425,13 @@ Come to think of it, I didn't eat much yesterday. hungry…….
 #cg all clear
 #wipe fade
 
-Personally, I think it's going to be genkin as soon as I get well, but maybe it takes a lot of physical strength to get a fever.
+I know it's a bit selfish of me to suddenly feel better, but I guess having a fever takes a lot of energy.
 
-As soon as I became conscious, I was attacked by a ferocious hunger.
+The moment I became aware of it, I was hit by an intense feeling of hunger.
 
 ;SE
 
-Guuuuuuuuuuu
+Guuuuuuuuh...
 
 ;CHR H08F1_A L
 #cg ヒナタ hin_1_08f1_a 左
@@ -440,24 +440,24 @@ Guuuuuuuuuuu
 #wipe fade
 
 #voice hinb0518
-[Hinata] "Ahahahahaha, it happened again!"
+[Hinata] "Ahahahaha, here we go again!"
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0577
-[Ibara] "If you're so hungry, why don't you eat something?"
+[Ibara] "If you're that hungry, why don't you get something to eat?"
 
-"Hmm, that's right, but..."
+"Hmm, that's true, but..."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Maybe it's because I'm recovering from an illness, but I feel like my stomach and intestines aren't feeling very well.
+Maybe because I've just recovered from an illness, my stomach doesn't seem to be in the best of shape.
 
-“The things I have now are cereals, dried meat, and dried fish, but they’re a little heavy… so maybe I should go get some fruit.”
+"All I have right now are grains, dried meat, and dried fish, but they're a bit heavy... so maybe I'll go get some fruit."
 
 ;CHR T05F_L R
 #cg ツキヨ tuk_1_05f_l 右
@@ -466,18 +466,18 @@ Maybe it's because I'm recovering from an illness, but I feel like my stomach an
 ;TKface
 
 #voice tikb0575
-[Tsukiyo] "Is it okay to go out?"
+[Tsukiyo] "Is it okay for you to go out?"
 
-“Yeah, I think it’s fine.
+"Yeah, I think it'll be fine. I don't intend to push myself too hard, so I'll just eat enough for today and for breakfast tomorrow..."
 
-Besides, I've been holed up in a hut for a long time, so I want to get some fresh air.
+Besides, I've been cooped up in the shed for so long, I'd like to get some fresh air.
 
 ;CHR H07F_A L
 #cg ヒナタ hin_1_07f_a 左
 #wipe fade
 
 #voice hinb0519
-[Hinata] "Then, let's go fruit picking! It's Tanken again!?
+[Hinata] "Well, let's go get some fruit! We're going to get some more! Yay! Hinata, I'll pick lots for you!"
 
 ;CHR OFF
 #cg all clear
@@ -488,14 +488,14 @@ Besides, I've been holed up in a hut for a long time, so I want to get some fres
 #wipe fade
 
 #voice ibab0578
-[Ibara] "Humans say 'I don't need a lot', right?"
+[Ibara] "Humans say, 'I don't need too much,' right?"
 
 ;CHR H05F_A L
 #cg ヒナタ hin_1_05f_a 左
 #wipe fade
 
 #voice hinb0520
-[Hinata] "Huh? Isn't today and tomorrow full?"
+[Hinata] "Huh? Aren't there plenty of ones for today and tomorrow?"
 
 ;CHR OFF
 #cg all clear
@@ -506,18 +506,18 @@ Besides, I've been holed up in a hut for a long time, so I want to get some fres
 #wipe fade
 
 #voice konb0519
-[Konomi] "Fruit‾, you can tell Ningen-kun my secret place‾"
+[Konomi] "Fruit, huh? I can tell you my secret place, human."
 
-"Eh, is there such a place?"
+"What, there's a place like that?"
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0520
-[Konomi] "Yeah. There's a lot of trees growing here, and a lot of fruits. It's really beautiful, but I kept it a secret."
+[Konomi] "Yes. There are all kinds of trees growing there, and lots of different fruits growing there. It's really beautiful, but I've been keeping it a secret."
 
-A place that Konomi says is beautiful? That's interesting.
+A place that Konomi says is beautiful? That sounds interesting.
 
 ;CHR OFF
 #cg all clear
@@ -528,9 +528,9 @@ A place that Konomi says is beautiful? That's interesting.
 #wipe fade
 
 #voice ibab0579
-[Ibara] "I have a place like that too! There are red, orange, green, and purple fruit like a carpet."
+[Ibara] "I have a place like that too! There are red, orange, green, and purple berries growing there like a carpet."
 
-"Is it like a carpet?"
+"Like a carpet, you mean like a flea's nest?"
 
 Kurenai fleas are sweet and sour and delicious.
 
@@ -539,22 +539,22 @@ Kurenai fleas are sweet and sour and delicious.
 #wipe fade
 
 #voice ibab0580
-[Ibara] "I don't know what it is, but I have a lot of red berries of this size."
+[Ibara] "I don't know what they are, but there are a ton of these big red berries growing here."
 
-Ibara shows off by making a circle with his thumb and index finger.
+Ibarra makes a circle with his thumb and index finger, showing it off.
 
-If it's that size and grows on the ground, it's probably really Kurenai flea or Chinotaiyou. Either way, the fruit is juicy and delicious.
+The fact that it grows on the ground at that size suggests that it is probably a Japanese quince or a Chinese quince. Either way, it is a fresh and delicious fruit.
 
-Perfect for recovering from illness.
+It might be perfect for recovering from an illness.
 
-"Heh‾, that's nice too."
+"Hmm, that's good too."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0581
-[Ibara] "It's a carpet, it's a carpet! That's why what I know is amazing!"
+[Ibara] "It's a carpet, a carpet! That's why the place I know is better!"
 
 ;CHR OFF
 #cg all clear
@@ -567,12 +567,12 @@ Perfect for recovering from illness.
 #wipe fade
 
 #voice konb0521
-[Konomi] "It's amazing how fruits grow from the top of the tree‾"
+[Konomi] "It's amazing that fruit grows on trees."
 
 #voice hinb0521
-[Hinata] "Then, if both Ue and Shita were crap, it would be even more amazing!"
+[Hinata] "Well, if both your top and bottom were fruit, it'd be even more amazing!"
 
-Ibara and Konomi started arguing about how amazing the secret place they knew was, but Tsukiyo pulled my sleeve.
+While Ibara and Konomi began rambling on about how amazing the hidden spot they knew was, Tsukiyo tugged on my sleeve.
 
 ;CHR OFF
 #cg all clear
@@ -587,20 +587,20 @@ Ibara and Konomi started arguing about how amazing the secret place they knew wa
 "Hmm? What is it?"
 
 #voice tikb0576
-[Tsukiyo] "I know a lot of fruits."
+[Tsukiyo] "There are lots of fruits, I know."
 
-"Does Tsukiyo also know a little-known spot?"
+"Do you know any hidden spots, Tsukiyo?"
 
 #voice tikb0577
-[Tsukiyo] "Nm...that's it."
+[Tsukiyo] "Hmm... yes."
 
-"Is that so... well then, I'd like to check it out too... but there are places I haven't checked on the map yet..."
+"I see... Then I'd like to check that place out too... But there are still some places on the map that I haven't checked yet..."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Well, I wonder who will go to what they say...
+Now, I wonder if I should go to that place that someone suggested...
 
 ;・選択肢発生
 #select a b c d

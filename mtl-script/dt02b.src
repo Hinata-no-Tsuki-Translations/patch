@@ -1,0 +1,235 @@
+
+Unable to say anything, I just stroked Tsukiyo's head.
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0080
+[Tsukiyo] "Huh?!"
+
+Tsukiyo looked up at me with a shocked face.
+
+"...I know Tsukiyo didn't want to hurt Hinata. It must have been painful."
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0081
+[Tsukiyo] "Eh... Eeeeeeeeeyyy!"
+
+Tsukiyo's tension seemed to be released when she was stroked on the head, and she began crying loudly.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;背景：山小屋（昼）
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0082
+[Tsukiyo] "Hmph... sniff... sniff... aching..."
+After crying for a while, she seemed to calm down, and her cries gradually subsided until she was just quietly sobbing.
+
+"Have you calmed down yet?"
+
+#voice tuke0083
+[Tsukiyo] "Yes, it is... Zuby."
+
+Tsukiyo sniffed loudly and stopped crying.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0084
+[Tsukiyo] "I said some horrible things to Hinata, like I hate you...Hinata was worried about me."
+
+"Hinata probably knows Tsukiyo has had her hands full, so it's okay. If you apologize the next time you see her, she'll forgive you."
+
+#voice tuke0085
+[Tsukiyo] "That's fine. Even if I'm not forgiven, I want to apologize properly..."
+
+"I'm sure they'll understand."
+
+He would probably cheerfully reply that it was Hinata so she should just apologise and not worry about it.
+
+On the contrary, they will surely be happy just to know that their concerns have been conveyed.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0086
+[Tsukiyo] "I'm still angry about Ibara... But I hope I can apologize for saying I didn't need him."
+
+"Yeah, that's right."
+
+#voice tuke0087
+[Tsukiyo] "This fabric is very important to me, so I got angry when I was told that thorns would be more suitable. But it's not like I don't need it. I don't dislike it."
+
+#voice tuke0088
+[Tsukiyo] "I don't hate Hinata or Ibara. I like them very much. They are my dear... dear friends."
+
+"Yeah, I know. I know too, and I'm sure you two know too."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0089
+[Tsukiyo] "...Yes, it is."
+
+Tsukiyo suddenly looked up at me and smiled.
+
+#voice tuke0090
+[Tsukiyo] "Humans are kind."
+
+"Eh? Yeah, really?"
+
+When I started to act strangely at the unexpected praise, Tsukiyo grabbed my hand tightly.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0091
+[Tsukiyo] "His hands were so warm as he stroked me. He was so gentle."
+
+Then, holding the hand he was holding like a treasure, Tsukiyo muttered firmly, putting determination into each word.
+
+#voice tuke0092
+[Tsukiyo] "If I meet them again, I'll apologize to them both. But... I won't go back to the elves. I want to stay with the humans."
+
+"picture?"
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0093
+[Tsukiyo] "Is it okay for me to stay by your side? I can help humans."
+
+Tsukiyo pleaded earnestly.
+
+"N-no... I'd be happy if you'd stay with me though."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+The sudden offer makes him unexpectedly reveal his true feelings.
+
+Yeah, I wanted to be with you guys more.
+
+At first, I had planned to live alone in this forest, but after meeting Hinata and the others, I started living with them and had a lot of fun.
+
+She had at least come to terms with the fact that she would be separated from the elves around the time of the full moon, but she would be extremely happy if Tsukiyo at least stayed by her side.
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0094
+[Tsukiyo] "Are you happy being together?"
+
+Tsukiyo asked back with a surprised look on his face.
+
+#voice tuke0095
+[Tsukiyo] "Is it okay if I stay, Tsukiyo?"
+
+"I don't mind if you're here, I'm happy to be here with you, Tsukiyo."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0096
+[Tsukiyo] "Ahh... are you happy?"
+
+"Yeah, I'm happy."
+
+Tsukiyo's eyes widened in shock, then he burst out laughing.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0097
+[Tsukiyo] "Tsukiyo is happy just like humans."
+
+"We're together."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0098
+[Tsukiyo] "It's the same. Hehehe..."
+
+Tsukiyo jumped up and down in little bouncy movements and clung to my arms.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0099
+[Tsukiyo] "It's the first time someone's told me they're happy to be with me."
+
+#voice tuke0100
+[Tsukiyo] "So, what are we going to do today? We'll do our best!"
+
+"Ah, ah... then..."
+
+And from that day on, Tsukiyo would happily help me with anything I wanted to do.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;ツキヨ好感度+1
+#set f4 f4+1
+
+;dt03へ
+#next dt03

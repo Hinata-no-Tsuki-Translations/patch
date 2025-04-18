@@ -1,0 +1,373 @@
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"...I won't come back."
+
+Even though he has always made fun of her, he can't shake the feeling that now she is needed and acknowledged.
+
+It may have been childish stubbornness, but I just couldn't give in.
+
+Rather, I feel like that inquiry is what made me decide to go.
+
+If you're in trouble without me, then that's fine.
+
+It may seem petty to take revenge for being ridiculed or belittled, but I'm not so generous as to let go of what has been done to me.
+
+They were the ones who said it was pointless to be able to read. Who cares what would happen if you couldn't read?
+
+I'm not going back to that village anymore.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0462
+[Tsukiyo] "Aren't you going back to the village?"
+
+"Since I'm here, I'm going to do as everyone suggested and go to a big city to become a scholar."
+
+Even if you don't become a scholar, in a big town, unlike in a small village, there are plenty of ways for you to support yourself.
+
+If you can't make it in town, you can go to another village. There's no need to go back to a place where you never belonged in the first place.
+
+#voice tuke0463
+[Tsukiyo] "Well... then, will humans be going too?"
+
+"Yes, I think I should go before my resolve weakens. Yes, let's go together. Let's get ready right away."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0464
+[Tsukiyo] "...Yes, it is."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+;背景：街道（昼）
+;BG BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+Packing my bags was easy.
+
+The only things I take with me are the same minimum luggage I had when I left the village, the gifts I received from the elves, and the crafts I made to sell for money.
+
+With this much, no matter how expensive things are in town, they shouldn't have any trouble living on it for a while.
+
+I'm sad to leave the books in this hut behind, but with the treasure the elves gave me, I'll be able to buy as many as I want once I get into town.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0465
+[Tsukiyo] "I have a lot of luggage."
+
+"...Is it okay for Tsukiyo to come empty-handed?"
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0466
+[Tsukiyo] "Huh?"
+
+Tsukiyo tilts his head, not understanding what he's being said.
+
+All Tsukiyo is wearing is his usual clothes and the usual fabrics.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0467
+[Tsukiyo] "Do you need something?"
+
+"It's fine if you don't need Tsukiyo..."
+
+Elves don't need to eat anything and can sleep anywhere, so I wonder if they don't need anything when traveling.
+
+Come to think of it, even after I started coming here, I didn't bring any luggage with me, even though I did bring a gift for myself.
+
+Since it was going to be a long journey, I wanted to reduce my luggage as much as possible, but as a human being, it's hard to be so bold as to do so.
+
+"Where are you planning to go first?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0468
+[Tsukiyo] "I'll try looking in a large forest. I don't think Elves or Dark Elves live where there are humans. So I'll look for a place where there are no humans."
+
+"I see. In that case, I guess we should head towards the nearest forest from here."
+
+I explained the location to Tsukiyo while checking the map I had obtained.
+
+I'm heading for the royal capital now, so I'm heading in the opposite direction to the nearest forest.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0469
+[Tsukiyo] "I have plenty of time. I'll check each place I find in order."
+
+Tsukiyo declared, breathing heavily.
+
+"I feel like I'm going to faint."
+
+#voice tuke0470
+[Tsukiyo] "If you search hard, you'll definitely find it someday."
+
+Tsukiyo clenched his fist vigorously as if to get pumped up.
+
+...Elfs have so much time that it seems infinite to humans.
+
+"...But first, let's not get caught by humans."
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0471
+[Tsukiyo] "Huh?"
+
+"Ibara said that humans have people called Elf Hunters. If we're locked up, we won't be able to go looking for the Dark Elves."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0472
+[Tsukiyo] "Hahahahaha, I'll have to be careful."
+
+"If you're about to be seen by humans, cover your ears with the cloth."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0473
+[Tsukiyo] "Yes, but..."
+
+Tsukiyo laughed softly.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0474
+[Tsukiyo] "If I ever met a human like Ningen-san, I'd like to be friends with him."
+
+"Tsukiyo..."
+
+I hope we meet, I began to answer, but then shook my head.
+
+"No, no, you never know what kind of person they are. Don't trust people easily. If you see someone, hide. Don't trust them just because they seem nice."
+
+#voice tuke0475
+[Tsukiyo] "Hehe, even though you're a human, you say something strange like you shouldn't trust other people."
+
+"It's good to be a little skeptical. Humans are scary after all."
+
+...The truth is, I don't want anyone other than me to become attached to Tsukiyo.
+
+I can't possibly say that I feel that way.
+
+#voice tuke0476
+[Tsukiyo] "Then I'm glad that the person I became friends with was a human."
+
+I'm not sure if I'm particularly worthy of that much trust...But it tickles my heart that Tsukiyo has that much faith in me.
+
+"after that……"
+
+I went crazy, wondering if there was anything else I could say.
+
+In short, I just can't help but feel nostalgic.
+
+"...I think I'll go with Tsukiyo."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0477
+[Tsukiyo] "Huh?"
+
+"I'll go on a voyage together with Tsukiyo in search of dark elves. What do you think?"
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0478
+[Tsukiyo] "Human, I'm not a dark elf. What would you do by looking for a dark elf?"
+
+"That is... I don't know, but maybe we can find it faster than Tsukiyo alone."
+
+#voice tuke0479
+[Tsukiyo] "Hmm..."
+
+Tsukiyo thought for a moment, then shook his head.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0480
+[Tsukiyo] "That's fine. I'll look for it by myself."
+
+Tsukiyo stated firmly.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0481
+[Tsukiyo] "Human, you will become a scholar. Human time is much, much shorter than elven time. That's why you shouldn't come with me."
+
+"Tsukiyo..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo quickly took some distance from me and waved his hand.
+
+;SMODE 065 PLAY
+#label replay065
+#setscene 62
+#bg BG12_1
+
+;ＥＶ絵――EV073『またいつか』
+;EVCG EV073A1
+;#face off
+
+
+#cg イベント ev073a1 背景
+#wipe fade
+
+#voice tuke0482
+[Tsukiyo] "It was fun being with you. But now it's time to say goodbye."
+
+Tsukiyo smiles.
+
+#voice tuke0483
+[Tsukiyo] "I learned so many things. I'm sure I can become a scholar. I'll do my best."
+
+Tsukiyo's eyes completely believe in me.
+
+#voice tuke0484
+[Tsukiyo] "Tsukiyo is a dark elf, and I am searching for her. When you become a scholar, come looking for her. Then, I'm sure we will meet again."
+
+"...Tsukiyo."
+
+#voice tuke0485
+[Tsukiyo] "So, until that day comes, goodbye."
+
+If I hadn't let go of her hand once I had taken it, would we have been able to stay by her side for longer?
+
+However, Tsukiyo, who had begun to walk her own path, seemed truly dazzling.
+
+Don't get in the way of that brilliance.
+
+#voice tuke0486
+[Tsukiyo] "I'm sure we'll meet again."
+
+Without a single doubt, Tsukiyo smiles cheerfully.
+
+I think it's safe to say that Tsukiyo is able to laugh like this because she met me.
+
+If that were the case, then maybe my existence would have had a reason.
+
+#voice tuke0487
+[Tsukiyo] "Then we'll be together forever again."
+
+"……Yeah"
+
+#voice tuke0488
+[Tsukiyo] "Goodbye until we meet again."
+
+;SMODE 065 STOP
+#endscene
+
+#bgvoice stop
+
+;ツキヨENDフラグON
+#set t3 1
+#set s4 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;MCK
+#wait 4000
+#cg all clear
+#bg black
+#wipe fade
+
+;※エンド表示
+;BG:BG73_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg73_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+;タイトルへ
+#title

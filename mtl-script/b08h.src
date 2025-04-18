@@ -3,18 +3,18 @@
 ;背景：山小屋（昼）
 ;変更なし
 
-"Hinata, where do you think Hinata should go?"
+"Hinata, where do you think we should go, Hinata?"
 
 ;CHR H04F2_A C
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0522
-[Hinata] “Howl!?”
+[Hinata] "Huh!?"
 
-It seems that no matter who goes to the place recommended, the root of the trouble will remain.
+No matter who recommends it, it seems there will be some lasting consequences.
 
-In that case, it would be best to let Hinata, who doesn't think anything of it, choose.
+In that case, it would be best to let Hinata, who had no idea what to do, choose for herself.
 
 ;CHR OFF
 #cg all clear
@@ -25,14 +25,14 @@ In that case, it would be best to let Hinata, who doesn't think anything of it, 
 #wipe fade
 
 #voice ibab0582
-[Ibara] "Why are you asking Hinata?! I'm the one who said I was going to lead you to the fruit carpet!"
+[Ibara] "Why would you ask Hinata?! I said I'd show you the carpet of fruit!"
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0522
-[Konomi] “I wish I could show you where there are lots of fruits growing.”
+[Konomi] "I wish I could show you where there are lots of fruits growing."
 
 ;CHR OFF
 #cg all clear
@@ -45,20 +45,20 @@ In that case, it would be best to let Hinata, who doesn't think anything of it, 
 ;TKface
 
 #voice tikb0578
-[Tsukiyo] “Wow, I wanted to tell you.”
+[Tsukiyo] "Oh, I wanted to tell you."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Contrary to everyone who looked a little resentful, Hinata looked surprised and nervous.
+Unlike everyone else who looked a little resentful, Hinata looked shocked and dazed.
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0523
-[Hinata] "Eh!? What should we do!? Where should we go!?"
+[Hinata] "Eh?! What should I do?! Where should I go?!"
 
 ;CHR OFF
 #cg all clear
@@ -73,10 +73,10 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 ;TKface
 
 #voice ibab0583
-[Ibara] “I said I would show you around, so just follow me!”
+[Ibara] "I said I'd show you around, so just follow me!"
 
 #voice tikb0579
-[Tsukiyo] “Tell me, I want to give it to you…”
+[Tsukiyo] "I want to teach you..."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -87,21 +87,21 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 #wipe fade
 
 #voice konb0523
-[Konomi] “When Ibara says that, I definitely want to take Human-kun to a place I know.”
+[Konomi] "When Ibara says that, it definitely makes me want to take Ningen-kun to a place I know."
 
 #voice ibab0584
-[Ibara] “Oh, that’s it…!”
+[Ibara] "Th-That's not possible...!"
 
-"Ah, yes, yes. I'm asking Hinata now, so we won't fight."
+"Ah, yeah, yeah. I'm listening to Hinata now, so we won't fight."
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0585
-[Ibara] "Because! Even if you ask Hinata!"
+[Ibara] "But! Even if you ask Hinata!"
 
-"Hey, what is Hinata? I'm asking Hinata right now."
+「Hey, what are you talking about Hinata? I'm asking Hinata right now.」
 
 ;CHR OFF
 #cg コノミ clear
@@ -114,7 +114,7 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 ;TKface
 
 #voice tikb0580
-[Tsukiyo] “Huh, I was left in charge of Hinata.”
+[Tsukiyo] "Ah, I've left it to Hinata."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -127,7 +127,7 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 #voice konb0524
 [Konomi] "It's fair if Hinata chooses, right?"
 
-"Such that"
+"That's right."
 
 ;CHR OFF
 #cg all clear
@@ -138,25 +138,25 @@ Contrary to everyone who looked a little resentful, Hinata looked surprised and 
 #wipe fade
 
 #voice hinb0524
-[Hinata] "Oh!? It's Sekininjudai!?"
+[Hinata] "Oh?! It's the Imperial Guard?!"
 
-Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
+Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then up at me.
 
 ;CHR H03F1_A C
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 
 #voice hinb0525
-[Hinata] “Hmm, hmmm…”
+[Hinata] "Hmm, hmm..."
 
-“You don’t have to think about it too much, I think it’s okay if you just instinctively think this is the place.”
+"You don't have to think about it that much. I think it's fine if you just go with your gut feeling and think this is the place."
 
 ;FACE I05F
 #face f_iba_0_05f 94 466
 
 
 #voice ibab0586
-[Ibara] "That's right! Just let me guide you with my intuition."
+[Ibara] "That's right! Just let me guide you with your intuition."
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
@@ -170,23 +170,23 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 
 
 #voice konb0525
-[Konomi] “Ahahaha‾ Don’t try to force them to choose, Ibara‾”
+[Konomi] "Hahaha‾ Don't force me to choose, Ibara‾"
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0526
-[Hinata] "Huh!? You were being fucked!?"
+[Hinata] "Huh?! What have you done?"
 
-“Obviously.”
+"Obviously."
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0527
-[Hinata] "Oh my god! Hmm, hmm, I wonder where is the best place to go?"
+[Hinata] "Oh dear! Hmm, hmm, I wonder where would be the best place to go."
 
 ;CHR OFF
 #cg all clear
@@ -196,36 +196,36 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then looked up at me.
 ;SE se025 小屋内でドタンバタン
 #se 1 se025
 
-Hinata ran around holding her ears.
+Hinata ran around clutching her ears.
 
-I wonder why I keep running around when I try to think.
+Why do I run around when I try to think?
 
-"Anywhere is fine, but if you don't decide soon, I'm going to get hungry."
+"Anywhere is fine, but if you don't decide quickly, I'm going to get hungry."
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0528
-[Hinata] “Hawa!? Hawawa!?”
+[Hinata] "Huh?! Huh?!"
 
-Hinata started running faster and suddenly stopped.
+Hinata panicked, running around faster and then suddenly stopped.
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0529
-[Hinata] “Ningen-san, this is it!”
+[Hinata] "Human, here!"
 
-Hinata shouted as she held up a book with a map on it that she often uses when exploring her surroundings.
+Hinata shouted as she held up a book with a map on it that she often used when exploring the surrounding area.
 
-I've been adding a lot of new things I've learned recently.
+Lately, I've been adding quite a bit of information that I've learned recently.
 
-“What is that?”
+"So what?"
 
 #voice hinb0530
-[Hinata] “I guess it would be better to go to the place where this book is written!”
+[Hinata] "After all, wouldn't it be better to go to the place mentioned in this comment?"
 
 ;CHR OFF
 #cg all clear
@@ -236,9 +236,9 @@ I've been adding a lot of new things I've learned recently.
 #wipe fade
 
 #voice ibab0587
-[Ibara] "Huh? Well then, it's the same as usual, isn't it?"
+[Ibara] "Eh? Then it's the same as always."
 
-Ibara clearly looks disgusted.
+Ibara's face turned obviously displeased.
 
 ;CHR OFF
 #cg all clear
@@ -249,11 +249,11 @@ Ibara clearly looks disgusted.
 #wipe fade
 
 #voice hinb0531
-[Hinata] “But, Mr. Human said there were a lot of things I hadn’t done before!?”
+[Hinata] "But, the human said there were a lot of things that he hadn't checked before!"
 
 "Ah, yeah. Well, that's true, but..."
 
-If we go to the place shown on the map, it doesn't mean we're going to go where anyone told us to go, so it'll be fair, right?
+If we go to a place that's on the map here, it's not like we're going somewhere someone told us to go, so would that be fair?
 
 "Yeah, that might be best."
 
@@ -262,9 +262,9 @@ If we go to the place shown on the map, it doesn't mean we're going to go where 
 #wipe fade
 
 #voice hinb0532
-[Hinata] “Right!?”
+[Hinata] "Right?!"
 
-Hinata looked content as she held up the book with great care.
+Hinata held the book up carefully and looked pleased.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -285,14 +285,14 @@ Hinata looked content as she held up the book with great care.
 #bg BG04_1
 #wipe fade
 
-That's why I came looking for fruit while looking at the map...
+So that's why I came here looking for fruit, while looking at the map...
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0533
-[Hinata] “Midori is the only one again!?”
+[Hinata] "Midori's singing again?!"
 
 ;CHR OFF
 #cg all clear
@@ -303,7 +303,7 @@ That's why I came looking for fruit while looking at the map...
 #wipe fade
 
 #voice konb0526
-[Konomi] “There’s nothing like that.”
+[Konomi] "There's nothing here."
 
 ;CHR OFF
 #cg all clear
@@ -314,7 +314,7 @@ That's why I came looking for fruit while looking at the map...
 #wipe fade
 
 #voice ibab0588
-[Ibara] "I thought there were some fruits, but they were all unripe green fruits. Do human beings eat this kind of thing?"
+[Ibara] "I thought there were a few fruits, but there were only green, unripe fruits. Do humans eat these?"
 
 
 ;CHR OFF
@@ -328,56 +328,56 @@ That's why I came looking for fruit while looking at the map...
 ;TKface
 
 #voice tikb0582
-[Tsukiyo] “It’s green, sour and bitter.”
+[Tsukiyo] "It's green and bitter."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Hmm, I'm here. Maybe it's the wrong time..."
+"Hmm, that's bad. Maybe it's the wrong time..."
 
-Looking at the leaves, I could immediately tell that there were many trees around here that produced fruit, but none of them were bearing fruit.
+Looking at the leaves, it was immediately clear that there were many fruit-bearing trees in the area, but none of them were bearing fruit.
 
-I thought there was a little bit of it, but it had been eaten away by animals or something, so there wasn't much that looked like it could be eaten properly.
+Just when you think there might be a little, it seems like it's been eaten by some animal, so there's not much that looks edible.
 
-"Ah, look. But there's a sardine growing here. I think it's edible, but..."
+"Ah, look. But there's a coral reed growing here. It looks edible though..."
 
-When you pick one up and bring your face closer to it, you'll notice a soft, mature scent.
+When I picked one and held it up to my face, I could smell a ripe fragrance wafting from the air.
 
-When I chewed it with my teeth, it tasted sweet.
+When I chewed it with my teeth, it definitely tasted sweet.
 
-"Ah, this is delicious."
+"Oh, this is delicious."
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0534
-[Hinata] "Good! Then, let's eat lots of human beings! Hinata will only collect the others!"
+[Hinata] "Great! Then eat lots of humans! Hinata will only collect the rest!"
 
-Hinata happily goes around picking various fruits, but all of them are green fruits that are not yet ripe.
+Hinata was happily picking all kinds of berries, but every single one of them was still green and unripe.
 
-"Hinata, I feel happy, but I can't eat that."
+"Hinata, I appreciate the sentiment, but I can't eat that."
 
 ;CHR H06F2_A C
 #cg ヒナタ hin_1_06f2_a 中
 #wipe fade
 
 #voice hinb0535
-[Hinata] "Huh? Sona!?"
+[Hinata] "Eh? Is that so?!"
 
-Hinata immediately dropped the fruit she picked.
+Hinata immediately dropped the fruit she had picked.
 
-"Ah. The purple fruit, the red fruit, and the orange fruit will take a little longer to eat."
+"Ah. The ones I can eat are the purple ones and the red ones. It looks like it will take a little longer for the orange ones to be edible..."
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0536
-[Hinata] "Oh well. But Ishinashi is Midori!? You can eat that, but you can't eat other Midori!?"
+[Hinata] "I see. But isn't the rockfish green?! You can eat that, but you can't eat other greens?!"
 
-``That's because the color when ripe differs depending on the species. Ishinashi was a darker green, but when it turns this yellowish color, it means it's ripe.''
+"Well, different fruits have different colours when ripe. Ishishinashi are a darker green, but when they turn yellowish like this they're ripe."
 
 ;CHR OFF
 #cg all clear
@@ -390,9 +390,9 @@ Hinata immediately dropped the fruit she picked.
 ;TKface
 
 #voice tikb0583
-[Tsukiyo] “Then, what would happen if you ate it while it was still green?”
+[Tsukiyo] "So then, what happens if you eat it while it's still green?"
 
-"It won't upset your stomach, but it's sour and bitter and will put you in trouble."
+"It won't upset your stomach, but it's sour and bitter, it'll give you a lot of trouble."
 
 ;CHR OFF
 #cg all clear
@@ -403,7 +403,7 @@ Hinata immediately dropped the fruit she picked.
 #wipe fade
 
 #voice hinb0537
-[Hinata] "Wow!? Is it sour?"
+[Hinata] "Huh?! It's sour and bitter."
 
 ;CHR OFF
 #cg all clear
@@ -413,67 +413,67 @@ Hinata immediately dropped the fruit she picked.
 #cg イバラ iba_1_01f 左
 #wipe fade
 
-Ibara pouted his lips at my explanation.
+Ibara pursed his lips at my explanation.
 
-This is just because I didn't go to the place I recommended.
+I guess he's sulking because we didn't go to the place he recommended.
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0589
-[Ibara] “People can eat anything without being extravagant.”
+[Ibara] "Humans should be free to eat whatever they want without being picky."
 
-"Don't say that. Unripe fruit has a really strong taste."
+"Don't say that. Unripe fruit has a pretty nasty taste."
 
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0527
-[Konomi] “Sodayo‾.Yes, Ibara.”
+[Konomi] "That's right. Yes, Ibara."
 
-Konomi laughed and shoved the unripe fruit of Kurenainomi into Ibara's mouth.
+Konomi laughed as she shoved the unripe fruit of the Kurenai flea into Ibara's mouth.
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0590
-[Ibara] "Fugya!? What, what is this! Sour! Ugh, Peppe!"
+[Ibara] "Ugh!? What, what is this?! It's sour! Ugh, peek!"
 
 ;CHR K04F R
 #cg コノミ kon_1_04f 右
 #wipe fade
 
 #voice konb0528
-[Konomi] “You know, unripe fruit tastes awful, right? Ahahahahaha”
+[Konomi] "You know, unripe fruit tastes awful, right? Ahahahahaha."
 
-Konomi was the one who threw the sour thing into Ibara's mouth, but she was laughing as if it were someone else's problem.
+Konomi is the one who put something sour in Ibara's mouth, but she laughs about it as if it had nothing to do with her.
 
-I think it's to explain things to Ibara, but most of the time they don't do terrible things.
+I'm sure it's to explain things to Ibara, but he's doing some pretty horrible things.
 
 #voice ibab0591
-[Ibara] “What are you doing, Konomi!?”
+[Ibara] "What are you doing, Konomi?!"
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0529
-[Konomi] “I just told Ibara that it doesn’t taste good.”
+[Konomi] "I was just telling Ibara that it doesn't taste good."
 
 #voice ibab0592
-[Ibara] “I’m going to throw that one in Konomi’s mouth too!”
+[Ibara] "I'm going to shove that thing in Konomi's mouth too!"
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
 #wipe fade
 
 #voice konb0530
-[Konomi] "Huh? That's fine. I am."
+[Konomi] "Eh? Sure. I'll."
 
-The chase between Ibara and Konomi began as usual.
+As usual, the chase between Ibara and Konomi began.
 
 ;CHR OFF
 #cg all clear
@@ -486,90 +486,90 @@ The chase between Ibara and Konomi began as usual.
 ;TKface
 
 #voice tikb0584
-[Tsukiyo] "Wow...Mr. Insect, I found a beetle larva...!"
+[Tsukiyo] "Oh... Bug, I found an armored beetle larva...!"
 
-Tsukiyo had been staring at the ground for a while now, looking extremely happy.
+Tsukiyo had been gazing at the ground for a while now and looked extremely happy.
 
-...No wonder. They must have gotten tired of the fact that they came all the way and realized that they didn't seem to be able to get much of a harvest.
+...It's no wonder. He probably got bored after realizing that he had come all the way here and wasn't going to get much out of it.
 
-There are still some edible fruits growing, but it will take at least half a month to harvest them.
+There are some edible fruits growing, but it will probably be another two weeks or so before they can be harvested.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-After I finish eating this dish, I'll quickly return to the hut and read a book quietly for today.
+Once I'd finished eating this rockfish, I decided to quickly return to the hut and quietly read a book for the day.
 
-I'm recovering from illness, and that's good.
+I've just recovered from an illness, so that's a good thing.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0538
-[Hinata] "Ningen-san, Ningen-san, there's a black stain! If you crush it, a green sill will come out!"
+[Hinata] "Human, human, there's a pitch black object! If you crush it, a green seal will appear!"
 
-"Wow, that's an Ogre Goroshi. Don't touch it!"
+"Whoa, that's an Ogre Killer! Don't touch it!"
 
 ;音声なし
 ;ヒナタ:「ほえ？」
 
-"That's poison. It's extremely poisonous. If you eat it by mistake, your intestines will hurt like they're going to be torn apart! Oh, good. I didn't put any juice on my hands."
+"That's poison. Highly poisonous. If you accidentally eat it, your intestines will hurt so much they feel like they're about to twist! Ah, thank goodness. You don't have any juice on your hands."
 
 ;CHR H04F2_A C
 #cg ヒナタ hin_1_04f2_a 中
 #wipe fade
 
 #voice hinb0539
-[Hinata] "Isn't this a joke?"
+[Hinata] "Isn't this juku?"
 
-"It's ripe, but I can't eat it. If I get the juice on my hands, I'll get a rash."
+"They're ripe, but I can't eat them. If the juice gets on my hands or something, I'll get a rash."
 
-It's highly poisonous, but the color is poisonous, so you can easily tell if you get it somewhere.
+It is highly poisonous, but its poisonous color makes it easy to tell if it gets on something.
 
-Hinata crushed the Ogre Goroshi with a stone, but it didn't seem to touch the juice.
+Hinata crushed the Ogre Goroshi with a stone, but it seems she didn't come into contact with the juice.
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
 #wipe fade
 
 #voice hinb0540
-[Hinata] "I see. Can't you eat it? Then what about this purple one!?"
+[Hinata] "I see. So you can't eat it. Then what about this purple one over here?"
 
-"It's... it's not poisonous, but it's bitter."
+"That's... not poisonous, but it's bitter."
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0541
-[Hinata] "Is it cool!? Well then, I'll go find something different!"
+[Hinata] "Is it tough?! Then I'll go find something different!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Ah……"
+"Ah..."
 
-For the time being, I failed to tell him that I would be back after I ate the Ishinashi.
+For the time being, I failed to tell him that I would be back after eating the carp.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0542
-[Hinata] "Ningen-san, what's this red one?"
+[Hinata] "Human, what's this red thing over here?"
 
-"Hmm? Which one? Ah, I guess humans won't eat this. But birds will like it."
+"Hmm? Let's see. Ah, I don't think humans would eat this. But birds should like it."
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0543
-[Hinata] "Wow, yeah...Ningen-san knows a lot of things!"
+[Hinata] "Wow... Humans know so many things!"
 
-Hinata seems to be having fun, so it's okay.
+Hinata looks like she's having fun, so it's okay.
 
 ;ヒナタ好感度+1
 #set f1 f1+1

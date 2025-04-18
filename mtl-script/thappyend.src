@@ -1,0 +1,861 @@
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋中（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"No, I'm not coming back."
+
+I answered firmly.
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0489
+[Tsukiyo] "It's not coming back... is it?"
+
+"They asked me to come back, and I'm glad I did. I really want to try to become a scholar."
+
+I feel bad for the villagers, but the elders aren't going to die any day now, so there's no harm in learning to read now.
+
+The fact that they needed me meant that they recognized the importance of learning to some extent, so it wouldn't be strange if other people also started trying to learn how to read and write.
+
+Plus, if I become a scholar, it'll be a great feeling to prove those people who said that reading books is useless.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0490
+[Tsukiyo] "Are you aiming to be a scholar? I think that's a good idea. Reading books and doing research seems like fun. I'm sure it's good to have fun."
+
+"First of all, I'll say hello to the village and then head out to town. And then..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：街道（昼）
+;BG BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0491
+[Tsukiyo] "Did you get a lot of stuff?"
+
+"It was a farewell gift. Most of it was given to me by Tsukiyo. Let's share it later."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0492
+[Tsukiyo] "You gave it to Tsukiyo?"
+
+Tsukiyo looks puzzled.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It seems that the general store owner's son and his entourage also felt guilty for having previously surrounded Tsukiyo with unfounded suspicions.
+
+They felt sorry for Tsukiyo, whose parents had been eaten by monsters, and spread the word that I had been living with him, so everyone gave him a farewell gift.
+
+By now, most of the village knew that I was living in a mountain hut with an orphaned child.
+
+Taking advantage of this, he went to the village saying he was going to look for Tsukiyo's relatives.
+
+So it's like I got it directly from Tsukiyo.
+
+I feel a little bad about lying, but I'll be grateful for everyone's kindness and accept it.
+
+Although I wouldn't call him a replacement, I did tell him that there were a lot of books at the mountain hut.
+
+Books are expensive, so I'm sure they'll be put to good use if they're removed before the forest is set on fire.
+
+The only books I brought with me were the ones I wrote together with Tsukiyo.
+
+First of all, it would be bad if anyone found out that I was living with an elf, and besides, this is a record of irreplaceable memories, so I can't let it go.
+
+"I'm sorry for making you listen to my lies"
+
+The people in the village aren't bad people either.
+
+They are just a little bit exclusive and cautious, so they are wary of anything different.
+
+This may be the reason why people have such a strong aversion to academics, because academics are the process of learning new things that you don't know.
+
+Sometimes it's a task that negates the common sense you've had up until now.
+
+I don't think the people in the village, who are prejudiced against academics, would understand if I told them I wanted to become a scholar and headed for the royal capital.
+
+That's why he brought up Tsukiyo's relatives. It was as if he was using Tsukiyo as an excuse to leave the village on good terms.
+
+…I could have just left the hut without saying a word, but I didn't want to end up kicking up sand in my wake after he had finally acknowledged me.
+
+The old me would have just left without any hesitation. Maybe I've changed a little after spending time with Tsukiyo and the other elves.
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0493
+[Tsukiyo] "It's okay. It's true that Tsukiyo is going to search for dark elves. They're like relatives that humans talk about. And..."
+
+"And?"
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0494
+[Tsukiyo] "I was happy that they told me it was okay for me to stay."
+
+The villagers felt sorry for Tsukiyo because of the lie that his parents had been eaten by monsters, and told him to stay and live in the village.
+
+Of course, this was likely only because he was being careful not to be discovered as an elf, but the villagers felt genuine sympathy for Tsukiyo.
+
+Many of them said the same thing when they were leaving: if they couldn't find their relatives, they could always come back.
+
+"...Are you sure?"
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0495
+[Tsukiyo] "Huh?"
+
+"Tsukiyo, is there anywhere we can find dark elves?"
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0496
+[Tsukiyo] "Hmm, no."
+
+Tsukiyo shook his head.
+
+"Well then, why don't you come and look for it with me?"
+
+He holds out his hand to Tsukiyo.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0497
+[Tsukiyo] "Eh...? B-But... you're going to become a scholar?"
+
+"Of course I want to be a scholar. But I'm sure there are humans out there who have also researched the Dark Elves."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0498
+[Tsukiyo] "Huh...?!"
+
+"Don't you think it would be much easier to find it if we looked at the documents left behind by humans rather than searching without any clues?"
+
+#voice tuke0499
+[Tsukiyo] "Huh..."
+
+"So, come with me. It might be a bit of a detour for Tsukiyo, but it might be more efficient than just searching around aimlessly."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0500
+[Tsukiyo] "Rather than just searching blindly...?"
+
+"Besides, my time to live would pass in the blink of an eye if I were an elf, right? How about you spend that time with me?"
+
+#voice tuke0501
+[Tsukiyo] "...Yes. But...is there anything you want to study...?"
+
+"Yes, there are. A lot, a mountain. I'd like to know everything in this world if I could."
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0502
+[Tsukiyo] "In that case, you should study what you want to study."
+
+Tsukiyo said timidly and reservedly. The hand he was holding out to her was wandering around foolishly in mid-air.
+
+"Humans have limited time. If you want to learn a lot, it's more efficient to have indicators."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0503
+[Tsukiyo] "What is a chart?"
+
+"A target... No, maybe I should call it a landmark. When you're looking for something, it's easier to find if there's a landmark, right?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0504
+[Tsukiyo] "Yes. It's easier to find something if there's a landmark. I learned this while researching with humans."
+
+"I think my goal will be a dark elf."
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0505
+[Tsukiyo] "Want to know more about dark elves?"
+
+"Yeah. I want to know more about Tsukiyo."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0506
+[Tsukiyo] "Huh...? I want to know more about Tsukiyo? Wh-why...?"
+
+"Because I love Tsukiyo."
+
+#voice tuke0507
+[Tsukiyo] "Huh? If you like me, do you want to know?"
+
+"So, let's go together."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0508
+[Tsukiyo] "I, too... would like to know more about humans. Can I come with you?"
+
+"Oh, of course. I'll go with you wherever you go."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgm 0 14
+
+;SMODE 064 PLAY
+#label replay064
+#setscene 61
+#bg BG12_1
+
+;ＥＶ絵――EV072『人間の街に』A1-A2
+;EVCG EV072A1
+;#face off
+
+
+#cg イベント ev072a1 背景
+#wipe fade
+
+This time Tsukiyo didn't refuse the hand I offered him.
+
+She squeezes it back tightly with her small hands and smiles happily.
+
+;ＥＶ絵――EV072『人間の街に』A1-A2
+;EVCG EV072A2
+#cg イベント ev072a2 背景
+#wipe fade
+
+#voice tuke0509
+[Tsukiyo] "I'm happy. We can spend more time together."
+
+"Yeah, I'm happy too."
+
+When you look up, you see a road that continues on forever. A new life awaits you at the end of this road.
+
+"I think there are some rich people in big towns who keep elves as pets. But it might be a good idea to cover your ears just in case."
+
+;ＥＶ絵――EV072『人間の街に』
+;EVCG EV072A1
+#cg イベント ev072a1 背景
+#wipe fade
+
+#voice tuke0510
+[Tsukiyo] "Yes. There might be an elf hunter there."
+
+There are probably many more people who know about elves than in outlying villages, but that also means they might just see them as an asset.
+
+"If I ever meet any of those people, can I tell them that I own Tsukiyo?"
+
+;ＥＶ絵――EV072『人間の街に』A1-A2
+;EVCG EV072A2
+#cg イベント ev072a2 背景
+#wipe fade
+
+#voice tuke0511
+[Tsukiyo] "Of course. Tsukiyo belongs to humans."
+
+Tsukiyo wholeheartedly affirms my words, which I feel slightly guilty about.
+
+"I thought you might dislike being treated like an object like that..."
+
+;ＥＶ絵――EV072『人間の街に』A1-A2
+;EVCG EV072A1
+#cg イベント ev072a1 背景
+#wipe fade
+
+#voice tuke0512
+[Tsukiyo] "I'm sure humans will cherish me. If that's the case, I don't mind being an object. I don't want to become someone else's."
+
+"If you cover your ears, you'll look like you're from a faraway exotic country, so it might be easier to disguise your appearance."
+
+#voice tuke0513
+[Tsukiyo] "Exotic...?"
+
+"Maybe if I make them think I'm from a different country they won't realize I'm an elf."
+
+;ＥＶ絵――EV072『人間の街に』A1-A2
+;EVCG EV072A2
+#cg イベント ev072a2 背景
+#wipe fade
+
+#voice tuke0514
+[Tsukiyo]: "When you say exotic, does that mean the language they speak is different too?"
+
+"Hmmm... I guess so..."
+
+Holding hands tightly, we head towards town, talking about our future plans.
+
+The sky was endlessly high and clear blue, as if blessing our departure.
+
+I'm sure something good is waiting for me on the other side of this sky.
+
+#bgm 0 stop 2000
+
+I was sure of it.
+
+;MCK
+#wait 4000
+#cg all clear
+#bg white
+#wipe fade
+
+#bgvoice stop
+
+#mes clear
+#mes off flash
+#system off flash
+
+#movie skipoff
+
+;※スタッフロール
+;HT_ED_T.mpg
+#movie HT_ED_T
+
+#movie skipon
+
+;※白背景
+;wait 4-5秒
+
+#wait 5000
+
+#mes on flash
+#system on flash
+
+;背景：研究室
+;BG BG13_1
+#cg all clear
+#bg BG13_1
+#wipe fade
+
+"...Hmm. I feel like I've seen something similar to this description before... I'm sure it was... Whoa!?"
+
+;MCK
+#se 1 se015
+
+As I was thinking, I reached out and knocked over the pile of books I had piled up.
+
+;以降立ち絵使用不可（服変わってる）
+
+#voice tuke0515
+[Tsukiyo] "...What are you doing?"
+
+"I was thinking of picking up a book..."
+
+#voice tuke0516
+[Tsukiyo] "It's dangerous to try to do something without looking. If there was a knife or writing implement there, you could get hurt."
+
+"I'm not embarrassed."
+
+#voice tuke0517
+[Tsukiyo] "So, which book do you need?"
+
+"The one that tells the legend of the village east of the Lost Woods."
+
+#voice tuke0518
+[Tsukiyo] "The one with the red leather spine? There it is. Kind and mysterious people."
+
+"Ah, that's right, that's it."
+
+#voice tuke0519
+[Tsukiyo] "I'll put the books away."
+
+"Sorry, thank you."
+
+#voice tuke0520
+[Tsukiyo] "No. It's my role as an assistant. There's no need to thank me, sensei."
+
+
+;ＥＶ絵――EV074『成長したツキヨ』
+;EVCG BG074A1
+#cg イベント ev074a1 背景
+#wipe fade
+#bgm 0 13
+
+I was leafing through the book I was given when I looked up and saw Tsukiyo smiling.
+
+"...It's brighter now."
+
+#voice tuke0521
+[Tsukiyo] "Huh?"
+
+"Since coming to town, Tsukiyo has become so much brighter, so I'm glad I came."
+
+I no longer get that awkward feeling I had when we first met.
+
+Now Tsukiyo has grown so cheerful and strong that I can even trust her with dealing with visitors.
+
+#voice tuke0522
+[Tsukiyo] "It's fun to help the teacher when he works hard."
+
+"We need to find the Dark Elf settlement quickly."
+
+#voice tuke0523
+[Tsukiyo] "Haha. I hope they find it soon. The teacher will get praised again."
+
+"...Well, I guess being called teacher has become quite the familiar thing."
+
+#voice tuke0524
+[Tsukiyo] "Well, you are a teacher. You are great ♪ Hehehehehe"
+
+Tsukiyo laughed happily as if it were his own story.
+
+
+;背景：研究室
+;BG BG13_1
+#cg all clear
+#bg BG13_1
+#wipe fade
+
+Teacher...that's me.
+
+A lot of time has passed since I left the village.
+
+Since then, I studied hard, entered school in the royal capital, and continued my studies.
+
+My major is, of course, elf research. Among them, dark elves are my speciality, as there has been little previous research on them.
+
+I haven't found the Dark Elf settlement yet, but I want to find it soon for Tsukiyo's sake.
+
+What we are currently doing is supplementary research into the possibility that the area we are heading to on our next research trip may be close to a Dark Elf settlement.
+
+"Ah, there it is. If you compare the birthplace of the person who wrote this with the location of this legend...yes, it is close after all."
+
+
+;ＥＶ絵――EV074『成長したツキヨ』
+;EVCG BG074A1
+#cg イベント ev074a1 背景
+#wipe fade
+
+#voice tuke0525
+[Tsukiyo] "Did you find out anything?"
+
+"Yes. This research trip is looking promising. I hope we can find some proof of our previous hypothesis."
+
+Up until now, he has made several research trips to various places, but this time it looks like he will get good results.
+
+#voice tuke0526
+[Tsukiyo] "Yes! Ah, that's right. It's about the dates of the research trip, and the son of the merchant at the corner says he'd like to accompany us."
+
+"Ugh... I want to refuse. It's already hard enough to bring students, but having outsiders participate is a bit much."
+
+#voice tuke0527
+[Tsukiyo] "You shouldn't say that. They'll pay for your research trip."
+
+"But that guy over there originally tried to buy Tsukiyo off him as a slave."
+
+#voice tuke0528
+[Tsukiyo] "But he didn't sell it, and after that he understood. He even gave me the money I needed for my research, and he's a kind, good person."
+
+He does look down on Tsukiyo because he's an elf, but that's just a general prejudice against elves, and he is certainly a nice person...more like a husband.
+
+"If Tsukiyo says so, then that's fine... but everyone becomes a good person when they are under Tsukiyo's control."
+
+#voice tuke0529
+[Tsukiyo] "Good people gather around the teacher. That's why everyone is good."
+
+Currently, the only humans living with elves are those who have bought them from elf merchants.
+
+It is not uncommon for elves to be kept as pets or slaves.
+
+Living in this environment with Tsukiyo, who is much smaller than the average elf, I have been looked at quite oddly.
+
+At first, Tsukiyo carefully hides the fact that she is an elf, but after living in one town for a long time, people gradually start to find out.
+
+Every time, people would ask me to give it to them, and sometimes they would try to steal it from me, but I never let Tsukiyo go.
+
+It was only recently that I finally felt comfortable showing Tsukiyo in public.
+
+Ever since graduating from school and working as a researcher, Tsukiyo has been a very good assistant to me, and since I don't treat her like a slave or a pet, the people around me have gotten used to that.
+
+Now, the people around me treat Tsukiyo as an honorable assistant.
+
+Of course, I can't look at Tsukiyo, who I've been with for so long, as a slave or a pet.
+
+He has become an important partner now.
+
+For me as a human, I have spent that many years together with Tsukiyo.
+
+"But if we bring so many people with us on the research trip, I won't be able to flirt with Tsukiyo."
+
+#voice tuke0530
+[Tsukiyo] "It can't be helped. Professor's research is important."
+
+"Don't be so cruel. Wouldn't it be better if we went on a trip just the two of us?"
+
+#voice tuke0531
+[Tsukiyo] "Yes... but can we have lots of fun anytime?"
+
+#bgm 0 stop 2000
+
+"That's right. Like this."
+
+#voice tuke0532
+[Tsukiyo] "Eeek?! Teacher?!"
+
+
+;ＥＶ絵――EV075『たまの息抜き』
+;EVCG BG075A1
+#cg イベント ev075a1 背景
+#wipe fade
+#bgm 0 07
+
+I hugged Tsukiyo, pushed her down on the desk and inserted myself.
+
+She has doted on me countless times, and has grown accustomed to me, accepting me with comfort.
+
+#voice tuke0533
+[Tsukiyo] "Aah... Sensei, you shouldn't put it in so suddenly..."
+
+"Because I've grown to love Tsukiyo."
+
+#cg イベント ev075a2 背景
+#wipe fade
+
+#voice tuke0534
+[Tsukiyo] "Ahh....Ahhh...."
+
+As he pushed it up, something on the desk fell to the ground with a noise.
+
+#voice tuke0535
+[Tsukiyo] "Ah, ah... did something fall?"
+
+"Oh, I can pick it up later."
+
+#voice tuke0536
+[Tsukiyo] "Enough already... Ugh... If it's something important, what will you do... Ugh..."
+
+"This is more important right now."
+
+#cg イベント ev075a3 背景
+#wipe fade
+
+#voice tuke0537
+[Tsukiyo] "Hyaun?! It tickles..."
+
+I press my lips against her nape, where her short hair has become a natural fit.
+
+"Is it just ticklish?"
+
+#voice tuke0538
+[Tsukiyo] "It's not just ticklish... Ahh... Ahh... Shall I move now?"
+
+"Right, because it feels so good inside and it's moving."
+
+#cg イベント ev075a2 背景
+#wipe fade
+
+#voice tuke0539
+[Tsukiyo] "Ahh... The inside of my penis is being rubbed..."
+
+My excitement grows as she looks up at me with teary eyes.
+
+#voice tuke0540
+[Tsukiyo] "Ahh?! It's gotten... bigger inside... ahhh..."
+
+Hugging from the front is nice, but this position isn't bad once in a while.
+
+As I forcefully push her down as if to rape her, it satisfies my desire to conquer her.
+
+#voice tuke0541
+[Tsukiyo] "Hmm... Ahh... It... Feels... Good... The good spot inside is being rubbed... mmm..."
+
+Tsukiyo's intestines became a membrane that clung to my penis, sticking to every inch of it and wriggling seductively.
+
+#voice tuke0542
+[Tsukiyo] "More... ah! I want you to thrust... harder... ahhh, it feels good, haa... mmm... ahhh..."
+
+"More? You're being greedy. Come on."
+
+#voice tuke0543
+[Tsukiyo] "Ahh... Tsukiyo is greedy... Human... I can't help wanting more of you, Sensei... Ahh, ahh, ahh, ahh, ahhh"
+
+As I thrust my hips vigorously, Tsukiyo's voice gradually gets higher in pitch.
+
+#voice tuke0544
+[Tsukiyo] "Hmm... aaaaahhhhh... I'm gonna cum now"
+
+As Tsukiyo approached ejaculation, her soft mucous membrane trembled and rippled, and the ring of flesh tightly gripped mine, inviting us to climax together.
+
+A shiver welled up inside me.
+
+"I'm... I'm gonna come, I'm gonna let it out!"
+
+The testicles rise up with a "squeak," signaling ejaculation, and the area behind them tenses up to the point of painful twitching.
+
+Thud, thud, intermittent contractions began from the base of my legs and I ejaculated.
+
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev075b2 背景
+#bg BG13_1
+#wipe fade 300
+
+#voice tuke0545
+[Tsukiyo] "Ahh! It's... coming out... There's warm semen inside... It's gushing out in large quantities..."
+
+;SE
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev075b3 背景
+#bg BG13_1
+#wipe fade 300
+
+White, spotless sap splattered onto the lab desk.
+
+Because we reached orgasm at the same time, I had the illusion that I had ejaculated from Tsukiyo's cute young stem.
+
+#voice tuke0546
+[Tsukiyo] "Ahh... hah, hah, hah... it's warm inside my stomach... I love it when you cum inside me... I can feel you, Sensei..."
+
+Tsukiyo hummed happily.
+
+#wait 2000
+#bgm 0 stop 2000
+;暗転
+;#face off
+#mes off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：研究室
+;BG BG13_1
+#cg all clear
+#bg BG13_1
+#wipe fade
+
+#voice tuke0547
+[Tsukiyo] "Because we were having sex in a place like this, something that was on the desk fell off. And I got the desk dirty."
+
+"……sorry"
+
+#voice tuke0548
+[Tsukiyo] "Why are you apologizing?"
+
+"...No, just kind of."
+
+Tsukiyo first picked up the thing he had dropped, checked it, then breathed a sigh of relief.
+
+#voice tuke0549
+[Tsukiyo] "Thank goodness it's not broken. Some things break when they fall. From now on, please do that kind of thing in the bedroom."
+
+I'll be the one who gets scolded by Tsukiyo.
+
+He's really improved since he became my assistant.
+
+"Well, it's good to have a change of mood every once in a while."
+
+#voice tuke0550
+[Tsukiyo] "The things in this room aren't cheap. Be careful."
+
+
+;ＥＶ絵――EV074『成長したツキヨ』
+;EVCG BG074A1
+#cg イベント ev074a1 背景
+#wipe fade
+
+Even while nagging me, Tsukiyo diligently tidies up the room.
+
+When I see Tsukiyo like that, I can't help but smile.
+
+"But I wonder if I could hold out for the entirety of a research trip."
+
+#voice tuke0551
+[Tsukiyo] "We'll always be together, so there's no need to hold back."
+
+"It's unsettling to think that someone is listening in."
+
+#voice tuke0552
+[Tsukiyo] "Say that, Sensei, I've never cared about what other people think."
+
+While chatting away, I joined in cleaning up the messy room.
+
+"Once we get some results from our investigation, we'll be following the Dark Elf settlements for a while, so it might be unsettling to have to move around for a while, but that's okay."
+
+#voice tuke0553
+[Tsukiyo] "I understand. I don't mind going anywhere as long as I'm with you, Sensei."
+
+"...So, if we find a Dark Elf settlement--"
+
+I wonder if Tsukiyo will go away.
+
+I couldn't express my anxiety.
+
+Tsukiyo gave me a gentle smile.
+
+#voice tuke0554
+[Tsukiyo] "I'm not going. I won't leave you behind. I'll always be with you."
+
+"Is that okay? After all, Tsukiyo was planning to find other dark elves from the beginning."
+
+#bgm 0 14
+#wait 1000
+
+#voice tuke0555
+[Tsukiyo] "...Elf time is long. It's not that long, compared to the time it takes for humans to end. So I want to be with you until your time ends."
+
+"Even if you find a Dark Elf settlement, you have no intention of returning there?"
+
+#voice tuke0556
+[Tsukiyo] "Even if we find a settlement, there's no guarantee that we'll be accepted. We still don't know much about their habits or cultural patterns."
+
+"...That's true though."
+
+#voice tuke0557
+[Tsukiyo] "Besides... if the sensei no longer needs me, or if my time as a sensei ends, then I'll think about it."
+
+"I don't think I'll ever stop needing you, Tsukiyo."
+
+#voice tuke0558
+[Tsukiyo] "In that case, I'll stay with you until the end. Tsukiyo's place is by your side, sensei. So please live as long as possible."
+
+"...Okay, I get it."
+
+Tsukiyo smiled with delight at my reply.
+
+#voice tuke0559
+[Tsukiyo] "I promise you. You will live a long life. We will be together forever."
+
+;SMODE 064 STOP
+#endscene
+
+;ツキヨENDフラグON
+#set t3 1
+#set s4 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+
+
+;MCK
+#wait 4000
+#cg all clear
+#bg black
+#wipe fade
+
+;※エンド表示
+;BG:BG74_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg74_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+;タイトルへ
+#title

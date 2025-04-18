@@ -1,0 +1,361 @@
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"I'll forget about it... I just can't stand being without Konomi."
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice kond0372
+[Konomi] "I see. That's unfortunate, but there's nothing we can do about it."
+
+Konomi, with her usual detached look on her face, laughs and says, "It can't be helped."
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0373
+[Konomi] "Well then, I'll remember, okay? I won't forget until I die, human."
+
+"Until I die...?"
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0374
+[Konomi] "That's right, right? So live a long life, okay? Even if you're not by my side, I'll never forget about you, human."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0375
+[Konomi] "Even if you forget about me, I'll always be thinking about you."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+The voice of the observer was far too calm and gentle.
+
+Konomi's figure fades into the distance.
+
+Konomi returns to the elf village.
+
+"Goodbye, Konomi. Goodbye, everyone."
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夕）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+I returned to the hut, locked the door, and lit some forget-me-not incense.
+
+It had a very soft and gentle scent.
+
+Konomi and the others' feelings are ingrained in this hut and in my body, and I don't think I'll be able to forget them easily.
+
+The fun days, the times we spent together, her delicate body bouncing in my arms, her warmth. Her sensual voice as she moaned for me, her soft hair.
+
+The memory, which he cannot forget no matter how hard he tries, is so vivid that he could easily recall it even if Konomi was not there...
+
+I closed my eyes as I prayed, surrounded by the smoke rising from the incense.
+
+I don't want to forget. The thought of erasing Konomi from my memory would be heartbreaking.
+
+But if I did remember, I'd surely be heartbroken by the days we couldn't see each other.
+
+So maybe it's better to forget about it.
+
+As smoke fills the hut, memories spill out like water spilling through your fingers.
+
+"...ugh...ahh..."
+
+--Who is this?
+
+A boy who smiles innocently and brightly, a boy who is stubborn but actually the kindest of people, and a boy who is shy but full of enthusiasm for learning.
+
+And then, a boy smiles, with eyes that seem to see through something that he thinks is more important than anyone else...
+
+What on earth is this incense smell?
+
+Why would I burn incense in a place like this...?
+
+Important things appear and disappear one after another.
+
+How much do I have to forget, what do I have to forget, to be able to forget the smooth, soft feeling of a body on my fingertips?
+
+Surely there are things we must forget...
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+When I came to, I found myself staggering to the border between the village and the forest.
+
+…There's someone I want to meet. I don't know who it is, but there must be someone I can't help but want to meet.
+
+But why am I here?
+
+As I went deeper into the village, I came across several men having a serious conversation.
+
+What are they talking about?
+
+As I tried to approach, the person on the other side noticed me and came running over.
+
+
+[Villager 1] "Hey! You! What happened to the elf army?"
+
+"Elf...?"
+
+What on earth is this guy talking about?
+
+
+[Villager 3] "Calm down. Before that... I'm glad you're safe."
+
+"Are you okay?"
+
+
+[Villager 3] "Where have you been all this time?"
+
+"Where do you mean...?"
+
+What I most want to know is where I came from and why I'm here.
+
+"...Well?"
+
+When I shook my head, the man who had originally yelled at me grabbed me by the collar.
+
+
+[Villager 1] "Huh?! What are you pretending to be?! You're trying to hog all the profits from selling off the elf for yourself, aren't you?!"
+
+
+[Villager 3] "Hey, stop being so violent."
+
+"Cough... cough..."
+
+Thanks to the help of a few people pulling me away, I was able to catch my breath.
+
+
+[Villager 2] "Are you okay?"
+
+"Somehow..."
+
+
+[Villager 4] "But is there really nothing there? A reward for bringing the elf back, or maybe a warning so you don't get kidnapped again..."
+
+"Did you bring back the elf? A reward? A warning?"
+
+As I was scratching my head at this incomprehensible story, I was suddenly punched from the side.
+
+"Uh..."
+
+
+[Villager 5] "You're kidding me. You suddenly said you were going to leave the village, then you ruined my money and started messing around with me..."
+
+After being punched hard and falling onto my butt, I raised my hand towards the man who was about to start punching me again to stop him.
+
+"Wait a second, I really don't know what you're talking about..."
+
+The other men frowned in displeasure.
+
+
+[Villager 3] "You caused all that commotion and said you were surrounded by an elven army, so I don't think you'd just turn a blind eye."
+
+"I really don't know... I mean, you guys seem to know me, but who exactly are you?"
+
+
+[Villager 1] "Huh? Are you looking to pick a fight, idiot?"
+
+"I really don't know..."
+
+
+[Villager 2] "What do you mean?"
+
+"Me too... who exactly am I?"
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+Several years have passed since I arrived at the village after losing my memory.
+
+According to the villagers, I've been living here since I was born.
+
+However, one day he suddenly declared that he wanted to live a secluded life, disposed of his belongings, and moved into the forest.
+
+At that time, an elf wandered into the village.
+
+However, when I stole the elf from the village with the intention of selling her somewhere, I was instead captured by the other elves and had my memories stolen.
+
+Even though they explained it to me, I have no memory of it so I can't feel any remorse or regret.
+
+For the time being, he makes a living by cutting wood in the forest, which the villagers don't like to tread.
+
+#voice okud0001
+[Miller's Wife] "Yes, I've given you a little something extra."
+
+"thank you"
+
+#voice okud0002
+[Miller's Wife] "Do you really not remember anything? Have you still not regained your memory?"
+
+"I'm sorry. I wish I could remember you, since you've been so kind to me."
+
+#voice okud0003
+[Miller's Wife] "Oh, it's all right. There's no need to force yourself to remember. Sometimes it's better not to remember."
+
+The miller's wife looked concerned and concerned.
+
+The people of this village must be kind, since they took care of me, from housing to work, even though I had lost my memory and before that I had tried to monopolise a profitable business opportunity for myself.
+
+But I just can't shake the feeling that this isn't the place for me.
+
+It's not just because I have no memories that I can't quite fit in with the people in the village, but I feel like I'm missing something important.
+
+#voice okud0004
+[Miller's Wife] "But elves are terrifying. I'm so glad they didn't take my life."
+
+"Hahaha, absolutely."
+
+#voice okud0005
+[Miller's Wife] "She seems to have been a very beautiful girl, but beautiful flowers can have thorns. You have to be careful."
+
+"Yes, thank you. I'll be careful."
+
+As I received my purchase, I gave an ambiguous smile.
+
+Ever since I lost my memories, the common understanding in this village has been that "elves are scary and one shouldn't get involved with them."
+
+When travelers come to the village, they sometimes tell them beautiful tales of the elves, and in return, they tell their stories.
+
+A tale of a poor man who lost his memories while trying to have an elf all to himself.
+
+But the thing is, I don't really think elves are scary at all.
+
+On the contrary, I just can't quite relate to the cold, handsome elf that travelers so fondly talk about.
+
+The elf I knew before I lost my memory seemed more, how should I put it, innocent and boisterous...
+
+Even if I did talk about something like that, I'm sure I'd just be laughed at for not remembering anything, so I've never told anyone about it until now.
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"...After all, the forest is more relaxing."
+
+I don't remember, but maybe because I lived in the forest for a while, it feels more right to be in the forest than in the village.
+
+Not only that, when I enter the forest I feel a strange emotion, like sadness or pain, but I just can't help being drawn to the forest.
+
+It's like the forest is calling to me.
+
+"Well then... I've cut down all the trees I need, so I'll rest for a bit before heading back to the village."
+
+;SMODE 056 PLAY
+#label replay056
+#setscene 53
+#bg BG04_1
+
+;ＥＶ絵――EV061『きこりとエルフ』★待ち　差分なし
+;EVCG EV061A1
+;#face off
+
+
+#cg イベント ev061a1 背景
+#wipe fade
+
+I wiped the sweat off my face and decided to take a break by leaning against a big tree.
+
+At that moment, a pleasant breeze began to blow.
+
+And then, suddenly, it felt as if the air had taken on a soft color.
+
+Ah, I know this feeling.
+
+#voice kond0376
+【???】"Hehehe..."
+
+I hear a cute laugh.
+
+This voice, which I sometimes hear when I enter the forest, has now become my greatest pleasure.
+
+I was afraid that if I raised my voice, one of them would run away, so I pretended not to notice.
+
+It could be an auditory hallucination, or it could be some kind of forest guardian.
+
+Either is fine.
+
+This voice sure feels irreplaceable to me.
+
+...Someday, if I ever get the courage, I'll try to find the source of this laughter.
+
+Only then might I be able to recover my missing memories.
+
+But for now, I want to cherish this time.
+
+I closed my eyes, feeling a comfortable presence.
+
+;SMODE 056 STOP
+#endscene
+
+;暗転（スロー）
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade 2000
+;インターバル
+#wait 2000
+
+;『BADEND』表示後、タイトルへ
+
+;※エンド表示
+;BG:BG69_1
+
+;MC
+
+#mes off fade
+#system off fade
+#bgm 0 stop 1000
+
+#bg bg69_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

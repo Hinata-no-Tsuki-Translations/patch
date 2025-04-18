@@ -1,0 +1,1863 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG44_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg44_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"Shit, which way should I go?"
+
+I feel like I've been going around in circles in the same place for a while now.
+
+It feels like I've passed that tree with its slightly unusual shape just now...
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0229
+[Tsukiyo] "Where are you going? Don't turn that way, it's this way."
+
+"Eh? This way?"
+
+#voice tuke0230
+[Tsukiyo] "Ah... I see, humans are humans after all..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo holds my hand and we run.
+
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0231
+[Tsukiyo] "Huh? What's that...?"
+
+However, after running for a while, Tsukiyo suddenly stopped.
+
+"Hey, what's wrong?"
+
+#voice tuke0232
+[Tsukiyo] "I've lost my way."
+
+Tsukiyo muttered with a bewildered look on his face.
+
+"What?"
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0233
+[Tsukiyo] "Maybe... Tsukiyo, you've been banished? That's why you can't come back..."
+
+Tsukiyo muttered, sounding unsure.
+
+"What do you mean?"
+
+#voice tuke0234
+[Tsukiyo] "When humans come to the forests around here, they get lost. The elves don't want humans or other outsiders to enter their territory."
+
+#voice tuke0235
+[Tsukiyo] "Since Tsukiyo is now an outsider, she may not be allowed into the elven realm."
+
+"Really?"
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0236
+[Tsukiyo] "I don't know..."
+
+Tsukiyo looked around anxiously, wondering if this was the first time she'd ever encountered something like this.
+
+"...But if that kind of magic has been cast on it, that means it's close to where the elves are, right?"
+
+#voice tuke0237
+[Tsukiyo] "I don't know, but maybe..."
+
+Tsukiyo gave an unreliable affirmation.
+
+"Okay then..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I took a deep breath and raised my voice.
+
+"Hey, Elf! Can you hear me? I need to tell you something!"
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0238
+[Tsukiyo] "Hya?! Wh, what are you doing?"
+
+"I thought that if I was nearby, they might notice me."
+
+;FACE T05F_L
+#face f_tuk_0_05f_l 94 466
+
+#voice tuke0239
+[Tsukiyo] "You don't have to do that. If you're nearby, the big elf will be able to understand you...?"
+
+"Ah, I see..."
+
+He can talk without speaking out loud...
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+#voice izue0042
+[Spring Elf] "It's so noisy."
+
+"Ah, there it is!"
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0240
+[Tsukiyo] "Haa... Even though it appeared, it's not a ghost."
+
+#voice izue0043
+[Elf of the Spring] "You were the one who told me not to appear before you again. Humans are quick to make promises and then break them."
+
+"But I realized that I had to tell you something..."
+
+#voice izue0044
+[Spring Elf] "You've come to teach me how to set fire to the forest."
+
+"Ah, that's right."
+
+#voice izue0045
+[Elf of the Spring] "But, Dark Elf. You would never bring a human into the elven realm..."
+
+;FACE T02F
+#face f_tuk_0_02f 94 466
+
+#voice tuke0241
+[Tsukiyo] "Oh..."
+
+“Wait a moment. I asked you to bring her here, and more than anything, you’re worried about the elves here, aren’t you?”
+
+#voice izue0046
+[Spring Elf] "There's no need to worry, it's unnecessary."
+
+"We were worried about you too, so what's this about?"
+
+#voice izue0047
+[Elf of the Spring] "Even if this forest is set on fire, it will not reach the elves' domain."
+
+"Maybe it's magic or something? But it will take until the full moon to repair it, right? It doesn't seem like there's much of a rush to do this, but if they set it on fire before then..."
+
+#voice izue0048
+[Elves of the Spring] "This world and the Elven world are connected, but the next level is not the same. Therefore, the fires here have no effect on us."
+
+"Next floor?"
+
+#voice izue0049
+[Elves of the Spring] "We are beings of a higher order than humans. Higher order events can affect lower order events, but the reverse is not possible."
+
+"I don't get it, but what we do here doesn't affect you there?"
+
+#voice izue0050
+[Fountain Elf] "Yes, that's true. However, I do resent the foolish things humans do. That's why I strengthen the barrier."
+
+"fart?"
+
+#voice izue0051
+[Elves of the Spring] "Humans have gained fire, dispelled the darkness of night, and are making progress. If things continue like this, we cannot say for sure that they will not threaten our territory. Therefore, we must cut off the world before that happens."
+
+#voice izue0052
+[Elves of the Spring] "When humans fight against a threat, they seek to eradicate it. They do not care that they themselves are a threat to others."
+
+#voice izue0053
+[Elf of the Spring] "If we burn the forest, many lives will be lost. But I know that humans will only understand this in their own interest."
+
+#voice izue0054
+[Elf of the Spring] "However, events are interconnected. Small cracks will eventually become bigger cracks. Human arrogance will eventually bring about great disaster."
+
+#voice izue0055
+[Elf of the Spring] "What humans can understand, what humans can see, is only a tiny fragment of the world."
+
+Come to think of it, Ibara once said that elves left this world because they lost hope in humans.
+
+Are the elves trying to go even further, to experience even deeper despair?
+
+#voice izue0056
+[Elf of the Spring] "Yes, that's true. But still... that doesn't mean I don't acknowledge people who try to make progress."
+
+#voice izue0057
+[Elf of the Spring] "One day, when humans realize their own folly, the world may be united once again."
+
+Whether that will be a hundred years from now or a thousand years from now, the elves' measure of eternal time is vastly different from ours, whose lifespan is only around a hundred years no matter how long we live.
+
+#voice izue0058
+[Elf of the Spring] "For better or worse, humans keep moving forward. That is a great strength that sets us apart. But are you different?"
+
+"Eh? Me?"
+
+Suddenly the conversation turned to me, and I was left dumbfounded.
+
+#voice izue0059
+[Spring Elf] "You seem to enjoy learning, but are you planning on spending the rest of your life in this forest?"
+
+The tone of his voice wasn't meant to be sarcastic, but rather simply curious, which cut straight to the heart.
+
+#voice izue0060
+[Elf of the Spring] "You have left the human flock, and are neither a fairy nor an animal, nor even an elf. What are you trying to become?"
+
+"I am..."
+
+I was startled. I felt like I was being confronted with something that I had been deliberately turning a blind eye to up until then.
+
+However, the elf shook his head, not seeming particularly interested.
+
+#voice izue0061
+[Spring Elf] "Well, that's fine. Whatever path you choose, it's none of our business."
+
+#voice izue0062
+[Elf of the Spring] "This forest confuses those who come here. I have accepted your kindness. I will let you go this time, but be careful not to get lost in the future."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+With that the big elf disappeared into the depths of the forest.
+
+...What is that?
+
+It's not that I was trying to make him seem grateful or that I wanted a thank you, but I guess it's inevitable that I felt embarrassed by his cold attitude.
+
+Wouldn't it be okay if there was just a little something?
+
+"...Let's go."
+
+;FACE T05F_L
+#face f_tuk_0_05f_l 94 466
+
+#voice tuke0242
+[Tsukiyo] "...Yes, it is."
+
+Just as the elf had said, I didn't get lost on the way back and made it all the way to the mountain hut.
+
+But the words the elf said, "What are you trying to become?" have remained in my heart like a thorn forever.
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夕）
+;BG BG08b_2
+#cg all clear
+#bg BG08b_2
+#wipe fade
+
+What on earth was I trying to do here?
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+Ever since the elf asked me, "What are you trying to become?", I've been thinking a lot.
+
+Living in a mountain hut away from the village means you don't have to deal with other people unnecessarily, and you can enjoy doing things like reading books and verifying their authenticity.
+
+...I wonder if it's okay to leave it like this.
+
+Even if I continued to live alone in the forest like this, avoiding contact with others as much as possible...
+
+No, up until now I hadn't been alone because Hinata and the others were there.
+
+And maybe Tsukiyo, who was banished by the elves, will stay with me forever.
+
+Continuing to live in this forest with Tsukiyo...that idea seemed very appealing.
+
+But I will finish reading these books eventually, and even with the short lifespan of humans, that's not too far off.
+
+I'd investigate this forest, record it like the former owner of this cabin did...and then?
+
+Researching various things and recording them...that in itself is a meaningful task.
+
+The elf said, "For better or worse, humans just keep moving forward."
+
+That is what I believe a person should be like.
+
+In my heart, I had always despised the people in the village who refused to break away from their monotonous lives.
+
+There is writing and learning, and there is a lot that can be learned from them; by learning about agriculture, animal husbandry, and even daily life, efficiency can be increased.
+
+That's what people in the city must be doing, which is why towns flourish and frontier villages like the one I was born in fall into disuse.
+
+And yet how foolish those people are who don't even bother to learn how to read and write.
+
+But if I just stayed the way I was, then I'd be no different from those villagers I used to make fun of.
+
+I left the group of people...
+
+It's like we've stopped moving forward.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0243
+[Tsukiyo] "Oh..."
+
+"Hmm? What's wrong?"
+
+Tsukiyo looked at me with a worried look on her face.
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0244
+[Tsukiyo] "You have a scary face. Does your stomach hurt?"
+
+"Ah... No, it's okay."
+
+#voice tuke0245
+[Tsukiyo] "Is there anything bad happening? Are you being bullied?"
+
+"I've been spending all this time with Tsukiyo in this forest, so who's going to bully me?"
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0246
+[Tsukiyo] "So, then... have you come to dislike Tsukiyo? Are you going to be together with me?"
+
+Tsukiyo's face looked extremely frightened as he asked this, as if he was terrified of being disliked.
+
+"Why would I hate Tsukiyo?"
+
+#voice tuke0247
+[Tsukiyo] "Among elves, dark elves have always been disliked. So maybe humans dislike dark elves too..."
+
+"That's not true. Anyway, what's the difference between an elf and a dark elf? I didn't even know what a dark elf was until Ibara told me."
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0248
+[Tsukiyo] "Dark Elves are related to darkness and are filthy..."
+
+"Wait a second, aside from the dark clan, I don't think Tsukiyo is dirty. Who said that?"
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0249
+[Tsukiyo] "...Other elves told me that."
+
+I remember Ibara saying something like that, but I guess he wasn't the only one.
+
+Even now, it makes my heart ache to think about it.
+
+"Are Elves and Dark Elves really that different? Aren't they just different in skin color?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0250
+[Tsukiyo] "Well... the customs are different too. Elves don't get tattoos like this. Crests just stand out naturally."
+
+Tsukiyo showed me the tattoos on his body, as if to let me check them.
+
+Come to think of it, both Ibara and Konomi had white skin without a single blemish, except for their crests.
+
+"So it wasn't something natural, it was a tattoo?"
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0251
+[Tsukiyo] "Yes."
+
+"It doesn't look bad. It suits you well and is beautiful."
+
+I gently pressed my lips against the tattoo on Tsukiyo's neck.
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0252
+[Tsukiyo] "It's... soft... ticklish..."
+
+"You wouldn't do this if you thought it was dirty."
+
+#voice tuke0253
+[Tsukiyo] "Ugh..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 060 PLAY
+#label replay060
+#setscene 57
+#bg BG07b_1
+
+;ＥＶ絵――EV068『ツキヨ正常位』★彩色待ち/表情チェック（下記指定は仮）
+;EVCG EV068A2
+;#face off
+
+
+#cg イベント ev068a2 背景
+#wipe fade
+
+I took off Tsukiyo's clothes and gently laid her down on the bed.
+"Tsukiyo is not dirty. Not dirty at all."
+
+#voice tuke0254
+[Tsukiyo] "Aahhh... mmm... mmm..."
+
+He pressed his lips gently against Tsukiyo's smooth, lustrous brown skin, gently tracing it with his tongue to bring out pleasure.
+
+;ＥＶ絵――EV068『ツキヨ正常位』
+;EVCG EV068A1
+#cg イベント ev068a1 背景
+#wipe fade
+
+#voice tuke0255
+[Tsukiyo] "Ahh... Ahh... Lick me... It tickles and feels weird...
+Mmm....ahhh...."
+
+When he lightly bit into her small, erect nipple, Tsukiyo let out a shriek-like cry.
+
+"Is it just ticklish?"
+
+;ＥＶ絵――EV068『ツキヨ正常位』
+;EVCG EV068A2
+#cg イベント ev068a2 背景
+#wipe fade
+
+#voice tuke0256
+[Tsukiyo] "Ah... haa... it's not just ticklish... hmm... it feels good..."
+
+"Do you hate being licked?"
+
+#voice tuke0257
+[Tsukiyo] "Ah... haa... it's not that I dislike it... I like it when you lick me... mmm... when you lick me... it feels good... ahhh..."
+
+He rolled her nipple relentlessly with the tip of his tongue, then sucked and licked it as it hardened.
+
+;ＥＶ絵――EV068『ツキヨ正常位』
+;EVCG EV068A1
+#cg イベント ev068a1 背景
+#wipe fade
+
+#voice tuke0258
+[Tsukiyo] "Ah... ahhhhhhh... aaahhhh... it's tingly... it's so painful..."
+"Is just being licked not enough for you?"
+
+#voice tuke0259
+[Tsukiyo] "Ahh... Ouch... D-don't bite it... Don't eat it... Aaah... Ahh... Ahah... Aaaaaahhhh!"
+
+Enjoying the crunchy texture, I licked it all over with the tip of my tongue, causing Tsukiyo's hips to jump up.
+
+"There's nothing wrong with that, right? It feels good even if it hurts a little, right?"
+
+#voice tuke0260
+[Tsukiyo] "Y-yes... it-it feels so good... so-so... haa... ah..."
+
+"What, you think just having your nipples licked would be enough?"
+
+As he relentlessly played with her nipples, Tsukiyo began to tremble slightly, as if she was reaching orgasm.
+
+;ＥＶ絵――EV068『ツキヨ正常位』
+;EVCG EV068A2
+#cg イベント ev068a2 背景
+#wipe fade
+
+#voice tuke0261
+[Tsukiyo] "Ah...ah...I want to cum, but I can't...my penis, my penis..."
+
+"You want me to tease your penis too? But no."
+
+I woke up from the begging Tsukiyo.
+
+;ＥＶ絵――EV068『ツキヨ正常位』
+;EVCG EV068A1
+#cg イベント ev068a1 背景
+#wipe fade
+
+#voice tuke0262
+[Tsukiyo] "Why are you being so mean...?"
+
+"Because I want to feel good too."
+
+When I loosened her anus with my fingers, Tsukiyo looked relieved.
+
+#voice tuke0263
+[Tsukiyo] "Ahh... aahh... ahhh... aahh... ahhh..."
+
+Tsukiyo writhes in pleasure, letting out a cute, honest cry, and I place my cock inside her.
+
+;ＥＶ絵――EV068『ツキヨ正常位』挿入
+;EVCG EV068B2
+#cg イベント ev068b2 背景
+#wipe fade
+
+#voice tuke0264
+[Tsukiyo] "Can you put your penis in? Ahh... Something hot is slowly entering me... Ahh... My asshole is getting wider... Ahhh..."
+
+Tsukiyo twists her hips and greedily accepts what's mine.
+
+#voice tuke0265
+[Tsukiyo] "Ahh... that big cock feels so good... haa... ahh... it's gone all the way in... ahh... haa"
+
+Although he did not ejaculate, Tsukiyo trembled as if he had reached orgasm.
+
+#voice tuke0266
+[Tsukiyo] "Ahh... I didn't come, but it felt like I did... I got goosebumps... My mind went blank... Ahhh... Ahh..."
+
+"Just by putting it in, you came, like a girl."
+
+;ＥＶ絵――EV068『ツキヨ正常位』挿入
+;EVCG EV068B1
+#cg イベント ev068b1 背景
+#wipe fade
+
+#voice tuke0267
+[Tsukiyo] "You didn't ejaculate...?"
+
+"But you came, right?"
+
+#voice tuke0268
+[Tsukiyo] "Yes... it is... ahh... when you move, it rubs against my sensitive spot... ahhhh... I can't stop cumming... haaaa..."
+
+Transparent nectar slowly oozes out of the young stems of the tsukiyo, making them glisten and shine erotically.
+
+;ＥＶ絵――EV068『ツキヨ正常位』挿入
+;EVCG EV068B2
+#cg イベント ev068b2 背景
+#wipe fade
+
+#voice tuke0269
+[Tsukiyo] "...Ahh...A long, big penis is entering deep inside...It's rubbing against the inside...It feels so good..."
+
+#voice tuke0270
+[Tsukiyo] "...Ahh...Ah, haah...haah...it's good...it's good..."
+
+Although he doesn't ejaculate, Tsukiyo seems to have reached orgasm many times, as his insides alternate between softening and loosening and then tightening so tightly that it hurts.
+
+"If you squeeze me like that, I'll come right away too."
+
+;ＥＶ絵――EV068『ツキヨ正常位』挿入
+;EVCG EV068B1
+#cg イベント ev068b1 背景
+#wipe fade
+
+#voice tuke0271
+[Tsukiyo] "I want you to cum... I've already cum so much... Ahhhh... Ahh..."
+
+#voice tuke0272
+[Tsukiyo] "Ahh... My penis is rubbing against my stomach... but my penis is about to cum..."
+
+Tsukiyo's movements, which vary in speed, seem as if he is trying to squeeze me dry.
+
+;ＥＶ絵――EV068『ツキヨ正常位』挿入
+;EVCG EV068B2
+#cg イベント ev068b2 背景
+#wipe fade
+
+#voice tuke0273
+[Tsukiyo] "Ahhh... it feels good... it feels so good... ahhh... haaaahhh..."
+
+Along with her sweet moans, the movements to milk her became more and more
+It becomes greedy.
+
+#voice tuke0274
+[Tsukiyo] "Agh... Ahh... Aahh... Come, come... Ahh... Ahh... No, no more..."
+
+;ＥＶ絵――ev068『ツキヨ正常位』射精★（表情固定）
+;EVCG ev068C2
+;SE
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev068c2 背景
+#bg BG07b_1
+#wipe fade 300
+
+#voice tuke0275
+[Tsukiyo] "Aaaaaahhhhhhhhhhhhhhhh!"
+
+Tsukiyo reached her climax with a particularly high-pitched cry, and at that moment I was unable to withstand the stimulation of her tight flesh walls and ejaculated.
+
+;SE
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev068c2 背景
+#bg BG07b_1
+#wipe fade 300
+
+His balls contract violently and a thick, viscous stream of semen passes through his urethra with great force.
+
+;ＥＶ絵――ev068『ツキヨ正常位』射精後
+;EVCG ev068C2
+#cg イベント ev068c2 背景
+#wipe fade
+
+#voice tuke0276
+[Tsukiyo] "Ahh... a lot of hot stuff is coming in... ahhh... haaah..."
+
+;ＥＶ絵――ev068『ツキヨ正常位』射精後
+;EVCG ev068C1
+#cg イベント ev068c1 背景
+#wipe fade
+
+Even as he was ejaculating, Tsukiyo's insides were gently stimulated with just the right amount of force, as if trying to squeeze out every last drop.
+
+The ejaculation continued for a long time as if it had no end in sight.
+
+;SMODE 060 STOP
+#endscene
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+As I watched Tsukiyo adjusting her outfit, something suddenly became interesting.
+
+"By the way, what is that tattoo for?"
+
+When I asked, Tsukiyo shook his head.
+
+;CHR T09N C
+#cg ツキヨ tuk_1_09n 中
+#wipe fade
+#face f_tuk_0_09n 94 466
+;TKface
+
+#voice tuke0277 
+[Tsukiyo] "I don't know. The only dark elf there was Tsukiyo. So no one told me."
+
+"I guess the elves didn't know either."
+
+#voice tuke0278
+[Tsukiyo] "Probably."
+
+"Hmm..."
+
+;CHR T05N_L C
+#cg ツキヨ tuk_1_05n_l 中
+#wipe fade
+#face f_tuk_0_05n_l 94 466
+;TKface
+
+#voice tuke0279
+[Tsukiyo] "Huh...?"
+
+"I haven't found anything in the books here that details anything specific about the Dark Elves. Maybe if we go to town we'll find someone who's done more in-depth research."
+
+#voice tuke0280
+[Tsukiyo] "Research? Is there anyone researching dark elves?"
+
+"I think there are probably some. There are some books here that talk about elves, right? If you can read the books listed as references there..."
+
+;CHR T06N_L C
+#cg ツキヨ tuk_1_06n_l 中
+#wipe fade
+#face f_tuk_0_06n_l 94 466
+;TKface
+
+#voice tuke0281
+[Tsukiyo] "Do you know anything about dark elves?"
+
+"I can't give you anything, but if you're looking for a Dark Elf settlement, I might be of some help."
+
+#voice tuke0282
+[Tsukiyo] "A dark elf settlement... are there any other dark elves besides Tsukiyo?"
+
+"The book here also mentions the existence of black-skinned species, and they are classified, and they also seem to have their own unique cultural forms, so the possibility is very high."
+
+;CHR T09N_L C
+#cg ツキヨ tuk_1_09n 中
+#wipe fade
+#face f_tuk_0_09n 94 466
+;TKface
+
+#voice tuke0283
+[Tsukiyo] "I see... It's not just Tsukiyo."
+
+"Yes, if we can find a Dark Elf settlement, we might be able to make lots of friends."
+
+;CHR T04N C
+#cg ツキヨ tuk_1_04n 中
+#wipe fade
+#face f_tuk_0_04n 94 466
+;TKface
+
+#voice tuke0284
+[Tsukiyo] "That's fine."
+
+Tsukiyo smiled happily.
+
+#voice tuke0285
+[Tsukiyo] "I wasn't alone..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+
+;暗転
+;#face off
+
+#bgvoice stop
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：洞穴
+;BG BG09_1
+#cg all clear
+#bg BG09_1
+#wipe fade
+
+"Hmm... It doesn't seem like there's any strange atmosphere building up here, and it doesn't seem like something is living there either."
+
+“Umm, the distance from this tree to here is… Sorry, Tsukiyo. Could you please bring a light… Wait?”
+
+I looked up and realized that Tsukiyo had disappeared.
+
+He was there just a moment ago, where did he go?
+
+;SMODE 061 PLAY
+#label replay061
+#setscene 58
+#bg BG09_1
+
+;ＥＶ絵――EV???『考え事』
+;EVCG EV069A1
+#cg イベント ev069a1 背景
+#wipe fade
+
+When I came out of the cave, I saw Tsukiyo sitting down.
+
+I was about to ask Tsukiyo what he was doing when I noticed that he seemed to be deep in thought.
+
+Her hair is down and she is letting it be tossed about by the wind, making her look somewhat fragile.
+
+#voice tuke0286
+[Tsukiyo] "......"
+
+"What are you doing?"
+
+I thought about leaving him alone for a moment, but then I decided to talk to him.
+
+Tsukiyo looked up in surprise, but then quickly turned his head back down the cliff.
+
+#voice tuke0287
+[Tsukiyo] "...I was thinking about it."
+
+"What?"
+
+#voice tuke0288
+[Tsukiyo] "...It's nothing."
+
+"It's not nothing, is it?"
+
+I sat down next to Tsukiyo and he pointed to a windmill in the distance.
+
+#voice tuke0289
+[Tsukiyo] "There's a village over there. What's beyond that?"
+
+"There's a plain for a while, then a forest, and then a town, I think?"
+
+#voice tuke0290
+[Tsukiyo] "Are there a lot of people in this town?"
+
+"I hear there are so many of them that the village there is incomparable."
+
+#voice tuke0291
+[Tsukiyo] "What's on the other side of town?"
+
+"There are also several towns, with the royal capital at the center, so why?"
+
+#voice tuke0292
+[Tsukiyo] "What's in the royal capital?"
+
+"There's a king, lots of soldiers, a school, a market - it seems like a glamorous place."
+
+#voice tuke0293
+[Tsukiyo] "Wow... it looks fun. Have you never been?"
+
+"Unfortunately, never."
+
+The village I grew up in is really on the outskirts of the country, so it's not uncommon for people to never set foot in a town in their entire lives.
+
+Most villagers are born in villages, grow up in villages, and die in villages.
+
+#voice tuke0294
+[Tsukiyo] "Are there any neighboring countries over here?"
+
+"Ah, just like in this country, I think there are villages, towns, and a royal capital."
+
+Tsukiyo pointed in another direction again.
+
+#voice tuke0295
+[Tsukiyo] "What's over here?"
+
+"We have a big country here."
+
+#voice tuke0296
+[Tsukiyo] "A great power?"
+
+"It's a much larger country than ours, with a lot of soldiers and weapons, and it's a rich country."
+
+But that's hearsay from travelers.
+
+I can only imagine what the towns in my own country are like, so there's no way I could know that much about other countries.
+
+There are some traveling merchants, but they are only a very small minority.
+
+Normal people grow up in the place where they are born and live there until they die.
+
+Stories about towns, neighboring countries, and distant lands can only be learned through communication from the center or through stories told by travelers.
+
+#voice tuke0297
+[Tsukiyo] "Oh... there are a lot of people out there."
+
+"Aren't there many elves around?"
+
+#voice tuke0298
+[Tsukiyo] "There are a lot of elves, but there are even more humans."
+
+Saying this, Tsukiyo looked off into the distance again.
+
+I couldn't say anything and just sat next to Tsukiyo until the sun went down.
+
+;SMODE 061 STOP
+#endscene
+
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+After I finished dinner and poured tea for Tsukiyo, she muttered apologetically,
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0299
+[Tsukiyo] "I'm sorry. I was absent-minded, so I didn't get very far in my research."
+
+"No, I was spacing out too."
+
+In the end, we just looked at the scenery without saying anything in particular.
+
+What the elf said kept going around in my head, and I ended up thinking about it over and over.
+
+I'll have to investigate the cave again another day...
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0300
+[Tsukiyo] "Oh..."
+
+"..."
+
+An indescribable atmosphere flowed between us.
+
+;SE　とんとんとドアをたたく音
+
+break even.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0301
+[Tsukiyo] "Someone's here."
+
+"That's right. Yes."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I got up and opened the door, and there it was, Ibara.
+
+"Thorns..."
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0302
+[Tsukiyo] "It's a thorn!?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibae0052
+[Ibara] "It's been a while."
+
+Ibara strode in and demanded it as if it were the most obvious thing he could ask for.
+
+#voice ibae0053
+[Ibara] "Where's my tea?"
+
+"Ah... yes, please."
+
+With the poison gone, I instinctively offered my share.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibae0054
+[Ibara] "Hmm... hmm... out of all the human things, tea isn't bad."
+
+Ibara swallowed a sip and turned back with a haughty look on his face.
+
+;CHR T10F4 R
+#cg ツキヨ tuk_1_10f4 右
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+#voice tuke0303
+[Tsukiyo] "Aaahhh..."
+
+Tsukiyo, as usual, is covered with a cloth and looks completely scared.
+
+Hmm, what should I do?
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibae0055
+[Ibara] "Hmm... ahem."
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0304
+[Tsukiyo] "Yaw!"
+
+Ibara put the tea down on the table, looked at Tsukiyo as if he wanted to say something, then cleared his throat.
+
+Tsukiyo jumps in response.
+
+;CHR T02F R
+#cg ツキヨ tuk_1_02f 右
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+I don't think he's trying to intimidate her or anything, but Tsukiyo seems to be petrified, so it might be best to intervene.
+
+"Oh, hey, Ibara..."
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibae0056
+[Ibara] "...I'm sorry."
+
+#voice tuke0305
+[Tsukiyo] "Huh?"
+
+#voice ibae0057
+[Ibara] "I'm sorry, Tsukiyo."
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0306
+[Tsukiyo] "Whaaaaat?!"
+
+...Ibara apologized?
+
+I was stunned, and Ibarra turned away in a sulk.
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibae0058
+[Ibara] "I'm not asking you to forgive me, but I wanted to apologize to Tsukiyo, so I left the barrier."
+
+"Thorns..."
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibae0059
+[Ibara] "I was wrong to try to take Tsukiyo's things."
+
+#voice tuke0307
+[Tsukiyo] "Wow..."
+
+#voice ibae0060
+[Ibara] "Sorry for calling you dirty. Tsukiyo is not dirty."
+
+Ibarra looked away, perhaps out of regret or embarrassment.
+
+The sincerity packed into those words was enough to show that Ibara never disliked Tsukiyo.
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0308
+[Tsukiyo] "Thank you."
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibae0061
+[Ibara] "Huh...?"
+
+#voice tuke0309
+[Tsukiyo] "I'm glad Ibara is worried about me."
+
+;CHR I07F L
+#cg イバラ iba_1_07f 左
+#wipe fade
+
+#voice ibae0062
+[Ibara] "Tsukiyo!"
+
+;CHR T04F L
+#cg ツキヨ tuk_1_04f 右
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0310
+[Tsukiyo] "Thank you for coming to say I'm sorry, and thank you for coming to see me. And... thank you for being my friend."
+
+;CHR I06F L
+#cg イバラ iba_1_06f 左
+#wipe fade
+
+#voice ibae0063
+[Ibara] "Friends..."
+
+#voice tuke0311
+[Tsukiyo] "I'm sorry for saying I don't want you and that I hate you. It's not that I don't want you, I love you, Ibara."
+
+Tsukiyo bowed his head and Ibara's eyes instantly watered.
+
+Then Ibara ran up to Tsukiyo and hugged her tightly.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE I06F
+#face f_iba_0_06f 94 466
+
+#voice ibae0064
+[Ibara] "Tsukiyo! I'm sorry, I'm so sorry. It was my fault!"
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0312
+[Tsukiyo] "Wahhh..."
+
+Tsukiyo, who caught Ibara, was surprised for a moment, but then hugged him back tightly.
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#face f_tuk_0_01f_l 94 466
+;ssdelete
+
+#voice tuke0313
+[Tsukiyo] "I'm sorry. Ibara wasn't the only one at fault."
+
+#voice ibae0065
+[Ibara] "You don't need to apologize, Tsukiyo! And besides... I love you too, Tsukiyo!"
+
+;CHR T06F_L R
+#cg ツキヨ tuk_1_06f_l 右
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0314
+[Tsukiyo] "...Huh!?"
+
+"...Have you made up?"
+
+;CHR T04F R
+#cg ツキヨ tuk_1_04f 右
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0315
+[Tsukiyo] "Yes, it is."
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibae0066
+[Ibara] "We weren't fighting or anything."
+
+#voice tuke0316
+[Tsukiyo] "Yes. We're good friends."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE I06F
+#face f_iba_0_06f 94 466
+
+#voice ibae0067
+[Ibara] "Moon! Moon!"
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tuke0317
+[Tsukiyo] "Hehe, if you hug me too tight it will hurt."
+
+Tsukiyo pats Ibara's back gently, as if to soothe him.
+
+Apparently, everything's okay now.
+
+"To celebrate our reconciliation, let's open the sweets I bought the other day when we went to the village."
+
+;FACE H08F1_A
+#face f_hin_0_08f1_a 94 466
+
+#voice hine0038
+[Hinata] "Yay! Candy♪ Candy♪"
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kone0027
+[Konomi] "Also, your tea is getting cold."
+
+"Hinata?! Konomi?! When did you get here?!"
+
+;CHR H07F_A R
+#cg ヒナタ hin_1_07f_a 右
+;CHR K01F1A L
+#cg コノミ kon_1_01f1a 左
+#wipe fade
+
+#voice hine0039
+[Hinata] "Hehehe!"
+
+#voice kone0028
+[Konomi] "It's a secret."
+
+Hinata looked incredibly happy as she hopped around Ibara and Tsukiyo, who were embracing each other.
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+
+#voice hine0040
+[Hinata] "I get it! It's good to have friends after all, right!?"
+
+;FACE I01F
+#face f_iba_0_01f 94 466
+
+#voice ibae0068
+[Ibara] "Mm, what a noisy guy!"
+
+;CHR K01F1B L
+#cg コノミ kon_1_01f1b 左
+#wipe fade
+
+#voice kone0029
+[Konomi] "Hinata is always so noisy, isn't she?"
+
+;CHR H06F2_A R
+#cg ヒナタ hin_1_06f2_a 右
+#wipe fade
+
+#voice hine0041
+[Hinata] "Huh?! Are you angry?"
+
+...It was really quiet while they were away. But the moment they got together, it was so noisy I couldn't stand it.
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR T05F_L L
+#cg ツキヨ tuk_1_05f_l 左
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0318
+[Tsukiyo] "Hinata... Did you come?"
+
+
+
+#voice hine0042
+[Hinata] "Yes! Ibara and Tsukiyo came here just to talk to each other!"
+
+#voice tuke0319
+[Tsukiyo] "Oh..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Tsukiyo approached Hinata and hugged her.
+
+;FACE H06F2_A
+#face f_hin_0_06f2_a 94 466
+
+#voice hine0043
+[Hinata] "Whaaaat?! He hugged me tightly?!"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tuke0320
+[Tsukiyo] "I'm sorry for saying such terrible things. I love you too, Hinata."
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hine0044
+[Hinata] "Mine too, Hinata! Hinata loves Tsukiyo too!"
+
+;CHR K09F1 L
+#cg コノミ kon_1_09f1 左
+#wipe fade
+
+#voice kone0030
+[Konomi] "I'll give you a tight hug too."
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR T04F R
+#cg ツキヨ tuk_1_04f 右
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0321
+[Tsukiyo] "I love Konomi too."
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR I06F L
+#cg イバラ iba_1_06f 左
+#wipe fade
+
+#voice ibae0069
+[Ibara] "Me too!"
+
+#voice tuke0322
+[Tsukiyo] "I love you all, everyone!"
+
+They all rolled up and down like a lump of rice, making a dizzying amount of noise.
+
+They're just like puppies.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"What are you guys doing out here? That elf is coming for us again."
+
+;CHR K04F L
+#cg コノミ kon_1_04f 左
+#wipe fade
+
+#voice kone0031
+[Konomi] "Hmm, maybe he'll come. But we still have some time before the barrier closes, right?"
+
+;CHR H11F_A R
+#cg ヒナタ hin_1_11f_a 右
+#wipe fade
+
+#voice hine0045
+[Hinata] "Yeah! We have time!"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I don't feel like chasing away the children who are jumping around happily.
+
+I got up to prepare tea.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"Did everyone come to pick up Tsukiyo?"
+
+It's sad, but maybe it's better that way.
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibae0070
+[Ibara] "That's..."
+
+;CHR K07F R
+#cg コノミ kon_1_07f 右
+#wipe fade
+
+#voice kone0032
+[Konomi] "Hmm..."
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR H03F1_A R
+#cg ヒナタ hin_1_03f1_a 右
+#wipe fade
+
+#voice hine0046
+[Hinata] "Oh no..."
+
+However, the Ibaras looked at each other, then slumped their shoulders.
+
+;CHR I11F1 L
+#cg イバラ iba_1_11f1 左
+#wipe fade
+
+#voice ibae0071
+[Ibara] "...I'm sorry one more thing. I begged my brother and the elders, but I can't bring Tsukiyo back."
+
+"So you're still exiled?"
+
+#voice ibae0072
+[Ibara] "Hmmm..."
+
+Ibara's shoulders were trembling slightly.
+
+It is easy to imagine that he is sad about his friend being expelled and blames himself for being the one who started it.
+
+;CHR H01F1_A R
+#cg ヒナタ hin_1_01f1_a 右
+#wipe fade
+
+#voice hine0047
+[Hinata] "Let's all pray once more! Then everything will be okay!"
+
+;CHR OFF
+#cg イバラ clear
+#wipe fade
+
+;CHR K08F L
+#cg コノミ kon_1_08f 左
+#wipe fade
+
+#voice kone0033
+[Konomi] "Hmm... that's..."
+
+Judging from Konomi's unusually troubled expression, that's probably going to be difficult.
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0323
+[Tsukiyo] "It's fine. Tsukiyo will stay here as is."
+
+;CHR OFF
+#cg コノミ clear
+#wipe fade
+
+;CHR I04F L
+#cg イバラ iba_1_04f 左
+#wipe fade
+
+#voice ibae0073
+[Ibara] "Huh?!"
+
+;CHR T05F_L R
+#cg ツキヨ tuk_1_05f_l 右
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0324
+[Tsukiyo] "I don't want to go back to Nanashi. That's why I prefer this."
+
+;CHR I09F L
+#cg イバラ iba_1_09f 左
+#wipe fade
+
+#voice ibae0074
+[Ibara] "But..."
+
+;FACE K01F1B
+#face f_kon_0_01f1b 94 466
+
+#voice kone0034
+[Konomi] "I see, that's true."
+
+;FACE H04F1_A
+#face f_hin_0_04f1_a 94 466
+
+#voice hine0048
+[Hinata] "I see. Then, after we finish, we'll say bye."
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0325
+[Tsukiyo] "Hm. I'll go see her one more time before then."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibae0075
+[Ibara] "You're right, I'll come and see you."
+
+Only Ibara seemed a little put off, but Konomi and Hinata accepted Tsukiyo's decision relatively easily.
+
+Tsukiyo then took a deep breath and said firmly.
+
+;CHR T09F R
+#cg ツキヨ tuk_1_09f 右
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0326
+[Tsukiyo] "So... I want to go find a dark elf."
+
+;FACE H06F1_A
+#face f_hin_0_06f1_a 94 466
+
+#voice hine0049
+[Hinata] "Huh!?"
+
+;FACE K09F1
+#face f_kon_0_09f1 94 466
+
+#voice kone0035
+[Konomi] "That's great, I'm sure you'll find some friends."
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibae0076
+[Ibara] "I see, that's a good idea."
+
+"Could that be what you've been thinking all this time?"
+
+;CHR T04F R
+#cg ツキヨ tuk_1_04f 右
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0327
+[Tsukiyo] "Yes. If there are other dark elves out there, I'd like to meet them."
+
+Somehow I thought Tsukiyo would always be by my side.
+
+But, you know, if you've always thought you were alone, and you find out that there might be others out there, it's only natural that you'd want to go and look for them.
+
+"I see. Then I'll be lonely too..."
+
+;CHR T01F_L R
+#cg ツキヨ tuk_1_01f_l 右
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0328
+[Tsukiyo] "I'll stay here until the full moon."
+
+Was it because he knew I would be feeling lonely? Or was it because he wanted to say goodbye to Hinata and the others?
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibae0077
+[Ibara] "So, what about humans?"
+
+"Eh? Me? I'm just going to stay like this..."
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibae0078
+[Ibara] "Hmm... Tsukiyo has decided what he's going to do, but humans haven't decided anything yet."
+
+"..."
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+It hit me right where it hurts.
+
+It's something I've been thinking about for the past few days, but haven't been able to come up with an answer.
+
+I realized too that living alone in this forest like this isn't very realistic.
+
+"It's not going to be that easy..."
+
+;CHR H06F1_A R
+#cg ヒナタ hin_1_06f1_a 右
+#wipe fade
+
+#voice hine0050
+[Hinata] "Why?! Why isn't it easy?"
+
+;CHR K01F1B L
+#cg コノミ kon_1_01f1b 左
+#wipe fade
+
+#voice kone0036
+[Konomi] "Humans like things that are difficult."
+
+;CHR H04F1_A R
+#cg ヒナタ hin_1_04f1_a 右
+#wipe fade
+
+#voice hine0051
+[Hinata] "I see, you like difficult things?"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibae0079
+[Ibara] "If you like difficult things, why don't you aim to be an academic?"
+
+Ibara asked matter-of-factly, as if he really didn't understand.
+
+"Scholar...?"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibae0080
+[Ibara] "The big elf said that there is a profession called scholar in the royal capital."
+
+#voice ibae0081
+[Ibara] "He's the kind of person who spends all his time reading books and trying to research what's in them, just like humans."
+
+"A scholar...huh?"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+I've never thought about it before.
+
+If he was recognized as a scholar in the royal capital, he should be able to make a living through his studies.
+
+That way I can make a living by studying what I love...
+
+Dreaming about that, I shook my head.
+
+I've never been to school, so I have to start there.
+
+That would cost an incredible amount of money.
+
+Even a single book is surprisingly expensive and hard to come by, so imagine how much money it would cost to go to school.
+
+"...That's impossible."
+
+;CHR H06F1_A R
+#cg ヒナタ hin_1_06f1_a 右
+#wipe fade
+
+#voice hine0052
+[Hinata] "Impossible?! Why is it impossible?!"
+
+"It costs a lot of money to be an academic. And to go out into the city. So..."
+
+;CHR K02F1 L
+#cg コノミ kon_1_02f1 左
+#wipe fade
+
+#voice kone0037
+[Konomi] "For humans, everything is money."
+
+;CHR OFF
+#cg ヒナタ clear
+#wipe fade
+
+;CHR I08F R
+#cg イバラ iba_1_08f 右
+#wipe fade
+
+#voice ibae0082
+[Ibara] "If you want money, why don't you just make it? You know, you can pick fruit or make crafts and sell them, right?"
+
+"You'll never be able to keep up."
+
+;CHR K04F L
+#cg コノミ kon_1_04f 左
+#wipe fade
+
+#voice kone0038
+[Konomi] "Maybe I should work hard, collect a lot, make a lot, and sell them."
+
+"……I agree"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+I gave a wry smile to the elves who spoke so casually.
+
+Becoming an academic probably costs more than even I can imagine.
+
+It certainly costs much more than it would cost to make a living in the village.
+
+It's no wonder that these children have no idea about such things. To begin with, they are elves who have no idea about economics.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibae0083
+[Ibara] "...Are you making fun of me or something?!"
+
+"I'm not making fun of you."
+
+Ibara seemed annoyed at the lackadaisical reply.
+
+;CHR I02F C
+#cg イバラ iba_1_02f 中
+#wipe fade
+
+#voice ibae0084
+[Ibara] "What are you giving up on?! You won't know until you try?"
+
+"Because it costs a lot of money..."
+
+#voice ibae0085
+[Ibarra] "How much is this going to cost?"
+
+"I don't know... but I do know that we need a lot of money."
+
+Tsukiyo tilted his head curiously as well.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0329
+[Tsukiyo] "Humans, you're always looking for reasons why you can't do something. Don't you want to be a scholar?"
+
+"it is……"
+
+;選択肢発生
+#select a b
+A: It’s a dream.
+B: I want to be a scholar.
+
+#label a
+#next dt04a
+
+#label b
+#next dt04b
+
+;Ａを選択⇒『dt04a』へジャンプ
+;Ｂを選択⇒『dt04b』へジャンプ

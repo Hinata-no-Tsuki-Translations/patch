@@ -1,0 +1,626 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG45_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg45_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+After spending the night in the cave, we walked through the forest.
+
+Surely, we can't live in a place like that forever. We'll have to move someday.
+
+Therefore, I decided it would be better to act quickly.
+
+;SE：がさっという音
+;MCKないので下記変更
+;SE se014 鳥の鳴き声
+#se 1 se014
+
+"Huh..."
+
+I was so nervous that I nearly jumped at the slightest noise.
+
+After a night had passed, Konomi had calmed down considerably, but I was still nervous that the villagers would come after us.
+
+I had thought the forest was a quiet place, but now that I've become so sensitive, I can hear the birds singing and the wind rustling leaves all around, which is quite loud.
+
+Even amongst all those sounds, every time I heard the sound of something moving or rubbing, I couldn't help but suspect that it was my pursuer.
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice kond0339
+[Konomi] "Are you okay? Is that a pika? If humans are nervous, that will spread to the animals in the forest."
+
+"I, I see... that's fine then..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+As I said this, I looked around.
+
+Feelings of anxiety make even Tree Shadow seem human, but rationality tells him that this isn't true.
+
+But that didn't stop me from feeling fear.
+
+"You said you wouldn't give up, so I guess your pursuers are coming after all..."
+
+Considering that, maybe it was foolish to spend the night in the cave.
+
+Who knows what holes there might be in the explanation I gave to the villagers, and they might have seen through my lies and come after me.
+
+I had no way of finding out what they thought, and my anxiety only grew.
+
+Should I have acted sooner?
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0340
+[Konomi] "Hmm? I think it'll be okay."
+
+"How do you know that..."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0341
+[Konomi] "Hmm, whatever?"
+
+Despite how trembling she was yesterday, Konomi's voice was carefree and bright.
+
+It's a little disheartening to see Konomi getting back to her usual form, but at the moment I'm actually rather grateful for it.
+
+If Konomi had been shaking like yesterday, she probably wouldn't be able to move today.
+
+;CHR K01F2A C
+#cg コノミ kon_1_01f2a 中
+#wipe fade
+
+#voice kond0342
+[Konomi] "That's because normal humans can't enter the forest around here, right?"
+
+"A normal human, but I'm already here..."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0343
+[Konomi] "Humans, it's okay because you're with me, right?"
+
+… It doesn't feel like such a special place, but I'm not sure.
+
+However, judging from the distance, the destination is probably around here.
+
+When I stopped, Konomi chuckled.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0344
+[Konomi] "How did you know it was here?"
+
+Since Konomi says so, they must have arrived at their destination.
+
+To my eyes, it looked exactly the same as before, just an ordinary forest.
+
+No matter how far we looked, the lush vegetation around us could only rustle.
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0345
+[Konomi] "Haha, so you came here after all."
+
+Konomi was smiling as usual.
+
+A relaxed and carefree face, but with a face that seems to be looking off into the distance. I really like that face, but at the same time, I hate it.
+
+Of the four people she spent time with, Konomi was the most similar to Izumi, even more so than Ibara, whom she adores and calls big brother.
+
+It's not the face.
+
+Perhaps it is because of the elves who have lived for such a long time that they have a beauty that is somewhat resigned. To me, a human, it even seems somewhat pessimistic.
+
+Before I knew it, I had come to love that expression. But somewhere along the line, I think I realized that I couldn't have that look for myself.
+
+The feeling was similar to that when gazing at the stars or the moon that are out of reach.
+
+I think it's beautiful, but it also makes me feel unbearably sad.
+
+You couldn't tell from her appearance, but looking at Konomi's vague smile, I realized that she had certainly lived longer than me.
+
+And even after I die, it will continue to live on for eternity.
+
+So this is the only path I can choose.
+
+;CHR K04F C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0346
+[Konomi] "There's a confusion spell cast on me. Humans and monsters can't get close, so it's okay even if other humans are chasing me."
+
+"It looks like a normal forest to me."
+
+#voice kond0347
+[Konomi] "But you probably don't remember the way here, human."
+
+...Come to think of it, where did you walk to get here?
+
+I thought I was walking straight towards what I thought was the correct direction.
+
+Now that I think about it, I don't remember how I walked.
+
+Even in forests that look the same, after just a few steps the shapes of the trees and the way the grass grows are different. And yet I don't remember any of that.
+
+I've been familiar with forests since I was a child, so it was strange that I couldn't remember the path like this.
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice kond0348
+[Konomi] "Humans can only believe what they see with their own eyes. People like that would never be able to find their way here."
+
+I wonder if this forest looks different to Konomi. Even though they have similar shapes, I am reminded that they are different things.
+
+Even though he's next to me, I worry that if I let go of his hand, I'll never be able to reach him again.
+
+I came here with Konomi to send you somewhere you'd never reach again.
+
+"I guess I was brought all the way here to deliver Konomi."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR E R
+#cg その他 elf_1_01 右
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0110
+[Ibara] "That's right. Normally humans can't get this far."
+
+"Thorns..."
+
+When I came to, I noticed Ibara and Izumi standing nearby.
+
+"When did you get here?"
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0111
+[Ibara] "We didn't come. You came. We've been waiting for you for a long time."
+
+"They came to greet Konomi."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0112
+[Ibara] "That's right... Did the human bring Konomi with him?"
+
+Ibara muttered unwillingly, without even listening to me.
+
+He sounded as if he shouldn't have brought me there.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0349
+[Konomi] "It can't be helped, humans have no choice but to do that."
+
+Konomi smiles cruelly, precisely because of her innocence.
+
+When she lets go of my hand, I feel lonely, as if I'm being abandoned.
+
+"...I'm sorry, Konomi. This is goodbye."
+
+I decided to break up with Konomi and brought her here.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0113
+[Ibara] "...Why, human?"
+
+"Ibarra, you hear that?"
+
+I couldn't help but chuckle. There was something human about Ibara after all.
+
+"Simply put, I will die before Konomi. That's a certainty... I guess."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+How long can he keep Konomi in the human world, even though he's going to die first?
+
+No, what if someone was targeting Konomi right now?
+
+Yesterday I managed to trick the villagers and take Konomi away.
+
+But what if Konomi was captured by a seasoned elf hunter?
+
+Or what if some military force were to target Konomi?
+
+"Of course I will protect Konomi even if I die."
+
+It's cool to say it like that.
+
+I'd like to do that too if I could.
+
+But the reality is, I'm not particularly strong even as a human being, and I don't have any special skills or abilities to do so, so I don't think I'll be able to protect Konomi.
+I have no idea what kind of person would want an elf, since I have no connection to such a rich person.
+
+However, even if Konomi is captured and the person who bought her takes good care of her, that person probably won't be able to help her if she gets a fever.
+
+Just like I would never have been able to reach the forget-me-not flower without the advice that Ibara gave me.
+
+In that case, it would probably be safer to return Konomi to the elves as soon as possible.
+
+I'm sure I won't be able to protect Konomi with my own strength. I can't promise to stay with her as long as we live.
+
+It would be much easier for sea fish to live in the sea and river fish to stay in the river.
+
+Moreover, Konomi, who is succumbing to the poison of the human world, cannot be left in this world any longer.
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0043
+[Spring Elf] "Son of man, you have made a good decision. I respect and appreciate your decision."
+
+"Stop it... it's not that big of a deal. I have no choice but to admit my weakness..."
+
+;CHR I08F L
+#cg イバラ iba_1_08f 左
+#wipe fade
+
+#voice ibad0114
+[Ibara] "...Human."
+
+Ibara muttered something to me, but looked away without saying anything.
+
+;CHR I11F2 L
+#cg イバラ iba_1_11f2 左
+#wipe fade
+
+#voice ibad0115
+[Ibara] "You're an idiot."
+
+"Yeah, you're right. We should have done this from the beginning."
+
+If I had chosen to stay away from Konomi from the beginning, she would not have gotten sick and I would not have had to make her feel scared.
+
+Yet it was foolish of me to be happy that Konomi would stay with me.
+
+That's how I made Konomi feel so bad.
+
+Ibara stared at me and continued to mumble as if he still wanted to say something.
+
+"Ibara is kind."
+
+;CHR I02F L
+#cg イバラ iba_1_02f 左
+#wipe fade
+
+#voice ibad0116
+[Ibara] "What?! Why are you suddenly talking about me?!"
+
+"thank you for worrying about me"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0117
+[Ibara] "I, I'm not particularly worried about humans..."
+
+#voice izud0044
+[Elf of the Spring] "O Elf of the Thorns, give the child of man the item in question."
+
+#voice ibad0118
+[Ibara] "...I understand, brother."
+
+Ibara approached me and held something out to me.
+
+We accept it reflexively.
+
+What was handed to me was a lump that seemed to be made of kneaded material.
+
+"this is……?"
+
+#voice izud0045
+[Elf of the Spring] "This is an incense made with forget-me-not flowers. Konomi has stayed in the memories of the children of men for too long. You know how to use it, right?"
+
+When I made a decoction of forget-me-not flowers previously, Ibara told me to be careful not to inhale the steam.
+
+Because you never know what humans might forget.
+
+The fact that I was given this incense probably means that if I smell it, I will forget about Konomi.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0350
+[Konomi] "You know, I loved being with humans and doing nice things with them."
+
+Konomi looked up at me and said.
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kond0351
+[Konomi] "Humans, you know, leave marks and memories behind, right? I've always wondered about that."
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0352
+[Konomi] "If it's something that will disappear or change if we just leave it alone, then maybe it's our role to see that through."
+
+#voice kond0353
+[Konomi] "I wonder why people who want to preserve it would do something like that."
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice kond0354
+[Konomi] "...But now, I think I understand how that person feels."
+
+"Eh... why?"
+
+#voice kond0355
+[Konomi] "You know, I want to leave my mark on humans. Even if it means hurting them, I want to leave an indelible mark."
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0356
+[Konomi] "But, we have to make them forget. If they don't forget, it would be a problem if the humans started looking for the elf village."
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice kond0357
+[Konomi] "But even if you're the only one who knows about the elves, it's hard to keep quiet, right? So it's okay if you forget about them - that's what the incense is for."
+
+"Is that what the incense is for?"
+
+#voice kond0358
+[Konomi] "That's right. Unlike elves, humans can't stand being alone, so they can't keep secrets by themselves for long periods of time."
+
+;CHR K02F2 C
+#cg コノミ kon_1_02f2 中
+#wipe fade
+
+#voice kond0359
+[Konomi] "That's why we offer this incense to anyone who has had contact with an elf. If they forget, we can just pretend it never happened, right?"
+
+#voice kond0360
+[Konomi] "If I forget, no matter how many times other people ask me, I can't talk about things I don't know."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0361
+[Konomi] "I think it would be better if humans forgot about me. But I don't want to be forgotten."
+
+"What are you talking about? There's no way I could forget."
+
+I gripped the tokiwasure scent in my hand tightly.
+
+No matter what anyone says, this one scent might make me forget about Konomi.
+
+But if it's possible to inflict a wound on a soul or something invisible, I want to believe that mine is engraved with Konomi.
+
+Konomi smiled at me, as carefree as always.
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0362
+[Konomi] "It's okay to forget, you know? As long as you're smiling, that's fine with me."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR E R
+#cg その他 elf_1_01 右
+#wipe fade
+
+#voice izud0046
+[Elf of the Spring] "Come on, let's go. Elf of the Thorns, Elf of the Nuts."
+
+Izumi solemnly announced to Ibara and Konomi.
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0119
+[Ibara] "...See you, human."
+
+;ホワイト
+#cg all clear
+#bg white
+#wipe fade 2000
+#wait 2000
+
+Light pours out from somewhere, and Izumi and Ibara disappear from sight.
+
+;CHR OFF
+#cg all clear 2000
+#wipe fade
+#wait 2000
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0363
+[Konomi] "Then I'll go too."
+
+Konomi also let go of my hand and walked towards the light.
+
+;CHR OFF
+#cg all clear 3000
+#wipe fade
+#wait 1000
+
+;SMODE 055 PLAY
+#label replay055
+#setscene 52
+#bg BG04_1
+
+;ＥＶ絵――EV???『忘れないでね』
+
+#cg イベント ev060a1 背景
+#wipe fade
+
+#voice kond0364
+[Konomi] "Don't forget, human."
+
+Konomi looked back at me before disappearing.
+
+#voice kond0365
+[Konomi] "The truth is, I need you to forget about me and everything else, but I don't want you to forget me."
+
+#voice kond0366
+[Konomi] "I don't want to say goodbye, but we don't have the same amount of time to live. I don't think I could bear to lose a human."
+
+#voice kond0367
+[Konomi] "If we spend time together and Human-kun dies first, I'll probably want to forget Human-kun to ease my sadness."
+
+#voice kond0368
+[Konomi] "So this is where we say goodbye. I really wish we could stay together forever and live together, but we are different creatures."
+
+#voice kond0369
+[Konomi] "But I don't want you to forget, but I want you to forget. I'm not sure which is the truer feeling. Because they're both true feelings."
+
+#voice kond0370
+[Konomi] "I want to remember forever. But I'm sure I'll want to forget. It's all the opposite, and it's all true. So, it's up to you, human."
+
+#voice kond0371
+[Konomi] "I love you, human."
+
+Konomi's figure fades into the distance. Her smile disappears. Konomi also disappears into the light.
+
+...Ah, this is really the end of my relationship with Konomi. In that case, I have to respond to her feelings properly.
+
+I wanted to be by your side forever. I wanted to spend forever with you.
+
+But we are different creatures.
+
+;SMODE 055 STOP
+#endscene
+
+I said.
+
+;選択肢発生
+#select a b
+A: I'll forget it.
+B: I won't forget.
+
+#label a
+#next kbadend01
+
+;Ａを選択⇒『kbadend01』へジャンプ
+;Ｂを選択⇒『コノミEND判定』へジャンプ
+
+#label b
+#if f3>=7 khappyend:
+#if f3<=6 kbadend02:
+
+;コノミEND判定
+;Ａ：好感度が7以上
+;Ｂ：好感度が6以下
+
+;Ａを選択⇒『khappyend』へジャンプ
+;Ｂを選択⇒『kbadend02』へジャンプ

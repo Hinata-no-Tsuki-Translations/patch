@@ -1,0 +1,1832 @@
+;サウンドすべて停止
+#bgm 0 stop
+#bgvoice stop
+#se stop
+
+;※アイキャッチ表示
+;BG:BG42_1
+
+;スキップ禁止
+#waitcancel disabled
+
+#mes off fade
+#system off fade
+
+#mes clear
+
+#cg all clear
+#bg bg42_1
+#wipe fade 1000
+
+#wait 3000
+
+#bg black
+#wipe fade
+
+#wipe flash
+#mes window
+
+#mes on flash
+#system on flash
+
+;インターバル
+
+;スキップ禁止解除
+#waitcancel enabled
+
+;FACE ON
+#face on
+
+#bgvoice stop
+;BGMch2 amb004 再生
+#bgvoice amb004
+
+;背景：山小屋（夜）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+Tsukiyo and I started our life together without any problems.
+
+In fact, without the noisy Hinata, the quick to get involved Ibara, and the watchful Konomi, life seems a lot more peaceful.
+
+"I'll bring the pot to your table, so be careful. Hinata... uh, she's not here. Tsukiyo, are you okay...?"
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0101
+[Tsukiyo] "Yes, it is..."
+
+"Unlike Hinata, Tsukiyo is very calm, ahahaha..."
+
+#voice tuke0102
+[Tsukiyo] "Ahaha..."
+
+Except that I might suddenly feel like they're there and call out to them.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0103
+[Tsukiyo] "Oh..."
+
+Even though I knew he wasn't there, Tsukiyo gave me a strange look every time I tried to call out to him.
+
+I feel really sorry about that too, and it makes me feel awkward every time I say something like that.
+
+It's just a habit, and it does feel a bit unsatisfying, but it's been quite noisy up until now, so I'm sure I'll get used to it once things calm down.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgm 0 stop 1000
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+;背景：山小屋の前（昼）
+;BG BG08b_1
+#cg all clear
+#bg BG08b_1
+#wipe fade
+
+The next morning, as I washed my face in the stream behind my house, I was surprised by an unexpected visitor.
+
+"Ah, you..."
+
+#bgm 0 06
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+#voice izue0011
+[Elf of the Spring] "Hello. Child of man, are those children visiting you?"
+
+"Those kids..."
+
+I immediately thought about hiding the fact that I was Tsukiyo, but then I realized that there was no point in hiding anything from someone who could read my mind.
+
+"...Tsukiyo is the only one here...but..."
+
+#voice izue0012
+[Spring Elf] "Hmm..."
+
+The older elf looks at me with interest.
+
+"Wh-what is it... I-I respect Tsukiyo's feelings."
+
+I also found this elf frightening and mysterious. Hinata and the others might grow up to be like this someday, but I couldn't imagine them as the same kind of creatures.
+
+It was as if his gaze could see through not only my thoughts but everything else, and for a mere human like me, this was not a pleasant experience.
+
+That's why I end up giving them a harsh, glaring look.
+
+#voice izue0013
+[Elf of the Spring] "It seems there's been some misunderstanding. Even though we can communicate without words, I can't receive anything from you other than the words you want to convey."
+
+"What do you mean?"
+
+I asked with obvious caution, and the elf seemed to think for a moment.
+
+Was it just my imagination that it looked like he was laughing?
+
+#voice izue0014
+[Fountain Elf] "When you speak to me, even in your mind, I can hear it. But I cannot hear the words you are processing inside your head."
+
+#voice izue0015
+[Elf of the Spring] "If you ask me if I laughed, I guess I did. And I can tell you that you're not going to let that little Dark Elf go."
+
+#voice izue0016
+[Spring Elf] "That's why I asked earlier. Do you know where those children are?"
+
+I see, so if you're asked and you don't try to answer, then the message won't get across.
+
+#voice izue0017
+[Spring Elf]: "Yes, that's right."
+
+"I knew it would get through to you!"
+
+#voice izue0018
+[Fountain Elf] "That's because you thought you'd ask me."
+
+...Hmm, I don't really know. I don't think I can adjust whether I want to tell her or not without using my mouth.
+
+#voice izue0019
+[Elf of the Spring] "Just answer the questions without overthinking it."
+
+"It may be difficult to hide it, but replying normally is no different from having a conversation. So, it's a very good thing."
+
+It's not very pleasant, but it seems I have no other choice.
+
+#voice izue0020
+[Spring Elf] "Yes, that's right. It's probably easiest to think of it that way. So, what about those kids?"
+
+Even though I knew it was coming, it still didn't feel very good to have someone talking directly to my head.
+
+But there's no point in saying that.
+
+I decided to answer honestly.
+
+"Hinata came yesterday, but she disappeared somewhere, and I don't know about the other girls."
+
+#voice izue0021
+[Fountain Elf] "Hinata... You gave names to both the Half-Elf and the Dark Elf."
+
+The elf asked, sounding somewhat interested.
+
+"Yeah, but it'd be a bit weird without a name, right?"
+
+#voice izue0022
+[Fountain Elf] "Not for the sake of possession, then? You're an interesting person."
+
+Are you impressed...?
+
+#voice izue0023
+[Fountain Elf] "Yes, I'm impressed."
+
+I feel like I'm being made fun of, but that's only because I'm thinking from a human perspective, and he probably doesn't mean any harm. That's what I'd like to believe.
+
+#voice izue0024
+[Spring Elf] "Oh, I don't mean any harm."
+
+"Sorry, but I find it annoying when you can read my mind. Don't you know everything after all?"
+
+#voice izue0025
+[Fountain Elf] "From the flow of your words, I can predict the next question. Would it be wrong to answer the question that will be asked next?"
+
+"I don't know how much of it has been read. It's something I'm not used to, so I just can't accept it."
+
+#voice izue0026
+[Fountain Elf] "I see, but I can't tell the difference between words that come out of the mouth and words that are thoughtfully conveyed."
+
+...I guess there's no other way.
+
+"The kids are gone?"
+
+#voice izue0027
+[Spring Elf] "Yeah, it seems he went out to play again soon after coming back."
+
+If they haven't returned to the elves, then where on earth have they gone?
+
+I wonder if he's playing somewhere... I hope he's not in some strange place and in danger.
+
+#voice izue0028
+[Elf of the Spring] "Do humans worry about elves?"
+
+"Is it wrong to be worried? It's natural to be worried about someone you've been living with for a while, right?"
+
+#voice izue0029
+[Spring Elf] "No... I see. Humans are very emotional."
+
+...Come to think of it, Konomi sometimes said things that seemed strangely cold.
+
+I guess elves don't get emotionally attached that easily.
+
+"Now, I want to ask you, is it possible for the children to stay here of their own volition?"
+
+When I asked the question, the elf tilted his head thoughtfully.
+
+#voice izue0030
+[Fountain Elf] "If they really want to... then I won't stop them, but I don't know if that's what they want or not..."
+
+I wonder. At least they seemed to have fun while they were together, but I feel like they're just the same old guys no matter where they are.
+
+"I don't mean to force you, but I don't like forcing you to go home either."
+
+#voice izue0031
+[Elf of the Spring] "You may do as you like, except for the Dark Elf you call Tsukiyo."
+
+"...Huh."
+
+I was left speechless by the unexpected words.
+
+Why does Tsukiyo, the most important character, have to go back to the world of elves?
+
+What makes you different from Hinata and Ibara?
+
+I tried to ask reflexively but couldn't get the words together, so the elf shook his head.
+
+#voice izue0032
+[Fountain Elf] "It's the opposite. We are no longer willing to accept her. Those who have hurt their own kind are not worthy of receiving their blessings."
+
+"No way..."
+
+That was a terrible story in itself.
+
+"By hurt, do you mean Ibara?"
+
+#voice izue0033
+[Spring Elf] "Yes, I'm talking about the Thorn Elf."
+
+“That’s… a problem between Ibara and Tsukiyo, right? Even though Ibara had a fight, he wasn’t serious about it. So why…”
+
+The elf shook his head to cut off my rebuttal.
+
+#voice izue0034
+[Elf of the Spring] "Tsukiyo is originally something foreign to our village. He is a baby that was left behind by a lost dark elf."
+
+#voice izue0035
+[Elf of the Spring] "And so you were not given a name, and were kept alive by our mercy. But if you have harmed your fellow countrymen, there is no reason for us to accept that."
+
+It was a cold, firm reply.
+
+#voice izue0036
+[Elves of the Spring] "We elves do not like conflict. The one who carries the source of that conflict is not one of our kind, so it is only natural that we should banish him."
+
+;FACE T05F_L
+#face f_tuk_0_05f_l 94 466
+
+#voice tuke0104
+[Tsukiyo] "...So I'll never be able to see Ibara, Konomi, or Hinata again?"
+
+"Tsukiyo!"
+
+Tsukiyo came out of the hut and before I knew it, she was standing behind me.
+
+#voice izue0037
+[Spring Elf] "Yes, your right to exist has been revoked by the council. Once the barrier closes, you will not be allowed to enter our settlement."
+
+"Isn't that kind of awful?"
+
+#voice izue0038
+[Elf of the Spring] "Is that bad...? After taking your growth into consideration, we have decided that you no longer need protection. There's nothing bad about it."
+
+The elf's reply was blunt.
+
+#voice izue0039
+[Fountain Elf] "Then, if those children come here, please tell them to return to the barrier and not to wander around unnecessarily."
+
+#voice izue0040
+[Spring Elf] "Otherwise, there's no guarantee that you won't be captured by the monsters or heartless humans of this forest."
+
+"……Understood"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+It became clear that the reason he was searching for thorns and burrs was that he was trying to protect them.
+
+I also realized that trying to persuade Tsukiyo was probably useless.
+
+I thought I was all too aware from my life up until now that elven ethics are different from human ethics, but I was once again made to vividly realize this.
+
+I felt a heavy, unpleasant sensation, as if I had been forced to swallow lead.
+
+It's not hard to understand that elves and humans have fundamentally different ways of thinking.
+
+It seems that even humans can have very different ways of thinking depending on the climate or the god they worship.
+
+……but.
+
+"Now, I need to pick up today's fruit."
+
+Not wanting to be near this elf any longer, I grabbed Tsukiyo's shoulders and turned him away.
+
+;FACE T06F_L
+#face f_tuk_0_06f_l 94 466
+
+#voice tuke0105
+[Tsukiyo] "Human...?"
+
+"If we meet them out there, we'll tell them what you're looking for. But after that, it's all a mystery to us. Don't show your face to us again."
+
+;CHR E C
+#cg その他 elf_1_01 中
+#wipe fade
+
+#voice izue0041
+[Fountain Elf] "Understood."
+
+"Well, let's go, Tsukiyo."
+
+;FACE T05F_L
+#face f_tuk_0_05f_l 94 466
+
+#voice tuke0106
+[Tsukiyo] "Y-yes."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+I turned my back on the older elf and walked quickly into the depths of the forest.
+
+#bgm 0 stop 2000
+#bgvoice stop
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;MCK
+;BGMch2 amb001 再生
+#bgvoice amb001
+;背景：森　昼
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0107
+[Tsukiyo] "Human, there's a rockfish."
+
+"Oh, they're growing here too. Judging by the way they're ripening, it seems they ripen slower here than in the last place I found them."
+
+#voice tuke0108
+[Tsukiyo] "Yes. There are still lots of green ones growing here."
+
+Perhaps because we were deliberately trying not to mention the conversation we had had with the elf earlier, both Tsukiyo and I felt a bit awkward.
+
+But I don't know what to say to him.
+
+I pretended to be studying it intently and dropped my eyes to the book.
+
+"Hmm, maybe it's a matter of sunlight? Or maybe it's because we're a little farther away from the elven realm..."
+
+I was shocked to finally mention the elf in the end, but Tsukiyo didn't seem particularly bothered by it.
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0109
+[Tsukiyo] "If the barrier is repaired, will the plant growth change?"
+
+"I don't know for sure, but it might have an effect."
+
+I answered Tsukiyo and stopped examining the tree.
+
+As I thought, this is no good. I have to say what I need to say properly.
+
+"...I'm sorry, Tsukiyo."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0110
+[Tsukiyo] "Why are you apologizing?"
+
+"It happened earlier."
+
+#voice tuke0111
+[Tsukiyo] "What about earlier?"
+
+"If I had been able to negotiate with him better, you might have been able to return to the elf village, but I ended up saying something like I was trying to pick a fight."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0112
+[Tsukiyo] "Oh... don't worry about it. I had no intention of coming back in the first place."
+
+"Really?"
+
+Surprised by the unexpected words, I asked Tsukiyo to repeat himself, and he nodded deeply.
+
+#voice tuke0113
+[Tsukiyo] "If I go back there, I'll just go back to being Nanashi. It's better for Tsukiyo to stay Tsukiyo."
+
+"I see..."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0114
+[Tsukiyo] "Tsukiyo... what a lovely name. I love it. He said I'm beautiful, like moonlight gathered together. It's the first gift he's ever given me."
+
+Tsukiyo clings to me happily.
+
+#voice tuke0115
+[Tsukiyo] "Also... there are humans here. I'm happy to be here with them."
+
+"I see, thank you."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0116
+[Tsukiyo] "Huh? Why would a human say thank you?"
+
+"Because I was happy. I was happy that you said you were happy that I was there."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0117
+[Tsukiyo] "Hehe, we had a similar conversation the other day."
+
+"That's right."
+
+There was no sign of any fade in Tsukiyo's smile.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;FACE T04F
+#face f_tuk_0_04f 94 466
+
+#voice tuke0118
+[Tsukiyo] "Mmhmm!"
+
+Tsukiyo jumped on me and pressed her lips against mine.
+
+"Oh, hey?"
+
+;FACE T01F_L
+#face f_tuk_0_01f_l 94 466
+
+#voice tuke0119
+[Tsukiyo] "I love you. You're the one who gave me the name Tsukiyo."
+I was surprised for a moment, but then I found Tsukiyo's shyness so cute, so this time I was the one to press my lips against hers.
+
+;SE
+
+;FACE T10F2
+#face f_tuk_0_10f2 94 466
+
+#voice tuke0120
+[Tsukiyo] "Mmmm...slurp...mmmm..."
+
+Tsukiyo blushes as she responds to my requests and it's so adorable.
+
+;FACE T10F2
+#face f_tuk_0_10f2 94 466
+
+#voice tuke0121
+[Tsukiyo] "Mmmm... mmm... mmm... smooch... haaaah"
+
+He inserted his tongue between Tsukiyo's lips and gently explored the inside of her mouth, and Tsukiyo responded by clumsily entangling his tongue with his.
+
+;SE
+
+;FACE T10F2
+#face f_tuk_0_10f2 94 466
+
+#voice tuke0122
+[Tsukiyo] "Mmmm... mmm... ch, ch..."
+
+Tsukiyo seemed to be getting excited, as she rubbed her knees together and let out a sad sigh between her closed lips.
+
+;FACE T10F1
+#face f_tuk_0_10f1 94 466
+
+#voice tuke0123
+[Tsukiyo] "Ahh...smooth...smooth..."
+
+I guess she could feel it in her mouth too. Maybe it was because I had an erection, but Tsukiyo's hips were pulled back. She put her hands around my neck, begging for more.
+
+I, too, have been stiff with anticipation for quite some time now.
+
+"Shall we do it?"
+
+When I gently touched my thing over my slippers, Tsukiyo laughed shyly, perhaps sensing the heat I had built up.
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0124
+[Tsukiyo] "It's hot."
+
+"Yeah. I'm excited and wanting to do something fun with Tsukiyo."
+
+#voice tuke0125
+[Tsukiyo] "It's the same..."
+
+"Well, put your hands there and turn your bottom towards me."
+
+;MCK
+#bgm 0 stop 2000
+#bgvoice stop
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;SMODE 059 PLAY
+#label replay059
+#setscene 56
+#bg BG04_1
+
+;MCK
+;BGMch1 bgm007 H1 再生
+#bgm 0 07
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+;#face off
+
+
+#cg イベント ev066a1 背景
+#wipe fade
+
+Tsukiyo, clinging to a tree, looked towards me with anxious eyes.
+
+#voice tuke0126
+[Tsukiyo] "Should we do it standing up?"
+
+"Yes. If it's hard for you to stand, just hang on to the trunk of a tree."
+
+#voice tuke0127
+[Tsukiyo] "I understand."
+
+Tsukiyo replied with brave determination and grabbed onto the tree firmly.
+
+"...I won't be so serious though."
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+#voice tuke0128
+[Tsukiyo] "Hyaaaah!"
+
+Just by stroking her smooth and small bottom, Tsukiyo lets out a cute cry.
+
+#voice tuke0129
+[Tsukiyo] "Ahh... it feels good to have my butt stroked... your big hands are warm."
+
+"It feels good to touch and it feels good to stroke it."
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+#voice tuke0130
+[Tsukiyo] "Hehe, then please pet me lots."
+
+Tsukiyo shakes her hips from side to side in an inviting manner.
+
+"Is stroking enough? You want to do something more pleasurable?"
+
+#voice tuke0131
+[Tsukiyo] "Yes, it is."
+
+"How about this?"
+
+I traced from the beginning of the crack to the hole, then, avoiding the hole, tickled the rest of the way down to the base of the trembling young stem.
+
+After continuing this for a while, Tsukiyo turned around impatiently.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+#voice tuke0132
+[Tsukiyo] "Ahh...ahhh...I can't put it in?"
+
+"Do you want me to put it in?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+#voice tuke0133
+[Tsukiyo] "I want you to put it in, loosen it up, and make it feel good."
+
+"Then we need to wet it so it'll slide better."
+
+When he held out his finger in front of Tsukiyo, he obediently took it into his mouth.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+;SE
+
+#voice tuke0134
+[Tsukiyo] "Mmmm...slurp...squish..."
+
+The gesture was clumsy, but it reminded him of oral sex. Just licking felt good, and Tsukiyo, feeling hot, licked his fingers, rubbing them against his cheek.
+
+"Do my fingers taste good?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+#voice tuke0135
+[Tsukiyo] "Mmmmm... yes... it's delicious..."
+
+Tsukiyo muttered in a dreamlike daze.
+
+"I wonder if I got it wet enough?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+#voice tuke0136
+[Tsukiyo] "...ahh"
+
+When the time was right, he pulled his fingers out and Tsukiyo cried out reluctantly.
+
+"I could keep sucking you forever, but that wouldn't be enough, would it? Like this?"
+
+#voice tuke0137
+[Tsukiyo] "Haaaaah!"
+
+When I inserted my finger into her anus, which was covered in plenty of saliva, it became completely accustomed to being inserted and easily swallowed my finger.
+
+#voice tuke0138
+[Tsukiyo] "Ahh... haah... ahhh..."
+
+When I slowly stirred the inside of her with my middle finger, Tsukiyo moaned cutely.
+
+"One isn't enough, is it?"
+
+Next, insert your index finger along the top. With two fingers, the number of things you can do increases.
+
+He alternated between scratching inside and pushing open, Tsukiyo's anus contracting as if devouring every movement.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+#voice tuke0139
+[Tsukiyo] "Ahh... my asshole is being stirred... it's making naughty squelching noises."
+
+The sound may sound louder to Tsukiyo because it was resonating from inside his body.
+
+#voice tuke0140
+[Tsukiyo] "Ahh... haa... ugh... hi... mmm... haa... haa..."
+
+"How does it feel?"
+
+Tsukiyo, who had already been completely messed up just from my fingers, answered my question with an ecstatic look on her face.
+
+#voice tuke0141
+[Tsukiyo] "Yes, it feels good. But... I want something bigger."
+
+"So, can I put it in now?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+#voice tuke0142
+[Tsukiyo] "Anytime. I want you to put your big dick inside me...ahh...ahh..."
+
+He takes aim at that spot, which repeatedly contracts and greedily slurps, and presses his penis into it.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B1
+#cg イベント ev066b1 背景
+#wipe fade
+
+#voice tuke0143
+[Tsukiyo] "Ahhh... Ahh... Something big and hot is coming in..."
+
+As I slowly entered inside, the fine folds inside Tsukiyo welcomed me in.
+
+#voice tuke0144
+[Tsukiyo] "It's filling up my ass... ahhh... haa..."
+
+It's convenient that it can hold your waist firmly even when inserting and removing it slowly.
+
+"It's easier to move in this position."
+
+#voice tuke0145
+[Tsukiyo] "Is it easy to move around in?"
+
+"Yeah. So I think I can love you more passionately than usual."
+
+He said as he thrust it all the way in.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B2
+#cg イベント ev066b2 背景
+#wipe fade
+
+#voice tuke0146
+[Tsukiyo] "Hyaaah?! It suddenly went that deep...?! Aaah...ahhh...it's gone all the way in!"
+
+"tight?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B1
+#cg イベント ev066b1 背景
+#wipe fade
+
+#voice tuke0147
+[Tsukiyo] "Haa... haa... I'm fine... I was just a bit surprised... ah"
+
+"Good. Then I'll make it even more intense."
+
+I forcefully ripped Tsukiyo's intestines out.
+
+He thrusts it all the way in, then pulls his hips back as far as he can until it almost slips out, and thrusts again.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B2
+#cg イベント ev066b2 背景
+#wipe fade
+
+#voice tuke0148
+[Tsukiyo] "Ahhhhh, ahhhhh, aaaahhh!"
+As he continued to thrust his cock in with force, Tsukiyo's moans gradually became louder and louder.
+
+#voice tuke0149
+[Tsukiyo] "Ahhhh... ahhh ahh... it's too intense... it's getting better and better, I can't stop it."
+
+"Do you like it intense?"
+
+#voice tuke0150
+[Tsukiyo] "Ah, ahhhhh... I think I like it... ahhh ahh ahhh..."
+
+Her anus was tightly gripping my thing, entwined with mine and refusing to let go.
+
+It was quite a spectacular sight to see from behind.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B1
+#cg イベント ev066b1 背景
+#wipe fade
+
+#voice tuke0151
+[Tsukiyo] "Haa... Ahh... Aaah... When you do it vigorously, it feels like my sensitive spots are numb and spreading. Mmm, ahhh... Ahhh..."
+
+Tsukiyo twisted her hips in time with my thrusts, devouring the pleasure herself.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B2
+#cg イベント ev066b2 背景
+#wipe fade
+
+#voice tuke0152
+[Tsukiyo] "Haa... Ahh... Ahh... Hafu... It's intense, it feels good. Ahh... My ass feels so good. Mmmmmmm..."
+
+"Does it really feel that good to be fucked from behind?"
+
+#voice tuke0153
+[Tsukiyo] "Yes, I-it's fine... I want you to make lots of slurping noises. Please thrust more and more."
+
+"Tsukiyo is greedy."
+
+#voice tuke0154
+[Tsukiyo] "But yeahhhh!! It feels so good! This, ahhh... I can't stop... ahhh ahh...!"
+
+As the intestinal walls were rubbed, they began to heat up and clung to my dick, begging for pleasure.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B1
+#cg イベント ev066b1 背景
+#wipe fade
+
+#voice tuke0155
+[Tsukiyo] "Ahh, ahh, ahh, ahh, ahh... it feels so good, I'm getting higher and higher."
+
+He gripped her slender waist firmly and, as if hanging Tsukiyo by his arms, stirred inside of her with all his might.
+
+There's no doubt that his actions elicited cute, yet lewd moans from Tsukiyo's throat.
+
+#voice tuke0156
+[Tsukiyo] "Ah... ahh... the tip of your penis is tapping against that spot that feels so good for a while now. It's poking the underside of my penis."
+
+Every time my cock hit a sensitive spot, Tsukiyo lifted her hips and squeezed her asshole tightly.
+
+#voice tuke0157
+[Tsukiyo] "Ahhh... Ahh yeah... My penis, my penis feels so good. My penis going in and out feels so good..."
+
+Tsukiyo's feet are standing on her tiptoes, so high they almost seem to be floating in the air.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B2
+#cg イベント ev066b2 背景
+#wipe fade
+
+#voice tuke0158
+[Tsukiyo] "Haa... Ahh... Ahh... Ahhh... Mmm..."
+
+"You're squeezing me too tight, Tsukiyo. If you squeeze me that tight, I'll come right away too."
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入
+;EVCG EV066B1
+#cg イベント ev066b1 背景
+#wipe fade
+
+#voice tuke0159
+[Tsukiyo] "Ah... Ahh... Please come. I... I think I'm going to come... Ahh... If you shake me that hard I'll ejaculate... Ahh"
+
+"If you're about to come, Tsukiyo, you can come too. Come on, just go ahead and come."
+
+When he thrust hard into her, Tsukiyo leaned her back.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』挿入　ツキヨ射精（人間射精前）
+;EVCG EV066C1
+#cg イベント ev066c1 背景
+#wipe fade
+
+;MCK
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev066c2 背景
+#bg BG04_1
+#wipe fade 300
+
+#voice tuke0160
+[Tsukiyo] "Ahhh... Aaaaahhhhhhh!"
+
+The young stems of the tsukiyo send up splashes of water with a thud, and at the same time the inside of the tsukiyo suddenly becomes narrower.
+
+"Here goes."
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』ニンゲン射精
+;EVCG EV066C2
+#cg イベント ev066c2 背景
+#wipe fade
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev066c2 背景
+#bg BG04_1
+#wipe fade 300
+
+Thick semen is expelled in a globular motion, pushing open the urethra.
+
+Perhaps because Tsukiyo's anus was squeezing him tightly, his ejaculation was forcefully pushed out of his testicles in small pieces.
+
+#voice tuke0161
+[Tsukiyo] "Ahh!? It's hot... Human's hot semen is coming out inside Tsukiyo... There's a lot of it... Aaaaaahhhhhh..."
+
+#voice tuke0162
+[Tsukiyo] "Ahh! I'm cumming... The pleasure of ejaculating is getting even bigger as it's released inside me. Ahh!"
+
+#voice tuke0163
+[Tsukiyo] "Aaaaaahhhhhhh I'm cumminggggg!"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』ツキヨ＆ニンゲン射精
+;EVCG EV066C3
+#cg イベント ev066c3 背景
+#wipe fade
+
+;MCK
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev066c3 背景
+#bg BG04_1
+#wipe fade 300
+
+Tsukiyo's cock twitched repeatedly as if in time with my ejaculation, intermittently spurting out milky white juice.
+
+The semen was flowing back out of Tsukiyo's tight hole with such force that it overflowed. If I hadn't been holding his waist tightly from behind, I think his shaft would have come flying out.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』ニンゲン射精
+;EVCG EV066C2
+#cg イベント ev066c2 背景
+#wipe fade
+
+"Haa... haa..."
+
+#voice tuke0164
+[Tsukiyo] "Haaah... hmm..."
+
+Using the semen that was spat out, she enjoyed the slippery feeling and gradually began to regulate her breathing.
+
+Tsukiyo's small body was so hot from her orgasm that it looked like it was about to start steaming.
+
+#voice tuke0165
+[Tsukiyo] "Ahh... it's falling out."
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+When I pulled out my cock with a sucking sound, Tsukiyo's cute anus narrowed, as if it was a lie that it had been accepting my stiff cock until then.
+
+#voice tuke0166
+[Tsukiyo] "...Ah...It slipped out."
+
+Tsukiyo muttered with a reluctant look on his face.
+
+"Did you want more?"
+
+When I asked, Tsukiyo blushed in embarrassment.
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A2
+#cg イベント ev066a2 背景
+#wipe fade
+
+#voice tuke0167
+[Tsukiyo] "...Yes. ...Haa, ahh...But my knees are shaking. It felt so good that it was painful to stand."
+
+"Well, I'll let you rest for a while. Shall we lie down in the grass over there?"
+
+;ＥＶ絵――EV066『ツキヨ立ちバック』
+;EVCG EV066A1
+#cg イベント ev066a1 背景
+#wipe fade
+
+#voice tuke0168
+[Tsukiyo] "Yes, it is. Yay!?"
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+He picked up Tsukiyo and gently laid her down in the grass.
+
+;CHR T04N C
+#cg ツキヨ tuk_1_04n 中
+#wipe fade
+#face f_tuk_0_04n 94 466
+;TKface
+
+#voice tuke0169
+[Tsukiyo] "I was surprised when he suddenly picked me up. Hehehe..."
+
+Tsukiyo smiles embarrassedly.
+
+"This way, you don't have to stand, so it's easier, right?"
+
+#voice tuke0170
+[Tsukiyo] "Huh?"
+
+When Tsukiyo was allowed to hold his own leg, he looked confused, as if he didn't understand what was going on.
+
+"Hold it tight. That way you can see what's being done to you."
+
+;CHR T06N_L C
+#cg ツキヨ tuk_1_06n_l 中
+#wipe fade
+#face f_tuk_0_06n_l 94 466
+;TKface
+
+#voice tuke0171
+[Tsukiyo] "Wow... I'm feeling horny again."
+
+Perhaps excited by being shown off, Tsukiyo's young stem twitched in response.
+
+"Does just looking at you make you feel good? Do you understand? When I feel good, my penis gets hard."
+
+;CHR T01N_L C
+#cg ツキヨ tuk_1_01n_l 中
+#wipe fade
+#face f_tuk_0_01n_l 94 466
+;TKface
+
+#voice tuke0172
+[Tsukiyo] "Yes, it is. My penis is twitching... the semen that came out earlier is overflowing like drool."
+
+Even though Tsukiyo had just ejaculated, his penis hadn't completely lost its momentum. It was expanding rapidly.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E1)
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0173
+[Tsukiyo] "Wow... Tsukiyo's penis is getting bigger. It's jiggling."
+
+"It looks like you want me to touch you."
+
+#voice tuke0174
+[Tsukiyo] "Yes. Touch it."
+
+"What does it feel like to touch me?"
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E2)
+;EVCG EV067B2
+#cg イベント ev067b2 背景
+#wipe fade
+
+#voice tuke0175
+[Tsukiyo] "Ahh!?"
+
+He lightly flicked it with his fingers and Tsukiyo let out a plaintive cry.
+
+The cock that was poked jiggled with pleasure. It tried to return to its original position like some kind of toy.
+
+#voice tuke0176
+[Tsukiyo] "Is that all?"
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E3)
+;EVCG EV067B3
+#cg イベント ev067b3 背景
+#wipe fade
+
+Tsukiyo looks up at me impatiently.
+
+"You want to feel even better, don't you?"
+
+#voice tuke0177
+[Tsukiyo] "Y-yes..."
+
+"Not only will your penis feel good, I'll make you feel good here too."
+
+I gently trace the young stem of the tsukiyo plant with my fingertips and place my fingers on the delicate narrowing at the back.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E2)
+;EVCG EV067B2
+#cg イベント ev067b2 背景
+#wipe fade
+
+#voice tuke0178
+[Tsukiyo] "Haaah..."
+
+Tsukiyo was trembling with anticipation, her eyes tearing up.
+
+"Do you like having your dick in here?"
+
+#voice tuke0179
+[Tsukiyo] "I love it. When a human puts their big dick inside me and thrusts it in and out, it feels so good I lose all sense of self."
+
+"That's why it's twitching so much."
+
+As I gently pushed my finger in, the semen I had released earlier thickly clung to my finger.
+
+Using it as a lubricant, I caress him, scraping out the semen from inside.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E1)
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0180
+[Tsukiyo] "Ahh... semen is coming out of me... it's such a waste..."
+
+"It's okay, I'll cum inside you again."
+
+#voice tuke0181
+[Tsukiyo] "Aaaahhh... Will you put your penis inside me again?"
+
+"Yeah. I'll give you lots more love."
+
+#voice tuke0182
+[Tsukiyo] "I'm happy. Please love me."
+
+"Do you understand? If I just put my finger in here, Tsukiyo, it sticks to it and won't let go."
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・主人公なし追加★(E3)
+;EVCG EV067B3
+#cg イベント ev067b3 背景
+#wipe fade
+
+#voice tuke0183
+[Tsukiyo] "I know what you mean... Her asshole is wrapped around my finger... It's naughty. It's like she's saying "I love you, I love you"..."
+
+"Yeah. Tsukiyo loves being naughty."
+
+#voice tuke0184
+[Tsukiyo] "Yes, I love you..."
+
+After hearing that reply, I pressed the tip of my penis against Tsukiyo's anus.
+
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+"Look, Tsukiyo's asshole is swallowing my dick."
+
+#voice tuke0185
+[Tsukiyo] "Wow... When I look at it like this, it's really... big... Will something like this fit in?"
+
+"You were in there just now, weren't you? Come on, come in..."
+
+Tsukiyo's place was twisting and deforming in a very tight way, but it was accepting me deep inside.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B2
+#cg イベント ev067b2 背景
+#wipe fade
+
+#voice tuke0186
+[Tsukiyo] "Haaah... Tsukiyo's asshole is expanding and swallowing the human... Ahh... It's going in..."
+
+The thin skin directly connected to Tsukiyo's mucous membrane spread tightly, swallowing my thing, which seemed almost violently large in comparison.
+
+Looking at it again, it was extremely obscene.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0187
+[Tsukiyo] "Ahh... my asshole has widened so much... the penis has gone in... my stomach is full of penis... ahhh..."
+
+"This is how you put it in and take it out."
+
+This time, he slowly pulled out, and Tsukiyo's entrance tightly wrapped around his cock, as if eager to follow.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B3
+#cg イベント ev067b3 背景
+#wipe fade
+
+#voice tuke0188
+[Tsukiyo] "Ahh... Don't pull it out... It's rubbing against the good spot inside... It's getting better and better..."
+
+"No, I want to make you feel good."
+
+#voice tuke0189
+[Tsukiyo] "Ahhh... That thick, hard cock is going in and out of my ass... My back and stomach are tingling and it feels so good..."
+
+"When Tsukiyo feels good, I feel good too."
+
+Perhaps checking what he was doing was making him more excited, because Tsukiyo's insides felt hotter than before.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0190
+[Tsukiyo] "The intense rubbing felt good, but the slow rubbing also... waaaaahhhh... ahhh... it gave me goosebumps..."
+
+"Do you prefer it slow? Or..."
+
+I thrust it deep inside her.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B2
+#cg イベント ev067b2 背景
+#wipe fade
+
+#voice tuke0191
+[Tsukiyo] "Ahh...ahhh...something hot has gone all the way in."
+
+"Which do you prefer, being loved at the entrance or being bullied deep inside?"
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B3
+#cg イベント ev067b3 背景
+#wipe fade
+
+#voice tuke0192
+[Tsukiyo] "Is it like being loved at the entrance or being bullied deep inside...?"
+
+"That's right. Like this, you get to knead the shallow spots, and then, like, you get to the depths, and then you get to the back, and ...
+
+He emphasized this by clearly dividing his movements, slowly twisting his hips and thrusting deep into her, and Tsukiyo began to squirm again.
+
+#voice tuke0193
+[Tsukiyo] "I don't know... I like both... they're both good..."
+
+"Both. Well then, I guess I'll stop moving."
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0194
+[Tsukiyo] "Ha... hawah..."
+
+It was quite difficult for me to resist the tingling sensation of my inner walls causing my hips to start moving on their own.
+
+#voice tuke0195
+[Tsukiyo] "Ugh... hmmm... mmm... yahhh..."
+
+"Hey, I'm stopped, but it's moving on its own?"
+
+#voice tuke0196
+[Tsukiyo] "Because it feels so good, my hips are moving... ha, ha..."
+
+Tsukiyo's vagina was wriggling as if it was a living thing of its own, seeking me out and inviting me deeper and deeper. Adding to that the movement of her hips created a frustrating pleasure.
+
+#voice tuke0197
+[Tsukiyo] "Hmmm... hmmm... mmm... mmm..."
+
+"Isn't that enough? You like being penetrated all the way in one go, Tsukiyo, right?"
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B3
+#cg イベント ev067b3 背景
+#wipe fade
+
+#voice tuke0198
+[Tsukiyo] "Ahh...!? Ahh....Ahhh....It's resonating all the way to my head!"
+
+When he resumed his powerful thrusts, Tsukiyo let out a shriek-like cry.
+
+"Look, just look. Tsukiyo's penis is bouncing around with delight."
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B1
+#cg イベント ev067b1 背景
+#wipe fade
+
+#voice tuke0199
+[Tsukiyo] "... Ah... It's going on and on, and my penis is trembling. My balls are also tightening... Ahh... Ahh..."
+
+As soon as I drew his attention to the spot where he was penetrating, it suddenly tightened.
+
+It seems that shame amplifies the pleasure.
+
+;ＥＶ絵――EV067『自分でよく見えるように』勃起・挿入
+;EVCG EV067B2
+#cg イベント ev067b2 背景
+#wipe fade
+
+#voice tuke0200
+[Tsukiyo] "Ahh... Ahhh... I'm going to cum... My ass is getting licked...!"
+
+"...Ugh, I'm cumming..."
+
+;ＥＶ絵――EV067『自分でよく見えるように』W射精
+;EVCG EV067C1
+
+;MCK
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev067c1 背景
+#bg BG04_1
+#wipe fade 300
+
+#voice tuke0201
+[Tsukiyo] "Aaaaahhhh... a lot of heat is flowing into me."
+
+;MCK
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev067c1 背景
+#bg BG04_1
+#wipe fade 300
+
+#voice tuke0202
+[Tsukiyo] "Ahh... haah... hmmm..."
+
+Tsukiyo and I reached the same point again.
+
+A huge amount of semen was ejaculated, which made it hard to believe it was the second time, and a lethargic weight spread from the back of his waist to his entire body.
+
+"Haa... haa..."
+
+;ＥＶ絵――EV???『自分でよく見えるように』W射精
+;EVCG EV067C2
+#cg イベント ev067c2 背景
+#wipe fade
+
+#voice tuke0203
+[Tsukiyo] "Hehe..."
+
+"What's wrong, Tsukiyo?"
+
+#voice tuke0204
+[Tsukiyo] "I think it's better to face this way, so I can see your face properly when you cum. I'm embarrassed to be looked at, but..."
+
+"I, I see..."
+
+When I hear that, I feel a bit embarrassed and ashamed.
+
+#voice tuke0205
+[Tsukiyo] "It feels good to be intense from behind, but it's a bit lonely. So I prefer it from the front."
+
+Tsukiyo said as he reached out his hand.
+
+#voice tuke0206
+[Tsukiyo] "I'd be happy if you gave me a hug."
+
+In response, I hugged Tsukiyo tightly.
+
+;MCK
+#bgm 0 stop 2000
+
+;SMODE 059 STOP
+#endscene
+
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：山小屋内（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+"...Oh, I'm almost out of bread. I guess I'll go buy some flour while I'm at it."
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0207
+[Tsukiyo] "Is there anything missing?"
+
+"Yeah. Besides, we've accumulated quite a few crafts that we made together, so let's go to the village again and sell them. Sorry, but I'll leave it to you to watch the place."
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0208
+[Tsukiyo] "......uuh"
+
+"What's the matter? Did you want something?"
+
+#voice tuke0209
+[Tsukiyo] "No, it's not that. We're apart and I feel lonely. I want to be together."
+
+Tsukiyo squirmed and wriggled his body.
+
+"What? That's cute. So, will you come with me?"
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0210
+[Tsukiyo] "Is that okay?! I'll go with you!"
+
+Even though it was just meant as a little joke, Tsukiyo jumped up and down with joy.
+
+"Eh... Ah, hey..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+If the villagers found out that Tsukiyo was an elf, there was a chance that someone might try to capture her and sell her.
+
+That's why I didn't really want Tsukiyo to get close to the village...
+
+"Okay. But make sure no one sees your ears, okay?"
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0211
+[Tsukiyo] "Yes ♪"
+
+With everyone so pleased, it was no longer possible to pretend it was just a joke, so I decided to have Tsukiyo accompany me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+"Miller's wife, you've given me quite a little something. I wish I'd come along."
+
+;CHR T01F_L C
+#cg ツキヨ tuk_1_01f_l 中
+#wipe fade
+#face f_tuk_0_01f_l 94 466
+;TKface
+
+#voice tuke0212
+[Tsukiyo] "I got some sweets. She even stroked my head. His wife is a good person."
+
+Tsukiyo is very happy after receiving the candy.
+
+"Haha, would it be good to be fed by someone...? Ah, it's a person."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0213
+[Tsukiyo] "Huh?! I have to cover my ears."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+After successfully purchasing the flour and bread, we noticed someone from the village walking towards us.
+
+Tsukiyo hastily wrapped a cloth around her head to hide.
+
+
+[Villager 3] "Hey, how is life going in the forest?"
+
+"Yeah. Well, it's alright."
+
+This guy is one of the hangers-on of the son of the general store owner who had previously been involved with Ibara.
+
+;CHR T10F4 L
+#cg ツキヨ tuk_1_10f4 左
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+#voice tuke0214
+[Tsukiyo] "Ugh..."
+
+Tsukiyo also seemed to remember who had started bothering her, and quietly hid behind me.
+
+
+[Villager 3] "Oh, that child..."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"Um, well... I'm quite shy, so I'm just living with someone else for now."
+
+
+[Villager 3] "I see... Besides, I guess it's only natural that they would avoid me."
+
+He gave me an awkward, wry smile.
+
+Individually they're not such bad guys, but when they band together like that their numbers suddenly multiply and it's impossible to control them.
+
+That being said, we had enough people at the time so we were able to drive away the monsters that appeared, but there's probably no need to be so wary of someone who can't do anything on their own.
+
+
+[Villager 3] "I'm glad you managed to escape safely after that. I was worried about you because I left you behind."
+
+Even though you ran away without even looking back, you can make up any excuse you want later.
+
+But I didn't blame her for that. That would be a lie.
+
+"Oh, it's okay. There's no need to worry. Anyone would run away if a monster appeared."
+
+
+[Villager 3] "That makes me feel better. So, is the child a relative or something? I've never heard of you having relatives in a foreign country..."
+
+"...Umm, well, it would take a long time to explain..."
+
+They drag out the conversation and think of excuses.
+
+There's no need to poke any more questions, and it's just so casual...
+
+“…He’s the son of a traveling merchant, and apparently his caravan was killed by that monster back then. After that, he was pretty scared when you surrounded him…”
+
+
+[Villager 3] "What?! That guy did something bad. I'm sorry, honey... Ah, no, we were just trying to protect the village, and we didn't mean any harm in doubting you..."
+
+;CHR T10F3 L
+#cg ツキヨ tuk_1_10f3 左
+#wipe fade
+#face f_tuk_0_10f3 94 466
+;TKface
+
+#voice tuke0215
+[Tsukiyo] "I'm, sorry...?"
+
+
+[Villager 3] "I know it's not something you can just apologize for, but I'm really sorry for blaming you without knowing the circumstances. We were scared."
+
+His conscience must have been bothering him as he bowed deeply.
+
+;CHR T10F4 L
+#cg ツキヨ tuk_1_10f4 左
+#wipe fade
+#face f_tuk_0_10f4 94 466
+;TKface
+
+#voice tuke0216
+[Tsukiyo] "It's okay."
+
+The sincere apology seemed to ease Tsukiyo's guard a little.
+
+
+[Villager 3] "I wonder if you'll forgive me."
+
+#voice tuke0217
+[Tsukiyo] "Yes."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+"He was scared of me for a while, so I don't think he'll be able to bring him back to the village."
+
+
+[Villager 3] "Well, that can't be helped, yeah. It can't be helped."
+
+"So, it would be best if you could leave this child alone for a while. I don't want to surround her with a lot of people and remind her of that time again."
+
+
+[Villager 3] "Yeah, I'll tell them too... can I just say something?"
+
+He beckons me, so I listen.
+Perhaps out of consideration to not let Tsukiyo hear, he continued speaking in a hushed voice.
+
+
+[Villager 3] "So maybe that's what saved both you and us. Maybe we were able to escape because we were full after the caravan attack."
+
+"Ah, yeah, that's right."
+
+
+[Villager 3] "So, have you heard...? It seems like something terrible is happening in the neighboring country..."
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：森（夕）
+;BG BG04_2
+#cg all clear
+#bg BG04_2
+#wipe fade
+
+
+"You don't need to cover your ears anymore."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0218
+[Tsukiyo] "Yes. What were you talking about with that human earlier?"
+
+"Ah... that's it."
+
+I ended up talking to him for a while after that.
+
+Speaking of the content...
+
+"What should I do...?"
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0219
+[Tsukiyo] "Did they say something unpleasant to you?"
+
+"That's not a good thing... but remember, an orc appeared a few days ago?"
+
+Tsukiyo suddenly seemed to remember the orc he had seen up close, and shuddered.
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0220
+[Tsukiyo] "Ah, that orc won't be coming anymore. So, it's okay..."
+
+"Yes, but it seems that Orc attacked a neighboring country after all. And now things are getting bad."
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0221
+[Tsukiyo] "Is something bad happening?"
+
+"It seems that the orcs have been causing quite a stir, and something must have broken between them and the Demon World, as there seems to be a massive monster outbreak in the neighboring countries."
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0222
+[Tsukiyo] "Fluffy fluffy fluff..."
+
+"For now, there are no problems in this country, but this forest has long been known for monsters appearing there. So, it seems there is talk of burning down this forest..."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0223
+[Tsukiyo] "Are you going to burn down the forest?"
+
+"For starters, it was a forest where monsters appeared, and it was on the border with a neighboring country, so it seemed to have a role as both a border and a natural fortress, but it seems that it was a big blow to the neighboring country."
+
+"The threat from neighboring countries has subsided for the time being, so they're planning to form a joint front, burn down the forest, and eradicate the monsters."
+
+"If we cut it open, the view from the village will be better, and we'll be able to see immediately if any monsters come... but that means it'll be easier for them to find us too."
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0224
+[Tsukiyo] "Ugh... if we burn it down, we won't be able to live in the forest anymore."
+
+"That's right. So, what should we do...wait a second? If we burn down the forest, what will happen to the elves?"
+
+Deep in the dark forest there is something called an elven barrier, and beyond that there must be an elven village or something where the elves live.
+
+But what if we burn down the forest?
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0225
+[Tsukiyo] "...I don't know."
+
+Tsukiyo shook her head anxiously.
+
+"Maybe the elves don't know about burning down the forest...?"
+
+After all, even a human like me suddenly heard this story today.
+
+I don't think that elves, who have basically no contact with humans, know about this.
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0226
+[Tsukiyo] "I don't know, but maybe."
+
+"...I guess I should let you know."
+
+#voice tuke0227
+[Tsukiyo] "I don't know..."
+
+I told them not to show themselves to us, but I already know they're in those woods.
+
+Leaving aside the older elf, Hinata, Ibara, and Konomi had spent time together.
+
+However, we cannot just leave them to die.
+
+"Let's go and let them know."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0228
+[Tsukiyo] "...! Yes!"
+
+;修正 MCS
+;CHR OFF 
+#cg all clear
+#wipe fade
+
+Driven by a sense of urgency, I ran into the forest.
+
+;dt04へ
+#next dt04

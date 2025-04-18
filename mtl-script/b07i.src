@@ -24,48 +24,48 @@
 #bg BG07b_1
 #wipe fade
 
-How long has it been since you left me alone?
+How much time had passed since I had been left alone?
 
-Due to the high fever, the time passed in a vague sense of being asleep and awake.
+Because of the high fever, the hours passed in a daze, half asleep and half awake.
 
-I felt like I was repeating the time when I was overwhelmed by the fever, exhausted and faint.
+I felt as if I was repeating cycles of being overcome by fever, losing strength and passing out.
 
-It's nice to be left alone, but I'm weak with a fever, so I miss people and I'm lonely.
+It was nice to be left alone, but perhaps because I was weak from the fever, I felt extremely lonely and craving people.
 
-For some reason, I suddenly fell asleep.
+Then, for some reason, a comfortable sleep suddenly came over me.
 
-It's as if I had a dream when I was a child with my mother and she was being taken care of after catching a cold.
+I think I also had a dream where, as a child, I had a cold and my mother was taking care of me.
 
-When I dozed off for a while, I suddenly felt a cool sensation on my forehead and opened my eyes wide.
+After dozing off for a while, I suddenly felt a clear cool sensation on my forehead and opened my eyes slightly.
 
-…… Ah, I was able to sleep so comfortably because I had my head cooled.
+...Ah, I guess it was because my head was cooled that I was able to sleep so comfortably.
 
 ……
 
-… thorns?
+...Thorns?
 
-Maybe it's the fever, but my head is dizzy, and I can't really tell if it's a dream or reality.
+Maybe it was the fever, but my head was fuzzy and I couldn't quite tell if this was a dream or reality.
 
 Was it the thorns that were cooling my head...?
 
-Ibara was looking into my face with a terribly serious face.
+Ibara looked into my face with a very serious expression.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0553
-[Ibara] "...Ningen, are you awake?"
+[Ibara] "...Human, are you awake?"
 
-"Ah..."
+"Ah, ah..."
 
 #voice ibab0554
-[Ibara] "I've been teasing you for a long time. It seems like you've been able to sleep better after a while."
+[Ibara] "He had nightmares for a long time. But after a while he seemed to be able to sleep better."
 
-"Forever? Were you always by my side?"
+"All the time? Have you always been by my side?"
 
 #voice ibab0555
-[Ibara] "I didn't feel like leaving you unwell."
+[Ibara] "I didn't want to just leave him alone when he looked sick."
 
 Ah, so Ibara was taking care of me after all.
 
@@ -74,101 +74,101 @@ Ah, so Ibara was taking care of me after all.
 #wipe fade
 
 #voice ibab0556
-[Ibara] "How are you feeling? If you think you can drink, drink water."
+[Ibara] "How are you feeling? If you can drink, drink some water."
 
-"Ahh……"
+"Ahh..."
 
-When I got up, the cloth that had been placed on my forehead fell off.
+When he stood up, the cloth that had been on his forehead fell off.
 
-"Ah"
+"Ah."
 
-After the cloth fell, I stretched out my hand slowly. My head is spinning and I'm not sure what to do next.
+I lazily reach for it as the cloth falls, my mind spinning and I'm not quite sure what to do next.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0557
-[Ibara] "Ah, I'll do it, so don't worry about it."
+[Ibara] "Oh, I'll do it, so don't worry about it."
 
-Ibara took the cloth away and gave me water.
+Ibara removed the cloth and handed me some water.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
-Moisten your lips with water as it is handed to you.
+As it was handed to me, I moistened my lips with water.
 
-Both my lips and mouth were dry, and the water soaked into my throat.
+My lips and mouth were dry, and the water soaked in, quenching my thirst.
 
-Beside him, Ibara was seriously serious about washing the cloth, squeezing it, and waiting.
+Next to him, Ibara was washing and wringing out cloths with unusual seriousness, waiting.
 
 #voice ibab0558
-[Ibara] "After drinking water, lie down."
+[Ibara] "Drink some water and then lie down."
 
-"Ah, yes. Let me do that."
+"Ah, yeah. I'll do that."
 
-When I lay down, Ibara gently placed a wet cloth on my forehead.
+When I lay down, Ibara diligently placed a wet cloth on my forehead.
 
-Somehow, I feel like a little child. But it's not a bad feeling.
+I feel like a little kid again, but that feeling is not necessarily a bad one.
 
-"What about the other children?"
+"What about the other kids?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0559
-[Ibara] "I thought he would make a fuss if he was here, so I made him promise not to come today and kicked him out."
+[Ibara] "I thought he would make a fuss if he was there, so I made him promise not to come today and sent him away."
 
-"I see……"
+"I see..."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0560
-[Ibara] "I was worried about the other guys, but if there are too many of them, they'll just get in the way."
+[Ibara] "The others were worried too, but having too many of us would just get in the way."
 
-"Did you worry about me..."
+"You were worried about me..."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0561
-[Ibara] “Bah, you idiot.
+[Ibara] "You idiot. I don't really care about humans... but the others will be worried!"
 
-Even though you took care of me seriously, you're not honest.
+Even though he was taking care of me so diligently, he's not very honest.
 
-“Haha, I see. ……Why did you do this to me?
+"Haha, I see... Why would Ibara do something like this? You really know how to take care of someone like this."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0562
-[Ibara] "Isn't this what humans do when they have a fever? I remembered when I heard Tsukiyo read a book to lower the fever a while ago."
+[Ibara] "Is this what humans do when they have a fever? I remembered when Tsukiyo read me a book earlier and he told me it helps bring down a fever."
 
-"Did you remember...?"
+"Do you remember...?"
 
 #voice ibab0563
-[Ibara] "I once heard from my brother, that you should frequently change the wet cloth on your forehead to cool your head."
+[Ibara] "I once heard from my brother that it's a good idea to place a wet cloth on your forehead and replace it frequently to help cool your head."
 
-"Brother? Did Ibara have a brother..."
+"Brother? So Ibara had a brother..."
 
-I thought it was kind of weird, but I can't get my head around it. Something resembling a wave of drowsiness is constantly approaching and receding.
+I felt something was wrong, but my mind wouldn't work properly. Waves of sleepiness kept coming and going.
 
 #voice ibab0564
-[Ibara] "Brothers are a bit different, but... well, don't force yourself to stay awake and get some sleep. Sleeping is the best thing, isn't it?"
+[Ibara] "Brothers is a bit of a stretch though... Now, don't force yourself to stay awake, get some sleep. Sleeping is the best thing to do, isn't it?"
 
-"... Ah, thank you."
+"...Ah, thank you."
 
-The world keeps shaking. It's a terrible feeling, like being in a small boat out on a stormy sea.
+The world continues to sway and shake. I feel terrible, like I'm in a small boat out on a stormy sea.
 
-Only the gentle coldness of the cloth on my forehead is comfortable.
+The only thing that feels good is the gentle coolness of the cloth resting on my forehead.
 
-As soon as I closed my eyes while lying down, drowsiness came over me.
+I lay down and closed my eyes, and sleepiness came over me immediately.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -189,33 +189,33 @@ As soon as I closed my eyes while lying down, drowsiness came over me.
 #bg BG07b_3
 #wipe fade
 
-After talking with Ibara, I was able to sleep comfortably.
+After talking with Ibara, I was able to sleep well.
 
-“…N, I’m thirsty.”
+"...Hmm, I'm thirsty."
 
-When I woke up naturally, I was able to realize that my body was feeling much better, probably because my fever had completely gone down.
+When I woke up naturally, I realized that my fever had completely subsided and my body felt much more comfortable.
 
-This cold seems to have caused a fairly high fever.
+Apparently this cold caused quite a high fever.
 
-My whole body was soaked with night sweats.
+My whole body is soaked with sweat.
 
-"... If you don't wipe off your sweat and change your clothes, you won't catch a cold again."
+"...If I don't wipe off my sweat and get changed, I'll catch a cold again."
 
-When I put my hand on my forehead, a wet cloth that had become completely lukewarm was sitting on it, half dry.
+When I put my hand to my forehead, I found a lukewarm wet cloth, half-dried, lying on top.
 
-As I was about to get up to change while removing the cloth from my forehead, I noticed a thorn lying on my stomach.
+As I tried to get up to get changed and move the cloth off my forehead, I noticed Ibara sleeping face down on my stomach.
 
 "Thorns..."
 
-I unintentionally raised my voice, but I sleep so well that I don't think I'll wake up.
+I couldn't help but cry out, but he was sleeping so soundly that it seemed unlikely he would wake up.
 
-I may have fallen asleep because I was tired from nursing.
+Maybe she was so tired from caring for him that she just fell asleep.
 
-It was a pleasant sleeping face.
+He had a nice, comfortable sleeping face.
 
-Dodge to the side so as not to wake up gently and get up.
+Gently move him to the side so as not to wake him, and get up.
 
-With the sound of my footsteps still hidden, I got up to drink water and change clothes.
+I quietly stood up to get a drink of water and get changed.
 
 ;暗転
 ;#face off
@@ -229,63 +229,63 @@ With the sound of my footsteps still hidden, I got up to drink water and change 
 #bg BG07b_3
 #wipe fade
 
-I drank water, finished my business, and came back.
+He drank some water, did his business and then came back.
 
 ;立ち絵なし
 
 #voice ibab0565
-[Ibara] "Mmmu... Munyu..."
+[Ibara] "Mmmmm... squishy..."
 
-It seems that Ibara is completely out in the dream world.
+Ibara seems to have completely entered a dream world.
 
-……You’ve been taking care of me all this time.
+…You've been taking care of me all this time.
 
-I gently hugged the thorns and laid them down on the bed.
+I gently picked up Ibara and laid him down on the bed.
 
-I knew it long ago, but it was so small and light that it was unreliable when I picked it up.
+I knew this for a long time, but when I picked it up, it was so small and light that it seemed unsteady on my hands.
 
-You took care of me with a body like this.
+She was taking care of me with a body like this.
 
 ;立ち絵なし
 
 #voice ibab0566
-[Ibara] "Hmmm...mmm...my fever won't go down...much..."
+[Ibara] "Hmm... mmm... the fever won't go down... muffled..."
 
-Even in my dreams, she continues to nurse me.
+It seems she continues to take care of me even in my dreams.
 
-I'm sorry I made you worry so much.
+I'm sorry for causing you all so much worry.
 
-"I'm sorry for worrying you, Ibarra. Thank you for taking care of me."
+"I'm sorry for worrying you, Ibara. Thank you for taking care of me."
 
-When I thanked him in a small voice, Ibara opened his eyes thinly.
+Ibara thanked him in a small voice and opened his eyes slightly.
 
-But I can't help but sleep, and it closes soon. It looks like he's completely half asleep.
+However, he was so sleepy that he closed it immediately. He seemed to be completely half asleep.
 
 ;立ち絵なし
 
 #voice ibab0567
-[Ibara] "Unyu... thank you... I don't need it... Hurry up... get well..."
+[Ibara] "Unyu... I don't need any thanks... Get well soon..."
 
-"Ah, it's okay now"
+"Ah, it's okay now."
 
 ;立ち絵なし
 
 #voice ibab0568
-[Ibara] "That's right... I'm glad... Suu... Kuu..."
+[Ibara] "I see... I'm glad... in... out..."
 
-When Ibara smiled, she put her head down on the floor and left for the world of dreams again.
+Ibara smiled, then dropped his head to the floor and traveled back into the world of dreams.
 
-I didn't mean to wake you up, but I did something bad by waking you up.
+I didn't mean to wake you up, but I did and I feel bad for doing so.
 
-When I wake up tomorrow, I have to say thank you properly.
+I'll have to thank him properly when I wake up tomorrow.
 
-"Well then, I'm going to sleep one more time."
+"Well then, I guess I'll take another nap."
 
-Ibara took care of me.
+Ibara took good care of me.
 
-I'm sorry for not sleeping well and healing properly.
+I feel bad if I don't get enough sleep and get better properly.
 
-In order to sleep again, I lay down and closed my eyes.
+I lay down and closed my eyes to go back to sleep.
 
 ;イバラ好感度+1
 #set f2 f2+1

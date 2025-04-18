@@ -28,9 +28,9 @@
 #wipe fade
 
 #voice hinb0425
-[Hinata] "Thank you!"
+[Hinata] "We arrived!"
 
-"I'm glad I managed to stay out of the rain."
+"Thank goodness, we managed to avoid getting rained on."
 
 ;CHR OFF
 #cg all clear
@@ -45,11 +45,11 @@
 #voice tikb0479
 [Tsukiyo] "I made it in time."
 
-It was fine to go to the spring to play, but the weather suddenly became suspicious and I had to return home in a hurry.
+We went to play at the springs, but the weather suddenly turned bad so we had to hurry home.
 
-Even the fish that had gone to great lengths to dry would be ruined if it hit the rain, so I hurriedly withdrew it from the spring.
+They had hurriedly removed the fish they had taken the time to dry from the spring because it would be ruined if it got wet in the rain.
 
-As I was unloading my belongings after entering the hut, I started to hear the sound of rain.
+Perhaps my prayers that our luggage would last until we got back to the hut worked, because as I entered the hut and put my bags down, I began to hear the sound of rain.
 
 ;CHR OFF
 #cg all clear
@@ -62,12 +62,12 @@ As I was unloading my belongings after entering the hut, I started to hear the s
 #wipe fade
 
 #voice konb0454
-[Konomi] "It's raining a lot outside."
+[Konomi] "It's starting to rain really hard outside."
 
 #voice hinb0426
-[Hinata] "I'm glad you came back so quickly!?"
+[Hinata] "I'm so glad you came back so quickly!"
 
-"Ah, that's right... Buffett!"
+"Oh, yeah... BUFFCKSH!"
 
 ;CHR OFF
 #cg all clear
@@ -78,43 +78,43 @@ As I was unloading my belongings after entering the hut, I started to hear the s
 #wipe fade
 
 #voice ibab0535
-[Ibara] "Wow! How dirty!?"
+[Ibara] "Wha?! It's dirty?!"
 
 ;CHR H08F1_A L
 #cg ヒナタ hin_1_08f1_a 左
 #wipe fade
 
 #voice hinb0427
-[Hinata] "Ahahahahaha, Ningen is interesting now!"
+[Hinata] "Ahahahaha, that human just had a funny face!"
 
-"Ah, I'm sorry... again... hehehehehehe!"
+"Ah, sorry... again... ahhh ahh ahh ahh!"
 
-……I had a runny nose.
+...My nose is running.
 
 ;FACE K04F
 #face f_kon_0_04f 94 466
 
 #voice konb0455
-[Konomi] "Ahaha‾ Something's planting from your nose‾"
+[Konomi] "Hahaha, something is coming out of your nose."
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0536
-[Ibara] "The already ugly face has become ugly."
+[Ibara] "Your already ugly face has become even more ugly now."
 
-"Ruse"
+"Shut up."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-sip runny nose
+Sniffing his runny nose.
 
-"I feel a little chilly. Did you catch a cold?"
+"I feel a bit cold. I wonder if I've caught a cold."
 
-After getting soaking wet in the spring, it was just like that.
+After I went into the spring and got soaked, I just stayed there.
 
 ;CHR H06F2_A L
 #cg ヒナタ hin_1_06f2_a 左
@@ -125,14 +125,14 @@ After getting soaking wet in the spring, it was just like that.
 ;TKface
 
 #voice hinb0428
-[Hinata] "Is it windy?"
+[Hinata] "Are you sick from a cold?"
 
 #voice tikb0480
 [Tsukiyo] "Are you okay?"
 
-"Ah, it's okay. For today, I'll drink something warm and go to bed early."
+"Ah, it's okay, it's okay. I'll drink something warm and go to bed early for today."
 
-After all, it was about to rain, and I couldn't indulge my body properly, so it was bad that my body got cold.
+In the end, it looked like it was about to rain and other things happened so I didn't get to dry myself properly, and I guess that was a bad thing because I ended up getting really cold.
 
 ;CHR OFF
 #cg all clear
@@ -143,7 +143,7 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #wipe fade
 
 #voice ibab0537
-[Ibara] "If you make tea, you'll have to drink it!"
+[Ibara] "If you make some tea, I'll drink it!"
 
 ;CHR OFF
 #cg all clear
@@ -154,14 +154,14 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #wipe fade
 
 #voice konb0456
-[Konomi] "Ah, I want one too"
+[Konomi] "Ah, I want one too."
 
 ;CHR H01F2_A L
 #cg ヒナタ hin_1_01f2_a 左
 #wipe fade
 
 #voice hinb0429
-[Hinata] "Hinata doesn't like it anymore."
+[Hinata] "Hinata isn't bitter either."
 
 ;CHR OFF
 #cg all clear
@@ -174,9 +174,9 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 ;TKface
 
 #voice tikb0481
-[Tsukiyo] "Hm, hm..."
+[Tsukiyo] "Mmmm, mmmm..."
 
-"Well, everyone is getting cold together. Let's take a break with tea first."
+"Yeah, we're all cold. Let's have a cup of tea first."
 
 ;CHR OFF
 #cg all clear
@@ -213,9 +213,9 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #wipe fade
 
 #voice hinb0430
-[Hinata] "Mr. Niengane, Mr. Bedbug‾?"
+[Hinata] "Ningen-san, are you a sleepyhead?"
 
-"Is it already morning?"
+"Is it morning already?"
 
 ;CHR OFF
 #cg all clear
@@ -226,7 +226,7 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #wipe fade
 
 #voice ibab0538
-[Ibara] "The sun is already up, why are you sleeping?"
+[Ibara] "The sun is already up, why are you still sleeping?"
 
 ;CHR OFF
 #cg all clear
@@ -237,7 +237,7 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #wipe fade
 
 #voice konb0457
-[Konomi] "What are we going to do today?"
+[Konomi] "What shall we play today?"
 
 ;CHR OFF
 #cg all clear
@@ -254,26 +254,26 @@ After all, it was about to rain, and I couldn't indulge my body properly, so it 
 #voice tikb0482
 [Tsukiyo] "It's sunny."
 
-"Hmm... Huh?"
+"Hmm...huh?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-The ceiling... is it spinning?
+The ceiling is... rotating?
 
-I blinked my eyes and tried to get my body up... but I couldn't find the strength to do so.
+I blinked and tried to sit up, but...I couldn't muster any strength.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0539
-[Ibara] "What happened!? I came all the way to wake you up, why didn't you wake up!?"
+[Ibara] "What's wrong?! I came all the way here to wake you up, so why won't you wake up?!"
 
-"I'm sorry, I can't seem to wake up."
+"Sorry, I can't seem to wake up."
 
-……Did you really catch a cold? I'm sorry. Far from being cold, the joints of my body ached.
+…I've really caught a cold. This is bad. Not only am I cold, but my joints are hurting.
 
 ;CHR OFF
 #cg all clear
@@ -286,65 +286,65 @@ I blinked my eyes and tried to get my body up... but I couldn't find the strengt
 ;TKface
 
 #voice tikb0483
-[Tsukiyo] "It hurts!? It hurts!?"
+[Tsukiyo] "Does it hurt?! Does it hurt?"
 
-"Ah, okay, okay"
+"Ah, it's okay, it's okay."
 
-Suppressing his tiredness, I stroked Tsukiyo's hair, who worried about me with a crying face.
+Trying to endure the fatigue, I stroked Tsukiyo's hair as she looked worried and about to cry.
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 #voice hinb0431
-[Hinata] "That's right! If you can't wake up, wake me up!"
+[Hinata] "That's right! If he can't wake up, then just wake him up!"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 #voice konb0458
-[Konomi] "Soka‾"
+[Konomi] "I see."
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0540
-[Ibara] "It takes a lot of work"
+[Ibara] "That's a lot of work."
 
-"What……?"
+"fart……?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-It seems that I have a considerable fever, and Ibara, Hinata, and Konomi surround me while I'm faint.
-Hinata is holding her right hand, and Ibara is holding her left hand.
+Apparently I had quite a fever, as I was in a daze and Ibara, Hinata, and Konomi surrounded me.
+Hinata was holding his right hand and Ibara was holding his left hand.
 
 ;FACE I01F
 #face f_iba_0_01f 94 466
 
 #voice ibab0541
-[Ibara] "Hmm? It's really hot."
+[Ibara] "Hmm? It's pretty hot."
 
 ;FACE H01F2_A
 #face f_hin_0_01f2_a 94 466
 
 #voice hinb0432
-Hinata
+[Hinata] "I'll pull you, ready, go!"
 
-Ibara grabbed my hand and let it go immediately, but Hinata thought she couldn't get up, and tried to pull me up.
+Ibara grabbed my hand but quickly let go, but Hinata, perhaps understanding that he simply couldn't get up, tried to pull me up.
 
-If he was fine, I could have woken him up, but honestly, it's painful when my body doesn't have the strength.
+If he was feeling fine, I would have woken him up, but to be honest it was difficult when he was so weak.
 
-"Hold on, stop, Hinata. Please."
+"Ouch, ouch, stop, Hinata. Please."
 
 ;CHR H02F1_A L
 #cg ヒナタ hin_1_02f1_a 左
 #wipe fade
 
 #voice hinb0433
-[Hinata] “Yeah!
+[Hinata] "Seriously?! If humans don't try harder to wake up, it'll be too heavy to pull!"
 
-"That's why you can't get up no matter how hard you try."
+"So even if you try, you can't wake up."
 
 ;CHR T02F R
 #cg ツキヨ tuk_1_02f 右
@@ -353,16 +353,16 @@ If he was fine, I could have woken him up, but honestly, it's painful when my bo
 ;TKface
 
 #voice tikb0484
-[Tsukiyo] "N-Ningen-san... I'm not feeling well."
+[Tsukiyo] "N-human... I'm not feeling well."
 
-Tsukiyo timidly cut in.
+Tsukiyo timidly stepped in.
 
 #voice tikb0485
-[Tsukiyo] "I'm sick. I caught the cold you were talking about yesterday. When I have a cold, I have a fever, my head is pounding, and my stomach hurts."
+[Tsukiyo] "I'm sick. I've caught that cold I was talking about yesterday. When you have a cold, you get a fever, your head throbs, and your stomach hurts."
 
-……Come to think of it, I read a book about medicinal herbs to her a little while ago.
+...Come to think of it, I read a book about medicinal herbs like that to you a while ago.
 
-Tsukiyo seemed desperately trying to protect me.
+Tsukiyo seemed to be desperately trying to protect me.
 
 ;CHR OFF
 #cg all clear
@@ -373,7 +373,7 @@ Tsukiyo seemed desperately trying to protect me.
 #wipe fade
 
 #voice ibab0542
-[Ibara] "What is this disease? Humans are weak."
+[Ibara] "Oh, so you're sick? Humans are really weak."
 
 ;CHR OFF
 #cg all clear
@@ -384,7 +384,7 @@ Tsukiyo seemed desperately trying to protect me.
 #wipe fade
 
 #voice konb0459
-[Konomi] "Is it sick?"
+[Konomi] "Are you sick? I'm sorry."
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
@@ -393,11 +393,11 @@ Tsukiyo seemed desperately trying to protect me.
 ;TKface
 
 #voice tikb0486
-[Tsukiyo] "Like the other animals, it won't heal unless you stay quiet for a while. Sleeping is good."
+[Tsukiyo] "Just like other animals, they won't get better unless they stay quiet for a while. It's best for them to sleep."
 
-Tsukiyo tries his best to spin words and talk to other elves. Such a rare occurrence must have required a considerable amount of courage for Tsukiyo.
+Tsukiyo struggles to find the words to speak to the other elves. This is something that rarely happens, and it must take a lot of courage for Tsukiyo.
 
-The reason Tsukiyo seems to be shivering isn't just because I have a fever.
+It's probably not just because I have a fever that Tsukiyo looks like she's shivering.
 
 ;CHR OFF
 #cg all clear
@@ -408,23 +408,23 @@ The reason Tsukiyo seems to be shivering isn't just because I have a fever.
 #wipe fade
 
 #voice konb0460
-[Konomi] "Hmmm, can't you cure your illness?"
+[Konomi] "Hmm, I wonder if there's any way to cure your illness?"
 
 ;CHR I02F R
 #cg イバラ iba_1_02f 右
 #wipe fade
 
 #voice ibab0543
-[Ibara] "Oh, that's right! Hey, human. I'll treat you personally, so be grateful!"
+[Ibara] "Oh, that's right! Hey, human. You should be grateful that I'll personally heal someone like you!"
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0461
-[Konomi] "Ah‾, I'll help you too‾"
+[Konomi] "Yeah, I'll help too."
 
-Konomi and Ibara all put their hands on me.
+Konomi and Ibara both hold their hands out to me.
 
 ;フラッシュ
 #cg all clear
@@ -441,55 +441,55 @@ Konomi and Ibara all put their hands on me.
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
-When their hands shone, I felt a warm, cool breeze blowing through my body.
+As their hands glowed, I felt a pleasant breeze, both warm and cool, blow through my body.
 
-And the faint headache that I had along with my dizziness subsided, and I felt much better.
+The slight headache I had along with the dizziness subsided, and I felt much better.
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibab0544
-[Ibara] "...How's it going?"
+[Ibara] "...How is it?"
 
-“Thank you, it felt good.
+"Thank you, that felt good. My headache has subsided though..."
 
 ;CHR K02F1 L
 #cg コノミ kon_1_02f1 左
 #wipe fade
 
 #voice konb0462
-[Konomi] "However‾?"
+[Konomi] "But...?"
 
-"As expected, it seems that the condition itself is not getting better."
+"After all, it seems like your condition hasn't improved."
 
-Hmm, I had high hopes for it too, but after all, it's not possible to cure illnesses so conveniently.
+Hmm, I was hoping for it too, but I guess it's not that convenient to cure illnesses as well.
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0545
-[Ibara] "What!?"
+[Ibara] "What?!"
 
 ;CHR K06F L
 #cg コノミ kon_1_06f 左
 #wipe fade
 
 #voice konb0463
-[Konomi] "Ah‾, I see‾. After all‾"
+[Konomi] "Ah, I see. I thought so."
 
-Ibara was surprised, but Konomi nodded in agreement.
+Ibara was surprised, but Konomi nodded in understanding.
 
 #voice ibab0546
-[Ibara] "Why!? Why!?"
+[Ibara] "Why?! Why?!"
 
 ;CHR K02F2 L
 #cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0464
-[Konomi] "Hey, if you're eaten by pikas or orcs, you can't heal them, right?"
+[Konomi] "You see, if they've been eaten by pikas or orcs, there's no way we can heal them no matter what, right?"
 
 ;CHR I09F R
 #cg イバラ iba_1_09f 右
@@ -509,10 +509,10 @@ Ibara was surprised, but Konomi nodded in agreement.
 #wipe fade
 
 #voice konb0465
-[Konomi] "It's not like you're going to die, but when you get hurt, you have to remove the reason why you got hurt, and then you can't heal, right?"
+[Konomi] "It's not like you'll die, but when you get injured, you have to remove the cause of the injury before the injury can heal, right?"
 
 #voice konb0466
-[Konomi] "Also, when you're bleeding a lot and you're feeling unwell, you have to rest to get better."
+[Konomi] "Also, when I'm bleeding a lot and feeling unwell, I need to rest or I won't get better."
 
 ;CHR OFF
 #cg all clear
@@ -525,14 +525,14 @@ Ibara was surprised, but Konomi nodded in agreement.
 ;TKface
 
 #voice tikb0487
-[Tsukiyo] "...Maybe there's a reason why you're feeling sick inside your body.
+[Tsukiyo] "...There's probably something going on inside your body that's making you feel unwell. If that thing doesn't calm down, your illness won't get better."
 
 ;CHR K02F2 L
 #cg コノミ kon_1_02f2 左
 #wipe fade
 
 #voice konb0467
-[Konomi] "Yeah, that's right. So, I think it's up to Ningen-kun to find a solution to that problem."
+[Konomi] "That's right, that's it. And I think it's up to humans to figure out the reason for it."
 
 ;CHR OFF
 #cg all clear
@@ -543,23 +543,23 @@ Ibara was surprised, but Konomi nodded in agreement.
 #wipe fade
 
 #voice ibab0548
-[Ibara] "Are you sure you're going to die after all!?"
+[Ibara] "Oh my, so he's really going to die?!"
 
 ;CHR H02F1_A L
 #cg ヒナタ hin_1_02f1_a 左
 #wipe fade
 
 #voice hinb0435
-[Hinata] "Pigyah!?
+[Hinata] "Pigyaaahh?! Are humans going to die?!"
 
-"... You probably won't die from a cold, so don't worry."
+"...Don't worry, you probably won't die from a cold."
 
 ;CHR I04F R
 #cg イバラ iba_1_04f 右
 #wipe fade
 
 #voice ibab0549
-[Ibara] "Oh, hey! Humans are saying things like that, but what do you think? Konomi, Tsukiyo!"
+[Ibara] "Hey, hey! Humans are saying stuff like that, but what do you think?! Konomi, Tsukiyo!"
 
 ;CHR OFF
 #cg all clear
@@ -570,7 +570,7 @@ Ibara was surprised, but Konomi nodded in agreement.
 #wipe fade
 
 #voice konb0468
-[Konomi] "If Ningen-kun says it's okay, isn't it okay?"
+[Konomi] "If human says it's okay, then it's okay, right?"
 
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
@@ -579,7 +579,7 @@ Ibara was surprised, but Konomi nodded in agreement.
 ;TKface
 
 #voice tikb0488
-[Tsukiyo] "I think there's a book about colds, so I'll read it."
+[Tsukiyo] "I think there's a book that talks about colds, so I'll read it."
 
 ;CHR OFF
 #cg all clear
@@ -590,7 +590,7 @@ Ibara was surprised, but Konomi nodded in agreement.
 #wipe fade
 
 #voice ibab0550
-[Ibara] "Is there a way to cure it!?"
+[Ibara] "And it even says how to cure it?!"
 
 ;CHR T06F_L R
 #cg ツキヨ tuk_1_06f_l 右
@@ -598,13 +598,13 @@ Ibara was surprised, but Konomi nodded in agreement.
 #face f_tuk_0_06f_l 94 466
 ;TKface
 #voice tikb0489
-[Tsukiyo] "I think it was written."
+[Tsukiyo] "I think it was written there."
 
 #voice ibab0551
 [Ibara] "Okay! Then read it quickly, read it quickly!"
 
 #voice tikb0490
-[Tsukiyo] "Yes."
+[Tsukiyo] "Yes, it is."
 
 ;CHR OFF
 #cg all clear
@@ -615,26 +615,26 @@ Ibara was surprised, but Konomi nodded in agreement.
 #wipe fade
 
 #voice hinb0436
-[Hinata] "Oh, Tsukiyo is cool!"
+[Hinata] "Wow, Tsukiyo is so cool!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-I know everyone is worried about me.
+I know that everyone is worried about me.
 
-But noisy.
+But it's noisy.
 
-"I-I'm sorry... can you be quiet?"
+"S-sorry... Could you please be quiet?"
 
 ;CHR K01F1A L
 #cg コノミ kon_1_01f1a 左
 #wipe fade
 
 #voice konb0469
-[Konomi] "Huh? What's wrong, Ningen-kun?"
+[Konomi] "Hmm? What's wrong, human?"
 
-“I think it will heal if I sleep this much, so if possible, I want you to play outside and let me sleep.
+"I think I'll get better if I sleep this much, so if possible, I'd like you to let me play outside and then go to sleep. You can bring your book with you..."
 
 ;CHR T01F_L R
 #cg ツキヨ tuk_1_01f_l 右
@@ -643,9 +643,9 @@ But noisy.
 ;TKface
 
 #voice tikb0491
-[Tsukiyo] "Yes"
+[Tsukiyo] "Yes."
 
-When Tsukiyo was the first to give an honest reply, the other members also seemed convinced and put their spears to rest.
+Tsukiyo was the first to reply honestly, and the others seemed to understand and put down their spears.
 
 ;CHR OFF
 #cg all clear
@@ -656,14 +656,14 @@ When Tsukiyo was the first to give an honest reply, the other members also seeme
 #wipe fade
 
 #voice ibab0552
-[Ibara] "It can't be helped"
+[Ibara] "It can't be helped."
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
 #wipe fade
 
 #voice konb0470
-[Konomi] "Good night!"
+[Konomi] "Good night‾"
 
 ;CHR OFF
 #cg all clear
@@ -674,20 +674,20 @@ When Tsukiyo was the first to give an honest reply, the other members also seeme
 #wipe fade
 
 #voice hinb0437
-[Hinata] "When I become Genki again, let's play!"
+[Hinata] "When you're feeling better, let's play again!"
 
-"Thank you"
+"thank you"
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 #voice tikb0492
-[Tsukiyo] "Shhhh."
+[Tsukiyo] "Shhh."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Unusually, Tsukiyo led the elves out of the hut quietly.
+With Tsukiyo leading the way, the elves quietly exited the hut, unusually quiet.
 
 ;BGMch2 amb003 停止
 #bgvoice stop
@@ -710,15 +710,15 @@ Unusually, Tsukiyo led the elves out of the hut quietly.
 #bg BG07b_1
 #wipe fade
 
-"What is it, a dream?"
+"What, a dream?"
 
-How drowsy were you?
+I wonder how long I was dozing off.
 
-The inside of the hut looked more distorted than it did this morning, perhaps because the heat had risen even more since a while ago.
+The inside of the hut seemed even more distorted than it had been this morning, as if the temperature had risen further since then.
 
-I dreamed of an elf in a quiet hut with no one around. Even so, I don't remember much about the content because I was in a fever...
+In the quiet, empty hut, I was dreaming about elves. Although, I don't remember much of what I was dreaming about because I was in a fever.
 
-What came out in my dream was...
+What appeared in my dream was...
 
 ;・選択肢発生
 #select a b c d

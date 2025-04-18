@@ -43,9 +43,9 @@
 
 It came suddenly.
 
-"...I'm tired"
+"...I'm bored."
 
-Since he could not sustain himself on vegetables and grains alone, he basically relied on small animals caught nearby or dried meat for protein, but...
+Because vegetables and grains alone were not enough to sustain them, they basically relied on small animals caught nearby or dried meat for protein...
 
 I suddenly got bored.
 
@@ -53,9 +53,9 @@ I suddenly got bored.
 
 Small fish can be caught in the nearby stream, but they are too small to eat.
 
-In that case, I have no choice but to go to the spring and catch fish, or go to the village and buy dried fish or pickled in oil.
+So the only thing you can do is go to the spring and fish, or go to the village and buy dried fish or fish in oil.
 
-“Fishing huh… it’s been a while.”
+"Fishing... It's been a while."
 
 ;暗転
 ;#face off
@@ -76,14 +76,14 @@ In that case, I have no choice but to go to the spring and catch fish, or go to 
 
 #face on
 
-Elves came when I was preparing for fishing.
+As I was getting ready to go fishing, the elves arrived.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0389
-[Hinata] “Ah!
+[Hinata] "Ah! What's that long house?! Are you going to play with it bouncing around?!"
 
 ;CHR H01F1_A L
 #cg ヒナタ hin_1_01f1_a 左
@@ -92,7 +92,7 @@ Elves came when I was preparing for fishing.
 #wipe fade
 
 #voice ibab0448
-[Ibara] "Hinata is an idiot, that's a fishing rod."
+[Ibara] "Hinata, you're stupid, that's a fishing rod."
 
 #cg all clear
 
@@ -103,9 +103,9 @@ Elves came when I was preparing for fishing.
 #wipe fade
 
 #voice konb0424
-[Konomi] "Ningen-kun, are you going fishing?"
+[Konomi] "Human, are you going fishing?"
 
-"Yes. I want to eat fresh fish."
+"Yeah. I wanted to eat fresh fish."
 
 #cg コノミ clear
 
@@ -116,10 +116,10 @@ Elves came when I was preparing for fishing.
 ;TKface
 
 #voice tikb0433
-[Tsukiyo] "Fish, food, it smells..."
+[Tsukiyo] "The fish and food stink..."
 
 #voice ibab0449
-[Ibara] "Even though it smells bad, you can't put that kind of thing in your mouth."
+[Ibara] "It has a nasty, fishy smell, but I can't believe you can put something like that in your mouth."
 
 "Fresh fish doesn't smell fishy."
 
@@ -131,12 +131,12 @@ Elves came when I was preparing for fishing.
 #wipe fade
 
 #voice konb0425
-[Konomi] "Hmm, that may be true for Ningen-kun, but we're a little curious, aren't we?"
+[Konomi] "Hmm, maybe that's true for humans, but it bothers us a bit."
 
-"Even though it's delicious to eat"
+"It would be delicious if you ate it."
 
 #voice ibab0450
-[Ibara] "Yeah"
+[Ibara] "Ugh."
 
 ;CHR ON
 ;#cg on
@@ -146,30 +146,30 @@ Elves came when I was preparing for fishing.
 
 
 #voice tikb0434
-[Tsukiyo] "Hawa, Hawawa"
+[Tsukiyo] "Yow, yow!"
 
 #voice konb0426
-[Konomi] "I wonder if I'm a little unreasonable‾"
+[Konomi] "I don't think I can do it."
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0390
-[Hinata] "I can't even eat Hinata!"
+[Hinata] "You can't eat Hinata either!"
 
-The elves cover their mouths at will, frown, and express in extremes that they cannot eat fish.
+The elves go to extremes, covering their mouths or grimacing to express that they cannot eat fish.
 
-I wish I didn't have to make such a disgusting face...
+There's no need to look so displeased...
 
-"I'm not telling you to force yourself to eat. Well then, I'm going fishing today, but won't everyone come with me? To be honest, if I make a noise, the fish will run away, so it's better."
+"I'm not forcing you to eat it or anything. Anyway, I'm going to go fishing today. Won't you all come with me? To be honest, if we make too much noise the fish will run away, so it would be better if you did that."
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0451
-[Ibara] "Noisy!? I'm always quiet!"
+[Ibara] "Shut up! I'm always quiet!"
 
 ;CHR ON
 ;#cg on
@@ -189,20 +189,20 @@ I wish I didn't have to make such a disgusting face...
 [Tsukiyo] "Yes..."
 
 #voice konb0427
-[Konomi] "Ningen-kun should be on a different schedule‾?"
+[Konomi] "Doesn't Human-kun have different plans?"
 
-"Even if you say that, humans will die if they don't eat, so I'm going fishing as planned. I also want to bathe."
+"Even if you say that, humans will die if they don't eat, so I'm going to go fishing as planned. I'd like to take a bath while I'm at it."
 
-There's a stream nearby, so I don't think it's dirty, but even so, it's a rare opportunity to bathe my whole body.
+There's a stream nearby so I don't think I'm getting dirty, but it's still a rare opportunity to get my whole body wet.
 
-Even though I thought about it, there was no way I could miss it.
+I had come up with the idea, so I couldn't let it slip away.
 
 ;CHR I09F L
 #cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0452
-[Ibara] "Bathing!?"
+[Ibara] "Bathing?!"
 
 ;CHR ON
 ;#cg on
@@ -212,14 +212,14 @@ Even though I thought about it, there was no way I could miss it.
 
 
 #voice hinb0392
-[Hinata] "Wow, I love water play!"
+[Hinata] "Wow, I love playing in the water!"
 
 ;CHR K01F2B R
 #cg コノミ kon_1_01f2b 右
 #wipe fade
 
 #voice konb0428
-[Konomi] "That's good‾"
+[Konomi] "That's nice."
 
 ;CHR ON
 ;#cg on
@@ -229,11 +229,11 @@ Even though I thought about it, there was no way I could miss it.
 
 
 #voice tikb0436
-[Tsukiyo] "Looks like it's going to be fun."
+[Tsukiyo] "It looks fun."
 
-……Oops. I ignited the spirit that followed me.
+... Damn. I've ignited the flames of my desire to follow.
 
-Moreover, if you get smashed nearby, you won't be able to fish.
+Besides, if there's splashing around nearby, it's no good fishing.
 
 ;CHR OFF
 #cg all clear
@@ -243,9 +243,9 @@ Moreover, if you get smashed nearby, you won't be able to fish.
 #wipe fade
 
 #voice hinb0393
-[Hinata] "Mr. Waningen, hurry up!"
+[Hinata] "Waah, human, hurry up!"
 
-That's why, as usual, I decided to bring the elves with me. and cheeks.
+So, as always, I decided to take the elves with me.
 
 ;CHR OFF
 #cg all clear
@@ -268,7 +268,7 @@ That's why, as usual, I decided to bring the elves with me. and cheeks.
 
 
 #voice hinb0394
-[Hinata] "Hey!"
+[Hinata] "I got it!"
 
 ;BGMch1 bgm008 楽しい 再生 -> 15へ変更
 #bgm 0 15
@@ -287,26 +287,26 @@ That's why, as usual, I decided to bring the elves with me. and cheeks.
 
 
 #voice ibab0453
-[Ibara] "Is that so? But I've never seen a human around here."
+[Ibara] "Is that so? But I've never seen any humans around here."
 
 ;FACE OFF
 ;#face off
 
-“Huh?
+"Eh? It would be bad if we were seen on the other side of the river."
 
-After all, it's not that big of a spring.
+It's not a very big spring after all.
 
-If you're a little sharp-eyed, even if it's from the opposite bank, these kids aren't human...
+Anyone with good eyesight could tell from the other side that these kids aren't human...
 
-"Ah, is that so?"
+"Oh, I see."
 
-The location on the opposite bank is deep in the forest.
+The opposite bank is located deep in a deep forest.
 
-At the border between the village and this side, there is a land like Dejima that you can't step on due to fallen trees, etc., so it's just a blindfold.
+On the border between the village and our side, there is a patch of land that cannot be stepped on due to fallen trees, similar to Dejima, so it acts as a screen.
 
-Basically, the villagers don't come here, so there's a high probability that they won't be found if they don't swim very close to the opposite shore.
+Generally, the villagers don't come this way, so judging from the angle, there's probably no need to worry about being found unless you swim very close to the opposite shore.
 
-With this, you can play with peace of mind.
+This way you can let your child play without worry.
 
 ;SMODE 020 PLAY
 #label replay020
@@ -325,37 +325,37 @@ With this, you can play with peace of mind.
 
 
 #voice hinb0395
-[Hinata] "Kyaha!"
+[Hinata] "Kyahaha!"
 
 ;SE se027 水しぶき１ 再生
 #se 1 se027
 
-"Wow! Idiot!"
+"Wha-! Idiot!"
 
 ;FACE I07F
 #face f_iba_0_07f 94 466
 
 
 #voice ibab0454
-[Ibara] "Oh, this spring is clear and feels good."
+[Ibara] "Oh, this spring is so clear and refreshing."
 
 ;FACE K01F1A
 #face f_kon_0_01f1a 94 466
 
 
 #voice konb0429
-[Konomi] "Ningen-kun, don't you play too? It feels good."
+[Konomi] "Do you want to play too, Human? It feels good."
 
-"So did I tell you? I'm a fisherman."
+"So, I told you, I'm a fisherman."
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0438
-[Tsukiyo] "Wow, it feels good..."
+[Tsukiyo] "Ahh, that feels good..."
 
-"Hey, this one is deeper, so play only in the shallower area over there, okay?"
+"Hey, it's deeper over here, so just play in the shallow part over there, okay?"
 
 ;EVCG EV023A2
 #cg イベント ev023a2 背景
@@ -366,34 +366,34 @@ With this, you can play with peace of mind.
 
 
 #voice hinb0396
-[Hinata] "Kyahahahaha, I found a fish!"
+[Hinata] "Hahahaha, I found a fish!"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0455
-[Ibara] "Oh, hey! Don't let me come over here, it's disgusting!"
+[Ibara] "Ah, hey! Don't make him come over here, it's disgusting!"
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0430
-[Konomi] "Fufufu‾ Look, there's a stone turtle‾"
+[Konomi] "Hehehe. Look, there's a box turtle too."
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 
 #voice tikb0439
-[Tsukiyo] "Huh... Turtles are cool, too."
+[Tsukiyo] "Ahh... turtles are cool too."
 
-"I haven't heard about this at all."
+"I didn't hear anything about this at all."
 
-Well, okay If you're this close, you'll be able to go help immediately.
+Well, it's alright. If I'm this close, I can go and help right away.
 
-More than that, I wonder if I can catch a fish with this much noise...
+More importantly, I wonder if we'll be able to catch any fish with all this noise...
 
 ;暗転
 ;#face off
@@ -424,21 +424,21 @@ More than that, I wonder if I can catch a fish with this much noise...
 
 ;MC
 
-"I can catch fish unexpectedly..."
+"I was surprised at how many fish we could catch..."
 
-Perhaps the elves making a fuss had the effect of the drive-in fishing, and the big catch was also good.
+Perhaps the noise made by the elves had an effect on the drive fishing, as there was a bumper catch.
 
-It's a catch that I'm in trouble if I don't round it up at an appropriate point.
+The catch was so good that it would be a shame if we didn't stop at a reasonable point.
 
-"... but what should I do even if it's like this?"
+"...But what should I do with all this?"
 
 ;EVCG EV023A1
 #cg イベント ev023a1 背景
 #wipe fade
 
-When I suddenly looked at the elves, they didn't look tired from playing.
+I glanced over at the elves and they still didn't seem to be getting tired of playing.
 
-It's okay to leave it alone for a while.
+It'll probably be okay to leave it alone for a while.
 
 ;SMODE 020 STOP
 #endscene
@@ -449,11 +449,11 @@ It's okay to leave it alone for a while.
 #bg bg03_1
 #wipe fade
 
-It's heavy to bring back raw fish, so for the time being, I'll grill what I'll eat, cut up the rest, remove the guts, smoke it, and process it until it's dried.
+Raw fish is heavy to carry home, so I'll grill the amount I'll eat for now, and then gut the rest, smoke it, and dry it.
 
-If you do that, it will last for a while, so it will be helpful.
+That will help it last for a while.
 
-I took out my knife and began to sharpen it.
+I took out my knife and began slicing it up.
 
 ;暗転
 ;#face off
@@ -468,23 +468,23 @@ I took out my knife and began to sharpen it.
 #bg bg03_1
 #wipe fade
 
-“Well, my stomach is full.
+"Oh dear, I'm full. All that's left to do is hang this out to dry, so it's okay to leave it alone."
 
-After finishing the meal, I finished bathing, and before eating, I turned over the fish that had been dried open and stretched out a lot.
+After taking a bath after dinner, I turned over the open fish that had been hung out to dry before the meal and stretched out.
 
-"No, I worked today."
+"Well, I worked today."
 
-It seems that the elves are already indulging in their own games.
+The elves seem to be absorbed in their own ways now.
 
-It seems that this area is different from humans, or if there were only this many humans, they would probably play together, but they don't seem to be interested in such things.
+Perhaps this is what makes them different from humans; if they were humans, they would probably play together if there were so many of them, but they don't seem to be interested in that sort of thing.
 
-They do whatever they please, and if they happen to match, they spend time together, and if that happens, they do whatever they want even when they're together like this.
+We each do whatever we want, and if our interests coincide then we spend time together, but if not then even though we're together we just do whatever we want.
 
-Ibara looking into the fountain and Konomi enjoying the bath are fine...
+Leaving aside Ibara peering into the spring and Konomi enjoying a bath...
 
-Tsukiyo, who has been acting suspiciously back and forth in the forest since a while ago, what is Hinata doing when she is collecting stones?
+Tsukiyo has been acting suspiciously, going back and forth to the forest for a while now, so what on earth is Hinata doing collecting stones?
 
-The thing that worries me the most is...
+The thing that bothers me the most is...
 
 ;・選択肢発生
 ;Ａを選択⇒『b06h』へジャンプ

@@ -9,13 +9,13 @@
 
 "...Goodbye, Hinata."
 
-Hinata's hand withdrew with a start.
+Hinata flinched and pulled her hand away.
 
 ;CHR H03F1_A C
 #cg ヒナタ hin_1_03f1_a 中
 #wipe fade
 #voice hinf0505
-[Hinata] "Ningen-san, Ningen-san, Ningen-san, Ningen-san, Ningen-san, Ningen-san..."
+[Hinata] "Human, human, human, human, human, human, human..."
 
 ;CHR OFF
 #cg all clear
@@ -27,7 +27,7 @@ Hinata's hand withdrew with a start.
 #bg BG04_1
 #wipe fade
 
-Hinata's voice calling me gradually becomes distant.
+Hinata's voice calling out to me gradually becomes more distant.
 
 ;フラッシュ
 #cg all clear
@@ -40,80 +40,80 @@ Hinata's voice calling me gradually becomes distant.
 #bg BG04_1
 #wipe fade
 
---Pin
+--Ping
 
 ;フラッシュ
 
 
-It felt like the air had been knocked out of me.
+I felt like the air had been sucked out of me.
 
-At that moment, even I could clearly understand that the barrier had been closed.
+At that moment, even I understood that the barrier had clearly been closed.
 
-The human world and that world were separated, and the connection was closed without a trace.
+The human world and this world were separated, and the connection was closed without a trace.
 
-"...Hahaha, I wonder what kind of trick it is. She disappeared even though she wasn't even walking."
+"...Hahaha, I wonder what kind of trick this is. It disappeared even though it wasn't even walking away."
 
-I muttered without intending to let anyone hear.
+I muttered, not intending for anyone to hear.
 
-The forest was flooded with light, and after that, no one had any idea how they disappeared.
+The forest was flooded with light, and then I had no idea how they vanished.
 
-It was an inexplicable feeling, as if I was in a dream, as if I had been turned into some kind of monster.
+I felt inexplicable, as if I was dreaming or had been tricked by some demon.
 
-"...Well, maybe it was all a dream."
+"...No, maybe it was all a dream."
 
-The mountain hut was also burnt down, and there is nothing to show that they ever existed.
+The hut was burned down and there is no sign of their existence.
 
-It is impossible that he met and lived with elves in a forest where humans are not allowed.
+It seems impossible that he could have met elves and lived with them in a forest where humans could not enter.
 
-It wouldn't be like a convenient dream that the elf I met for the first time adored me.
+It couldn't be a convenient dream that the first elf I met loved me so much.
 
-No matter who I tell, I'm sure no one will believe me. Those happy days have now turned into a dream.
+No one would believe me if I told anyone. Those happy days have turned into a dream.
 
-“…Uuuuuuuuuuuuuuuuuuuuuuu…”
+"......Ugh."
 
-I fell to my knees on the spot.
+I dropped to my knees in disappointment on the spot.
 
 I was lonely.
 
-The days I lived with Hinata and the others felt like happiness, so I felt even more alone and miserable.
+The days I spent with Hinata and the others felt so happy, so this made me feel even more lonely and miserable.
 
-There will never be anyone else who will love me like that, before or after.
+I don't think I'll ever find someone who loves me that much again.
 
-The world has closed.
+The world has been closed off.
 
 Those happy days will never come back.
 
-It disappeared along with the burnt-down mountain hut.
+It disappeared along with the burnt mountain hut.
 
 "...Don't go, please don't go."
 
-I reached out my hand in the direction where Hinata had disappeared, and when I realized that my fingertips couldn't touch anything, I clasped my hand.
+Reaching out in the direction where Hinata had disappeared, he realized that his fingertips would not reach anything, so he clenched his hand.
 
-I was the one who couldn't take Hinata's outstretched hand.
+It was me who couldn't take Hinata's outstretched hand.
 
-The truth is, I wanted to be with you forever... until the end of my life.
+The truth is, I wanted to be with you forever...until my life ended.
 
-However, I was afraid that I might make Hinata unhappy... No, that's not it. I didn't take Hinata's hand because I was afraid someone would blame me for making her unhappy.
+But I was scared of making Hinata unhappy... No, that's not it. I was scared of being blamed for making Hinata unhappy, so I didn't take her hand.
 
-Who could blame me?
+Who would blame me?
 
 I was just a coward.
 
-The happier his memories with Hinata and the others were, the more he feared losing them.
+The happier his memories with Hinata and the others were, the greater his fear of losing them.
 
 I was just afraid of losing it.
 
-...Because I probably won't be able to protect Hinata in this world. It would be so?
+...Because, I'm sure there's no way I can protect Hinata in this world. Right?
 
-"I really wish you didn't go, Hinata."
+"I really wish you hadn't gone, Hinata."
 
-No matter how much I lament here, there's no way it will reach Hinata now that the world has been cut off.
+No matter how much I lament here, there's no way my words will reach Hinata now that the world has been cut off.
 
-Hinata's voice calling me to be with me is still in my ears, but I was the one who couldn't answer it.
+Even though Hinata's voice calling out to me, saying she wanted to be with me, still rang in my ears, it was me who was unable to respond.
 
-Until the very end, when the world was cut off, I remained indecisive, blaming others for not being able to choose anything.
+Until the very end, until the world was cut off, I remained indecisive and even blamed others for my inability to choose anything.
 
-I continued to mourn while kneeling on the ground.
+I continued to cry as I knelt on the ground.
 
 ;暗転
 ;#face off
@@ -127,39 +127,39 @@ I continued to mourn while kneeling on the ground.
 #bg BG05_1
 #wipe fade
 
-After parting ways with Hinata and the others, I went to the burned-out ruins of the mountain hut, and found that the old wood and paper burned particularly well.
+After parting ways with Hinata and the others, I visited the ruins of the mountain hut, and found that the old wood and paper burned particularly well.
 
-Behind them were a sooty stone stove and the remains of an underground warehouse.
+Behind them were the remains of a sooty stone hearth and an underground storehouse.
 
-I searched for the burnt remains, but I couldn't find the cloth bag containing the coins given to me by the elf.
+I searched the ruins, but the cloth bag containing the coins the elf had given me was nowhere to be found.
 
-Apparently, the villagers searched for houses and stole anything valuable before setting the mountain hut on fire.
+Apparently, the villagers had searched the hut and stolen anything of value before setting it on fire.
 
-I had nowhere to go back to, so I went back to my house in the village, but I should have stopped.
+I had nowhere to go back to so I returned to my house in the village, but I wish I hadn't.
 
-The people in the village look at me even more strangely than before, probably because they feel guilty for stealing something that belonged to me.
+Perhaps because they feel guilty about stealing my things, the villagers look at me more strangely than before.
 
-It's strange that the person who had the item stolen gets glared at by the person who stole it.
+It's strange that the person who had something stolen from would be glared at by the thief.
 
-"...I don't have any regrets in this village anymore."
+"...You have no attachment to this village anymore, right?"
 
-Why don't we set this house on fire?
+Maybe I should just set fire to this house too.
 
 That thought crosses my mind.
 
-If a house were to burn down on a windy day, the fire would spread to other places, even from this house on the outskirts of the village, and it would be terrible.
+If the house were to burn on a windy day, even if it was on the outskirts of the village, the fire could spread to other places and cause a terrible disaster.
 
-If that happens, I wonder if my drinking will go down a little.
+If that happens, I wonder if I'll feel a little better?
 
 But I didn't choose that.
 
-... Everything didn't matter anymore.
+...I didn't care about anything anymore.
 
-I was so indecisive that I couldn't even take Hinata's hand at that time, so how could I choose something as drastic as setting the house on fire?
+There was no way I, an indecisive person who couldn’t even take Hinata’s hand back then, could choose to do something as bold as setting fire to a house.
 
-All I can do is run away.
+The only thing I can do is run away.
 
-Just like I ran away from the village into the forest that day.
+Just like that day when we fled from the village into the forest.
 
 ;暗転
 ;#face off
@@ -177,55 +177,55 @@ Just like I ran away from the village into the forest that day.
 #bg BG12_1
 #wipe fade
 
-It's time to start your journey, and it seems like it's okay to feel a little cheerful.
+It's a time when it's okay to feel a little cheerful as you set off on your journey.
 
-I crossed the village and thought of the dark forest.
+I crossed the village and my thoughts turned to the dark forest.
 
-Didn't Ibara say that the human path was created because of me?
+Ibara said that it was because of me that the path of humanity was paved.
 
-So this departure is for the elves.
+So this journey is for the elves.
 
-In order to end the path of humans, I will not return to the forest, but will leave the village I came from and travel far away.
+In order to break away from the path of humanity, I will not return to the forest, but will leave my original village and travel far away.
 
-The idea that it was for the sake of the elves was terrifyingly comforting.
+The noble cause of doing it for the sake of the elves is incredibly satisfying.
 
-I personally knew this was just an escape, but I needed a comfortable excuse for myself.
+I know that this was really just an escape, but I needed a good excuse for myself.
 
-There are too many memories here, this village, that forest.
+This place, this village, that forest, there are so many memories.
 
-The weak me, the indecisive me, torments me here and there.
+My weakness, my indecisiveness, tormented me everywhere.
 
-I know that running away won't change anything.
+I know very well that running away won't change anything.
 
-That's why I run away. But to a place that is not here.
+So run away, just somewhere other than here.
 
-Ibara asked me if that was okay. Hinata's voice stretched out her hand towards me until we parted.
+Ibara asked me if that was okay. Hinata's voice reached out to me as we parted ways.
 
-No, it wasn't just that time.
+No, not just then.
 
-I didn't even try to fit in with the people around me, and tried to maintain my ego by despising them.
+I made no effort to fit in with the people around me, and instead tried to maintain my sense of self by looking down on them.
 
-A valuable record that was under fire because of that.
+Valuable records were set on fire as a result.
 
 I'm running away from everything I've lost.
 
-The only person beyond that is probably me, no one else.
+The only person who lies ahead of me will surely be me, a nobody.
 
-That's okay though.
+That's fine.
 
-It would be better for me to live my life being chased by my useless self than to face my pathetic past self here, in this village.
+It would be better to live my life being chased by my worthless self than to face my pathetic past here, in this village.
 
 Will I ever find my place?
 
-If you wanted to change somewhere, would you have been able to change?
+If there had been some attempt to change, would it have been possible to do so?
 
-That day will probably never come, but I'm sure the memories I let go of will someday be beautifully colored in a way that suits me.
+That day will probably never come, but I'm sure that the memories I let go of will one day be beautifully colored to suit my needs.
 
-That's how I live by deceiving myself. We live in vain until one day we lose our lives. Not here. In a place out of reach of those happy days.
+That's how I continue to live, deceiving myself. Until the day I lose my life, I will continue to live in vain. Not here. In a place where those happy days are out of reach.
 
-I will live my life forever feeling regretful about Hinata's hand that I was unable to take back then.
+He will always live with regret that he wasn't able to hold Hinata's hand back then.
 
-That must be my punishment for not being able to choose anything until the very end.
+I'm sure that's my punishment for not being able to make any choice until the very end.
 
 
 ;ヒナタENDフラグON

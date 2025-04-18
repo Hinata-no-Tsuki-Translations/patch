@@ -1,0 +1,330 @@
+
+#bgm 0 stop
+#bgvoice stop
+
+;背景：洞穴
+;BG BG09_1
+#cg all clear
+#bg BG09_1
+#wipe fade
+
+"...Eh? It doesn't seem to be broken."
+
+He has scratches all over his body from sliding off cliffs so many times.
+
+I managed to pick them, but I wonder if this is okay... if it's enough...
+
+"Anyway, we need to hurry."
+
+Forcing my aching body to accept the anxiety I felt, I rose to my feet.
+
+"Hurry... I have to make a broth for Konomi."
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夕）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0033
+[Ibara] "What, you were too slow, human... What's with that injury?!"
+
+"It's nothing serious. It's just a scratch. Anyway, are these really the flowers of the forget-me-not?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0034
+[Ibara] "Yes, that's right. We can make a tea out of this flower and give it to Konomi to drink. We actually burn it together with incense, but this is more effective."
+
+"Understood"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0035
+[Ibara] "Be careful not to inhale the steam when brewing."
+
+"Yeah, I'll be careful."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+;ＥＶ絵――EV056『病床のコノミ』★待ち
+;EVCG EV056A1
+;#face off
+
+
+#cg イベント ev056a1 背景
+#wipe fade
+
+I carefully made a tea from the forget-me-not flowers and brought it to Konomi's bedside.
+
+"Konomi, I'm going to wake you up."
+
+Being careful not to strain yourself, raise your body slightly.
+
+Unlike me, who was careful not to inhale it, maybe inhaling even just the steam would make him feel a little better.
+
+#voice kond0151
+[Konomi] "...Phew...Ahh..."
+
+As I inhale the steam little by little through my nostrils and slightly open mouth, my breathing gradually becomes more regulated.
+
+"If you can drink it, drink it slowly. It's hot, so be careful."
+
+#voice kond0152
+[Konomi] "Uh... yes. Ah... huff... sniff."
+
+As he swallowed the decoction little by little, his face, which had been ashen in colour, gradually became paler.
+
+"……good"
+
+#voice kond0153
+[Konomi] "Phew... Ah... I think I feel a little better now."
+
+"Well, then, take a little rest."
+
+#voice kond0154
+[Konomi] "Yeah. Let's do something nice after we get some sleep, human."
+
+"Yes, yes."
+
+I thought I was feeling a little better, but that's it.
+
+But I'm glad I felt well enough to be able to say something like that.
+
+;背景：山小屋（夕）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+Perhaps because she hadn't been able to rest last night, Konomi soon began snoring soundly in her sleep.
+
+"You seem to be better. That's good."
+
+Just as I was breathing a sigh of relief, Ibara tugged on my sleeve.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0036
+[Ibara] "If Konomi is better, then it's your turn, right? You're covered in injuries."
+
+"picture?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0037
+[Ibara] "Come on, sit down. I'll heal you as a special favor. These are wounds you received for the sake of Konomi, an honorable elven clan."
+
+"Th-Thank you..."
+
+As I sat down in a chair, Ibara held up his glowing hand.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0038
+[Ibara] "Huh, humans can be so slow. What were you doing picking some flowers only to end up with so many wounds all over your body?"
+
+Ibara's lips were pursed, but the warm sensation of his wounds healing was very pleasant.
+
+"...Why did Konomi get so sick?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0039
+[Ibara] "It's because of too much human poison built up."
+
+"Human... my poison?"
+
+#voice ibad0040
+[Ibara] "Humans don't just mean humans. They're the poison that permeates this world."
+
+"There's poison in this world?"
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0041
+[Ibara] "Even fish that swim in the sea can't live in a river, right? And vice versa. That's what happened to Konomi."
+
+#voice ibad0042
+[Ibara] "Konomi has been in the human world too long. It depends on the individual, but there are some elves whose bodies just don't fit in with the human world."
+
+"So that was Konomi. But neither Ibara nor Konomi were affected up until now, right?"
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0043
+[Ibara] "I don't know about Hinata or Tsukiyo, but I've returned to the elf domain from time to time before. I wonder if Konomi does the same."
+
+"picture?"
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0044
+[Ibara] "There were times when we weren't together, right? We were playing and doing other things, but sometimes we would return to the elven realm."
+
+"Is that so..."
+
+#voice ibad0045
+[Ibara] "Until now, it was fine because I was traveling between the elven realm and the human world, but ever since my brother came to pick me up, Konomi hasn't returned to the elven village."
+
+"...Come to think of it, Konomi has always been with me."
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0046
+[Ibara] "That may be why. Konomi chose to be with humans. And so she forgot to purify herself in the elven realm."
+
+#voice ibad0047
+[Ibara] "...But it's clear that Konomi is not suited to living in the human world."
+
+"Yeah, that's right."
+
+Ibarra's face contorted as if something painful had happened to him.
+
+;CHR I01F C
+#cg イバラ iba_1_01f 中
+#wipe fade
+
+#voice ibad0048
+[Ibara] "The barrier will close when the moon is full. So, Konomi can only stay here until then."
+
+#voice ibad0049
+[Ibara] "No matter how much Konomi wants to be near humans, if she stays there any longer she will disappear... so if you don't want Konomi to disappear, bring her back."
+
+"...Eh? Why did you say that to me?"
+
+Konomi won't listen to me no matter how much I beg or get angry.
+
+Unless Konomi herself is interested and wants to do so, she won't do what you want her to do.
+
+Judging from Hinata and Ibara, this seems to be a normal thing for elves, but it seems to be an especially strong trait in Konomi.
+
+And yet, why do you want me to give Konomi back?
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0050
+[Ibara] "Konomi really likes humans. If humans want them to exist, they will."
+
+"...It's as if, if I didn't stop him, he would cease to exist."
+
+#voice ibad0051
+[Ibara] "That's the kind of person Konomi is. Didn't you know that? She's willing to throw away everything for something that feels good. In that sense, she may be more like an elf than I am."
+
+I feel like I understand it somehow, and it even sends shivers down my spine.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0052
+[Ibara] "Of course I'll talk to Konomi about it, but I don't think humans want Konomi to just disappear."
+
+"Of course."
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0053
+[Ibara] "If that's the case, then you should tell the humans to come back too. If they think it's better for them to stay together even if they disappear, that's fine too."
+
+"Don't say that's okay. We're friends, aren't we?"
+
+Ibara looked a little confused by my words.
+
+;CHR I11F1 C
+#cg イバラ iba_1_11f1 中
+#wipe fade
+
+#voice ibad0054
+[Ibara] "Well, that's up to Konomi, isn't it? I understand what humans are saying, but I don't understand."
+
+#voice ibad0055
+[Ibara] "I can tell Konomi what I want her to do, but I can't do anything about her. What belongs to Konomi belongs to her."
+
+"..."
+
+What Ibara said seemed a bit cold, but maybe that's what elves are like.
+
+I thought I understood him because we'd been together for so long, but maybe I don't really understand him.
+
+;CHR I05F C
+#cg イバラ iba_1_05f 中
+#wipe fade
+
+#voice ibad0056
+[Ibara] "Now, your injury has been healed! Bow down and give thanks to me!"
+
+"Oh, yeah, thank you."
+
+It seems that the healing was completely finished while I was spacing out.
+
+;CHR I07F C
+#cg イバラ iba_1_07f 中
+#wipe fade
+
+#voice ibad0057
+[Ibara] "Hmmph, it was an honor to have you heal me. Ah, I'm tired so I'll stay here today. I also have to talk to Konomi tomorrow."
+
+"Yeah. Thank you so much."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+;dk03_1へ
+#next dk03_1

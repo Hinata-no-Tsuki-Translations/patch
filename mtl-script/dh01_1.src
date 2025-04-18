@@ -46,28 +46,28 @@
 #bg BG07b_3
 #wipe fade
 
-As I was applying the curse to ward off orcs, the sun set. There were a lot of troublesome steps.
+When I was casting the orc repellent curse, the sun went down. There were a lot of tedious steps involved.
 
-Thanks to that, I can't help but feel lazy to prepare meals today.
+Because of this, I'm really feeling lazy about preparing meals today.
 
-"I'm sorry, I don't have anything nice..."
+"But there's nothing good out there..."
 
 ;SE 棚をいじる
 
-I looked at the food shelf and held my head in my hands.
+I looked at the food cupboard and held my head in my hands.
 
-I had forgotten that I was running out of food that could be eaten right away.
+I had forgotten that we had just run out of anything that could be eaten immediately.
 
-You can give out preserved food, but it's a pain to remove the salt and reconstitute it.
+I could serve preserved foods, but it's a pain to desalinate them and rehydrate them.
 
-I guess I'll just boil some potatoes and whatever else I have.
+I guess it'll be fine to just boil potatoes and whatever else I have on hand.
 
 ;CHR H01F2_A C
 #cg ヒナタ hin_1_01f2_a 中
 #wipe fade
 
 #voice hinf0001
-[Hinata] “Ningen-san, Ningen-san, what are you thinking about?!”
+[Hinata] "Human, human, what are you thinking?!"
 
 "Hmm, I'm wondering what to eat tonight."
 
@@ -76,9 +76,9 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 #voice hinf0002
-[Hinata] "Hooooooooooooo!? Are you going to eat something again!? Human-san is so stubborn!?"
+[Hinata] "Ohhhhh?! Are you going to eat something again?! Humans are really greedy, aren't they?!"
 
-"I just ate some fruit this morning."
+"Again? I just had a bite of fruit this morning."
 
 ;CHR OFF
 #cg all clear
@@ -89,9 +89,9 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 #voice konf0001
-[Konomi] “I ate it in the morning, and I ate a lot yesterday too.”
+[Konomi] "I had breakfast, and I ate a lot yesterday too."
 
-"Humans eat every day. I'd like to eat at least two meals if possible."
+"Humans eat every day. I'd like to eat at least two meals a day if possible."
 
 ;CHR OFF
 #cg all clear
@@ -104,7 +104,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 ;TKface
 
 #voice tukf0001
-[Tsukiyo] “Do humans want to eat twice before the sun rises and sets?”
+[Tsukiyo] "Do humans want to eat two meals a day between the time the sun rises and the time it sets?"
 
 "oh yeah"
 
@@ -117,7 +117,7 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 #voice hinf0003
-[Hinata] “You eat a lot.”
+[Hinata] "You eat a lot."
 
 ;CHR OFF
 #cg all clear
@@ -128,9 +128,9 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 #voice ibaf0001
-[Ibara] “Humans are sinful creatures because they cannot survive without taking so many lives.”
+[Ibara] "Humans are sinful creatures, since we have to take so many lives in order to survive."
 
-"What? Animals also eat food, and some plants also eat insects."
+"What do you mean? Animals eat food too, and there are plants that eat insects too."
 
 ;CHR OFF
 #cg all clear
@@ -141,40 +141,40 @@ I guess I'll just boil some potatoes and whatever else I have.
 #wipe fade
 
 #voice konf0002
-[Konomi] "Looking up what you can eat every day, eating fruits and other things in the morning, and preparing food again at night...Ningen-kun is always eating."
+[Konomi] "Every day I research what I can eat, eat fruit in the morning, and prepare dinner again in the evening... Humans are always thinking about eating."
 
-"It can't be helped. You can't just eat preserved food every day, and it's not good for your health to eat the same thing all the time."
+"It can't be helped. I can't live on preserved food every day, and eating the same thing over and over again isn't good for my health."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-If you were in a position where you had servants, you would be able to leave the preparation of meals and personal care to the servants, and concentrate on your studies.
+If one is in a position where they have servants, they could leave the meal preparation and personal care to the servants and devote themselves to their studies.
 
-Well, I want to live like that too.
+Well, I'd like to live that kind of life too.
 
 ;SE se013 扉のバタン音（棚をいじる音）
 
-"Now, what should I boil with vegetables and potatoes? Oh, I'm cutting dried meat."
+"Now, vegetables and potatoes... what else should I boil? Ah, I'm out of dried meat."
 
-I thought about adding dried meat, but I had just cut it and there were only a few pieces.
+I thought about adding some dried meat, but I had run out and only had a few pieces left.
 
-As for the dried fish, I still have some left over from the one I got before I caught a cold, but it takes a lot of effort to cook fish, so I guess I'll stick to meat and fish for today.
+I have some dried fish left over from before I caught a cold the other day, but cooking fish is a lot of work, so I'll hold off on meat or fish for now.
 
 ;SE　包丁の音
 
-"Hmph, hmph‾♪"
+"Hmmm hmmm ♪"
 
-When I started cooking while humming, everyone came to my side, looking amused.
+As I started cooking while humming, everyone gathered around me with amused looks on their faces.
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
 #wipe fade
 
 #voice konf0003
-[Konomi] "Hey, why don't you make something with meat or fish today?"
+[Konomi] "Hey, hey, aren't you going to make anything with meat or fish today?"
 
-"Today I'm thinking of just boiling vegetables and eating the soup. Tomorrow I want to eat meat, so if I don't catch anything in the trap I made, I'll have to go hunting."
+"Today I think I'll just boil some vegetables and eat the broth. Tomorrow I want to eat some meat, so I'll have to go hunting if nothing gets caught in the trap I made."
 
 ;CHR OFF
 #cg コノミ clear
@@ -187,9 +187,9 @@ When I started cooking while humming, everyone came to my side, looking amused.
 ;TKface
 
 #voice tukf0002
-[Tsukiyo] “Tsukiyo also helped make the trap.”
+[Tsukiyo] "Tsukiyo also helped make the trap."
 
-"Yes, that's it. It would be great if there was a pika on it."
+"Yes, that's it. It would be fantastic if a pika could get caught in it."
 
 ;CHR OFF
 #cg all clear
@@ -200,25 +200,25 @@ When I started cooking while humming, everyone came to my side, looking amused.
 #wipe fade
 
 #voice hinf0004
-[Hinata] "Gaga! Are you going to eat the pika?! The pika is so cute and fluffy!?"
+[Hinata] "Ahhh! You're going to eat pikas?! Pikas are so cute and fluffy?!"
 
-“Pikas are easy to handle, and the meat is delicious.”
+"Pikas are easy to prepare and the meat is tasty."
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibaf0002
-[Ibara] "If you eat meat, this area will get sore again. You should stop eating meat!"
+[Ibara] "If you eat meat, this area will smell bad again. You should just stop eating meat!"
 
-"I don't have any strength unless I eat a big meal every once in a while."
+"Even I need to eat a proper meat meal every once in a while to get my strength up."
 
 ;CHR I09F L
 #cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibaf0003
-[Ibara] "Huh!? Instead of eating cute pikas, wouldn't it be better to eat trolls, orcs, and other unruly people?"
+[Ibara] "What?! Instead of cute ones like pikas, why don't you just eat violent creatures like trolls or orcs?"
 
 ;CHR OFF
 #cg ヒナタ clear
@@ -231,33 +231,33 @@ When I started cooking while humming, everyone came to my side, looking amused.
 ;TKface
 
 #voice tukf0003
-[Tsukiyo] "Ibara is smart. The pika is small, but the orcs and trolls are big, so I'm sure he can eat a lot."
+[Tsukiyo] "Thorns are smart. Pikas are tiny, but orcs and trolls are big, so I'm sure they can eat a lot of them."
 
-"I don't like that. I don't think it tastes good. Generally speaking, I can't fight if something bigger than me comes along, and I'm reluctant to eat something humanoid."
+"I don't want that. It doesn't look tasty. Besides, I wouldn't be able to fight if something bigger than me appeared, and I have reservations about eating humanoid things."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-From what I remember from what I saw the other day, orcs looked more like animals, but I still don't want to eat something intelligent that walks on two legs and can talk.
+From what I remember seeing the other day, orcs looked more like animals to me, but still, I don't think I want to eat an intelligent, bipedal, talking thing.
 
-As expected, I feel like I've somehow overstepped the line.
+That really feels like a bit of a step out.
 
 ;CHR K01F2A R
 #cg コノミ kon_1_01f2a 右
 #wipe fade
 
 #voice konf0004
-[Konomi] "Orcs also eat humans, so I think it's a good idea for Human-kun to eat orcs in return."
+[Konomi] "Orcs eat humans too, so I think it's a good idea for humans to eat Orcs in return."
 
-"Eating something that can eat humans is even more disgusting!? It's like cannibalism, isn't it?"
+"I hate the idea of eating something that eats humans even more! It's like cannibalism."
 
 ;CHR K08F R
 #cg コノミ kon_1_08f 右
 #wipe fade
 
 #voice konf0005
-[Konomi] “I see, Human-kun is so selfish.”
+[Konomi] "I see, humans are so selfish."
 
 ;CHR OFF
 #cg コノミ clear
@@ -268,14 +268,14 @@ As expected, I feel like I've somehow overstepped the line.
 #wipe fade
 
 #voice ibaf0004
-[Ibara] “I mean, fish and meat stink, so you should at least eat only fruits and sweets.”
+[Ibara] "Well, fish and meat stink, so you should just eat fruit and sweets."
 
 ;CHR H01F1_A L
 #cg ヒナタ hin_1_01f1_a 左
 #wipe fade
 
 #voice hinf0005
-[Hinata] "Okayashi!? Mr. Human, will you give us some kashi to Hinata and the others too!?"
+[Hinata] "Candy?! Humans, you'll give some candy to Hinata and the others too, right?!"
 
 ;CHR OFF
 #cg イバラ clear
@@ -287,18 +287,18 @@ As expected, I feel like I've somehow overstepped the line.
 #face f_tuk_0_01f_l 94 466
 ;TKface
 #voice tukf0004
-[Tsukiyo] “It’s sweet and delicious.”
+[Tsukiyo] "Sweets are delicious."
 
-"Sweets aren't bad, but eating meat and vegetables is actually better for your body."
+"Sweets aren't bad, but eating meat and vegetables is better for your body."
 
 ;CHR H04F2_A L
 #cg ヒナタ hin_1_04f2_a 左
 #wipe fade
 
 #voice hinf0006
-[Hinata] “Ningen-san, you can’t pick on anyone!?”
+[Hinata] "Humans, you can't like or dislike something!"
 
-"That's not to say I don't like it. Human beings have to eat a variety of foods, otherwise they'll experience some health problems."
+"So it's not that I dislike it. Humans need to eat a variety of foods, otherwise it can cause problems for the body."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -308,7 +308,7 @@ As expected, I feel like I've somehow overstepped the line.
 #cg コノミ kon_1_05f 右
 #wipe fade
 #voice konf0006
-[Konomi] “Wow, Human-kun has an inconvenient body.”
+[Konomi] "Wow, humans have inconvenient bodies."
 
 "Yes, yes. Humans are inconvenient."
 
@@ -318,27 +318,27 @@ As expected, I feel like I've somehow overstepped the line.
 
 ;SE　se028	石を水に落とす（鍋を火にかける音）
 
-Put the remaining dried meat and cut vegetables into a pot, pour water over it, and bring to the boil.
+Put the remaining dried meat and chopped vegetables into a pot, add water and put on the stove.
 
 ;SE　煮える音
 
-When the hot water started flowing, everyone frowned and stepped back.
+As the water began to boil, everyone grimaced and stepped back.
 
 ;CHR I01F R
 #cg イバラ iba_1_01f 右
 #wipe fade
 
 #voice ibaf0005
-[Ibara] “This still smells fishy and disgusting!?”
+[Ibara] "This really does have a fishy, nasty smell!"
 
 ;CHR H03F1_A L
 #cg ヒナタ hin_1_03f1_a 左
 #wipe fade
 
 #voice hinf0007
-[Hinata] “I can smell the ibis cooking rice with onion!”
+[Hinata] "I can smell Toki making a meal out of meat!"
 
-"Really? I just used some dried meat that was left over."
+"Really? I just used a little bit of dried meat I had left over."
 
 ;CHR OFF
 #cg イバラ clear
@@ -351,9 +351,9 @@ When the hot water started flowing, everyone frowned and stepped back.
 ;TKface
 
 #voice tukf0005
-[Tsukiyo] “Weren’t you going to eat meat today?”
+[Tsukiyo] "I thought you weren't going to eat meat today?"
 
-"I don't think you'll feel like you've eaten meat just because it's in the broth."
+"If there's just a little bit in the broth, it doesn't feel like you're eating meat."
 
 ;CHR OFF
 #cg ヒナタ clear
@@ -364,9 +364,9 @@ When the hot water started flowing, everyone frowned and stepped back.
 #wipe fade
 
 #voice konf0007
-[Konomi] "Wow...I don't like this smell..."
+[Konomi] "Ugh... I don't like this smell."
 
-"I have no idea, but everyone has a nice nose."
+"I have no idea, but everyone has a good nose."
 
 ;CHR OFF
 #cg ツキヨ clear
@@ -377,54 +377,54 @@ When the hot water started flowing, everyone frowned and stepped back.
 #wipe fade
 
 #voice ibaf0006
-[Ibara] "Isn't it because you eat meat that the drumstick hits you and your nose is stuffed up?"
+[Ibara] "Maybe your nose is blocked because you're eating meat and that's what you got punished for!"
 
 ;CHR K01F2A L
 #cg コノミ kon_1_01f2a 左
 #wipe fade
 
 #voice konf0008
-[Konomi] "Why don't you drink water like we do and go out in the sun? You might be okay even if you don't eat."
+[Konomi] "Why don't you drink water and get some sun like us? You might be okay without eating."
 
-I know you don't like the smell of meat, but that sounds amazing.
+I know you don't like the smell of meat, but that's quite a thing to say.
 
-Well, before, I would just start cooking meat or fish and immediately run away from the hut, so compared to that, I guess I've gotten used to being surrounded and insulted.
+Well, before, they would run off straight out of the hut as soon as we started to cook meat or fish, so I guess they're used to being surrounded and cursed at now.
 
-"It'll be fine for a while, but if a human were to do something like that, it would dry in the sun. Now, it's done."
+"It'll probably be okay for a while, but if a human tried that, they'd end up drying out in the sun. Now, it's done."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-While I was talking with Hinata and the others, the vegetables were boiled until soft.
+While I was talking with Hinata and the others, the vegetables were cooking until they were soft.
 
-Adjust the taste with salt and a little spice.
+Season with salt and a little spices.
 
-"Okay, I'm going to eat."
+"Well, I'm going to eat."
 
-When I put vegetables and soup in a bowl and carried it to the desk, everyone looked at the bowl in horror and frowned.
+When I put the soup with the vegetables in bowls and carried them to the table, everyone looked into the bowls timidly and grimaced.
 
-"I'm not saying I'm going to force you to eat, so you don't have to look at me with such a disgusted look on your face."
+"I didn't say anything about forcing you to eat it, so there's no need to look at me with such a displeased expression."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibaf0007
-[Ibara] "Of course! If you try to force me to eat something like that... Oh no!"
+[Ibara] "Of course! If you try to force someone to eat something like that... Hiya!"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Thinking about it, Ibara let out a scream and jumped back to the corner of the room, feeling a chill running through her.
+Just imagining it must have sent chills down his spine, as Ibara let out a shriek and jumped to the corner of the room.
 
 ;CHR K07F L
 #cg コノミ kon_1_07f 左
 #wipe fade
 
 #voice konf0009
-[Konomi] “Hmm, maybe I should refrain too.”
+[Konomi] "Hmm, I guess I'll pass too."
 
 ;CHR T02F R
 #cg ツキヨ tuk_1_02f 右
@@ -433,32 +433,32 @@ Thinking about it, Ibara let out a scream and jumped back to the corner of the r
 ;TKface
 
 #voice tukf0006
-[Tsukiyo] “Desu”
+[Tsukiyo] "Yes."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Everyone else slowly backed away as well.
+Everyone else slowly backed away.
 
 "I'll enjoy having this"
 
-I'm used to it now, but the person watching me from afar as I eat with a disgusted look on my face might just be someone who wants to see something scary.
+I'm used to it now, but maybe it's morbid curiosity that makes her watch me from afar as I eat with a displeased look on her face.
 
-"...Yeah, well, I guess it went well."
+"...Yeah, it went pretty well."
 
-After all, it tastes better with at least a little bit of meat in it. There's a big difference between having meat and not having meat.
+I think it tastes better with even a little bit of meat. There's a big difference between having meat and not having it.
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
 #wipe fade
 
 #voice ibaf0008
-[Ibara] “Wow...I drank it.”
+[Ibara] "Ugh... I drank it."
 
-Ibara frowns, looking disgusted.
+Ibara frowned uncomfortably.
 
-Hinata also asked with a strange look on her face.
+Hinata asked with a puzzled look on her face.
 
 ;CHR H04F1_A R
 #cg ヒナタ hin_1_04f1_a 右

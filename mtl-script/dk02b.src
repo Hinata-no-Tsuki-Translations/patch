@@ -1,0 +1,85 @@
+
+Suddenly, it occurred to me that I might forget about myself too.
+
+Konomi is suffering so much...and yet...I am.
+
+;CHR I08F C
+#cg イバラ iba_1_08f 中
+#wipe fade
+
+#voice ibad0064
+[Ibara] "What are you thinking about?"
+
+"N-Nothing. I'll hurry up and get some and boil it."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Feeling as if Ibara's innocent eyes could see through his shameless thoughts, he tried to stand up in a hurry, but Konomi's fingers got caught.
+
+"Ah..."
+
+;FACE K07F
+#face f_kon_0_07f 94 466
+
+#voice kond0155
+[Konomi] "Human... damn... go... away..."
+
+Konomi clung tightly to me, panting and breathing heavily.
+
+The force wasn't strong enough that I couldn't shake it off, but it was enough to stop me in my tracks.
+
+"Don't worry, I'm just going to pick some tokiwasure flowers for Konomi."
+
+;FACE K08F
+#face f_kon_0_08f 94 466
+
+#voice kond0156
+[Konomi] "To...ki..."
+
+"Sorry, Ibara. Could you please keep an eye on Konomi for a bit?"
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0065
+[Ibara] "Me? I guess there's no other way."
+
+Ibara pouted, but he switched places with me and gently stroked Konomi's head.
+
+;CHR I05F L
+#cg イバラ iba_1_05f 左
+#wipe fade
+
+#voice ibad0066
+[Ibara] "It's okay, Konomi. Humans will return soon. I'll stay by your side until then."
+
+;FACE K08F
+#face f_kon_0_08f 94 466
+
+#voice kond0157
+[Konomi] "Ibara... but...?"
+
+"Sorry, I asked you."
+
+;CHR I01F L
+#cg イバラ iba_1_01f 左
+#wipe fade
+
+#voice ibad0067
+[Ibara] "Okay? When you pick the tokiwasure flowers, be careful not to inhale the pollen."
+
+Ibara repeated the message to make sure he was thorough.
+
+"Oh, yeah. I'll be careful."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+No matter what I had to forget, as long as it made Konomi feel better, that was fine, I told myself, but the pounding in my chest just wouldn't go away.
+
+;dk02_2へ
+#next dk02_2

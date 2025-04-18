@@ -1,0 +1,93 @@
+
+"I'm glad I got to see you again. I thought that was the end of it."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;CHR K03F C
+#cg コノミ kon_1_03f 中
+#wipe fade
+
+#voice kond0122
+[Konomi] "If we had just said goodbye like that, would you have been lonely, human?"
+
+"……Yeah"
+
+I could have been tough and denied it, but I didn't want to lie to Konomi, as we would probably end up breaking up again soon.
+
+"Geez... wasn't it cramped and uncomfortable?"
+
+;CHR K04F K01F1B C
+#cg コノミ kon_1_04f 中
+#wipe fade
+
+#voice kond0123
+[Konomi] "Human-kun was excited to be waiting, so it was okay, right?"
+
+;FACE T06F_P
+#face f_tuk_0_06f_p 94 466
+
+#voice tukd0064
+[Tsukiyo] "I was looking forward to humans coming back."
+
+"I've really missed you so I'm glad you're back."
+
+I wish I could have at least said goodbye more properly.
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0124
+[Konomi] "I see. Were you lonely and called out my name?"
+
+"That's right. Konomi was the first one to come to this hut."
+
+That time seems like such a long time ago now.
+
+"Then Hinata came, we ran into thorns, and found Tsukiyo... it was fun."
+
+;FACE T01F_P
+#face f_tuk_0_01f_p 94 466
+
+#voice tukd0065
+[Tsukiyo] "It was fun."
+
+#voice kond0125
+[Konomi] "That's right, I had fun too. That's why I came back, thinking I'd stay a little longer."
+
+"...If we stay a little longer... won't we end up not being able to go back?"
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0126
+[Konomi] "Hmm, I think it'll be fine until the full moon comes and the barrier is complete."
+
+"What about Tsukiyo...?"
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Based on what Izumi had said earlier, it seems that Hinata and Tsukiyo, not to mention Konomi, have their own positions to consider.
+
+I got the feeling that it would not be so easy to just say it was okay for me to stay there.
+
+Tsukiyo answered my question with a smile.
+
+;CHR T01F_P C
+#cg ツキヨ tuk_1_01f_p 中
+#wipe fade
+#face f_tuk_0_01f_p 94 466
+;TKface
+#voice tukd0066
+[Tsukiyo] "I'm not coming back... so it's okay."
+
+;コノミ好感度+1
+#set f3 f3+1
+
+;dk01_2へ
+#next dk01_2

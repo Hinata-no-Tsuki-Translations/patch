@@ -49,11 +49,11 @@
 #bg BG07b_1
 #wipe fade
 
-"Ah... I see, I used up all the powder with the sweets the other day."
+"Ah... I see, you used up all the flour in the sweets the other day."
 
-A lot of things happened after that, so I completely forgot about it, but I have to go to the village to buy some food soon.
+A lot has happened since then and I've completely forgotten about it, but I have to go to the village to buy some groceries soon.
 
-I think I should buy some more sugar in addition to the powder.
+I think I should buy some more sugar in addition to the flour.
 
 Also, it might be nice to have a little more dried meat...
 
@@ -61,9 +61,9 @@ Also, it might be nice to have a little more dried meat...
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0122
-[Ibara] "What's the matter, Human? Is there something you don't have? I can go and get it for you!"
+[Ibara] "What's the matter, human? Is there something you're missing? I'll go get it for you!"
 
-"I'll take whatever I can, but I don't think I can do anything if it's full of powder."
+"I'll grab what I can, but I don't think there's anything I can do about the powder."
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
@@ -71,65 +71,65 @@ Also, it might be nice to have a little more dried meat...
 #voice ibac0123
 [Ibara] "Powder? The kind you use to make sweets!"
 
-“We don’t just make sweets though.”
+"I don't just make sweets though."
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0124
-[Ibara] "What powder should I get? Are you going to make sweets again?"
+[Ibara] "What kind of powder should I get? Are we making sweets again?!"
 
-Ibara seems to have completely turned his attention to sweets, and can't seem to keep his feet on the ground.
+Ibara seems to be completely focused on the sweets and has lost his feet on the ground.
 
-...Even if it makes my stomach hurt, I guess I like sweets.
+… Really, even if it gives you a stomach ache, you still love sweet things.
 
-“I guess I won’t be able to get powder unless I go to the village to buy it.”
+"I guess I'll have to go to the village to buy some powder."
 
-Everything else is fine, but I have to go to the village and buy sugar, salt, and flour.
+We can manage everything else, but we have to go to the village to buy sugar, salt, and flour.
 
-This is a future issue.
+This is an issue for the future.
 
-It would be nice if we could be self-sufficient, but that requires equipment and fields.
+It would be great if we could become self-sufficient to that extent, but of course we need the equipment and a field to do so.
 
-After all, it might be difficult to do that much in a mountain hut.
+After all, it may be difficult to do that much in a mountain hut.
 
-However, even though I left the village, I still go back to the village to buy things...
+However, it seems a bit silly to have to go back to the village every time you leave to buy things...
 
-Even if you say keep your distance from others, it's not that easy. After all, no matter what, someone else's help will be needed somewhere.
+It's not that easy to distance yourself from others. No matter what, you're going to need help from others at some point.
 
-Ever since I moved to the forest, I've come to realize this to the point that I don't like it.
+Since moving to the forest, I've learned that all too well.
 
-After all, I guess I have to go to town to leave the village.
+I guess I have to go to town to get away from the village after all.
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 #voice ibac0125
-[Ibara] "Do I have to go to the village to buy something? A village is a place where there are a lot of people, right?"
+[Ibara] "So I have to go to the village to buy it? A village is a place with lots of people, right?"
 
-"Yeah. That's why Ibara will ask you to stay at home."
+"Yes. Therefore, Ibara will be staying at home."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0126
-[Ibara] "Okay. I'll do what you ask. Humans are cunning, so be careful, humans."
+[Ibara] "Okay, I'll do as you asked. Humans are cunning, so be careful, humans."
 
-...I'm a human too. Or rather, even though you call me human, are you worried about me?
+...I'm a human too. Or rather, you're calling me a human, yet you're still worried about me.
 
-"Hahaha, I might be lonely by myself, but thank you."
+"Hahaha, it might be lonely, but please be nice to me."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibac0127
-[Ibara] "I don't feel lonely. But you must be lonely by yourself, so come back soon."
+[Ibara] "I'm not lonely. But you're the one who's lonely, so come back soon."
 
 "Okay, I'll be right back."
 
-When he told me to be careful of humans, I felt like he recognized me as one of his friends, so I was happy.
+When he told me to be careful of humans, it made me feel like he recognized me as a member of his team, and I was happy.
 
-I have to finish my shopping quickly and come back.
+I better hurry up and finish my shopping and come back.
 
 ;暗転
 ;#face off
@@ -146,21 +146,21 @@ I have to finish my shopping quickly and come back.
 #bg BG05_1
 #wipe fade
 
-"What... what is this...!?"
+"What on earth is this...?!"
 
-After returning to the village, what greeted me when I returned to my home was, to put it simply, a disaster.
+When I returned to my home on the way back to the village, what greeted me was, in a word, a devastating scene.
 
 When was the last time you went back?
 
-I don't remember every detail very clearly, but I would never have left in such a mess.
+I don't remember every detail too well, but I would never have left the place in such a mess.
 
-The door was opened, and the things I didn't take with me to the mountain hut were scattered on the floor.
+All the doors were opened and everything I hadn't taken to the hut was spilled on the floor.
 
-At first glance, several things are missing. Some furniture was probably destroyed just for fun.
+At first glance, several things were missing, including some furniture that had probably been smashed for fun.
 
-Whether it was anger or fear, something cold welled up from deep within my bones and my hands trembled.
+Perhaps it was anger or fear, but something cold welled up from deep within my bones and my hands began to tremble.
 
-This is...a thief! ?
+This...was it a burglar?!
 
 ;暗転
 ;#face off
@@ -174,31 +174,31 @@ This is...a thief! ?
 #bg BG05_1
 #wipe fade
 
-I was stunned at home for a while, but it wasn't something I could do if I just stood there.
+I was stunned at home for a while, but it wasn't something that was going to change just by standing there.
 
-I tried to keep my cool as much as possible, but it seems like it hasn't been that long since I was robbed.
+I tried to stay as calm as possible, but it seemed like not that long had passed since the burglar broke in.
 
-Some of the valuables she had hidden were safe, but most of her mother's belongings, which had not been hidden and had been stored on shelves, were gone.
+Some of the valuables that had been hidden were safe, but most of my mother's belongings that had not been hidden but simply stored on shelves were gone.
 
-In any case, it seems like half of my house in the village has been abandoned.
+In any case, his home in the village was practically abandoned.
 
-So, even if I give up on the things that were stolen, I have to tell the other people in the village that my house has been robbed and warn them...
+So, even if we give up on the things that were stolen, we need to let the other villagers know that their house had been broken into, and urge them to be on their guard...
 
-Besides, if we left that house as it was, it would become a nuisance for the derelict houses and threaten to disrupt the peace and order of the village.
+Moreover, if the house were left as it was, it would become a hideout for rogues and could upset peace in the village.
 
-It's my fault for neglecting that house.
+It's my fault for leaving that house abandoned.
 
-I have to talk to the person in charge and do something about it, even if it's not going to be destroyed...
+I have to talk to someone important and do something about it, like destroying it or something...
 
-I know there are a lot of things I need to do, but I can't seem to find my feet.
+I know there are a lot of things that need to be done, but I feel unsteady on my feet.
 
-"...For now, let's go back to the cabin for today."
+"...For now, let's go back to the hut."
 
-Calm down, take your time, think about it, and then come back for another consultation.
+Calm down, think about it slowly, and then come back to discuss it again.
 
 "Okay then... just shopping..."
 
-I headed to the miller's shop on unsteady legs.
+I walked unsteadily to the mill.
 
 ;暗転
 ;#face off
@@ -218,57 +218,57 @@ I headed to the miller's shop on unsteady legs.
 "Hello"
 
 #voice okuc0001
-[Miller's Wife] "Oh, it's been a while. What's wrong with you? You look pale. I guess you haven't eaten anything since you've been holed up in the forest."
+[Miller's Wife] "Oh, it's been a while. What's wrong? You look pale. You've been holed up in the woods and haven't had much to eat, have you?"
 
-"N-no... that's okay. However, I just went to my house and it looks like there was a burglary... so..."
+"N-no... it's fine. However, when I went to my house just now, it seems like a burglar broke in... so..."
 
 When I looked up, I noticed something.
 
-There was something familiar about the miller's wife's clothes, and on her chest was a necklace that her mother had treasured.
+The miller's wife's clothes seemed somehow familiar, and she was wearing the necklace that her mother had treasured.
 
 #voice okuc0002
-[Miller's Wife] "Oh no, don't make a fuss. But you're also away from home all the time, so it's your fault."
+[Miller's Wife] "Oh dear, that's scary. But it's your fault for being away from home all the time."
 
-The miller's wife frowned, as if she was blaming me, or rather, as if she was blaming me.
+The miller's wife frowned, as if it were someone else's problem, or rather, as if she was blaming me.
 
 "……that"
 
-I pointed to the miller's wife's chest, hoping I was mistaken.
+Hoping that I was mistaken, I pointed to the miller's wife's chest.
 
 #voice okuc0003
-[Miller's wife] "...huh?"
+[Miller's Wife] "Huh?"
 
-The wife looked down at her chest and was clearly upset.
+His wife looked down at her chest and was clearly flustered.
 
 #voice okuc0004
-[Miller's Wife] "What? ...What do you mean? T-this is...t-no, it's not right!?"
+[Miller's Wife] "What? ... What do you mean? T-this is... T-this is not, that's not it!"
 
 #voice okuc0005
-[Miller's Wife] "I'm bad at asking people what it is. There are so many similar items out there, so it doesn't necessarily mean it's stolen. Excuse me."
+[Miller's wife] "What are you asking? There are loads of similar items out there, so it can't have been stolen. How rude of you."
 
-In which book was it written that there are people who talk a lot when they have something to hide, and people who stay silent?
+Which book was it written that when people have something to hide, there are those who become talkative and those who remain silent?
 
 "……why"
 
 #voice okuc0006
-[Miller's Wife] "I should be grateful. You gave me something that I don't have anyone else to wear. I'm not the only one who received it."
+[Miller's Wife] "You may well be grateful, for I have given you something which no one else has to wear. And I am not the only one who has received it."
 
 #voice okuc0007
-[Miller's Wife] "Even though I bowed my head and asked for it from the beginning, I don't care. That's why I don't think I'll get along well with the people in the village."
+[Miller's wife] "It would have been fine for him to just bow and ask to have some from the start, but he was too stubborn. That's why he doesn't fit in with the villagers."
 
-I didn't even look at his mouth as he talked a lot.
+I watched him talkatively without really paying attention.
 
-I wonder what this person is saying.
+What on earth is this person talking about?
 
-I hadn't heard anything from a while ago, but I realized it from the miller's wife's attitude.
+I hadn't heard a word so far, but I understood from the miller's wife's attitude.
 
-My wife knew that it belonged to my family, so she wore the necklace and clothes without any hesitation.
+My wife knew that I belonged to the family, and she wore the necklace and clothes without a second thought.
 
-And he had no qualms about it until I pointed it out.
+And he didn't feel any qualms about it until I pointed it out.
 
-It wasn't until I pointed it out that I realized that I might be accused of it.
+It was only when I pointed at it that I realized that it might be something to be blamed for.
 
-I realized something from the attitude of the miller's wife...The people who robbed my house, the people who trampled on my house were people from the village.
+The miller's wife's attitude made me realize something...it was people from the village who had burgled my house and trampled on it.
 
 #bgvoice stop
 ;BGMch2 amb001 再生
@@ -286,51 +286,51 @@ I realized something from the attitude of the miller's wife...The people who rob
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0128
-[Ibara] "Ah, human. Welcome back... you're completely blue!? What's going on!?"
+[Ibara] "Hey, human. Welcome back...but you look completely pale! What happened?"
 
-I didn't know where or how I walked, but I returned to the mountain hut without shopping, which was my original purpose.
+I don't know where I walked or how I got there, but I ended up returning to the mountain hut without even doing my original purpose of shopping.
 
-Ibara, who was waiting for me inside the hut, rushes over to me.
+Ibara, who had been waiting for me inside the hut, came running over in a panic.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0129
-[Ibara] "You look terrible!? Were you bullied by someone!? Or by an elf hunter?"
+[Ibara] "You have a terrible look on your face! Have you been bullied by someone? Did you meet an elf hunter?"
 
-Ibara's hand was so warm as he held my shivering, cold hand.
+Ibara's hands were very warm as he held my trembling, cold hands.
 
-"Hahaha, I'm a human, so even if something happens to an elf hunter, I'll be fine."
+"Hahaha, I'm human, so I'll be fine even if I run into an elf hunter."
 
-I should be laughing because it's funny, but I can't help but keep my face drawn.
+I should be laughing because it's funny, but my face just keeps getting all twisted.
 
-...Why am I smiling?
+…Why am I laughing?
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0130
-[Ibara] "Ah, I see... but you look really terrible. What happened? Are you sick again? Did you get hurt?"
+[Ibara] "Ah, I see... But you look really awful. What happened? Are you sick again? Are you injured?"
 
 "..."
 
-I shook my head silently.
+I shook my head in silence.
 
-"I'm not injured or sick...so I'm fine."
+"I'm not injured or sick... so I'm fine."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0131
-[Ibara] “You don’t look okay!?”
+[Ibara] "Hey, you don't look all right!?"
 
-"Hold on...I'll explain...Could you give me some time?"
+"Just a moment... wait... I'll explain... could you give me a little time?"
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0132
-[Ibara] "Ah, uh, yeah...I-I understand...but."
+[Ibara] "Uh, yeah... I understand... but..."
 
 ;CHR OFF
 #cg all clear
@@ -346,131 +346,131 @@ I shook my head silently.
 #bg BG07b_1
 #wipe fade
 
-Perhaps because I was asking him to give me time, Ibara distanced himself from me and sat down in the corner of the room.
+Perhaps because I asked him to give me time, Ibara distanced himself from me and sat down in the corner of the room.
 
-Ibara glances at me, as if to say something, as I sit down in my chair.
+As I sat exhausted in the chair, Ibara glanced at me as if he wanted to say something.
 
-I'm worried about you, so I have to give you a proper explanation... I'm sure you're worried.
+I know I'm causing her worry, so I have to explain things properly...but I'm still worried.
 
 I took a deep breath.
 
-"...I was robbed."
+"...It was broken into by a burglar."
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0133
-[Ibara] "A thief!? I was right here! I was here protecting this hut!?"
+[Ibara] "Thief?! I was right here, guarding this hut!"
 
-"No, my house is in the village."
+"No, it's the house in the village."
 
-I then explained that my house had been ransacked, and that the miller's wife had taken what had been stolen.
+I then explained that my house had been ransacked, and that the miller's wife had been wearing the items that had been stolen.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0134
-[Ibara] "...I don't understand. So, did Human look like he was about to die?"
+[Ibara] "...I don't understand. So, did the human look like he was about to die?"
 
 "picture?"
 
 I couldn't help but look up at the unexpected words that came back to me.
 
-Ibara looked blank, as if he really didn't understand it at all.
+Ibara looked puzzled, as if he really didn't understand anything at all.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0135
-[Ibara] "Whatever you don't wear is common to everyone, right? Well, if the miller's wife wore it, then it belonged to her, right?"
+[Ibara] "What is not worn belongs to everyone, right? If this miller's wife wears it, then it belongs to her, right?"
 
 "..."
 
-Somewhere along the line, I must have believed that Ibara would be angry with me.
+I guess somewhere deep down I believed that Ibara would be angry along with me.
 
-I couldn't quite understand what Ibara was saying.
+I didn't really understand what Ibarra was saying.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 #voice ibac0136
-[Ibara] "If you could own things forever without managing them, wouldn't there be people who would collect everything? Then wouldn't it be a nuisance?"
+[Ibara] "If you could keep things that you no longer control, wouldn't there be people who collected everything? That would be a nuisance."
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0137
-[Ibara] “What are you going to do with more than you have?”
+[Ibara] "What's the point of having more than you can handle?"
 
-The pure question, which was different from the insults that came from the miller's wife's guilt, finally reminded me that common sense and such things were different from Ibara.
+The miller's wife's innocent question, rather than the insults she was hurling at me out of guilt, finally reminded me that Ibara and I have a different idea of common sense and such.
 
-That's it. Elves and humans have different promises to keep.
+That's right. Elves and humans have different promises to keep.
 
-According to elven common sense, if you let go of something, you no longer own it.
+According to Elven common sense, once something is let go, it is no longer in your possession.
 
-According to human common sense, ownership does not disappear just by letting go of something.
+According to human common sense, ownership does not disappear just because you let go of something.
 
-On the contrary, what belongs to the parents becomes the child's property, and once something is acquired by paying money for it, it remains the property of the person who paid for it.
+On the contrary, what belongs to the parents becomes the child's, and once something is acquired with money, it always belongs to the person who paid for it.
 
-However, sometimes humans do not take the steps to give or receive something and instead try to take something from someone else that they do not have the right to own.
+However, sometimes people bypass the process of giving and receiving things and try to take things from others that they do not own.
 
-"..."
+"Huh..."
 
 I cover my face.
 
-I was so embarrassed to be human.
+I felt so ashamed to be a human being.
 
-I was ashamed of myself for clinging to something I should have let go of, and for the people in the village who took away something I had never given up ownership of.
+I felt ashamed of myself for clinging to something I had supposedly let go of, and ashamed of the villagers who had taken something that I had not handed over ownership to.
 
 It's no wonder that elves look down on humans.
 
-Humans are so ugly.
+How ugly humans are.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0138
-[Ibara] “Hey, what’s wrong with you?”
+[Ibara] "Hey, what's wrong, human?"
 
-Ibara looks worriedly into my face.
+Ibara looks at me with a worried look on her face.
 
-"...If I had truly understood from the beginning that what I let go of was no longer mine, I might not have been so disappointed..."
+"...If I had truly realized from the beginning that what I let go of wasn't mine anymore, maybe I wouldn't have been so disappointed..."
 
-He thought he was going to put on a good name and abandon the village, but when he realized that he hadn't abandoned anything at all, he let out a deep sigh.
+He had thought he'd planned to abandon the village to look cool, but when he was confronted with the fact that he hadn't actually thrown anything away, he let out a deep sigh.
 
-I'm not completely convinced, but even I was greedy, believing that even the things I couldn't carry were mine.
+I don't fully accept it, but I was greedy for believing that something I couldn't even possess was mine.
 
-"That's right. If it's something important, you should have kept it on your person instead of leaving it."
+"That's right. If it was something important to you, you shouldn't have left it behind. You should have carried it with you or done something about it."
 
-If he had really intended to abandon the village, he should have started traveling instead of half-heartedly moving to a location closer to the village.
+If he really had intended to abandon the village, he should have just set off on a journey instead of moving to a place so half-way close to the village.
 
-It would have been better to sell the whole house in the village, not just the livestock, or give it to someone else.
+We should have sold or given away everything, not just our houses and livestock, to others.
 
-It's unbecoming to pretend to be a hermit, leaving behind a home to return to.
+How shameful to leave a home to return to and think of myself as a hermit.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 #voice ibac0139
-[Ibara] “What are you saying so obviously?”
+[Ibara] "What obvious thing are you saying?"
 
-Ibara tilts his head as if to say he doesn't understand.
+Ibara tilted his head as if he didn't understand.
 
-"I'm sorry. I'm an idiot, so I didn't realize how obvious it was until Ibara told me about it."
+"Sorry. I'm an idiot, so I didn't realize that obvious fact until Ibara told me."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0140
-[Ibara] "I see, but if you realize it after being taught, you're not an idiot! After all, it's normal for you not to know at first."
+[Ibara] "I see, but if you realized it after being told, then you're not stupid! It's normal not to know something at first."
 
-Ibara proudly puffed out his chest, then looked worried again.
+Ibarra puffed out his chest in pride, then his face turned worried again.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0141
-[Ibara] "...Why do you still have that look on your face even though you now know what you didn't know?"
+[Ibara] "...Why are you still looking like that when you know something you didn't know?"
 
 "Humans can't change their mood that easily."
 
@@ -478,59 +478,59 @@ Ibara proudly puffed out his chest, then looked worried again.
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0142
-[Ibara] "I see. Unless you're sick or in some kind of pain, I don't have to worry about you, right?"
+[Ibara] "I see. As long as you're not feeling sick or in pain somewhere, then I don't need to worry about you, right?"
 
-"Yeah. Sorry for making you worry."
+"Yeah. Sorry for worrying you."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0143
-[Ibara] “…Uh”
+[Ibara] "...Hmm"
 
-Ibara is still looking up at me as if he wants to say something.
+Ibara still looked up at me as if he wanted to say something.
 
-"That's right. I brought the things that weren't stolen here. I thought Ibara would be happy."
+"That's right. I brought over here the things that weren't stolen. I thought Ibara would be happy."
 
-I took out the Jimeikoto, which was a decorated jewelry box, from my closet and handed it to Ibara.
+I took out a lyre, an ornate jewelry box, from the cupboard and handed it to Ibara.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0144
-[Ibara] "Wow!? It's beautiful! What is this box, are you using it to store treasure?"
+[Ibara] "Oh! It's beautiful! What is this box? Is it used to store treasure?"
 
-"Turn the spring on the side and open the lid."
+"Turn the spring next to it and open the lid."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0145
-[Ibara] "Turn the mainspring... open the lid..."
+[Ibara] "Turn the spring... and open the lid..."
 
-Ibara gingerly turned the mainspring and opened the lid as instructed, and the jiming koto began to play with a lovely sound.
+Ibara cautiously did as he was told, turned the spring and opened the lid, and the lyre began to play, making a lovely sound.
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0146
-[Ibara] "Wow, wow... this box is going to sing! What kind of magic is this?"
+[Ibara] "Wow, wow... This box is going to sing! What kind of magic is this?"
 
-"Please call this a self-harming harp. It's not magic, it's made of a spring that spins a tube with claws that bounces off this piece of metal."
+"This is called a lyre. It's not magic; it uses a spring to turn this tube with the claws, which then plays this metal piece over here."
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0147
-[Ibara] "Wow...this is amazing, it makes such a beautiful sound!"
+[Ibara] "Wow... this is amazing, it makes a beautiful sound!"
 
-``This is a keepsake of my mother, but I hid it carefully so it wouldn't be found, so it didn't get stolen.''
+"This is a keepsake from my mother, but I carefully hid it so it wasn't stolen."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 #voice ibac0148
-[Ibara] “The box is beautiful, the song is beautiful, and it’s perfect for me!”
+[Ibara] "The box is beautiful, the song is beautiful, it suits me!"
 
 "If you like, I'll give it to you."
 
@@ -538,37 +538,37 @@ Ibara gingerly turned the mainspring and opened the lid as instructed, and the j
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0149
-[Ibara] "Huh? Are you going to give it to me? Yay!"
+[Ibara] "Eh? You're giving it to me? Yay!"
 
-Ibara began to spin around as if dancing, holding the koto like a treasure.
+Holding the lyre like a treasure, Ibara began to spin around as if dancing.
 
-It was like a trick puppet dancing while the music played.
+It was like a cunning doll dancing while the sound was playing.
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 #voice ibac0150
-[Ibara] “…ha!?”
+[Ibara] "Huh?!"
 
-When the mainspring broke and the sound stopped, Ibara turned towards me as if he had been struck.
+When the spring broke and the sound stopped, Ibara turned towards me as if he had been bounced.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 #voice ibac0151
-[Ibara] "But...didn't you hate having your things taken away? Isn't that what you said earlier?"
+[Ibara] "B-But... wouldn't humans hate having their things taken away? That's what you said earlier, right?"
 
-Ibara asked worriedly, even though he was hugging her tightly as if to say he wouldn't give her back.
+Even though he was holding her tightly as if to say he wasn't going to give it back, Ibara asked with a worried look on his face.
 
-"Okay. I'll give it to you. I brought it with the intention of giving it to Ibarra."
+"All right. I'll give it to you. I brought it to give to Ibara."
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibac0152
-[Ibara] "I-I see...Then I got it! This box is mine!"
+[Ibara] "I-I see... Then I've got it! This box is mine!"
 
-Ibara happily rolled up the spring and danced around. They danced around happily.
+Ibara happily wound up the spring and spun around and around. He spun around and around happily.
 
 ;di03へ
 #next di03_1

@@ -23,23 +23,23 @@
 #bg BG07b_3
 #wipe fade
 
-I suddenly woke up.
+I woke up with a start.
 
-The fever is still high and my head feels dizzy.
+My head feels fuzzy, probably because my fever is still high.
 
-I feel like I was deterred until just before, but I don't know what kind of dream I was having.
+I feel like I was having a nightmare just before, but I'm not sure what kind of dream I was having.
 
-Rather, it was so unrealistic that I thought I was still dreaming.
+In fact, it felt so unreal that I wondered if I was still dreaming.
 
-The inside of the hut appears to be wobbly and distorted.
+The inside of the hut appears wobbly and distorted.
 
-"Ah... I'm thirsty."
+"Ahh... I'm thirsty."
 
-Perhaps he coughed a lot while he was sleeping, and his muttering voice sounded hoarse and sounded like someone else's.
+He must have coughed a lot in his sleep, because his mutterings were hoarse and sounded like someone else's.
 
-My lips are dry and cracked, and not only my lips but also my skin feels dry.
+My lips feel dry and cracked, and it even feels like my skin is dry, not just my lips.
 
-"Wake up, huh..."
+"Wake up, huh...?"
 
 ;※画面ゆれ
 ;※※shake命令もありますが、転んだ時のような瞬間的な揺れのような効果なので、
@@ -58,19 +58,19 @@ My lips are dry and cracked, and not only my lips but also my skin feels dry.
 #move bg 0 0 100
 #move bg wait
 
-move bg [x move] [y move] [time]
+"Uha... that was close..."
 
-"Uha... Dangerous..."
+Just sitting up to get a drink of water made me dizzy.
 
-I felt dizzy just by sitting up to drink water.
+I woke up, but I still felt unwell.
 
-I woke up, but it seems that I'm still not feeling well.
+Although I managed to sit up, my body felt wobbly when I tried to support it.
 
-It's good that you raised your body, but if you support your raised body, it's going to be a wobbly disposal.
+It's going to be a lot of work just to get a drink of water... I might just have to crawl to the water jug.
 
-It's a job until I go to drink water... I might have no choice but to crawl to the water jug.
+Damn, just moving my body is so hard.
 
-Damn it, just moving my body is so hard.
+Panting, I had just put my feet down from the bed when I heard the door creak open.
 
 ;髪下ろし=>立ち絵パターン制限のため保留
 
@@ -81,13 +81,13 @@ Damn it, just moving my body is so hard.
 ;TKface
 
 #voice tikb0493
-As I put my feet down from the bed, gasping for breath, I heard the sound of the door opening.
-
-[Tsukiyo] "Ningen-san, are you feeling better now?"
+[Tsukiyo] "Human, are you feeling better now?"
 
 Tsukiyo tilted his head timidly and anxiously.
 
-"It's okay... No, it's still tough."
+"It's okay... No, it's still tight."
+
+Although I initially replied that I was fine, when I honestly told him that I was still not feeling well, Tsukiyo began to panic.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -96,9 +96,9 @@ Tsukiyo tilted his head timidly and anxiously.
 ;TKface
 
 #voice tikb0494
-Although he answered that he was fine for a while, when he honestly told him that he was still not feeling well, Tsukiyo began to get flustered.
+[Tsukiyo] "Well, well, I need to get some water...to cool my head...and something to warm me up..."
 
-[Tsukiyo] "Um, um, draw water... to cool your head... something to keep you warm..."
+"Oh, sorry. If you're going to get water, I'd like some drinking water as well."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -107,21 +107,21 @@ Although he answered that he was fine for a while, when he honestly told him tha
 ;TKface
 
 #voice tikb0495
-"Oh, sorry. If you're going to draw water, I'll ask for drinking water as well."
+[Tsukiyo] "Yes."
 
-[Tsukiyo] "Yes"
+Tsukiyo quickly went and got me a bowl of water.
 
-Tsukiyo hurriedly fetched a bowl of water.
+I drank the water in one gulp.
 
-I drank the water in one breath.
-
-The lukewarm water is cool and sweet to the thirsty throat, and permeates throughout the body.
+The lukewarm water is cool and sweet to my parched throat, seeping into my entire body.
 
 "Phew..."
 
-After I drank some water and felt comfortable, I noticed that my clothes were clinging to my body.
+After drinking some water and feeling more comfortable, I noticed that my clothes were sticking tightly to my body.
 
-The heat made me sweat all over. Heavy and damp enough to wring out clothes.
+The heat had me completely covered in sweat, my clothes so heavy and damp I could wring them out.
+
+With all that sweating, it's no wonder you're thirsty.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -130,9 +130,9 @@ The heat made me sweat all over. Heavy and damp enough to wring out clothes.
 ;TKface
 
 #voice tikb0496
-If you're sweating this much, you're naturally thirsty.
-
 [Tsukiyo] "Do you need more water?"
+
+"Water is fine, but could you please bring me a change of clothes and something to wipe off sweat?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -141,11 +141,11 @@ If you're sweating this much, you're naturally thirsty.
 ;TKface
 
 #voice tikb0497
-“I already have enough water, but can I have you bring me a change of clothes and something to wipe my sweat with?”
+[Tsukiyo] "Yes."
 
-[Tsukiyo] "Yes"
+Tsukiyo immediately prepared a bucket of water, something to wipe my body with, and a change of clothes.
 
-Tsukiyo immediately prepared a water bucket, something to wipe my body, and a change of clothes.
+"thank you"
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -154,9 +154,9 @@ Tsukiyo immediately prepared a water bucket, something to wipe my body, and a ch
 ;TKface
 
 #voice tikb0498
-"Thank you"
-
 [Tsukiyo] "No, it is."
+
+Tsukiyo smiled and tilted her head, probably happy to have been of help.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -165,11 +165,11 @@ Tsukiyo immediately prepared a water bucket, something to wipe my body, and a ch
 ;TKface
 
 #voice tikb0499
-Tsukiyo smiled and nodded his head as if he was happy to be of help.
-
-[Tsukiyo] "Will you help me?"
+[Tsukiyo] "Can I help you?"
 
 "No, that's fine. Thank you very much."
+
+After wetting it with water, he wrung it out and used it to lightly wipe my face and neck. Then, when he tried to wipe my body...
 
 ;※画面揺れ
 
@@ -180,7 +180,7 @@ Tsukiyo smiled and nodded his head as if he was happy to be of help.
 #move bg 0 0 100
 #move bg wait
 
-After soaking it in water, he wringed it out, then gently wiped his face and the nape of his neck. And then I tried to wipe my body...
+"Oops……!?"
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -189,23 +189,23 @@ After soaking it in water, he wringed it out, then gently wiped his face and the
 ;TKface
 
 #voice tikb0500
-"husband……!?"
+[Tsukiyo] "Huh!?"
 
-[Tsukiyo] "Wow!?"
+My body shook violently.
 
-My body shook with a wobble.
+Tsukiyo rushes over in a panic.
 
 #voice tikb0501
-Tsukiyo rushes over.
+[Tsukiyo] "M-Don't push yourself!"
 
-[Tsukiyo] "Well, don't overdo it!"
+"No, I can't... with all this sweat, if I don't wipe it off and get changed, my cold will get worse."
 
 #voice tikb0502
-"No, it's impossible... If you're sweating this much, you'll get a cold if you don't wipe it off and change clothes."
+[Tsukiyo] "But, he was staggering."
 
-[Tsukiyo] "But I was staggering."
+"I just felt a bit dizzy, so there's nothing to be worried about."
 
-"It's just a little dizzy, so don't worry too much."
+Well, I'm not really sure if it's okay...
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -214,9 +214,9 @@ Tsukiyo rushes over.
 ;TKface
 
 #voice tikb0503
-No, I'm not sure if it's all right, but...
-
 [Tsukiyo] "But... I'm worried."
+
+Tsukiyo said that and looked up at me as if she had made up her mind.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -225,13 +225,13 @@ No, I'm not sure if it's all right, but...
 ;TKface
 
 #voice tikb0504
-Tsukiyo looked up at me as if he had made up his mind.
+[Tsukiyo] "I'll wipe it for you if you want. Then I can wipe your back too."
 
-[Tsukiyo] "If you don't mind, I'll wipe it for you. Then I can wipe your back."
+Tsukiyo looked serious and, without waiting for a reply, took the dishcloth from my hand.
 
-Tsukiyo made a serious face and took the cloth from my hand without waiting for an answer.
+…I guess it would be best to just accept his kindness.
 
-…… I guess it would be better to be frankly spoiled by goodwill here.
+"Okay then. I'll leave it to you. Thank you."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -240,7 +240,7 @@ Tsukiyo made a serious face and took the cloth from my hand without waiting for 
 ;TKface
 
 #voice tikb0505
-"Okay. Then I'll ask you. Thank you."
+[Tsukiyo] "Leave it to me."
 
 ;ツキヨ立ち絵消し
 
@@ -248,15 +248,15 @@ Tsukiyo made a serious face and took the cloth from my hand without waiting for 
 #cg all clear
 #wipe fade
 
-[Tsukiyo] "Leave it to me."
+Tsukiyo went around to my back and wiped it carefully.
 
 ;FACE T01F_L
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0506
-Tsukiyo went around my back and carefully wiped me.
-
 [Tsukiyo] "Yes, please raise your arms."
+
+"yes"
 
 ;ツキヨ立ち絵表示
 
@@ -266,9 +266,9 @@ Tsukiyo went around my back and carefully wiped me.
 #face f_tuk_0_01f_l 94 466
 ;TKface
 
-"yes"
+I feel somehow embarrassed to be taken care of by someone else like this.
 
-It's kind of embarrassing to take care of others like this.
+It's like I'm old.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -277,19 +277,19 @@ It's kind of embarrassing to take care of others like this.
 ;TKface
 
 #voice tikb0507
-It's like old.
+[Tsukiyo] "Is there anywhere that itches?"
 
-[Tsukiyo] "Are there any itchy spots?"
+Tsukiyo, who had gone around in front of me, was diligently wiping my body, so I couldn't really say that I could wipe that spot myself.
 
-Tsukiyo, who went around before, eagerly wipes my body, so it's hard to say that I can wipe it myself.
+"Ah, ah..."
 
-"Ah..."
+Tsukiyo's hair, which is not tied up today, tickles my bare skin repeatedly, making me feel strange.
 
-Today, Tsukiyo's untied hair tickles her bare skin over and over, giving her a strange feeling.
+What was I thinking when I was being taken care of like this?
 
-What am I thinking when I'm indebted to you like this?
+"I'm sorry I couldn't tie your hair up today, Tsukiyo."
 
-"I'm sorry I couldn't tie your hair today, Tsukiyo."
+I looked away to clear away the indecent thoughts that kept popping up and disappearing.
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -298,17 +298,17 @@ What am I thinking when I'm indebted to you like this?
 ;TKface
 
 #voice tikb0508
-I averted my eyes in order to negate the unscrupulous thoughts that floated and disappeared.
+[Tsukiyo] "It's okay. I'm practicing hard. I'm getting good at tying my own hair."
 
-[Tsukiyo] "It's okay. I'm practicing hard. I'm getting better at tying my own hair."
+Tsukiyo looks up at me and smiles bravely.
 
-Smiling, Tsukiyo looked up at me and laughed heartily.
+Thump.
 
-Dokun.
+My heart pounded as I looked up at him.
 
-My heart throbs at the gaze I look up at.
+Tsukiyo, unaware of my agitation, washes the cloth she used to wipe away my sweat in a bucket, wrings it out, and busily wipes my body.
 
-Tsukiyo, ignoring my turmoil, wipes off the sweat with a cloth, wash it in a pail, wring it out, and wipes my body diligently.
+The gentle sensation of his hand wiping her skin only made the nasty thoughts grow.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -317,9 +317,9 @@ Tsukiyo, ignoring my turmoil, wipes off the sweat with a cloth, wash it in a pai
 ;TKface
 
 #voice tikb0509
-The feeling of gently wiping your skin will also make you feel bad.
+[Tsukiyo] "You're sweating a lot. I'm sure you'll get better soon. That's good."
 
-[Tsukiyo] "I'm sweating a lot. I'm sure it will get better soon. I'm glad."
+"...Ah, yeah...that's right. By the way, what happened to Hinata and the others?"
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -328,13 +328,13 @@ The feeling of gently wiping your skin will also make you feel bad.
 ;TKface
 
 #voice tikb0510
-"... Ah, ah... that's right. By the way, what happened to Hinata and the others?"
+[Tsukiyo] "I read that when you have a cold, it's important to sweat a lot and rest. So I promised myself I wouldn't come today."
 
-[Tsukiyo] "It was written that it is important to sweat a lot and rest when you have a cold. That's why I promised you not to come today."
+"I see..."
 
-"Really……"
+Well, if everyone was there it would be so noisy it would be impossible to rest.
 
-Well, if everyone was there, it would probably be too noisy to rest.
+Considering that, it's a welcome promise.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -343,17 +343,17 @@ Well, if everyone was there, it would probably be too noisy to rest.
 ;TKface
 
 #voice tikb0511
-Considering that, it's a welcome promise.
+[Tsukiyo] "Everyone was feeling lonely. So, I need to get better soon."
 
-[Tsukiyo] "Everyone was lonely. That's why I have to get well soon."
+"Yeah... that's true."
 
-"Yeah... that's right."
+I let my guard down. The soft, sweet voice made me look Tsukiyo straight in the eyes.
 
-I was careless. I couldn't help but look straight into Tsukiyo's eyes at the soft and sweet voice.
+Tsukiyo smiled brightly as his eyes met mine.
 
-Tsukiyo smiled brightly because his eyes met mine.
+The delicate sensation of having the body wiped with a wet cloth and the composition of being looked up at from below strongly stimulate the sexual urge and cause the corpus cavernosum to become engorged with blood.
 
-The subtle feeling of being wiped with a wet cloth and the composition of looking up from below remarkably stimulates sexual impulses and congests the corpus cavernosum.
+...Ahh, bad, bad, I'm fully erect.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -362,15 +362,15 @@ The subtle feeling of being wiped with a wet cloth and the composition of lookin
 ;TKface
 
 #voice tikb0512
-…… Ah, not good, I got a complete erection.
+[Tsukiyo] "I also wipe my feet."
 
-[Tsukiyo] "Wipe your feet too."
+"Huh...? Ah, wait..."
 
 ;SE
 
-"Huh...? Oh, hey, wait..."
+While I was admiring Tsukiyo's smile, he suddenly slid his slippers down and his erect penis popped out.
 
-When I was fascinated by Tsukiyo's smile, my underwear suddenly slipped down and my erect meat spear popped out.
+Even though he's feeling really sick, that one person is full of energy and doesn't seem to notice the atmosphere.
 
 ;立ち絵表示なし
 ;MCK
@@ -382,17 +382,17 @@ When I was fascinated by Tsukiyo's smile, my underwear suddenly slipped down and
 #face f_tuk_0_05f_l 94 466
 
 #voice tikb0513
-Even though I'm not feeling so well, that's the only place where I can't read the atmosphere and I'm full of energy.
+[Tsukiyo] "Nn...nn..."
 
-[Tsukiyo] "Nsho... Nsho..."
+Tsukiyo doesn't seem to be fazed by the fully erect penis, carefully wiping it down from the base to the back of the balls.
 
-Tsukiyo is not particularly confused by the fully erect meat stick, and carefully wipes the roots and the back of the ball.
+His gentle, caring touch made him feel a bit uncomfortable even though he was feverish, but his cock grew harder and harder from the stimulation it was giving him.
 
-Even though I remembered something unbearable even though I was floating in the heat with a gentle hand full of compassion, my cock became more and more mad at the stimulation given.
+"...ahh..."
 
-"... huh..."
+I want you to stroke me with those soft hands.
 
-I want you to rub me with that soft hand.
+I couldn't help but breathe heavily.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -401,11 +401,11 @@ I want you to rub me with that soft hand.
 ;TKface
 
 #voice tikb0514
-I can't help but gasp.
+[Tsukiyo] "Your penis is rock hard. Do you want to ejaculate?"
 
-[Tsukiyo] "Your penis is getting hard....Do you want to cum?"
+As I began to harden and throb, Tsukiyo finally stopped his hands for a moment and looked up at me.
 
-Tsukiyo stopped his hand for a while and looked up at me, who started to pulse hard.
+"Uh, yeah... sorry, but Tsukiyo, could you help me?"
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -414,9 +414,9 @@ Tsukiyo stopped his hand for a while and looked up at me, who started to pulse h
 ;TKface
 
 #voice tikb0515
-"Uh, yeah... I'm sorry, but can you help Tsukiyo?"
+[Tsukiyo] "Yes, I'll help you."
 
-[Tsukiyo] "Yes, I will help you."
+Tsukiyo gingerly placed her hand on my erect penis to support it.
 
 ;CHR OFF
 #cg all clear
@@ -440,238 +440,238 @@ Tsukiyo stopped his hand for a while and looked up at me, who started to pulse h
 #cg イベント ev027a1 背景
 #wipe fade
 
-Tsukiyo cautiously placed his hand on my erection to support it.
+My wish came true and my cock was now touched directly, and it was trembling with joy.
 
-My cock, which was touched directly after my wish came true, is swaying happily.
+"Hmm..."
 
-"Haa..."
+Just the feeling of his hands is so good that it makes me sigh.
 
 #voice tikb0516
-It feels so good that you can sigh just by the touch of your hand.
+[Tsukiyo] "W-what should I do?"
 
-[Tsukiyo] "What should I do?"
+"Try something that would feel good if done to you."
 
 #voice tikb0517
-"Try to do something that feels good when Tsukiyo is done."
+[Tsukiyo] "B-but... the size and shape are different... but..."
 
-[Tsukiyo] "But... the size and shape are different... but..."
+Tsukiyo hesitated, but gently opened his mouth and licked the tip.
 
-Tsukiyo hesitantly opened his mouth and licked the tip.
+"Eh...?"
 
 #voice tikb0518
-"eh……?"
+[Tsukiyo] "Mmmm... lick..."
 
-[Tsukiyo] "Hmm... perro..."
+When Tsukiyo opens her mouth, her small fang-like crooked teeth are visible.
 
-When Tsukiyo opens his mouth, you can see small fang-like double teeth.
+The moment I saw it, a chill rose up from the bottom of my body.
 
-The moment I saw that, a thrilling thing welled up from my lower body.
+The vision of being torn apart by Tsukiyo's small fangs and having your blood sucked out.
 
-A phantom that is torn apart by Tsukiyo's small fangs and sucks its blood.
+Maybe it's because of the fever that I'm thinking that if I can become Tsukiyo's, then maybe it wouldn't be so bad.
 
 #voice tikb0519
-Is it because of the fever that I think that if I can become Tsukiyo's, that might not be a bad thing?
+[Tsukiyo] "Mmmm...slurp...slurp...suck...mmmm...lick..."
 
-[Tsukiyo] "Hmm... chuh... chup... chuk... hmm... rero..."
+Contrary to my fantasy, Tsukiyo was lovingly kissing my cock repeatedly.
 
-Contrary to my delusion, Tsukiyo repeatedly kisses his cock lovingly.
+The frustrating stimulation is gentle, and it inexplicably sharpens your senses.
 
 #voice tikb0520
-The frustrating stimulation is gentle, and it sharpens the senses sharply.
+[Tsukiyo] "Lick... slurp slurp... haah... smooch... slurp..."
 
-[Tsukiyo] "Rero... chup chup... hah... chuu... chup..."
+Little by little the contact area of her lips became larger and the time of contact became longer, until eventually she began to lick, entwining her pale pink tongue.
 
 #voice tikb0521
-Little by little, the grounding area of my lips widened, the contact time became longer, and before long I began to lick it with my thin pink tongue.
+[Tsukiyo] "Lick... lick... hah... mmm... slurp... does it feel good?"
 
-[Tsukiyo] "Rero... pero... hafu... amu... churu... it feels good, doesn't it?"
+"Yeah, it feels really good."
 
 #cg イベント ev027a3 背景
 #wipe fade
 
 #voice tikb0522
-"Yeah, it feels great."
+[Tsukiyo] "It feels good when you lick here...slurp...lick...lick..."
 
-[Tsukiyo] "Here, when you lick it, it feels good... churu... rero... pero..."
+Tsukiyo spread her tongue and wrapped it around the underside of her penis, licking it up.
 
-Tsukiyo wrapped his spread tongue around the back streak and licked it.
+"Ugh..."
 
 #voice tikb0523
-"Uh..."
+[Tsukiyo] "...Ah...the shapes are completely different...squeak...but, does it feel the same?"
 
-[Tsukiyo] "... Huh... The shape is completely different... Chuck... But are the pleasant parts the same?"
+“Ah… the shape isn’t completely different either. Tsukiyo’s is just covered in skin, and if you peeled that skin off it would look something like this.”
 
 #voice tikb0524
-"Ah... the shape isn't completely different either. Tsukiyo's is still covered with skin, and if you peel the skin off, it should look like this."
+[Tsukiyo] "So, does it feel good when you rub the skin? ...Amm...mm."
 
-[Tsukiyo] "Then, does it feel good when you rub on your skin?
+Tsukiyo took the slightly loose skin under the glans between her lips and moved it as if stroking the glans and the underside.
 
-Tsukiyo pinched the slightly slack skin under the glans between his lips and moved the glans and back streaks in a squeezing motion.
+"...Ah...ah...that's good..."
 
 #voice tikb0525
-"... ah... ah... that's good..."
+[Tsukiyo] "Which do you prefer, smooch... puff... or lick?"
 
-[Tsukiyo] "Which would you prefer, chu... puha... licking?"
+"Both, I guess..."
 
 #cg イベント ev027b1 背景
 #wipe fade
 
 #voice tikb0526
-"Both, I guess..."
+[Tsukiyo] "Well, I'll try my best with the licking too... mmm... slurp... slurp slurp... lick... slurp..."
 
-[Tsukiyo] "Well then, I'll do my best too...n...jup...chupchupchup...chukh...perot...chupp..."
+As expected, the whole thing couldn't fit in her mouth, so she took just the head of my penis into her mouth and sucked it, stimulating it with her lips and tongue.
 #voice tikb0527
-As expected, I couldn't put all of it in my mouth, so I put only the glans in my mouth and added stimulation with my lips and tongue to suck it out.
+[Tsukiyo] "Hmm... kiss... lick... slurp slurp... hum hum..."
 
-[Tsukiyo] "Fam... chuu... rero... chuku chuku... hum ham mu..."
+It feels so good to be enveloped in a warm mouth.
 
 #voice tikb0528
-It feels good to be wrapped in a warm mouth.
+[Tsukiyo] "Aah... haah... kummm... mmm... slurp... mmm... ahhh..."
 
-[Tsukiyo] "Ah... Hap... Kumuu... Nku... Juru... Hmm... Puhaa..."
+"Tsk..."
 
-"Tsu..."
+My double tooth is caught at the base of my penis, causing a slight pain.
 
 #voice tikb0529
-My double teeth got stuck in my neck and I felt a faint pain.
+[Tsukiyo] "Ahh, I'm sorry. I can't do it as well as I could when you did it for me... Splat... Lick... Lick... Did that hurt? Slurp."
 
-[Tsukiyo] "Oh, I'm sorry. I can't do it as well as I did when I had you do it...picha...perro...rero...was it painful? Puchhu."
+"Oh, no... that's really good..."
 
-"Ah, no... that's really good..."
+Especially after the slight pain I felt afterwards, when he licked there with his soft tongue, I got so excited that my knees almost gave way.
 
 #voice tikb0530
-After a slight pain, when I licked it with my soft tongue, I was so excited that I almost lost my waist.
+[Tsukiyo] "Slurp... Slurp... Is it okay if I keep doing it with my mouth?"
 
-[Tsukiyo] "Nchu... Picha... Do you mind if I continue with my mouth?"
+"Ah... It's fine, I mean, please keep going. Please."
 
 #cg イベント ev027b2 背景
 #wipe fade
 
 #voice tikb0531
-"Ah... I'm fine, or rather, please continue. I'm begging you."
+[Tsukiyo] "Yes. ... Ngh... Mog... Hug... Lick... Slurp..."
 
-[Tsukiyo] “Yes.
+Every time her lips parted to take a breath, the tip of his raging reddish-black penis was glistening with Tsukiyo's saliva, which was unbearably lewd.
 
 #voice tikb0532
-Every time my lips parted to catch my breath, it was irresistibly obscene that the reddish-black tip was shiny with Tsukiyo's saliva.
+[Tsukiyo] "Mmmm... A lot of bitter and salty soup came out... Does it feel good? Slurp..."
 
-[Tsukiyo] "Hmmm... a lot of bitter and salty soup came out... does it feel good? Juru..."
+"Oh, yeah. It feels so good."
 
 #voice tikb0533
-"Ah, yes. It feels great."
+[Tsukiyo] "I'll keep going until I ejaculate... Mmmm... Ah... Slurrrrrrr... Slurp..."
 
-[Tsukiyo] "I will do my best until I ejaculate.
+Tsukiyo's thin, smooth tongue crawled around my thing so tightly that I could almost feel the roughness.
 
 
 #voice tikb0534
-Tsukiyo's thin, smooth tongue crawls around my things so tightly that it almost feels like it's rough.
+[Tsukiyo] "Slurp... slurp slurp... mmm... splat... slurp splat..."
 
-[Tsukiyo] "Chuu... chupchupchup...nku...piccha...chupatchupa..."
+She rubs her generous amount of saliva onto the shaft, spreading it around and then sucking it up again.
 
-Rub plenty of overflowing saliva on the pedicle, spread it out and suck it up again.
+"Ahh..."
 
-"Oh..."
+When I get sucked up, I feel so reluctant that my hips almost rise up along with me.
 
-When it is sucked up, it feels so reluctant that my waist seems to float with it.
+"Huh..."
 
-"..."
+The occasional scratch of her crooked teeth made her senses even more acute, and each time she was hit with a fresh wave of pleasure.
 
 #voice tikb0535
-Occasionally, getting caught in the double teeth made me more sensitive, and each time I was attacked by a fresh pleasure.
+[Tsukiyo] "Slurp...slurp...mmmm..."
 
-[Tsukiyo] "Jupuu... Jurururu... Nku..."
+"Wow... you're really good at this, Tsukiyo."
 
 #voice tikb0536
-"Wow... you're good at it, Tsukiyo."
+[Tsukiyo] "Skillful, huh? I'm remembering the time my penis got eaten and imitating it... That's right... Slurp slurp..."
 
 #cg イベント ev027b1 背景
 #wipe fade
 
-[Tsukiyo] "Is it good? I remember the time when my penis was eaten and imitate it... that's right... chupururururu..."
+Tsukiyo ran her lips along the shaft and then moved to the vagina.
 
 #voice tikb0537
-Tsukiyo put his lips along the rod and changed his position to Fuguri.
+[Tsukiyo] "This place feels good too. Fufu, I'm sweating, so it smells thick and muggy. Smooth... slurp..."
 
-[Tsukiyo] "Here too... heh... it felt good... fufu, I was sweating, so it smells like stuffy stuff.
+He puts each ball into his mouth and licks it as if he were sucking a candy.
 
 #voice tikb0538
-Hold the balls one by one in your mouth and lick them like sucking hard candy.
+[Tsukiyo] "Lick... it's hard... it feels different from a penis, kiss... slurp... it's fun to lick it... kissuuuu..."
 
-[Tsukiyo] "Rero... It's so crunchy... It feels different from a penis, chu... chupa... it's fun to lick it... chuuuuu..."
+While licking the balls, her soft palm was placed on the glans, slowly making circles.
 
 #voice tikb0539
-While licking the ball, the soft palm is placed on the glans and slowly draws a circle.
+[Tsukiyo] "Slurp... the taste... the smell... of a human... when I lick it, I can feel it all... hehe... slurp slurp... lick..."
 
-[Tsukiyo] "Jupu...Ningen-san's taste...smell...if you lick it, you'll feel a lot of it...fufu...chupchupch...rero..."
+She licked the pre-cum off her palm, as if she was being lenient, and then took the entire head of the penis into her mouth again, wrapping it around her mouth.
 
-I licked the endurance juice on my palm as if I was regretting it, and put it in my mouth so as to wrap the whole glans again.
+Whatever couldn't be swallowed was rubbed and squeezed with hands wet with saliva.
 
-Even the portion that I couldn't swallow was rubbed with my hands wet with saliva.
+"...Ugh, ahhh..."
 
 #voice tikb0540
-"... huh, ah..."
+[Tsukiyo] "Slurp... slurppppp... it's slimy. I'll clean it up again later... slurp... slurpppppp..."
 
-[Tsukiyo] "Jupuu... Jyuuuuuu... It's slippery. I'll clean it up again later.
+With the help of my hand movement, it even felt as if the entire rod was being swallowed up.
 
 #voice tikb0541
-With the help of hand movements, it feels as if the entire rod is being swallowed.
+[Tsukiyo] "Nngghh... kugh... slurp... slurp... slurp... slurp slurp..."
 
-[Tsukiyo] "Ngu... Kuuu... Njurururu... Jyupa... Chukchukchuk..."
+In fact, Tsukiyo seemed to be trying to swallow my rod all the way down to the back of her throat.
 
 #voice tikb0542
-In fact, Tsukiyo seems to be trying to swallow my meat rod deep into his throat.
+[Tsukiyo] "Nnggh... ngh... lick, lick... slurp... it feels good in your mouth... nggh... ugh..."
 
-[Tsukiyo] "Nguu... Nhaa... Licking, licking... Chup... It feels good in your mouth... Nguu... Guu..."
+Tsukiyo seemed to be enjoying the elasticity of the head of his penis as he pressed it against the roof of his mouth.
 
 #voice tikb0543
-Tsukiyo seemed to be enjoying the elasticity of the glans as he pressed it against his upper jaw.
+[Tsukiyo] "Ah... my mouth feels so good... it's filled with a strong, sexy smell... haah... haah... haah... hapuu..."
 
-[Tsukiyo] "Hua... It feels good in my mouth... It's full of a strong, yummy smell... Hua... Haa... Haa... Hapu..."
+Tsukiyo's eyes were watery and she hungrily sucked onto my thing.
 
-Tsukiyo's eyes are moist and lusciously sticking to my things.
+The smooth, slippery feeling on the roof of your mouth brings a different kind of pleasure than the roughness of your tongue.
 
 #voice tikb0544
-The smooth and slimy feel of the upper jaw brings a different pleasure from the roughness of the tongue.
+[Tsukiyo] "Slurp... slurp... mmm... smack... slurp... nggh... Your penis is delicious... slurp..."
 
-[Tsukiyo] "Juruu... Jurururururuu... Nku... Pecha... Churu... Nguu... Ochinchin, it's delicious, desuu... Juruu..."
+Tsukiyo rubs the mucous membrane of her mouth against the cock, as if trying to use every corner of it to fully enjoy it.
 #voice tikb0545
-Tsukiyo uses every corner of his mouth to rub the mucous membrane inside his mouth as if he were trying to taste the meat stick.
+[Tsukiyo] "It feels so good when the squishy tip rubs against the top of my chin, and the strong smell reaches my nose... aah... slurp... smooooosh..."
 
-[Tsukiyo] "It feels good when the tip of the tip rubs against the top of my chin, and it smells deep inside my nose.
+Tsukiyo's saliva and my pre-cum, no matter how much I licked it off or sucked it, they just kept overflowing.
 
-Tsukiyo's saliva and my endurance juice, whether I lick it or slurp it, it overflows later.
+Even though Tsukiyo looked to be in pain because she had swallowed it all the way down her throat, she was in ecstasy.
 
 #voice tikb0546
-Tsukiyo was ecstatic even though he seemed to be in pain because he had even swallowed his throat.
+[Tsukiyo] "The bitter-salty soup overflowing from my mouth... is delicious... mmm... let me drink more, more... slurp slurp!"
 
-[Tsukiyo] "The overflowing, bitter and salty soup... it's delicious... nku... more... please let me drink more... jupu jupu!"
+"If you do that roughly, I'll come."
 
 #voice tikb0547
-"Th-that's... if you get violent, I'm going to leave already, okay?"
+[Tsukiyo] "Mmmm... I'm coming out, okay? Slurp... I'm going to ejaculate, okay? Slurp... Once I ejaculate, it's over, right? ...I'm sorry... but... I'm coming."
 
 #voice tikb0548
-[Tsukiyo] "Hmm... I'm going out, right? Chupupuu... I'm going to ejaculate, right? Churu... Ejaculation, then it's over?
+[Tsukiyo] "I can't stop... It feels so good in my mouth, it's so tasty... slurp... I can't stop..."
 
-[Tsukiyo] "I can't stop... It feels good in my mouth, it's delicious... chupa... I can't stop..."
+With my advance notice, Tsukiyo's oral service became even more heated.
 
 #voice tikb0549
-With my notice, Tsukiyo's mouth service became even more heated.
+[Tsukiyo] "Slurp... slurp... lick... slurp... slurp, slurp, slurp!"
 
-[Tsukiyo] "Jup... chupa... reroo... churururururu... jupajupajupa!"
+He attacks with intense movements that seem to say he wants to milk him dry, and he is driven by the desire to ejaculate so much that his vision becomes flickering.
 
-It is driven by violent movements that want to squeeze quickly, and is driven by the desire to ejaculate enough to flicker in front of the eyes.
+"Ahh... I'm really going to come now..."
 
-"Ah... well, if you really want to go..."
+The pleasure was so intense that my legs nearly gave way, and I let out a pathetic cry, even to my own shame.
 
 #voice tikb0550
-I was so overwhelmed with pleasure that I let out a pitiful voice.
+[Tsukiyo] "It's okay if you cum... slurp... slurp... I want to feel the semen in my mouth... slurp... slurp... lick... squish..."
 
 #voice tikb0551
-[Tsukiyo] "It's okay to go... Jup... chup... I want to feel the semen in my mouth too... Jup... chup... Rero... Kuchu..."
+[Tsukiyo] "Haa, haa... Let it all out... slurp slurp... Please let it out... in Tsukiyo's mouth... lots... slurp slurp!"
 
-[Tsukiyo] "Haa, haa... take out a lot... Jurururu... take out, please... Tsukiyo's mouth... full... Jururururururu!"
+Being sucked up with such force, I was forced to let go of the reins on my ejaculation.
 
-Sucked up with a strong force, I reluctantly let go of the reins of ejaculation.
+"And now it's coming out...!"
 
 ;SE
 
@@ -686,60 +686,60 @@ Sucked up with a strong force, I reluctantly let go of the reins of ejaculation.
 #bg BG07b_3
 #wipe fade 300
 
-"So, I'm out...!"
+Poison...!
 
 #voice tikb0552
-Poor...!
+[Tsukiyo] "Slurp!? Cough... Kah...!"
 
-[Tsukiyo] “Njuru!?
+Semen is released with great force, aimed down Tsukiyo's throat.
 
-Semen is released to Tsukiyo's throat vigorously.
+Tsukiyo inhaled it carelessly and choked and coughed.
 
-Tsukiyo, who inadvertently breathed in it, choked and coughed.
+"Ahh! Damn..."
 
 #voice tikb0553
-"Oh! Kuh..."
+[Tsukiyo] "Hya?! Ahh... hyaan...!"
 
-[Tsukiyo] "Huh!?
+Tsukiyo begins coughing and the milky white liquid pours mercilessly onto his face.
 
-A cloudy liquid pours down mercilessly on Tsukiyo's face, who has coughed up.
+Semen splattered all over Tsukiyo's dark, shiny face.
 
 #voice tikb0554
-Semen splattered on Tsukiyo's dark and glossy face.
+[Tsukiyo] "Cough... This, this smells amazing. I'm soaked in semen..."
 
-[Tsukiyo] "Koho... This is amazing, it smells like that. I'm going to be soaked in semen..."
+Tsukiyo had a somewhat ecstatic look on her face as she received my semen.
 
 #cg イベント ev027c2 背景
 #wipe fade
 
 #voice tikb0555
-Tsukiyo was baptized by my semen with an enraptured face.
+[Tsukiyo] "The smell is amazing... my head is getting fuzzy... haaa..."
 
-[Tsukiyo] "It smells amazing... my head is dazed... hafu..."
+"...Haa, haa..."
 
-"... Haa, haa..."
+My ejaculation finally stopped, and in a daze, Tsukiyo, covered in semen, smiled seductively in front of me.
 
 #voice tikb0556
-The ejaculation finally stopped, and in front of me who was in a dazed state, Tsukiyo, who was bathed in semen, smiled charmingly.
+[Tsukiyo] "What a shame. I couldn't take all of your semen in my mouth... *slurp*"
 
-[Tsukiyo] "Unfortunately, I couldn't take all the semen in my mouth... chup..."
+"Hmm?!"
 
-"Hmm!?"
+As the sensitive tip of my penis was sucked onto, I let out a shriek-like cry.
 
 #voice tikb0557
-I let out a shriek as the sensitive tip that just came out sucked me in.
+[Tsukiyo] "It's kind of bitter... kind of... slurp... taste...? But... it's delicious... slurp... I have to clean up the semen properly..."
 
 #voice tikb0558
-[Tsukiyo] "It's kind of astringent...chupu...it tastes...?
+[Tsukiyo] "Slurp... It's slowly becoming squishy and squishy... Slurp... It's getting easier to lick..."
 
-[Tsukiyo] "Jyuru... little by little, it's deflated and squishy... chupaa... it's getting easier to lick..."
+"Ah, ahh... No, any more than that... It hurts right now..."
 
-"Oh, oh... it's no good, more than that... right now, it's painful..."
+Tsukiyo's tongue tries to clean my dirty cock, sending even more pleasure through me, and this time I scream out loud.
 
-With Tsukiyo's tongue trying to clean my dirty cock, I'm sent more pleasure, and this time I scream.
+He felt like he wanted more, but right now he didn't have the physical strength to indulge in the next ejaculation and pleasure.
 
 #voice tikb0559
-I feel like I want more, but right now I don't have the stamina to devour the next ejaculation and pleasure.
+[Tsukiyo] "... *slurp*. What a shame."
 
 ;SMODE 024 STOP
 #endscene
@@ -750,9 +750,9 @@ I feel like I want more, but right now I don't have the stamina to devour the ne
 #bg BG07b_3
 #wipe fade
 
-[Tsukiyo] "...Chuppo. It's a pity."
+Tsukiyo obediently let go, but he had a disappointed look on his face, as if he wanted to do more.
 
-Tsukiyo obediently left me, but maybe he wanted to do more, so he looked disappointed.
+"S-sorry. I think I can do more when I feel better, but... I can't today."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -761,7 +761,7 @@ Tsukiyo obediently left me, but maybe he wanted to do more, so he looked disappo
 ;TKface
 
 #voice tikb0560
-"I-I'm sorry. I think I can do more when I get better, but today, I can't."
+[Tsukiyo] "I understand. I had a cold."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -770,9 +770,9 @@ Tsukiyo obediently left me, but maybe he wanted to do more, so he looked disappo
 ;TKface
 
 #voice tikb0561
-[Tsukiyo] "I understand. I caught a cold."
+[Tsukiyo] "What?! If I'm naked, my cold will get worse?! I need to keep warm?"
 
-[Tsukiyo] "Wow!? If you're naked, you'll get cold!? You have to stay warm!?"
+Tsukiyo came to his senses and with astonishingly quick movements wiped the dirty lower half of my body, changed my clothes, and covered me with the futon.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -781,13 +781,13 @@ Tsukiyo obediently left me, but maybe he wanted to do more, so he looked disappo
 ;TKface
 
 #voice tikb0562
-When Tsukiyo came to his senses, he wiped his dirty lower body with shockingly quick movements, changed me, and covered me with the futon.
+[Tsukiyo] "Phew, I can finally relax."
 
-[Tsukiyo] "Whew, now I'm relieved."
+Tsukiyo places a wrung-out wet cloth on my head and makes a motion to wipe my forehead.
 
-Putting a damp cloth on my head, Tsukiyo pretends to wipe his forehead.
+"Ah... thank you..."
 
-"Ah... Thank you, huh..."
+Perhaps because I had just ejaculated, a feeling of comfortable lethargy and sleepiness came over me.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -796,21 +796,21 @@ Putting a damp cloth on my head, Tsukiyo pretends to wipe his forehead.
 ;TKface
 
 #voice tikb0563
-Perhaps because I finished ejaculating, sleepiness attacked me along with a pleasant lethargic feeling.
+[Tsukiyo] "Are you sleepy?"
 
-[Tsukiyo] "Are you sleeping?"
+"Ah, ah..."
 
 #voice tikb0564
-"Ah..."
+[Tsukiyo] "I've sweated a lot, and if I can get a good night's sleep, I'm sure I'll feel better."
 
-[Tsukiyo] "I'm sweating a lot, and if I can sleep comfortably, I'm sure I'll get better."
+"That's right..."
 
 #voice tikb0565
-"Yes, that's right..."
+[Tsukiyo] "Good night. I'm sure you'll have good dreams..."
 
-[Tsukiyo] "Good night. I'm sure you'll have a nice dream..."
+"yeah……"
 
-"Hmm……"
+Tsukiyo lightly tapped my chest, just like a mother comforting a child to sleep.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -819,9 +819,9 @@ Perhaps because I finished ejaculating, sleepiness attacked me along with a plea
 ;TKface
 
 #voice tikb0566
-Ton, ton, Tsukiyo tapped my chest lightly. Just like when a mother soothes her child and puts her to sleep.
+[Tsukiyo] "If I wake up feeling better tomorrow, then I'll play lots again..."
 
-[Tsukiyo] "Tomorrow, when I wake up and feel better, I'll play a lot again..."
+Tsukiyo's gentle voice was like a lullaby, lulling me into a gentle sleep.
 
 ;ツキヨ好感度+1
 #set f4 f4+1

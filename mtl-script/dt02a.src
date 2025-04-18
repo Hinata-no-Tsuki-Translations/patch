@@ -1,0 +1,180 @@
+
+"...I think that was a bit of an exaggeration."
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0065
+[Tsukiyo] "..."
+
+Tsukiyo bit her lip tightly and tears were streaming down her face.
+
+"Hinata came because she was worried about Tsukiyo."
+
+#voice tuke0066
+[Tsukiyo] "...is it?"
+
+Tsukiyo nodded.
+
+"It's not nice to say you hate me. You don't hate Hinata, do you?"
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0067
+[Tsukiyo] "...Ugh"
+
+This time Tsukiyo shook his head.
+
+"Have you really come to hate me? No, you're not."
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+Tsukiyo remained silent, bowing his head, and finally muttered just one word.
+
+#voice tuke0068
+[Tsukiyo] "I don't hate it..."
+
+"You were just angry about the thorns because they were trying to take something important from you, but you don't really think you don't need them, do you?"
+
+#voice tuke0069
+[Tsukiyo] "...I know that."
+
+The voice gradually grew louder and at the end it was almost a scream.
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0070
+[Tsukiyo] "I know you were worried about me, Hinata. But... but... I just can't forgive Ibara. And yet I can't apologize."
+
+#voice tuke0071
+[Tsukiyo] "It's not that I hate Ibara, but I can't forgive him."
+
+"I see..."
+
+I don't know what to say, especially since I don't understand Tsukiyo's feelings.
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0072
+[Tsukiyo] "It's probably easier to apologize. That's what I've always done. But... I don't mind if I can't go back there anymore."
+
+The place Tsukiyo is talking about is probably the elf village.
+
+It makes my heart ache to think that he would have laughed even if he had been called Nanashi.
+
+;CHR T05F_L C
+#cg ツキヨ tuk_1_05f_l 中
+#wipe fade
+#face f_tuk_0_05f_l 94 466
+;TKface
+
+#voice tuke0073
+[Tsukiyo] "Is it okay for me to be here?"
+
+"picture?"
+
+;CHR T09F C
+#cg ツキヨ tuk_1_09f 中
+#wipe fade
+#face f_tuk_0_09f 94 466
+;TKface
+
+#voice tuke0074
+[Tsukiyo] "I can help humans. So, is it okay if I stay here?"
+
+To be honest, I was surprised.
+
+At the very least, he had been prepared for the fact that he would be separated from the elves around the time of the full moon.
+
+And although he always seemed to be having fun, elves are fickle, so I figured he'd get bored of it one day and go away.
+
+;CHR T02F C
+#cg ツキヨ tuk_1_02f 中
+#wipe fade
+#face f_tuk_0_02f 94 466
+;TKface
+
+#voice tuke0075
+[Tsukiyo] "No... is that okay?"
+
+"No, there's nothing wrong with that."
+
+;CHR T04F C
+#cg ツキヨ tuk_1_04f 中
+#wipe fade
+#face f_tuk_0_04f 94 466
+;TKface
+
+#voice tuke0076
+[Tsukiyo] "That's good. Thank you."
+
+Tsukiyo wiped away her tears and finally smiled.
+
+"You don't need to thank me. I'd be happy if Tsukiyo was here too."
+
+;CHR T06F_L C
+#cg ツキヨ tuk_1_06f_l 中
+#wipe fade
+#face f_tuk_0_06f_l 94 466
+;TKface
+
+#voice tuke0077
+[Tsukiyo] "Huh?!"
+
+Tsukiyo looked confused and shocked, then began crying again.
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+#voice tuke0078
+[Tsukiyo] "Ehhhhhhhhhhh..."
+
+"Wh-what happened...did I say something to make you cry?"
+
+;CHR T10F1 C
+#cg ツキヨ tuk_1_10f1 中
+#wipe fade
+#face f_tuk_0_10f1 94 466
+;TKface
+
+#voice tuke0079
+[Tsukiyo] "No... I'm just happy. No one has ever told me they're happy I'm here. I'm happy that you said it's okay for me to be here."
+
+;CHR T10F2 C
+#cg ツキヨ tuk_1_10f2 中
+#wipe fade
+#face f_tuk_0_10f2 94 466
+;TKface
+
+With that said, Tsukiyo burst into tears.
+
+And from that day on, Tsukiyo began to work harder than ever to help me.
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+;dt03へ
+#next dt03

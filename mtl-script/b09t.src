@@ -3,13 +3,13 @@
 ;背景：山小屋前（夜）
 ;変更なし
 
-It was my first time seeing an orc so close, and it took my breath away.
+It was my first time seeing an orc up close, and I couldn't help but gulp.
 
 At that moment, something grabbed the hem of my clothes.
 
-"...!?"
+"Huh...?!"
 
-When I desperately suppressed the scream I was about to let out and turned around, Tsukiyo was standing there.
+Desperately trying to stifle the scream that threatened to escape my eyes, I turned around and saw Tsukiyo standing there.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -17,21 +17,21 @@ When I desperately suppressed the scream I was about to let out and turned aroun
 #face f_tuk_0_02f 94 466
 ;TKface
 
-"W-what is it, Tsukiyo? Don't threaten me."
+"Wh-what's up, Tsukiyo? Don't scare me."
 
-When I warned her in a low voice, Tsukiyo shrank back, looking apologetic.
+When I whispered a warning to him, Tsukiyo shrank back, looking apologetic.
 
 #voice tikb0633
-[Tsukiyo] "I-I'm sorry..."
+[Tsukiyo] "I'm so sorry..."
 
-If you look closely, you can see that Tsukiyo's hands are trembling slightly.
+Looking closely, Tsukiyo's hands were shaking slightly.
 
-“Maybe you were worried about me?”
+"Maybe you were worried about me?"
 
 #voice tikb0634
-[Tsukiyo] “Yes, it is.”
+[Tsukiyo] "Yes, it is."
 
-"I see, thank you. But the scary orcs have already gone, so it's okay."
+"I see, thank you. But the scary orcs are gone now, so it's okay."
 
 ;CHR T09F C
 #cg ツキヨ tuk_1_09f 中
@@ -40,16 +40,16 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 ;TKface
 
 #voice tikb0635
-[Tsukiyo] "But... if this is my path, I'm sure I'll come back."
+[Tsukiyo] "B-but... if this is a passageway, I'm sure he'll come back."
 
-“Oh, is that so?”
+"Oh, is that so?"
 
-"Kokuri," Tsukiyo nodded.
+Tsukiyo nodded.
 
 #voice tikb0636
-[Tsukiyo] "Orcs and other dark creatures are much closer to humans than elves. That's why, if we can find a way, we can come here anytime. Perhaps we were able to find a way with the new moon tonight."
+[Tsukiyo] "Orcs and the dark kin are much closer to humans than elves. That's why, as long as they can find a way, they can come here anytime. The new moon tonight probably made the way."
 
-"Is there a road? If it's about this road, it's always been there, right?"
+"A road can be built? This road has been around for a long time, hasn't it?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -58,12 +58,12 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 ;TKface
 
 #voice tikb0637
-[Tsukiyo] "This road is a human road. But just as the beast road is easy for humans to pass, the human road is also easy for demons to pass."
+[Tsukiyo] "This path is for humans. However, just as animal paths are easy for humans to pass through, human paths are also easy for demons to pass through."
 
 #voice tikb0638
-[Tsukiyo] "During the lunar eclipse the other day, the barrier between the elf world and the human world was broken. I'm sure it was the same, and the gap between the demon world and the demon world was also broken."
+[Tsukiyo] "During the recent lunar eclipse, the barrier between the elf world and the human world was torn. I'm sure the barrier between the elf world and the human world was torn as well."
 
-“So, does that mean that orcs will come and go around here like Tsukiyo and the others?”
+"So, does that mean orcs will start coming and going around here like Tsukiyo and the others?"
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -72,17 +72,17 @@ If you look closely, you can see that Tsukiyo's hands are trembling slightly.
 ;TKface
 
 #voice tikb0639
-[Tsukiyo] "I don't know. But maybe."
+[Tsukiyo] "I don't know. But it might be possible."
 
 "it is……"
 
-When I was speechless at the unexpected words, Tsukiyo squeezed my hand to encourage me.
+As I was left speechless by his unexpected words, Tsukiyo squeezed my hand tightly to encourage me.
 
-But Tsukiyo must be afraid of herself.
+But Tsukiyo herself must be terrified.
 
-I can't stop shaking anymore.
+I can't stop shaking completely.
 
-"Then it's going to be bad if we don't do something about it."
+"Well, we'd better do something about it."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -93,20 +93,20 @@ I can't stop shaking anymore.
 #voice tikb0640
 [Tsukiyo] "Orcs may want to expand their territory into the human world. That's why they may be acting in groups..."
 
-Jerking, I instinctively looked in the direction the orc had gone.
+Startled, I instinctively turned my eyes in the direction the orc had gone.
 
-Luckily, they weren't heading in the direction of the village.
+Fortunately, or perhaps I should say, they weren't heading in the direction of the village.
 
-The story goes that if you continue on your way, you will go deeper into the dark forest, and if you pass through there you will find a foreign country, but I have never heard of any traveler who has ever gone through such a dark forest.
+The story goes that if you continue on you'll enter an even darker forest, and if you pass through it you'll reach a foreign land, but I've never heard of even a traveller ever passing through such a dark forest.
 
-If you check the map and angle, you'll probably end up in a country with a reputation for being extremely warlike.
+Checking the map and the angle, you'll probably arrive at a country with a reputation for being extremely warlike.
 
-"Okay..."
+"All right..."
 
 #voice tikb0641
-[Tsukiyo] “Ningen-san, where are you going?”
+[Tsukiyo] "Human, where are you going?"
 
-"I'll check where the orcs are going."
+"I'll go and see where the orcs are going."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -115,11 +115,11 @@ If you check the map and angle, you'll probably end up in a country with a reput
 ;TKface
 
 #voice tikb0642
-[Tsukiyo] “Hawa!?”
+[Tsukiyo] "Huh!?"
 
 Tsukiyo seemed surprised, but didn't try to stop me.
 
-Instead, he grips the hem of my clothes tightly.
+Instead, she tightly grips the hem of my clothes.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -128,40 +128,40 @@ Instead, he grips the hem of my clothes tightly.
 ;TKface
 
 #voice tikb0643
-[Tsukiyo] "I'll be careful not to be found."
+[Tsukiyo] "I'll be careful not to get caught."
 
 "Yeah, I know."
 
-I answered and tried to walk away, but Tsukiyo was still holding onto the hem of my clothes.
+He answers and starts to walk away, but Tsukiyo still holds onto the hem of his shirt.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Even though I was trembling, I still looked in the direction where the orc had disappeared.
+Trembling, he stares in the direction the orc has disappeared.
 
-...Are you planning to follow me?
+…Are you planning on coming with me?
 
-"let's go"
+"Let's go."
 
 ;立ち絵表示なし
 
 #voice tikb0644
-[Tsukiyo] “Yes.”
+[Tsukiyo] "Yes."
 
 Keep a sufficient distance and follow the orcs' footprints.
 
-It's easy to follow where you can see clearly, but if you turn around, it's over, and on the other hand, you're worried that you might accidentally make a noise in an area with undergrowth.
+It's easy to follow in areas with good visibility, but if they look back it's all over, and on the other hand, I'm worried that I might make some noise by mistake in areas with lots of undergrowth.
 
-It is said that humans notice the presence of others just by looking at them.
+It is said that humans can notice the presence of others just by looking at each other.
 
-If that's the case, the demons, who are probably more sensitive to signs than humans, must be able to notice it more easily.
+In that case, demons, who are more sensitive to presence than humans, would surely notice it more easily.
 
-I carefully follow the gaze of the other person, trying not to be too distracting.
+In order to avoid alerting the other person, they even carefully follow the gaze they send.
 
-Eventually, the orcs arrived at the border.
+Eventually, the orcs reached the border.
 
-"...If we get this far, they're probably from the neighboring country soon."
+"...If they've come this far, they're probably from a neighboring country."
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -172,15 +172,15 @@ Eventually, the orcs arrived at the border.
 #voice tikb0645
 [Tsukiyo] "Huh..."
 
-Tsukiyo also took a deep breath.
+Tsukiyo also sighed deeply.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-This time, on the contrary, I gradually opened up the distance so that he wouldn't notice.
+This time, on the other hand, I gradually increase the distance between us so that he doesn't notice.
 
-When they became smaller than peas, we finally relaxed and hurried back to the cabin.
+Once they became smaller than tiny beans, we finally truly relaxed and hurried back to the hut.
 
 ;MCK
 #bgm 0 stop 2000
@@ -192,20 +192,20 @@ When they became smaller than peas, we finally relaxed and hurried back to the c
 ;TKface
 
 #voice tikb0646
-[Tsukiyo] "I'm glad the orcs passed by."
+[Tsukiyo] "I'm glad the orc passed by."
 
-"Ah. Now, when I get back to the hut, I need to use a curse to ward off orcs."
+"Yeah. Now I just need to cast a curse to ward off orcs when I get back to the hut."
 
 #voice tikb0647
-[Tsukiyo] “Yes.”
+[Tsukiyo] "Yes."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-It's not because it's not my country, but if it's a country that is good at war, it would be a little different even if it was attacked by orcs.
+It's not because it's not his country, but if it was a country skilled in warfare, it would be a little different if it was attacked by orcs.
 
-I feel sorry for the people in that country, but honestly I was a little relieved.
+I felt sorry for the people of that country, but to be honest I felt a little relieved.
 
 ;BGMch2 amb002 停止
 #bgvoice stop
@@ -228,29 +228,29 @@ I feel sorry for the people in that country, but honestly I was a little relieve
 #bg BG08b_1
 #wipe fade
 
-There was an orc that passed by yesterday, but that doesn't mean it will pass by next time.
+The oak passed by yesterday, but there's no guarantee that it will pass by next time.
 
-After applying a spell to ward off orcs to the hut, let's let the village know.
+Once I've cast a spell on the hut to repel orcs, I'll let the village know.
 
-I don't know how much everyone in the village will believe my words, but if there is any damage to the neighboring country, they will eventually realize that what I said is true.
+I don't know how much the people in the village will believe what I say, but... if there is any damage to the neighboring country, they will eventually realize that what I say is the truth.
 
-I laugh at myself for thinking like that.
+I laugh at myself for thinking that.
 
-It's like they want the neighboring country to suffer some damage.
+It's as if they want damage to occur in the neighboring country.
 
-That's not really the case.
+It's not like that.
 
-However, if that wasn't the case, I felt that the people in the village wouldn't believe my words, which made me feel really bad.
+But if I don't do that, I feel like the people in the village won't believe a word I have to say, and it makes me feel very depressed.
 
-I shake my head to shake off my thoughts and draw a spell to ward off orcs on the wall of the hut.
+I shook my head to clear my mind and started drawing a spell to ward off orcs on the wall of the hut.
 
-I don't know if something like this really works.
+I don't know if this really has any effect.
 
-But it's probably better than not doing it.
+But it's better than nothing.
 
 "...This is the end. Is that okay?"
 
-A voice came from behind me as I muttered something.
+As I muttered this, a voice came from behind me.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -259,11 +259,11 @@ A voice came from behind me as I muttered something.
 ;TKface
 
 #voice tikb0648
-[Tsukiyo] “Did you come up with a spell to avoid orcs?”
+[Tsukiyo] "Have you cast the spell to ward off the orcs?"
 
-"Ah. I'm not even a priest, but I don't know how effective the spell is."
+"Yeah. I'm not a priest so I don't know how effective the spell I cast on it will be though."
 
-The patterns painted on the hut using herbs and water are invisible to the human eye once they dry.
+The patterns drawn on the hut using herbs and water are invisible to the human eye once they dry.
 
 Tsukiyo stared at the hut.
 
@@ -274,27 +274,27 @@ Tsukiyo stared at the hut.
 ;TKface
 
 #voice tikb0649
-[Tsukiyo] “Hmm, it’s probably effective.”
+[Tsukiyo] "Hmm, I think it might be effective."
 
-Tsukiyo looked at the hut, which had not changed much from before, and said solemnly.
+Tsukiyo said solemnly, looking at the hut which looked unchanged from before the spell.
 
-“Does Tsukiyo understand that?”
+"Does Tsukiyo understand that sort of thing?"
 
 #voice tikb0650
-[Tsukiyo] “Somehow, I can feel it.”
+[Tsukiyo] "I kind of feel it."
 
-If this was what another elf had said, he might have been taken aback and said, ``Don't say such random things.''
+If this had been said by another elf, they might have been annoyed and said, "Don't just talk nonsense."
 
-However, Tsukiyo's words had some ring of truth.
+However, there was something true about Tsukiyo's words.
 
-"Also, the path that the orcs took? I hope we can make it so they can't go through it."
+"Now, I hope we can stop them from taking that path that the orcs took."
 
-No matter how much protection you put on your hut to avoid orcs, if there are roads and things like that, you're bound to run into them sooner or later.
+No matter how much protection we put on the hut against the orcs, if a path has already been built there, we might end up running into them eventually.
 
-The orcs may have the strength to crush a hut, but I feel like they'd be better off staying inside the house, but I wouldn't be able to help them if they were outside.
+The orcs may be strong enough to crush a hut, but I feel like we'd be better off staying inside the house; if we were outside, we'd be helpless.
 
 #voice tikb0651
-[Tsukiyo] “Maybe I can do it.”
+[Tsukiyo] "Maybe I can."
 
 "picture?"
 
@@ -305,24 +305,24 @@ The orcs may have the strength to crush a hut, but I feel like they'd be better 
 ;TKface
 
 #voice tikb0652
-[Tsukiyo] “Thon…”
+[Tsukiyo] "Hmm..."
 
-Tsukiyo said that and put his hand over me.
+Tsukiyo said, holding his hand over mine.
 
 ;SE
 
-Tsukiyo's hands felt like they were ``darkly shining''.
+I felt like Tsukiyo's hand was "glowing darkly."
 
 "picture?"
 
-Light is something that looks bright. Therefore, it shouldn't be possible for it to shine in the dark, but that's how it appeared to me anyway.
+Light is meant to look bright, so it can't possibly shine dimly, but that's the way it appeared to me.
 
 #voice tikb0653
-[Tsukiyo] "Um...I think this is fine."
+[Tsukiyo] "Um... I think this is fine."
 
-I blinked, feeling like something had disappeared.
+I blinked, feeling as if something had disappeared.
 
-“Did you do something to me just now?”
+"Did you just do something to me?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -331,16 +331,16 @@ I blinked, feeling like something had disappeared.
 ;TKface
 
 #voice tikb0654
-[Tsukiyo] "When I saw the orc, I followed it, and there was a path for Human-san as well. I guess I covered it with sand or something and erased the path."
+[Tsukiyo] "The humans saw the orcs, followed them, and made a path for themselves. Then they covered it in sand and made it disappear."
 
-"Yeah, I got it too. Is that an elf's power? It heals injuries... something like that."
+"Yeah, I get it too. Is that the power of the elves? Healing injuries... something like that."
 
-Tsukiyo shook her head at my words.
+Tsukiyo shook his head at my words.
 
 #voice tikb0655
-[Tsukiyo] “Maybe Hinata, Ibara, and Konomi can’t do it.”
+[Tsukiyo] "Probably Hinata, Ibara and Konomi can't do it."
 
-"So, does that mean it's the power of the Dark Elf?"
+"So that's the power of the Dark Elves?"
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -355,11 +355,11 @@ Tsukiyo shook her head at my words.
 #cg all clear
 #wipe fade
 
-Tsukiyo walks slowly from the direction the orcs came from yesterday to the direction they left.
+Tsukiyo walks slowly back along the same path the orc came from and left yesterday.
 
-This time it was my turn to follow Tsukiyo.
+Now it was my turn to follow Tsukiyo.
 
-I didn't know what the person on the road was doing, but I guess he was doing something similar to what happened to me earlier.
+I didn't know what the person on the road was doing, but I guess they were doing the same thing they had done to me earlier.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -368,7 +368,7 @@ I didn't know what the person on the road was doing, but I guess he was doing so
 ;TKface
 
 #voice tikb0657
-[Tsukiyo] "...Haa. The road has disappeared."
+[Tsukiyo] "...Ah. The road has disappeared."
 
 After walking around for a while, Tsukiyo took a deep breath.
 
@@ -379,16 +379,16 @@ After walking around for a while, Tsukiyo took a deep breath.
 ;TKface
 
 #voice tikb0658
-[Tsukiyo] "I think it's okay now. I think it's become harder for orcs to find this path."
+[Tsukiyo] "I think it'll be fine now. I think it'll be harder for the orcs to find this path now."
 
 "I see, thank you. Did you learn this from someone?"
 
-Tsukiyo shook her head in response to my question.
+Tsukiyo shook his head in response to my question.
 
 #voice tikb0659
-[Tsukiyo] "It's like healing an injury, and before I knew it, I was able to do it."
+[Tsukiyo] "It's like healing an injury. Before I knew it, I was able to do it."
 
-"That's amazing, Tsukiyo. Dark elves are amazing, aren't they?"
+"That's amazing, Tsukiyo. Dark elves are incredible."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -397,16 +397,16 @@ Tsukiyo shook her head in response to my question.
 ;TKface
 
 #voice tikb0660
-[Tsukiyo] “Hawa!?”
+[Tsukiyo] "Huh!?"
 
-When I gave him my heartfelt praise, Tsukiyo blinked in surprise.
+When I offered my heartfelt praise, Tsukiyo blinked in surprise.
 
 #voice tikb0661
-[Tsukiyo] "Amazing, isn't it? Dark Elf, is it amazing?"
+[Tsukiyo] "Amazing, isn't it? Dark elves are amazing, aren't they?"
 
-"Ah. Isn't it amazing that you have the power to do things that other elves can't do?"
+"Yeah. You have the power to do things other elves can't do. Isn't that amazing?"
 
-Tsukiyo's eyes widened and quickly filled with relief and joy.
+Tsukiyo's wide-open eyes quickly fill with relief and joy.
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -415,14 +415,14 @@ Tsukiyo's eyes widened and quickly filled with relief and joy.
 ;TKface
 
 #voice tikb0662
-[Tsukiyo] “Wow, that’s the first time I’ve heard someone say that to me.”
+[Tsukiyo] "Hehehe, that's the first time someone has said that to me."
 
-Tsukiyo honestly laughed happily.
+Tsukiyo laughed genuinely and happily.
 
 #voice tikb0663
-[Tsukiyo] "Ningen-san is amazing. It's the first time he's given me so much."
+[Tsukiyo] "Humans are amazing. This is the first time I've ever received so much."
 
-For some reason, Tsukiyo's smile made my heart hurt.
+Tsukiyo's smile made my chest ache for some reason.
 
 ;ツキヨルートdt01へ
 #next dt01_1

@@ -1,0 +1,1207 @@
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+"I won't forget... How could I forget about Konomi?"
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0383
+[Konomi] "Hahahaha, I see. I'm glad to hear you say that. I'll never forget you, Human-kun, either."
+
+Konomi was smiling, but she sounded a little lonely as she said this.
+
+;CHR K07F C
+#cg コノミ kon_1_07f 中
+#wipe fade
+
+#voice kond0384
+[Konomi] "It must be painful to miss you but not be able to?"
+
+Konomi's smile crooked just a little.
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0385
+[Konomi] "...I don't really want to leave you."
+
+Konomi looked up with a complicated expression.
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0386
+[Konomi] "But, I think that an elf's role is to just watch without changing, and a human's role is to constantly change."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kond0387
+[Konomi] "That's why I can't be by your side forever... Maybe I've changed since being with you, human?"
+
+"Is that a bad thing?"
+
+;CHR K08F C
+#cg コノミ kon_1_08f 中
+#wipe fade
+
+#voice kond0388
+[Konomi] "I don't know... I don't know..."
+
+Konomi lowers her eyes, confused by her own emotions.
+
+#voice kond0389
+[Konomi] "Maybe I should just forget about humans too?"
+
+The words came out of my mouth before I could think about it.
+
+"If you're unsure, maybe you don't need to forget."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0390
+[Konomi] "Huh...?"
+
+"...I don't have any particular reason for this, but I feel like if I don't forget, I'll definitely be able to meet you again."
+
+Konomi's expression, which had been feeling a bit lost after hearing my words, suddenly brightened.
+
+;CHR K09F1 C
+#cg コノミ kon_1_09f1 中
+#wipe fade
+
+#voice kond0391
+[Konomi] "Ahaha, I hope so. If you say so, human, I'm sure we'll meet again, right?"
+
+"Yeah. I'm sure we'll meet again."
+
+;CHR K01F1A C
+#cg コノミ kon_1_01f1a 中
+#wipe fade
+
+#voice kond0392
+[Konomi] "So it's not goodbye, it's see you later, okay? See you later, human."
+
+;CHR OFF
+#cg all clear
+#wipe fade
+
+Konomi's figure fades into the distance.
+
+Konomi returns to the elf village.
+
+"See you later, Konomi..."
+
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 2000
+
+;背景：森（昼）
+;BG BG04_1
+#cg all clear
+#bg BG04_1
+#wipe fade
+
+;BGMch2 amb00 再生
+#bgvoice amb004
+
+"Now then."
+
+After seeing Konomi off, I took a sigh.
+Now I have something to do.
+
+;暗転
+;#face off
+
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 2000
+
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+Once I returned to the village, I gathered the people together and decided to use forget-me-not incense to erase their memories of the elves.
+
+Since the barrier will be repaired, I think there will be no more elves coming over here, and no more humans wandering over there.
+
+However, the elves would surely be sad if their forests were ravaged in order to hunt them.
+
+So the villagers should forget about the elves.
+
+Actually, maybe I should just forget about it too...
+
+[Villager 2] "What are you gathering all these people to talk about?"
+
+"I'll talk about that later, but is this everyone who can come?"
+
+[Villager 3] "Yeah. I told everyone to come together, except for those who absolutely couldn't make it..."
+
+[Villager 4] "I hate the idea of having to gather here just because you told me to, but the survival of the village depends on it."
+
+There were quite a few people from the village gathered at my house, which wasn't particularly spacious. There was nowhere to sit, so most of the people had to stand.
+
+[Villager 1] "What happened to the story about being surrounded by an elven army?! Have there been any negotiations?"
+
+
+[Villager 3] "You came back and suddenly gathered people together, so isn't that to talk about that?"
+
+"Yes, that's right. It's a very important matter."
+
+[Villager 5] "Could it be that the elves are going to attack now?"
+
+[Villager 2] "No way..."
+
+"That's fine, but I think it would be helpful if you could calmly listen to what I'm about to say."
+
+While I was speaking to the gathered villagers, I locked the door tight and lit some tokiwasure incense.
+
+When I lit the incense it gave off a very soft and gentle scent.
+
+"Actually, this is something I got from the elves..."
+
+...Oops, I'll have to try not to inhale as much as possible.
+
+[Villager 5] "An elven gift, incense?"
+
+"...It's a fragrance that helps you forget all the bad things. The truth is, I used to live with some elves in the forest. I wonder if you'd like to hear my story..."
+
+#bgvoice stop
+#wait 2000
+#bgm 0 13
+
+Then I told them stories of my fun days so that they could take their time and inhale the aroma.
+
+Of course, even though I was careful, I still ended up inhaling the incense, so I gradually started to forget about a lot of things.
+
+[Villager 3] "What did we gather here to talk about?"
+
+As smoke filled the house, memories began to spill out of me like water spilling through your fingers, and strangely enough, it wasn't an unpleasant sensation at all.
+
+Maybe forgetting isn't always such a bad thing.
+
+That's why the scent of the forget-me-not flower is so gentle. It makes you want to surrender yourself to it.
+
+--I was being careful, but I still ended up inhaling a lot of smoke myself.
+
+Dear memories that are gradually being forgotten.
+
+I've lost a lot of my memories of the elves I spent time with, and I've even forgotten the name of the person I loved, the one I wanted most to never forget...
+
+I will never forget that image.
+
+Even though I can't remember her face, I feel happy every time I remember her delicate shoulders and soft cheeks.
+
+Even if I can't remember anything more than that.
+
+I remember that the days we spent together were irreplaceable and precious to me.
+
+Even though I don't remember it, I spent a lot of time in the forest with the elves.
+
+That memory alone was enough to make me want to recapture that time.
+
+#bgm 0 stop 2000
+#bgvoice stop
+
+;暗転
+;#face off
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 3000
+
+;背景：自宅
+;背景：主人公の家（昼）
+;BG BG05_1
+#cg all clear
+#bg BG05_1
+#wipe fade
+
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+[Villager 1] "Huh? What's going on? Why are so many of us gathered in a place like this...?"
+
+[Villager 2] "Umm, where am I?"
+
+[Villager 3] "I feel so refreshed..."
+
+The villagers looked at each other with puzzled expressions.
+
+And of course, I also didn't understand why they had gathered so many people in a place like this, why they had erased my memories of the elves, and why the elves had given me such incense.
+
+;暗転
+;#face off
+
+;BGMch2 amb010 再生
+#bgvoice amb010
+
+#cg all clear
+#bg black
+#wipe fade
+;背景：街道（昼）
+;BG BG12_1
+#cg all clear
+#bg BG12_1
+#wipe fade
+
+After erasing the elven memories from the villagers, I set out for the royal capital.
+
+The elves met during a lunar eclipse and parted ways before the next full moon.
+
+I vaguely thought I had heard that there was a connection between my meeting them and the lunar eclipse.
+
+So I decided to study under a scholar, thinking that if I could understand the cycle of lunar eclipses, perhaps I could meet them again.
+
+It's only a small clue, but leaving it alone won't change anything.
+
+Moving to the forest is how we met.
+
+If that was the case, I felt like if I changed, I might be able to meet them again.
+
+So, I was in a hurry to return to that forest to confirm the results of my research.
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+
+#bgvoice stop
+
+;背景：研究室
+;BG BG13_1
+#cg all clear
+#bg BG13_1
+#wipe fade
+
+#voice gakd0001
+[Scholar]: "You have a great opportunity to prove your hypothesis, and yet you want to waste your time?"
+
+"I'm sorry, Professor, but this is what I was doing my research for."
+
+#voice gakd0002
+[Scholar] "Hmm. I can't force you to stay, but I think it's a shame."
+
+"I'm sorry for being so selfish."
+
+#voice gakd0003
+[Scholar] "I was looking forward to introducing you as a disciple, not an assistant, at the next observation session."
+
+The teacher sighed deeply.
+
+I had always thought that only the children of aristocrats could attain the level of academic study that would lead to the establishment of academic theories, but when I took the plunge, I was able to meet a great teacher.
+
+At first, I was hired as a servant, but now I'm treated like a beloved assistant.
+
+And yet, just when the results of that research might have been observable, I was taking my leave.
+
+"Since he has been acting so selfishly, I think it's only natural that he should be excommunicated."
+
+In the teacher's eyes, betrayal would be treated the same way, so he is prepared to receive the appropriate punishment.
+
+As I kept bowing my head, a hand was placed on my shoulder.
+
+#voice gakd0004
+[Scholar] "What are you talking about? I would never excommunicate such an excellent and dedicated student. I'll give you some time off, so come back once you've accomplished your goal."
+
+"Teacher...Thank you."
+
+#voice gakd0005
+[Scholar] "No, that's not enough. Talent can't be improved, no matter how much education you receive. I just miss you as a scholar."
+
+#voice gakd0006
+[Scholar]: "So why would you want to take a vacation at a time when you might be able to observe the lunar eclipse?"
+
+It was only natural that the teacher would be suspicious. However, I guess I shouldn't tell anyone about elves. So I answered like this.
+
+"I can't tell you why..."
+
+#voice gakd0007
+[Scholar] "Hmm..."
+
+The teacher made a difficult face and stroked his beard.
+
+It's not that I doubt the teacher, but the possibility of meeting an elf would make anyone greedy.
+
+Even if a teacher has no worldly desires, he or she may have a desire for academic pursuits.
+
+If that were to happen, people would want to explore further into the realm of the elves, and once they knew of the existence of the elven realm, they would be greedy to try and gain something from it.
+
+So you must never tell anyone that I was living with an elf.
+
+It was unexpectedly painful to be unable to tell anyone something that only I knew.
+
+That's why the elves gave me the incense that would make me lose my memory.
+
+It's only now that I've realized this.
+
+Maybe it would be easier if I just forgot about it all, if I never wanted to see him again.
+
+#voice gakd0008
+[Scholar] "I'm very interested, but if I try to force you to tell me more and you don't come back, it'll be pointless. Oh well. If you feel like it, please tell me."
+
+I was surprised at how easily the teacher backed away.
+
+"Teacher?! Why are you being so nice to me, a country bumpkin?"
+
+#voice gakd0009
+[Scholar] "Because talented young people are hard to come by. So I'd like to ask for your advice..."
+
+;暗転
+;#face off
+#mes clear
+
+#bgvoice stop
+;BGMch2 amb008 再生
+#bgvoice amb008
+
+#cg all clear
+#bg black
+#wipe fade
+#wait 2000
+
+;背景：村（昼）
+;BG BG10_1
+#cg all clear
+#bg BG10_1
+#wipe fade
+
+;#voice okud0009
+[Miller's Wife] "Yes, yes, come in... Oh, perhaps... Oh? It's been how many years since I last saw you! You have changed so much!"
+
+"It's been a while."
+
+
+[Villager 1] "Oh, it's been a long time. How is life in the royal capital?"
+
+"My employer has been very kind to me. He's even allowing me to study."
+
+
+[Villager 2] "Wow, you're a scholar. That's quite a promotion."
+
+
+[Villager 3] "So what on earth has brought you back here so suddenly? Did you miss your hometown?"
+
+"Well, that's about it. While I was living in the city, I started to miss the mountain cabin where I used to live."
+
+
+[Villager 4] "Wow! People who want to become scholars are really strange. Well, since we've come all the way back here, let's all get together today."
+
+"That's right. I'll take you up on that."
+
+
+[Villager 5] "Wow, you've mellowed out a lot. Before, I would have said no."
+
+"That goes for both of us. I've grown up too."
+
+The people in the village welcomed me warmly after my promotion.
+
+Everyone wanted to hear about my life in the royal capital, but it seems my boring life of studying only disappointed everyone.
+
+However, everyone was interested in the idea that if they studied hard, they might be able to succeed in the royal capital. It seemed especially interesting to the parents.
+
+Everyone was especially excited when I heard that I would be adopted by the sensei when I returned.
+
+This is what the teacher brought up as we were leaving.
+
+It seems like a fairy tale that someone from the countryside like this could be adopted by an aristocrat.
+
+;暗転
+;#face off
+
+#bgvoice stop
+;BGMch2 amb001 再生
+#bgvoice amb001
+
+#cg all clear
+#bg black
+#wipe fade
+#wait 4000
+
+;背景：山小屋（昼）
+;BG BG07b_1
+#cg all clear
+#bg BG07b_1
+#wipe fade
+
+;BGM 小屋
+#bgm 0 04
+
+The villagers had set up a seat for me, but I still didn't feel very comfortable, so I made an excuse and went to bed early, coming over here early the next morning.
+
+"Not much has changed here."
+
+Since I left here, no one has visited, so a thick layer of dust has accumulated.
+
+On the contrary, the roof that was supposedly repaired earlier is now torn.
+
+Luckily it's not going to rain today so that's good.
+
+"Let's start with cleaning. ...It's like going back to square one."
+
+I put my arm around him and started cleaning.
+
+I plan to stay there for a while, and I need to get the roof repaired.
+
+"It feels kind of nostalgic."
+
+A smile unexpectedly comes to my face.
+
+Come to think of it, when I first tried to live here, it was not only dusty but also dilapidated everywhere, and I would have had to make repairs here and there to make it livable.
+
+Compared to that, cleaning up accumulated dust is a trivial task.
+
+I cleaned and prepared various things until the sun went down.
+
+#bgm 0 stop 2000
+#bgvoice stop
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+
+#wait 2000
+#bgm 0 01
+
+;ＥＶ絵――EV001『月食』
+;EVCG 001C2
+;#face off
+
+#cg イベント ev001c2 背景
+#wipe fade
+
+#wait 2000
+
+"It's just as I thought!"
+
+I cheered as I observed the lunar eclipse.
+
+I wonder if the teachers are watching. My calculations were not wrong.
+
+But I never thought I'd live to see the moon being eaten by a wolf again.
+
+To be honest, I would have been happier if I could have observed it with someone, but I'm not asking for that much.
+
+Besides, the only person I wanted to watch it with was the one whose face I remember.
+
+"...Just one more thing."
+
+I cleared my throat.
+
+I was able to observe the lunar eclipse, but as a human, I couldn't know whether the other prediction would come true or not.
+
+#bgm 0 stop 1000
+
+#bgvoice stop
+;BGMch2 amb003 再生
+#bgvoice amb003
+
+;背景：山小屋（夜）
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+Tired from the journey and mentally exhausted from the party the day before, I retired to bed early after observing the lunar eclipse.
+
+I wanted to stay up all night waiting for a visitor, but I just didn't have the energy to do so.
+
+If there are no visitors, I'll explore the area tomorrow.
+
+Don't worry, I still have some vacation time left.
+
+;暗転
+;#face off
+#mes clear
+
+#cg all clear
+#bg black
+#wipe fade
+#wait 5000
+
+;背景：山小屋（夜）
+;BG BG07b_3
+#cg all clear
+#bg BG07b_3
+#wipe fade
+
+--A little after midnight, I heard the floorboards creak.
+
+By this time, I was already in a sleeping position, and although I sensed someone coming in, I couldn't move a finger.
+
+;ＥＶ絵――EV004『侵入者』
+;EVCG EV004A1
+#cg イベント ev004a1 背景
+#wipe fade
+
+#voice kond0393
+[???] "...Human...maybe?"
+
+#bgm 0 05
+
+The intruder chuckled with amusement.
+
+I opened my eyes slightly and saw the boy's lithe body illuminated by the shining moonlight.
+
+...I wonder if this is a dream.
+
+No, even if that's the case, I can still sense its presence quite clearly...
+
+I wanted to wake up immediately, but my eyelids were heavy... and even though I managed to keep my eyes open, they slowly closed.
+
+(Ahh... I'm sleepy. I have to wake up quickly...)
+
+#voice kond0394
+[???] "...Hehehe...heh heh heh...humans are such late sleepers after all."
+
+"...You know me..."
+
+Being called "human" brought back some very nostalgic feelings.
+
+That's right, wasn't that what they called me back then?
+
+Nostalgia pulled me out of the depths of sleep where I was deep in a sleep.
+
+"...Who are you?"
+
+Long, pointed ears, pale white skin. Her appearance is far too perfect to be called human.
+
+It was clearly the elf I had heard of in stories, with silver hair that resembled the clear stream shining on an early autumn day.
+
+I forgot, but I know this girl...!
+
+#voice kond0395
+[???] "...Me? Who am I? You've forgotten after all, human. That's a bit disappointing."
+
+;三点リーダー部分は無音で
+#voice kond0396
+【???】"I'm..."
+
+The elf must have given his name, but unfortunately I didn't catch that part.
+
+"...Sorry, I didn't hear you so say it again."
+
+That exchange was also memorable.
+
+I've had this same exchange before.
+
+#voice kond0397
+[???] "Hehe, you didn't hear me. You are a human after all. If I were a human, I would be... a tree... a fruit or something."
+
+I have heard this sweet, alluring voice many times.
+
+"Konomi... That's right, it's Konomi."
+
+I hugged my beloved and nostalgic partner tightly.
+
+#voice kond0398
+[Konomi] "...So you remembered. Hehehehe..."
+
+Konomi laughs happily.
+
+"I'm sorry, but I remembered. I had never forgotten your face, but...I finally remembered you."
+
+A body I had embraced countless times in my dreams.
+
+I finally caught him and was able to really hug him.
+
+This definite sensation finally reassures me that this isn't a dream and I breathe a sigh of relief.
+
+"I've always... I've always wanted to see you."
+
+#voice kond0399
+[Konomi] "...I'm glad you woke up. I came all the way here to play, and it would be boring if the human I haven't seen in a while just slept."
+
+Konomi smiles that elusive smile and laughs softly.
+
+Konomi stroked my face with her hand and pinched my cheek as if observing me.
+
+#voice kond0400
+[Konomi] "Humans really do change so quickly, don't they? I feel like I've gotten bigger. And maybe my beard has gotten thicker, too."
+
+Konomi seemed impressed and then gave me a light smack on the cheek. I couldn't help but smile wryly.
+
+"How many years do you think have passed since then? More than enough time has passed for a human to have grown up."
+
+#voice kond0401
+[Konomi] "Is that so? I feel like we could have met again pretty soon."
+
+Konomi giggled with delight and looked me over as if she was trying to spot the difference.
+
+"Even so... your ears are long and pointy."
+
+#voice kond0402
+[Konomi] "Hyaan?!"
+
+When I touched her ear, Konomi cringed, as if she was ticklish.
+
+It has a nostalgic feel to it. I want to touch it forever.
+
+#voice kond0403
+[Konomi] "Ah... my ears... tickle... hmm..."
+
+As I gently touched her supple ears, Konomi let out a sweet sigh.
+
+"I'm slowly starting to remember. There are many things I've forgotten, but I haven't forgotten about Konomi."
+
+#voice kond0404
+[Konomi] "Hehehe... Human... You kept your promise... Well, I guess I need to give you a reward."
+
+Konomi squatted happily at my feet.
+
+
+;SMODE 057 PLAY
+#label replay057
+#setscene 54
+#bg BG07b_3
+
+;ＥＶ絵――EV062『コノミフェラ』★待ち A1-3　フェラ
+;EVCG EV062A1
+#cg イベント ev062a1 背景
+#wipe fade
+
+
+#voice kond0405
+[Konomi] "Ohhh, it's a human's penis... *squish*...hehehehe"
+
+Konomi pulled out my thing and suddenly took it into her mouth.
+
+#voice kond0406
+[Konomi] "Ugh... puff... cough... mmmghhh‾"
+
+"Hey, hey, don't gobble it down so quickly that you choke."
+
+;差分
+;ＥＶ絵――EV062『コノミフェラ』★待ち B1　頬ずり
+;EVCG EV062B1
+#cg イベント ev062b1 背景
+#wipe fade
+
+#voice kond0407
+[Konomi] "Hehe... I mean... it's been a while since I've seen a human's penis."
+
+Konomi lovingly rubbed her cheek against his cock.
+
+Her smooth cheeks felt incredibly soft and there was nothing sticking out.
+
+Thanks to the smooth feel, I can clearly feel the blood flowing into my shaft.
+
+"...Isn't this a reward for me?"
+
+#voice kond0408
+[Konomi] "Hmm? I remembered you, human, too, so you can give me a reward, right?"
+
+#voice kond0409
+[Konomi] "Hehehe, my heart is filled with the sweet smell of a human. I love this smell. Rub it. It feels like the smell is getting on my cheeks."
+
+"Neck rubs feel pretty good too."
+
+#voice kond0410
+[Konomi] "Fufu, human-kun. Do you like my cheeks? I like the feel of your penis too, human-kun. It's hard and squishy."
+
+#voice kond0411
+[Konomi] "I also like the feeling when I put it in my mouth. The tip is smooth and the surface is firm, so it feels good when I lick it."
+
+;差分から戻す
+;ＥＶ絵――EV062『コノミフェラ』★待ち A1-3　フェラ
+;EVCG EV062A1
+#cg イベント ev062a1 背景
+#wipe fade
+
+
+#voice kond0412
+[Konomi] "Hmm... mhmm... slurp slurp... kiss... slurrrrrrr..."
+
+Konomi sucks up the fierce cock, making lewd noises.
+
+It was too big to fit in his mouth, and because he was forcing it in, drool was oozing out from the gaps.
+
+#voice kond0413
+[Konomi] "Slurp slurp... mmm... slurp... something salty and delicious coming out from the tip... slurp... I love this..."
+
+As he sucks it hard, the pre-cum starts to overflow one after another.
+
+#voice kond0414
+[Konomi] "Ngh... ngh... hummm... nyupu... slurp... ngh... hehe... your hips are twitching, you know that‾? Does it feel that good‾?"
+
+"Ahh... it feels so good when you lick me so deliciously."
+
+#voice kond0415
+[Konomi] "Hehehe... because it's delicious... slurp... slurp... all the way to the back of my nose... it smells like human-kun... everything smells like human-kun."
+
+#voice kond0416
+[Konomi] "Lick, lick, lick...slurp...lick...hmmmm...mmmmmm...ghhh...ugh...ugh..."
+The small, soft lips that were wrapped around my cock moved up and down vigorously, stroking the shaft.
+
+#voice kond0417
+[Konomi] "Humans, you like it when I lick this curved spot, and the underside of your penis, don't you? Slurp...slurp...suck..."
+
+"...Ah, that's... good."
+
+When the most sensitive of her sensitive parts are licked carefully, she feels so much pleasure that her glans opens wide.
+
+#voice kond0418
+[Konomi] "Fufu...smooth...I remembered exactly what feels good for a human...slurp...mmm...slurp...slurp...slurp..."
+
+#voice kond0419
+[Konomi] "Please lick the tip of my penis carefully...slurp...it feels good to have your tongue rubbing against this hole...fufu..."
+
+Occasionally, the head of his penis was released from the lips and glistened wetly and lasciviously.
+
+#voice kond0420
+[Konomi] "Lick lick... mwah... slurp... mwah... slurp... mmm... slurp... lick lick... slurp slurp"
+
+Konomi sucks my cock, enjoying the sensation of playing with it.
+
+"If you do that any more... I'll come, so it's about time..."
+
+#voice kond0421
+[Konomi] "...Hehehe. It's about time, what is it? Hmm...ahh..."
+
+Konomi laughed happily and took the cock even deeper into her throat.
+
+"Ah... hey..."
+
+#voice kond0422
+[Konomi] "Slurp slurp... Slurp slurp... Mmmph... Hehehe"
+
+"Wait, wait... are you planning on making me cum first?"
+
+#voice kond0423
+[Konomi] "Hehe... I want to feel the human in my mouth and ass, you know? Slurp... slurp slurppppp."
+
+With her tongue still on his cock, she moved her lips up and down and forcefully sucked him up, causing the accumulated pleasure to run up her back.
+
+#voice kond0424
+[Konomi] "... Mmmm... mmm... mmm... mmm... ugh... ugh..."
+
+;ＥＶ絵――EV062『コノミフェラ』C1-C6　射精後
+;EVCG EV062C1
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev062c1 背景
+#bg BG07b_3
+#wipe fade 300
+
+As his cock twitches, it spews a thick, sticky white liquid into Konomi's mouth.
+
+Konomi happily received my ejaculation in her throat.
+
+On the contrary, she presses her tongue against the ejaculating penis, as if tasting the semen that is being spat out.
+The semen was squeezed out of the urethra, sucked up, and spat into Konomi's mouth without leaving a single drop behind, before being swallowed.
+
+;差分頬ずり
+;ＥＶ絵――EV062『コノミフェラ』B1　頬ずり
+;EVCG EV062B1
+#cg イベント ev062b1 背景
+#wipe fade
+
+#voice kond0425
+[Konomi] "Phew... it's amazing. Human semen was so thick and gooey, I thought it would get stuck in my throat."
+
+"...If I come first, I might not be able to satisfy Konomi."
+
+I said that just in case, but maybe because it's been a while, mine doesn't seem to have wilted at all, and I feel like I could do it again and again.
+
+#voice kond0426
+[Konomi] "Hehe, you remembered a lot about me, didn't you? So you have to give me a reward, okay?"
+
+Konomi straddled me, licking the semen off the corner of her lips with her tongue as if to show me.
+
+
+;ＥＶ絵――EV063『コノミ騎乗位』未挿入 A1-3
+;EVCG EV063A1
+#cg イベント ev063a1 背景
+#wipe fade
+
+#voice kond0427
+[Konomi] "It's okay! Human-kun just released it, but it's still so hard!"
+
+Konomi stripped off her clothes and got on top of me.
+
+;ＥＶ絵――EV063『コノミ騎乗位』未挿入
+;EVCG EV063A2
+#cg イベント ev063a2 背景
+#wipe fade
+
+#voice kond0428
+[Konomi] "Mmmm... I want a human to pry open my asshole... aahhh... a real human's penis..."
+
+The area that hadn't even been loosened properly was being pushed open by my thing.
+
+"It's been a while, but it's so soft."
+
+;ＥＶ絵――EV063『コノミ騎乗位』未挿入
+;EVCG EV063A1
+#cg イベント ev063a1 背景
+#wipe fade
+
+#voice kond0429
+[Konomi] "Well, I was masturbating a lot while thinking about you, Human-kun... but a real penis is so much better after all... haha"
+
+Konomi enjoys the teasing feeling of the ridge of her penis getting caught in the shallow entrance.
+
+For me too, having my glans, which had just come, squeezed and rubbed was so pleasurable it was almost painful.
+
+;ＥＶ絵――EV063『コノミ騎乗位』未挿入
+;EVCG EV063A3
+#cg イベント ev063a3 背景
+#wipe fade
+
+#voice kond0430
+[Konomi] "Ah... ahhh... it's going in... can I put it in deeper? Ah... my stomach... is being filled up with your penis..."
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入B1-3＊
+;EVCG EV063B3
+#cg イベント ev063b3 背景
+#wipe fade
+
+The penis disappears into the cavity with a 'slurp' sound.
+
+"Ahh... it feels so good... it's so hot inside Konomi."
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B1
+#cg イベント ev063b1 背景
+#wipe fade
+
+#voice kond0431
+[Konomi] "...Yeah, mine too... Human-kun's penis is really hot too... Ahh... my stomach... hurts... but... it feels good..."
+
+Unable to resist, he thrusts Konomi up from below.
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B2
+#cg イベント ev063b2 背景
+#wipe fade
+
+#voice kond0432
+[Konomi] "Ahh... I'm being skewered by a human's penis... it feels good... more, more... aah... aah..."
+
+Konomi's body seemed to relax as she dropped straight down and swallowed the meat spear all the way to the base with gusto.
+
+Just before that spot, which appears to be open to its limit, his cute little penis trembles every time he moves his body up and down.
+
+When I lightly poked the tip of the young stem, which was bouncing invitingly, Konomi's body trembled exaggeratedly.
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B3
+#cg イベント ev063b3 背景
+#wipe fade
+
+#voice kond0433
+[Konomi] "Don't touch me... I'll melt... I'll melt from my penis and asshole..."
+
+"Does it feel that good?"
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B1
+#cg イベント ev063b1 背景
+#wipe fade
+
+#voice kond0434
+[Konomi] "Yeah. It feels so good... Ah... Ahh... I'm being shaken, and it's rubbing deep inside me..."
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B3
+#cg イベント ev063b3 背景
+#wipe fade
+
+#voice kond0435
+[Konomi] "My butt is spreading...it's turning over...ahhh...mmm...ahhh ahh...ahh...human-kun, does it feel good too, human-kun?"
+
+"Yeah, I feel really good too."
+
+#voice kond0436
+[Konomi] "Inside my tummy... your human-kun's... penis is twitching... ahah... thrust it all the way up... stir up my tummy with a squishy sound..."
+
+As he thrusts violently from below, Konomi's hot, sticky intestines begin to wrap around his cock.
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B1
+#cg イベント ev063b1 背景
+#wipe fade
+
+#voice kond0437
+[Konomi] "The tip of the human is poking the inside of my penis...ahh, unh...it's rubbing against my penis from the inside..."
+
+#voice kond0438
+[Konomi] "It feels so good... As expected, human penis feels so good... Rub it... Rub it a lot..."
+
+His wriggling movements quickly made his arousal evolve into a desire to ejaculate. If he hadn't come in Konomi's mouth earlier, it might have happened sooner.
+
+"...I'm going to come again. I'm going to let it out."
+
+When I told her, Konomi wriggled with delight even more.
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B3
+#cg イベント ev063b3 背景
+#wipe fade
+
+#voice kond0439
+[Konomi] "Ahh...ahh...cum inside me...loads of semen...cum inside my tummy...fill me up with your human semen."
+
+The unpredictable movements combined with your own thrusts can easily leave you at its mercy.
+
+I somehow managed to get myself in the groove and pushed Konomi up even further.
+
+"Ugh... here I go."
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B2
+#cg イベント ev063b2 背景
+#wipe fade
+
+#voice kond0440
+[Konomi] "Yeah, come, come! I'm coming too!"
+
+Since her position made it difficult for her to move, he increased the speed of his thrusts, slamming them into her soft intestines.
+
+In no time, the pleasure reached a climax and I felt the anticipation of ejaculation.
+
+"Ahh... ugh..."
+
+;ＥＶ絵――EV063『コノミ騎乗位』挿入
+;EVCG EV063B3
+#cg イベント ev063b3 背景
+#wipe fade
+
+#voice kond0441
+[Konomi] "Hyaaah... inside... it jumps... I'm cumming too..."
+
+He puts strength into his buttocks and releases his semen into Konomi in a shooting motion.
+
+;ＥＶ絵――EV063『コノミ騎乗位』主人公射精
+;EVCG EV063C2
+
+;SE se023 射精音1（ニンゲン）
+#se 1 se023
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev063c2 背景
+#bg BG07b_3
+#wipe fade 300
+
+Konomi let out a cry of joy as the hot semen was forcefully pumped into her.
+
+;ＥＶ絵――EV063『コノミ騎乗位』コノミ射精
+;EVCG EV063C1
+
+;SE se024 射精音2（エルフ）
+#se 1 se024
+
+;ホワイトアウト
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev063c1 背景
+#bg BG07b_3
+#wipe fade 300
+
+#voice kond0442
+[Konomi] "Ahh... it's hot... flowing in... aahhh... it's seeping into the place that's become hot from being rubbed..."
+
+#voice kond0443
+[Konomi] "I'm being kneaded and poured into it... I'm cumming a lot... My ass is so hot, I'm melting‾"
+
+;暗転
+;#face off
+
+#cg all clear
+#bg black
+#wipe fade
+#mes clear
+#wait 2000
+
+;ＥＶ絵――EV064『またいっしょにいられるね』表情A1-2
+;EVCG EV064A1
+#cg イベント ev064a1 背景
+#wipe fade
+
+#voice kond0444
+[Konomi] "Yes, human!"
+
+Konomi, sitting on my lap, offers me the peeled fruit.
+
+"..."
+
+Konomi took the finger into her mouth and laughed happily.
+
+;ＥＶ絵――EV064『またいっしょにいられるね』
+;EVCG EV064A2
+#cg イベント ev064a2 背景
+#wipe fade
+
+#voice kond0445
+[Konomi] "Hahaha, don't eat the finger. It tickles."
+
+Konomi was rocking happily on my lap.
+
+#voice kond0446
+[Konomi] "After all, naughty things feel good, and it feels good to be with a human, right?"
+
+"I see. I enjoy being with Konomi too."
+
+;ＥＶ絵――EV064『またいっしょにいられるね』
+;EVCG EV064A1
+#cg イベント ev064a1 背景
+#wipe fade
+
+#voice kond0447
+[Konomi] "You know, I like sex, but I also like being held even when we're not connected like this, you know?"
+
+Konomi looked up at me happily.
+
+#voice kond0448
+[Konomi] "Human-kun, you've changed, but you're still the same, aren't you? You still make me feel so good."
+
+Elves don't change, but humans do, Konomi said.
+
+If we keep changing, the paths that once parted ways will surely cross again and again.
+
+Cherishing these unchanging feelings, I will come to see Konomi again and again.
+
+Both things that change and things that do not change are irreplaceable.
+
+"A lot of things happened to me while I was away from Konomi. I learned a lot of things. Like when the moon will be eaten by a wolf."
+
+;ＥＶ絵――EV064『またいっしょにいられるね』
+;EVCG EV064A2
+#cg イベント ev064a2 背景
+#wipe fade
+
+#voice kond0449
+[Konomi] "Whoooooaaa? That's amazing, isn't it?"
+
+"Right now, I'm living in the royal capital... I think I'll be able to bring you back at the next lunar eclipse, so why don't you spend the time with me until then?"
+
+It's like a bet, a promise that binds the wayward elf.
+
+But Konomi seemed to enjoy leaning her weight onto me.
+
+;ＥＶ絵――EV064『またいっしょにいられるね』
+;EVCG EV064A1
+#cg イベント ev064a1 背景
+#wipe fade
+
+#voice kond0450
+[Konomi] "That's a good idea. I've been thinking that I'd like to spend more time with humans too. I'll have to bring lots of Wasurena incense."
+
+How wonderful it would be if we could spend even just a limited time together.
+
+"There are lots of fun and beautiful things in the royal capital. I'm sure Konomi will like them."
+
+#voice kond0451
+[Konomi] "That'll be fun."
+
+Konomi laughed, stretched her limbs, and looked up at my face.
+
+;ＥＶ絵――EV064『またいっしょにいられるね』
+;EVCG EV064A2
+#cg イベント ev064a2 背景
+#wipe fade
+
+#bgvoice stop
+#bgm 0 stop 3000
+
+#voice kond0452
+[Konomi] "But what I'm most looking forward to is being able to be with Human-kun forever?"
+
+#voice kond0453
+[Konomi] "You know, I love humans so much, you know?"
+
+;SMODE 057 STOP
+#endscene
+
+;コノミENDフラグON
+#set t3 1
+#set s3 1
+
+#if s1==1&&s2==1&&s3==1&&s4==1
+#set t9 1
+#endif
+
+;MCK
+#wait 4000
+#cg all clear
+#bg white
+#wipe fade
+
+#bgvoice stop
+
+#mes clear
+#mes off flash
+#system off flash
+
+;スタッフロール表示後、タイトルへ
+;※スタッフロール
+
+#movie skipoff
+
+;HT_ED_K.mpg
+#movie HT_ED_K
+#movie skipon
+
+;※エンド表示
+;BG:BG71_1
+
+;MC
+
+#bgm 0 stop 1000
+
+#bg bg71_1
+#wipe fade 4000
+#wait 8000
+#bg black
+#wipe fade 4000
+
+#title

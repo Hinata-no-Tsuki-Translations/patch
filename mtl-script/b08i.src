@@ -3,16 +3,16 @@
 ;背景：山小屋（昼）
 ;変更なし
 
-“How big is the carpet of fruit growing there?”
+"How big is the area with fruit growing like a carpet?"
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0593
-[Ibara] "It's really big, like this."
+[Ibara] "It's so spacious, it's like this."
 
-Ibara ran around and showed almost the entire area of the hut, and if there was really that much fruit growing like a carpet, it would be a big deal.
+Ibara ran around and showed us almost the entire hut, and if there really was fruit growing there like a carpet, that was quite something.
 
 "That's amazing."
 
@@ -25,7 +25,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 #voice hinb0544
-[Hinata] "Fooooooooooooooooooooo! You're so wide, you'll be able to catch a lot of fruit!"
+[Hinata] "Wooooooow! It's so big, we can pick lots of fruit."
 
 ;CHR OFF
 #cg all clear
@@ -36,7 +36,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 #voice konb0531
-[Konomi] “That might be fun.”
+[Konomi] "That might be fun."
 
 ;CHR OFF
 #cg all clear
@@ -49,7 +49,7 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 ;TKface
 
 #voice tikb0585
-[Tsukiyo] “That’s amazing.”
+[Tsukiyo] "It's amazing."
 
 ;CHR OFF
 #cg all clear
@@ -60,20 +60,20 @@ Ibara ran around and showed almost the entire area of the hut, and if there was 
 #wipe fade
 
 #voice ibab0594
-[Ibara] “Of course. This is the place I found it!”
+[Ibara] "Of course. I'm the one who discovered it!"
 
-Ibara proudly puffs out his chest.
+Ibara puffed out his chest proudly.
 
-...Even if this is only half-hearted, if there are clusters of fruits growing there, it might be a good idea to go there.
+...Even if I take what I hear with a pinch of salt, if there are a fair number of fruit trees growing there, it might be worth going.
 
-"Okay, then Ibara will take you there today."
+"Okay then, let me take you to Ibara today."
 
 ;CHR I11F1 C
 #cg イバラ iba_1_11f1 中
 #wipe fade
 
 #voice ibab0595
-[Ibara] “Of course!”
+[Ibarra] "Of course!"
 
 ;CHR OFF
 #cg all clear
@@ -96,7 +96,7 @@ Ibara proudly puffs out his chest.
 #wipe fade
 
 #voice hinb0545
-[Hinata] "Fuwawawawawawa...fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+[Hinata] "Waaaawawawa... Whoooooaa!!!"
 
 ;CHR OFF
 #cg all clear
@@ -107,7 +107,7 @@ Ibara proudly puffs out his chest.
 #wipe fade
 
 #voice ibab0596
-[Ibara] “Hehe”
+[Ibara] "Hmmm."
 
 ;CHR OFF
 #cg all clear
@@ -131,7 +131,7 @@ Ibara proudly puffs out his chest.
 ;TKface
 
 #voice tikb0586
-[Tsukiyo] “It’s beautiful.”
+[Tsukiyo] "It's beautiful."
 
 "...This is amazing."
 
@@ -139,45 +139,45 @@ Ibara proudly puffs out his chest.
 #cg all clear
 #wipe fade
 
-It's not flat like a flower garden, but there are various fruits growing profusely between the trees.
+Although it is not flat like a flower field, the trees are laden with various fruits.
 
-It was certainly no exaggeration to say that this was like a carpet of fruit.
+Indeed, it would not be an exaggeration to say that this was like a carpet of fruit.
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 
 #voice ibab0597
-[Ibara] "Wow! Isn't it wonderful!? Isn't it beautiful!?"
+[Ibara] "What?! Isn't it wonderful?! Isn't it beautiful?!"
 
-"Ah, yeah. I was impressed."
+"Oh yeah. I was really moved."
 
 #voice ibab0598
-[Ibara] “That’s right, that’s right!”
+[Ibara] "That's right, that's right!"
 
-I have never seen so many fruits growing in clusters.
+I have never seen such a large concentration of fruit before.
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0599
-[Ibara] "Come on, human. Pick and eat to your heart's content!"
+[Thorns] "Come on, humans. Pick and eat to your heart's content!"
 
-"Yeah, I'll let you do that."
+"Yeah, I'll do that."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-When I immediately squatted down and tried to pick the fleas...
+I immediately squatted down to pick the fleas...
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
 #wipe fade
 
 #voice hinb0546
-[Hinata] "Wow! Hinata's going to get a lot of fun! That's right today!"
+[Hinata] "Wow! I'm going to poke you a lot, Hinata! That's what I'm going to do today!"
 
 ;CHR OFF
 #cg all clear
@@ -194,17 +194,17 @@ When I immediately squatted down and tried to pick the fleas...
 ;ssdelete
 
 #voice tikb0587
-[Tsukiyo] “A competition?”
+[Tsukiyo] "A competition?"
 
 #voice ibab0600
-[Ibara] “It’s a competition!?”
+[Ibara] "A competition, you say?!"
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 
 #voice hinb0547
-[Hinata] “I’m sure Human-san will be happy!”
+[Hinata] "I'm sure humans will be happy!"
 
 #voice tikb0588
 [Tsukiyo] "...! Yes, it is!"
@@ -214,13 +214,13 @@ When I immediately squatted down and tried to pick the fleas...
 #wipe fade
 
 #voice ibab0601
-[Ibara] "Wait a minute! I'm sure I'm the one who makes humans the most happy, right?"
+[Ibara] "Wait a second! It's obvious that I'm the one who can make humans the happiest!"
 
-Hinata is jumping around excitedly, Tsukiyo is being lured by it, and Ibara is already getting worked up.
+Hinata was jumping around excitedly, Tsukiyo was drawn in, and Ibara was already losing it.
 
 "a……"
 
-I thought about calling out to him to stop him, but I don't think he would be able to hear anything like this...
+I thought about calling out to him to stop him, but with the way things were going it seemed like he wouldn't hear me...
 
 ;CHR OFF
 #cg all clear
@@ -231,63 +231,63 @@ I thought about calling out to him to stop him, but I don't think he would be ab
 #wipe fade
 
 #voice konb0533
-[Konomi] “Ningen-kun, I told you I didn’t need a lot.”
+[Konomi] "Human-kun, I told you I don't need too many."
 
-“I told you, didn’t I?”
+"I told you, didn't I?"
 
 #voice konb0534
-[Konomi] "Yeah, but it looks like it'll be fun, so I'll join in too."
+[Konomi] "Yeah, but it looks like fun so I'll join in too."
 
-“Ah, hey, Konomi.”
+"Oh, hey, Konomi."
 
 ;CHR K01F2A C
 #cg コノミ kon_1_01f2a 中
 #wipe fade
 
 #voice konb0535
-[Konomi] “Hehehe, I won’t lose either.”
+[Konomi] "Hehehe, I won't lose either."
 
 ;FACE I04F
 #face f_iba_0_04f 94 466
 
 
 #voice ibab0602
-[Ibara] “What!?”
+[Ibara] "What?!"
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
 
 
 #voice hinb0548
-[Hinata] "Wow! Kyo-so, Kyo-so!"
+[Hinata] "Yay! Today is the day! Today is the day!"
 
 ;FACE T02F
 #face f_tuk_0_02f 94 466
 
 
 #voice tikb0589
-[Tsukiyo] "Hawawawawa..."
+[Tsukiyo] "Oh no..."
 
-"...It looks like it'll be fun, so it's okay."
+"…………It looks like fun, so I guess it's okay."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-If you catch too much, you can pickle it in sugar, boil it sweetly, or pickle it in sake.
+If you catch too many, you can candy them, simmer them in sweet sauce, or soak them in sake.
 
-That way, it becomes a good preserved food when you don't have anything else.
+That way it'll be a good preserved food for when you're short on anything.
 
-While thinking about this, I brought a freshly hatched fleas to my mouth...
+With that in mind, I put the freshly picked Kurenai flea into my mouth...
 
-"Huh!? Sour!?"
+"Huh?! Sour?!"
 
 ;CHR H06F1_A C
 #cg ヒナタ hin_1_06f1_a 中
 #wipe fade
 
 #voice hinb0549
-[Hinata] “Huh!?”
+[Hinata] "Huh?!"
 
 ;CHR OFF
 #cg all clear
@@ -300,9 +300,9 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 ;TKface
 
 #voice tikb0590
-[Tsukiyo] “What’s wrong?”
+[Tsukiyo] "What's wrong?"
 
-"No, I can't help it...this is so sour..."
+"No, no matter what you say... this is really sour..."
 
 ;CHR OFF
 #cg all clear
@@ -313,54 +313,54 @@ While thinking about this, I brought a freshly hatched fleas to my mouth...
 #wipe fade
 
 #voice ibab0603
-[Ibara] “What!?”
+[Ibara] "Huh?!"
 
 ;CHR K02F2 R
 #cg コノミ kon_1_02f2 右
 #wipe fade
 
 #voice konb0536
-[Konomi] “A‾rara‾?”
+[Konomi] "Oh oh oh oh?"
 
-When I casually brought the Kurenai nomi to my mouth, the sourness was so strong that it hit my brain.
+I casually took a bite of the Kurenai flea, and the intense sourness hit me right to the top of my head.
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
 #wipe fade
 
 #voice ibab0604
-[Ibara] “I-it’s not supposed to be like that...Ginya!?”
+[Ibara] "That can't be... Ginyaa?!"
 
-Ibara tried it himself and was in agony.
+Even the thorns writhe in agony as they try to put them in their mouths.
 
 ;FACE H06F1_A
 #face f_hin_0_06f1_a 94 466
 
 
 #voice hinb0550
-[Hinata] “Hiyawa!?”
+[Hinata] "Wow!?"
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 
 #voice tikb0591
-[Tsukiyo] “Kyu!?”
+[Tsukiyo] "Kyuuuh?!"
 
 ;CHR K06F R
 #cg コノミ kon_1_06f 右
 #wipe fade
 
 #voice konb0537
-[Konomi] "Nya‾, this is sour‾"
+[Konomi] "Meow, this is sour."
 
-Everyone tries to taste it and trembles.
+Everyone starts struggling and putting something in their mouths.
 
-Since I said it was sour, I didn't have to go out of my way to eat it...
+I told you it was sour, so there's no need to go out of your way to eat it...
 
-Just to be sure, I also tried eating a different group of black fleas and horsetail.
+Just to be sure, I also try eating a different species of fish, the Japanese flea and the horse pear.
 
-All of them had a lot of fruit, but they were very sour.
+There was a lot of fruit on each one, but they were very sour.
 
 "Hmm, I see..."
 
@@ -369,37 +369,37 @@ All of them had a lot of fruit, but they were very sour.
 #wipe fade
 
 #voice ibab0605
-[Ibara] “W-what do you mean?”
+[Ibara] "Wh-what do you mean?!"
 
-"No, it's common in fields, but when there's too much fruit, the taste can get bad."
+"Well, it's common in fields, but if there's too much fruit, the taste can go bad."
 
 ;CHR I09F L
 #cg イバラ iba_1_09f 左
 #wipe fade
 
 #voice ibab0606
-[Ibara] “What!?”
+[Ibara] "Huh?!"
 
-``If the sun doesn't hit each individual fruit, or if they compete for nutrients, they become sour or bitter...I guess there are too many fruits here.''
+"If the individual fruits don't get enough sunlight, or if they compete for nutrients, they will become sour or bitter... There must be too many fruits here."
 
-“Look, the trees here are tall and grow densely together, so it doesn’t get much sunlight, right?”
+"Look, the trees here are tall and growing close together, so the sunlight isn't very good, right?"
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-I see, there are a lot of berries, but they are all rather small, probably because they don't get much sunlight and grow in too many clumps.
+Indeed, there are many fruits on the tree, but they are all a little small, probably due to poor sunlight and the fact that they are growing in too large a cluster.
 
-If you just look at the scenery, it's really beautiful.
+Just looking at the view is really beautiful.
 
-Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be able to eat anything like this.
+The surprise somehow subsided my hunger, but I didn't feel like I could eat it any more.
 
 ;CHR H02F2_A C
 #cg ヒナタ hin_1_02f2_a 中
 #wipe fade
 
 #voice hinb0551
-[Hinata] "Ningen-san, why can't you eat even though you're so tired?"
+[Hinata] "Human, you picked all this and still can't eat it?"
 
 ;CHR OFF
 #cg all clear
@@ -410,7 +410,7 @@ Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be
 #wipe fade
 
 #voice konb0538
-[Konomi] “It’s a waste‾”
+[Konomi] "Oh my, what a waste."
 
 ;CHR OFF
 #cg all clear
@@ -423,19 +423,19 @@ Thanks to my surprise, my hunger has subsided somehow, but I don't think I'll be
 ;TKface
 
 #voice tikb0592
-[Tsukiyo] "It's..."
+[Tsukiyo] "Yes..."
 
-"No, I don't think you can't eat it if you think about it..."
+"Well, I think it's possible to make it edible if you put some thought into it..."
 
-The bag that Hinata and the others showed me already contained a lot of crucian fleas and edible fruits.
+The bag that Hinata and the others showed us was already filled with many kurenai fleas and edible fruit.
 
-Perhaps because I was so absorbed in the competition, I managed to collect a lot of things in such a short time.
+Maybe it was because I was so caught up in the competition, but I'm amazed at how many I managed to collect in such a short time.
 
-It would definitely be a waste to throw this away and go home.
+It would be a shame to just throw this away and go home.
 
-Besides, it's something that everyone picked for me...I can't help but feel that way.
+Besides, no matter what anyone says, they were all picked for me... I shouldn't just dismiss their feelings.
 
-“I’ll take it home and try making it with sugar or boiled in sweets.”
+"I'll take some home and try making some candied or sweetened versions."
 
 ;CHR OFF
 #cg all clear
@@ -446,9 +446,9 @@ Besides, it's something that everyone picked for me...I can't help but feel that
 #wipe fade
 
 #voice hinb0552
-[Hinata] "Oh? Does it taste better that way?"
+[Hinata] "Oh? Does that make it taste better?"
 
-"I do not know but……"
+"I don't know though..."
 
 ;CHR OFF
 #cg all clear
@@ -459,36 +459,36 @@ Besides, it's something that everyone picked for me...I can't help but feel that
 #wipe fade
 
 #voice ibab0607
-[Ibara] “Uuuuuuuuuuuuuuuuuuuuuuuuuuu up to this place…”
+[Ibara] "Ugh... It's because I brought you here..."
 
-Ibara, who brought me here, seems to feel responsible, and his shoulders are completely slumped.
+Ibara, who had brought us here, seemed to feel responsible and had his shoulders slumped.
 
-"No, it's a really beautiful place. Ibara was trying to show me this."
+"Well, it's a very beautiful place. Ibara wanted to show it to me."
 
 #voice ibab0608
-[Ibara] "Hm... that's right. But it's so sour..."
+[Ibara] "Hmm... that's right. But it's so sour..."
 
-"Elves generally don't eat anything, so you didn't try it, right? It can't be helped."
+"Elfs don't eat much, so you probably didn't try to eat it, right? It can't be helped."
 
 #voice ibab0609
-[Ibara] "Uh..."
+[Ibara] "Ugh..."
 
-Even when I gently stroked Ibara's head, it didn't seem to improve his mood.
+Even when I gently patted Ibara on the head, it didn't seem to improve his mood.
 
-Well, if I stay here for too long, I'll only get depressed.
+Oh well, I guess staying here too much is only going to make me more depressed.
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-"Then let's go back to the cabin."
+"Well, let's go back to the hut."
 
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
 
 #voice konb0539
-[Konomi] “I understand‾”
+[Konomi] "Okay."
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466
@@ -502,9 +502,9 @@ Well, if I stay here for too long, I'll only get depressed.
 
 
 #voice tikb0593
-[Tsukiyo] “Yes.”
+[Tsukiyo] "Yes."
 
-Even as the other elves responded, Ibarra remained silent.
+Ibarra remained silent even as the other elves replied.
 
 ;BGMch2 amb001 停止
 #bgvoice stop
@@ -525,105 +525,105 @@ Even as the other elves responded, Ibarra remained silent.
 #bg BG07b_1
 #wipe fade
 
-In the end, I finished my dinner with some boiled vegetable soup, and decided to dispose of the fruit I had picked.
+In the end, I finished my dinner by eating some soup from boiled vegetables, and then I decided to deal with the fruit I had picked.
 
-However, since I didn't have that much sugar in stock, I guess it can't be helped that I ended up with a lot of fruit left over.
+That being said, we didn't have that much sugar stored up, so it's inevitable that we end up with a lot of fruit left over.
 
-The elves except Ibara probably got completely bored during the work and went somewhere to play.
+The elves, except for Ibara, seemed to have gotten bored halfway through the work and went off to play somewhere.
 
-I am hugging my knees in the corner of the hut, only blocked by thorns.
+Only Ibara was there, gloomy, hugging his knees in the corner of the hut.
 
-“Maybe I should dry the rest tomorrow or something and put it in sake.”
+"I'll dry out the rest starting tomorrow and then soak it in sake."
 
-I'll go to the village soon and buy some sugar. Stocking up on sugar and salt in large quantities will likely lead to a richer life later on.
+I'll go to the village nearby and buy more sugar. Stocking up on sugar and salt will make life easier in the future.
 
-If you want to make preserved food, no matter what you do, you'll need large quantities of both...
+If you want to make preserved food, you're going to need a lot of both no matter what...
 
-Also, if you think about it in case you get sick again, you might want to keep some food stocked up.
+Also, in case I get sick again, I should probably stock up on extra food.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0610
-[Ibara] “Oh, hey, human.”
+[Ibara] "Hey, hey, human."
 
 "Hmm? What?"
 
-Before I knew it, Ibara had come right next to me and was fidgeting as if to say something.
+When I noticed, Ibara was standing right next to me, fidgeting as if he wanted to say something.
 
 ...Do you want to apologize?
 
-"I don't care. Next time, show me where you can find delicious fruit."
+"I don't mind, so next time, please show me where there are tasty fruits."
 
-I was trying to say it lightly, hoping it wouldn't bother me, but Ibara's face quickly turned red from his tantrum.
+He had said it lightly, hoping Ibara wouldn't take it too seriously, but his face was turning redder and redder with irritation.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0611
-[Ibara] “Are you making fun of me!?”
+[Ibara] "A-Are you making fun of me?!"
 
-"N-no...I didn't mean that..."
+"N-no... that's not what I meant..."
 
 #voice ibab0612
-[Ibara] "You got it!? You're planning to keep this fruit and keep mocking my failures!?"
+[Ibara] "Got it?! You're going to keep this fruit and laugh at my failures forever?!"
 
-Ibara overturned the bowl containing the freshly treated cranial fleas.
+Ibara turned over the container containing the freshly processed crane fleas.
 
 ;SE
 
-"Wow!? What are you doing, Ibara!"
+"Wha?! What are you doing, Ibara?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0613
-[Ibara] “You don’t have to force yourself to eat this kind of food!”
+[Ibara] "You don't have to force yourself to eat this!"
 
-As a result, the precious sugar was scattered all over the floor.
+As a result, the fleas and other insects were scattered all over the floor, along with the precious sugar.
 
-“What are you doing!?”
+"What are you doing?!"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0614
-[Ibara] “Noisy, noisy, noisy!”
+[Ibara] "Shut up, shut up, shut up!"
 
-“Wouldn’t it be a waste if we did that!?”
+"It would be a waste to do that!"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0615
-[Ibara] “You can’t eat this, so you should have thrown it away!”
+[Ibara] "I can't eat this, so I should have thrown it away!"
 
-"That's why I cooked it so I could eat it."
+"So I cooked it so that I could eat it."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0616
-[Ibara] "If something doesn't taste good from the beginning, it won't taste good even if you cook it!"
+[Ibara] "If something isn't tasty to begin with, it won't taste good even if you cook it!"
 
-Ibara completely lost his temper and trampled the scattered crenai fleas.
+Ibara, completely enraged, crushed the scattered fleas.
 
-“Ibara!”
+"Ibara!"
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0617
-[Ibara] “Hi!?”
+[Ibara] "Huh?!"
 
-As expected, I can't help but get angry when things get this far.
+After all, it's impossible not to get angry after something like this.
 
 ;CHR OFF
 #cg all clear
@@ -634,78 +634,78 @@ As expected, I can't help but get angry when things get this far.
 
 ;ぱしーん
 
-I caught Ibara, held him by the butt, and slapped him with the palm of my hand.
+I grabbed Ibara, grabbed him by the buttocks and slapped him with the palm of my hand.
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0618
-[Ibara] "It hurts!? What are you doing, human!?"
+[Ibara] "Ouch! What are you doing, human!?"
 
-“Children who waste food will be punished!”
+"Children who waste food will be punished!"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0619
-[Ibara] "Food...if you can't eat it, it's not food, right?"
+[Ibara] "Food... if you can't eat it then it's not food, right!?"
 
-"It's not that you can't eat it, you just have to find a way to eat it."
+"It's not that you can't eat it, you just need to be creative to make it edible."
 
 ;SE
 
 ;ぱしーん、ぱしーん
 
-When I hit my butt with my palm, it made a nice popping sound.
+When I hit his buttocks with the palm of my hand, a satisfying smacking sound came out.
 
 #voice ibab0620
-[Ibara] "Hyaaah!? Ah! Ah!? It hurts! It hurts! Hyaaaaaaaaan!"
+[Ibara] "Ahh?! Ah! Ahh?! It hurts! It hurts! Aaaaaah!"
 
-"Please apologize properly. To the Kurenai fleas that were wasted, and to Hinata and the others who collected them!"
+"You should apologize properly. To the Kurenai fleas that went to waste, and to Hinata and the others who collected them!"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0621
-[Ibara] "Well, there's no need for that! It's my fault..."
+[Ibara] "There's no need for that! It's not my fault..."
 
 ;SE
 
 ;ぱしーん、ぱしーん
 
 #voice ibab0622
-[Ibara] "Ah!? Anh! W-what are you doing...my butt is throbbing...huh...ahhh..."
+[Ibara] "Ahh?! Ahh! Wh, what are you doing? My butt is tingling... Ahh... Ahh..."
 
-While I was slapping and scolding her ass, Ibara's seductive voice gradually made me horny.
+As I spanked her and scolded her, Ibara's seductive voice gradually made me aroused.
 
-...No, this isn't the time to think about that.
+…No, this is not the time to be thinking about such things.
 
 ;SE
 
 ;ぱしーん
 
 #voice ibab0623
-[Ibara] “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+[Ibara] "Ahh! No more... I don't want you to hit my butt... My butt hurts and it's hot... aahhh..."
 
-"Wh-Which one...let me see."
+"Wh-which one...let me see."
 
-When Ibara's butt was exposed, it was red and swollen, resembling a ripe fruit.
+When I exposed his buttocks, Ibara's buttocks were red and swollen, looking just like a ripe fruit.
 
-"Do you feel remorseful after being punished this much...?"
+"After being punished this much, have you reflected on your actions...?"
 
 ;FACE I02F
 #face f_iba_0_02f 94 466
 
 
 #voice ibab0624
-[Ibara] “It’s not my fault, so why should I repent!?”
+[Ibara] "I didn't do anything wrong, so why do I have to feel guilty about it!?"
 
-"...It seems like you haven't been punished enough."
+"...Looks like your punishment wasn't enough."
 
-I picked up the thorns.
+I picked up Ibara.
 
 ;SE
 
@@ -723,295 +723,295 @@ I picked up the thorns.
 #cg イベント ev028a1 背景
 #wipe fade
 
-“Let’s feed the fruit to Ibara so that the fruit we have taken doesn’t go to waste.”
+"Let's feed the fruit we picked to Ibara so it doesn't go to waste."
 
 #voice ibab0625
-[Ibara] “W-what are you planning to do!?”
+[Ibara] "Wh-what are you planning to do?!"
 
-"I won't force you to eat sour food. I'll have you eat it from your mouth."
+"I won't force you to eat sour food. You'll have to eat it from my mouth."
 
 #voice ibab0626
-[Ibara] "Nya!? What, that's... weird, don't let me in!?"
+[Ibara] "Nya?! Wh, that's... weird, don't put that in!?"
 
-"It's not weird. It's the fruit we all worked hard to collect today, right?"
+"It's not weird. These are the fruits we all worked hard to collect today."
 
-I licked the tip of the crimson fruit and slowly pressed it against the pretty constriction.
+I licked the tip of the crimson fruit and slowly pressed it against her delicate narrowing.
 
 #voice ibab0627
-[Ibara] "Oh no!? That can't come in! It can't come in!"
+[Ibara] "No, no! That won't fit in! It won't fit in!"
 
-The part that had been so tightly squeezed into it rejected the soft fruit, and before I could get any further in, it succumbed to the pressure from my fingers and collapsed.
+When I applied force to it, the soft fruit rejected it, and before I could get much in, it succumbed to the pressure from my fingers and crushed.
 
-“Look, if you put too much force into it, it won’t go in, right?”
+"See, if you use too much force it won't go in, right?"
 
-The red juice, like the blood of a crushed melon, wets the hind hole of the thorn.
+Red juice, like the blood of a broken hymen, wets the thorn's anus.
 
-Combined with her white skin, the sight looked strangely obscene.
+Combined with her white skin, the sight looked strangely lewd.
 
 #voice ibab0628
-[Ibara] "I-I don't want to include that..."
+[Ibara] "But... I don't want to put something like that in..."
 
-“Then, would you rather have your butt hit as hard as you did earlier?”
+"So, would you rather be spanked a lot like before?"
 
 #voice ibab0629
-[Ibara] “I don’t like that!”
+[Ibara] "I don't want that!"
 
-“Then, please be quiet after all.”
+"Well then, you should behave yourself."
 
 #voice ibab0630
-[Ibara] "Ah... uh..."
+[Ibara] "Ahh.... uhh...."
 
-Take a bite of the crushed fruit, which gives off a sweet aroma.
+He puts the fruit into his mouth, which gives off a sweet aroma when crushed.
 
-It's extremely sour and makes me salivate afterwards. However, that feeling was strangely comforting in this situation.
+It was sour that it made me salivate for a long time, but in this situation, the sensation felt strangely good.
 
-“But I guess I have to wet it thoroughly and make it soft.”
+"But I guess I have to wet it thoroughly and soften it first."
 
 #voice ibab0631
-[Ibara] “Hey!?”
+[Ibara] "Hiiiiiiii?!"
 
 ;EVCG EV028B1
 #cg イベント ev028b1 背景
 #wipe fade
 
-I ran my tongue over the red juice dripping into Ibara's asshole, and coated it with the saliva that filled my mouth, as if pumping it into Ibara's intestines.
+He runs his tongue over the red juice dripping from Ibara's anus, smearing the saliva that is overflowing from his mouth as if sending it into Ibara's intestines.
 
 #voice ibab0632
-[Ibara] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh tossssssssssssssssssssssssssssssssssssssssssssssss.
+[Ibara] "Ahh... ahh... ahh... that slimy, warm tongue is licking my asshole..."
 
-When I slowly dug out the hole with the tip of my tongue, Ibara's whole body relaxed as if he had lost his nerve.
+As I slowly dug into the hole with the tip of my tongue, Ibara's legs immediately gave way and he collapsed, losing all strength.
 
 #voice ibab0633
-[Ibara] “Hauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuum…”
+[Ibara] "Aaahhh... Aaahhh... Aaahh..."
 
-The cute young stems are faithful to pleasure and immediately stand up, trembling as if begging for more stimulation.
+The cute young stem was faithful to the pleasure, immediately standing up and trembling, as if wanting more stimulation.
 
-"Here, Ibara. If you were feeling good, you wouldn't be punished."
+"Hey, Ibara. If you're feeling good then you won't get punished."
 
 #voice ibab0634
-[Ibara] "I-I don't know if you said that...aaaaaaaaaaaaaaaaaaaaaaa...it feels so good...I-I can't help it..."
+[Ibara] "Even if you say that...ahhh...it feels so good...I can't help it..."
 
-"I can't help it."
+"There's no other way."
 
-Trace the cleavage, run your tongue from the back hole to the back of the balls, and lick it.
+Trace the valley between his breasts, running your tongue from his anus to the underside of his balls, licking all over.
 
 #voice ibab0635
-[Ibara] "Huff...Ah...Aaaaan...W-Why won't my penis lick me..."
+[Ibara] "Ahh... Ah... Ahh... W-why won't you lick my dick..."
 
 "Do you want me to lick you?"
 
 #voice ibab0636
-[Ibara] "...Yeah...I want you to lick my dick..."
+[Ibara] "...Yes...I want you to lick my dick..."
 
-"No, that's not a punishment. Even if Ibara does whatever feels good that he wants, it won't be a punishment, right?"
+"No. That wouldn't be a punishment. If I gave Ibara what he wanted and gave him what he wanted, that wouldn't be a punishment, right?"
 
 #voice ibab0637
-[Ibara] "Uh... that human being is so mean..."
+[Ibara] "Ugh... Humans are so mean..."
 
-"Is it Ibara's fault for not being able to apologize even though I did something wrong? Look, my butthole is getting softer and softer, so I wonder if I can fit in this?"
+"Ibara, you did something wrong, but you can't apologize. Isn't that your fault? Look, your asshole is gradually getting softer, do you think I can get it in?"
 
 #voice ibab0638
-[Ibara] "Ah!? Oh no... if I can't put it in...!"
+[Ibara] "Ahh?! Oh no... I shouldn't put it in...!"
 
-"First of all..."
+"First, the first one..."
 
-I push open the softened butthole with two fingers, and push a small cranial chisel along the supporting fingers.
+I push open the softened anus with two fingers, and push a small cockroach in, aligning it along the supporting fingers.
 
 #voice ibab0639
-[Ibara] "Uh... yes, I came in... it's kind of cold..."
+[Ibara] "Uhh... Yes, I'm in... It's kind of cold..."
 
-"I'm sure it'll fit in there. I always have something much thicker and bigger than this in my mouth. Now then, let's keep going, okay?"
+"Of course it'll go in. I'm always carrying something much thicker and bigger than this in my mouth. Now, shall we go?"
 
 #voice ibab0640
-[Ibara] "Huh? Well, isn't it over yet?"
+[Ibara] "Eh? Well, it's not over yet?"
 
-"This isn't much of a punishment, right? I promised you I'd fill you up with fruit."
+"This isn't enough of a punishment, is it? I promised you I'd feed you fruit until you were full."
 
 #voice ibab0641
-[Ibara] “Oh no...”
+[Ibara] "Oh, no..."
 
-"Here, Ibara. Next time you get violent, I'll use your butt as a pen pen. If you don't like that..."
+"Now, Ibara. If you act up again, I'll spank you. If you don't like that..."
 
-Having said that, I came up with a good idea.
+Having said that, I had a good idea.
 
-“Would you like to hold on to my dick?”
+"Why don't you hold on to my dick?"
 
 #voice ibab0642
-[Ibara] “Is this it?”
+[Ibara] "Is this it?"
 
-Ibara gingerly grabbed my cock with both hands.
+Ibara timidly grabbed my cock with both hands.
 
-"Don't let go of your hands, okay? I'll give you time to punish me until I ejaculate. So if you do your best and make me cum quickly, you can end it there."
+"Don't let go of both your hands, okay? I'll finish your punishment until I cum. So if you try your best and make me cum quickly, I can end it there."
 
 #voice ibab0643
-[Ibara] "Oh, I understand. Then, I'll do my best to make you feel comfortable, and I'll have you finish your punishment."
+[Ibara] "I, I understand. Then, I'll do my best to make this human feel good and then my punishment will be over."
 "Yeah, do your best."
 
-Ibara started handjob carefully and slowly.
+Ibarra began to give him a careful, slow handjob.
 
-"Okay, if it keeps going like that, it might be over soon."
+"Good, if you keep going like this it might be over soon."
 
-I yelled and pushed the crenoid flea into Ibara's butt again.
+I groaned and pushed the blade into Ibara's ass again.
 
-"Hey, the second one has arrived. I'll keep going too."
+"Hey, look, the second one is in. This one's going strong, too."
 
 #voice ibab0644
-[Ibara] "Naaah...my stomach is rumbling...ahhh...don't put it in, no..."
+[Ibara] "Ahhh... My stomach is rumbling... Ahh... Don't put it in..."
 
-Then, 3, 4, 5... I pushed the soft fruit of the cranium flea into the brambles, and my greedy anus swallowed them one after another.
+Then, three, four, five... he pushed the soft fruit of the flea into the thorns, and the greedy anus swallowed them one after another.
 
-Perhaps because my attention was focused on that, the movements of my hands were frighteningly slow, and they didn't seem to be urging me to ejaculate.
+Perhaps because his attention was focused on that, his hand movements were terribly slow and he was not being urged to ejaculate.
 
-"Juuu, I've already got ten pieces."
+"Juuuh, there's already ten in there."
 
 #voice ibab0645
-[Ibara] "Haa... haa... I can't get that much in... Oh no, let it out..."
+[Ibara] "Haa... haa... I can't take in that much... no, let it out..."
 
-"No, no, let's see how many we can fit."
+"No no, let's see how many we can fit in."
 
 #voice ibab0646
-[Ibara] "Ningen's idiot...I don't like it...Haa...Haa...I'm saying that, Nonii..."
+[Ibara] "You idiot human... I don't want to... haa... haa... I told you..."
 
-"Here, the 11th one. There's more to come."
+"Look, the eleventh one. There are more to come."
 
-As I pushed the crooked fleas further into my intestines, Ibara clung to my cock, which was supposed to be giving me onanism.
+As I continued to push the flea into his intestines, Ibara began to cling to my cock, which was supposed to be the one masturbating him.
 
 #voice ibab0647
-[Ibara] "Huh...I feel like my stomach is getting painful...Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...I've had to take it..."
+[Ibara] "Ahhh... I feel like my stomach is starting to hurt... Ahh... Take it, take it..."
 
-"Do you really want me to take it? The 13th one..."
+"Do you really want me to get that many? The thirteenth one..."
 
 #voice ibab0648
-[Ibara] “My stomach is full...”
+[Ibara] "I'm full..."
 
 "Sorry?"
 
 #voice ibab0649
-[Ibara] "Uh, uh... ah... the fruit hit me in my stomach..."
+[Ibara] "Uh, uh... Ahh... The fruit is hitting my stomach..."
 
-“I’m going to stuff you until you apologize or make me cum.”
+"I'm going to keep fucking you until you apologize or make me cum."
 
-Even as I urge him to apologize, he doesn't stop and keeps stuffing more and more fleas into the brambles.
+Even as he urged him to apologize, he continued to work hard, stuffing more and more of the chisels into the thorns.
 
-After being stuffed with so many fruits, Ibara's thin belly feels like it's starting to swell a little.
+It feels like the thorn's thin belly has swelled a little with all the fruit stuffed inside.
 
-When I gently stroked her belly, Hikuri and Ibara trembled.
+When I gently stroked its belly, Ibara shivered.
 
 #voice ibab0650
-[Ibara] “I’m sorry, I’ll do it… Nyauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu…I’m going to go…I’m sorry…”
+[Ibara] "I'm sorry, I'll do it... meowwww... let me out already... I'm sorry..."
 
-"Okay, fine then. I'll forgive you. You can let me out."
+"Okay then, that's fine. I forgive you. You can let it out."
 
 #voice ibab0651
-[Ibara] “Howl?”
+[Ibara] "Huh?"
 
-"You can take it out, just go ahead and take it out yourself."
+"You can let it out, just push it out yourself."
 
 #voice ibab0652
-[Ibara] “Ikimu?”
+[Ibara] "Push?"
 
-...I see, elves basically don't eat, so either they don't have the function of excretion, or they're very weak.
+...I see, since elves basically don't eat anything, they either don't have the ability to excrete, or their excretory function is very weak.
 
-"Why don't you put some effort here?"
+"Put some effort in here, okay?"
 
 #voice ibab0653
-[Ibara] “Nyaaaaaaaaaaah… Even if you say that, I don’t understand…”
+[Ibara] "Nyaa... Even if you say that, I don't understand..."
 
-When I stroked Ibara's belly, which seemed to be rolling around in a state of mindlessness, Ibara twitched and turned over.
+When I stroked Ibara's belly, which seemed to be rumbling, he jumped and leaned back.
 
-"Here, just push harder and hold your breath."
+"Now, put in more effort and hold your breath."
 
 #voice ibab0654
-[Ibara] "Hold your breath...? Hmm... uh... ah!? I feel like I'm being crushed inside!"
+[Ibara] "Am I...holding my breath? Hmm...uhh...ahh!? I feel like I'm being crushed inside!"
 
-"It's okay, that's it. Put more effort into it."
+"That's fine. Just put in more effort."
 
 #voice ibab0655
-[Ibara] "Uh... I can see the juice coming out inside my stomach... It's disgusting... I can also feel the round thing rolling around inside my stomach..."
+[Ibara] "Ugh... I can feel the juices coming out of my stomach... it's disgusting... I can even feel something round rolling around inside my stomach..."
 
 #voice ibab0656
-[Ibara] "I can't...I put it in, so I can take it out...pick your butt and take it out...I'm begging you..."
+[Ibara] "I can't... Since I put it in, I want the human to come out... Please dig into my ass and get it out... I beg of you..."
 
-"There is no choice"
+"It can't be helped."
 
-After completely swallowing the cranium fleas, it regains its cute appearance, and I gently push open the thorn bud that is dripping red juice and insert my finger into it.
+Having completely swallowed the flea, it regained its cute form, and I gently pushed open the thorn bud, which was dripping red juice, and inserted my finger.
 
 ;EVCG EV028C1
 #cg イベント ev028c1 背景
 #wipe fade
 
 #voice ibab0657
-[Ibara] “Nyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu…”
+[Ibara] "Nyuuu... When a human's finger enters me, my stomach feels even more stuffy... mmm..."
 
-"Be patient for now"
+"For now, be patient."
 
-As I wiggled my fingers, a cranial flea that had not yet completely collapsed hit my fingertips.
+As I wiggled my fingers, a still-uncrushed Kurenai flea hit my fingertips.
 
 #voice ibab0658
-[Ibara] "Inside... move it... s-that... hit the place that feels good... uh... ahhh..."
+[Ibara] "Don't move... inside... that... it's hitting a good spot... uuh... ahhh"
 
-“Even if you say that, you won’t be able to get it off unless you move it, right?”
+"Even if you say that, you can't get it unless you move it, right?"
 
-Add more fingers and stir, scattering the thorn buds, which are so cute that they look neat even with just one finger.
+He adds more fingers and stirs around, scattering the lovely thorn buds that look so tight even with just one finger.
 
 #voice ibab0659
-[Ibarara] "Ah ... huh ... Ah ... Ah ... Ningen's finger feels good ..."
+[Ibara] "Ahhh...ahhh...ahhh...human fingers feel so good..."
 
-“Even though it’s this small, you can always fit my things in there.”
+"It's amazing how my thing can fit in something so small."
 
 #voice ibab0660
-[Ibara] “That’s because humans are forcing themselves to do it, isn’t it?…hauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu…haaaaaaaaaaaaaaaaaaaaaaa…isn’t it because human beings force you to do it…”
+[Ibara] "That's... because humans force themselves... haaaa... haa haa..."
 
-Still, I bent my fingers in a dogleg shape to scrape out the fleas, and ended up nudging them even harder where I felt the thorns.
+Still, I decided to try and scrape the flea out, so I curled my fingers into an U shape, which ended up poking even harder at the sensitive spot where the thorns were.
 
 #voice ibab0661
-[Ibara] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan…aah…it feels so good…”
+[Ibara] "Ahh...ahh...that's...ahh...it feels so good..."
 
-"That's no good. If you put too much force into it, it will collapse before you can take it out."
+"No. If you use too much force, it will get crushed before you can take it out."
 
 #voice ibab0662
-[Ibara] "Even if I say that...I can't control my power..."
+[Ibara] "Even if you say that... I can't control my strength..."
 
-Every time I push my finger deep inside and scrape it out, Ibara's body trembles, and his cute dick trembles as if wanting to be touched.
+Every time I thrust my finger deep inside and scraped it out, Ibara's body trembled and his cute little penis trembled, as if wanting to be touched.
 
 #voice ibab0663
-[Ibara] "Ah... ah... ah... ah... ah..."
+[Ibara] "Ahh, ahh... ahhh... ahhh..."
 
-Her soft inner folds wrap around my fingers, and she sucks on them as if begging for more.
+Her soft inner folds wrapped around my fingers and sucked on them as if begging for more.
 
-"...It's irresistible."
+"...I can't stand it."
 
-I removed Ibara's hand and squeezed mine with one hand.
+I pushed Ibara's hand away and used the other to stroke my own penis.
 
 #voice ibab0664
-[Ibara] "Younger's penis, right in front of me... No, don't do something naughty like that, no... Haa... Haa... My dick is getting hard and twitching..."
+[Ibara] "A human penis, right in front of me... No, don't do such dirty things, no... haa... haa... my penis has gotten hard and is twitching..."
 
-"Because Ibara won't do it for me, so I have no choice but to do it myself, right? It would be strange not to get excited when Ibara is shown off in such a naughty way."
+"Well, since Ibara won't do it for me, I have no choice but to do it myself, right? It would be strange not to get excited when you see such a nasty Ibara."
 
 #voice ibab0665
-[Ibara] "Ah... are you excited when you see me...?"
+[Ibara] "Uh... are humans, uh... getting excited when they see me...?"
 
-"Yes, it's already decided."
+"Yeah, that's decided."
 
 #voice ibab0666
-[Ibara] "Ah...sigh...am I beautiful?"
+[Ibara] "Ah... haa... am I pretty?"
 
-"Ah, you're beautiful, naughty, and cute."
+"Ahh, it's beautiful, sexy and cute."
 
 #voice ibab0667
-[Ibara] "F-fufu... haa... I-I see... hehe."
+[Ibara] "Huh, heh... haah... I see... hehehe"
 
-The red juice overflows from the thorn buds that have been stirred around the soft inner flesh.
+Red juice oozed from the thorn bud as its soft inner flesh was stirred up.
 
-Before I knew it, my desire to scrape out the contents had faded, and I was squeezing the lump inside and rubbing my erogenous zones.
+Before you know it, your awareness of trying to scrape out what's inside has faded, and you begin to crush the lump inside, rubbing against the erogenous zones.
 
 #voice ibab0668
-[Ibara] "Aaaan...I...I'm already...I'm going...I'm going..."
+[Ibara] "Ahhh... I, I, I'm... I'm... I'm... I'm... I'm... coming..."
 
-"Ah, I'm going to cum too."
+"Oh, I'm coming too."
 
 #voice ibab0669
-[Ibara] "Ah! I'm going, I'm going!"
+[Ibara] "Ahh! I'm coming, I'm coming!!!"
 
 ;SE
 
@@ -1026,9 +1026,9 @@ Before I knew it, my desire to scrape out the contents had faded, and I was sque
 #bg BG07b_1
 #wipe fade 300
 
-At the same time that my cock was squirting cloudy liquid and staining Ibara's face, Ibara's young stem was also ejaculating onto my chest.
+At the same time that my cock spurted out milky liquid, soiling Ibara's face, Ibara's young stem also ejaculated onto my chest.
 
-The faint red semen mixed with the red juice of the crushed cranial flea looked like it was mixed with blood.
+The pale red semen mixed with the red juice of the crushed cockroach looked almost like it had blood mixed in it.
 
 ;SMODE 025 STOP
 #endscene

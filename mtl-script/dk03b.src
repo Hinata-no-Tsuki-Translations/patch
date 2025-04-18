@@ -1,0 +1,67 @@
+
+"Let's be quiet for today. You're just getting over an illness."
+
+;CHR K05F C
+#cg コノミ kon_1_05f 中
+#wipe fade
+
+#voice kond0264
+[Konomi] "Just recovered from an illness? What do you mean?"
+
+"The illness has only gotten milder, and your strength probably hasn't returned."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0265
+[Konomi] "Eh?! Won't you do something nice for me?"
+
+Konomi looks genuinely shocked and shocked.
+
+No, why would I think about having sex just yesterday?
+
+I don't feel like trying it because I'm afraid I might get a fever again and collapse.
+
+"I mean, what if he gets sick again? I can't force him to do anything when he's already feeling that sick."
+
+;CHR K01F1B C
+#cg コノミ kon_1_01f1b 中
+#wipe fade
+
+#voice kond0266
+[Konomi] "I'm not forcing myself, you know? I think I'll be fine."
+
+"I won't complain like that. Just stay in bed today and don't go anywhere. Okay? Otherwise I won't do anything fun for you again."
+
+;CHR K02F1 C
+#cg コノミ kon_1_02f1 中
+#wipe fade
+
+#voice kond0267
+[Konomi] "Eh? If you don't listen to what I say, human, do you think it's okay to give you a nice punishment?"
+
+"I won't. I mean, that wouldn't be a punishment at all, would it?"
+
+#voice kond0268
+[Konomi] "Really? Human-kun said it was a pleasurable punishment."
+
+...This guy.
+
+I guess my first time was bad. I guess I've been so used to the idea that punishment should be something that feels good.
+
+"Not this time. There will be no pleasant punishment."
+
+;CHR K06F C
+#cg コノミ kon_1_06f 中
+#wipe fade
+
+#voice kond0269
+[Konomi] "Oh man. It's true that humans are quick to break promises."
+
+#bgm 0 stop 2000
+
+Konomi pouted and pulled her hand away.
+
+;dk03_2へ
+#next dk03_2
