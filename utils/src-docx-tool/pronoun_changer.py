@@ -25,41 +25,43 @@ def get_stanza_pos(text: str) -> dict:
             word_tags[word.text] = word.xpos  # Use XPOS for finer tags
     return word_tags
 
-def resolve_conflict(word: str, spacy_pos: str, stanza_pos: str) -> str:
-    print(f"Conflict for word '{word}':")
-    print(f"  spaCy POS: {spacy_pos}")
-    print(f"  Stanza XPOS: {stanza_pos}")
-    choice = input(f"Use which POS for '{word}'? (1 = spaCy [{spacy_pos}], 2 = Stanza [{stanza_pos}]): ").strip()
-    if choice == '2':
-        return stanza_pos
-    return spacy_pos  # default to spaCy
+def resolve_conflict(word: str, spacy_pos: str, stanza_pos: str, sentence_tokens: list, index: int) -> str:
+    full_sentence = ' '.join(sentence_tokens)
+    pointer_line = ' '.join(['^' if i == index else ' ' * len(tok) for i, tok in enumerate(sentence_tokens)])
+    
+    print(f"\n[!] Conflict detected for word: '{word}'")
+    print(f"  > Sentence: {full_sentence}")
+    print(f"              {pointer_line}")
+    print(f"    1. spaCy\t[{spacy_pos}]\t{'his, her (ownership)' if spacy_pos == 'PRP$' else 'him, her (subject/ object)' if spacy_pos == 'PRP' else ''}")
+    print(f"    2. Stanza\t[{stanza_pos}]\t{'his, her (ownership)' if stanza_pos == 'PRP$' else 'him, her (subject/ object)' if stanza_pos == 'PRP' else ''}")
+    
+    choice = input(f"\n[?] Use which POS tag for '{word}'? (1 = spaCy [{spacy_pos}], 2 = Stanza [{stanza_pos}]): ").strip()
+    return stanza_pos if choice == '2' else spacy_pos
 
 def gender_flip(text: str) -> str:
     spacy_doc = spacy_nlp(text)
     stanza_pos_map = {}  # Lazy load only if needed
     out_tokens = []
 
-    for token in spacy_doc:
+    for i, token in enumerate(spacy_doc):
         word = token.text
         lowered = word.lower()
 
         if lowered in REPLACEMENTS:
             rep = REPLACEMENTS[lowered]
 
-            # If replacement depends on POS
             if isinstance(rep, dict):
-                spacy_pos = token.tag_  # Use fine-grained tag like PRP vs PRP$
-                
-                # Lazily load Stanza only when needed
+                spacy_pos = token.tag_
+
                 if not stanza_pos_map:
                     stanza_pos_map = get_stanza_pos(text)
                 stanza_pos = stanza_pos_map.get(word, spacy_pos)
-                print(f"Word: {word}, spaCy POS: {spacy_pos}, Stanza XPOS: {stanza_pos}")
 
-                # Conflict resolution
-                final_pos = spacy_pos
                 if spacy_pos != stanza_pos:
-                    final_pos = resolve_conflict(word, spacy_pos, stanza_pos)
+                    sentence_tokens = [t.text for t in spacy_doc]
+                    final_pos = resolve_conflict(word, spacy_pos, stanza_pos, sentence_tokens, i)
+                else:
+                    final_pos = spacy_pos
 
                 out = rep.get(final_pos, word)
             else:
@@ -76,6 +78,7 @@ def gender_flip(text: str) -> str:
         out_tokens.append(out)
 
     return " ".join(out_tokens)
+
 
 # Example usage
 if __name__ == "__main__":
