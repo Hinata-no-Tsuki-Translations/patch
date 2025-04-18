@@ -54,6 +54,7 @@ def gender_flip(text: str) -> str:
                 if not stanza_pos_map:
                     stanza_pos_map = get_stanza_pos(text)
                 stanza_pos = stanza_pos_map.get(word, spacy_pos)
+                print(f"Word: {word}, spaCy POS: {spacy_pos}, Stanza XPOS: {stanza_pos}")
 
                 # Conflict resolution
                 final_pos = spacy_pos
@@ -78,7 +79,7 @@ def gender_flip(text: str) -> str:
 
 # Example usage
 if __name__ == "__main__":
-    input_text = "She gave her book to him because it was hers, and she helped herself."
+    input_text = "As she pinched and squeezed her fully erect nipples, Konomi's body trembled violently as if she was having a convulsion herself."
     result = gender_flip(input_text)
     print("\nFinal Result:")
     print(result)
