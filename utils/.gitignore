@@ -2,3 +2,5 @@
 **/*.src.docx
 **/*.src.xlsx
 **/*.docx
+**/__pycache__/
+**/*.pyc
