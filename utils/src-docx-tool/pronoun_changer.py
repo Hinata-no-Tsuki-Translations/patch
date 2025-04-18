@@ -2,11 +2,12 @@ import spacy
 
 nlp = spacy.load("en_core_web_sm")
 
-# mapping from (lowercase) feminine form Å® masculine
+# Mapping from feminine to masculine pronouns and reflexive forms
 REPLACEMENTS = {
-    "her":      {"PRP$": "his",  "PRP": "him"},   # PRP$=possessor, PRP=personal
+    "her":      {"PRP$": "his",  "PRP": "him"},   # PRP$=possessive, PRP=personal
     "hers":     "his",                         # possessive pronoun
     "herself":  "himself",                     # reflexive
+    "she":      "he",                           # subject pronoun
 }
 
 def gender_flip(text: str) -> str:
@@ -22,7 +23,7 @@ def gender_flip(text: str) -> str:
                 out = token.text
             else:
                 if isinstance(rep, dict):
-                    # choose by tag_ (PRP$ vs PRP)
+                    # choose replacement based on tag (PRP$ vs PRP)
                     out = rep.get(token.tag_, token.text)
                 else:
                     out = rep
@@ -35,6 +36,6 @@ def gender_flip(text: str) -> str:
     return "".join(out_tokens)
 
 # Example
-s = "Her running down the street was noticed by everyone. I gave her book to the library."
+s = "She was walking to her car. Her book is on the table."
 print(gender_flip(s))
-# Å® "His running down the street was noticed by everyone. I gave him book to the library."
+# Å® "He was walking to his car. His book is on the table."
