@@ -29,476 +29,476 @@
 #wipe fade
 
 #voice ibab0339
-【イバラ】「ふっふーん♪」
+[Ibara] "Fufufun-♪"
 
-イバラは飾り布を目の前にぶら下げてニヤニヤしている。
+Ibara grinned as he dangled the decorative cloth in front of his face.
 
-多分すごく気に入ってるんだな。
+He probably really likes it.
 
-……そんなに嬉しかったのなら、素直に言えばいいのに。
+……If he was that happy, he could have simply been honest about it.
 
-なんにせよ、贈り物を喜んで気に入ってくれているらしい姿は、贈ったこちらとしても嬉しい。
+In any case, I'm happy to see that the recipient of the gift seemed to be happy with it.
 
-こんなことなら、ツキヨのあまりとかじゃなく、ちゃんとイバラのためにも何か持ってくればよかったな、
+If I knew this would be the case, I should have brought something for Ibara, and not just for Tsukiyo.
 
-綺麗なものをとかくほしがるイバラだから、装身具なんか持ってきたらさぞかし喜んでくれることだろう。
+Since Ibara has such a fondness for pretty things, he'd surely be delighted if I brought him some jewelry or ornaments.
 
-確か村の自宅には、首飾りや指輪なんか母が遺したものがいくつかあるはずだ。
+If I'm not mistaken, there are some necklaces and rings my mother left behind back home after he passed away.
 
-ほかには特に贈る相手もいないし、俺には必要のないものだから、イバラにだったら別に全部あげたって惜しくない。
+I don't have anyone else to give them to, and I don't need them myself, so I wouldn't mind giving them all to Ibara.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0340
-【イバラ】「な、なんだよ。何をじっと見てるんだ」
+[Ibara] "W-What? What are you staring at?"
 
-「あ、いや。喜んでもらえてよかったなと思ってるだけだよ」
+"Ah, no. I'm just glad that you were pleased with the gift."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0341
-【イバラ】「ふ、ふん。そうだろうそうだろう。このボクに気に入ってもらえるなど、光栄だと思うがいい！」
+[Ibara] "H-hmph. Of course, of course. You should feel honored that I have taken a liking to you!"
 
-そう言いながら、イバラがグイ、と飾り布を突き出してきた。
+As he said that, Ibara suddenly thrust the decorative cloth toward me.
 
-「え？　何？」
+"Huh? What's wrong?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0342
-【イバラ】「鈍いな。察しろ」
+[Ibara] "So dense, figure it out."
 
-「いや、して欲しいことがあるならちゃんと説明してよ」
+"No way. If there's something you want me to do, you've got to explain it properly."
 
-俺の抗議にイバラは説明しなければならないのが不服だと言わんばかりに唇を尖らせた。
+In response to my protest, Ibara pouted as if he resented having to explain.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0343
-【イバラ】「結べと言っているんだ。早くしろ」
+[Ibara] "I'm telling you to tie it up. Hurry up."
 
-なるほど、これを返すからもっとイイモノをよこせって意味かと思った。
+I almost thought he meant that I should take it back and give him something better.
 
-「はぁー。そういう時はね、結んでくださいお願いします、って言うんだよ」
+"Haa. In that case, you should say 'Please tie it' instead..."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0344
-【イバラ】「うるさい。ニンゲンの分際でボクの役に立てるだけありがたいと思え」
+[Ibara] "Shut up. You should be grateful that, as a human, you're even able to be of use to me."
 
-イバラは拗ねているのか、ジタバタと地団駄を踏んで主張する。呆れたわがままぶりだな。
+Ibara sulkingly stomped his feet in frustration as he insisted I help him. What a ridiculous display of selfishness.
 
-「はいはい。蝶結びしかできないけど、それでいいかな」
+"Ok ok- I can only tie a bow, is that okay?"
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0345
-【イバラ】「べつにかまわない。さっさとしろ」
+[Ibara] "I don't really care. Just hurry it up."
 
-イバラから飾り布を受け取り、髪に結ぼうとすると、イバラはじっと俺の手元を見た。
+I took the decorative cloth from Ibara and tried to tie up his hair, but Ibara stared intently at my hands.
 
-「そんなに見られてると、やりにくいんだけど」
+"It's hard to tie it up when you're watching so intently."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0346
-【イバラ】「ボクが結ぶと縦になる。結び方を教えろ」
+[Ibara] "When I tie it up, my hair stands straight up. Teach me how to tie it."
 
-「え？　説明しながら結ぶの？」
+"Huh? You want me to explain it to you while tying it?"
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0347
-【イバラ】「そうだ、教えろ」
+[Ibara] "Yes, teach me."
 
-「じゃあ、最初からやり直すよ。髪に結ぶんじゃ見にくくない？　結ぶところだけ見せようか？」
+"Well then, I'll start over. Isn't it hard to see if I'm tying your hair? Shall I just show you how I tie it?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0348
-【イバラ】「ボクの髪に結ぶやり方を知りたいんだから、ボクの髪に結ばなきゃ意味ないだろ」
+[Ibara] "I want to learn how to tie my hair, so it's meaningless if it's tied without my hair."
 
-それじゃイバラも見にくいんじゃないかなぁ……わからなかったらまたあとで教えてあげればいいか。
+In that case wouldn't be hard for Ibara to see... Well, if he doesn't get it, I'll teach him again later.
 
-「じゃあ、一旦解いて最初から説明しながら見せるよ」
+"Well then, I'll undo the knot and start from the beginning  while explaining."
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0349
-【イバラ】「うん」
+[Ibara] "Yes"
 
-イバラは真剣な顔で俺の手に見入っている。
+Ibara stared intently at my hands with a serious expression.
 
-「最初に両方の長さを揃える。まずこうやって、きゅっと絞って、片方を輪にする。そしたら、もう片方を上から通して、縛ったら形を整える」
+"First, align both ends such that they are the same length. Squeeze one end tightly and form a loop. Then, bring the other end through the loop and tighten it."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0350
-【イバラ】「もっとゆっくり！」
+[Ibara] "Do it slower!"
 
-「わかった。じゃ、一旦ほどいて……輪にするのは、こう」
+"Ok. So, first make a loop, like that"
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0351
-【イバラ】「うん、それで？」
+[Ibara] "Ok, then?"
 
-「通すのはこっちから」
+"Pass the other end through this hole"
 
 #voice ibab0352
-【イバラ】「んんん〜？　ボクがするのと変わりないのに、どうしてボクが結ぶと縦になっちゃうんだ？」
+[Ibara] "Hmm‾? It's the same as what I did, so why does the bow becomme vertical when I do it?"
 
-「あぁ。それは、これを逆にするとそうなっちゃうんだよ。……ほら」
+"Ahh. That's what happens when you tie it up the other way.... See?"
 
-わざと縦結びにしてみせる。
+I make the knot become vertical on purpose to demonstrate.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0353
-【イバラ】「おぉ、なるほど」
+[Ibara] "Oh, I see."
 
-一旦縦結びにしたのを解いて、もう一度正しいやり方で結びながら説明する。
+I untie the vertical knot and then tie it again in the correct way while explaining.
 
-「だから、通すのはこっちから。形はあとから整えればいいよ。少しづつ引っ張ったら調節できるから」
+"That's why I pass the end through this loop. You can adjust the shape of the bow afterwards. You can adjust the bow by pulling it little by little."
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0354
-【イバラ】「こうやって、こうやって、こう……か。よし、わかったぞ！」
+[Ibara] "A little tug here, pull a little, a little more... Ok! I got it!"
 
-「じゃ、自分でやってごらん」
+"Well, give it a try yourself."
 
-飾り布を解くと、イバラは不服そうに唇を尖らせた。
+As I undid the knot, Thorn pouted disapprovingly.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0355
-【イバラ】「あぁっ！？　どうして解いちゃうんだ！？」
+[Ibara] "Ahh!? Why did you undo it!?"
 
-「覚えたものはすぐに復習したほうが身につきやすいよ」
+"It's easier to remember what you've learned if you review it right away."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0356
-【イバラ】「むぅ……」
+[Ibara] "Muu..."
 
-イバラは頬を膨らませながらも、飾り布に挑戦し始めた。
+Ibara puffed out his cheeks and began his tug of war with the cloth.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0357
-【イバラ】「えっと……最初に長さを揃えて……」
+[Ibara] "Um... first let's align the ends..."
 
-手つきはおぼつかないが、俺が言ったことを懸命に再現しようとしてるらしい。
+His movements were clumsy, but it seemed like he was trying his best to replicate what I had taught him.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0358
-【イバラ】「一回結んで、通すのはこっちからで……」
+[Ibara] "Tie it once and let pass it through here..."
 
-……っと、いけない。じっと見てるとつい手も口も出してしまいそうだ。
+...Oops, that's not good. If I keep watching, I might end up stepping in and helping him tie it.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0359
-【イバラ】「最後に形を整え……っきー！　なんか長さがバラバラになった！　なんでだ！？」
+[Ibara] "Finally, adjust the shape... Ack!! The lengths are all uneven! Why is this happening?!"
 
-「最初に結んだ時に、長さが違ったからだよ」
+"It's because the length of the two ends was not the same when you first tied it."
 
 #voice ibab0360
-【イバラ】「最初に長さは揃えたのに！」
+[Ibara] "Even though I aligned the lengths in the first step!"
 
-「その後、ぎゅってしたときにずれちゃったんだね」
+"After that, it misaligned when you squeezed the cloth to make the loop."
 
 ;CHR I11F2 C
 #cg イバラ iba_1_11f2 中
 #wipe fade
 
 #voice ibab0361
-【イバラ】「うぅ〜……もう一回やり直す」
+[Ibara] "Uu‾... I'll try again"
 
-「うん。がんばれ」
+"Yeah. Go for it."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0362
-【イバラ】「最初に長さを揃えて……」
+[Ibara] "First, align the lengths..."
 
-イバラは真剣な顔で飾り布を蝶結びにしている。なんだか微笑ましかった。
+Ibara was tying the decorative cloth into a bow with a serious expression. It was somehow charming to watch.
 
 ;CHR I08F C
 #cg イバラ iba_1_08f 中
 #wipe fade
 
 #voice ibab0363
-【イバラ】「通すのこっちからだったか？　いや、こっちから？」
+[Ibara] "Pass it through from this side? No, from this side?"
 
-「縦結びになったら、違うふうに結んでみなよ」
+"If it becomes a granny knot, try tying it differently."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0364
-【イバラ】「ん、そうだな。えと……こっち……じゃなくて、やりなおし……きゅっと、形を整えて……」
+[Ibara] "Yep ok. Um... not this way... I'll redo it... squeeze it, adjust the shape..."
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0365
-【イバラ】「ほら、できたぞ！　見ろ、ボクにだって綺麗に蝶結びできた！」
+[Ibara] "See, it's done! Take a look! Even I can tie a beautiful bow!"
 
-「うん。上手上手。綺麗に出来たね」
+"Yeah. Well done. It came out pretty too."
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0366
-【イバラ】「ふふん、ボクが本気になればこんなもの簡単だ。よし、満足した」
+[Ibara] "Fufun, if I get serious, this kind of thing is easy. Alright, I'm satisfied."
 
-イバラはせっかく結んだ飾り布を解いてしまった。
+Ibara untied the drapery that he had taken the trouble to tie.
 
-「え？　なんで？」
+"Huh? Why?"
 
-わけもわからずぽかんとしていると、イバラは再びその飾り布を俺に差し出した。
+I stared blankly at Ibara as he held out the drapery to me again.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0367
-【イバラ】「もうボクは結び方もわかったし、ニンゲンに結ばせてやる」
+[Ibara] "Now that I know how to tie it, I'll have Human tie it for me."
 
-「どういうこと？」
+"What's going on?"
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0368
-【イバラ】「ニンゲンがしてくれるのがいいんだ。ボクがやれって言ったらやれよ！　もう！」
+[Ibara] "I'd rather have Human tie it for me. If I tell you to do it, just do it already!"
 
-「はいはい」
+"Ok, ok-"
 
-イバラが癇癪を起しかけて、俺は従ってやることにした。するとイバラは満足そうにうなづいた。
+Ibara was about to throw a tantrum, so I decided to comply. At that, Ibara nodded in satisfaction.
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
 #wipe fade
 
 #voice ibab0369
-【イバラ】「うん。それでいい」
+[Ibara] "Yep. That looks good."
 
-「自分で結べるようになったのに、何で俺にやらせるのさ？」
+"Why are you making me do it when you can tie it yourself?"
 
 #voice ibab0370
-【イバラ】「ニンゲンにやらせてやるんだから、ありがたく思え。みつあみができないんだから、このぐらいしかボクの役に立てないだろう？」
+[Ibara] "I let Human do it, so be grateful. You can't braid my hair, so this is the least you can do to be useful to me, isn't it?"
 
-「別に役に立たなきゃいけないとはおもわないけど」
+"It's not like I have to be useful to you."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0371
-【イバラ】「ニンゲンは！　ヒナタやツキヨのことは甘やかしてるのに、ボクのためには働けないのか！？」
+[Ibara] "Human! You spoil Hinata and Tsukiyo, but you can't do things for me!?"
 
-「ははぁ、なるほど。嫉妬してるんだ」
+"Haha, I see. You're jealous."
 
-そんなにツキヨの髪を結んであげたのが羨ましかったのかな。可愛いもんだ。
+He's so jealous that I tied up Tsukiyo's hair for him. It's cute.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0372
-【イバラ】「嫉妬！？　嫉妬なんかしてない！　思い上がるな！」
+[Ibara] "Jealous!? I'm not jealous at all! Don't get full of yourself!"
 
-「はいはい、じゃあそういうことにしておこう」
+"Yeah yeah, let's leave it at that."
 
-飾り布を結んでから頭を撫でてやると、イバラは不満そうに言った。
+After I tied his hair and patted his head, Ibara spoke with displeasure.
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0373
-【イバラ】「だいたい、貢物をするんならボクにだけでいいだろ？　コノミは特に興味はなさそうだし」
+[Ibara] "Really, if you're going to offer tribute, it should just be to me, right? Konomi doesn't seem that interested anyway."
 
-「どういうこと？」
+"What do you mean?"
 
 ;CHR I05F C
 #cg イバラ iba_1_05f 中
 #wipe fade
 
 #voice ibab0374
-【イバラ】「ヒナタやツキヨは物の価値なんかわからないだろ。それなのに何かあげるなんて無駄だ。機嫌をとりたいなら高貴なボクだけにしたほうがいいぞ」
+[Ibara] "Hinata and Tsukiyo don't understand the value of things, right? Giving them anything is a waste. If you're trying to win someone over, you should stick to someone with noble blood like me."
 
-ふふん、とイバラが当然といわんばかりに胸を張る。
+Fufun, Ibara puffed out his chest as if it was only natural.
 
-「ヒナタもツキヨも喜んでくれてただろう。そういうのを価値がわかるって言うんじゃないの？　それに、俺は自分のものは自分があげたい相手に渡すよ」
+"Hinata and Tsukiyo were happy with my gifts too, weren't they. Isn't that what it means to understand value? Besides, I give my things to whoever I want to give them to."
 
-イバラは俺の言葉に不安そうに眉をひそめた。
+Ibara frowned at my words.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0375
-【イバラ】「ニンゲンは、ボクに贈り物をしたくないっていうのか？　ヒナタやツキヨの方が大事なのか！？」
+[Ibara] "Is Human saying you don't want to give me anything? Are Hinata and Tsukiyo more important than me!?"
 
-「そうは言ってないけど……ヒナタやツキヨに贈り物をするのが無駄だとは思わない」
+"I didn't say that, but I don't think it's a waste to give Hinata and Tsukiyo gifts."
 
 ;CHR I10F2 C
 #cg イバラ iba_1_10f2 中
 #wipe fade
 
 #voice ibab0376
-【イバラ】「じゃ、じゃあ……何か持ってきたときはボクに一番先に選ばせろ」
+[Ibara] "Then, then... let me choose first when you give us something."
 
-「なんでさ……エルフ同士なんだから、もっと仲良くできないの？」
+"Why... since you are all elves, can't you all get along better?"
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0377
-【イバラ】「ボクは奴らとは違う！　ヒナタもツキヨも、こんなに肌が白くないし、髪だってこんな美しい光を集めたような色じゃないだろ」
+[Ibara] "I'm different from them! Hinata's and Tsukiyo's skin aren't this white, and their hair isn't such a beautiful light color."
 
-自分だけは違う、というイバラの主張には俺も少しカチンときた。
+I was a little taken aback by Ibara's assertion that he was the only one who was different.
 
-「……素直になれないのは性格だろうから仕方がない。だけど、ヒナタやツキヨを見下すのは感心しないな」
+"...I get that not being honest is just part of your personality. But looking down on Hinata and Tsukiyo isn't something I can approve of."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0378
-【イバラ】「な、なんでボクが怒られなきゃいけないんだ。ニンゲンは人間だからわからないかもしれないけど、奴らはハーフエルフにダークエルフなんだ」
+[Ibara] "Why must I be scolded? Human may not understand because you are human, but they are half elves and dark elves."
 
 ;CHR I01F C
 #cg イバラ iba_1_01f 中
 #wipe fade
 
 #voice ibab0379
-【イバラ】「エルフのように完全な存在とは違う、半端な存在なんだぞ」
+[Ibara] "It's not a perfect existence like a pure elf, it's an incomplete existence."
 
-「半端な存在なんてないよ、イバラ。さっきの言葉もそうだ。イバラはすぐに自分だけが偉くて、他を見下すようなことを言う。それはよくない」
+"There's no such thing as an incomplete existence, Ibara. That's exactly what I said earlier. Ibara immediately says that he's the only one who is better and looks down on others. That's not good."
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0380
-【イバラ】「よくないって、事実なんだから仕方がないだろ？　それをニンゲンごときがボクに怒るなんて、無礼じゃないか」
+[Ibara] "Even if it's not a good thing to say, it can't be helped because it's true, right? It's disrespectful for a human like you to get angry at me, isn't it"
 
-いくら俺が人間だからって、何度もバカにされれば流石に腹も立つ。
+No matter if it's because I'm a human, being mocked repeatedly like that would be enough to make anyone upset.
 
-「そんなことばっかり言うような子には飾り布を返してもらうよ」
+"I've no gift for any child who keeps saying such things. Return it."
 
-俺の言葉に、イバラは慌てて飾り布を隠すようにする。先程までの態度はどこへやら、途端にイバラは不安そうな表情を見せた。
+At my words, Ibara hurriedly hid the decorative cloth. Gone was his attitude from before, and in its place, a worried expression.
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0381
-【イバラ】「い、一旦もらったものはボクのものなんだからな。それなのに取り上げようなんて……」
+[Ibara] "W-well, it's something I've already received. To take it back..."
 
-「イバラが悪い子だからだ」
+"Because Ibara is a bad boy."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0382
-【イバラ】「ボクは悪い子なんかじゃない！　ボクは奴らよりずっと美しい！　だから、ボクの方が偉いんだ。大事にされるべきなんだ！」
+[Ibara] "I'm not a bad boy! I'm much more beautiful than them! That's why I'm superior. I should be taken care of!"
 
-もはや、イバラは泣き出しそうな顔をしている。
+It seems, Ibara is about to cry.
 
-「俺の目から見たら、君たちはそれぞれにいいところがあると思うけど」
+"From my point of view, I think each and everyone of you have your own qualities."
 
 #voice ibab0383
-【イバラ】「それじゃダメなんだ！　ニンゲンもこれからはボクのためだけに働くと誓え！」
+[Ibara] "That's no good! Human must swear to work only for me from now on!"
 
 ;SE
 
-「あ、いて！」
+"Ow, that hurts!"
 
-イバラはブンブンと腕を振り回して、俺に当たってくる。
+Ibara swung his arms round and hit me.
 
-……完全に癇癪を起こしてしまった。これはもうどうしようもないな。
+He's lost it and began throwing a fit. There's nothing much I can do about this now...
 
 ;CHR I02F C
 #cg イバラ iba_1_02f 中
 #wipe fade
 
 #voice ibab0384
-【イバラ】「ボクは！　ボクだけが、特別なんだ！　だから、髪縛ったりとか、ニンゲンがお手伝いするのはボクだけでいい！」
+[Ibara] "I-I'm! I'm the only one who's special! That's why! Human should only help me tie up my hair!"
 
-嫉妬にしてもこれはちょっとワガママが度を過ぎてるな。
+Even if it stems from jealousy, this level of selfishness has crossed the line.
 
-……お仕置きが必要か。
+He needs punishment.
 
-「じゃあ、イバラのことだけ縛ってあげるよ」
+"Then, I'll just tie up Ibara's."
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
 #wipe fade
 
 #voice ibab0385
-【イバラ】「本当か！？　は、はじめからそうやって素直に言う事を聞いてればいいんだ」
+[Ibara] "Will you!? You should have just obeyed my words from the start."
 
-「本当だよ。じゃ、ちょっと後ろ向いて？」
+"It's true. Now, why don't you turn around for a moment"
 
 ;CHR I09F C
 #cg イバラ iba_1_09f 中
 #wipe fade
 
 #voice ibab0386
-【イバラ】「う、うん……」
+[Ibara] "Uh, ok..."
 
 ;CHR OFF
 #cg all clear
@@ -518,290 +518,290 @@
 #cg イベント ev021a1 背景
 #wipe fade
 
-俺はイバラを素早く後ろ手に縛り上げた。
+I quickly tied up Ibara's hands behind his back.
 
 #voice ibab0387
-【イバラ】「なっ！？　何してるんだ！？」
+[Ibara] "What!? What are you doing to me!?"
 
-「イバラが自分だけ縛ってほしいって言うから、その通りにしただけだけど」
+"Since Ibara asked me to tie him up, I did just that."
 
 #voice ibab0388
-【イバラ】「こんなことしろって言ってない！　ほ、解け！　ふざけるなぁっ！」
+[Ibara] "I didn't tell you to do this! Stop messing with me!"
 
-「ふざけてなんかいないよ。似合う似合う、いい格好じゃないか」
+"I'm not messing with you. It suits you, suits you very well. Looks great on you."
 
 #voice ibab0389
-【イバラ】「こんなの似合っても嬉しくないっ！　騙したなぁ！　ニンゲンめ！　こ、このまま街に連れて行ってボクのことを売る気だな！」
+[Ibara] "I'm not happy that something like that looks great on me! Human! You've deceived me! You're going to bring me to the city like this to sell me off!"
 
-「それもいいかもね。きっと可愛いイバラはすごく高く売れると思うよ。大丈夫、きっと大事に飼ってもらえるよ」
+"That might be good too. I'm sure the cute Ibara will sell for a very high price. Don't worry, I'm sure you'll be taken good care of."
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0390
-【イバラ】「や、やだぁっ！　汚い人間なんかに飼われるなんて絶対にやだぁ！」
+[Ibara] "No, no! I definitely don't want to be kept by a dirty human!"
 
-「ま、俺もその汚い人間なんだけどね」
+"I'm also one of those dirty humans too though."
 
 ;EVCG EV021A1
 #cg イベント ev021a1 背景
 #wipe fade
 
 #voice ibab0391
-【イバラ】「ニンゲンは他の人間とちがうと思ってたのに！　ニンゲンめ、ボクのことを騙してたんだな！」
+[Ibara] "Even though I thought Human was different from the other humans! Human, you deceived me!"
 
-「嘘だよ。せっかく出会えたのに、他の人間に売ったりしないよ」
+"I lied. It was my good fortune to have met you, so I definitely won't be selling you off to other people."
 
 #voice ibab0392
-【イバラ】「嘘！？　やっぱり騙してたのか！？」
+[Ibara] "Lied! So you really deceived me!?"
 
-すっかり情緒不安定になったイバラはじたばたと暴れて、可愛いお尻がすっかりあらわになってしまっている。
+Ibara, now completely emotionally unstable, was flailing around, and his cute little behind was completely exposed.
 
-すぐに解いてあげるつもりだったのに、おしりが覗いたせいでそんな気がどこかに行ってしまった。
+I was going to undo it right away, but when I forgot my intention when I saw his bare buttocks.
 
-「……あぁ、本当に縛られてるのが似合うなぁ」
+"Ah... it really suits you to be tied up."
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0393
-【イバラ】「ほどけぇ！　ほどけぇ！　人間やだっ！　気持ち悪いっ！」
+[Ibara] "Untie! Untie! Stay away, humans! Disgusting!"
 
-「もし悪い人間に買われちゃったらどんなことされるんだろうね？」
+"What would happen to you if a bad person purchased you, I wonder..."
 
 ;EVCG EV021A2
 #cg イベント ev021a2 背景
 #wipe fade
 
 #voice ibab0394
-【イバラ】「ひぃっ！？」
+[Ibara] "Hii!?"
 
-すっと丸くなめらかなお尻をなぞると、緊張で鋭敏になっているのか、イバラはびくんと体を仰け反らせた。
+As I ran my hand over his round, smooth bottom, Ibara jerked away in shock, perhaps because he was nervous and sensitive.
 
-「痛いことされるのかな？　閉じ込めて大事に飾ってもらえるかもしれないけど、ひょっとして食べられちゃったりしてね」
+"Will they hurt you? Maybe they'll lock you away and treasure you as a decoration, but maybe they'll eat you?"
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0395
-【イバラ】「そ、そんなのやだぁ！？」
+[Ibara] "I-I don't want that!!"
 
-「だって、この脚とかすごく美味しそうだもん。食べたくなっても仕方がないよ」
+"Because this leg looks really delicious. It can't be helped if they'll want to eat it."
 
-白い太ももを撫で回し、舌を這わせる。傷一つない皮膚は舌にも手にも吸い付くようで心地よかった。
+I caressed his white thighs and ran my tongue over them. The unblemished skin comfortably clung to my tongue and my hands.
 
 #voice ibab0396
-【イバラ】「やだぁ！　食べられるのやだぁ！」
+[Ibara] "No way! I don't want to be eaten!"
 
-イバラはじたばたと暴れようとするが、細く小さな手足の上に、腕を縛られていては俺に力でなんて到底敵うわけがない。
+Ibara tried to lash out, but with his thin, small limbs being tied up, there was no way they can match my strength.
 
-「人間は愚かなんだろう？　愚かな連中は寿命の長いエルフの肉を食べたら長生きする、なんて迷信を信じてるかもね」
+"Humans are foolish, aren't they? Foolish people may have a superstition that if they eat long-lived elven meat, they will live longer."
 
 ;EVCG EV021A1
 #cg イベント ev021a1 背景
 #wipe fade
 
 #voice ibab0397
-【イバラ】「そ、そんなのありえない！」
+[Ibara] "But that's simply impossible!"
 
-「だったら、イバラみたいに綺麗なエルフの方が、より寿命が延びそうだとは思わない？」
+"But in that case, wouldn't you think that eating a beautiful elf like Ibara would give a longer lifespan?"
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0398
-【イバラ】「思わない！　食べちゃ嫌だぁ！」
+[Ibara] "Who would think that! I don't want to be eaten!"
 
-「俺は食べたりしないけど……食べられなくてもエッチなことされちゃうかもね。大丈夫か。イバラはエッチな子だもんね」
+"I won't eat you but... even if I don't, I might still do naughty things to you. That's ok, since Ibara is a naughty boy, isn't he?"
 
 #voice ibab0399
-【イバラ】「やだ、やだ、やだってばぁっ！　ば、ばかっニンゲンっ！　さ、さわるなぁ！　人間、汚いっ！」
+[Ibara] "No, no, no, I said no! Stupid Human! D-Don't touch me! Humans are dirty!"
 
-「きっと、玩具みたいに扱われるんだ。イバラが何を言っても言うことなんか聞いてもらえない」
+"I'm sure they'll treat you like a toy. They won't listen to you, no matter what you say."
 
-焦らすように立てた指先で薄く皮膚をなぞる。
+He teasingly traced his skin with his fingertips.
 
-イバラは自覚していないかもしれないが、もっととねだるように腰が浮き上がった。
+Ibara may not be aware of it, but his hips rose up as if he wanted more.
 
 ;EVCG EV021A1
 #cg イベント ev021a1 背景
 #wipe fade
 
 #voice ibab0400
-【イバラ】「やだぁ、玩具やだぁ！」
+[Ibara] "No, I don't wan't to be a toy!"
 
-「弄り回されて射精しても許してもらえずに、何度も何度もイカされちゃうとか」
+"They'll play with you and even if you cum, they won't let you go and you'll be made to cum over and over again."
 
 ;EVCG EV021A2
 #cg イベント ev021a2 背景
 #wipe fade
 
 #voice ibab0401
-【イバラ】「……んっ！？　ふあぁああっ！　くすっぐったぁ……いひぃ……」
+[Ibara] "...Hmm!? Fuaahaha! It tickles... Hii..." 
 
-小さくすぼまった愛らしい蕾から陰嚢の裏までの合わせ目を何度も指を往復させる。
+I repeatedly slid my fingers back and forth between his contracting adorable little bud along the seams to the back of his scrotum.
 
 #voice ibab0402
-【イバラ】「んふっ……あふぁ……ひぃぃ……ふ……んっ……だ、だから……くすぐったいってばぁ……」
+[Ibara] "Nfu... ah... hii... fu... nn... I said... it tickles..."
 
-くすぐったさをこらえているのか、息を荒げ始めたイバラの声に徐々に甘い物が混ざり始めた。
+Perhaps trying to endure the tickling, Ibara's breathing began to become heavy and gradually a sweet tone began to take on his voice.
 
-「えっちな声が出てるみたいだけど、どうしたの？」
+"It looks like you're beginning to make a naughty voice, what's wrong?"
 
 ;EVCG EV021A1
 #cg イベント ev021a1 背景
 #wipe fade
 
 #voice ibab0403
-【イバラ】「に、ニンゲンがそんなところ……くすぐるから、くすぐったくて、声が出ちゃうんだよ……」
+[Ibara] "I-it's because h-human is tickling me in such a place... Because it tickles, my voice comes out..."
 
-「そんなところ？　どこだろう？」
+"Such a place? Where is that?"
 
-尻の谷間から袋の裏をくすぐると、もどかしい動きに耐え切れないのか喘ぎ声が漏れる。
+As I tickle the back of his balls from between his ass cheeks, he lets out a gasp involuntarily as he can't withstand the frustrating attacks.
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0404
-【イバラ】「んはぁ……やだっやだぁっ……焦らされるのやだぁ……」
+[Ibara] "Nhaa... No, no, stop it... Stop teasing me..."
 
-「焦らす？　何かして欲しいの？」
+"Teasing? Is there something you want me to do?"
 
-俺はそらとぼけて、まだ柔らかい会陰を何度も指でなぞった。
+I pretended not to notice and repeatedly ran my fingers over his still tender perineum. (TN: area between anus and genitals)
 
-表面の薄皮一枚をもみほぐすように丁寧に円を書いてやると、たぱんたぷんと可愛らしい陰嚢が縮み上がり、揺れた。
+As I gently rubbed circles around it, as if kneading the thin skin on the surface, the adorable scrotum contracted and wobbled.
 
 #voice ibab0405
-【イバラ】「そ、そこぐりぐりすると、お腹の中ほわぁってあったかくなるぅ……」
+[Ibara] "I-if you rub there, the insides of my tummy feel warmer..."
 
-「嫌なの？　気持ちいい？」
+"Do you hate it? Does it feel good?"
 
 #voice ibab0406
-【イバラ】「い、嫌じゃないけど……変な感じ……」
+[Ibara] "Well, I don't mind it...but it feels weird..."
 
-「素直に気持ちいいって言っていいんだよ」
+"You can honestly say that it feels good."
 
-軽く鷲掴み、引っ張って、中の玉を軽くこすり合わせるようにすると、幼茎がプルンと上向いた。
+I lightly grabbed it, pulled it, and gently rubbed the ball inside, and the young stem snapped upwards.
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0407
-【イバラ】「ひゃあっ……たまたまフニフニされたら足の付け根がじんってしてきたぁっ……」
+[Ibara] "Hyaaah... rubbing my ball balls makes the base of my leg tingle..."
 
-イバラは袋裏をなぞられるとブルっと身を震わせた。
+Ibara shivered as I traced the back of his ballsacks.
 
-もっととねだるようにお尻を振っているのが可愛らしい。
+It's so cute that he's shaking his butt as if he's begging for more.
 
 #voice ibab0408
-【イバラ】「お腹の中がモヤモヤするよ……」
+[Ibara] "The insides of my tummy feel fuzzy..."
 
-「そう」
+"I see"
 
-白く傷一つない白い肌を堪能するように手のひらで撫で回す。
+He caressed his white, flawless skin with his palms, enjoying the sensation.
 
 ;EVCG EV021A1
 #cg イベント ev021a1 背景
 #wipe fade
 
 #voice ibab0409
-【イバラ】「あ……な、なんでたまたま触るのやめちゃうんだ！？」
+[Ibara] "Ah... why did you just stop touching my ball balls!?"
 
-「だってイバラを玩具にしてるんだから、玩具の言うことなんか聞いてあげないよ」
+"Because I'm using Ibara as a toy, no one listens to what a toy says."
 
 #voice ibab0410
-【イバラ】「そ、そんなのひどいぞ……ひんっ……！　ニンゲンの温かい手で、もっと触って……！」
+[Ibara] "Th-that's terrible... hinn...! Human, touch me more with your warm hands...!"
 
-かすかな愛撫を貪るイバラは少しでも、俺の手に触れる表皮の面積を増やそうとするかのように身をよじった。
+Ibara squirmed as he greedily devoured my gentle caresses, as if trying to increase the area of skin touching my hands, even if just by a little more.
 
-「触られるの嫌なんじゃなかったの？」
+"Didn't you hate being touched?"
 
-俺はイバラが触らせようとすれば、逆に焦らすように指先で触れるだけにした。
+Each time Ibara tried to touch my hands with his body, I touch him with only my fingertips to tease him.
 
-ますますイバラは切なそうに身悶える。
+Ibara writhed more and more in longing.
 
 #voice ibab0411
-【イバラ】「どうして意地悪するんだ！？　動けないのやだっ！　もっと触って欲しい！　早く解けっ」
+[Ibara] "Why are you being so mean!? I don't want you to stop moving! I want you to touch me more! Hurry up and release me!"
 
-「んー……どうしようかな」
+"Hmm... what should I do?"
 
-彷徨わせていた指で蟻の戸渡をとんとんと小突くようにする。
+I tap his perineum lightly with my finger.
 
 ;EVCG EV021A2
 #cg イベント ev021a2 背景
 #wipe fade
 
 #voice ibab0412
-【イバラ】「んっ……とんとんされると、あったかくなったお腹に響くよぉ……」
+[Ibara] "Nnnn... When you tap it, it reverberates inside my warm stomach..."
 
-トントンとスリスリするのを繰り返し、イバラがお尻をもじもじさせるのを楽しむ。
+Through repeated tapping and caressing, I enjoy the squirming of his buttocks.
 
-会陰を少し強く押しすぐに離すと、イバラはふるふると小刻みに体を震わせ始めた。
+When I pushed the perineum a little harder and released it immediately, Ibara began to tremble.
 
-「ここもコリコリしてきたね。たまたまが頑張って精液作ってるからかな」
+"You're stiff here too. Maybe it's because your balls are working hard to make semen."
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0413
-【イバラ】「わ、わかんない……でも、イク、みたいな変な感じする……んふぁ……それ、やだ……お腹の中から気持ちいいの広がる……」
+[Ibara] "I-I don't know... But, I feel like I'm cumming... Nnn... No... A good feeling is spreading from within my tummy..."
 
-「嫌なんじゃなくてもっとしてほしいんでしょ？」
+"It's not that you don't like it, but you actually want me to do it more, right?"
 
 ;EVCG EV021A2
 #cg イベント ev021a2 背景
 #wipe fade
 
 #voice ibab0414
-【イバラ】「わ、わかんない……なんか登ってくるよう……あったかいのが、そこから登ってきて……ふぁっ……！　ボク、ぼく……うあっ……」
+[Ibara] "I-I don't know... it feels like something climbing up... Something warm coming out from there... fua...! I, I... Ugh..."
 
-射精した時のように強く体を痙攣させ、イバラが悲鳴じみた声をあげた。
+Ibara's body convulsed violently, as if he was ejaculating, and he let out a sharp cry.
 
 #voice ibab0415
-【イバラ】「ひゃあっ……くぅんっ……いくっ……ボク、射精してないのにぃ……イってるぅ！　イってるよぉっ！」
+[Ibara] "Hyaah... Kuun... Cum... Even though I'm not ejaculating... I'm cumming! I'm cumming!"
 
-むしろイバラのおちんちんは萎えてしまって、一層可愛らしい形状を取り戻しているのに、よだれのようにだらだらと先走りに似た液体だけが止めどもなく流れている。
+In fact, Ibara's penis had shriveled and regained an even cuter shape, but a drooling liquid similar to pre-cum was still flowing endlessly.
 
-「射精してないのに、イっちゃったの？」
+"You didn't ejaculate, but did you cum?"
 
 ;EVCG EV021A3
 #cg イベント ev021a3 背景
 #wipe fade
 
 #voice ibab0416
-【イバラ】「イっちゃった、っていうかイってるよう！　そこ、グリグリするのやだぁ！　イくの止まんないよぉ！　っあ、あぁっ！　また、イく、イってるぅ！」
+[Ibara] "I came, or rather I'm cumming! Stop rubbing me over there! I can't stop cumming! Aaa! I'm cumming again!"
 
-「へぇ、射精してないのにイけちゃうなんて、女の子みたいだね。じゃあ、イバラのことは特別に何度もイかせてあげるよ」
+"Oo, you're like a girl to be able to orgasm without ejaculation. Then, I'll specially help you orgasm endlessly."
 
 ;EVCG EV021A4
 #cg イベント ev021a4 背景
 #wipe fade
 
 #voice ibab0417
-【イバラ】「と、特別……？」
+[Ibara] "Specially...?"
 
-「イくの止まらないところ、特別丁寧にグリグリ続けてあげる」
+"I'll specially and carefully rub you until you can't stop cumming."
 
-先ほど強く反応のあった箇所を執拗に何度も押して、さっきイバラがイった時をなぞって、同じように刺激を加えてやるとすぐにイバラがまた身をよじった。
+I repeatedly pressed the spot that had reacted strongly earlier, tracing the spot where Ibara had come earlier, and when I applied the same stimulation, Ibara immediately began squirming again.
 
 ;EVCG EV021A2
 #cg イベント ev021a2 背景
 #wipe fade
 
 #voice ibab0418
-【イバラ】「こんなっ……立て続けにイったら、頭おかしくなるぅっ！　やだ、じんじんするの頭にまで来てるよぉっ！」
+[Ibara] "If I keep coming like this... I'll go crazy! It's getting to the point where my head is tingling!"
 
-「へぇ……おちんちん触ってないのに、そんなに気持ちいいんだ？」
+"Heh... does it feel that good even though I haven't touched your penis?"
 
 #voice ibab0419
-【イバラ】「ひゃあっ……イってる最中におちんちん触ったらァ……！！　ぁあっ！？」
+[Ibara] "Hyaah... if you touch my dick while I'm cumming...!! Ahhh!?"
 
 ;SE se024 射精音2（エルフ）
 
@@ -816,55 +816,55 @@
 #bg BG07b_1
 #wipe fade 300
 
-軽くしごくと柔らかいおちんちんからぴゅるっと精液が吐き出され、それからみちみちと硬くなった。
+When I stroked it lightly, semen spurted out from his soft penis, and then it slowly grew fully stiff again.
 
 ;EVCG EV021A5
 #cg イベント ev021a5 背景
 #wipe fade
 
-「ははっ……面白いな。射精してから勃起したぞ」
+"Haha... that's interesting. You got an erection after you ejaculated."
 
 #voice ibab0420
-【イバラ】「しゃ……射精したから、おしまい……？」
+[Ibara] "I... I ejaculated, so it's over...?"
 
-イバラは肩で息をしながら、辛そうに俺を見上げてきた。
+Ibara looked up at me in agony while heaving heavily.
 
-「どうしようかな……中の気持ちいいところ、直接グリグリされるのとどっちが気持ちいいのかな？」
+"What should I do... I wonder if it feels better to directly have your insides rubbed directly or not?"
 
-イキ続けたのと続く皮膚を揉みほぐされていたおかげで、指を入れる前からイバラの肛口はすっかりと柔らかくほぐれ、呼吸をするように内側を覗かせている。
+Thanks to the continued orgasms and the subsequent massaging of her skin, Ibara's anal opening had become completely soft and relaxed even before a finger was inserted, and it was able to peek out from inside as if breathing.
 
-白い肌の中で少し暗い色合いの菊花の中心から、鮮やかな紅が覗いているのがたまらなくいやらしいそこに、俺は精液をまぶした指を差し込んだ。
+The bright red peeking out from the dark center of the chrysanthemum, amidst the white skin, was incredibly erotic, and I inserted my semen-covered finger into that spot.
 
 ;EVCG EV021A6
 #cg イベント ev021a6 背景
 #wipe fade
 
 #voice ibab0421
-【イバラ】「はぁああ……入れちゃやだァ……いっぱいイっちゃったのにぃ……またゾワゾワが大きくなるぅ……」
+[Ibara] "Ahh... Don't put it in... Even though I came so much... the tingling sensation is getting stronger again..."
 
-「だって入れてほしそうにお口をパクパクさせてたよ」
+"But your opening was opening and closing its mouth as if it really wanted me to put it in."
 
 ;EVCG EV021A5
 #cg イベント ev021a5 背景
 #wipe fade
 
 #voice ibab0422
-【イバラ】「嘘だぁ、入れて欲しくなんかなかった……ひぅっ！？　中ぐりぐりしちゃやだァ……強すぎるぅ……あぁっ……」
+[Ibara] "That's a lie, I didn't want you to put it in... hii!? I don't want you rubbing inside me... so rough... Ahh..."
 
-「わがままだなぁ、さっきはもっと触ってほしいって言ってたのに……どうしたの？　またイっちゃった？」
+"You're being so selfish. Earlier you said you wanted me to touch you more... What's wrong? Did you cum again?"
 
 #voice ibab0423
-【イバラ】「イっちゃったよぉ……だから、もう、抜いて……やめてぇ……中でグニグニ動かすなぁ……」
+[Ibara] "I've came... So, pull it out... Stop it... stop moving it around inside..."
 
-「イバラが射精しなくもイける女の子になっちゃったんなら、おちんちんをいれるここは、もうお尻の穴じゃなくてマンコだね。おしりマンコだ」
+"If Ibara becomes a girl who can cum without ejaculating, the place where I can put my cock is no longer a butthole. It's a pussy. An ass pussy."
 
 #voice ibab0424
-【イバラ】「おしりマンコでいいからぁ、も……やめて……またのぼってっちゃうぅ……うぅ……あぁあぁああああああはぁああああん……」
+[Thorns] "Fine it's an ass pussy, but... stop... It's climbing up again... uu... aaaaaaaaaaaaaaaa..."
 
-「いいよ、遠慮しないでいっぱいイきなよ」
+"It's ok, don't be shy, just let it all out."
 
 #voice ibab0425
-【イバラ】「も、もう……イギたくなぁいぃい……あぁっ！」
+[Ibara] "I-I don't want to go... anymore... Ahhh!"
 
 ;SE se024 射精音2（エルフ）
 
@@ -879,36 +879,36 @@
 #bg BG07b_1
 #wipe fade 300
 
-腸の中から強く竿の方へ押してやった瞬間に、イバラは先ほどの射精とは段違いに濃い精液を吹いた。
+The moment I pushed hard from his intestines towards the shaft, he spurted out a spurt of semen that was far thicker than his previous ejaculation.
 
 #voice ibab0426
-【イバラ】「あぁああああああっ！　また出たっ！　せーえきいっぱい出たよっ！？」
+[Ibara] "Aaaaaaaaaaaaaaaaaaaaa!!! It came out again! So much cum?!"
 
-射精の勢いが良すぎたせいか、イバラの腰が弾むように動いている。
+Perhaps because the force of his ejaculation was too strong, Ibara's hips were moving as if they were bouncing.
 
 ;EVCG EV021A4
 #cg イベント ev021a4 背景
 #wipe fade
 
 #voice ibab0427
-【イバラ】「はぁっ……はぁっ……気持ちよすぎて頭おかしくなっちゃうかと思ったぞ……！？」
+[Ibara] "Haaa... haa... I thought I was going crazy because that felt so good...!?"
 
-まだひくひくと物欲しそうに蠢く肉管から指を引き抜くと、イバラはホッとして息をついた。
+Ibara breathed a sigh of relief as I pulled his finger out of the flesh tube, which was still twitching and writhing hungrily.
 
-「そうか……じゃあ、おちんちんでいじめられたら本当におかしくなっちゃうかな？」
+"Is that so… then, will you really go crazy if I use my penis to stir your insides?"
 
 #voice ibab0428
-【イバラ】「……え？」
+[Ibara] "...Eh?"
 
-狂乱に近い痴態を見せ続けられていた俺の欲望はとめどなく膨れ上がり、凶悪なまでの硬度となっていた。
+As he continued to display his frenzied lewd reactions, my desire had grown uncontrollably and had become violently hard.
 
 #voice ibab0429
-【イバラ】「や、やだぁ……もうちょっと休ませてぇっ！？　じゃないと、ボクほんとに、ほんとに……もぉっ！？」
+[Ibara] "No, please stop... let me rest a little longer!? If not, I will, I will really... Aa!?"
 
-「イバラだってもう、こんだけ硬くなったら我慢するのきついの、わかるでしょ？」
+"Even Ibara knows that it's hard to bear when you are this hard, right?"
 
 #voice ibab0430
-【イバラ】「でっ、でもぉ……おちんちん中に入れちゃやだァ……！」
+[Ibara] "Well, but... I don't want you to put it in...!"
 
 ;SE se020	挿入音1（深い）
 
@@ -916,73 +916,73 @@
 #cg イベント ev021b2 背景
 #wipe fade
 
-「そんなこといって、イバラのおしりマンコは美味しそうに俺のおちんちん飲み込んでいくよ」
+"Even though you say that, Ibara's ass pussy is going to swallow up my cock deliciously."
 
 #voice ibab0431
-【イバラ】「だめぇ！　感じすぎるよぉっ！？　中でどくどくいってるっ！　おしりあつぃいいいいいい！」
+[Ibara] "No! It's too intense! My insides are stirring up! My butt feels so hot!!!"
 
-挿入される前からさんざん絶頂を迎えたイバラの肉筒はすっかり熱をこもらせて、これまで感じたこともないほどにトロトロに熱くなっていた。
+Ibara's flesh tube, having already reached multiple climaxes even before it was inserted into, was completely hot and dripping wet, more so than he had ever felt before.
 
-「うわっ……すごい。動かす前から俺のに絡みついてくる」
+"Uwa... amazing. It's entwined around me tightly even before I move."
 
 ;EVCG EV021B1
 #cg イベント ev021b1 背景
 #wipe fade
 
 #voice ibab0432
-【イバラ】「ニンゲンのおちんちん大きすぎるよぉ……ボクの気持ちいいとこ全部擦れちゃうぅ……！」
+[Ibara] "Human penises are so big... They rub against all my sensitive spots...!"
 
-「こんなに気持ちいいと、俺も気持ちよくなるの止められないよ」
+"If it feels this good, I can't stop feeling good too."
 
 ;EVCG EV021B3
 #cg イベント ev021b3 背景
 #wipe fade
 
 #voice ibab0433
-【イバラ】「後ろからされると、おちんちんの裏側こすられるの強すぎるぅ……あぁっぁあっ……また、女の子になっちゃうぅ……精液出ないのにイっちゃうぅ！？」
+[Ibara] "When you do it from behind, the rubbing of the underside of my penis is too strong... Ahhhh... I'm turning into a girl again... I'm cumming even though no semen is coming out!?"
 
-「すごい……イクたびに中もヒクヒクしてるの、自分でもわかる？　すごいよ、俺も搾り取られそうだ。負けてられないな」
+"Amazing... can you even feel your insides twitching every time you come? It's amazing, I feel like I'm being milked dry too. I can't afford to lose to this."
 
 #voice ibab0434
-【イバラ】「ずんずんしちゃ、いやあぁ……おちんちん触ってずんずんされたら射精止まらないよ。壊れたみたいにだらだら精液出てるぅ……」
+[Ibara] "Oh no... If you touch my penis like that I'll go crazy... I can't stop ejaculating. Semen won't stop dripping out like my penis is broken..."
 
-「本当だ、先走りも精液も混ざってすごいことになってるね。イバラのおちんちんどろどろだ」
+"You're right, the mixture of pre-cum and semen has turned into something incredible. Ibara's penis is now a sloppy mess."
 
 ;EVCG EV021B2
 #cg イベント ev021b2 背景
 #wipe fade
 
 #voice ibab0435
-【イバラ】「あぁっ！？　だめ！？　もうボクぅ壊れちゃったぁ……これ以上イきたくないのに動くの止まんないよぉ……！」
+[Ibara] "Oh!? No!? I'm already broken... I don't want to cum any more, but I can't stop moving...!"
 
-「こらそんな風に勝手に動いたら、俺もすぐイっちゃうだろ？」
+"Hey, if you move on your own like that, I'll come right away, you know?"
 
 ;EVCG EV021B3
 #cg イベント ev021b3 背景
 #wipe fade
 
 #voice ibab0436
-【イバラ】「そんなの知らない！　だってぇ！　腰、勝手に動いちゃうんだっ！　も、もう、イきたくなんかないのにぃっ！　あぁっ！？　おしりマンコいくぅっ！？」
+[Ibara] "I don't care about that! After all! My hips are moving on their own! Even though I don't want to cum anymore! Ah!? My ass pussy is cumming!"
 
-イバラは射精と絶頂を繰り返しているのか、涙とよだれで顔もドロドロにさせて、必死に自由な腰だけを動かしている。
+Ibara seems to be repeatedly ejaculating and climaxing, his face covered in tears and drool as he desperately moves his hips freely.
 
-挿入しているだけで勝手に俺をイカせてくれそうな勢いだ。
+It felt like he'd make me cum just by inserting it.
 
 #voice ibab0437
-【イバラ】「やだぁっ！　も、もう……きもち……よすぎて、苦しいよぉ……もう、ボクのことイかせないで……！」
+[Ibara] "Nooo! It... feels... too good, it hurts... don't make me cum anymore...!"
 
-「動いてるのはイバラだろ？　もう少しだけ我慢して、俺がイったら終わりにしてあげるから」
+"Ibara you're the one who's moving... Just bear with it a little longer, I'll help you finish after I cum."
 
 ;EVCG EV021B2
 #cg イベント ev021b2 背景
 #wipe fade
 
 #voice ibab0438
-【イバラ】「じゃ、じゃあ……はやくっ……早くイってぇ……！　ボクのおしりまんこに精液ドクドク出して早くイってぇ！」
+[Ibara] "Then, then... Hurry up... Hurry up and cum in my ass pussy!"
 
-イバラは絶頂をねだってさらに腰を動かした。その刺激にたまらず俺の快感も引き出されていく。
+Ibara moved her hips even more, begging for a climax. The stimulation brought out an irresistible pleasure in me too.
 
-「あ、……いくっ」
+"Ah, I'm cumming..."
 
 ;SE se023 射精音1（ニンゲン）
 
@@ -997,50 +997,50 @@
 #bg BG07b_1
 #wipe fade 300
 
-熱くねっとりと絡みつくイバラの腸内を跳ね回るようにして、俺の肉棒が精液をしぶいた。
+My cock spurted semen as it bounced around inside the hot, sticky, tangled intestines of Ibara.
 
 #voice ibab0439
-【イバラ】「あ、熱いのいっぱい出てるっ……！　ボクまたイっちゃうぅ！　ひゃああああああああああっ！」
+[Ibara] "Oh, there's a lot of hot stuff coming out...! I'm cumming again! Hyaaaaaa!"
 
-イバラはもはやドロドロになった幼茎から精液を吐き出した。
+Ibara spewed semen from its now sloppy young stem.
 
-何度も射精したせいか、量も少なく水っぽいそれは潮を吹いているように見えた。
+Perhaps because he had ejaculated multiple times, the amount was small and watery, and it looked like squirting.
 
 #voice ibab0440
-【イバラ】「あはぁ……あぁ……イっちゃって……しめつけちゃうと、ニンゲンのが……また気持ちいいところに当たっちゃうからァ……早く抜いてぇ……」
+[Ibara] "Ahaa... Ah... I've came... If you squeeze me tighter, Human's thing... will hit a sensitive spot again... so please pull it out quickly..."
 
-「はいはい」
+"Ok ok"
 
 ;EVCG EV021A5
 #cg イベント ev021a5 背景
 #wipe fade
 
-俺がイバラのお尻から俺自身を引き抜くと、イバラは芯を失ったようにくったりと崩折れた。
+When I pulled myself out of the Ibara's butt, Ibara collapsed like a puppet that had its strings cut.
 
-力の抜けた後孔から溢れる精液は、大量に吐き出されたイバラの精液に比べて濃くどろりと泡立っているのが一層いやらしかった。
+The semen that oozed from his relaxed anus was thicker, more viscous and foamier than the copious amounts that Ibara spewed out, which made it lewder.
 
 #voice ibab0441
-【イバラ】「はぁ……はぁ……死んじゃうかと、思った……」
+[Ibara] "Haa...haa...I thought I was going to die..."
 
-「大丈夫？」
+"Are you ok?"
 
 #voice ibab0442
-【イバラ】「大丈夫じゃ、ない。さっきの……辛いから、もうやだぁ。ボクだけ何度もイカされるのやだぁ……くすん、くすん」
+[Ibara] "I'm, not ok. It hurt so much... just now... I don't want to be made to cum so many times... sniff, sniff"
 
-「ごめん、イバラがあんまり可愛いから特別にいっぱいやりすぎちゃったよ」
+"I'm sorry, Ibara is especially so cute that I ended up overdoing it."
 
 #voice ibab0443
-【イバラ】「もう、特別は、やだ……みんなと一緒がいい。ボクだけ特別じゃなくていいから……」
+[Ibara] "I don't want to be special anymore... I want to be with everyone. I don't need to be the only one who's special..."
 
-「そうか。じゃあ、もうイバラのことだけ特別に縛らなくてもいいね？」
+"Is that so? Then, is it okay if I don't specially tie you up anymore?"
 
 #voice ibab0444
-【イバラ】「うん。動けないでイカされるのはもういやぁ……」
+[Ibara] "Yep. I don't want to be made to cum without being able to move...""
 
-「今度からはもっと優しくするから、もう泣かないで」
+"I'll be more gentle from now on, so don't cry anymore."
 
 #voice ibab0445
-【イバラ】「ん……」
+[Ibara] "Nn..."
 
 ;SMODE 018 STOP
 #endscene
@@ -1051,31 +1051,31 @@
 #bg BG07b_3
 #wipe fade
 
-後ろ手に縛ったのをほどいてやり、頭を撫でながら身を整えてやっていると、やがて寝息が聞こえてきた。
+I untied his hands behind his back and stroked his head as I cleaned him up. Before long, his breathing softened into slumber.
 
 ;立ち絵表示なし
 
 #voice ibab0446
-【イバラ】「ん……くぅ……すぅ……」
+[Ibara] "Nn... Kuu... Suu..."
 
-「疲れて寝ちゃったか。寝顔だけは掛け値なしに可愛いんだけどなぁ」
+"Did you fall asleep because you were tired? Only your sleeping face is undeniably cute."
 
-いつも憎まれ口ばかりのイバラを思い返して、俺は苦笑してしまう。
+Thinking back to Ibara's constant stream of nasty comments, I smile wryly.
 
 #voice ibab0447
-【イバラ】「んむぅ……」
+[Ibara] "Nmmmu..."
 
-そっとその額にくちづけを落とすと、イバラはうっとおしそうに手で払って起きる気配もない。
+When I softly kiss his forehead, Ibara annoyedly shook my hand away without a sign of waking up.
 
-「寝てても憎たらしいな」
+"Even when sleeping, you're so hateful."
 
-思わずつぶやいてから、俺は吹き出した。
+I muttered involuntarily.
 
-イバラらしくていいじゃないか。
+It's so like him isn't it...
 
-いつもイバラは生意気だから、たまにはこんなふうに虐めるのもいいな。
+Ibara is always so impertinent, so it's nice to bully him like this sometimes.
 
-優しくすると約束したばかりなのに、俺の胸にはそんなよからぬ思いが兆していた。
+Even though I had only just promised to be gentle, such evil thoughts were brewing in my heart.
 
 ;イバラ好感度+1
 #set f2 f2+1
