@@ -55,23 +55,23 @@
 #voice tikb0336
 [Tsukiyo] "Are you reading a book?"
 
-When I was reading a book as usual, Tsukiyo entered the hut.
+As I was reading a book as usual, Tsukiyo came into the hut.
 
-"Oh, yeah. There are a lot of books written about this area in this hut."
+"Ah, yes. There are a lot of books about this area in this hut."
 
-I feel like Tsukiyo is much brighter and more aggressive these days.
+Lately, Tsukiyo seems to have become a lot brighter and more proactive than before.
 
-Maybe it's because I've been able to spend more time with everyone and have more fun.
+Maybe it's because I've started spending time with everyone and having more fun.
 
 #voice tikb0337
-[Tsukiyo] "Are books interesting?"
+[Tsukiyo] "Is the book interesting?"
 
-"Ah, it's really interesting. There are still a lot of things that happened in the past and important things that I don't know."
+"Oh, it's so interesting. There's so much that happened in the past and so many important things that I don't know about."
 
 #voice tikb0338
-[Tsukiyo] "Important things that happened in the past... what kind of things are written?"
+[Tsukiyo] "Important things that happened in the past... What does it say?"
 
-"That's right. From what I'm reading now, it seems that an elf girl first appeared at the owner of this hut."
+"That's right. From what I'm reading now, the owner of this hut was first visited by an elf girl."
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -80,19 +80,19 @@ Maybe it's because I've been able to spend more time with everyone and have more
 ;TKface
 
 #voice tikb0339
-[Tsukiyo] "Girl... is it a girl?"
+[Tsukiyo] "A girl... a girl?"
 
-"Yes, a girl has come. So, will the barrier close at the next full moon be the same as the current situation?
+"Yes, a girl has come. So, will the barrier close at the next full moon, just like it is now? Hmm, what is it here? It's a counter, counter-balance, maybe?"
 
 #voice tikb0340
 [Tsukiyo] "Even though you know a lot of things, is there anything you don't understand?"
 
-“Even I don’t know everything.
+"I don't know everything either. So my predecessors... do you know what a predecessor is? It means someone who has had a similar experience before."
 
 #voice tikb0341
-[Tsukiyo] "I don't know. But now I know."
+[Tsukiyo] "I don't know. But now I understand."
 
-"It's fun to gain more knowledge by knowing what our predecessors have learned."
+"It's fun to gain more knowledge by learning what others have learned."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -101,9 +101,9 @@ Maybe it's because I've been able to spend more time with everyone and have more
 ;TKface
 
 #voice tikb0342
-[Tsukiyo] "It's fun to know what you don't know."
+[Tsukiyo] "It's fun to learn things I don't know."
 
-"Isn't it? Letters are amazing. In this way, from the human point of view, it is possible to know the thoughts of someone who lived a long time ago or another person without even being in front of that person."
+"Right? Writing is amazing, isn't it? It allows us to know the thoughts of people who lived in distant times, even if we're not in front of them."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -112,11 +112,11 @@ Maybe it's because I've been able to spend more time with everyone and have more
 ;TKface
 
 #voice tikb0343
-[Tsukiyo] "Characters... they're amazing."
+[Tsukiyo] "The letters... are amazing."
 
 Tsukiyo stared at the book with sparkling eyes.
 
-"Tsukiyo, don't you understand human characters?"
+"Tsukiyo, do you understand human writing?"
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -125,14 +125,14 @@ Tsukiyo stared at the book with sparkling eyes.
 ;TKface
 
 #voice tikb0344
-[Tsukiyo] "Language, big elf, talking, I learned it by secretly listening to it. But I'm a dark elf, so..."
+[Tsukiyo] "I secretly listened to the big elves speaking and learned their language. But they are dark elves, so..."
 
-Tsukiyo's face turned dark and his shoulders slumped.
+Tsukiyo's face became gloomy and his shoulders slumped.
 
 #voice tikb0345
-[Tsukiyo] "I was able to learn the words by listening to other elves speak.
+[Tsukiyo] "I was able to learn the language by listening to other elves speaking. But I couldn't learn the characters unless I got close."
 
-"I mean, could you tell me if I asked?"
+"So, if I had asked, they would have told me?"
 
 ;CHR T10F1 C
 #cg ツキヨ tuk_1_10f1 中
@@ -141,20 +141,20 @@ Tsukiyo's face turned dark and his shoulders slumped.
 ;TKface
 
 #voice tikb0346
-[Tsukiyo] "... If you get close, you'll get a bad look. I didn't get close. I'm a Dark Elf."
+[Tsukiyo] "...If I got close, I'd get some dirty looks. I couldn't get close. I'm a dark elf."
 
-Come to think of it, Ibara often said that half elves and dark elves are different from us.
+Come to think of it, Ibara often said that half-elves and dark elves were different from them.
 
-Could it be that there is such a thing as bullying in the elf world?
+Maybe there is something like bullying in the world of elves?
 
-"Tsukiyo, do you want to learn the letters?"
+"Tsukiyo, do you want to learn to read?"
 
-Tsukiyo nodded at my question.
+Tsukiyo nodded in response to my question.
 
 #voice tikb0347
-[Tsukiyo] "is"
+[Tsukiyo] "Yes."
 
-Then, he grabbed the hem of my clothes.
+Then she grabs the hem of my clothes.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -163,13 +163,13 @@ Then, he grabbed the hem of my clothes.
 ;TKface
 
 #voice tikb0348
-[Tsukiyo] "I'm reading a book happily. If I can understand the same thing, I'm sure it's great."
+[Tsukiyo] "He looks like he's having fun reading a book. It would be so great if we could understand the same thing."
 
-Do you want to see something with the same eyes as me?
+So you want to see something with the same eyes as me... I was surprised to find Jin there.
 
-I can't help but be happy to hear such a healthy thing.
+There's no way I wouldn't be happy to hear something so brave.
 
-"Then, shall I teach you the letters?"
+"In that case, shall I teach you how to read?"
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -180,12 +180,12 @@ I can't help but be happy to hear such a healthy thing.
 #voice tikb0349
 [Tsukiyo] "Huh?"
 
-"Don't you think it would be best to learn human writing from humans?"
+"Don't you think it would be best to learn human writing from a human?"
 
 #voice tikb0350
-[Tsukiyo] "Hmm... Yes."
+[Tsukiyo] "Hmmm... yes."
 
-“Then, this book is a bit difficult, so I found a book on the bookshelf that seems easier to understand and has larger letters, so let’s bring it.”
+"Well, this book is a little difficult, so I'll bring over one on the shelf that looks easier to understand and has larger print."
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -202,7 +202,7 @@ I can't help but be happy to hear such a healthy thing.
 ;SE se026 書棚から本を取る 再生
 #se 1 se026
 
-"... why is there a picture book in a place like this?"
+"...I wonder why there's a picture book in a place like this."
 
 ;CHR T06F_L C
 #cg ツキヨ tuk_1_06f_l 中
@@ -215,7 +215,7 @@ I can't help but be happy to hear such a healthy thing.
 
 Tsukiyo happily accepted the picture book.
 
-Perhaps a past resident might have brought in a picture book to teach the elves how to write.
+Perhaps the past residents brought picture books like this to teach the elves how to read and write.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -224,9 +224,9 @@ Perhaps a past resident might have brought in a picture book to teach the elves 
 ;TKface
 
 #voice tikb0353
-[Tsukiyo] "Read, please."
+[Tsukiyo] "Please read it."
 
-"This is the pika. The pika hops and walks. It walks very quickly. Bouncing, walking, and when this is connected, it hops and walks. So this one means very much."
+"This is a pika. Pikas walk by hopping. They are very fast. When you combine hopping and walking, you get hopping and walking. So this is what it means to be very fast."
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -235,13 +235,13 @@ Perhaps a past resident might have brought in a picture book to teach the elves 
 ;TKface
 
 #voice tikb0354
-[Tsukiyo] "Oh..."
+[Tsukiyo] "Ohhh..."
 
 ;CHR OFF
 #cg all clear
 #wipe fade
 
-Tsukiyo's swallowing was terrifyingly fast.
+Tsukiyo learned the information incredibly quickly.
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -250,9 +250,9 @@ Tsukiyo's swallowing was terrifyingly fast.
 ;TKface
 
 #voice tikb0355
-[Tsukiyo] "This is Shibagurumi. Mimiris, I love Shibagurumi."
+[Tsukiyo] "This is a Shibagurumi. Mimilis loves Shibagurumi."
 
-"Oh, you read well."
+"Wow, that was a good read."
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -261,11 +261,11 @@ Tsukiyo's swallowing was terrifyingly fast.
 ;TKface
 
 #voice tikb0356
-[Tsukiyo] "Hehe, it is."
+[Tsukiyo] "Hehe, yes."
 
-If you teach them how to read letters, and teach them how to read words, they will absorb it while looking at it one by one.
+When you teach them how to read letters and words, they absorb it all in no time.
 
-I wonder if it's pretty clever to be able to remember this much...
+If he has such a good memory, he must be quite intelligent...
 
 ;CHR T01F_L C
 #cg ツキヨ tuk_1_01f_l 中
@@ -274,13 +274,13 @@ I wonder if it's pretty clever to be able to remember this much...
 ;TKface
 
 #voice tikb0357
-[Tsukiyo] "Giant wolves have a habit of turning treasures into fruits."
+[Tsukiyo] "Silver wolves have the habit of turning treasures into fruit."
 
-"Hmm?"
+"yeah?"
 
-The strange sentence made me look into Tsukiyo's book.
+The strange sentence made me peer into Tsukiyo's book.
 
-"Ah, no. Look, the spelling is different here, right? Correctly, silver wolves have a habit of burying treasures."
+"Oh no, that's not it. See, that part is spelled wrong. The correct wording is, Silver wolves have a habit of burying treasure."
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -289,10 +289,10 @@ The strange sentence made me look into Tsukiyo's book.
 ;TKface
 
 #voice tikb0358
-[Tsukiyo] "Ah, Mr. Silver Wolf, treasure, it would be amazing if it were a fruit. It's magic."
+[Tsukiyo] "Ahaha, Silver Wolf, if you turn your treasure into fruit, it would be amazing. It's magic."
 
-Tsukiyo smiled embarrassedly when his mistake was pointed out.
-Tsukiyo was reading the book while interacting like that, but after a while it seemed that he hit a part where only new words appeared.
+When his mistake was pointed out, Tsukiyo laughed embarrassedly.
+As we were having this exchange, Tsukiyo was reading the book, and after a while he seemed to come to a section where there were a lot of new words.
 
 ;CHR T05F_L C
 #cg ツキヨ tuk_1_05f_l 中
@@ -301,23 +301,23 @@ Tsukiyo was reading the book while interacting like that, but after a while it s
 ;TKface
 
 #voice tikb0359
-[Tsukiyo] "Hmm, there are a lot of words I can't read. Please read them."
+[Tsukiyo] "Hmm, there are a lot of words I can't read. Please read them to me."
 
-"It's fine to read, but rather than looking at it from an angle, it's easier to see it on your lap, isn't it?"
+"It's fine to read, but please sit on my lap instead of looking at it from an angle. It's easier to read that way, isn't it?"
 
 Tsukiyo looked surprised at my suggestion.
 
 #voice tikb0360
-[Tsukiyo] "Can I get on your knees? Will you give me a ride?"
+[Tsukiyo] "Can I sit on your lap? Will you let me sit on it?"
 
 ;※修正 「俺から言い出したんだから、もちろん。あぁ、その前に髪はほどいた方がいいかもしれないな。俺に寄りかかる時にゴロゴロするだろう？」
-"Of course I said it, of course."
+"Of course, since I asked you."
 
 #voice tikb0361
-[Tsukiyo] "Understood."
+[Tsukiyo] "I understand."
 
 ;※修正 ツキヨはおとなしく髪をほどくと、嬉しそうに笑った。
-*Corrected Tsukiyo quietly untied her hair and smiled happily.
+Tsukiyo laughed happily.
 
 ;CHR T04F C
 #cg ツキヨ tuk_1_04f 中
@@ -326,7 +326,7 @@ Tsukiyo looked surprised at my suggestion.
 ;TKface
 
 #voice tikb0362
-Tsukiyo smiled happily.
+[Tsukiyo] "Hehehe"
 
 ;CHR OFF
 #cg all clear
@@ -356,124 +356,124 @@ Tsukiyo smiled happily.
 #wipe fade
 
 #voice tikb0363
-[Tsukiyo] "Ehehe"
+[Tsukiyo] "Ahhh.... mmm...."
 
-[Tsukiyo] "Nah...nku..."
+...I held back for a while.
 
 ;BGMch1 bgm007 H1 再生
 #bgm 0 07
 
-…I endured it for a while.
+However, the second half of the book contains legendary tales of battles with dragons and the like, and every time I read it to Tsukiyo he squirms in fear or delight...
 
-However, in the second half of this book, there are folklore stories about fighting dragons, and each time Tsukiyo reads it, he twists his body and becomes frightened or delighted...
+When that happens, Tsukiyo's hair tickles my chest and nose, and she smells delicious.
 
-When that happens, Tsukiyo's hair tickles my chest and the tip of my nose, and it smells good.
+And having her on my lap meant I could feel her soft buttocks directly. As soon as I realized this, my penis became hard in an instant.
 
-And when you put it on your knees, you can directly feel the soft buttocks. Once he became aware of that, Bad Son stiffened in an instant.
+I feel bad for Tsukiyo because she is studying hard.
 
-I think it's bad that Tsukiyo is studying seriously.
+But with her in my arms and the guilty thoughts building up within me, it was hard not to stroke her.
 
 #voice tikb0364
-But when he was in my arms and my guilt grew, it was very difficult not to caress him.
+[Tsukiyo] "Ahh... it feels good."
 
-[Tsukiyo] "Huh... it feels good."
+Tsukiyo moaned softly, trying to keep her voice down.
 
-Tsukiyo modestly bit his voice and let out a gasp.
+"It's okay to scream louder when it feels good, okay?"
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
 #voice tikb0365
-"Is it okay to raise your voice when it feels good?"
+[Tsukiyo] "Ah...But it's embarrassing. Aah..."
 
-[Tsukiyo] "Oh... but it's embarrassing. Huh..."
+Come to think of it, the first time I did it with Tsukiyo, Hinata was with me, so we'd never done it just the two of us.
 
-Come to think of it, when I first met Tsukiyo, Hinata was with me, and we'd never done it together.
+"You have beautiful, smooth skin all over."
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0366
-“Your skin is smooth and beautiful everywhere.”
+[Tsukiyo] "Thanks.... thanks.... ugh.... okay...."
 
-[Tsukiyo] "Huh...thank you.
+Even just a light stroke on his arm will make Tsukiyo make a cute noise.
 
-Even if you stroke his arm a little, Tsukiyo makes a cute voice.
+"What's wrong? Does just your arm feel good?"
 
 #voice tikb0367
-"What's wrong? Does your arm feel good?"
+[Tsukiyo] "Yes. When I'm stroked gently, I feel a tingling sensation welling up from inside."
 
-[Tsukiyo] “Yes.
+"Even if it's not this one?"
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
 #voice tikb0368
-"Even if it's not over here?"
-
 [Tsukiyo] "Huh..."
 
+When I gently poked his slowly erect penis, Tsukiyo let out a shriek-like yell.
+
 #voice tikb0369
-Tsukiyo let out a scream as he pecked the cock that was slowly standing up.
+[Tsukiyo] "Ahhh...everywhere you touch me it feels so good..."
 
-[Tsukiyo] "Fuhaa... It feels so good to be touched..."
+"Now that you mention it, it seems like it would be fun to pet him."
 
-"When you say that, it's worth stroking."
+As I slowly stroked her entire body, Tsukiyo trembled in a funny way.
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0370
-As he slowly stroked his entire body, Tsukiyo trembled in a funny way.
+[Tsukiyo] "Ahhh... hah... ahh..."
 
-[Tsukiyo] "Aha... ha... ha..."
+Occasionally she would lift her chin, exposing her throat, and lean towards me, but then she would quickly shrink back and act as if she was frightened by the pleasure.
 
-Occasionally, he raises his chin, exposing his throat and leaning against me, but immediately pulls himself back in and pretends to be frightened by pleasure.
+It would feel better if I were more honest.
 
 #voice tikb0371
-It would have been nice to have been more honest.
+[Tsukiyo] "Mmmm... Fuh... Ahhhhh... Mmmm..."
 
-[Tsukiyo] "Nkuu... Fuhaa... Ahuuuuuu...nfuu..."
+"How about here?"
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
-"What about here?"
+When he flicked her nipple, which had darkened slightly, Tsukiyo jumped in surprise.
 
 #voice tikb0372
-Tsukiyo jumps up when he flicks her nipples, which are slightly darker in color.
+[Tsukiyo] "Hyaah... my boobs feel so good... yaah yaah yaah"
 
-[Tsukiyo] "Hyauu... Boobs, it feels good...Hyauhhhhhhhhhhhhhhh"
+Getting carried away, I started flicking her nipples one after the other, which made Tsukiyo cry out in response.
 
-When I got into the mood and played her nipples in quick succession, Tsukiyo raised his voice accordingly.
+"Sorry to disturb you while you were studying. But it's painful when things get like this."
 
-"I'm sorry for interrupting your studies.
+While caressing her thighs and her smooth stomach that doesn't have a belly button, I rubbed my already erect cock along the gap between Tsukiyo's ass.
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0373
-While stroking his smooth belly without thighs or navel, I put my already standing meat stick along the valley of Tsukiyo's buttocks and rubbed it.
+[Tsukiyo] "Your penis has gotten rock hard. Is it painful?"
 
-[Tsukiyo] "Your penis is getting hard and hard. It's painful, isn't it?"
-
-#voice tikb0374
 "When your penis gets bigger, you want to cum, right? My penis is bigger, so it hurts even more."
 
-[Tsukiyo] "It's hard."
+#voice tikb0374
+[Tsukiyo] "It's terrible."
+
+"Yeah, it's really hard. So Tsukiyo, can you join me in feeling good and help me ease my pain?"
 
 #voice tikb0375
-"That's right, it's a lot of trouble. So, Tsukiyo, can you join me and make me feel better and heal my pain?"
+[Tsukiyo] "Yes, it is."
 
-[Tsukiyo] "Yes."
+Tsukiyo nodded earnestly at what I said.
 
-Tsukiyo nodded bravely at my words.
+"thank you"
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
@@ -481,164 +481,164 @@ Tsukiyo nodded bravely at my words.
 
 ;何、するです？
 #voice tikb0376
-"Thank you"
+[Tsukiyo] "Mmmph, fun, full festival?"
 
-[Tsukiyo] "Npua, Fani, Furfesu?"
+I stuck my finger into Tsukiyo's mouth and his pointed double tooth caught on my finger.
 
-I stuck my finger in Tsukiyo's mouth. The sharp double teeth caught on my finger a little.
+"Even your tongue is cute, Tsukiyo."
 
 #voice tikb0377
-“Tsukiyo is cute, even his tongue is cute.”
+[Tsukiyo] "Hmmm... pfft... fuh... hmmm"
 
-[Tsukiyo] "Nku... pfa... phe... nn"
+Instead of kissing, he plays with the finger he has stuck in Tsukiyo's mouth, trapping his tongue between it and making it slimy.
 
 #voice tikb0378
-Instead of kissing, play with a finger stuck in Tsukiyo's mouth, pinch your tongue, and play with it.
+[Tsukiyo] "Phew... my fingers taste delicious..."
 
-[Tsukiyo] "Puha... I feel like my fingers are delicious..."
+Tsukiyo's eyes were glassy and he was breathing heavily.
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
-Tsukiyo's eyes widened and he began to breathe on his shoulders.
+"Spread your legs a little more."
 
 #voice tikb0379
-"Open your legs a little more"
+[Tsukiyo] "Yes, it is."
 
-[Tsukiyo] "Yes."
+I spread Tsukiyo's legs and placed my fingers on the bud in the center.
 
-I opened Tsukiyo's legs and placed my finger on the bud standing in the center.
+"You've learned how to get comfortable here, right?"
 
 #voice tikb0380
-"You've already learned that you can feel comfortable here, right?"
+[Tsukiyo] "Yes, it is."
 
-[Tsukiyo] "Yes."
+"Now, you're going to use this to make me feel good. I'm going to get ready for that."
 
 #voice tikb0381
-"From now on, use this place to make me feel good. I'll prepare for that."
+[Tsukiyo] "Yes, it is."
 
-[Tsukiyo] "Yes."
+Tsukiyo stiffened, a little frightened.
 
-Tsukiyo was a little frightened and stiffened.
+"Now, just relax."
 
 #voice tikb0382
-"Come on, take it easy."
+[Tsukiyo] "I... I don't know how to relax."
 
-[Tsukiyo] "I don't know what to do to relax."
+"I guess that can't be helped."
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
 #voice tikb0383
-"I can't help it"
+[Tsukiyo] "Hyaaah!"
 
-[Tsukiyo] "Hyaah"
+When he blew air into her ear, Tsukiyo's body tensed.
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0384
-Tsukiyo's body tensed as he blew softly into his ear.
+[Tsukiyo] "Aahh... it feels weird when you lick my ears..."
 
-[Tsukiyo] "Auuu... it feels weird when your ears are licked..."
+Then, when I sucked on his pointed ear, he began to tremble, apparently finding it difficult to hold the book.
 
-Then, when I sucked on the pointed ears, it started to tremble with pain even holding the book.
+"Now, if you don't hold your book properly, you'll drop it."
 
 #voice tikb0385
-"Hey, if you don't hold the book properly, you'll drop it."
+[Tsukiyo] "Y-yes."
 
-[Tsukiyo] "Yes."
+Tsukiyo grabs the book again.
 
-Tsukiyo grabbed the book again.
+"Lick it properly one more time."
 
-"Lick me properly one more time"
+I put my finger in front of Tsukiyo's mouth and she began to lick my finger, doing as I was told.
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0386
-When I stuck my finger to Tsukiyo's mouth, Tsukiyo began to bite my finger as he was told.
+[Tsukiyo] "Mmmm... mmm... smack... pfft... mhmm..."
 
-[Tsukiyo] "N, npu...nchu...pecha...puff...nnn..."
+"That's right, so gently that your fingertips get wrinkled."
 
 #voice tikb0387
-"Oh yeah, so polite that the tips of my fingers get wrinkled."
+[Tsukiyo] "Mmmm... ahhh... your mouth feels good..."
 
-[Tsukiyo] "Nn... puha... your mouth feels good..."
+"Okay, well done."
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0388
-"Okay, you did a good job."
+[Tsukiyo] "Hehe..."
 
-[Tsukiyo] "Ehehe..."
+His fingers, now slick with Tsukiyo's saliva, were placed once again against the pursed lower mouth.
 
-Tsukiyo's saliva made my finger muddy again, and I applied it to my lower mouth.
+I gently massaged the wrinkles around the entrance to smooth them out, then slowly twisted my finger in.
 
 #voice tikb0389
-Gently rub it to smooth out the wrinkles around the entrance, and slowly twist your fingers.
+[Tsukiyo] "Ahh... Your finger is going in."
 
-[Tsukiyo] "Huh... my fingers came in."
+"I'm widening your asshole so that it won't hurt if you put it in suddenly."
 
 #voice tikb0390
-"I'm widening my butthole so that it doesn't hurt to put it in suddenly."
+[Tsukiyo] "Y-yes... Ah... It's still coming in... Ah..."
 
-[Tsukiyo] "Yeah, yes... ah... still coming in... ah..."
+"I still need to get used to it and spread it out."
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
 #voice tikb0391
-"I still have to get used to it and spread it out."
+[Tsukiyo] "Ahh, my finger is moving inside...ahhh...ahhh..."
 
-[Tsukiyo] "Ah, my fingers are moving inside... ah... ah..."
+"It can fit anything bigger than your finger."
 
 #voice tikb0392
-"Because it fits something bigger than a finger."
+[Tsukiyo] "Yes, it is... mmm... hmm... ah... it's rubbing, rubbing inside... it feels so good..."
 
 #voice tikb0393
-[Tsukiyo] "Yes, it is... ku, um... hafu... ah... inside, muzzle, muzzle...k, it feels good..."
+[Tsukiyo] "When I put it in and out, it makes a squelching sound... This sound... is kind of naughty..."
 
-[Tsukiyo] "When you put it in and take it out, it makes a squealing sound... this sound is also... a naughty feeling..."
+Although it was a modest sensation, Tsukiyo's hips tensed up in excitement, stimulating my cock as it brushed against her soft buttocks.
 
 #voice tikb0394
-Although it is modest, Tsukiyo's hips begin to move due to the pleasant sensation that is given, and the stimulation is added to my meat stick that is hitting the soft buttocks.
+[Tsukiyo] "Ahhh... Your big dick is hard and hot... Do you want to cum?"
 
-[Tsukiyo] "Aha... even my big dick is getting hard and hot...do you want to cum?"
+"Oh. I want to come inside you Tsukiyo quickly and squirt all my semen into you."
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0395
-"Oh. I want to get inside Tsukiyo quickly and dopyudopyu full of semen."
+[Tsukiyo] "Hmm... I-it seems to be okay now, so go ahead and put it in, it's fine."
 
-[Tsukiyo] "Hmm... well, it looks like it's okay now, so I'm fine with putting it in."
+"Really? Maybe you should spread it out more carefully?"
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0396
-"Really? Shouldn't we spread it more carefully?"
+[Tsukiyo] "Ahh... I'll bear it even if it hurts a little. My penis... looks like it's in pain."
 
-[Tsukiyo] "Ah... even if it hurts a little, I'll put up with it. Ochinchin... it looks painful."
+Even as she cries out in pleasure as her butt is licked, Tsukiyo speaks to me with a worried look on her face.
 
-Tsukiyo raises his voice when his butt is picked, but he seems worried and talks to me as if he cares about me.
+"If Tsukiyo says so, I guess I'll let you in."
 
 #voice tikb0397
-"If Tsukiyo goes so far as to say so, I'd like to let you in."
+[Tsukiyo] "Yes, it is."
 
-[Tsukiyo] "Yes."
+"Well then, raise your hips."
 
-"Okay, put your hips up."
+I supported Tsukiyo's slim waist and lifted her up. Her weight caused my bulging cock to be swallowed little by little into her anus.
 
 ;SE se021 挿入音2 再生
 #se 1 se021
@@ -648,68 +648,68 @@ Tsukiyo raises his voice when his butt is picked, but he seems worried and talks
 #wipe fade
 
 #voice tikb0398
-Support and lift Tsukiyo's thin waist. Tsukiyo's own weight swallows my gill-stretched meat stick little by little into Tsukiyo's rear hole.
+[Tsukiyo] "Ah... Ah, it's thick... and big..."
 
-[Tsukiyo] "Huh...ah, it's fat...it's big..."
+"Are you okay? There's no need to push yourself, okay?"
 
-"Are you okay? You don't have to force yourself?"
+I couldn't help but say something I didn't mean.
 
 #voice tikb0399
-I unintentionally call out a voice that is not in my heart.
+[Tsukiyo] "It's a bit painful, but... I'm okay. I can bear it..."
 
-[Tsukiyo] "It's a bit painful, but it's okay. I can endure it..."
+"I see. There's still a long way to go, so do your best. Relax your stomach..."
 
 #voice tikb0400
-"I see. It's still early, so do your best. Relax your stomach..."
+[Tsukiyo] "Yes, it is. Ahh... ahh..."
 
 ;SE se021 挿入音2 再生
 #se 1 se021
 
-[Tsukiyo] “Yes.
+"We've just reached the thickest part. Once we get past this, we're about halfway there."
 
 #voice tikb0401
-"Now, we've reached the thickest point, and if we pass here, we're about halfway there."
+[Tsukiyo] "Well, can I still go in...? It's okay. I'll put it all in....ahh....ugh...."
 
-[Tsukiyo] “Well, can we still enter…?
+Tsukiyo's back was covered with a thick layer of sweat.
 
-Sweat drips down Tsukiyo's back.
+Frustratingly slowly, my stiff cock disappeared inside Tsukiyo.
 
-Slowly and frustratingly, my stubbornness disappears into Tsukiyo.
+"Just a little longer."
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0402
-"A little more"
+[Tsukiyo] "Hmm... ugh... my stomach is so full... my penis is pushing against the back of my penis..."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
-[Tsukiyo] "Hmm... Kuuu... My stomach is full... I'm being pushed from the backside of my penis..."
+"Look, it's gone all the way in. Good job."
 
-"Look, I've got it all the way to the root. Good work."
+After inserting it all the way in, I stroked Tsukiyo's head for all his effort, and she smiled with tears of joy in her eyes.
 
 ;EVCG EV022A1
 #cg イベント ev022a1 背景
 #wipe fade
 
 #voice tikb0403
-After I finished inserting it all the way to the root, I stroked Tsukiyo's hard-working head, and Tsukiyo smiled happily with tears in his eyes.
+[Tsukiyo] "It's true. My butt and stomach are tightly pressed together."
 
-[Tsukiyo] "It's true. The buttocks and belly fit perfectly together."
+The intestinal walls, which were tightly attached to my cock, slowly squeezed me while pulsating. It was so tight it hurt.
 
-The intestinal wall that sticks tightly to my meat stick vibrates and slowly squeezes it up. It's a painful squeeze.
+"Ahh, just having it inside of you, Tsukiyo, feels so good."
 
 #voice tikb0404
-"Ah, just putting it in Tsukiyo feels good."
+[Tsukiyo] "Ahh... just having it in my ass feels so good..."
 
-[Tsukiyo] "Huh... I feel good just putting my butt in..."
+"We're together."
 
 #voice tikb0405
-"I'm with you"
+[Tsukiyo] "Yes."
 
-[Tsukiyo] "Yes"
+"But I want to feel more of you, Tsukiyo. So I'm going to take action."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
@@ -719,65 +719,65 @@ The intestinal wall that sticks tightly to my meat stick vibrates and slowly squ
 #wipe fade
 
 #voice tikb0406
-"But I also want to feel more about Tsukiyo. That's why I'm moving."
+[Tsukiyo] "Haaah... When you thrust up from below... Ahh... it goes even deeper..."
 
-[Tsukiyo] "Haaah... if you push me up from the bottom... aah... it's going to go deeper..."
+He thrusts his hips up from below, as if throwing his deeply impaled body upwards.
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0407
-Throw up the deeply skewered body and push up the waist from below.
+[Tsukiyo] "Ahh... it's deep. When you go deep, it feels so good. Haa, haa... ah..."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0408
-[Tsukiyo] "Ah... it's deep. It feels good when it's pushed deep down. Haa, haa...aa..."
+[Tsukiyo] "My asshole is wide open... haah, haah... should I ejaculate? Are you feeling good?"
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
-[Tsukiyo] "The hole in your buttocks is wide open... Haa, haa... Let's get some semen out, okay? Are you comfortable and used to it?"
+"Oh, that feels so good."
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0409
-"Ah, it feels great."
+[Tsukiyo] "Ahh... haah... it felt good... ahh... it was intense... Tsukiyo's penis wants to come out too...!"
 
-[Tsukiyo] "Ah... hah... that's good... ah... it's intense... Tsukiyo also wants to go out with his dick... desu!"
+"Then you'll have to take good care of your penis too."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0410
-"Then, I have to take care of my penis properly."
+[Tsukiyo] "Haa... When you slosh my penis, it makes me want to cum even more... Ahh... Haa..."
 
-[Tsukiyo] "Haah... Penis, chukochukochukochukochuko, it makes me want to cum even more...ah...haah..."
+"It's okay to let out a lot. Let's try to let out as much as we can."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0411
-"You can give as much as you can. Shall we give as much as we can?"
+[Tsukiyo] "Ahhh, it feels good. I'll come right away. When I want to ejaculate, my asshole tightens."
 
-[Tsukiyo] "Ahhh... it feels good. I'm going to go right away. When my semen wants to come out, the hole in my buttocks is tight."
+"Yeah. Thanks to you, I feel really good too."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0412
-"Yeah. Thanks to that, I feel great too."
+[Tsukiyo] "Haaaah... Ahh... Haa... It's coming out. It's coming out first..."
 
-[Tsukiyo] "Haaah... ah... haa... let's go. Let's go first..."
+"Don't hold back."
 
 ;SE se020 挿入音1 再生
 #se 1 se020
 
 #voice tikb0413
-"Don't hold back"
+[Tsukiyo] "Ahh... I'm already coming...!"
 
 ;SE se024 射精音2 再生
 #se 1 se024
@@ -786,22 +786,22 @@ Throw up the deeply skewered body and push up the waist from below.
 #cg イベント ev022b3 背景
 #wipe fade
 
-[Tsukiyo] "Oh... well, I'm already going... Suu!"
+The young stem trembled in my hand, and then it spurted out semen, which dripped down and created a white puddle at my feet.
 
 #voice tikb0414
-The young stem shook in my hand, and then it spewed out semen, and the semen dripped down, creating a white puddle at my feet.
+[Tsukiyo] "Ahh... I came first... I'm so sorry..."
 
-[Tsukiyo] "Ah... I went first... I'm sorry..."
+Tsukiyo shrank back, looking apologetic.
 
-Tsukiyo cowered apologetically.
+"No, there's no need to apologize. Tsukiyo, you were so cute when you came. Can you feel my dick getting harder inside you now?"
 
 #voice tikb0415
-"No, you don't have to apologize. Tsukiyo was so cute when he went. Can't you see my penis is getting harder inside?"
+[Tsukiyo] "Yes, yes..."
 
-[Tsukiyo] "Yeah, yes..."
+“Stay with me until I cum. Do your best until you squirt your hot semen inside of me, Tsukiyo.”
 
 #voice tikb0416
-"Stay with me until I cum. Do your best until you put out hot semen in Tsukiyo."
+[Tsukiyo] "Yes, it is."
 
 ;SE se022 挿入音連続1 loop再生
 #se 1 se022 70
@@ -810,46 +810,46 @@ Tsukiyo cowered apologetically.
 #cg イベント ev022a1 背景
 #wipe fade
 
-[Tsukiyo] "Yes."
+The inside of Tsukiyo, who had just orgasmed, was hot and melting, and she was twitching as if she wanted to drink semen any second now.
 
-The inside of Tsukiyo who just got orgasm is hot and the mucous membrane is hot and writhing twitchingly as if he was drinking semen at any moment.
+I won't hesitate to dig into that area.
 
 #voice tikb0417
-I gouge it out without hesitation.
+[Tsukiyo] "Ahh... My penis is being poked from behind and it's been stuck hard the whole time. Even though I've ejaculated, it's not getting soft... Ahhh..."
 
-[Tsukiyo] "Ah... I'm being poked from the backside, and I'm going to have an erection all the time. Even though I have semen, it won't soften... Ah..."
+"From the looks of it, Tsukiyo is ready to cum again. Let's cum together next time."
 
 #voice tikb0418
-"With this feeling, Tsukiyo seems to be cool too. Let's go with me next time."
+[Tsukiyo] "Yes, that's right. I'll do my best."
 
-[Tsukiyo] "Yes. I will do my best."
+Tsukiyo's cute little penis trembles with each thrust.
 
 ;EVCG EV022A2
 #cg イベント ev022a2 背景
 #wipe fade
 
 #voice tikb0419
-Tsukiyo's cute penis shakes with every time you push it up.
+[Tsukiyo] "Ahh... haa... it feels so good... ahh... it's hot... my penis is hot..."
 
-[Tsukiyo] "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hot
+He rotates his hips as if kneading the entrance, and also adds movements that rub the inside evenly, fully enjoying the melted mucous membrane inside Tsukiyo.
 
 #voice tikb0420
-Rotate your hips as if kneading the entrance, add a movement that evenly rubs the inside, and fully enjoy the melting mucous membrane inside Tsukiyo.
+[Tsukiyo] "Ahhh...Ahhh...My butt feels so good..."
 
-[Tsukiyo] "Ah... ah... my butt feels good..."
+Her anus had become completely soft and was squeezing my cock with just the right amount of force.
 
-The completely softened anus squeezes my meat stick with exquisite adjustment.
+"Ah... It's about time for me to..."
 
-"Ah... it's almost time for me too..."
+He grabbed her slim waist tightly and shook it wildly. His cock scraped against her rectum.
 
 ;EVCG EV022A3
 #cg イベント ev022a3 背景
 #wipe fade
 
 #voice tikb0421
-I grabbed my thin waist firmly and shook my hips blindly. It's like scraping the rectum with a meat stick.
+[Tsukiyo] "Ahh... Ahhhhhhh... I'm coming! I'm coming! Aaaaahhhhh!"
 
-[Tsukiyo] "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
+"Take it!"
 
 ;SE se022 挿入音連続1 loop停止
 #se 1 stop
@@ -860,80 +860,80 @@ I grabbed my thin waist firmly and shook my hips blindly. It's like scraping the
 #cg イベント ev022b3 背景
 #wipe fade
 
-"Take it!"
+A thick lump of semen passes through the urethra and is spewed into Tsukiyo's intestines.
 
-Thick semen like a mass passes through the urethra and is spit out into Tsukiyo's intestines.
+Splat, splat, splat, splat
 
-Dopyuuru Ruru Ruru Ruddoku
+The semen pulsated with such force that it rampaged inside Tsukiyo's intestines.
 
 #voice tikb0422
-The semen with the power to pulsate many times raged in Tsukiyo's intestines.
+[Tsukiyo] "Ahh... It's hot...! A lot of hot semen is coming out from inside... I'm going to come again and again...!"
 
 ;EVCG EV022B2
 #cg イベント ev022b2 背景
 #wipe fade
 
-[Tsukiyo] "Oh... it's hot, it's coming out...! There's a lot of hot semen inside... I'm going to cum again...!"
+Semen once again spurted out from Tsukiyo's cute little penis.
 
 #voice tikb0423
-Dopyutto, Tsukiyo's cute dick started spitting out semen again.
+[Tsukiyo] "Haaaah... It was bigger than before, and I came... It felt like I was going to fly..."
 
-[Tsukiyo] "Haaah...it's bigger than before...it's like flying...it was..."
+Tsukiyo muttered, breathing heavily.
 
-Hahaha, Tsukiyo muttered while breathing heavily on his shoulder.
+I gently brushed the hair that had stuck to her forehead with sweat and whispered in her ear.
 
-I gently brushed away the hair on my forehead that was clinging to it with sweat and whispered in his ear.
+"Thank you for your hard work. It felt so good. It feels like the pain has gone away."
 
 #voice tikb0424
-“Thank you for your hard work, it felt great.
+[Tsukiyo] "That's good..."
 
-[Tsukiyo] "I'm glad..."
+With a *slurp* sound, the flaccid penis slipped out of Tsukiyo, and viscous semen oozed out.
 
 #voice tikb0425
-Kopuu…… With a sound, the withered meat stick came out of Tsukiyo, and the semen overflowed.
+[Tsukiyo] "Ahh... it came out..."
 
-[Tsukiyo] "Oh... it's gone..."
+Tsukiyo muttered with a slightly disappointed look on his face. Then he dropped his eyes to the book he had been holding and let out a sad voice.
 
 #voice tikb0426
-Tsukiyo muttered with a little regret. Then, when I dropped my eyes on the book I had been holding for a long time, I let out a sad voice.
+[Tsukiyo] "Ahh... it's all mangled..."
 
-[Tsukiyo] "Ah...it's messed up..."
+The edges of the book were wrinkled from being gripped tightly during sex.
 
 #voice tikb0427
-The edge of the book, which had been tightly clenched during sexual intercourse, has become wrinkled.
+[Tsukiyo] "I'm sorry. I made your important book dirty."
 
-[Tsukiyo] "I'm sorry. I messed up an important book."
+"Ah... No, it was my fault for starting sex while still holding it. Sorry for disturbing you while you were studying. It's not like I can't read anymore, so it's okay."
 
 #voice tikb0428
-"Ah... No, it was my fault for starting sex while holding it. I'm sorry for disturbing your studies. It's not like you can't read anymore, so it's okay."
-
 [Tsukiyo] "But..."
 
-#voice tikb0429
-"If you're interested, I'll smooth out the wrinkles later. And I'll give this book to Tsukiyo."
+"If it bothers you, I'll smooth out the wrinkles later. And let's give this book to Tsukiyo."
 
-[Tsukiyo] "Ku, give it to me...?"
+#voice tikb0429
+[Tsukiyo] "W-will you give it to me...?"
+
+"But you've soiled the chair too."
 
 #voice tikb0430
-"But you also soiled the chair."
-
 [Tsukiyo] "I'm sorry."
 
 Tsukiyo reflexively apologized again.
 
-#voice tikb0431
-“Why are you apologizing?
+"Why are you apologizing? Let's clean up and continue reading."
 
+#voice tikb0431
 [Tsukiyo] "Huh...?"
 
-I gently stroked Tsukiyo's head, who had shrugged his shoulders, wondering if he was going to get angry.
+Tsukiyo shrugged, wondering if he was going to get in trouble, but when I gently stroked his head, he cried out in disappointment.
 
-#voice tikb0432
 "Can you help me clean up?"
 
-[Tsukiyo] "Yes."
+#voice tikb0432
+[Tsukiyo] "Y-yes."
 
-"Thank you"
+"thank you"
+
+I took Tsukiyo off my lap, fixed her clothes, and went to get the cleaning supplies.
 
 
 ;SMODE 019 STOP

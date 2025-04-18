@@ -23,50 +23,50 @@
 #bg BG07b_1
 #wipe fade
 
-When I was reading alone in the hut, Konomi suddenly appeared from the side.
+As I was reading a book alone in the hut, Konomi suddenly appeared next to me.
 
-"Wow, what a surprise"
+"Wow, what a surprise."
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0336
-[Konomi] "Ningen-kun, why were you surprised?"
+[Konomi] "Human-kun, why were you surprised?"
 
-"Because I was concentrating on the book."
+"Because I was concentrating on my book."
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0337
-[Konomi] "Didn't you notice that I came‾? Ningen-kun is pretty careless, isn't she?"
+[Konomi] "You didn't even notice I was here? Humans are pretty forgetful."
 
-"Huh? Is that so?"
+"Eh? Is that so?"
 
 #voice konb0338
-[Konomi] "The first time we met, you slept a lot. There's a lot of gaps, right? It's dangerous if it's a hungry animal or a bad guy, right?"
+[Konomi] "You were sleeping a lot when we first met. You're so vulnerable. If you're a hungry animal or a bad guy, you could be in danger."
 
-"I think you'll understand if something like that comes."
+"I think you'd know if something like that happened."
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0339
-[Konomi] "Do you understand‾? You have to be careful‾?"
+[Konomi] "Do you understand? Be careful, okay?"
 
-……It feels strange to have Konomi worry about such things.
+...It feels kind of weird that Konomi is worried about something like that.
 
-"……Thanks for your concern"
+"……thank you for worrying about me"
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0340
-[Konomi] "You're welcome"
+[Konomi] "You're welcome."
 
 "So, what is it?"
 
@@ -75,38 +75,38 @@ When I was reading alone in the hut, Konomi suddenly appeared from the side.
 #wipe fade
 
 #voice konb0341
-[Konomi] "Huh‾?"
+[Konomi] "Hmm?"
 
-Konomi tilted her head and sat down on a chair.
+Konomi tilted her head and sat down in her chair.
 
-"I thought you might need something."
+"I thought you had come to see me for something."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0342
-[Konomi] "Ah, yes, yes. I have something for you."
+[Konomi] "Ah, yeah, I'm here if you need me."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
-Saying that, Konomi smiled.
+Konomi said with a grin.
 
-I closed the book I was reading and put it on the desk.
+I closed the book I was reading and placed it on the desk.
 
 "..."
 
 #voice konb0343
-[Konomi] "Huh‾?"
+[Konomi] "Hmm?"
 
 "..."
 
 #voice konb0344
-[Konomi] "What's on my face‾?"
+[Konomi] "Is there something on my face?"
 
-"No, I thought I'd ask you if you have business."
+"Well, I was just thinking about asking if you had something to say."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
@@ -115,139 +115,139 @@ I closed the book I was reading and put it on the desk.
 #voice konb0345
 [Konomi] "Oh, I see."
 
-…… Konomi's words and actions sometimes miss the beat, so I can't let my guard down.
+...Konomi's words and actions are sometimes off-beat, so I have to be on my guard.
 
-Isn't it too free compared to the others?
+Aren't you being a little too free compared to the others?
 
-Regardless of my dismay, Konomi cut out the main subject.
+Konomi ignored my dumbfounded reaction and got straight to the point.
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0346
-[Konomi] "Hey, hey, when a human being gives something to you, you thank them, right?"
+[Konomi] "Hey, hey, when humans receive something, they say thank you, right?"
 
-"Ah, that's right. Are elves different? There are stories in old tales about being repaid by elves."
+"Ah, that's right. Are elves different? There are stories in old tales where elves repay someone's kindness."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0347
-[Konomi] "Yeah, I'll be an elf too‾? Sometimes‾"
+[Konomi] "Hmm, I do elf stuff too, sometimes."
 
 "Sometimes..."
 
-When compared to human common sense, I feel that the elves' ethics are a little out of place.
+Compared to human common sense, elven ethics seem to be a bit off.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0348
-[Konomi] "What? Humans die right away, right? Even if you go to thank them, they're gone. That's why sometimes..."
+[Konomi] "But you know what, humans die so quickly, right? Apparently, sometimes when you go to thank them, they're gone. So, sometimes..."
 
 "……I see"
 
-If you ask an elf who looks around 20 years old, she'll say that she's lived for nearly 1000 years, so I guess elves and humans perceive time differently.
+There are stories of elves who look to be around 20 years old being asked how old they are and they tell you they've lived for nearly a thousand years, so perhaps elves and humans perceive time differently.
 
-For elves, humans may be creatures that die quickly.
+From the elves' point of view, humans may be creatures that die easily.
 
 #voice konb0349
-[Konomi] "Well, I thought I'd thank you for the string, too. I brought it."
+[Konomi] "So, I wanted to thank you for the string, so I brought it."
 
-"You don't have to worry about that."
+"You don't need to worry about that."
 
-That said, I'm very curious about the elf's gratitude.
+That said, I'm very curious about the elf's thanks.
 
-I wonder if it's something like eternal youth and longevity that you often hear about in folk tales...
+Is it something like eternal youth and longevity, like we often hear about in old tales?
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0350
-[Konomi] "I found a good one. Yes. I'll give you this. Isn't it beautiful?"
+[Konomi] "I found something great. Here, I'll give you this. It's pretty, isn't it?"
 
-What Konomi gave me was a sparkling, transparent, beautiful stone.
+What Konomi handed over to me was a beautiful, sparkling, transparent stone.
 
-"Oh, it's beautiful. What the hell is this?"
+"Oh, it's beautiful. What on earth is this?"
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0351
-[Konomi] "Hmm, it's a beautiful stone."
+[Konomi] "Hmm, what a beautiful stone."
 
-"that's all?"
+"That's all?"
 
 ;CHR K06F C
 #cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0352
-[Konomi] "Huh? What else is there?"
+[Konomi] "Hmm? What else is there?"
 
-"No, hahahaha... I thought it was something like having it would make me happy."
+"No, hahahaha... I thought for sure it was something like, that if you had it you'd be happy."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0353
-[Konomi] "You can be"
+[Konomi] "You can do it!"
 
-"Eh!? What kind of effect does that have!?"
+"What?! What effect does that have?"
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0354
-[Konomi] "Does it work‾? Can't you be happy if you have something beautiful? Sometimes I take it out and look at it‾"
+[Konomi] "Does it work? Doesn't having beautiful things make you happy? Maybe you should take them out and look at them sometimes."
 
-Konomi replied strangely to me who involuntarily leaned forward.
+Konomi answered curiously as I instinctively leaned forward.
 
-"Ah, ah... that's what it is. Ahahahaha..."
+"Ah, ah... that's it. Ahahahaha..."
 
-I expected it to be a magical stone with great power.
+I honestly expected it to be some kind of magical stone with incredible powers.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0355
-[Konomi] "Something interesting‾? Ahahahaha‾"
+[Konomi] "Was it fun? Ahahahahaha"
 
-So, is this really just a beautiful stone?
+So, is this really just a pretty stone?
 
-…… Well, a stone that is transparent and this beautiful is quite rare in its own way. I don't know what it is, but it's a gem...
+...Well, it's rare to find a stone that's both transparent and this beautiful. I don't know what it is, but it's a gemstone...
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0356
-[Konomi] "It's annoying if the thorns find you, so you should hide it‾?"
+[Konomi] "If Ibara finds us, he'll be really noisy, so you'd better hide him, okay?"
 
-"Hahaha, that's right."
+"Hahaha, that's true."
 
-When the light shines through, it looks like the light is scattered inside the stone. My mouth slipped when I was fascinated by it.
+When I held it up to the light, it looked like the light was somehow scattering inside the stone. I was so fascinated by it that I blurted out something.
 
-"However, if you bring it to the city, it will sell for a high price..."
+"But I think it would sell for a lot of money if I brought it to town..."
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0357
-[Konomi] "Are you going to sell it?"
+[Konomi] "Are you selling it?"
 
-Konomi's face turned dumbfounded at my words.
+Konomi had a puzzled look on her face when she heard what I said.
 
-"Oh, sorry"
+"Oh, sorry."
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
@@ -256,21 +256,21 @@ Konomi's face turned dumbfounded at my words.
 #voice konb0358
 [Konomi] "Why are you apologizing?"
 
-When I apologized for my gaffe, saying that it was rude to sell what I had been given, Konomi's face became more and more puzzled.
+When I apologized for my mistake, wondering if it was rude of me to sell something that she had kindly given me, Konomi looked even more puzzled.
 
 #voice konb0359
-[Konomi] "Selling it means exchanging it for silver or copper coins, right?
+[Konomi] "When you say you sell them, you mean in exchange for those silver and copper coins, right? But they're dirty and not clean, so why do humans want them?"
 
-Konomi tilted her head as though she didn't really understand.
+Konomi tilted her head as if to say she really didn't understand.
 
-"Eh, um... Konomi knows that it's a money economy, right?"
+"Um, well... Konomi, you understand about monetary economics, right?"
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0360
-[Konomi] "Is it okay?"
+[Konomi] "Can I return it?"
 
 I don't understand this at all.
 
@@ -281,7 +281,7 @@ I don't understand this at all.
 #wipe fade
 
 #voice konb0361
-[Konomi] "That's ‾, I understand ‾. It's about exchanging money for what you want, right?"
+[Konomi] "I understand that. It's exchanging money for things you want, right?"
 
 "I know that..."
 
@@ -290,96 +290,96 @@ I don't understand this at all.
 #wipe fade
 
 #voice konb0362
-[Konomi] "But I really don't understand that you can trade silver and copper that have become so perfect for whatever you want‾"
+[Konomi] "But I don't really understand the idea of being able to trade that much silver and copper for anything you want."
 
-……I see, you know about money, but you don’t know how it works. Or maybe you just don't know.
+…I see, so you understand money, but you don't understand how it works. Or maybe you don't even want to understand it.
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0363
-[Konomi] "I think that stone is prettier, but if human-kun wants to exchange it for money, I think that's fine."
+[Konomi] "I think that stone is more beautiful, but if you want to exchange it for money, that's fine."
 
-"... No, I won't."
+"...No, I won't."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0364
-[Konomi] "I see. I think it's good too."
+[Konomi] "I see. I think that's a good idea too."
 
 Konomi smiled.
 
-"Konomi gave me this, so I'll keep it safe and look at it from time to time."
+"Since Konomi kindly gave it to me, I'll keep it safe and look at it from time to time."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0365
-[Konomi] "Fufu‾ Ah, but you need money to buy ingredients for sweets, right? Then you can sell them."
+[Konomi] "Hehe. Ah, but you need money to buy ingredients for sweets, right? In that case, I'd be happy to sell them to you."
 
-If I sell such a beautiful stone, how many sweets ingredients can I buy...
+If we sold such beautiful stones, I wonder how many ingredients we could buy for making sweets...
 
-"As expected, this can't be sold in the village, so if you want to sell it, you have to go to the royal capital."
+"As expected, this won't sell in the village, so if I want to sell it, I'll have to go to the royal capital."
 
 ;CHR K02F1 C
 #cg コノミ kon_1_02f1 中
 #wipe fade
 
 #voice konb0366
-[Konomi] "Don't people in the village want beautiful stones?"
+[Konomi] "Don't the villagers want beautiful stones?"
 
-"I think I want it, but I don't think I can buy it."
+"I want one, but I don't think I'll be able to buy one."
 
 #voice konb0367
 [Konomi] "Why can't I buy it even though I want it?"
 
-"If you want to buy these stones, you need gold coins instead of silver coins."
+"If you want to buy a stone like this, you'll need gold coins, not silver coins."
 
 ;CHR K02F2 C
 #cg コノミ kon_1_02f2 中
 #wipe fade
 
 #voice konb0368
-[Konomi] "If Ningen-kun says he'll exchange, won't it?"
+[Konomi] "If a human says they'll trade, does that mean it won't be a trade?"
 
-“If you take it to the city, you can probably exchange it for gold coins.”
+"If we take it to town, we can probably exchange it for gold coins."
 
 ;CHR K06F C
 #cg コノミ kon_1_06f 中
 #wipe fade
 
 #voice konb0369
-[Konomi] "Hmm... Gold coins are better than silver coins, aren't they?"
+[Konomi] "Hmm... gold coins are better than silver coins."
 
-"Well, that's right."
+"Well, that's true."
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
 #wipe fade
 
 #voice konb0370
-[Konomi] "Ningen-kun wants a lot of gold coins‾?"
+[Konomi] "Do you want lots of gold coins, human?"
 
-"Well, well, it's better than nothing."
+"Well, I guess it's better than nothing."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0371
-[Konomi] "I see. Next time I find a beautiful stone, I'll bring it to you."
+[Konomi] "I see. Then, next time I find another beautiful stone, I'll bring it to you."
 
-"Yes, thank you"
+"Yes, thank you."
 
-…I don't think even Konomi knows when this time will come.
+...I guess even Konomi herself doesn't know when that next time will be.
 
-Next, the barrier will be lifted again... I wonder if I'll be alive by then.
+If the barrier were to be broken again next time...it's doubtful I'd even be alive by then.
 
-"... you don't have to overdo it"
+"...There's no need to push yourself."
 
 ;CHR K05F C
 #cg コノミ kon_1_05f 中
@@ -388,103 +388,103 @@ Next, the barrier will be lifted again... I wonder if I'll be alive by then.
 #voice konb0372
 [Konomi] "Hmm? Why?"
 
-"I may be doing a lot of things, but you guys are doing a lot of things too."
+"I may be doing a lot of things, but you guys are doing a lot for me too."
 
 #voice konb0373
-[Konomi] "What do you mean by various things?"
+[Konomi] "What do you mean, various things?"
 
-"Ah...that's..."
+"Ah... that's..."
 
-To put it bluntly, is it going to be sexual intercourse? But I don't want to say that's all.
+In short, I guess it would be sexual intercourse, but I don't want to say that's all there is to it.
 
-With Konomi and the others staying with me, I feel like something has changed for me.
+Having Konomi and the others with me makes me feel like something has changed within me.
 
 ;CHR K03F C
 #cg コノミ kon_1_03f 中
 #wipe fade
 
 #voice konb0374
-[Konomi] "Hmm, something that feels good? Human-kun feels good too, right?"
+[Konomi] "Hmm, something that feels good? Humans feel good too, right?"
 
 "..."
 
-Ignoring the subtleties of my delicate heart, Konomi came to crush me.
+Konomi doesn't care about the delicate nuances of my heart, and comes to crush me with abandon.
 
-"... that too, but that's not all..."
+"...That too, but that's not all..."
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0375
-[Konomi] "Well then, I wonder if I'll be rewarded for doing something pleasant with Ningen-kun‾?"
+[Konomi] "So, maybe if I do something fun with you human will be a way of thanking you?"
 
-"I wouldn't say no."
+"I'm not saying it won't happen."
 
 #voice konb0376
-[Konomi] "If human-kun feels good, let's do more. I want to thank human-kun even more.
+[Konomi] "If it feels good, human, then let's do it more and more. I want to thank you more, human, and I love feeling good."
 
-Konomi shows a carefree smile.
+Konomi gives an innocent smile.
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0377
-[Konomi] "Let's do it?"
+[Konomi] "Shall we do it?"
 
-"Ah, ah... yeah"
+"Uh, yeah...yeah."
 
-I don't know why I'm the one on the waist.
+I wonder why I'm the one being hesitant.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0378
-[Konomi] "I did it myself, but it definitely feels better to have Ningen-kun do it."
+[Konomi] "I've done it myself, but it feels so much better when a human does it for me."
 
-Is it a scene where you answer that you are honored?
+Is that a situation where you would respond with something like it's an honor?
 
-Konomi took my hand and sucked my finger.
+Konomi took my hand and sucked her finger.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
 #wipe fade
 
 #voice konb0379
-[Konomi] "Touch me, Ningen-kun. Will you make me feel good?"
+[Konomi] "Touch me, human. Make me feel good?"
 
-"...I can't help it"
+"...I guess that can't be helped."
 
-In order to meet Konomi's request, I put my hand inside my clothes.
+In order to fulfill Konomi's request, I reached inside her clothes.
 
-Konomi's erection is already firm.
+Konomi's penis was already fully erect.
 
-"You're ready now. When did you want to do it?"
+"You're all set now. How long have you wanted to do this?"
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0380
-[Konomi] "Fufufu‾, I don't know‾. It might have been since we were talking‾?
+[Konomi] "Hehe, I don't know. Maybe it's from when we were talking? Ahh... having the tip rubbed feels so good."
 
-"Is it okay if I just get my penis chewed?"
+"Is it okay if I just get my dick rubbed?"
 
 ;CHR K03F C
 #cg コノミ kon_1_03f 中
 #wipe fade
 
 #voice konb0381
-[Konomi] "Uhm‾, more... I want Ningen-kun's fingers and penis to stick around her butthole‾"
+[Konomi] "Mmmm, more... I want a human's fingers and penis to penetrate my asshole too."
 
-“Didn’t you say thank you for being greedy?
+"You're being greedy. Didn't you say you were going to thank me? But you're the only one trying to have fun yourself. What a sneaky girl."
 
 #voice konb0382
-[Konomi] "Dude, Ningen-kun feels good too‾"
+[Konomi] "Well, humans feel good too, right?"
 
-"That's true, but... it's like this for such a bad boy!"
+"That's true, but... this is what happens to bad children like that!"
 
 ;CHR OFF
 #cg all clear
@@ -505,223 +505,223 @@ Konomi's erection is already firm.
 #cg イベント ev020b1 背景
 #wipe fade
 
-I threw Konomi onto the bed and wrapped the young stems, which were twitching in search of stimulation, with a nearby string.
+I threw the flea onto its bed and wrapped the young stem, twitching in search of stimulation, tightly with a string I had nearby.
 
 #voice konb0383
-[Konomi] "Oh, what are you doing?"
+[Konomi] "Ahh, what are you doing?"
 
-"I'm disciplining a selfish child so that she can't ejaculate on her own."
+"I'm disciplining my spoiled child so he can't cum on his own."
 
 #voice konb0384
-[Konomi] "Ugh... it feels strange to be tied up like that‾"
+[Konomi] "Uhh... it feels weird being tied up in a place like that."
 
-Konomi's expression is relaxed, probably because it's just an erection and it hasn't reached the urge to ejaculate yet.
+Konomi looks very relaxed, perhaps because he is still just erect and has not yet felt the urge to ejaculate.
 
-"Isn't it nice to try something different? A new world might open up, you know?"
+"Why not try something different? It might open up a new world for you."
 
-Whether it's from an erection or hyperemia, the tip of the glans peeking out just a little from the gap in the skin looks redder and more congested than usual.
+Whether due to an erection or congestion, the tip of the glans, peeking out just a little from the gap in the foreskin, appears redder and more swollen than usual.
 
-I stuck my finger in the gap and touched the sensitive part directly.
+I stuck my finger into the gap and played with her sensitive parts directly.
 
 ;EVCG EV020B2
 #cg イベント ev020b2 背景
 #wipe fade
 
 #voice konb0385
-[Konomi] "Oh!? That's thrilling! Stimulation! It's too strong!"
+[Konomi] "Ahh!? That spot is tingling! The stimulation is so strong‾ Aaaaaahhhh‾!"
 
-"But are you feeling okay?"
+"But it feels good, right?"
 
 #voice konb0386
-[Konomi] "Oh, it feels good, but what is this, what is this!?"
+[Konomi] "Ah, it feels good, but what is this, what is thiseeeee!?"
 
-In order not to touch Suzuguchi, who is the most sensitive, she blames the edge of the skin around it.
+Be careful not to touch the most sensitive part, the glans, and focus on the very edge of the skin surrounding it.
 
-"Look, it's funny because it looks like you've got your finger inside your dick."
+"Look, it's like you've got a finger inside your dick, how funny."
 
-Cover your fingers with the excess skin and tickle the inside with your fingertips. The anticipation secreted by Konomi serves as a sufficient lubricant.
+I cover my fingers with the excess skin and tickle the inside with my fingertips. The pre-cum secreted by Konomi acts as a sufficient lubricant.
 
 #voice konb0387
-[Konomi] "In the midst of that, I get a little bit of a tingle, it hurts a bit, but it feels good and feels strange."
+[Konomi] "It tingles inside. It hurts a little, but it feels good and it's a strange feeling."
 
-I can feel Konomi's pedicles increasing in hardness on my fingertips.
+I can feel Konomi's shaft getting harder under my fingertips.
 
 #voice konb0388
-[Konomi] "Faaaa... It hurts when your penis gets hard‾ Ahhh, take it off‾"
+[Konomi] "Ahhh... When my penis gets hard it hurts... Ahh, take it off..."
 
-"Then, I'll loosen it up a little."
+"Well, I'll cut you some slack."
 
 ;EVCG EV020B1
 #cg イベント ev020b1 背景
 #wipe fade
 
 #voice konb0389
-[Konomi] "Just relax?"
+[Konomi] "Just loosen it up?"
 
 "Because I want to have more fun."
 
 #voice konb0390
-[Konomi] "Is it fun to be tied up?"
+[Konomi] "Is it fun to have your penis tied up?"
 
 "At least I'm having fun."
 
 #voice konb0391
-[Konomi] "I wonder if it's okay‾"
+[Konomi] "That's fine then."
 
-I've got Konomi's permission, so I put my hand to my chest.
+Since I already had Konomi's permission, I thought, moving my hand towards my chest.
 
-“Your nipples are getting crunchy and hard, too.”
+"Your nipples are getting really hard too."
 
 ;EVCG EV020B2
 #cg イベント ev020b2 背景
 #wipe fade
 
 #voice konb0392
-[Konomi] "I don't want to tease only the tip of my boobs. It feels good, but it's a blur."
+[Konomi] "I don't like it when they only tease the tips of my breasts. It feels good, but it makes me feel uneasy."
 
-"I see. Well then, if you can get away with just your boobs, I'll untie you."
+"I see. Then, if you can cum just from using your breasts, I'll untie you."
 
 #voice konb0393
-[Konomi] "Eh‾? Only boobs‾? Can you do it‾?"
+[Konomi] "Huh? Just boobs? Can I do that?"
 
-“Yes.
+"Okay. Let's get started. Concentrate and watch."
 
-I pinched a small grain with my fingertips and rubbed it in a twisting motion.
+I picked up a small grain between my fingertips and rubbed it, twisting it around.
 
 ;EVCG EV020B3
 #cg イベント ev020b3 背景
 #wipe fade
 
 #voice konb0394
-[Konomi] "Nnya‾ it's ticklish‾. Haaaa, ahhh‾, my boobs are shaking‾"
+[Konomi] "Mmm, it tickles. Ah, ah, my breasts are tingling."
 
-Konomi's body trembled as if she had convulsed as she squeezed her completely erect nipples tightly.
+As he pinched and squeezed her fully erect nipples, Konomi's body trembled violently as if she was having a convulsion.
 
 #voice konb0395
-[Konomi] "Wow! It hurts‾, the tingling spreads all over my body... Hmm..."
+[Konomi] "Ahhh! It hurts, the tingling sensation is spreading all over my body... hmm..."
 
-"Just hurt?"
+"It just hurts?"
 
 ;EVCG EV020B2
 #cg イベント ev020b2 背景
 #wipe fade
 
 #voice konb0396
-[Konomi] "Hmm, it feels good, but ahhh! After crushing it so hard, it's squeezing!
+[Konomi] "Mmm, it feels good, but... ahhh! It makes a nice tingling sensation after you squeeze it so hard! It's tingling and I can't stop it."
 
-"You're standing in a binge, aren't you? Then how about doing this?"
+"It's standing up straight. Well, how about doing it like this?"
 
-While squeezing, rub the nipple so that it can be applied to the areola, as if drawing a circle.
+Rub the nipple into the areola in a circular motion while squeezing it.
 
 ;EVCG EV020B3
 #cg イベント ev020b3 背景
 #wipe fade
 
 #voice konb0397
-[Konomi] "Funyuuuuu‾, hyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+[Konomi] "Squish, ahhhh, I really don't like having my breasts teased."
 
-"Hmm, I see. That's a pity."
+"Hmm, I see. That's unfortunate."
 
-Finally, pinch and pull.
+Finally, pinch it tightly and pull.
 
 #voice konb0398
-[Konomi] "Funyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+[Konomi] "Nnnnnnnnn! Don't pull meeeeee! Aah, snnnnnnnnn!"
 
-Konomi bends her body as if to lean back, bikun, bikun.
+Konomi's body bends as she arches her back with a jerk.
 
-"Oops, it's dangerous"
+"Oops, careful, careful."
 
-The moment Konomi ejaculates, I tighten the string that binds the young stem and interfere with her ejaculation.
+At the moment when Konomi is about to ejaculate, the string binding the young stem is tightened to prevent ejaculation.
 
 ;EVCG EV020B1
 #cg イベント ev020b1 背景
 #wipe fade
 
 #voice konb0399
-[Konomi] "What the hell!? I want to put it out!
+[Konomi] "Whyyyyyyyyy?! I want to let it out, I want to cum and squirt and squirt."
 
-Konomi shook his head frantically.
+Konomi shook her head frantically.
 
 #voice konb0400
-[Konomi] "Ah, my semen is raging inside my ball‾ I want to get it out‾!"
+[Konomi] "Ahh, the semen is raging inside my balls, I want to let it out!"
 
-"That's so cute"
+"I see, that's sad."
 
-I tied Konomi's meat stick tightly and rubbed the pointy tip gently.
+While keeping Konomi's penis tightly bound, I stroked its pointed tip as if to pamper it.
 
 ;EVCG EV020B3
 #cg イベント ev020b3 背景
 #wipe fade
 
 #voice konb0401
-[Konomi] "Oh! Don't touch that place right now! I can't stop feeling like I've just been orgasmed‾"
+[Konomi] "Ahh! Don't touch me there now! I can't stop feeling like I just came."
 
-"Don't stop? That's funny."
+"It won't stop? That's weird."
 
-While roaring, I lightly squeeze the rod where the string is entwined.
+As I boast, I lightly stroke the part of my shaft where the string is tangled.
 
 #voice konb0402
-[Konomi] "Ah! Strings are rough. It's painful because I keep ejaculating all the time. I can't stop going."
+[Konomi] "Ahh! The string is rubbing against my penis. It feels like I've been ejaculating for ages and it hurts. I can't stop cumming when my penis is being stroked."
 
-“Is it hard to chew on your dick, then this is it?”
+"Is stroking your penis too hot? Then this is it."
 
-I twitched my finger to the hole just below it, waiting impatiently for stimulation.
+I slid my finger over to the hole just below, which was twitching and waiting for stimulation.
 
 #voice konb0403
-[Konomi] "Hinyaa‾, there too, ah‾n! I told you earlier that if I just cum with my breasts, you'd remove the straps‾"
+[Konomi] "Hinyaaah, there too, ahhh! You said earlier that you'd take off the string if I came just from your boobs."
 
-"I just asked if I could take it off."
+"I was just wondering if I could take it off for you."
 
 ;EVCG EV020B2
 #cg イベント ev020b2 背景
 #wipe fade
 
 #voice konb0404
-[Konomi] "Well then, it can't be helped‾ Hauuuuuuuuuuuuuuuuun‾"
+[Konomi] "I see, well, I guess there's no other way, aaaaahhhh, ok uuuuuuummm."
 
-…… So, is it okay?
+…So, is that okay?
 
-While slowly stretching out the wrinkles, massage the surrounding area and insert your fingers into the center.
+Slowly smoothing out the neat wrinkles, he thoroughly massages the surrounding area before inserting his fingers into the center.
 
 ;EVCG EV020B3
 #cg イベント ev020b3 背景
 #wipe fade
 
 #voice konb0405
-[Konomi] "I'm going to go in‾‾, Konomi's butt, who's always alive‾ Human-kun's fingers are going in‾"
+[Konomi] "It's coming innnnn, a human's finger is going innnnn's ass while Konomi is still cumming."
 
-Konomi's rectum, which has just reached a climax without ejaculation, is completely hot.
+Konomi's rectum, having just experienced a non-ejaculatory orgasm, is completely hot and ready.
 
 #voice konb0406
-[Konomi] "Yaan, when I muzzle, even the semen that came out just now is pushed, and I'm going crazy."
+[Konomi] "Oh no, if you push it in, it will push in the semen that just came out, and my penis will go crazy."
 
-"Hm‾? Where are you going to be pushed?"
+"Hmm? Where do you mean being pushed?"
 
-I bend the finger I put inside and directly stimulate the prostate that has completely hardened.
+Bend the finger inside and directly stimulate the prostate, which has already hardened.
 
 #voice konb0407
-[Konomi] "Haaaaaaaaaaaaaaaaa!
+[Konomi] "Aaaah, right there! I'm going to come again!"
 
-"I don't mind if you cum, but I won't let you ejaculate."
+"You can cum if you want. I won't let you cum though."
 
 #voice konb0408
-[Konomi] ``Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo my penis is broken‾”
+[Konomi] "Nooooooo‾ Nooooooo‾ My penis is gonna break!"
 
-"Is Konomi comfortable here?"
+"Does it feel good here Konomi?"
 
-When I persistently stimulated Konomi's pleasant parts, I could feel the ejaculation occurring inside Konomi through my fingertips.
+As I relentlessly stimulated the sensitive spots inside Konomi, I could feel through my fingertips the sound of ejaculation happening inside her.
 
 #voice konb0409
-[Konomi] "Wooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooow' mode's!'
+[Konomi] "I'm cominguuuuuu! I'm cominguuuu! I want to cum! I want to cum!"
 
-“Konomi is already feeling good about himself.”
+"Konomi, it seems like she's the only one enjoying herself."
 
 #voice konb0410
-[Konomi] "Dude‾! Ningen‾n, it feels so good it's painful‾ Hey, let me ejaculate, and there's a lot of white stuff‾!"
+[Konomi] "But geez! Human, it feels so good it hurts, hey, let me ejaculate, lots of white stuff will come out!"
 
-"You can't do it. You have to make me feel good."
+"No. You have to make me feel good too."
 
-When I pulled out my finger, I pierced Konomi with a towering meat stick.
+I pulled out my fingers and penetrated Konomi with my erect cock.
 
 ;SE
 
@@ -730,61 +730,46 @@ When I pulled out my finger, I pierced Konomi with a towering meat stick.
 #wipe fade
 
 #voice konb0411
-[Konomi] "Ah, I've got a dick.
+[Konomi] "Ahh, my penis went in. I'm still cumming and my penis went in."
 
-Konomi continues to tremble even though I'm slowly inserting and removing it.
+Konomi continues to tremble even as he slowly thrusts in and out.
 
 #voice konb0412
-[Konomi] "In the back, it's like I'm being poked, and I'm ejaculating every time. I can't do that.
+[Konomi] "It feels like I'm ejaculating every time I'm thrusted deep inside. Don't suck so hard. I'm cumming too much and my penis is getting weird."
 
-"It would be terrible if this cute penis became strange."
+"It'd be a disaster if this cute little dick got weird."
 
-While inserting and removing it, I grab the glans part of the penis that is still tied up and stroke only the tip.
+As I thrust it in and out, I grab the head of his penis, which is still bound, and stroke just the tip.
 
-Konomi immediately went wild like a fish that had just been washed ashore.
+Konomi instantly began thrashing about like a fish that had just washed up on shore.
 
 ;EVCG EV020C3
 #cg イベント ev020c3 背景
 #wipe fade
 
 #voice konb0413
-[Konomi] "Yeah ah ah ‾!
+[Konomi] "Ahhhhhh! My cock is cumming nonstop! My cock is going crazy! It's cumming!"
 
-Konomi seemed to climax many times, and each time the intestinal wall moved like it was sticking to my meat stick.
+Konomi seemed to reach climax many times, and each time her intestinal walls moved and twisted, as if sucking tightly around my cock.
 
-"Do your best, do your best, if you make me squid, this time, I'll untie the strings."
+"Come on, come on, if you make me cum, I'll untie you this time."
 
 #voice konb0414
-[Konomi] "Ahhhhhhhhhhhhhhhhhhhh!
+[Konomi] "Aaaaahhhh haaaaaahhh! I'm coming, I'm coming, I'm breaking!"
 
-Konomi didn't seem to hear what I was saying, so she just shook her head from side to side and shook her hips as if trying to escape the repeated climaxes.
+Konomi didn't seem to hear what I was saying, and just shook her head from side to side and shook her hips as if trying to escape the repeated orgasms.
 
 #voice konb0415
-[Konomi] "Hagua... Ahhh... I'm going again‾ I'm going to be a dick all over my body‾!"
+[Konomi] "Ahh... Ahh... I'm coming again, my whole body is turning into dick!"
 
-"Ah, wait a minute..."
+"Ah, wait a moment..."
 
-Konomi's erratic movements give an exquisite stimulation to my cock, and it comes to drag me to the climax in a blink of an eye.
+Konomi's erratic movements provided an exquisite stimulation to my cock, bringing me to climax in no time.
 
 #voice konb0416
-[Konomi] "Haaaaaaaaaaaaaaaa!"
+[Konomi] "Aaaaahhhhhh!"
 
-"Kuh..."
-
-;SE
-
-;ホワイトアウト
-
-#cg all clear
-#bg white
-#wipe flash
-
-#cg all clear
-#cg イベント ev020c3 背景
-#bg BG07b_1
-#wipe fade 300
-
-The moment I spit out semen into Konomi, I untied Konomi as promised.
+"Ugh..."
 
 ;SE
 
@@ -799,20 +784,35 @@ The moment I spit out semen into Konomi, I untied Konomi as promised.
 #bg BG07b_1
 #wipe fade 300
 
-Bishaah! Byukururururururu!
+The moment I ejaculated inside Konomi, I untied her as promised.
 
-Suddenly, an unimaginable amount of semen gushed out like a fountain from the young stalk of Konomi.
+;SE
+
+;ホワイトアウト
+
+#cg all clear
+#bg white
+#wipe flash
+
+#cg all clear
+#cg イベント ev020c3 背景
+#bg BG07b_1
+#wipe fade 300
+
+Splash! Splash!
+
+Suddenly, an unimaginable amount of semen spurted out like a fountain from the young stem of the corn plant.
 
 #voice konb0417
-[Konomi] "Hafafu Ahhhhhhhhhhhhhhhhh
+[Konomi] "Aaaaahhhh, I'm cumming, I'm cumming, I'm cumming! I'm cumming as I feel the human's hot semen!"
 
 #voice konb0418
-[Konomi] "The accumulated semen came out all at once‾. It feels so good! It feels so good I feel like I'm going to die!"
+[Konomi] "All the semen that had been building up came out at once. It feels so good! It feels so good I might die!"
 
 #voice konb0419
-[Konomi] "Haa‾, I, I, I can't do it anymore‾"
+[Konomi] "Ahh, I, I, I can't take it anymore."
 
-Spitting thick semen from the young stem, Konomi finally lay down on her side.
+Konomi came to climax, spurting out thick, juicy semen from his young stem, and then lay down exhausted.
 
 ;SMODE 017 STOP
 #endscene
@@ -823,49 +823,49 @@ Spitting thick semen from the young stem, Konomi finally lay down on her side.
 #bg BG07b_1
 #wipe fade
 
-"I'm sorry, did I force you to do this?"
+"Sorry, maybe I made you do too much."
 
-Konomi smiled as I bowed my head, thinking that I had gone too far.
+Konomi smiled brightly as I bowed my head, thinking that I'd gotten carried away and gone too far.
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0420
-[Konomi] "Well, it feels really good to hold back and then ejaculate. I learned it."
+[Konomi] "I see, it feels so good to hold it in and then ejaculate. I've learned that now."
 
-"Well, it felt good. That's good."
+"I see, it felt good. I'm glad then."
 
 ;CHR K01F1A C
 #cg コノミ kon_1_01f1a 中
 #wipe fade
 
 #voice konb0421
-[Konomi] "Yeah, I thought I was going crazy, but it felt really good."
+[Konomi] "Yeah, I thought I was going crazy, but it felt so good."
 
-"Really"
+"I see."
 
 ;CHR K01F1B C
 #cg コノミ kon_1_01f1b 中
 #wipe fade
 
 #voice konb0422
-[Konomi] "Next time, I'll do it to Ningen-kun‾"
+[Konomi] "Next time, I'll do it for you, human."
 
-"Eh!?"
+"Huh!?"
 
 ;CHR K04F C
 #cg コノミ kon_1_04f 中
 #wipe fade
 
 #voice konb0423
-[Konomi] "Because human-kun loves to feel good too, right?"
+[Konomi] "Well, humans love feeling good too, right?"
 
-Konomi smiles with a carefree look.
+Konomi smiles with a carefree look on her face.
 
-"Hahahahahaha..."
+"Ha, hahahaha..."
 
-I made a firm promise to hide the extra strings.
+I made a firm promise to myself to keep any excess string hidden.
 
 ;コノミ好感度+1
 #set f3 f3+1
