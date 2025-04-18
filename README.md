@@ -13,6 +13,17 @@ Download and place patch.xp3 into the same folder as exe file.
 
 Link: [Fuwanovel Forum](https://forums.fuwanovel.net/topic/24935-hinata-no-tsuki-english-translation-recruiting/)  
 
+## How to Translate
+
+1. Edit in mtl-script folder
+2. Reference script folder
+3. Copy into script folder to overwrite after done
+
+## How to generate machine translation
+
+1. Use files from script folder (these have been update patched with 1.01 e.g. added `;face`)
+2. Put mtl files in mtl-script folder
+
 ## Repository Outline
 ### Content Files:
 - image :  UI images
