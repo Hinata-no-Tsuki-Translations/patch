@@ -80,7 +80,7 @@ Tsukiyo shook his head in response to my question.
 #face f_tuk_0_10f2 94 466
 ;TKface
 
-When they removed the cloth from Tsukiyo's head, her hair was found to be a mess.
+When they removed the cloth from Tsukiyo's head, his hair was found to be a mess.
 
 This is probably the result of my struggling to do something about it myself.
 
@@ -91,7 +91,7 @@ This is probably the result of my struggling to do something about it myself.
 
 "There's no need to apologize though."
 
-While I combed her hair with a wry smile, Tsukiyo looked embarrassed and stiffened up.
+While I combed his hair with a wry smile, Tsukiyo looked embarrassed and stiffened up.
 
 "Oh, it's a bit tangled up."
 
@@ -140,7 +140,7 @@ Since it was my second time, I was already quite used to it.
 
 Tsukiyo shook his head lightly, like a horse wagging its tail, as if to test the feeling of being tied up.
 
-Looking at her up close, I suddenly felt the urge to touch her smooth cheek, so I gently stroked it with the knuckle of my index finger.
+Looking at him up close, I suddenly felt the urge to touch his smooth cheek, so I gently stroked it with the knuckle of my index finger.
 
 ;CHR T06F_P C
 #cg ツキヨ tuk_1_06f_p 中
@@ -254,7 +254,7 @@ Tsukiyo nodded sadly, as if painful memories had come back to him.
 #voice tikb0318
 [Tsukiyo] "That's not necessarily a bad thing..."
 
-"If they say that dark elves belong to the darkness, then Tsukiyo's skin color is proof that she is loved by the darkness."
+"If they say that dark elves belong to the darkness, then Tsukiyo's skin color is proof that he is loved by the darkness."
 
 #voice tikb0319
 [Tsukiyo] "Loved by the darkness..."
@@ -305,7 +305,7 @@ Tsukiyo smiled happily at my words.
 #voice tikb0325
 [Tsukiyo] "That's the first time I've been told that. It's amazing to receive a compliment."
 
-"There's nothing strange about it. Tsukiyo isn't dirty. She's beautiful. She's different from Ibara, Konomi, and Hinata, but just because she's different doesn't mean she's inferior."
+"There's nothing strange about it. Tsukiyo isn't dirty. He's beautiful. He's different from Ibara, Konomi, and Hinata, but just because he's different doesn't mean he's inferior."
 
 #voice tikb0326
 [Tsukiyo] "I'm sure Ibara will be angry."
@@ -320,7 +320,7 @@ Tsukiyo smiled happily at my words.
 #voice tikb0328
 [Tsukiyo] "Yes, it is."
 
-"I think this fabric is much better suited to showcasing Tsukiyo's smooth skin than hiding it. It matches her skin tone well."
+"I think this fabric is much better suited to showcasing Tsukiyo's smooth skin than hiding it. It matches his skin tone well."
 
 ;CHR T05F_P C
 #cg ツキヨ tuk_1_05f_p 中
@@ -336,7 +336,7 @@ Tsukiyo smiled happily at my words.
 #voice tikb0330
 [Tsukiyo] "Confidence...?"
 
-"Yes, confidence. Tsukiyo is skillful, and she's by no means ugly. In fact, I think she looks very beautiful from a human perspective."
+"Yes, confidence. Tsukiyo is skillful, and he's by no means ugly. In fact, I think he looks very beautiful from a human perspective."
 
 #voice tikb0331
 [Tsukiyo] "Oh..."
@@ -373,7 +373,7 @@ Tsukiyo took a breath at my words, then slowly nodded happily.
 #voice tikb0335
 [Tsukiyo] "Yes, it is!"
 
-With her hair tied up, Tsukiyo's face looked much brighter than before.
+With his hair tied up, Tsukiyo's face looked much brighter than before.
 
 ;ツキヨ好感度+1
 #set f4 f4+1
