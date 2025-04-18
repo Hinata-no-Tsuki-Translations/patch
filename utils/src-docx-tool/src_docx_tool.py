@@ -42,6 +42,7 @@ def split_docx_to_src(input_filename):
     current_filename = None
     content_lines = []
 
+    # Parse .docx into a mapping of filename -> list of lines
     for para in doc.paragraphs:
         if para.text.endswith('.src') and len(para.text.strip()) > 4:
             if current_filename and content_lines:
@@ -56,7 +57,7 @@ def split_docx_to_src(input_filename):
     if current_filename and content_lines:
         src_files[current_filename] = content_lines
 
-    for filename, new_lines in src_files.items():
+    for filename, docx_lines in src_files.items():
         original_path = script_folder / filename
         if not original_path.exists():
             print(f"Original script not found: {original_path}")
@@ -65,23 +66,23 @@ def split_docx_to_src(input_filename):
         with original_path.open('r', encoding=ENCODING, errors='ignore') as f:
             original_lines = f.readlines()
 
-        replaced_lines = []
-        new_line_iter = iter(new_lines)
-        for line in original_lines:
-            stripped = line.lstrip()
-            if stripped.startswith(';') or stripped.startswith('#'):
-                try:
-                    replacement = next(new_line_iter)
-                    replaced_lines.append(replacement + '\n')
-                except StopIteration:
-                    replaced_lines.append(line)
+        # Merge docx_lines with original_lines:
+        merged_lines = []
+        for i, line in enumerate(docx_lines):
+            if i < len(original_lines):
+                original_line = original_lines[i].rstrip('\n')
+                if original_line.lstrip().startswith((';', '#')):
+                    merged_lines.append(original_line + '\n')
+                else:
+                    merged_lines.append(line + '\n')
             else:
-                replaced_lines.append(line)
+                # if docx has more lines than original
+                merged_lines.append(line + '\n')
 
         with open(filename, 'w', encoding=ENCODING, errors='ignore') as f:
-            f.writelines(replaced_lines)
+            f.writelines(merged_lines)
 
-        print(f"Created {filename} with replaced lines.")
+        print(f"Recreated {filename} with comment lines restored from original.")
 
 def main():
     parser = argparse.ArgumentParser(description="Combine or split .src files and .docx documents.")
