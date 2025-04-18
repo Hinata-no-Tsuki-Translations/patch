@@ -18,7 +18,7 @@
 #voice konb0431
 [Konomi] "Human, are you done fishing?"
 
-When I approached and called out to her, Konomi came out of the water.
+When I approached and called out to him, Konomi came out of the water.
 
 It seems like the water around here is shallow, up to about waist-deep.
 
@@ -28,7 +28,7 @@ There are no particularly dangerous fish, and it makes a great place to play on 
 #cg all clear
 #wipe fade
 
-Shivering like a shaggy animal and dripping with water from her clothes, Konomi approached me, then quickly distanced herself from me.
+Shivering like a shaggy animal and dripping with water from his clothes, Konomi approached me, then quickly distanced himself from me.
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
@@ -48,7 +48,7 @@ Maybe it just smells so bad that I can't tell because my nose has gotten used to
 #voice konb0433
 [Konomi] "The smell of smoke and the smell of blood. You caught a lot of fish, that's great."
 
-Even though she said that, Konomi kept her distance, so I felt a bit awkward, as if she disliked me.
+Even though he said that, Konomi kept his distance, so I felt a bit awkward, as if he disliked me.
 
 "...Don't look so displeased. Humans have to eat to live, so it can't be helped, right?"
 
@@ -139,7 +139,7 @@ A human can even drown in a puddle.
 
 "That's a swimsuit! If I wear clothes, they absorb the water and stick to my body, which is dangerous, so I only wear the bare minimum."
 
-I mean, swimsuits are the custom of people who live in the city, are aristocrats, or are rich, so it's strange that she knows about them.
+I mean, swimsuits are the custom of people who live in the city, are aristocrats, or are rich, so it's strange that he knows about them.
 
 ;CHR K01F2B C
 #cg コノミ kon_1_01f2b 中
@@ -148,7 +148,7 @@ I mean, swimsuits are the custom of people who live in the city, are aristocrats
 #voice konb0442
 [Konomi] "I see, then I made a mistake. But your clothes also have a nasty smell, so why don't you wash them together?"
 
-Konomi waves her hand nonchalantly, without any remorse.
+Konomi waves his hand nonchalantly, without any remorse.
 
 ...I don't know what to say, but I don't even feel like getting angry.
 
@@ -181,7 +181,7 @@ The water dripped with frightening force.
 #voice konb0445
 [Konomi] "I see. I'll keep an eye out for you if I feel like it."
 
-Konomi waded through the shallow waters and came close to me, sniffing as she circled me.
+Konomi waded through the shallow waters and came close to me, sniffing as he circled me.
 
 "So, what do you think?"
 
@@ -219,7 +219,7 @@ I didn't have a runny nose, but I did sniffle.
 
 "You're still going on!"
 
-When he reached out to grab Konomi, she quickly spun away and dodged him.
+When he reached out to grab Konomi, he quickly spun away and dodged him.
 
 ;CHR OFF
 #cg all clear
@@ -239,7 +239,7 @@ As a result, feet stepping on the tatara create huge splashes of water.
 #voice konb0450
 [Konomi] "Ahh! Human, be careful. I'm going to get wet too."
 
-Even though she managed to gracefully avoid even the splashes of water, Konomi nonchalantly protested to me.
+Even though he managed to gracefully avoid even the splashes of water, Konomi nonchalantly protested to me.
 
 "Who do you think got me soaked?"
 

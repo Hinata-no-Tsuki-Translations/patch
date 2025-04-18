@@ -383,7 +383,7 @@ His knee was only a little scraped, but Tsukiyo regained his senses, perhaps due
 #face f_tuk_0_10f4 94 466
 ;TKface
 
-Feeling guilty, Tsukiyo quickly pulls the cloth she had just taken back over her head.
+Feeling guilty, Tsukiyo quickly pulls the cloth he had just taken back over his head.
 
 This is tricky...who should I call out to first?
 
@@ -424,7 +424,7 @@ Perhaps because he was shocked by his injuries, Ibarra is adamant that he was in
 #voice hine0003
 [Hinata] "Awawawa, ahwawawawa!"
 
-As Hinata ran around, the scratches from the thorns quickly returned to her normal, healthy skin.
+As Hinata ran around, the scratches from the thorns quickly returned to his normal, healthy skin.
 
 ;CHR K09F2 R
 #cg コノミ kon_1_09f2 右
@@ -433,7 +433,7 @@ As Hinata ran around, the scratches from the thorns quickly returned to her norm
 #voice kone0013
 [Konomi] "See, it's healed, Ibara? You're okay now."
 
-Konomi pats off the remaining scabs and peers at the thorns as if trying to soothe her.
+Konomi pats off the remaining scabs and peers at the thorns as if trying to soothe him.
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
@@ -471,7 +471,7 @@ When I urged him to apologize, Tsukiyo would probably just glare back at me.
 #voice tuke0011
 [Tsukiyo] "I'm not apologizing! You tried to steal something that belonged to me. I'll never forgive you!"
 
-Tsukiyo keeps glancing at the thorns, as if she is worried until Konomi heals her injury, but as soon as she sees that it is healed, she gets ready for battle.
+Tsukiyo keeps glancing at the thorns, as if he is worried until Konomi heals his injury, but as soon as he sees that it is healed, he gets ready for battle.
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左

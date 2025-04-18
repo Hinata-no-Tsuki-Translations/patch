@@ -51,7 +51,7 @@
 
 With Hinata being the only one coming to the hut, it became very quiet.
 
-Hinata was the noisiest of the bunch, but it seemed she wasn't making as much noise as everyone else.
+Hinata was the noisiest of the bunch, but it seemed he wasn't making as much noise as everyone else.
 
 It felt strange at first, but I got used to this situation after a few days.
 
@@ -133,7 +133,7 @@ I guess the message was delivered so I should go back by myself.
 #voice hinf0066
 [Hinata] "Hey, the human is grinning! Did something good happen?"
 
-"I was so happy! Because Hinata said she wanted to be with me."
+"I was so happy! Because Hinata said he wanted to be with me."
 
 ;CHR H07F_A C
 #cg ヒナタ hin_1_07f_a 中
@@ -151,11 +151,11 @@ I couldn't help but pat Hinata's head.
 #voice hinf0068
 [Hinata] "Ahh! My hair's going to get all messy again, isn't it!? ...Hehe. I love being petted though!"
 
-Even though she was protesting, Hinata was happy too, and the two of them were grinning from ear to ear.
+Even though he was protesting, Hinata was happy too, and the two of them were grinning from ear to ear.
 
 Hinata's open affection for me is a little embarrassing, but it fills my heart with happiness like sweet honey.
 
-Ah, I really don't want to send her back to the elf village.
+Ah, I really don't want to send him back to the elf village.
 
 I wish you'd stay by my side forever.
 ;CHR OFF
@@ -192,7 +192,7 @@ I wish you'd stay by my side forever.
 #voice hinf0071
 [Hinata] "Huh?! Is it poisonous?!"
 
-Hinata hastily covers her mouth, but if poison really is gushing out, it will be too late to cover her mouth now.
+Hinata hastily covers his mouth, but if poison really is gushing out, it will be too late to cover his mouth now.
 
 "There don't seem to be any wild animals around."
 
@@ -296,7 +296,7 @@ It felt a lot more spacious than the last time we came here with five people.
 #voice hinf0081
 [Hinata] "Are you going to get a good rest? I see. Then I'll sit next to you, human!"
 
-Hinata was in a good mood and sat down next to me, leaning her body against me.
+Hinata was in a good mood and sat down next to me, leaning his body against me.
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
@@ -312,7 +312,7 @@ Hinata was in a good mood and sat down next to me, leaning her body against me.
 #voice hinf0083
 [Hinata] "Just a little bit! I can lick it myself!"
 
-Saying this, Hinata stuck her tongue out at her own arm, but unfortunately the wound was in a position she couldn't quite reach.
+Saying this, Hinata stuck his tongue out at his own arm, but unfortunately the wound was in a position he couldn't quite reach.
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
@@ -332,7 +332,7 @@ If it's only this much, I can just lick it. There's no need to stop the bleeding
 #voice hinf0085
 [Hinata] "Ahhh... it tickles! Nyahahahaha"
 
-When I licked the wound, Hinata let out a giggle as if she was tickled.
+When I licked the wound, Hinata let out a giggle as if he was tickled.
 
 "Now that I think about it, when we first met, you said that if you got hurt, you'd lick it to heal yourself."
 
@@ -368,7 +368,7 @@ Hinata seems to be burning with a strange sense of mission.
 #voice hinf0089
 [Hinata] "I was also happy that Ibara, Konomi, and Tsukiyo healed my injuries! There have really been only good things about coming here."
 
-Hinata leaned further in, resting her head against me.
+Hinata leaned further in, resting his head against me.
 
 ;CHR H03F2_A C
 #cg ヒナタ hin_1_03f2_a 中
@@ -390,7 +390,7 @@ I think I understand the pain of being different from others.
 
 "picture……"
 
-Then, Hinata slowly told me about how she lived in the elven world.
+Then, Hinata slowly told me about how he lived in the elven world.
 
 #bgvoice stop
 ;BGMch2 amb009 再生
@@ -418,7 +418,7 @@ Then, Hinata slowly told me about how she lived in the elven world.
 #face f_hin_0_01f1_a 94 466
 
 #voice hinf0094
-[Hinata] "Hinata is half human and half elf, so she was said to be the most pitiful. There were no elves who would talk to her even if she tried."
+[Hinata] "Hinata is half human and half elf, so he was said to be the most pitiful. There were no elves who would talk to him even if he tried."
 
 ;FACE H11F_A
 #face f_hin_0_11f_a 94 466
@@ -446,7 +446,7 @@ Then, Hinata slowly told me about how she lived in the elven world.
 #voice hinf0097
 [Hinata] "Of course, Hinata would much rather be friends!"
 
-Hinata laughed brightly, it was hard to believe she had just talked about how she had been bullied all her life in the elf village.
+Hinata laughed brightly, it was hard to believe he had just talked about how he had been bullied all his life in the elf village.
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
@@ -458,7 +458,7 @@ Hinata laughed brightly, it was hard to believe she had just talked about how sh
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0099
-[Hinata] "The truth is, Hinata also wanted to become friends with everyone. When she came to the human world, her wish was granted!"
+[Hinata] "The truth is, Hinata also wanted to become friends with everyone. When he came to the human world, his wish was granted!"
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
@@ -470,9 +470,9 @@ Listening to Hinata's story, a question began to arise in my mind.
 
 "...um, my father and mother...what happened to my father and mother?"
 
-If her parents were still there, they should have noticed that Hinata was being bullied, but for some reason, she couldn't see their faces.
+If his parents were still there, they should have noticed that Hinata was being bullied, but for some reason, he couldn't see their faces.
 
-However, Hinata just shook her head.
+However, Hinata just shook his head.
 
 #bgm 0 04
 
@@ -488,7 +488,7 @@ If that was the case, it was understandable that he hadn't noticed that Hinata w
 
 Even though I thought that, I was still disgusted by Hinata's father, whom I had never met before.
 
-I can't change the past, but my heart aches at the thought of why I can't help Hinata when she's being bullied.
+I can't change the past, but my heart aches at the thought of why I can't help Hinata when he's being bullied.
 
 "Don't you know what kind of man your father was?"
 ;CHR H02F1_A C
@@ -535,7 +535,7 @@ Or maybe it was so long ago that there are no records left...
 #voice hinf0106
 [Hinata] "What... is that...?"
 
-Hinata blinked as if to say she didn't really understand what he was asking.
+Hinata blinked as if to say he didn't really understand what he was asking.
 
 "It's about how many New Years you've celebrated and stuff like that... you know, I don't know. I don't keep records like that."
 
@@ -549,7 +549,7 @@ Hinata blinked as if to say she didn't really understand what he was asking.
 ;「……やっぱりか」
 ;音声ない場合カット　ココマデ
 
-I thought that if I could find out when she was born, it would give me a clue as to who her father was, but I don't know...
+I thought that if I could find out when he was born, it would give me a clue as to who his father was, but I don't know...
 
 "Has your mother not told you anything about your father?"
 
@@ -573,13 +573,13 @@ It's unclear how elves are born, but judging by the fact that they don't have be
 
 When you think about it, it's probably abnormal to be born from someone in the first place.
 
-On top of that, she was pregnant with a child of a human, a race that the elves despise, so banishment was probably inevitable.
+On top of that, he was pregnant with a child of a human, a race that the elves despise, so banishment was probably inevitable.
 
 And so, Hinata, who was left behind, ended up being bullied...
 
 I felt a sharp, intense pain in my chest.
 
-Why didn't the elf who gave birth to Hinata try to take her with him when he was banished?
+Why didn't the elf who gave birth to Hinata try to take him with him when he was banished?
 
 He must have known that the son he left behind would be shunned by his own people.
 
@@ -599,7 +599,7 @@ He must have known that the son he left behind would be shunned by his own peopl
 #voice hinf0110
 [Hinata] "I don't remember. I wonder if there was a time when it happened?"
 
-Hinata tilted her head as if he was talking about someone who had little to do with her.
+Hinata tilted his head as if he was talking about someone who had little to do with him.
 
 "Don't you miss me?"
 
@@ -617,13 +617,13 @@ Hinata looked confused and asked again, not understanding what he was asking.
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinf0112
-[Hinata] "Are you okay?! I've never met my mother, so I don't think I want her to be by my side."
+[Hinata] "Are you okay?! I've never met my mother, so I don't think I want him to be by my side."
 
 Elves are usually born alone, so there probably isn't much of a parent-child relationship to begin with.
 
 If there are no examples to be envious of, perhaps children will not develop feelings like admiration for their parents.
 
-…If that's the case, then in a way it was only natural that her mother had left Hinata behind…right?
+…If that's the case, then in a way it was only natural that his mother had left Hinata behind…right?
 
 But at least I, as a human, feel resentment towards my mother for leaving Hinata behind.
 
@@ -635,7 +635,7 @@ But at least I, as a human, feel resentment towards my mother for leaving Hinata
 #voice hinf0113
 [Hinata] "Hmm? I don't really get it. Human, why are you asking me that?"
 
-She asked again, sounding a bit confused, and I...
+He asked again, sounding a bit confused, and I...
 
 ;選択肢発生
 #select a b

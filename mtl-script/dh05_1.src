@@ -57,7 +57,7 @@
 #voice hinf0338
 [Hinata] "At least it's not raining!"
 
-Hinata seemed to have regained her usual composure and happily repeated what he said.
+Hinata seemed to have regained his usual composure and happily repeated what he said.
 
 "But how are we going to sleep here? It's an open field. There's nowhere to hide."
 
@@ -71,7 +71,7 @@ Hinata seemed to have regained her usual composure and happily repeated what he 
 #cg all clear
 #wipe fade
 
-Hinata lay down on the grassland, leaning her body forward.
+Hinata lay down on the grassland, leaning his body forward.
 
 ;FACE H07F_A
 #face f_hin_0_07f_a 94 466
@@ -107,9 +107,9 @@ Hinata got up and hugged me.
 #voice hinf0343
 [Hinata] "I'll do my best to find it, Hinata! Hmm hmm ♪ Hmm hmm hmm ♪"
 
-Hinata was happily examining the grass around her.
+Hinata was happily examining the grass around him.
 
-I don't know the difference, but Hinata might have her own criteria for selection.
+I don't know the difference, but Hinata might have his own criteria for selection.
 
 ;CHR H01F2_A C
 #cg ヒナタ hin_1_01f2_a 中
@@ -125,7 +125,7 @@ I don't know the difference, but Hinata might have her own criteria for selectio
 #voice hinf0345
 [Hinata] "That's right! It feels good!"
 
-Hinata's smile had completely returned and she looked happy.
+Hinata's smile had completely returned and he looked happy.
 ;CHR OFF
 #cg all clear
 #wipe fade
@@ -208,7 +208,7 @@ Hinata sighed deeply.
 
 Go away, huh?
 
-Sometimes Hinata would tell me stories about how she was oppressed in the elf village because she was half-elf.
+Sometimes Hinata would tell me stories about how he was oppressed in the elf village because he was half-elf.
 
 The wound is so deep that he probably believes that humans also hate him.
 
@@ -239,7 +239,7 @@ It wasn't Hinata's fault that the mountain hut was set on fire.
 #voice hinf0354
 [Hinata] "Or, Mr. Human, were you just lying about being human and are you actually a half-elf?"
 
-Hinata seemed a little happy when she heard that.
+Hinata seemed a little happy when he heard that.
 
 Oh, I wish that were really the case.
 If that were the case, Hinata wouldn't be alone.
@@ -274,17 +274,17 @@ No matter how much they insult and despise those who are different, they believe
 #face f_hin_0_05f_a 94 466
 
 #voice hinf0356
-[Hinata] "Hinata is disliked because she is from a completely different family, but humans are just like her, so it would be nice if we could get along."
+[Hinata] "Hinata is disliked because he is from a completely different family, but humans are just like him, so it would be nice if we could get along."
 
 "That's true. But I'm good friends with Hinata now, so that's fine."
 
-When I said that, Hinata rolled over towards me with a happy look on her face.
+When I said that, Hinata rolled over towards me with a happy look on his face.
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
 
 #voice hinf0357
-[Hinata] "That's right! Hinata is friends with humans, so she's not lonely anymore! Ehehe..."
+[Hinata] "That's right! Hinata is friends with humans, so he's not lonely anymore! Ehehe..."
 
 ;FACE H01F1_A
 #face f_hin_0_01f1_a 94 466

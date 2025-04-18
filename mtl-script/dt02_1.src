@@ -181,7 +181,7 @@ I didn't have any more words to say to Tsukiyo, who must have been feeling down.
 #cg all clear
 #wipe fade
 
-Hinata suddenly popped her head in between Tsukiyo and me, and we both jumped back in surprise.
+Hinata suddenly popped his head in between Tsukiyo and me, and we both jumped back in surprise.
 
 ;CHR H11F_A R
 #cg ヒナタ hin_1_11f_a 右
@@ -200,7 +200,7 @@ Hinata suddenly popped her head in between Tsukiyo and me, and we both jumped ba
 [Tsukiyo] "You're back...?"
 
 #voice hine0018
-[Hinata] "Huh? Hmm? I'm with Tsukiyo! It's fine if Hinata's gone, I stopped following her halfway through and came back!"
+[Hinata] "Huh? Hmm? I'm with Tsukiyo! It's fine if Hinata's gone, I stopped following him halfway through and came back!"
 
 #voice tuke0044
 [Tsukiyo] "Are you okay...?"
@@ -347,7 +347,7 @@ Hinata and I were having a silly conversation, but Tsukiyo had a troubled look o
 
 Hinata looked a little confused at Tsukiyo's question.
 
-It's rare to see Hinata with such a look on her face.
+It's rare to see Hinata with such a look on his face.
 
 ;CHR T05F_L L
 #cg ツキヨ tuk_1_05f_l 左
@@ -422,9 +422,9 @@ That's why he may have seemed even more excited than usual.
 #wipe fade
 
 #voice hine0031
-[Hinata] "It's fine if Tsukiyo doesn't come back, or if she does. But... if she does come back, I think it would be best to say sorry."
+[Hinata] "It's fine if Tsukiyo doesn't come back, or if he does. But... if he does come back, I think it would be best to say sorry."
 
-Hinata spoke slowly, dot by dot, as if she knew that it wasn't the best idea.
+Hinata spoke slowly, dot by dot, as if he knew that it wasn't the best idea.
 
 I see... Maybe that's how Hinata and the others have lived up until now.
 
@@ -462,7 +462,7 @@ It is not difficult to imagine that for Nanashi, who was "unwanted," this was th
 #voice hine0033
 [Hinata] "Yaw!?"
 
-He yelled, slamming her into the air, making Hinata jump.
+He yelled, slamming him into the air, making Hinata jump.
 
 #voice tuke0059
 [Tsukiyo] "That's none of your business! Why should Tsukiyo have to apologize!?"
@@ -486,10 +486,10 @@ He yelled, slamming her into the air, making Hinata jump.
 #voice tuke0061
 [Tsukiyo] "So I have to apologize?! No way! This cloth is the only one I've had since I was born... Uh, uh..."
 
-Tsukiyo shivered, clutching the cloth tightly around her shoulders.
+Tsukiyo shivered, clutching the cloth tightly around his shoulders.
 
 #voice tuke0062
-[Tsukiyo] "Anyone who tries to take this away is my enemy. I also hate Hinata for telling me to apologize to my enemy, I really hate her!"
+[Tsukiyo] "Anyone who tries to take this away is my enemy. I also hate Hinata for telling me to apologize to my enemy, I really hate him!"
 
 "Tsukiyo..."
 
@@ -531,9 +531,9 @@ Hinata laughed weakly.
 #voice tuke0064
 [Tsukiyo] "I hate it! I hate it!"
 
-Every time she shouts "I hate you," her face contorts as if Tsukiyo is the one being told that.
+Every time he shouts "I hate you," his face contorts as if Tsukiyo is the one being told that.
 
-Hinata seemed to be able to sense that Tsukiyo was hurt, as she tried to smile instead of bursting into tears.
+Hinata seemed to be able to sense that Tsukiyo was hurt, as he tried to smile instead of bursting into tears.
 
 ;CHR H07F_A R
 #cg ヒナタ hin_1_07f_a 右
@@ -548,7 +548,7 @@ Hinata seemed to be able to sense that Tsukiyo was hurt, as she tried to smile i
 
 "Hinata?!"
 
-Hinata had a hurt look on her face, but she still managed to smile and trudged outside.
+Hinata had a hurt look on his face, but he still managed to smile and trudged outside.
 
 ;CHR T02F C
 #cg ツキヨ tuk_1_02f 中
@@ -556,7 +556,7 @@ Hinata had a hurt look on her face, but she still managed to smile and trudged o
 #face f_tuk_0_02f 94 466
 ;TKface
 
-I thought about chasing after her, but I couldn't leave Tsukiyo, who looked like she was about to cry, behind, so I just looked at her with a crying face.
+I thought about chasing after him, but I couldn't leave Tsukiyo, who looked like he was about to cry, behind, so I just looked at him with a crying face.
 
 ;選択肢発生
 #select a b

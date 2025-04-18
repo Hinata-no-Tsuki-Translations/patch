@@ -211,7 +211,7 @@ Well, for now, I'll bake some easy-to-carry snacks to use as a substitute for me
 #voice hinc0005
 [Hinata] "Human! The thing you're baking has gotten so big! It looks like this!"
 
-Hinata puffs out her cheeks, letting us know that the pastries she's baking have gotten bigger.
+Hinata puffs out his cheeks, letting us know that the pastries he's baking have gotten bigger.
 
 ;CHR OFF
 #cg all clear
@@ -219,7 +219,7 @@ Hinata puffs out her cheeks, letting us know that the pastries she's baking have
 
 "Konomi and Ibara... are you bored?"
 
-Konomi was sleeping soundly by herself, while Ibara was constantly fiddling with her jewelry.
+Konomi was sleeping soundly by himself, while Ibara was constantly fiddling with his jewelry.
 
 I get bored of other things quickly, but I never get bored of polishing jewelry.
 
@@ -359,7 +359,7 @@ Only Ibara looked confused as he glanced between Hinata and Tsukiyo.
 #voice tukc5
 [Tsukiyo] "Yes. It's shiny and glossy and beautiful. It's amazing that you were able to make something so beautiful. Hehehe."
 
-Tsukiyo smiled happily as she looked at her hands, and Ibara stared intently at them and Tsukiyo's happy face.
+Tsukiyo smiled happily as he looked at his hands, and Ibara stared intently at them and Tsukiyo's happy face.
 
 "Well then, let's roast the next seeds."
 
@@ -602,11 +602,11 @@ And yet, the problem was that he actually liked sweets and stuff.
 
 "You said that the other day and got an upset stomach..."
 
-In particular, Ibara, as she says, is a noble elf, so perhaps this is because human food doesn't seem to agree with her body.
+In particular, Ibara, as he says, is a noble elf, so perhaps this is because human food doesn't seem to agree with his body.
 
 And yet, he seems to be more of a glutton than the other kids... Is he just a glutton, or does he get stubborn when competing with the other kids?
 
-If I'm not careful, she'll get a stomach ache in no time.
+If I'm not careful, he'll get a stomach ache in no time.
 
 ;CHR OFF
 #cg all clear
@@ -636,7 +636,7 @@ If I'm not careful, she'll get a stomach ache in no time.
 #cg コノミ kon_1_09f2 中
 #wipe fade
 #voice konc0009
-[Konomi] "Well, munch munch... this candy... munch... it seemed like she wanted me to eat it."
+[Konomi] "Well, munch munch... this candy... munch... it seemed like he wanted me to eat it."
 
 ;CHR OFF
 #cg all clear
@@ -656,7 +656,7 @@ If I'm not careful, she'll get a stomach ache in no time.
 #cg ヒナタ hin_1_07f_a 中
 #wipe fade
 #voice hinc0018
-[Hinata] "Hinata is happy when you mess with her!"
+[Hinata] "Hinata is happy when you mess with him!"
 
 ;CHR OFF
 #cg all clear
@@ -676,7 +676,7 @@ If I'm not careful, she'll get a stomach ache in no time.
 #cg all clear
 #wipe fade
 
---Kii.
+--kii.
 
 As we were busy hustling over the sweets, the door suddenly opened without any warning or presence.
 
@@ -843,7 +843,7 @@ His appearance reminded me of the village leader when he was inspecting the live
 
 As expected, the conclusions reached were terrible.
 
-From the fact that she has been ignoring me for a while now, I can surmise that she looks down on me.
+From the fact that he has been ignoring me for a while now, I can surmise that he looks down on me.
 
 Considering Ibara's behavior when they first met, humans, half-elves, and dark elves are probably insignificant to elves.
 
@@ -898,7 +898,7 @@ The older elf looked surprised, as if Ibara's reaction had been unexpected.
 
 Ibara was shocked when Hinata suddenly jumped on him.
 
-Hinata rubbed her cheek and forehead against the thorns like a spoiled cat.
+Hinata rubbed his cheek and forehead against the thorns like a spoiled cat.
 
 #voice hinc0021
 [Hinata] "Ibara said that Hinata and Tsukiyo are friends! I'm so happy!"
@@ -1027,7 +1027,7 @@ Saying that, my older brother left.
 
 "There's no way to call it unnecessary, Konomi."
 
-I couldn't help but scold her, and Konomi tilted her head several times in a perplexed manner.
+I couldn't help but scold him, and Konomi tilted his head several times in a perplexed manner.
 
 ;CHR K06F C
 #cg コノミ kon_1_06f 中
@@ -1105,7 +1105,7 @@ I wonder what everyone is planning to do...
 #voice konc0019
 [Konomi] "I'll go back before the barrier closes. The human world was pretty fun too. Thank you, Ningen-kun."
 
-Konomi seemed to make her decision fairly quickly.
+Konomi seemed to make his decision fairly quickly.
 
 I'm glad you said thank you, but it seems like you're breaking up pretty easily.
 
@@ -1145,7 +1145,7 @@ Ibara was left speechless by Hinata and Tsukiyo's words.
 #voice hinc0027
 [Hinata] "I've been alone for a long time, but now I've made some friends, it's sure to be fun!"
 
-Hinata said, grabbing Tsukiyo's hand, then Konomi's, and then Ibara's hand, only to be glared at as she tried to grab his.
+Hinata said, grabbing Tsukiyo's hand, then Konomi's, and then Ibara's hand, only to be glared at as he tried to grab his.
 
 ;CHR H02F2_A R
 #cg ヒナタ hin_1_02f2_a 右
@@ -1548,7 +1548,7 @@ Ibara came into the hut and clung to me.
 
 "...That's true."
 
-Her hands are shaking as she clings to me. There's no need to force yourself.
+His hands are shaking as he clings to me. There's no need to force yourself.
 
 "Ibara, did you make a promise to the elves?"
 
@@ -1740,7 +1740,7 @@ Looking up at the sky, I see the moon like a thin, clawed tear in a shiny black 
 Ibara puffed out his cheeks in a sulky manner.
 
 #voice ibac0071
-[Ibara] "But, yeah. Hinata was really impressed, so I guess I'd like to show her. It felt good to show her something beautiful."
+[Ibara] "But, yeah. Hinata was really impressed, so I guess I'd like to show him. It felt good to show him something beautiful."
 
 "It's always been a group of four, so it's going to be lonely now when you're alone."
 

@@ -132,7 +132,7 @@ I'm awake, but I'm still a little sleepy.
 #voice ibad0069
 [Ibara] "I didn't come back or anything. I came to bring Konomi back."
 
-Konomi tilted her head as if she didn't understand what Ibara was talking about as he puffed out his chest arrogantly.
+Konomi tilted his head as if he didn't understand what Ibara was talking about as he puffed out his chest arrogantly.
 
 ;CHR K02F1 R
 #cg コノミ kon_1_02f1 右
@@ -317,7 +317,7 @@ Konomi declared to Ibara with a smile but firm determination.
 
 I tried to imagine pinning Izumi down...and shook my head.
 
-Even though she has more beautiful features than a human and a slimmer figure, I can't even imagine her pinning down a man of the same build.
+Even though he has more beautiful features than a human and a slimmer figure, I can't even imagine him pinning down a man of the same build.
 
 "...Please spare me that."
 
@@ -348,7 +348,7 @@ Even though she has more beautiful features than a human and a slimmer figure, I
 
 "There's no need to feel sorry for me."
 
-…If she knew, she probably wouldn't say it was a shame. It would be troublesome if people were interested.
+…If he knew, he probably wouldn't say it was a shame. It would be troublesome if people were interested.
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左
@@ -489,7 +489,7 @@ Ibara stomps his feet in anger at Konomi's lazy response.
 
 This is pretty angry.
 
-Despite this, Konomi remained nonchalant, as if she didn't care one bit about Ibara's anger.
+Despite this, Konomi remained nonchalant, as if he didn't care one bit about Ibara's anger.
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
@@ -533,7 +533,7 @@ Despite this, Konomi remained nonchalant, as if she didn't care one bit about Ib
 #cg all clear
 #wipe fade
 
-Konomi hung from my arm and rubbed her cheek against mine.
+Konomi hung from my arm and rubbed his cheek against mine.
 
 Finally, Ibara's brows rose sharply and his expression became one of rage.
 
@@ -585,7 +585,7 @@ Perhaps he is the least elf-like of all, and most human.
 #voice kond0197
 [Konomi] "What did I say? Did I say something wrong?"
 
-Konomi tilted her head to the side with a puzzled look on her face, as if she didn't really understand.
+Konomi tilted his head to the side with a puzzled look on his face, as if he didn't really understand.
 
 ...It's not like Konomi means any harm or anything.
 
@@ -596,7 +596,7 @@ So it just doesn't fit together as well, and it's even worse.
 #wipe fade
 
 #voice kond0198
-[Konomi] "Ibara is weird, isn't she? Even if I disappear, it won't affect her, so why is she mad?"
+[Konomi] "Ibara is weird, isn't he? Even if I disappear, it won't affect him, so why is he mad?"
 
 I wonder if elves think it's weird to have someone get angry for their sake...
 
@@ -611,7 +611,7 @@ I wonder if elves think it's weird to have someone get angry for their sake...
 
 #bgm 0 04
 
-"That's right. Earlier, Konomi asked me if I would be happy if she were doing well, right? If she disappeared, I'd be sad."
+"That's right. Earlier, Konomi asked me if I would be happy if he were doing well, right? If he disappeared, I'd be sad."
 
 #voice kond0200
 [Konomi] "Would you be sad if I disappeared, too, human?"
@@ -662,7 +662,7 @@ Do you understand?
 #voice kond0206
 [Konomi] "Hey, human? Let's do something fun. You promised, right?"
 
-Undeterred, I took her outstretched hand...
+Undeterred, I took his outstretched hand...
 
 ;選択肢発生
 #select a b

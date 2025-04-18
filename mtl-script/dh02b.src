@@ -9,7 +9,7 @@ Those words came out of my mouth.
 #voice hinf0228
 [Hinata] "Are you going to meet your mother?"
 
-Hinata blinked as if she had heard something unexpected.
+Hinata blinked as if he had heard something unexpected.
 
 "Your father may be dead, but your mother is still alive, right?"
 
@@ -33,7 +33,7 @@ If we investigate diligently and follow in their footsteps...
 #voice hinf0230
 [Hinata] "Hey, hey, human. Why are you meeting your mother?"
 
-"Why, because a mother wants to see her child, too."
+"Why, because a mother wants to see his child, too."
 
 ;CHR H05F_A C
 #cg ヒナタ hin_1_05f_a 中
@@ -49,17 +49,17 @@ If we investigate diligently and follow in their footsteps...
 #voice hinf0232
 [Hinata] "You don't need to see me, but I was wondering if you wanted to see me."
 
-It doesn't seem like he hates her or anything like that.
+It doesn't seem like he hates him or anything like that.
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
 #wipe fade
 #voice hinf0233
-[Hinata] "Mommy left you behind, Hinata. I wonder if you want to see her?"
+[Hinata] "Mommy left you behind, Hinata. I wonder if you want to see him?"
 
 "Did I leave it there...?"
 
-I had imagined them being torn apart in tears, but it sounded like that wasn't the case even for her mother.
+I had imagined them being torn apart in tears, but it sounded like that wasn't the case even for his mother.
 
 ;CHR H01F2_A C
 #cg ヒナタ hin_1_01f2_a 中

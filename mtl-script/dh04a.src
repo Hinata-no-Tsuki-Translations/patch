@@ -16,14 +16,14 @@
 "So, you're planning on tearing up the floor and cutting down the pillars in this situation? Of course that's impossible!"
 
 #voice hinf0327
-[Hinata] "You won't know until you try it! Even if Hinata gets injured, it's only half, but she's an elf so she'll be fine!"
+[Hinata] "You won't know until you try it! Even if Hinata gets injured, it's only half, but he's an elf so he'll be fine!"
 
 「Even if you're an elf, it still hurts if you get injured! I don't want to see Hinata in pain!」
 
 #voice hinf0328
 [Hinata] "But it makes my memories of Daddy, Daddy, burn! And I know I love you, Hinata!"
 
-I held Hinata tightly as she tried to shake me off and jump into the fire.
+I held Hinata tightly as he tried to shake me off and jump into the fire.
 
 #voice hinf0329
 [Hinata] "No! Let go, let go! Hurry up or I'll burn!"
@@ -35,7 +35,7 @@ I held Hinata tightly as she tried to shake me off and jump into the fire.
 #voice hinf0330
 [Hinata] "...But, but..."
 
-Hinata limply leaned onto me and shook as she sobbed.
+Hinata limply leaned onto me and shook as he sobbed.
 
 ;ヒナタ好感度+1
 #set f1 f1+1

@@ -89,7 +89,7 @@ Hinata exhaled loudly and took a deep breath.
 #wipe fade
 
 #voice hinb0587
-[Hinata] "Hinata was noisy or anything... hmm? Was she noisy?"
+[Hinata] "Hinata was noisy or anything... hmm? Was he noisy?"
 
 "...Well, I'm glad the orcs didn't find us."
 
@@ -175,7 +175,7 @@ As we entered the hut, the elves came running over to us.
 #voice hinb0591
 [Hinata] "Yeah! It was scary! I was so scared, I was so scared."
 
-Hinata said, squashing her nose and pulling in her cheeks, making a funny face.
+Hinata said, squashing his nose and pulling in his cheeks, making a funny face.
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左
@@ -229,7 +229,7 @@ Hinata's funny face isn't scary at all, but Tsukiyo and Ibara are terrified.
 #voice hinb0593
 [Hinata] "And then, and then, please pass by this close by!"
 
-Hinata uses her whole body to give a vivid explanation.
+Hinata uses his whole body to give a vivid explanation.
 
 Hmm, I wonder if I should be impressed by this incredible power of expression.
 
@@ -314,7 +314,7 @@ Just as I was about to pat myself on the back for relief that no thorns had appe
 #wipe fade
 
 #voice konb0577-01
-[Konomi] "Hinata would've been a nuisance. But she kept making a fuss about wanting to be with the human, and it was a pain."
+[Konomi] "Hinata would've been a nuisance. But he kept making a fuss about wanting to be with the human, and it was a pain."
 
 ;CHR OFF
 #cg all clear
@@ -340,7 +340,7 @@ Just as I was about to pat myself on the back for relief that no thorns had appe
 #voice hinb0597
 [Hinata] "Hinata, you're not getting in the way!? The orcs didn't even find you!?"
 
-"...Well, I did my best to cover her mouth so she wouldn't make a fuss."
+"...Well, I did my best to cover his mouth so he wouldn't make a fuss."
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
@@ -379,7 +379,7 @@ Just as I was about to pat myself on the back for relief that no thorns had appe
 #face f_tuk_0_01f_l 94 466
 
 #voice tikb0632
-[Tsukiyo] "If I had been a good girl, I don't think she would have had to keep my mouth shut."
+[Tsukiyo] "If I had been a good girl, I don't think he would have had to keep my mouth shut."
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
@@ -390,7 +390,7 @@ Just as I was about to pat myself on the back for relief that no thorns had appe
 
 "Well, it would be better if orcs didn't come, and I'd be grateful if they didn't come out at all instead of being on the lookout for them..."
 
-…But maybe Hinata was worried about me in her own way.
+…But maybe Hinata was worried about me in his own way.
 
 For some reason, I felt a warmth in my chest.
 
@@ -461,9 +461,9 @@ So, even though it was too late, I decided to cast a spell on the hut to ward of
 
 Hinata blinked at my words.
 
-"Last night, when Hinata came out and wanted to be with me, it was because she was worried about me, right?"
+"Last night, when Hinata came out and wanted to be with me, it was because he was worried about me, right?"
 
-When I asked her what she had been thinking since yesterday, Hinata laughed.
+When I asked him what he had been thinking since yesterday, Hinata laughed.
 
 ;CHR H08F1_A C
 #cg ヒナタ hin_1_08f1_a 中
@@ -479,7 +479,7 @@ When I asked her what she had been thinking since yesterday, Hinata laughed.
 
 A sharp pain ran through my chest, as if a thorn had pricked it.
 
-Maybe Hinata had been feeling lonely ever since she was in the elf village...
+Maybe Hinata had been feeling lonely ever since he was in the elf village...
 
 ;CHR H11F_A C
 #cg ヒナタ hin_1_11f_a 中
@@ -488,7 +488,7 @@ Maybe Hinata had been feeling lonely ever since she was in the elf village...
 #voice hinb0608
 [Hinata] "Then, I thought it would be terrible if humans died all alone. So, Hinata, let's stay together."
 
-As Hinata said this and laughed, her eyes looked somewhat lonely.
+As Hinata said this and laughed, his eyes looked somewhat lonely.
 
 #voice hinb0609
 [Hinata] "I don't like being alone, it's lonely."

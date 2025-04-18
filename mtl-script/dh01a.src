@@ -1,7 +1,7 @@
 
 "If you're so curious, why don't you try it?"
 
-When I held out the spoon and bowl to him, Ibara's face turned pale and he grabbed Hinata and grabbed her.
+When I held out the spoon and bowl to him, Ibara's face turned pale and he grabbed Hinata and grabbed him.
 
 ;CHR H02F1_A C
 #cg ヒナタ hin_1_02f1_a 中
@@ -36,7 +36,7 @@ In fact, I think it's quite kind of them to offer to share their precious food.
 #cg イバラ iba_1_04f 中
 #wipe fade
 #voice ibaf0031
-[Ibara] "But that's just... humans pretend it's delicious and endure eating it, right!? And then they're planning to make fun of Hinata if she eats it!"
+[Ibara] "But that's just... humans pretend it's delicious and endure eating it, right!? And then they're planning to make fun of Hinata if he eats it!"
 
 ;FACE K01F2B
 #face f_kon_0_01f2b 94 466
@@ -60,7 +60,7 @@ Besides, I thought it might be a bit strange to say that about something I'd alr
 #voice ibaf0032
 [Ibara] "Damn you, human! What a wicked person!"
 
-「What the heck, what a false accusation!? That's a completely false accusation!? I didn't force her to eat it or anything!?」
+「What the heck, what a false accusation!? That's a completely false accusation!? I didn't force him to eat it or anything!?」
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
@@ -116,7 +116,7 @@ Even if I were to say, "Here you go," and bring it to my mouth, I'm sure Ibara w
 #voice hinf0048
 [Hinata] "Huh?! If you hug me that tight it'll hurt!"
 
-Ibara hugged Hinata tightly as if to say that he would protect her.
+Ibara hugged Hinata tightly as if to say that he would protect him.
 
 No, it's actually a pretty heartwarming sight.
 

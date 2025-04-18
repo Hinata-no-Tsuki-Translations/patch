@@ -14,7 +14,7 @@
 
 No matter who recommends it, it seems there will be some lasting consequences.
 
-In that case, it would be best to let Hinata, who had no idea what to do, choose for herself.
+In that case, it would be best to let Hinata, who had no idea what to do, choose for himself.
 
 ;CHR OFF
 #cg all clear
@@ -196,7 +196,7 @@ Hinata looked at Ibara, Konomi, and Tsukiyo in turn, then up at me.
 ;SE se025 小屋内でドタンバタン
 #se 1 se025
 
-Hinata ran around clutching her ears.
+Hinata ran around clutching his ears.
 
 Why do I run around when I try to think?
 
@@ -218,7 +218,7 @@ Hinata panicked, running around faster and then suddenly stopped.
 #voice hinb0529
 [Hinata] "Human, here!"
 
-Hinata shouted as she held up a book with a map on it that she often used when exploring the surrounding area.
+Hinata shouted as he held up a book with a map on it that he often used when exploring the surrounding area.
 
 Lately, I've been adding quite a bit of information that I've learned recently.
 
@@ -366,7 +366,7 @@ Hinata was happily picking all kinds of berries, but every single one of them wa
 #voice hinb0535
 [Hinata] "Eh? Is that so?!"
 
-Hinata immediately dropped the fruit she had picked.
+Hinata immediately dropped the fruit he had picked.
 
 "Ah. The ones I can eat are the purple ones and the red ones. It looks like it will take a little longer for the orange ones to be edible..."
 
@@ -433,7 +433,7 @@ I guess he's sulking because we didn't go to the place he recommended.
 #voice konb0527
 [Konomi] "That's right. Yes, Ibara."
 
-Konomi laughed as she shoved the unripe fruit of the Kurenai flea into Ibara's mouth.
+Konomi laughed as he shoved the unripe fruit of the Kurenai flea into Ibara's mouth.
 
 ;CHR I04F L
 #cg イバラ iba_1_04f 左
@@ -449,7 +449,7 @@ Konomi laughed as she shoved the unripe fruit of the Kurenai flea into Ibara's m
 #voice konb0528
 [Konomi] "You know, unripe fruit tastes awful, right? Ahahahahaha."
 
-Konomi is the one who put something sour in Ibara's mouth, but she laughs about it as if it had nothing to do with her.
+Konomi is the one who put something sour in Ibara's mouth, but he laughs about it as if it had nothing to do with him.
 
 I'm sure it's to explain things to Ibara, but he's doing some pretty horrible things.
 
@@ -527,7 +527,7 @@ I've just recovered from an illness, so that's a good thing.
 
 It is highly poisonous, but its poisonous color makes it easy to tell if it gets on something.
 
-Hinata crushed the Ogre Goroshi with a stone, but it seems she didn't come into contact with the juice.
+Hinata crushed the Ogre Goroshi with a stone, but it seems he didn't come into contact with the juice.
 
 ;CHR H04F1_A C
 #cg ヒナタ hin_1_04f1_a 中
@@ -569,7 +569,7 @@ For the time being, I failed to tell him that I would be back after eating the c
 #voice hinb0543
 [Hinata] "Wow... Humans know so many things!"
 
-Hinata looks like she's having fun, so it's okay.
+Hinata looks like he's having fun, so it's okay.
 
 ;ヒナタ好感度+1
 #set f1 f1+1

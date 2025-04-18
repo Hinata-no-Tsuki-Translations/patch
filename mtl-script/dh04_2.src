@@ -38,7 +38,7 @@ Apparently I myself was harboring a lot of anger about the hut burning that I ha
 #voice konf0023
 [Konomi] "I didn't start the fire, you know?"
 
-Konomi didn't respond to my venting with anger or sadness, but simply brushed it off as she usually did.
+Konomi didn't respond to my venting with anger or sadness, but simply brushed it off as he usually did.
 
 I felt as if I was being criticized by his calmness, so I instinctively looked away.
 
@@ -58,9 +58,9 @@ I felt as if I was being criticized by his calmness, so I instinctively looked a
 #voice konf0025
 [Konomi] "Oh, I see. It's okay. I'm not angry."
 
-"Oh, come on," Konomi said with a nonchalant laugh. The fact that she hadn't blamed me in the first place, let alone forgiven me, made me feel even more guilty.
+"Oh, come on," Konomi said with a nonchalant laugh. The fact that he hadn't blamed me in the first place, let alone forgiven me, made me feel even more guilty.
 
-Konomi also spoke with admiration as she looked up at the burning mountain hut.
+Konomi also spoke with admiration as he looked up at the burning mountain hut.
 
 ;FACE K02F1
 #face f_kon_0_02f1 94 466
@@ -70,13 +70,13 @@ Konomi also spoke with admiration as she looked up at the burning mountain hut.
 
 "human?"
 
-Konomi calls me "human". Since she calls me human, does that mean she saw someone other than me?
+Konomi calls me "human". Since he calls me human, does that mean he saw someone other than me?
 
 I had a terrible feeling, as if the hair on my entire body was standing on end.
 
 "Konomi, did you really... see this hut being set on fire?"
 
-Konomi tilts her head.
+Konomi tilts his head.
 
 ;FACE K05F
 #face f_kon_0_05f 94 466
@@ -102,7 +102,7 @@ Did they come all the way here relying on numbers...?
 
 Although there was nothing to be worried about chronologically, I was overcome with a strange tension, and I felt relieved knowing that Konomi was right in front of me.
 
-The fact that Konomi is here and smiling safely means they didn't catch her.
+The fact that Konomi is here and smiling safely means they didn't catch him.
 
 I do wish they had stopped setting the fire then, but if they had, Konomi would probably have been caught by those guys.
 
@@ -127,7 +127,7 @@ Hinata stared in shock at the burning hut.
 
 "...Let's go, Hinata."
 
-It was too painful for me to see Hinata like that any more, so I took her arm and left the place.
+It was too painful for me to see Hinata like that any more, so I took his arm and left the place.
 
 #bgvoice stop
 ;BGMch2 amb002 再生
@@ -139,7 +139,7 @@ It was too painful for me to see Hinata like that any more, so I took her arm an
 #bg BG04_3
 #wipe fade
 
-Hinata was no longer showing her usual energy and was dragged along by me.
+Hinata was no longer showing his usual energy and was dragged along by me.
 
 ;FACE H03F1_A
 #face f_hin_0_03f1_a 94 466
@@ -147,7 +147,7 @@ Hinata was no longer showing her usual energy and was dragged along by me.
 #voice hinf0308
 [Hinata] "...I wonder if it's still burning now."
 
-She seemed curious about the direction of the hut where it was still bright, but didn't seem to have the courage to look in that direction, so she looked up at me.
+He seemed curious about the direction of the hut where it was still bright, but didn't seem to have the courage to look in that direction, so he looked up at me.
 
 "Well..."
 
@@ -472,11 +472,11 @@ I felt like he was telling me something terribly ominous. But I couldn't help bu
 #cg all clear
 #wipe fade
 
-Hinata accepted that a path had been created, and instead of blaming me, she gave a wry smile.
+Hinata accepted that a path had been created, and instead of blaming me, he gave a wry smile.
 
 "Because of me, the hut..."
 
-While I was shocked, Konomi continued in her usual nonchalant manner.
+While I was shocked, Konomi continued in his usual nonchalant manner.
 
 ;CHR K03F L
 #cg コノミ kon_1_03f 左
@@ -536,13 +536,13 @@ Ibara looked away from me with a slightly painful look on his face and grabbed H
 #voice hinf0310
 [Hinata] "Huh?!"
 
-Hinata looked confused at the sudden introduction, but Ibara continued trying his best to persuade her.
+Hinata looked confused at the sudden introduction, but Ibara continued trying his best to persuade him.
 
 ;CHR I06F C
 #cg イバラ iba_1_06f 中
 #wipe fade
 #voice ibaf0061
-[Ibara] "We were surprised when Hinata ate human food and avoided her, but we're Hinata's friends now. So you can come back."
+[Ibara] "We were surprised when Hinata ate human food and avoided him, but we're Hinata's friends now. So you can come back."
 
 "Thorns..."
 
@@ -727,13 +727,13 @@ Tsukiyo had also been avoiding Hinata for a while, so maybe that was what was bo
 
 Perhaps he didn't even come to say hello before he left on his journey because he was worried about it.
 
-...I see, Tsukiyo has found her own path.
+...I see, Tsukiyo has found his own path.
 
 ;CHR H05F_A L
 #cg ヒナタ hin_1_05f_a 左
 #wipe fade
 #voice hinf0318
-[Hinata] "I see... Then I'll have to ask Tsukiyo. That's right, maybe Hinata should try and find her mother too!"
+[Hinata] "I see... Then I'll have to ask Tsukiyo. That's right, maybe Hinata should try and find his mother too!"
 ;FACE K01F1B
 #face f_kon_0_01f1b 94 466
 
@@ -772,7 +772,7 @@ Perhaps he didn't even come to say hello before he left on his journey because h
 #voice hinf0321
 [Hinata] "Because searching for something was more fun! Let's search!"
 
-Hinata finally broke out into a happy smile as she came up with a new idea for fun.
+Hinata finally broke out into a happy smile as he came up with a new idea for fun.
 
 "...That's true. That might be a good idea."
 
@@ -794,7 +794,7 @@ Hinata finally broke out into a happy smile as she came up with a new idea for f
 #voice hinf0322
 [Hinata] "Right?! Right?! I'm going to look for humans and my mother!"
 
-Although it may seem like she is forcing herself somehow, I find myself relieved that Hinata has returned to her usual form.
+Although it may seem like he is forcing himself somehow, I find myself relieved that Hinata has returned to his usual form.
 
 ;CHR OFF
 #cg all clear
@@ -858,7 +858,7 @@ Whatever I choose, I guess it's fine if you're going to let me decide.
 #voice konf0050
 [Konomi] "Wow, that's terrible."
 
-…Even if I took her and ran away, if something were to happen, the best I could do would be to protect just Hinata. And even then, I wouldn’t be able to protect her unless I tried really hard.
+…Even if I took him and ran away, if something were to happen, the best I could do would be to protect just Hinata. And even then, I wouldn’t be able to protect him unless I tried really hard.
 
 It would certainly be better if Ibara, Konomi and the others returned now.
 
@@ -880,7 +880,7 @@ It would certainly be better if Ibara, Konomi and the others returned now.
 
 Ibara took Konomi away, leaving Hinata behind for now.
 
-Once the thorns had left, Hinata looked up at me with her usual innocent look.
+Once the thorns had left, Hinata looked up at me with his usual innocent look.
 
 ;CHR H01F1_A C
 #cg ヒナタ hin_1_01f1_a 中
@@ -902,7 +902,7 @@ Once the thorns had left, Hinata looked up at me with her usual innocent look.
 #voice hinf0325
 [Hinata] "I'll show you where Hinata sleeps!"
 
-Hinata said this happily, as if she enjoyed the idea of teaching me things.
+Hinata said this happily, as if he enjoyed the idea of teaching me things.
 
 #bgm 0 stop
 #bgvoice stop
