@@ -1006,13 +1006,13 @@ break even.
 
 I got up and opened the door, and there it was, Ibara.
 
-"Thorns..."
+"Ibara..."
 
 ;FACE T06F_L
 #face f_tuk_0_06f_l 94 466
 
 #voice tuke0302
-[Tsukiyo] "It's a thorn!?"
+[Tsukiyo] "It's Ibara!?"
 
 ;CHR I07F C
 #cg イバラ iba_1_07f 中
@@ -1119,7 +1119,7 @@ I was stunned, and Ibarra turned away in a sulk.
 #voice ibae0058
 [Ibara] "I'm not asking you to forgive me, but I wanted to apologize to Tsukiyo, so I left the barrier."
 
-"Thorns..."
+"Ibara..."
 
 ;CHR I11F2 L
 #cg イバラ iba_1_11f2 左

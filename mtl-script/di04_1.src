@@ -95,7 +95,7 @@ Ibara looks happy, but the premonition he had once felt grows stronger and stron
 #cg all clear
 #wipe fade
 
-I hid the thorns in the shade of a tree and peered inside the hut.
+I hid Ibara in the shade of a tree and peered inside the hut.
 
 #bgvoice stop
 ;BGMch2 amb004 再生
@@ -201,7 +201,7 @@ Without giving anyone time to stop him, Ibara pounced on the general store owner
 
 [Villager 1] "Ouch! Ouch! You scratched me you damn brat!"
 
-I hastily pull the thorns away.
+I hastily pulled Ibara away.
 
 ;CHR I04F C
 #cg イバラ iba_1_04f 中
@@ -217,9 +217,9 @@ Ibara held his lyre and made a sound like a cat threatening an enemy.
 
 His already lewd grin takes on a vulgar expression.
 
-Damn, some no-good guy saw the thorns...
+Damn, some no-good guy saw Ibara...
 
-I hastily grabbed the thorns to cover my ears, but it was too late.
+I hastily grabbed Ibara to cover my ears, but it was too late.
 
 ;CHR OFF
 #cg all clear
@@ -373,19 +373,19 @@ Ibara happily embraced the lyre he had just retrieved.
 [Hinata] "No way! But it's pretty!"
 
 #voice konc0034
-[Konomi] "Because that's Thorn's treasure, right?"
+[Konomi] "Because that's Ibara's treasure, right?"
 
 #voice tukc34
-[Tsukiyo] "I understand how important thorns are."
+[Tsukiyo] "I understand how important Ibara is."
 
 #voice ibac0276
 [Ibara] "Eh... T-that's... Hinata, Konomi, Tsukiyo... don't you want something so wonderful?"
 
 #voice hinc0042
-[Hinata] "No matter how wonderful something is, if it's a thorny treasure, then it's a thorny treasure!"
+[Hinata] "No matter how wonderful something is, if it's Ibara's treasure, then it's Ibara's treasure!"
 
 #voice konc0035
-[Konomi] "Humans gave it to you as thorns, right?"
+[Konomi] "Humans gave it to Ibara, right?"
 
 #voice tukc35
 [Tsukiyo] "If Ibara is happy to have it, then everyone is happy."
@@ -615,7 +615,7 @@ Ibara laughed happily with Hinata and the others, then suddenly tilted his head.
 #voice ibac0290
 [Ibara] "About me? I didn't ask you to do anything unnecessary like that!"
 
-"Thorns..."
+"Ibara..."
 
 ;CHR K05F R
 #cg コノミ kon_1_05f 右
@@ -629,7 +629,7 @@ Ibara laughed happily with Hinata and the others, then suddenly tilted his head.
 #wipe fade
 
 #voice ibac0291
-[Ibarra] "What do you mean?"
+[Ibara] "What do you mean?"
 
 Konomi spoke in a leisurely tone, not paying any attention to Ibara's words, who had a frown on his face.
 
@@ -680,7 +680,7 @@ When Ibara gasped, unable to offer a rebuttal, Hinata pressed on.
 #cg ヒナタ hin_1_02f1_a 右
 #wipe fade
 #voice hinc0050
-[Hinata] "Soon you'll be unable to turn back. Are you sure you want to be thorny and not be able to turn back?"
+[Hinata] "Soon you'll be unable to turn back. Are you sure you want to be with Ibara and not be able to turn back?"
 
 ;CHR I01F L
 #cg イバラ iba_1_01f 左

@@ -60,7 +60,7 @@
 
 ...Umm.
 
-"Maybe you've been following the thorns that have come out?"
+"Maybe you've been following Ibara who came out?"
 
 ;CHR K01F1B L
 #cg コノミ kon_1_01f1b 左
@@ -1129,7 +1129,7 @@ Ibara thrust the bag forward.
 #wipe fade
 
 #voice kone0054
-[Konomi] "We came here because we didn't want the thorns to get stolen away."
+[Konomi] "We came here because we didn't want Ibara to get stolen away."
 
 ;FACE H08F1_A
 #face f_hin_0_08f1_a 94 466
