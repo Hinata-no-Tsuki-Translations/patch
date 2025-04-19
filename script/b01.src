@@ -104,7 +104,7 @@ This piece is the perfect size and shape, so it's very easy to carve.
 #wipe fade
 
 #voice hinb0002
-【Hinata】「クサイモノ...?　くっさー?」 ;Woodwork = Saiku, smelly = kusai. Pun.
+【Hinata】「Good burp...?　Something smellyー?」
 
 Pinching his nose, Hinata looks down to try to get a better look at what I'm working on.
 
@@ -205,7 +205,7 @@ Slowly and carefully, I slice away at the wood, carving it into the right shape.
 【Ibara】「Human, what are you doing?」
 
 #voice hinb0008
-【Hinata】「Um, he said he's making something stinky!」 ;same sukai/kusai pun
+【Hinata】「Um, he said he's making something stinky!」 
 
 ;FACE I11F2
 #face f_iba_0_11f2 94 466
@@ -406,16 +406,16 @@ Next to Hinata, who's dancing happily with his new piece of wood, Ibara is quiet
 #wipe fade
 
 #voice konb0005
-【Konomi】「I want to learn toooo〜, making one of Human-kuuun's stinky things seems haaaard〜」 ; same pun
+【Konomi】「I want to learn toooo〜, is making one of Human-kuuun's stinky things haaaard〜」
 
-「It's not smelly, it's woodwork. If you want to make something, just pick a simple design, that way it won't be that hard.」 again kusai;saiku
+「It's not smelly, it's woodwork. If you want to make something, just pick a simple design, that way it won't be that hard.」
 
 ;CHR I02F L
 #cg イバラ iba_1_02f 左
 #wipe fade
 
 #voice ibab0008
-【Ibara】「Even you intend to let him teach you, Konimi!?」
+【Ibara】「Even you intend to let him teach you, Konomi!?」
 
 ;CHR K01F1B R
 #cg コノミ kon_1_01f1b 右
