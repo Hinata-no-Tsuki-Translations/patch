@@ -1,31 +1,38 @@
 # Hinata no Tsuki Translations
 
-### :warning: Status: Dropped see [Annoucement 2022/8](https://github.com/Hinata-no-Tsuki-Translations/patch/discussions/12)
+### 🥳 Status: Released! **[Full Translation Patch v1.0 (https://github.com/Hinata-no-Tsuki-Translations/release/releases/tag/v1.0)](https://github.com/Hinata-no-Tsuki-Translations/release/releases/tag/v1.0)**
 
-## Install
-Download and place patch.xp3 into the same folder as exe file.
+## 🛠️ How to apply patch
+Download and place patch.xp3 into the same folder as the exe file.
 
-| Version | Details |
-|---|---|
-|[v1.0](https://github.com/Hinata-no-Tsuki-Translations/patch/releases/tag/v1.0)    | 26% release |
-|[v2.0-alpha](https://github.com/Hinata-no-Tsuki-Translations/patch/releases/tag/v2.0.0-alpha)   | 26% + some Machine Translation release |
+----
+## 📜 Credits: 
 
+| | | |
+|-|-|-|
+| Yuu | Translator, Coder | |
+| Google Translate | Machine Translator | |
 
-Link: [Fuwanovel Forum](https://forums.fuwanovel.net/topic/24935-hinata-no-tsuki-english-translation-recruiting/)  
+**Thank you for your support**: JR, Akyn, MockCat 
 
-## How to Translate
+🙌 **Special thanks to:** MoeAnon
+
+----
+## 💡 Developer Guide
+
+### How to Translate
 
 1. Edit in mtl-script folder
 2. Reference script folder
 3. Copy into script folder to overwrite after done
 
-## How to generate machine translation
+### How to generate machine translation
 
 1. Use files from script folder (these have been update patched with 1.01 e.g. added `;face`)
 2. Put mtl files in mtl-script folder
 
-## Repository Outline
-### Content Files:
+### Repository Outline
+#### Content Files:
 - image :  UI images
 - mtl-script : machine translated scripts (to edit and move to script)
 - original-script: japanese scripts before offical update patched
@@ -37,7 +44,3 @@ Link: [Fuwanovel Forum](https://forums.fuwanovel.net/topic/24935-hinata-no-tsuki
 - utils: code snippets to do what I require. With documentation in their respective folders. 
 - official-patch.xp3 : the official patch provided by ko-eda
 
-## Changes: 
-- UI images translated
-- Code engine to transform text wrap by space and reduce size to fit English
-- Translated some script files, Progress:  https://docs.google.com/spreadsheets/d/1uS0hFCJlG2-uvJeo1y6KJmM-nyaJYi64jgVzjk2bm6M/edit?usp=sharing
