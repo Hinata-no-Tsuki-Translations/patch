@@ -330,11 +330,11 @@ It wants to bloom, so it blooms ...?
 It don't want to bloom, so it doesn't bloom ...?
 
 What, what's that.
-How do they breed in such a state?
+How do they pollinate in such a state?
 
 「...It's a waste to be so taken in by the flowers, I forget the purpose of my trip」
 
-If these flowers are blooming from the power of the elves, even if replanted near my hut,they may not take root... But it should last for a day.
+If these flowers are blooming from the power of the elves, even if replanted near my hut, they may not take root... But it should last for a day.
 
 If I carry it to the village, I can make good money from selling to those who like gardening.
 
@@ -350,9 +350,9 @@ I squat down, and started searching for stumps that could be dug up.
 #bg bg11_1
 #wipe fade
 
-「Un」
+「Hmm」
 
-I thought to take the rare flowers, but considering the care needed for the flowers, I  took only the familiar flowers.
+I thought to take the rare flowers, but considering the care needed for the flowers, I took only the familiar flowers.
 
 Will a tropical flower bloom even if you take it back to the village?
 
@@ -392,7 +392,7 @@ While thinking, I carefully dig several stumps and wrap the roots with ragged cl
 #wipe fade
 
 #voice ibab0078
-【Ibara】「If Human-san needs help, I can help too」
+【Ibara】「If Human needs help, I can help too」
 
 ;CHR K01F1A C
 #cg all clear
